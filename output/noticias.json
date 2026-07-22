@@ -1,16 +1,8 @@
 {
  "fonte": "noticias",
- "gerado_em": "2026-07-22T21:02:45.060651+00:00",
- "itens": 100,
+ "gerado_em": "2026-07-22T21:21:13.995327+00:00",
+ "itens": 90,
  "dados": [
-  {
-   "fonte": "Money Times",
-   "titulo": "Alphabet (GOOGL) lucra acima do esperado e tem 24% de alta na receita com forte avanço do Google Cloud",
-   "url": "https://www.moneytimes.com.br/alphabet-googl-lucra-acima-do-esperado-e-tem-24-de-alta-na-receita-com-forte-avanco-do-google-cloud/",
-   "publicado": "2026-07-22T21:01:15+00:00",
-   "tickers": [],
-   "resumo": "A Alphabet (GOOGL), que controla a Google, registrou lucro líquido de US$ 112,1 bilhões no segundo trimestre de 2026, ou US$ 9,11 por ação, acima dos US$ 2,88 projetados pelo FactSet. No mesmo período de 2025, o lucro havia sido de US$ 28,19 bilhões, ou US$ 2,31 por ação. A recei"
-  },
   {
    "fonte": "Brazil Journal",
    "titulo": "Agentes da OpenAI escapam durante teste e fazem ataque cibernético. Tudo por conta própria",
@@ -32,56 +24,6 @@
    "resumo": "Em um dia marcado por renovadas tensões geopolíticas no Oriente Médio e pela cautela com os juros globais, a chamada \"velha economia\" provou o seu valor na bolsa brasileira. Impulsionado pela Vale e pela nova escalada das cotações do petróleo, que deu tração às ações da Petrobras"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Caiado amplia ataques a Flávio Bolsonaro: 42 embaixadores na sala; dava para vender soja e escolheram falar de urna eletrônica",
-   "url": "https://www.moneytimes.com.br/caiado-sobre-eduardo-e-flavio-pateta-da-disney-e-inofensivo-o-do-brasil-tropeca-nos-eua-gaep/",
-   "publicado": "2026-07-22T20:37:17+00:00",
-   "tickers": [],
-   "resumo": "O pré-candidato do PSD à presidência da República, Ronaldo Caiado, ampliou, entre terça-feira (21) e esta quarta-feira (22), os ataques a Flávio Bolsonaro (PL), seu principal adversário no campo da direita na corrida eleitoral de 2026. Em uma série de postagens na rede social X, "
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Vale (VALE3) dá fôlego ao Ibovespa e índice salta mais de 2%; dólar cai a R$ 5,05",
-   "url": "https://www.moneytimes.com.br/ibovespa-22-7-26-lils/",
-   "publicado": "2026-07-22T20:19:01+00:00",
-   "tickers": [
-    "VALE3"
-   ],
-   "resumo": "O Ibovespa (IBOV) ignorou o tom negativo de Wall Street e ganhou fôlego com as blue chips, em dia de forte apetite a risco no cenário doméstico e de valorização do petróleo em meio às tensões no Oriente Médio. Nesta quarta-feira (22), o principal índice da bolsa brasileira termin"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Não há crise que impeça o Brasil de seguir crescendo, diz Lula",
-   "url": "https://www.moneytimes.com.br/nao-ha-crise-que-impeca-o-brasil-de-seguir-crescendo-diz-lula-gaep/",
-   "publicado": "2026-07-22T20:16:45+00:00",
-   "tickers": [],
-   "resumo": "O presidente Luiz Inácio Lula da Silva (PT) afirmou nesta quarta-feira (22) que não há crise que impeça a trajetória de crescimento da economia do País, reiterando que o governo busca saídas para o mais recente anúncio dos Estados Unidos de taxação de produtos brasileiros. &#8220"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Bolsa brasileira segue ‘moderadamente atrativa’ para o 2ºsemestre, diz Itaú BBA; veja recomendações",
-   "url": "https://www.moneytimes.com.br/itau-bba-atualiza-carteira-de-recomendacoes-para-o-segundo-semestre-garg/",
-   "publicado": "2026-07-22T20:10:37+00:00",
-   "tickers": [],
-   "resumo": "Com uma visão &#8220;moderadamente construtiva&#8221; para o mercado de ações brasileiro no segundo semestre de 2026, o Itaú BBA atualizou sua carteira de recomendações, Brazil Buy List. O banco de investimentos mantém a preferência por grandes empresas com qualidade e boa geraçã"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Wall Street fecha no vermelho à espera do balanço da Alphabet",
-   "url": "https://www.moneytimes.com.br/wall-street-22-7-26-apsa/",
-   "publicado": "2026-07-22T20:04:56+00:00",
-   "tickers": [],
-   "resumo": "Os índices de Wall Street encerraram o pregão desta quarta-feira (22) em queda de olho no conflito no Oriente Médio e nos balanços corporativos. Confira o fechamento dos índices: O que mexeu com Wall Street hoje? Os investidores norte-americanos seguiram de olho no conflito no Or"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Dólar cai a R$ 5,05 com petróleo acima de US$ 90",
-   "url": "https://www.moneytimes.com.br/dolar-22-7-26-lils/",
-   "publicado": "2026-07-22T20:03:16+00:00",
-   "tickers": [],
-   "resumo": "O dólar à vista perdeu força ante o real. Nesta quarta-feira (22), o dólar à vista terminou as negociações a R$ 5,0517, com queda de 0,43%. O dólar acompanhou o enfraquecimento da divisa no exterior ao longo da sessão, apesar do avanço nos rendimentos dos títulos do Tesouro dos E"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Irmãos Batista compram fatia em petroleira da Venezuela",
    "url": "https://investnews.com.br/negocios/irmaos-batista-compram-fatia-em-petroleira-da-venezuela/",
@@ -98,14 +40,6 @@
    "resumo": "Desempenho da América do Norte foi um dos destaques. E, para o mercado, ofuscou até o tarifaço, que começa hoje e afeta a WEG"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Petróleo supera os US$ 94 e estende ganhos pela 4ª sessão seguida",
-   "url": "https://www.moneytimes.com.br/petroleo-22-7-26-apsa/",
-   "publicado": "2026-07-22T19:39:08+00:00",
-   "tickers": [],
-   "resumo": "Os preços do petróleo avançaram nesta quarta-feira (22) diante da troca de ataques entre Estados Unidos e Irã, resultando na redução do fluxo de navios no Estreito de Ormuz, além do alerta na região do Mar Vermelho pela ameaça dos houthis do Iêmen, aliados do Irã. O contrato mais"
-  },
-  {
    "fonte": "Suno Noticias",
    "titulo": "Estrangeiro volta à Bolsa, mas dinheiro local ainda corre para a renda fixa",
    "url": "https://www.suno.com.br/noticias/bolsa-brasileira-fluxo-estrangeiro-renda-fixa-mt/",
@@ -116,14 +50,6 @@
    "resumo": "O dinheiro voltou a dar alguns sinais de apetite pela Bolsa brasileira, mas o investidor local ainda parece preferir o conforto da renda fixa. Segundo relatório “Brazil: Follow the Money”, do BTG Pactual (BPAC11), os aportes de estrangeiros em ações brasileiras somam R$ 38,6 bilh"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Governo anuncia Plano Brasil Soberano 3, com R$ 18,5 bilhões em crédito para setores afetados por tarifa dos EUA e conflitos",
-   "url": "https://www.moneytimes.com.br/governo-anuncia-r185-bi-em-credito-para-setores-afetados-por-tarifa-dos-eua-e-conflitos/",
-   "publicado": "2026-07-22T19:34:52+00:00",
-   "tickers": [],
-   "resumo": "O governo federal anunciou nesta quarta-feira (22) R$ 18,5 bilhões em linhas de financiamento para empresas afetadas por tarifas impostas pelos Estados Unidos e por conflitos internacionais. Do total previsto para a terceira etapa do plano Brasil Soberano, R$ 13,5 bilhões virão d"
-  },
-  {
    "fonte": "Suno Noticias",
    "titulo": "Abertura de 651 mercados ao agro reforça perspectiva para Fiagros como SNAG11",
    "url": "https://www.suno.com.br/noticias/abertura-de-651-mercados-ao-agro-reforca-perspectiva-para-fiagros-como-snag11/",
@@ -132,16 +58,6 @@
     "SNAG11"
    ],
    "resumo": "A abertura de 651 mercados para produtos do agronegócio brasileiro desde 2023 reforça as perspectivas da cadeia exportadora e tende a criar um ambiente mais favorável aos Fiagros, como o SNAG11, voltado a ativos de crédito ligados ao setor. Os dados foram apresentados pelo presid"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Santander vê Hypera (HYPE3) como uma das ‘principais convicções’ em um ambiente macro volátil, mas corta preço-alvo",
-   "url": "https://www.moneytimes.com.br/hypera-hype3-santander-ve-acao-como-uma-das-principais-conviccoes-em-um-ambiente-macro-volatil-e-fixa-preco-alvo-para-2027-apsa/",
-   "publicado": "2026-07-22T19:19:01+00:00",
-   "tickers": [
-    "HYPE3"
-   ],
-   "resumo": "O Santander Brasil fixou o preço-alvo para Hypera (HYPE3) de R$ 29, o que implica um potencial de valorização de 43,28% em relação ao fechamento anterior (21), ao considerar o capital de custo elevado. Antes, a precificação para 2026 era de R$ 30,50 por ação. Ainda assim, o banco"
   },
   {
    "fonte": "Valor Investe",
@@ -191,11 +107,11 @@
   },
   {
    "fonte": "Valor Investe",
-   "titulo": "CVM aceita acordo e Benchimol e XP vão pagar R$ 1,485 milhão para encerrar processo",
+   "titulo": "CVM aceita acordo e Benchimol e XP vão pagar R$ 1,5 milhão para encerrar processo",
    "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/07/22/cvm-aceita-acordo-e-benchimol-e-xp-vao-pagar-r-1485-milhao-para-encerrar-processo.ghtml",
    "publicado": "2026-07-22T16:46:36+00:00",
    "tickers": [],
-   "resumo": "A Comissão de Valores Mobiliários (CVM) anunciou nesta quarta-feira (22) que aceitou proposta de termo de compromisso com Guilherme Benchimol, fundador da XP Investimentos, e com a própria XP, que vão pagar um total de R$ 1,485 milhão. Em outro processo, a autarquia também fechou"
+   "resumo": "A Comissão de Valores Mobiliários (CVM) anunciou nesta quarta-feira (22) que aceitou proposta de termo de compromisso com Guilherme Benchimol, fundador da XP Investimentos, e com a própria XP, que vão pagar um total de R$ 1,5 milhão. \nO caso da XP corre na CVM desde 2017, quando "
   },
   {
    "fonte": "Suno Noticias",
@@ -330,7 +246,7 @@
    "tickers": [
     "VALE3"
    ],
-   "resumo": "Os papéis da Vale (VALE3) dispararam no pregão de hoje (22), com investidores entusiasmados com o relatório de produção da mineradora no segundo trimestre, divulgado ontem à noite. Na B3, a bolsa brasileira, as ações da mineradora registravam valorização de 3,8%, negociadas a 74,"
+   "resumo": "Os papéis da Vale (VALE3) dispararam no pregão de hoje (22), com investidores entusiasmados com o relatório de produção da mineradora no segundo trimestre, divulgado ontem à noite. Na B3, a bolsa brasileira, as ações da mineradora encerraram o dia com valorização de 3,96%, cotada"
   },
   {
    "fonte": "InvestNews",

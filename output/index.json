@@ -1,21 +1,21 @@
 {
- "gerado_em": "2026-07-22T21:02:41.118657+00:00",
+ "gerado_em": "2026-07-22T21:21:09.146533+00:00",
  "fontes": {
   "noticias": {
    "arquivo": "noticias.json",
    "status": "ok",
-   "itens": 100
+   "itens": 90
   },
   "eventos_fnet": {
    "arquivo": "eventos.json",
    "status": "erro",
    "itens": 0,
-   "erro": "500 Server Error: Internal Server Error for url: https://fnet.bmfbovespa.com.br/fnet/publico/pesquisarGerenciadorDocumentosDados?d=0&s=0&l=300&o%5B0%5D%5BdataEntrega%5D=desc&tipoFundo=1"
+   "erro": "HTTPSConnectionPool(host='fnet.bmfbovespa.com.br', port=443): Read timed out. (read timeout=40)"
   },
   "fii_pvp": {
    "arquivo": "fii_pvp.json",
    "status": "ok",
-   "itens": 1333
+   "itens": 1339
   },
   "dividendos": {
    "arquivo": "dividendos.json",
