@@ -1,0 +1,26 @@
+{
+ "gerado_em": "2026-07-22T21:02:41.118657+00:00",
+ "fontes": {
+  "noticias": {
+   "arquivo": "noticias.json",
+   "status": "ok",
+   "itens": 100
+  },
+  "eventos_fnet": {
+   "arquivo": "eventos.json",
+   "status": "erro",
+   "itens": 0,
+   "erro": "500 Server Error: Internal Server Error for url: https://fnet.bmfbovespa.com.br/fnet/publico/pesquisarGerenciadorDocumentosDados?d=0&s=0&l=300&o%5B0%5D%5BdataEntrega%5D=desc&tipoFundo=1"
+  },
+  "fii_pvp": {
+   "arquivo": "fii_pvp.json",
+   "status": "ok",
+   "itens": 1333
+  },
+  "dividendos": {
+   "arquivo": "dividendos.json",
+   "status": "ok",
+   "itens": 0
+  }
+ }
+}
