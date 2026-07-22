@@ -1,26 +1,15 @@
 {
- "gerado_em": "2026-07-22T21:21:09.146533+00:00",
+ "gerado_em": "2026-07-22T21:41:02.426332+00:00",
  "fontes": {
   "noticias": {
    "arquivo": "noticias.json",
    "status": "ok",
-   "itens": 90
-  },
-  "eventos_fnet": {
-   "arquivo": "eventos.json",
-   "status": "erro",
-   "itens": 0,
-   "erro": "HTTPSConnectionPool(host='fnet.bmfbovespa.com.br', port=443): Read timed out. (read timeout=40)"
+   "itens": 100
   },
   "fii_pvp": {
    "arquivo": "fii_pvp.json",
    "status": "ok",
    "itens": 1339
-  },
-  "dividendos": {
-   "arquivo": "dividendos.json",
-   "status": "ok",
-   "itens": 0
   }
  }
 }
