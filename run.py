@@ -1,4 +1,4 @@
-"""Coletor B3 - versao de arquivo unico."""
+"""Coletor B3 - arquivo unico v2."""
 from __future__ import annotations
 import re
 import os
@@ -100,9 +100,16 @@ class FNETFatosRelevantes(Source):
     output = "eventos.json"
 
     def collect(self):
-        params = {"d": 0, "s": 0, "l": 300, "o[0][dataEntrega]": "desc", "tipoFundo": 1}
+        params = {
+            "d": 1, "s": 0, "l": 200, "o[0][dataEntrega]": "desc",
+            "idCategoriaDocumento": 0, "idTipoDocumento": 0,
+            "idEspecieDocumento": 0, "situacao": "A", "tipoFundo": 1,
+        }
         r = requests.get(f"{FNET_BASE}/pesquisarGerenciadorDocumentosDados",
-                         params=params, headers={**HEADERS, "Accept": "application/json"}, timeout=40)
+                         params=params,
+                         headers={**HEADERS, "Accept": "application/json",
+                                  "X-Requested-With": "XMLHttpRequest"},
+                         timeout=40)
         r.raise_for_status()
         data = r.json().get("data", [])
         itens = []
@@ -153,6 +160,16 @@ def _num(v):
         return None
 
 
+def _dkey(s):
+    if not s:
+        return ""
+    s = str(s)
+    m = re.match(r"(\d{2})/(\d{2})/(\d{4})", s)
+    if m:
+        return m.group(3) + m.group(2) + m.group(1)
+    return s
+
+
 class CVMFiiPVP(Source):
     name = "fii_pvp"
     output = "fii_pvp.json"
@@ -164,18 +181,61 @@ class CVMFiiPVP(Source):
             raise RuntimeError("nao foi possivel baixar o informe da CVM")
         z = zipfile.ZipFile(io.BytesIO(conteudo))
         reg = {}
+        debug = {}
         for nome in z.namelist():
-            n = nome.lower()
-            if "geral" in n or "ativo_passivo" in n:
-                self._ler_pl(z, nome, reg)
-            if "complemento" in n or "geral" in n:
-                self._ler_cotas(z, nome, reg)
+            linhas = _abrir_csv(z, nome)
+            if not linhas:
+                continue
+            campos = list(linhas[0].keys())
+            debug[nome] = campos
+            col_cnpj = _achar_col(campos, "cnpj")
+            if not col_cnpj:
+                continue
+            col_data = _achar_col(campos, "data", "refer") or _achar_col(campos, "data", "compet")
+            col_nome = (_achar_col(campos, "denomin") or _achar_col(campos, "nome", "fund")
+                        or _achar_col(campos, "nome"))
+            col_vp = (_achar_col(campos, "valor", "patrimon", "cota")
+                      or _achar_col(campos, "patrimon", "cota"))
+            col_pl = None
+            for c in campos:
+                cl = c.lower()
+                if "patrim" in cl and ("liqui" in cl or "líqui" in cl) and "cota" not in cl:
+                    col_pl = c
+                    break
+            col_cotas = (_achar_col(campos, "cotas", "emitid") or _achar_col(campos, "numero", "cota")
+                         or _achar_col(campos, "total", "cota") or _achar_col(campos, "quantidade", "cota"))
+            for ln in linhas:
+                cnpj = ln.get(col_cnpj)
+                if not cnpj:
+                    continue
+                data = ln.get(col_data) if col_data else None
+                a = reg.get(cnpj, {})
+                if col_nome and ln.get(col_nome):
+                    a["nome"] = ln.get(col_nome)
+                mais_novo = (not a.get("data")) or (_dkey(data) >= _dkey(a.get("data")))
+                if mais_novo:
+                    if data:
+                        a["data"] = data
+                    if col_pl:
+                        v = _num(ln.get(col_pl))
+                        if v is not None:
+                            a["patrimonio"] = v
+                    if col_vp:
+                        v = _num(ln.get(col_vp))
+                        if v is not None:
+                            a["vp_direto"] = v
+                    if col_cotas:
+                        v = _num(ln.get(col_cotas))
+                        if v:
+                            a["cotas"] = v
+                reg[cnpj] = a
+        escrever_json(os.path.join(OUTPUT_DIR, "cvm_colunas.json"), debug)
         saida = []
-        for cnpj, ref in reg.items():
-            pl, cotas = ref.get("patrimonio"), ref.get("cotas")
-            vp = (pl / cotas) if (pl and cotas) else None
+        for cnpj, a in reg.items():
+            pl, cotas, vpd = a.get("patrimonio"), a.get("cotas"), a.get("vp_direto")
+            vp = vpd if (vpd and vpd > 0) else ((pl / cotas) if (pl and cotas) else None)
             saida.append({
-                "cnpj": cnpj, "fundo": ref.get("nome"), "data_ref": ref.get("data"),
+                "cnpj": cnpj, "fundo": a.get("nome"), "data_ref": a.get("data"),
                 "patrimonio_liquido": pl, "num_cotas": cotas,
                 "vp_cota": round(vp, 4) if vp else None,
             })
@@ -186,50 +246,6 @@ class CVMFiiPVP(Source):
         if r.status_code == 200 and r.content[:2] == b"PK":
             return r.content
         return None
-
-    def _ler_pl(self, z, nome, reg):
-        linhas = _abrir_csv(z, nome)
-        if not linhas:
-            return
-        campos = linhas[0].keys()
-        col_cnpj = _achar_col(campos, "cnpj")
-        col_data = _achar_col(campos, "data", "refer") or _achar_col(campos, "data", "compet")
-        col_nome = _achar_col(campos, "denomin") or _achar_col(campos, "nome")
-        col_pl = _achar_col(campos, "patrim", "liqui")
-        if not (col_cnpj and col_pl):
-            return
-        for ln in linhas:
-            cnpj = ln.get(col_cnpj)
-            pl = _num(ln.get(col_pl))
-            data = ln.get(col_data) if col_data else None
-            if not cnpj or pl is None:
-                continue
-            atual = reg.get(cnpj, {})
-            if not atual.get("data") or (data or "") >= atual["data"]:
-                atual["data"] = data or atual.get("data")
-                atual["patrimonio"] = pl
-                if col_nome:
-                    atual["nome"] = ln.get(col_nome)
-                reg[cnpj] = atual
-
-    def _ler_cotas(self, z, nome, reg):
-        linhas = _abrir_csv(z, nome)
-        if not linhas:
-            return
-        campos = linhas[0].keys()
-        col_cnpj = _achar_col(campos, "cnpj")
-        col_cotas = (_achar_col(campos, "numero", "cota") or _achar_col(campos, "quantidade", "cota")
-                     or _achar_col(campos, "total", "cota"))
-        if not (col_cnpj and col_cotas):
-            return
-        for ln in linhas:
-            cnpj = ln.get(col_cnpj)
-            cotas = _num(ln.get(col_cotas))
-            if not cnpj or not cotas:
-                continue
-            atual = reg.get(cnpj, {})
-            atual["cotas"] = cotas
-            reg[cnpj] = atual
 
 
 class CVMDividendos(Source):
