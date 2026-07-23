@@ -4,19 +4,369 @@
  "dados": [
   {
    "fonte": "Money Times",
-   "titulo": "PT aciona TSE contra Flávio Bolsonaro sobre urnas eletrônicas",
-   "url": "https://www.moneytimes.com.br/pt-aciona-tse-contra-flavio-bolsonaro-sobre-urnas-eletronicas-fets/",
-   "publicado": "2026-07-23T07:27:00+00:00",
-   "tickers": [],
-   "resumo": "A Federação Brasil da Esperança (Fé Brasil), composta pelo PT, PV e PCdoB, entrou nesta quarta-feira (22) com uma representação no Tribunal Superior Eleitoral (TSE) contra o senador Flávio Bolsonaro (PL-RJ) pela divulgação de informação falsa sobre as urnas eletrônicas. A ação fo"
+   "titulo": "JBS (JBSS32): Bradesco BBI derruba preço-alvo e vê pouco espaço para revisões positivas no setor de proteínas",
+   "url": "https://www.moneytimes.com.br/jbs-jbss32-bradesco-bbi-derruba-preco-alvo-e-ve-pouco-espaco-para-revisoes-positivas-no-setor-de-proteinas-pads/",
+   "publicado": "2026-07-23T15:57:07+00:00",
+   "tickers": [
+    "JBSS32"
+   ],
+   "resumo": "O Bradesco BBI reduziu o preço-alvo para os BDRs da JBS (JBSS32), de R$ 110 para R$ 97, ao atualizar suas estimativas para incorporar margens mais conservadoras entre 2026 e 2027. Apesar do corte, o banco manteve a recomendação de compra e avalia que a companhia segue como a prin"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Petrobras (PETR4) e PRIO (PRIO3) sobem com alta do petróleo após ataque a petroleiros sauditas",
+   "url": "https://www.suno.com.br/noticias/petroleiras-petrobras-prio-petroleo-ataques-sauditas-23072026-go/",
+   "publicado": "2026-07-23T15:45:06+00:00",
+   "tickers": [
+    "PETR4",
+    "PRIO3"
+   ],
+   "resumo": "As ações das petroleiras negociadas na bolsa brasileira, como Petrobras (PETR4) e Prio (PRIO3), estão avançando nesta quinta-feira (23), acompanhando a forte valorização do petróleo no mercado internacional. O movimento ocorre após relatos de ataques a petroleiros ao largo da cos"
   },
   {
    "fonte": "Money Times",
-   "titulo": "Câmara dos Deputados dos EUA aprova projeto de lei de defesa de US$ 1 trilhão",
-   "url": "https://www.moneytimes.com.br/camara-dos-deputados-dos-eua-aprova-projeto-de-lei-de-defesa-de-us1-trilhao-fets/",
-   "publicado": "2026-07-23T07:02:00+00:00",
+   "titulo": "O que está por trás da forte alta das petroleiras na B3",
+   "url": "https://www.moneytimes.com.br/prio-prio3-e-outras-petroleiras-tem-forte-alta-na-b3-lils/",
+   "publicado": "2026-07-23T15:43:47+00:00",
+   "tickers": [
+    "PRIO3"
+   ],
+   "resumo": "As ações das petroleiras assumem a dianteira da ponta positiva do Ibovespa (IBOV) nesta quinta-feira (17), em dia de forte aversão a risco no cenário externo e disparada dos preços do petróleo no mercado internacional para US$ 100 o barril. No início da tarde, as ações Prio (PRIO"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Simpar vende terminais na Bahia por R$ 1,8 bilhão",
+   "url": "https://braziljournal.com/simpar-vende-terminais-na-bahia-por-r-18-bilhao/",
+   "publicado": "2026-07-23T15:39:20+00:00",
    "tickers": [],
-   "resumo": "A Câmara dos Deputados dos Estados Unidos aprovou por uma margem estreita, na noite desta quarta-feira (22), sua versão de um amplo projeto de lei sobre política de defesa, apesar das preocupações dos democratas com seu altíssimo custo, a guerra contra o Irã e uma cláusula que re"
+   "resumo": "A Simpar vendeu dois terminais portuários por um enterprise value de R$ 1,8 bilhão – numa transação elogiada pelo mercado por jogar luz sobre o valor dos ativos de infraestrutura da holding de Fernando Simões e permitir à empresa continuar sua desalavancagem. A ação da Simpar sob"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Cartesia promete pagar dividendos do CACR11 após derrota entre cotistas; cotas caem",
+   "url": "https://valorinveste.globo.com/produtos/fundos-imobiliarios/noticia/2026/07/23/cartesia-promete-pagar-dividendos-do-cacr11-apos-derrota-entre-cotistas-cotas-caem.ghtml",
+   "publicado": "2026-07-23T15:32:57+00:00",
+   "tickers": [
+    "CACR11"
+   ],
+   "resumo": "A gestora Cartesia afirmou que cumprirá a decisão dos cotistas e fará a distribuição dos dividendos do primeiro semestre de 2026 do fundo imobiliário Cartesia Recebíveis Imobiliários (CACR11), após os investidores rejeitarem a proposta de retenção dos recursos para reforçar o cai"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Mercado amplia apostas em alta de juros nos EUA após escalada da tensão no Oriente Médio e disparada do petróleo",
+   "url": "https://www.moneytimes.com.br/mercado-amplia-apostas-em-alta-de-juros-pelo-fed-apos-escalada-no-oriente-medio-e-disparada-do-petroleo-jcav/",
+   "publicado": "2026-07-23T15:27:46+00:00",
+   "tickers": [],
+   "resumo": "As apostas do mercado para os próximos passos do Federal Reserve (Fed) ficaram mais agressivas nos últimos dias. Os investidores passaram a atribuir maior probabilidade de uma alta de juros já na reunião de 29 de julho e reforçaram as expectativas de aperto monetário para setembr"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Más notícias para o Google: União Europeia impõe multa de US$ 1 bilhão por práticas que prejudicam a concorrência",
+   "url": "https://www.moneytimes.com.br/google-e-multado-em-us-1-bilhao-pela-ue-por-praticas-que-prejudicam-a-concorrencia/",
+   "publicado": "2026-07-23T15:25:50+00:00",
+   "tickers": [],
+   "resumo": "A União Europeia (UE) aplicou nesta quinta-feira, 23, uma multa de 890 milhões de euros (cerca de US$ 1 bilhão) ao Google, após afirmar que a gigante de tecnologia violou regras de concorrência digital ao configurar o Google Play e seu mecanismo de busca para direcionar consumido"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "PL aprova apoio a Ciro Gomes após racha entre Flávio e Michelle Bolsonaro",
+   "url": "https://www.moneytimes.com.br/pl-aprova-apoio-a-ciro-gomes-apos-racha-entre-flavio-e-michelle-e-candidato-no-ce-comemo/",
+   "publicado": "2026-07-23T15:21:59+00:00",
+   "tickers": [],
+   "resumo": "O Partido Liberal (PL) oficializou nesta quarta-feira, 22, apoio à candidatura do ex-ministro Ciro Gomes (PSDB) ao governo do Ceará. Em vídeo publicado nas redes sociais, ele afirmou estar &#8220;profundamente honrado&#8221; e disse que a aliança representa um esforço para reunir"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Sem regulamentação do CMN, renegociação de dívidas rurais segue parada nos bancos",
+   "url": "https://www.moneytimes.com.br/sem-regulamentacao-do-cmn-renegociacao-de-dividas-rurais-segue-parada-nos-bancos/",
+   "publicado": "2026-07-23T15:18:55+00:00",
+   "tickers": [],
+   "resumo": "A publicação da Medida Provisória nº 1.376/2026 pelo governo federal, no dia 15 de julho, abriu caminho para a renegociação de dívidas de produtores rurais. Na prática, porém, os acordos ainda não podem ser formalizados porque os bancos aguardam a regulamentação do Conselho Monet"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "ETFs de renda fixa: entenda as diferenças (nada sutis) entre os vários tipos",
+   "url": "https://investnews.com.br/investimentos/etfs-de-renda-fixa-entenda-as-diferencas-nada-sutis-entre-os-varios-tipos/",
+   "publicado": "2026-07-23T15:06:34+00:00",
+   "tickers": [],
+   "resumo": "‘Renda fixa’ é quase um eufemismo. Boa parte deles traz risco – e retorno – de renda variável. Aprenda a caminhar nessa selva"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "TSE mantém limites de gastos das eleições de 2022; campanha à Presidência poderá gastar até R$ 133,4 milhõess",
+   "url": "https://www.moneytimes.com.br/tse-mantem-limites-de-gastos-das-eleicoes-de-2022-campanha-a-presidencia-podera-gastar-ate-r-1334-milhoess/",
+   "publicado": "2026-07-23T15:05:15+00:00",
+   "tickers": [],
+   "resumo": "O Tribunal Superior Eleitoral (TSE) definiu os limites de gastos para as campanhas das eleições de 2026. De acordo com a Portaria nº 449/2026, os tetos permanecem nos mesmos valores adotados no pleito de 2022. Na disputa pela Presidência da República, os candidatos poderão gastar"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Patrimônio parado? Como brasileiros estão usando bens já quitados para ganhar liquidez",
+   "url": "https://www.moneytimes.com.br/patrimonio-parado-como-brasileiros-estao-usando-bens-ja-quitados-para-ganhar-liquidez-lbrdgm071-2/",
+   "publicado": "2026-07-23T15:00:00+00:00",
+   "tickers": [],
+   "resumo": "PAN disponibiliza solução de crédito com juros mais baixos e com até 60 meses para pagar; confira"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Ex-sócios da Naskar são presos em operação que apura fraude de R$ 900 milhões",
+   "url": "https://www.moneytimes.com.br/ex-socios-da-naskar-sao-presos-em-operacao-que-apura-fraude-de-r-900-milhoes/",
+   "publicado": "2026-07-23T14:58:56+00:00",
+   "tickers": [],
+   "resumo": "Três ex-sócios da Naskar Gestão de Ativos foram presos na quarta-feira (22) em São Paulo durante uma operação da Polícia Civil do Distrito Federal (PCDF), que investiga uma suposta fraude financeira que teria causado prejuízo superior a R$ 900 milhões a cerca de 3 mil investidore"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Google revela participação de US$ 94 bilhões na SpaceX após IPO",
+   "url": "https://investnews.com.br/negocios/google-revela-participacao-de-us-94-bilhoes-na-spacex-apos-ipo/",
+   "publicado": "2026-07-23T14:53:22+00:00",
+   "tickers": [],
+   "resumo": "O Google foi um dos primeiros investidores na SpaceX, participação que ajudou a impulsionar o lucro da companhia nos últimos trimestre"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Juros dos EUA sobem ao maior nível em 18 meses e pressionam taxas no Brasil",
+   "url": "https://valorinveste.globo.com/mercados/moedas-e-juros/noticia/2026/07/23/juros-dos-eua-sobem-ao-maior-nivel-em-18-meses-e-pressionam-taxas-no-brasil.ghtml",
+   "publicado": "2026-07-23T14:53:04+00:00",
+   "tickers": [],
+   "resumo": "Os juros futuros operam em forte alta nesta quinta-feira (23), acompanhando o avanço dos rendimentos dos títulos públicos dos Estados Unidos e a disparada do petróleo, que voltou a superar a marca de US$ 100 por barril. \nPor volta de 11h20, o contrato de Depósito Interfinanceiro "
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Trisul (TRIS3) sobe após prévia operacional do 2T26; veja os números",
+   "url": "https://www.suno.com.br/noticias/trisul-tris3-previa-operacional-2t26-vendas-lancamentos-go/",
+   "publicado": "2026-07-23T14:45:06+00:00",
+   "tickers": [
+    "TRIS3"
+   ],
+   "resumo": "As ações da Trisul (TRIS3) operam em alta nesta quinta-feira (23), um dia após a incorporadora divulgar a prévia operacional referente ao segundo trimestre de 2026. No período, a companhia registrou números positivos em vendas e também no lançamento de projetos. Por volta das 11h"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Fundo imobiliário sofre rescisão antecipada do GPA e anuncia impacto por cota; veja o que dizem analistas",
+   "url": "https://www.moneytimes.com.br/fundo-imobiliario-sofre-rescisao-antecipada-do-gpa-e-anuncia-impacto-por-cota-veja-o-que-dizem-analistas-igdl/",
+   "publicado": "2026-07-23T14:42:46+00:00",
+   "tickers": [
+    "BRCO11"
+   ],
+   "resumo": "O fundo imobiliário Bresco Logística (BRCO11) anunciou, nesta quinta-feira (23), que a Companhia Brasileira de Distribuição (GPA) decidiu encerrar, antecipadamente, o contrato de locação de um imóvel em São Paulo (SP). Segundo fato relevante divulgado ao mercado, a rescisão envol"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Voto em branco ou nulo: entenda a diferença e o impacto na eleição",
+   "url": "https://investnews.com.br/economia/voto-em-branco-ou-nulo/",
+   "publicado": "2026-07-23T14:37:43+00:00",
+   "tickers": [],
+   "resumo": "Ambos são inválidos, mas funcionam de forma diferente na urna. Veja o que diz a legislação"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Resultado do VGHF11 avança 17,2% em junho; veja os números do fundo",
+   "url": "https://www.suno.com.br/noticias/vghf11-resultado-junho-rendimentos-carteira/",
+   "publicado": "2026-07-23T14:35:10+00:00",
+   "tickers": [
+    "VGHF11"
+   ],
+   "resumo": "O fundo imobiliário VGHF11 apurou resultado de R$ 12,895 milhões em junho, avanço de 17,2% em relação aos R$ 10,998 milhões de maio. As receitas somaram R$ 14,514 milhões, enquanto as despesas totalizaram R$ 1,619 milhão no período. A distribuição da competência foi de R$ 0,07 po"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Brasil corre para evitar embargo da União Europeia a carnes; US$ 1,8 bilhão em exportações",
+   "url": "https://investnews.com.br/economia/brasil-corre-para-evitar-embargo-da-uniao-europeia-a-carnes-us-18-bilhao-em-exportacoes/",
+   "publicado": "2026-07-23T14:25:59+00:00",
+   "tickers": [],
+   "resumo": "País negocia com o bloco europeu para evitar restrições a embarques de carne bovina, frango, ovos e animais vivos"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Ford produzirá SUVs elétricos com a chinesa Geely em fábrica na Espanha",
+   "url": "https://investnews.com.br/negocios/ford-produzira-suvs-eletricos-com-a-chinesa-geely-em-fabrica-na-espanha/",
+   "publicado": "2026-07-23T14:06:38+00:00",
+   "tickers": [],
+   "resumo": "A Ford e a chinesa Geely fecharam um acordo para criar uma joint venture na fábrica subutilizada da montadora americana na Espanha, com o objetivo de desenvolver carros elétricos em conjunto e levar quatro novos modelos para a unidade. A Ford terá 66,7% da joint venture, enquanto"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Petróleo rompe os US$ 100 e aumenta temor de choque global; entenda o que está acontecendo",
+   "url": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/07/23/petroleo-rompe-os-us-100-e-aumenta-temor-de-choque-global-entenda-o-que-esta-acontecendo.ghtml",
+   "publicado": "2026-07-23T13:57:03+00:00",
+   "tickers": [],
+   "resumo": "Os preços do petróleo disparam nesta quinta-feira (23) após relatos de ataques a navios-tanque na costa da Arábia Saudita e novas ameaças de escalada militar entre Estados Unidos e Irã, aumentando o temor de interrupções no abastecimento global da commodity.\nPor volta de 11h (hor"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Petróleo Brent chega a US$ 100 após ataques a navios sauditas",
+   "url": "https://investnews.com.br/economia/petroleo-brent-chega-a-us-100-apos-ataques-a-navios-sauditas/",
+   "publicado": "2026-07-23T13:44:52+00:00",
+   "tickers": [],
+   "resumo": "Petróleo sobe mais de 6% após houthis afirmarem ter atacado navios-tanque sauditas no Mar Vermelho, aumentando temores sobre o fornecimento global"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "HGLG11: veja quanto R$ 50 mil renderam neste fundo de galpões em um ano",
+   "url": "https://www.suno.com.br/noticias/hglg11-rendimento-50-mil-indicadores-fii/",
+   "publicado": "2026-07-23T13:35:09+00:00",
+   "tickers": [
+    "HGLG11"
+   ],
+   "resumo": "O HGLG11 é um fundo imobiliário de tijolo focado em galpões logísticos. Sua política consiste em comprar ou construir imóveis destinados a operações logísticas e industriais para posterior locação, buscando gerar renda mensal aos cotistas. Constituído em março de 2010, o fundo po"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Rio Paranapanema (GEPA4) paga dividendos nesta quinta-feira; veja detalhes",
+   "url": "https://www.suno.com.br/noticias/a-geracao-paranapanema-gepa4-agenda-dividendos-23072026/",
+   "publicado": "2026-07-23T13:19:34+00:00",
+   "tickers": [
+    "GEPA4"
+   ],
+   "resumo": "Rio Paranapanema (GEPA4) paga dividendos nesta quinta-feira; veja detalhesA Rio Paranapanema (GEPA4) vai pagar dividendos aos seus acionistas nesta quinta-feira (23). Os dividendos da Rio Paranapanema a serem pagos hoje (23/07) representam um total de R$ 1,0497 por ação. Receberã"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "BCE mantém juros em 2,25% e monitora riscos do conflito no Oriente Médio",
+   "url": "https://www.suno.com.br/noticias/bce-mantem-juros-em-225-e-monitora-riscos-inflacionarios-julho26-go/",
+   "publicado": "2026-07-23T12:39:00+00:00",
+   "tickers": [],
+   "resumo": "BCE - Foto: PexelsO Banco Central Europeu (BCE) deixou suas principais taxas de juros inalteradas nesta quinta-feira, 23, enquanto acompanha possíveis efeitos inflacionários do conflito no Oriente Médio, que voltou a pressionar os preços do petróleo. Ao concluir a reunião de polí"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Banco Central Europeu mantém a taxa de juros inalterada em 2,25% ao ano",
+   "url": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/07/23/banco-central-europeu-mantem-a-taxa-de-juros-inalterada-em-225percent-ao-ano.ghtml",
+   "publicado": "2026-07-23T12:36:33+00:00",
+   "tickers": [],
+   "resumo": "O Banco Central Europeu (BCE) manteve a principal taxa de juros da zona do euro inalterada em 2,25% ao ano, após realizar seu primeiro aperto monetário desde 2023 na última reunião, no mês passado. No comunicado da decisão, a autoridade monetária diz que a incerteza no cenário ec"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Nestlé vende metade da divisão de águas e avança em plano de reestruturação",
+   "url": "https://investnews.com.br/negocios/nestle-vende-metade-da-divisao-de-aguas-e-avanca-em-plano-de-reestruturacao/",
+   "publicado": "2026-07-23T12:36:11+00:00",
+   "tickers": [],
+   "resumo": "Venda de participação na unidade de águas ocorre em meio a cortes de custos, redução de marcas e reorganização dos negócios da Nestlé"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "FIIs distribuem dividendos nesta quinta; VVCR11 rende 1,35% no mês",
+   "url": "https://www.suno.com.br/noticias/dividendos-hoje-fundos-pagam-rendimentos/",
+   "publicado": "2026-07-23T12:35:03+00:00",
+   "tickers": [
+    "BROF11",
+    "VVCR11"
+   ],
+   "resumo": "Os fundos imobiliários BROF11 e VVCR11 estão entre os 2 FIIs que anunciam pagamentos nesta quinta-feira. O primeiro distribuirá R$ 0,57 por cota aos investidores, enquanto o segundo pagará R$ 0,13 no mesmo dia, conforme informado pelos administradores. Investidores com posição no"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Petrobras (PETR4) e Vale (VALE3) amortecem queda do Ibovespa em dia de tensão global",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/07/23/ibovespa-e-dolar-hoje-23-de-julho-de-2026.ghtml",
+   "publicado": "2026-07-23T12:04:39+00:00",
+   "tickers": [
+    "PETR4",
+    "VALE3"
+   ],
+   "resumo": "A disparada dos preços do petróleo pelo segundo dia consecutivo e a alta dos rendimentos dos títulos públicos dos Estados Unidos renovam a cautela nos mercados globais nesta quinta-feira (23). Apesar do ambiente de aversão ao risco no exterior, o mercado brasileiro destoa. \nPor v"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Vale decide destituir conselheiro por vazamento de informações",
+   "url": "https://investnews.com.br/negocios/vale-decide-destituir-conselheiro-por-vazamento-de-informacoes/",
+   "publicado": "2026-07-23T11:44:04+00:00",
+   "tickers": [],
+   "resumo": "Marcelo Gasparino foi acusado de divulgar informações confidenciais de reunião do conselho; destituição ainda depende de aprovação em assembleia"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Simpar vende operadora portuária por R$ 1,8 bilhão para grupo global",
+   "url": "https://investnews.com.br/negocios/simpar-vende-portuaria-por-r-18-bilhao-para-grupo-da-ictsi/",
+   "publicado": "2026-07-23T11:25:36+00:00",
+   "tickers": [],
+   "resumo": "Venda da CS Porto Aratu reforça estratégia da Simpar de monetizar ativos de infraestrutura; operação ainda depende de aprovação do Cade"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Próxima fase da IA pode impulsionar criptomoedas, diz gestora",
+   "url": "https://investnews.com.br/investimentos/proxima-fase-da-ia-pode-impulsionar-criptomoedas-diz-gestora/",
+   "publicado": "2026-07-23T11:23:50+00:00",
+   "tickers": [],
+   "resumo": "Segundo a Franklin Templeton, a tese é que a blockchain (a tecnologia por trás das criptos) pode se tornar a base da nova geração de inteligência artificial"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Vale (VALE3), Petrobras (PETR4), Simpar (SIMH3), Trisul (TRIS3) e mais: Veja os destaques das empresas",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/07/23/vale-vale3-petrobras-petr4-simpar-simh3-trisul-tris3-e-mais-veja-os-destaques-das-empresas.ghtml",
+   "publicado": "2026-07-23T11:12:39+00:00",
+   "tickers": [
+    "PETR4",
+    "SIMH3",
+    "TRIS3",
+    "VALE3"
+   ],
+   "resumo": "Vale\nA Vale informou  que seu conselho de administração decidiu destituir o conselheiro Marcelo Gasparino da Silva em razão do vazamento de informações confidenciais relativas à reunião do conselho em 19 de junho passado.\n\nPor se tratar de membro do conselho, a sanção de destitui"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Preocupação do mercado cresce com disparada das taxas dos títulos atrelados à inflação",
+   "url": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/07/23/preocupacao-do-mercado-cresce-com-disparada-das-taxas-dos-titulos-atrelados-a-inflacao.ghtml",
+   "publicado": "2026-07-23T11:06:05+00:00",
+   "tickers": [],
+   "resumo": "É crescente a preocupação de participantes do mercado com a dinâmica negativa que tem tomado conta das NTN-Bs, os títulos públicos atrelados à inflação. As tentativas do Tesouro Nacional de não pressionar adicionalmente o mercado têm tido pouco efeito e, a cada dia, as taxas têm "
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Mega-Sena 3035 sorteia prêmio estimado em R$ 62 milhões hoje; veja como apostar e fazer bolão",
+   "url": "https://valorinveste.globo.com/loterias/noticia/2026/07/23/mega-sena-3035-sorteia-hoje-veja-como-apostar-e-fazer-bolao.ghtml",
+   "publicado": "2026-07-23T10:40:55+00:00",
+   "tickers": [],
+   "resumo": "A Mega-Sena 3035 sorteia um prêmio estimado em R$ 62 milhões nesta quinta-feira (23), a partir das 21h (horário de Brasília), em São Paulo.\nVEJA TAMBÉM: \n- Os números mais sorteados na história Mega-Sena\nAs apostas podem ser feitas até às 20h (horário de Brasília) do dia do sorte"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Petróleo salta pelo segundo dia consecutivo e decisão de juros do BCE atrai atenção",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/07/23/petroleo-salta-pelo-segundo-dia-consecutivo-e-decisao-de-juros-do-bce-atrai-atencao.ghtml",
+   "publicado": "2026-07-23T10:31:31+00:00",
+   "tickers": [],
+   "resumo": "O preço do petróleo disparava pelo segundo dia consecutivo na manhã desta quinta-feira (23), aumentando a aversão a risco dos investidores globais. A cotação da commodity disparava mais de 4%, para perto de US$ 99 o barril, aumentando o impacto na inflação mundial. \nNesse ambient"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Estou cansado das velhas finanças",
+   "url": "https://valorinveste.globo.com/blogs/claudio-de-moraes/coluna/estou-cansado-das-velhas-financas.ghtml",
+   "publicado": "2026-07-23T10:11:34+00:00",
+   "tickers": [],
+   "resumo": "Talvez seja um sinal da idade ou, talvez, apenas o efeito de muitos anos observando, pesquisando e ensinando sobre o sistema financeiro. Mas confesso que estou cansado das velhas finanças. Não das finanças em si. Continuo fascinado pelo papel dos mercados, dos bancos, dos investi"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Conselho da Vale quer destituir Gasparino, acusado de vazamento",
+   "url": "https://braziljournal.com/conselho-da-vale-quer-destituicao-de-gasparino-acusado-de-vazamento/",
+   "publicado": "2026-07-23T09:50:57+00:00",
+   "tickers": [],
+   "resumo": "O conselho de administração da Vale votou pela destituição de um de seus membros, Marcelo Gasparino, acusado de vazamento de informações confidenciais. A decisão, que agora será submetida aos acionistas da mineradora em uma assembleia geral ainda a ser convocada, veio poucas hora"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Engie e outras empresas querem antecipar bilhões ao Governo para manter hidrelétricas",
+   "url": "https://braziljournal.com/engie-e-outras-empresas-querem-antecipar-bilhoes-ao-governo-para-manter-hidreletricas/",
+   "publicado": "2026-07-23T09:50:39+00:00",
+   "tickers": [],
+   "resumo": "Operadores de usinas hidrelétricas, como a Engie e outros grupos, querem oferecer ao Governo pagamentos bilionários para garantir a renovação antecipada por até 30 anos de seus contratos de concessão que vencem no curto e médio prazo. Essa possibilidade entrou no radar das empres"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Como a Airbus vai desafiar a Boeing na disputa pelos maiores jatos do mundo",
+   "url": "https://investnews.com.br/the-wall-street-journal/como-a-airbus-vai-desafiar-a-boeing-na-disputa-pelos-maiores-jatos-do-mundo/",
+   "publicado": "2026-07-23T09:03:00+00:00",
+   "tickers": [],
+   "resumo": "A fabricante europeia de aviões está avaliando uma versão alongada do A350, em concorrência direta com o problemático 777X da Boeing"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Cerveja com proteína: como a Ambev pretende fisgar quem trocou o bar pela academia",
+   "url": "https://investnews.com.br/negocios/cerveja-com-proteina-como-a-ambev-pretende-fisgar-quem-trocou-o-bar-pela-academia/",
+   "publicado": "2026-07-23T09:00:00+00:00",
+   "tickers": [],
+   "resumo": "Com o consumo de cerveja caindo 5% no Brasil, a Ambev lança a Spaten Pro com proteína, menos álcool e menos calorias para chegar a novos públicos"
   },
   {
    "fonte": "Suno Noticias",
@@ -49,14 +399,6 @@
    "resumo": "A matriz elétrica da América Latina e do Caribe manteve-se entre as mais limpas do mundo em abril de 2026. Dados da Organização Latino-Americana de Energia (Olade) apontam que 67% da eletricidade gerada na região veio de fontes renováveis, o que reforça a relevância de ativos lig"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Flávio Bolsonaro recebeu R$ 500 mil de diretor de empresa do esquema do Banco Master",
-   "url": "https://www.moneytimes.com.br/flavio-bolsonaro-recebeu-r-500-mil-de-diretor-de-empresa-do-esquema-do-banco-master-vtra/",
-   "publicado": "2026-07-22T23:00:25+00:00",
-   "tickers": [],
-   "resumo": "O senador e pré-candidato à Presidência, Flávio Bolsonaro (PL), recebeu R$ 500 mil de uma empresa, cujo dono está envolvido no esquema do Banco Master, de Daniel Vorcaro. A relação aparece em uma nota fiscal, emitida em 9 de abril de 2025 pelo escritório de advocacia que leva o n"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Lucro da Tesla, montadora de Elon Musk, soma US$ 1 bi no 2º trimestre, abaixo das projeções",
    "url": "https://valorinveste.globo.com/produtos/investimento-no-exterior/noticia/2026/07/22/lucro-da-tesla-montadora-de-elon-musk-soma-us-1-bi-no-2o-trimestre-abaixo-das-projecoes.ghtml",
@@ -87,94 +429,6 @@
    "publicado": "2026-07-22T22:32:10+00:00",
    "tickers": [],
    "resumo": "Os preços do petróleo voltaram a subir nesta quarta-feira (22) depois que o presidente dos Estados Unidos, Donald Trump, ameaçou intensificar os ataques contra o Irã, enquanto o secretário de Estado americano, Marco Rubio, afirmou que Teerã \"não parece estar levando a sério\" as n"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "CACR11 encolhe quase 12%, AJFI11 salta 9,6%; IFIX fecha em queda de 0,34%",
-   "url": "https://www.suno.com.br/noticias/cacr11-encolhe-quase-12-ajfi11-salta-96-ifix-fecha-em-queda-de-034/",
-   "publicado": "2026-07-22T22:25:07+00:00",
-   "tickers": [
-    "AJFI11",
-    "CACR11"
-   ],
-   "resumo": "O desempenho do índice de fundos imobiliários refletiu um dia de cautela no mercado. O IFIX encerrou o pregão desta quarta-feira (22) em 3.814,78 pontos, queda de 0,34%, o que representa 12,94 pontos abaixo do fechamento anterior. Ao longo da sessão, o indicador permaneceu no cam"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Trump alerta para risco de shutdown nos EUA em setembro e faz apelo por votações no Congresso",
-   "url": "https://www.moneytimes.com.br/trump-alerta-para-risco-de-shutdown-nos-eua-em-setembro-e-faz-apelo-por-votacoes-no-congresso-vtra/",
-   "publicado": "2026-07-22T22:10:42+00:00",
-   "tickers": [],
-   "resumo": "O presidente dos Estados Unidos, Donald Trump, pediu aos congressistas americanos que aprovem projetos que seguem parados nas duas Casas, alertando para o risco de o país entrar em shutdown a partir de setembro. &#8220;Os democratas precisam parar de travar as pautas no Congresso"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Oi (OIBR3): Bilionário despacha mais ações e praticamente zera posição",
-   "url": "https://www.moneytimes.com.br/oi-oibr3-bilionario-despacha-mais-acoes-e-praticamente-zera-posicao/",
-   "publicado": "2026-07-22T22:09:11+00:00",
-   "tickers": [
-    "OIBR3"
-   ],
-   "resumo": "O bilionário Victor Adler voltou a vender ações da Oi (OIBR3). Segundo comunicado ao mercado, o investidor passou a deter 4,96% das ações preferenciais da companhia, ou 78 mil papéis, o que corresponde a apenas 0,02% do capital social da companhia. Como de praxe, o comunicado inf"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Mitre (MTRE3) aprova programa de recompra de até 10% das suas ações em circulação",
-   "url": "https://www.moneytimes.com.br/mitre-mtre3-aprova-programa-de-recompra-de-ate-10-das-suas-acoes-em-circulacao-vtra/",
-   "publicado": "2026-07-22T22:03:45+00:00",
-   "tickers": [
-    "MTRE3"
-   ],
-   "resumo": "A Mitre Realty (MTRE3) informou nesta quarta-feira (22) que seu conselho de administração aprovou um programa de recompra de até 6.306.577 ações ordinárias, equivalente a 10% das ações em circulação (free float) da companhia. Segundo a incorporadora, as ações recompradas poderão "
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Banco do Brasil (BBAS3) não sabe dizer quais serão os impactos de MP bilionária do Governo",
-   "url": "https://www.moneytimes.com.br/banco-do-brasil-bbas3-nao-quais-serao-os-impactos-de-mp-bilionaria-do-governo-rnda/",
-   "publicado": "2026-07-22T21:51:49+00:00",
-   "tickers": [
-    "BBAS3"
-   ],
-   "resumo": "Apesar de classificar como positiva para o setor, o Banco do Brasil (BBAS3) não sabe dizer quais serão os impactos da Medida Provisória 1.376/2026, publicada em 15 de julho, para os indicadores financeiros, patrimoniais e de resultado. Segundo o banco, em comunicado enviado ao me"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "A IBM registrou lucro líquido de US$ 2,17 bilhões no segundo trimestre fiscal de 2026",
-   "url": "https://www.moneytimes.com.br/a-ibm-registrou-lucro-liquido-de-us-217-bilhoes-no-segundo-trimestre-fiscal-de-2026-vtra/",
-   "publicado": "2026-07-22T21:42:56+00:00",
-   "tickers": [],
-   "resumo": "A IBM registrou lucro líquido de US$ 2,17 bilhões no segundo trimestre fiscal de 2026, segundo dados publicados pela empresa nesta quarta-feira (22), ligeiramente abaixo dos US$ 2,19 bilhões no mesmo período no ano passado. Já o lucro ajustado por ação da IBM foi de US$ 2,30, aba"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Iguatemi (IGTI11) atualiza valor por ação de dividendos restantes; pagamento será em 29 de julho",
-   "url": "https://www.moneytimes.com.br/iguatemi-igti11-atualiza-valor-por-acao-de-dividendos-restantes-pagamento-sera-em-29-de-julho-vtra/",
-   "publicado": "2026-07-22T21:41:18+00:00",
-   "tickers": [
-    "IGTI11"
-   ],
-   "resumo": "A Iguatemi (IGTI11) informou nesta quarta-feira (22) a atualização dos valores por ação referentes às parcelas remanescentes da distribuição antecipada de dividendos, em razão da exclusão das ações em tesouraria existentes na data de corte de 15 de julho. Com a atualização, os ac"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Petrobras (PETR4) recebe R$ 1,7 bilhão de nova parcela de subsídio ao diesel; total chega a R$ 6,4 bilhões",
-   "url": "https://www.moneytimes.com.br/petrobras-petr4-recebe-r-17-bilhao-de-nova-parcela-de-subsidio-ao-diesel-total-chega-a-r-64-bilhoes/",
-   "publicado": "2026-07-22T21:38:47+00:00",
-   "tickers": [
-    "PETR4"
-   ],
-   "resumo": "A Petrobras (PETR4) informou nesta quarta-feira (22) que recebeu uma nova parcela do Programa de Subvenção Econômica à comercialização de óleo diesel, no valor de R$ 1,7 bilhão. Segundo a estatal, o montante corresponde ao período de 16 a 31 de maio de 2026. Com o novo repasse, o"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Ibovespa dispara 2,44% com Vale (VALE3) e WEG (WEGE3), apesar do tarifaço",
-   "url": "https://www.suno.com.br/noticias/ibovespa-hoje-22-julho-2026-vale3-wege3-tarifaco-mt/",
-   "publicado": "2026-07-22T21:25:10+00:00",
-   "tickers": [
-    "VALE3",
-    "WEGE3"
-   ],
-   "resumo": "O Ibovespa ignorou a entrada em vigor da tarifa adicional de 25% dos Estados Unidos sobre produtos brasileiros e encerrou esta quarta-feira (22) em forte alta. O principal índice da B3 avançou 2,44%, aos 177.547,56 pontos, impulsionado principalmente pelas ações de Vale (VALE3) e"
   },
   {
    "fonte": "Brazil Journal",
@@ -213,62 +467,12 @@
    "resumo": "Desempenho da América do Norte foi um dos destaques. E, para o mercado, ofuscou até o tarifaço, que começa hoje e afeta a WEG"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "Estrangeiro volta à Bolsa, mas dinheiro local ainda corre para a renda fixa",
-   "url": "https://www.suno.com.br/noticias/bolsa-brasileira-fluxo-estrangeiro-renda-fixa-mt/",
-   "publicado": "2026-07-22T19:35:09+00:00",
-   "tickers": [
-    "BPAC11"
-   ],
-   "resumo": "O dinheiro voltou a dar alguns sinais de apetite pela Bolsa brasileira, mas o investidor local ainda parece preferir o conforto da renda fixa. Segundo relatório “Brazil: Follow the Money”, do BTG Pactual (BPAC11), os aportes de estrangeiros em ações brasileiras somam R$ 38,6 bilh"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Abertura de 651 mercados ao agro reforça perspectiva para Fiagros como SNAG11",
-   "url": "https://www.suno.com.br/noticias/abertura-de-651-mercados-ao-agro-reforca-perspectiva-para-fiagros-como-snag11/",
-   "publicado": "2026-07-22T19:25:08+00:00",
-   "tickers": [
-    "SNAG11"
-   ],
-   "resumo": "A abertura de 651 mercados para produtos do agronegócio brasileiro desde 2023 reforça as perspectivas da cadeia exportadora e tende a criar um ambiente mais favorável aos Fiagros, como o SNAG11, voltado a ativos de crédito ligados ao setor. Os dados foram apresentados pelo presid"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Gravidez após os 40: o que as famosas não contam",
    "url": "https://valorinveste.globo.com/blogs/naiara-bertao/post/2026/07/gravidez-apos-os-40-o-que-as-famosas-nao-contam.ghtml",
    "publicado": "2026-07-22T19:10:13+00:00",
    "tickers": [],
    "resumo": "Sabrina Sato, 45 anos, Gisele Bündchen, 44, e Anne Hathaway, 43, têm algo em comum além da fama: engravidaram depois dos 40. Claudia Raia foi ainda mais longe e teve um filho aos 55. Casos assim ajudam a passar a impressão de que a maternidade tardia é simples. \nNessa faixa etári"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "CACR11 despenca mais de 11% e amplia sequência de perdas em meio a crise",
-   "url": "https://www.suno.com.br/noticias/cacr11-despenca-mais-de-11-e-amplia-sequencia-de-perdas-em-meio-a-crise/",
-   "publicado": "2026-07-22T18:45:06+00:00",
-   "tickers": [
-    "CACR11"
-   ],
-   "resumo": "O fundo imobiliário CACR11 (Cartesia Recebíveis Imobiliários) voltou a registrar forte pressão vendedora nesta quarta-feira (22). Às 15h20, as cotas eram negociadas a R$ 15,84, em baixa de 11,46%, aprofundando a desvalorização que se intensifica desde o início de maio. O moviment"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "WEG (WEGE3) explode após balanço; entenda o que animou a Bolsa",
-   "url": "https://www.suno.com.br/noticias/weg-wege3-acao-explode-balanco-2t26-mt/",
-   "publicado": "2026-07-22T18:35:09+00:00",
-   "tickers": [
-    "WEGE3"
-   ],
-   "resumo": "A WEG (WEGE3) ligou os motores na Bolsa nesta quarta-feira (22). Após divulgar os resultados do segundo trimestre de 2026, a ação subia 3,73%, cotada a R$ 46,47, segundo dados da Suno Analítica. A reação positiva veio mesmo com queda anual no lucro e na receita. O que animou o me"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Nubank (ROXO34) ganha conexão com OpenAI, e BTG vê alta de 46%",
-   "url": "https://www.suno.com.br/noticias/nubank-roxo34-openai-david-velez-btg-mt/",
-   "publicado": "2026-07-22T17:45:03+00:00",
-   "tickers": [
-    "ROXO34"
-   ],
-   "resumo": "A compra de um pequeno banco brasileiro até entrou no radar, mas a novidade mais chamativa para o Nubank (ROXO34) veio de outro lugar: a inteligência artificial. O fundador da fintech, David Vélez, foi nomeado para os conselhos da OpenAI Foundation e da OpenAI Group PBC, moviment"
   },
   {
    "fonte": "InvestNews",
@@ -560,14 +764,6 @@
    "resumo": "O resultado da Mega-Sena 3034 com prêmio de R$ 42 milhões foi divulgado nesta terça-feira (21), em São Paulo, e ninguém acertou as seis dezenas. Com isso, o prêmio acumulou em R$ 62 milhões para o próximo concurso que vai ser realizado na quinta-feira (23).\nOs números sorteados f"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Vale bate recorde de minério, mas é o cobre que engorda a conta",
-   "url": "https://investnews.com.br/negocios/vale-bate-recorde-minerio-cobre/",
-   "publicado": "2026-07-21T22:38:32+00:00",
-   "tickers": [],
-   "resumo": "Produção de ferro é a maior para o período desde 2018; alta de 56% no preço do cobre pesa mais no caixa da mineradora"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Vale (VALE3) produz e vende mais minério de ferro no 2º tri e se beneficia de preços mais altos",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/07/21/vale-vale3-produz-e-vende-mais-minerio-de-ferro-no-2o-tri-e-se-beneficia-de-precos-mais-altos.ghtml",
@@ -584,14 +780,6 @@
    "publicado": "2026-07-21T22:01:36+00:00",
    "tickers": [],
    "resumo": "O próximo leilão de saneamento no País, agendado para 29 de setembro, está sendo visto no mercado como um importante termômetro para medir o apetite dos investidores em meio a um novo momento do setor. O Governo de Rondônia oferecerá a concessão por 35 anos dos serviços de água e"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Com encargos por hora, contrato intermitente cresce no Brasil. Vale para a sua empresa?",
-   "url": "https://investnews.com.br/negocios/contrato-intermitente-vale-para-empresa/",
-   "publicado": "2026-07-21T21:40:53+00:00",
-   "tickers": [],
-   "resumo": "Modelo permite contratar funcionários CLT que trabalham só quando o empregador precisa: veja se é o seu caso como empresário"
   },
   {
    "fonte": "Brazil Journal",
@@ -612,30 +800,6 @@
    "resumo": "Em um ano em que o investidor brasileiro tem encontrado poucos motivos para comemorar na bolsa, a Petrobras vem se consagrando como a boia de salvação do mercado acionário. Se existe um ativo que vem conseguindo se beneficiar da escalada das tensões no Oriente Médio, é a estatal "
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "ETFs de renda fixa pagam de 15% a 25% de IR. Entenda como funciona a tributação",
-   "url": "https://investnews.com.br/investimentos/etf-renda-fixa-guia-tributacao/",
-   "publicado": "2026-07-21T20:21:20+00:00",
-   "tickers": [],
-   "resumo": "Categoria caminha para o 17º mês seguido de captação líquida positiva; a eficiência tributária é um dos atrativos da classe"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Exclusivo WSJ: OpenAI traz David Vélez, do Nubank, e executivo do BNY para o conselho de administração",
-   "url": "https://investnews.com.br/the-wall-street-journal/openai-traz-david-velez-board/",
-   "publicado": "2026-07-21T20:14:41+00:00",
-   "tickers": [],
-   "resumo": "Nomeações buscam reforçar a governança da dona do ChatGPT antes de um possível IPO ainda este ano"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Quem é o eleitor brasileiro? Mulheres, 60+ e votantes no exterior explicam o perfil do eleitorado",
-   "url": "https://investnews.com.br/economia/quem-e-o-eleitor-brasileiro/",
-   "publicado": "2026-07-21T19:39:59+00:00",
-   "tickers": [],
-   "resumo": "Cadastro eleitoral do TSE chega a 158,7 milhões de pessoas e traz o retrato mais completo já registrado do eleitor brasileiro"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Banco do Brasil (BBAS3) dispara com perspectiva de melhora na inadimplência após medida provisória",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/07/21/banco-do-brasil-bbas3-dispara-com-perspectiva-de-melhora-na-inadimplencia-apos-medida-provisoria.ghtml",
@@ -654,52 +818,12 @@
    "resumo": "O presidente-executivo do JPMorgan, Jamie Dimon, afirmou que os mercados financeiros estão subestimando os riscos para a economia global e disse que, nas condições atuais, não compraria nem ações nem títulos de longo prazo do Tesouro (os Treasuries) dos Estados Unidos.\nEm entrevi"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "De Labubu a DeepSeek, nova geração de bilionários da China adota uma tática em comum: a discrição",
-   "url": "https://investnews.com.br/negocios/deepseek-bilionarios-china-jovens/",
-   "publicado": "2026-07-21T19:15:27+00:00",
-   "tickers": [],
-   "resumo": "Ao contrário da geração de Jack Ma, do Alibaba, que pagou o preço da exposição excessiva, os novos bilionários evitam até a imprensa chinesa"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Brasil pode superar os EUA e se tornar o maior exportador agrícola do mundo",
-   "url": "https://investnews.com.br/economia/brasil-pode-superar-os-eua-e-se-tornar-o-maior-exportador-agricola-do-mundo/",
-   "publicado": "2026-07-21T18:05:48+00:00",
-   "tickers": [],
-   "resumo": "Impulsionado por soja, carne bovina e algodão, agronegócio brasileiro se aproxima de ultrapassar os americanos em exportações"
-  },
-  {
    "fonte": "Brazil Journal",
    "titulo": "A sala de cinema não morreu: a AMC está aí pra provar",
    "url": "https://braziljournal.com/a-sala-de-cinema-nao-morreu-a-amc-esta-ai-pra-provar/",
    "publicado": "2026-07-21T17:47:32+00:00",
    "tickers": [],
    "resumo": "A estreia de A Odisseia – o novo filme do premiado diretor inglês Chris Nolan – foi o sucesso de vendas que se esperava, o que puxou as ações das redes de cinema dos EUA ontem num trade “olha, o cinema está vivo”. O papel da AMC subiu 24%; outras redes de cinemas como Cinemark [&"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Lucro do FGTS: Caixa vai pagar R$ 13 bilhões a trabalhadores em 2026. Veja quem tem direito",
-   "url": "https://investnews.com.br/financas/lucro-do-fgts-2026-caixa-quem-tem-direito/",
-   "publicado": "2026-07-21T16:23:34+00:00",
-   "tickers": [],
-   "resumo": "Lucro do FGTS ainda precisa ser aprovado pelo Conselho Curador, que tem reunião marcada para a próxima terça-feira (28)"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Embraer e Saab fecham acordo para montar mais 20 caças Gripen no Brasil",
-   "url": "https://investnews.com.br/negocios/embraer-acordo-saab-gripen/",
-   "publicado": "2026-07-21T16:01:48+00:00",
-   "tickers": [],
-   "resumo": "Acordo amplia a produção da fábrica brasileira e reforça ambição de vender o caça para a América Latina"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Green Card: o que é, quem tem direito e como solicitar",
-   "url": "https://investnews.com.br/financas/green-card-o-que-e-como-solicitar/",
-   "publicado": "2026-07-21T15:15:50+00:00",
-   "tickers": [],
-   "resumo": "Brasileiros com Green Card somam 174,7 mil em dez anos, recorde histórico nos EUA; entenda o documento, custos e como solicitar"
   },
   {
    "fonte": "Valor Investe",
@@ -712,14 +836,6 @@
    "resumo": "Os cotistas do fundo imobiliário Cartesia Recebíveis Imobiliários (CACR11) rejeitaram a proposta da gestora de reter, no mínimo, 95% dos resultados referentes ao primeiro semestre de 2026 para reforçar o caixa do fundo.\nEm reação à decisão, as cotas caíram 5,6% na sessão desta se"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Bolsa de Londres cria pregão de 24 horas para competir com Wall Street e cripto. Veja como vai funcionar",
-   "url": "https://investnews.com.br/investimentos/bolsa-de-londres-cria-pregao-de-24-horas-para-competir-com-wall-street-e-cripto-veja-como-vai-funcionar/",
-   "publicado": "2026-07-21T15:01:10+00:00",
-   "tickers": [],
-   "resumo": "O sistema deve entrar em funcionamento no primeiro semestre de 2027 e poderá abrir caminho para uma negociação de ações praticamente 24 horas por dia no futuro"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "O que esperar do resultado da Weg (WEGE3) no 2º trimestre? Demanda por IA pode ser surpresa positiva",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/07/21/o-que-esperar-do-resultado-da-weg-wege3-no-2o-trimestre-demanda-por-ia-pode-ser-surpresa-positiva.ghtml",
@@ -730,28 +846,12 @@
    "resumo": "Os resultados financeiros da gigante brasileira de motores elétricos, a Weg (WEGE3), serão divulgados nesta quarta-feira (22) e vão dar a largada da temporada de balanços do 2º trimestre. Analistas do J.P. Morgan e BTG Pactual preveem resultados mais fracos na comparação anual, p"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Por que Trump está de olho no Pix, o sistema de pagamentos favorito dos brasileiros",
-   "url": "https://investnews.com.br/the-wall-street-journal/por-que-trump-esta-de-olho-no-pix-o-sistema-de-pagamentos-favorito-dos-brasileiros/",
-   "publicado": "2026-07-21T13:56:27+00:00",
-   "tickers": [],
-   "resumo": "O governo Trump impôs tarifas de 25% sobre produtos brasileiros, citando o sistema de pagamentos Pix e outras supostas práticas comerciais desleais"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Tesouro Direto: investidores mapeiam os riscos e juros avançam após leilão",
    "url": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/07/21/tesouro-direto-investidores-mapeiam-os-riscos-e-juros-tem-leve-queda.ghtml",
    "publicado": "2026-07-21T13:38:49+00:00",
    "tickers": [],
    "resumo": "Os juros pagos pelos títulos do Tesouro Direto registram alta nesta terça (21), mesmo com um leilão reduzido de títulos atrelados à inflação. O movimento acompanha o cenário externo, no qual os títulos da dívida pública americana também avançam.\nA expectativa de inflação de curto"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "Na incorporação pela Sabesp, quanto vale uma ação da EMAE?",
-   "url": "https://braziljournal.com/na-incorporacao-pela-sabesp-quanto-vale-uma-acao-da-emae/",
-   "publicado": "2026-07-21T13:05:37+00:00",
-   "tickers": [],
-   "resumo": "Uma acionista minoritária da EMAE está questionando na CVM a incorporação da companhia pela Sabesp, alegando que o rito não seguiu todas as regras exigidas pelo órgão regulador. Julia Otero, que tem 6% do capital da EMAE e cerca de 14% das ações preferenciais, entrou na quarta-fe"
   },
   {
    "fonte": "Valor Investe",
@@ -773,113 +873,6 @@
     "WEGE3"
    ],
    "resumo": "O Ibovespa ficou, desde a abertura desta terça-feira (21), na contramão global. Com grande parte da carteira teórica no negativo, o principal índice da bolsa brasileira encerrou o pregão no zero a zero e só não teve desempenho pior graças às ações da Petrobras, com ganhos na faix"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "Vale: Ollie abre vantagem na eleição para chairman",
-   "url": "https://braziljournal.com/vale-ollie-abre-vantagem-na-eleicao-para-chairman/",
-   "publicado": "2026-07-21T11:46:30+00:00",
-   "tickers": [],
-   "resumo": "A Vale divulgou agora há pouco o boletim de votos à distância para a assembleia que elegerá amanhã o novo chairman da companhia, mostrando uma largada favorável ao candidato apoiado por sua maior acionista, a Previ. Manuel Lino Silva de Sousa Oliveira, o “Ollie”, que ocupa hoje a"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "CVM abre processo para apurar apoio da Previ na Vale",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/07/21/cvm-abre-processo-para-apurar-apoio-da-previ-na-vale.ghtml",
-   "publicado": "2026-07-21T11:37:59+00:00",
-   "tickers": [],
-   "resumo": "A Comissão de Valores Mobiliários (CVM) abriu, nesta segunda-feira (20), processo administrativo para apurar se a Previ, o fundo de pensão dos funcionários do Banco do Brasil, teria contrariado regras da Vale ao declarar apoio a um candidato à presidência do conselho de administr"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Campanha de Lula intensifica interlocução com mercado",
-   "url": "https://valorinveste.globo.com/mercados/noticia/2026/07/21/campanha-de-lula-intensifica-interlocucao-com-mercado.ghtml",
-   "publicado": "2026-07-21T11:33:30+00:00",
-   "tickers": [],
-   "resumo": "Com a eleição presidencial batendo à porta, a interlocução entre integrantes da campanha do presidente Luiz Inácio Lula da Silva (PT) e participantes do mercado financeiro se intensificou nos últimos dias, em uma tentativa de reconstrução de pontes com a Faria Lima. Desde a seman"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Eleição entra no foco do estrangeiro e  afeta apostas no mercado",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/noticia/2026/07/21/eleicao-entra-no-foco-do-estrangeiro-e-afeta-apostas-no-mercado.ghtml",
-   "publicado": "2026-07-21T11:26:17+00:00",
-   "tickers": [],
-   "resumo": "A pouco mais de dois meses da eleição presidencial, o tema deixou de ser distante para os investidores estrangeiros. Nas últimas semanas, bancos internacionais passaram a mencionar com mais frequência o cenário político brasileiro como um fator relevante para a precificação dos a"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Vale (VALE3), Nubank (ROXO34), Embraer (EMBJ3), Brava (BRAV3) e mais: Veja os destaques das empresas",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/07/21/vale-vale3-nubank-roxo34-embraer-embj3-brava-brav3-e-mais-veja-os-destaques-das-empresas.ghtml",
-   "publicado": "2026-07-21T11:08:38+00:00",
-   "tickers": [
-    "BRAV3",
-    "EMBJ3",
-    "ROXO34",
-    "VALE3"
-   ],
-   "resumo": "Vale\nA Comissão de Valores Mobiliários (CVM) abriu um processo administrativo para apurar se a Previ, o fundo de pensão dos funcionários do Banco do Brasil, teria contrariado regras da Vale ao declarar apoio a um candidato à presidência do conselho de administração da mineradora "
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Mercado aguarda relatório da Vale e mergulha em balanços no exterior",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/07/21/mercado-aguarda-relatorio-da-vale-e-mergulha-em-balancos-no-exterior.ghtml",
-   "publicado": "2026-07-21T10:35:05+00:00",
-   "tickers": [],
-   "resumo": "O mais esperado pelo mercado nesta terça-feira (21), após o fechamento, é o relatório de vendas e produção do segundo trimestre da Vale. Os dados ajudam a calibrar as expectativas para os resultados da companhia, que devem ser divulgados em 30 de julho. No exterior, os ataques en"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Velocidade também é proteção: processos mais ágeis são uma necessidade",
-   "url": "https://valorinveste.globo.com/blogs/zeca-doherty/coluna/velocidade-tambem-e-protecao-processos-mais-ageis-sao-uma-necessidade.ghtml",
-   "publicado": "2026-07-21T09:20:08+00:00",
-   "tickers": [],
-   "resumo": "A confiança é um dos ativos mais valiosos do mercado de capitais e ela não surge por acaso. É construída a partir de regras claras, boas práticas, transparência e, principalmente, pela rapidez e efetividade na correção de desvios.\nEm um mercado cada vez mais dinâmico, os mecanism"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "CSD BR, concorrente da B3, cresce em derivativos e quer negociar lotes de ações até dezembro",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/07/21/csd-br-concorrente-da-b3-cresce-em-derivativos-e-quer-negociar-lotes-de-acoes-ate-dezembro.ghtml",
-   "publicado": "2026-07-21T09:10:08+00:00",
-   "tickers": [],
-   "resumo": "A CSD BR, empresa de registro e depósito de ativos financeiros, pretende começar a negociar bilateralmente lotes de ações listadas na B3 ainda este ano, um dos últimos passos antes da abertura oficialmente como bolsa. Em entrevista exclusiva ao Valor Investe, o presidente Edivar "
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Veja os raros fundos multimercados que se salvaram na guerra e as suas apostas",
-   "url": "https://valorinveste.globo.com/produtos/fundos/multimercados/noticia/2026/07/21/veja-os-raros-fundos-multimercados-que-se-salvaram-na-guerra-e-as-suas-apostas.ghtml",
-   "publicado": "2026-07-21T09:00:08+00:00",
-   "tickers": [],
-   "resumo": "A reviravolta que a guerra causou fez os fundos multimercados voltarem a decepcionar no primeiro semestre deste ano, após darem ótimas remunerações em 2025. A classe em média rendeu 3,8% na primeira metade do ano, ante um CDI, a referência para os investimentos em geral, de 6,8%."
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "Nubank encontra um banco para chamar de seu",
-   "url": "https://braziljournal.com/nubank-encontra-um-banco-para-chamar-de-seu/",
-   "publicado": "2026-07-20T23:39:48+00:00",
-   "tickers": [],
-   "resumo": "Agora é oficial: Nubank. O banco de David Vélez anunciou a compra de 100% do Banco Porto Real de Investimentos, uma instituição financeira carioca da família Tarquínio Monteiro da Costa. O valor da transação não foi divulgado, e o fechamento ainda depende da aprovação do BC.  Com"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Nubank anuncia a compra do Banco Porto Real para obter licença bancária no Brasil",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/07/20/nubank-anuncia-a-compra-do-banco-porto-real-para-obter-licenca-bancaria-no-brasil.ghtml",
-   "publicado": "2026-07-20T22:12:23+00:00",
-   "tickers": [],
-   "resumo": "O Nubank anunciou nesta segunda-feira (20) a aquisição de 100% do Banco Porto Real de Investimentos, uma operação que permitirá à instituição incorporar uma licença bancária ao seu conglomerado financeiro no Brasil. A transação ainda depende de aprovação do Banco Central (BC).\n\nA"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "O que falta para a bolsa romper o marasmo e voltar a subir?",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/07/20/o-que-falta-para-a-bolsa-romper-o-marasmo-e-voltar-a-subir.ghtml",
-   "publicado": "2026-07-20T20:46:18+00:00",
-   "tickers": [
-    "BBDC3",
-    "ITUB4",
-    "PETR3",
-    "PETR4",
-    "VALE3"
-   ],
-   "resumo": "O início da semana na bolsa brasileira trouxe aquela clássica atmosfera de ressaca. Depois do estresse na última sexta, o Ibovespa passou o dia rondando a estabilidade em uma sessão marcada pela baixa liquidez, deixando no ar a grande dúvida: afinal, quando vai voltar a subir?\nO "
   }
  ]
 }
