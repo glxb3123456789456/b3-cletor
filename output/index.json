@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-22T21:41:02.426332+00:00",
+ "gerado_em": "2026-07-23T07:44:19.755615+00:00",
  "fontes": {
   "noticias": {
    "arquivo": "noticias.json",
@@ -8,8 +8,9 @@
   },
   "fii_pvp": {
    "arquivo": "fii_pvp.json",
-   "status": "ok",
-   "itens": 1339
+   "status": "erro",
+   "itens": 0,
+   "erro": "HTTPSConnectionPool(host='dados.cvm.gov.br', port=443): Max retries exceeded with url: /dados/FII/DOC/INF_MENSAL/DADOS/inf_mensal_fii_2026.zip (Caused by NewConnectionError(\"HTTPSConnection(host='dados.cvm.gov.br', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
   }
  }
 }
