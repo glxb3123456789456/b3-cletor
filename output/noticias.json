@@ -3,6 +3,49 @@
  "itens": 100,
  "dados": [
   {
+   "fonte": "Money Times",
+   "titulo": "O ‘Princípio de José’: a estratégia bíblica que ajuda a proteger seu dinheiro nos momentos de crise",
+   "url": "https://www.moneytimes.com.br/principio-de-jose-estrategia-biblica-ajuda-proteger-seu-dinheiro-nos-momentos-de-crise-rsgp/",
+   "publicado": "2026-07-25T12:01:00+00:00",
+   "tickers": [],
+   "resumo": "Muito antes dos mercados financeiros modernos e de estratégias complexas de investimentos, uma antiga narrativa bíblica já ensinava uma regra essencial para qualquer investidor. A história de José do Egito, em Gênesis 41, traz o conhecido sonho do faraó com as sete vacas gordas d"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Hapvida (HAPV3) despenca 13% e CSN Mineração (CMIN3) lidera ganhos; veja os destaques do Ibovespa na semana",
+   "url": "https://www.moneytimes.com.br/ibovespa-destaques-na-semana-30-lils/",
+   "publicado": "2026-07-25T11:40:00+00:00",
+   "tickers": [
+    "CMIN3",
+    "HAPV3"
+   ],
+   "resumo": "O Ibovespa (IBOV) voltou ao território de ganhos com apoio das blue chips, em meio a escalada das tensões comerciais e geopolíticas. O principal índice da bolsa brasileira acumulou leve valorização de 0,19% na semana e encerrou a última sessão aos 174.041,95 pontos. Já o dólar à "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Fim de semana agitado na política: PL oficializa Flávio Bolsonaro e PSD confirma chapa Caiado-Kassab",
+   "url": "https://www.moneytimes.com.br/fim-de-semana-agitado-na-politica-pl-oficializa-flavio-bolsonaro-e-psd-confirma-chapa-caiado-kassab/",
+   "publicado": "2026-07-25T10:00:00+00:00",
+   "tickers": [],
+   "resumo": "Este fim de semana promete ser agitado para a política brasileira, em meio às convenções partidárias para oficializar as candidaturas &#8212; e coligações &#8212; para as eleições de outubro. A ratificação dos principais nomes dos candidatos a presidente da República se dividirá "
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Cinco xícaras de café por dia são seguras para a maioria dos adultos",
+   "url": "https://investnews.com.br/the-wall-street-journal/cinco-xicaras-de-cafe-por-dia-sao-seguras-para-a-maioria-dos-adultos/",
+   "publicado": "2026-07-25T09:00:00+00:00",
+   "tickers": [],
+   "resumo": "Pesquisas têm apresentado resultados variados, mas associação afirma que evidências sobre a segurança e até os benefícios do café vêm crescendo ao longo do tempo"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Thopen, empresa de GD da Denham, prepara pedido de RJ",
+   "url": "https://braziljournal.com/thopen-empresa-de-gd-da-denham-prepara-pedido-de-rj/",
+   "publicado": "2026-07-25T08:48:29+00:00",
+   "tickers": [],
+   "resumo": "A Thopen, empresa de geração distribuída de energia renovável controlada pela Pontal Energy, do private equity Denham Capital, obteve uma tutela de urgência para proteção contra credores enquanto prepara a entrada de seu pedido de recuperação judicial, fontes disseram ao Brazil J"
+  },
+  {
    "fonte": "Suno Noticias",
    "titulo": "RZTR11 recebe valor de multa de R$ 3,42 milhões e mantém receita após troca de arrendatária no MT",
    "url": "https://www.suno.com.br/noticias/rztr11-recebe-valor-de-multa-de-r-342-milhoes-e-mantem-receita-apos-troca-de-arrendataria-no-mt/",
@@ -170,7 +213,7 @@
   },
   {
    "fonte": "InvestNews",
-   "titulo": "Papel higiênico e mais 4 mil itens: os produtos que vão pagar tarifa de 37,5% para entrar nos EUA",
+   "titulo": "Papel higiênico e mais 4 mil itens: os produtos brasileiros que vão pagar tarifa de 37,5% para entrar nos EUA",
    "url": "https://investnews.com.br/economia/4-mil-produtos-tarifa-exportacao-eua/",
    "publicado": "2026-07-24T21:18:59+00:00",
    "tickers": [],
@@ -230,14 +273,6 @@
    "resumo": "A gestora de recursos Vinland Crédito está mais seletiva do que nunca na escolha dos papéis de renda fixa emitidos pelas companhias que coloca nas carteiras. O cenário de juros altos aumentando o risco das empresas darem calote nos investidores e, ao mesmo tempo, de taxas mais ba"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Ibovespa recua mais de 1% com alívio no petróleo; dólar tem leve queda a R$ 5,08",
-   "url": "https://www.moneytimes.com.br/ibovespa-24-7-26-lils/",
-   "publicado": "2026-07-24T20:28:42+00:00",
-   "tickers": [],
-   "resumo": "O Ibovespa (IBOV) foi pressionado pelo alívio nos preços do petróleo e engatou a segunda forte queda consecutiva. Nesta sexta-feira (24), o principal índice da bolsa brasileira terminou as negociações com queda de 1,52%, aos 174.041,95 pontos. Na semana, o IBOV teve valorização d"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Fundos de papel indexados ao CDI estão imbatíveis, diz gestor de FIIs",
    "url": "https://valorinveste.globo.com/produtos/fundos-imobiliarios/noticia/2026/07/24/fundos-de-papel-indexados-ao-cdi-estao-imbativeis-diz-gestor-de-fiis.ghtml",
@@ -252,14 +287,6 @@
    "publicado": "2026-07-24T20:19:54+00:00",
    "tickers": [],
    "resumo": "Grupo Gennius, dono também das redes Ragazzo e Tendall Grill, suspendeu execuções e negociar passivos antes de uma possível recuperação judicial"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Wall Street fecha sem direção única com venda de chips; Nasdaq despenca 2% na semana",
-   "url": "https://www.moneytimes.com.br/wall-street-24-7-26-apsa/",
-   "publicado": "2026-07-24T20:16:23+00:00",
-   "tickers": [],
-   "resumo": "Os índices de Wall Street encerram a sessão desta sexta-feira (24) mistos diante do derretimento das ações da Intel, que pesaram sobre o Nasdaq, e de novo movimento de venda das ações de fabricantes de chips. Confira o fechamento dos índices: Na semana, o Dow Jones e o S&#38;P 50"
   },
   {
    "fonte": "Valor Investe",
@@ -300,14 +327,6 @@
    "publicado": "2026-07-24T20:05:02+00:00",
    "tickers": [],
    "resumo": "Novo modelo busca ampliar uso de inteligência artificial no trabalho em meio à pressão por redução de custos e avanço de rivais da China"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Subvenções custarão R$ 1,3 bi por mês para gasolina e R$ 5,5 bi para diesel, diz ministro do Planejamento",
-   "url": "https://www.moneytimes.com.br/subvencoes-custarao-r-13-bi-por-mes-para-gasolina-e-r-55-bi-para-diesel-diz-ministro-do-planejamento-pads/",
-   "publicado": "2026-07-24T20:03:37+00:00",
-   "tickers": [],
-   "resumo": "O ministro do Planejamento e Orçamento, Bruno Moretti, disse nesta sexta-feira que as subvenções implementadas pelo governo para suavizar preços de combustíveis terão custo de aproximadamente R$1,3 bilhão por mês no caso da gasolina e de cerca de R$5,5 bilhões ao mês para o diese"
   },
   {
    "fonte": "InvestNews",
@@ -776,14 +795,6 @@
    "resumo": "A EPR arrematou a concessão da Régis Bittencourt, entre São Paulo e Paraná, em leilão realizado hoje na sede da B3, superando propostas da Motiva e da Arteris, atual operadora, ao ofertar um deságio de 22,5% nas tarifas de pedágio. A Motiva, que era vista por boa parte do mercado"
   },
   {
-   "fonte": "Brazil Journal",
-   "titulo": "Simpar vende terminais na Bahia por R$ 1,8 bilhão",
-   "url": "https://braziljournal.com/simpar-vende-terminais-na-bahia-por-r-18-bilhao/",
-   "publicado": "2026-07-23T15:39:20+00:00",
-   "tickers": [],
-   "resumo": "A Simpar vendeu dois terminais portuários por um enterprise value de R$ 1,8 bilhão – numa transação elogiada pelo mercado por jogar luz sobre o valor dos ativos de infraestrutura da holding de Fernando Simões e permitir à empresa continuar sua desalavancagem. A ação da Simpar sob"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "ETFs de renda fixa: entenda as diferenças (nada sutis) entre os vários tipos",
    "url": "https://investnews.com.br/investimentos/etfs-de-renda-fixa-entenda-as-diferencas-nada-sutis-entre-os-varios-tipos/",
@@ -830,14 +841,6 @@
    "publicado": "2026-07-23T13:44:52+00:00",
    "tickers": [],
    "resumo": "Petróleo sobe mais de 6% após houthis afirmarem ter atacado navios-tanque sauditas no Mar Vermelho, aumentando temores sobre o fornecimento global"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Nestlé vende metade da divisão de águas e avança em plano de reestruturação",
-   "url": "https://investnews.com.br/negocios/nestle-vende-metade-da-divisao-de-aguas-e-avanca-em-plano-de-reestruturacao/",
-   "publicado": "2026-07-23T12:36:11+00:00",
-   "tickers": [],
-   "resumo": "Venda de participação na unidade de águas ocorre em meio a cortes de custos, redução de marcas e reorganização dos negócios da Nestlé"
   }
  ]
 }
