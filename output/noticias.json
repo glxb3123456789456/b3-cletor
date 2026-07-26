@@ -3,6 +3,78 @@
  "itens": 100,
  "dados": [
   {
+   "fonte": "Brazil Journal",
+   "titulo": "No Grand Terroir 31, a nova ambição da Campanha Gaúcha",
+   "url": "https://braziljournal.com/no-grand-terroir-31-a-nova-ambicao-da-campanha-gaucha/",
+   "publicado": "2026-07-26T03:10:46+00:00",
+   "tickers": [],
+   "resumo": "Durante muito tempo, falar de vinho brasileiro era quase inevitavelmente falar da Serra Gaúcha. Foi ali que a vitivinicultura nacional construiu sua identidade, desenvolveu tecnologia, formou gerações de produtores e consolidou uma indústria que hoje colhe reconhecimento dentro e"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Papua Nova Guiné: entre o fio que sustenta e o elo que prende",
+   "url": "https://braziljournal.com/papua-nova-guine-entre-o-fio-que-sustenta-e-o-elo-que-prende/",
+   "publicado": "2026-07-26T03:10:18+00:00",
+   "tickers": [],
+   "resumo": "Foi em um objeto aparentemente simples que a Papua Nova Guiné começou a se revelar para mim. No mercado de artesanato de uma das ilhas do país, me apresentaram ao bilum, uma bolsa trançada com fibras naturais tingidas em diferentes cores que, à primeira vista, parece apenas mais "
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "OPINIÃO. O sucesso da Ásia que insistimos em não copiar",
+   "url": "https://braziljournal.com/opiniao-o-sucesso-da-asia-que-insistimos-em-nao-copiar/",
+   "publicado": "2026-07-26T03:10:10+00:00",
+   "tickers": [],
+   "resumo": "Durante boa parte do século XX, parecia existir um consenso: democracia liberal, economia de mercado e Estado de Direito haviam produzido o maior ciclo de prosperidade da história. Depois da queda da União Soviética, muitos passaram a acreditar que liberdade política e desenvolvi"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "OPINIÃO. A política externa entrou na urna",
+   "url": "https://braziljournal.com/opiniao-a-politica-externa-entrou-na-urna/",
+   "publicado": "2026-07-26T03:10:08+00:00",
+   "tickers": [],
+   "resumo": "A política externa nunca decidiu, ou sequer influenciou de maneira muito crítica, a escolha por um Presidente da República no Brasil. Tem sido assim por muitos ciclos eleitorais. Nossas eleições sempre foram afetadas pelos ciclos econômicos, escândalos de corrupção, emprego, infl"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "O que fazer de uma vida? A pergunta (e as respostas) de Jim Collins",
+   "url": "https://braziljournal.com/o-que-fazer-de-uma-vida-a-pergunta-e-as-respostas-de-jim-collins/",
+   "publicado": "2026-07-26T03:10:02+00:00",
+   "tickers": [],
+   "resumo": "Alguns livros crescem em você. What to Make of a Life é um deles. (Compre aqui) Jim Collins e um time de pesquisadores passaram os últimos 12 anos estudando mais de 500 pessoas que tiveram uma vida “bem-sucedida”. A tal da vida que vale a pena ser vivida. Collins é aquele profess"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Pequenas empresas entram com ações na Justiça contra novas tarifas de Trump",
+   "url": "https://www.moneytimes.com.br/pequenas-empresas-entram-com-acoes-na-justica-contra-novas-tarifas-de-trump-vtra/",
+   "publicado": "2026-07-25T20:43:15+00:00",
+   "tickers": [],
+   "resumo": "Os tarifaços do presidente dos Estados Unidos, Donald Trump, vão parar na Justiça &#8211; de novo. Duas ações judiciais movidas por pequenas empresas contestam as amplas tarifas anunciadas pelo norte-americano na quinta-feira, que impõem sobretaxas de dois dígitos a 60 parceiros "
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Com Lula e Alckmin, PT oficializa Haddad ao governo de SP e nacionaliza disputa",
+   "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/07/25/com-lula-e-alckmin-pt-oficializa-haddad-ao-governo-de-sp-e-nacionaliza-disputa.ghtml",
+   "publicado": "2026-07-25T19:59:19+00:00",
+   "tickers": [],
+   "resumo": "O PT de São Paulo oficializou neste sábado (25) a candidatura do ex-ministro Fernando Haddad ao governo paulista, durante a convenção estadual do partido, em Campinas (SP). \nCom a presença do presidente e pré-candidato à reeleição Luiz Inácio Lula da Silva (PT) e do vice-presiden"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Flávio Bolsonaro é confirmado como candidato à Presidência pelo PL",
+   "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/07/25/flavio-bolsonaro-e-confirmado-como-candidato-a-presidencia-pelo-pl.ghtml",
+   "publicado": "2026-07-25T19:41:01+00:00",
+   "tickers": [],
+   "resumo": "Com críticas ao PT do presidente Luiz Inácio Lula da Silva, o senador Flávio Bolsonaro foi oficializado candidato à Presidência da República pelo PL, neste sábado (25), em São Paulo. O nome do filho do ex-presidente Jair Bolsonaro foi confirmado sem a definição de vice, em meio à"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Samsung Electronics e SK Group fecham acordos de US$ 950 bi para abastecerem IA",
+   "url": "https://www.moneytimes.com.br/samsung-electronics-e-sk-group-fecham-acordos-de-us950-bi-para-abastecerem-ia-vtra/",
+   "publicado": "2026-07-25T18:38:18+00:00",
+   "tickers": [],
+   "resumo": "A Coreia do Sul anunciou US$950 bilhões em novas iniciativas de inteligência artificial envolvendo Samsung Electronics, SK Group e empresas de tecnologia dos EUA, à medida que os líderes globais em IA correm para suprir a escassez de chips para desenvolverem sistemas mais avançad"
+  },
+  {
    "fonte": "Money Times",
    "titulo": "Hoje é o início da luta do bem contra o mal que Bolsonaro começou em 2018, diz Flávio",
    "url": "https://www.moneytimes.com.br/hoje-e-o-inicio-da-luta-do-bem-contra-o-mal-que-bolsonaro-comecou-em-2018-diz-flavio/",
@@ -76,22 +148,6 @@
   },
   {
    "fonte": "Money Times",
-   "titulo": "O maior erro que o mercado comete na avaliação de risco no agronegócio, segundo a Agrolend",
-   "url": "https://www.moneytimes.com.br/o-maior-erro-que-o-mercado-comete-na-avaliacao-de-risco-no-agronegocio-segundo-a-agrolend-pads/",
-   "publicado": "2026-07-25T13:00:00+00:00",
-   "tickers": [],
-   "resumo": "A recente onda de inadimplência e recuperações judiciais no agronegócio expôs um dos principais desafios enfrentados por bancos, fundos e fintechs que financiam o setor: como medir corretamente o risco de um produtor? Para Alan Glezer, CEO da Agrolend, o mercado financeiro ainda "
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "“Você só descobre quem está nadando pelado quando a maré baixa”: o significado da frase de Warren Buffett no mundo dos investimentos",
-   "url": "https://www.moneytimes.com.br/voce-so-descobre-quem-esta-nadando-pelado-quando-a-mare-baixa-o-significado-da-frase-de-warren-buffett-no-mundo-dos-investimentos-jvka/",
-   "publicado": "2026-07-25T13:00:00+00:00",
-   "tickers": [],
-   "resumo": "“Você só descobre quem está nadando pelado quando a maré baixa.” A frase é atribuída ao investidor norte-americano Warren Buffett. Com o passar dos anos, ela se transformou em uma das metáforas mais conhecidas do mercado financeiro. Ela ajuda a explicar como períodos de crise cos"
-  },
-  {
-   "fonte": "Money Times",
    "titulo": "Saiba por que investir nos Fiagros, classe de ativos que cresceu mais de 226% em captação em 2026",
    "url": "https://www.moneytimes.com.br/saiba-por-que-investir-nos-fiagros-classe-de-ativos-que-cresceu-mais-de-226-em-captacao-em-2026-lbrdjm020/",
    "publicado": "2026-07-25T13:00:00+00:00",
@@ -100,11 +156,11 @@
   },
   {
    "fonte": "Money Times",
-   "titulo": "O ‘Princípio de José’: a estratégia bíblica que ajuda a proteger seu dinheiro nos momentos de crise",
-   "url": "https://www.moneytimes.com.br/principio-de-jose-estrategia-biblica-ajuda-proteger-seu-dinheiro-nos-momentos-de-crise-rsgp/",
-   "publicado": "2026-07-25T12:01:00+00:00",
+   "titulo": "“Você só descobre quem está nadando pelado quando a maré baixa”: o significado da frase de Warren Buffett no mundo dos investimentos",
+   "url": "https://www.moneytimes.com.br/voce-so-descobre-quem-esta-nadando-pelado-quando-a-mare-baixa-o-significado-da-frase-de-warren-buffett-no-mundo-dos-investimentos-jvka/",
+   "publicado": "2026-07-25T13:00:00+00:00",
    "tickers": [],
-   "resumo": "Muito antes dos mercados financeiros modernos e de estratégias complexas de investimentos, uma antiga narrativa bíblica já ensinava uma regra essencial para qualquer investidor. A história de José do Egito, em Gênesis 41, traz o conhecido sonho do faraó com as sete vacas gordas d"
+   "resumo": "“Você só descobre quem está nadando pelado quando a maré baixa.” A frase é atribuída ao investidor norte-americano Warren Buffett. Com o passar dos anos, ela se transformou em uma das metáforas mais conhecidas do mercado financeiro. Ela ajuda a explicar como períodos de crise cos"
   },
   {
    "fonte": "InvestNews",
@@ -593,14 +649,6 @@
    "resumo": "Piscinas de ondas valorizam imóveis e vendem títulos milionários, mas o retorno ainda é incerto"
   },
   {
-   "fonte": "Brazil Journal",
-   "titulo": "Por que Janet Yellen está preocupada com a inflação",
-   "url": "https://braziljournal.com/por-que-janet-yellen-esta-preocupada-com-a-inflacao/",
-   "publicado": "2026-07-23T22:48:49+00:00",
-   "tickers": [],
-   "resumo": "A ex-presidente do Fed e ex-secretária do Tesouro americano, Janet Yellen, está preocupada com o risco de a inflação subir mais que o esperado – acima da meta de 2% do BC americano. Na sua visão, vários fatores podem pressionar a inflação: os choques de oferta em diferentes merca"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Advent avalia saída da Tigre quatro anos após aporte bilionário",
    "url": "https://investnews.com.br/negocios/advent-avalia-saida-da-tigre-quatro-anos-apos-aporte-bilionario/",
@@ -673,14 +721,6 @@
    "resumo": "Se até agora os vencedores da corrida pela inteligência artificial foram empresas de semicondutores, é possível que na nova fase os destaques sejam os setores \"chatos\", ou da velha economia. É o que afirmou Laura Howenstine, diretora de investimentos da Wellington Management, em "
   },
   {
-   "fonte": "Brazil Journal",
-   "titulo": "Gestores veem “pessimismo extremo” na Bolsa",
-   "url": "https://braziljournal.com/gestores-veem-pessimismo-extremo-na-bolsa/",
-   "publicado": "2026-07-23T20:37:47+00:00",
-   "tickers": [],
-   "resumo": "Desde abril, quando atingiu o high histórico de quase 199 mil pontos, o Ibovespa já caiu 11% – o que produziu uma nova safra de empresas baratas e com alto potencial de retorno no médio prazo, acreditam os gestores da Ibiúna, Encore e Guepardo.  “Tenho nomes da carteira negociand"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Enquanto as 'big techs' afundaram em NY, a boa e velha economia evitou um desastre no Ibovespa",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/07/23/enquanto-as-big-techs-afundaram-em-ny-a-boa-e-velha-economia-evitou-um-desastre-no-ibovespa.ghtml",
@@ -706,14 +746,6 @@
    "publicado": "2026-07-23T20:09:12+00:00",
    "tickers": [],
    "resumo": "A tokenização de ativos deve transformar a forma como os brasileiros investem nos próximos anos, permitindo aplicações menores, negociações praticamente instantâneas, operações durante 24 horas por dia e custos mais baixos para emissores e investidores. A avaliação foi compartilh"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "Google e empresas de mídia: uma relação cada vez mais delicada",
-   "url": "https://braziljournal.com/google-e-empresas-de-midia-uma-relacao-cada-vez-mais-delicada/",
-   "publicado": "2026-07-23T19:53:08+00:00",
-   "tickers": [],
-   "resumo": "De veículos de comunicação a redes sociais, cresce o número de publishers reconsiderando seus acordos de AI com o Google.  Antes uma vitrine para notícias e sites externos, o maior motor de busca do mundo agora é visto como um adversário do mercado editorial por suas políticas de"
   },
   {
    "fonte": "Valor Investe",
@@ -764,44 +796,12 @@
    "resumo": "As bolsas de Nova York fecharam em forte queda nesta quinta-feira (23), arrastadas por uma combinação de tensões geopolíticas no Oriente Médio e frustrações com os balanços das big techs. \nNo fim da sessão, o Dow Jones recuou 1%, para os 51.711 pontos, enquanto o Nasdaq despencou"
   },
   {
-   "fonte": "Valor Investe",
-   "titulo": "'Vejo menos risco em boas empresas da bolsa do que nos títulos do Tesouro', diz Guepardo Investimentos",
-   "url": "https://valorinveste.globo.com/mercados/noticia/2026/07/23/vejo-menos-risco-em-boas-empresas-da-bolsa-do-que-nos-titulos-do-tesouro-diz-guepardo-investimentos.ghtml",
-   "publicado": "2026-07-23T18:41:45+00:00",
-   "tickers": [],
-   "resumo": "Comprar ações de boas empresas oferece menos risco ao investidor do que emprestar dinheiro ao governo brasileiro por meio dos títulos públicos atrelados à inflação atualmente. A avaliação é de Octávio Magalhães, fundador e diretor de investimentos da Guepardo Investimentos, para "
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Receita abre consulta ao 3º lote da restituição do IR 2026; veja quem recebe",
    "url": "https://investnews.com.br/financas/receita-consulta-3o-lote-da-restituicao-do-ir-2026/",
    "publicado": "2026-07-23T18:40:11+00:00",
    "tickers": [],
    "resumo": "Terceiro lote da restituição do Imposto de Renda 2026 contempla 2,7 milhões de contribuintes e será pago em 31 de julho"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Veja entrevistas em vídeo de alguns dos principais nomes do mercado financeiro na Expert XP 2026",
-   "url": "https://valorinveste.globo.com/objetivo/de-olho-no-mercado/noticia/2026/07/23/veja-entrevistas-em-video-de-alguns-dos-principais-nomes-do-mercado-financeiro-na-expert-xp-2026.ghtml",
-   "publicado": "2026-07-23T18:32:53+00:00",
-   "tickers": [],
-   "resumo": "Valor Econômico, Valor Investe, Pipeline, Valor One e Valor PRO estão presentes na Expert XP, principal evento do trade financeiro do País, e fazem a cobertura completa da edição de 2026. A seguir, confira as entrevistas em vídeo com alguns dos principais nomes do mercado finance"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "Atoms, a startup de ‘industrial AI’ do fundador do Uber",
-   "url": "https://braziljournal.com/atoms-a-startup-de-industrial-ai-do-fundador-do-uber/",
-   "publicado": "2026-07-23T18:13:31+00:00",
-   "tickers": [],
-   "resumo": "Travis Kalanick, o fundador exilado do Uber, acaba de levantar US$ 1,7 bilhão em equity e dívida para sua nova startup, a Atoms, que quer construir sistemas de automação para diversos setores da indústria. A a16z liderou a rodada, que também teve a participação do Uber. Ben Horow"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "EPR vence leilão da Régis, uma rodovia campeã (em margens e problemas)",
-   "url": "https://braziljournal.com/epr-vence-leilao-da-regis-uma-rodovia-campea-em-margens-e-problemas/",
-   "publicado": "2026-07-23T18:07:52+00:00",
-   "tickers": [],
-   "resumo": "A EPR arrematou a concessão da Régis Bittencourt, entre São Paulo e Paraná, em leilão realizado hoje na sede da B3, superando propostas da Motiva e da Arteris, atual operadora, ao ofertar um deságio de 22,5% nas tarifas de pedágio. A Motiva, que era vista por boa parte do mercado"
   },
   {
    "fonte": "InvestNews",
