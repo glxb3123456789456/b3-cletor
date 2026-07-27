@@ -4,93 +4,386 @@
  "dados": [
   {
    "fonte": "Money Times",
-   "titulo": "Fundo imobiliário da Kinea aprova oferta de até R$ 500 milhões; IFIX acumula queda em julho",
-   "url": "https://www.moneytimes.com.br/fundo-imobiliario-da-kinea-aprova-oferta-de-ate-r-500-milhoes-ifix-acumula-queda-em-julho-igdl/",
-   "publicado": "2026-07-27T10:50:59+00:00",
-   "tickers": [
-    "KNSC11"
-   ],
-   "resumo": "O fundo imobiliário Kinea Securities (KNSC11) aprovou a realização da sua 6ª emissão de cotas, em uma operação que pode movimentar até R$ 500 milhões, mostra fato relevante divulgado ao mercado. De acordo com o documento, serão emitidos, inicialmente, 45,97 milhões de novos papéi"
+   "titulo": "Dólar avança R$ 5,11 sem suporte do petróleo",
+   "url": "https://www.moneytimes.com.br/dolar-27-7-26-apsa/",
+   "publicado": "2026-07-27T20:04:45+00:00",
+   "tickers": [],
+   "resumo": "O dólar à vista ganhou força ante o real, que teve o pior desempenho entre os emergentes em relação à moeda norte-americana. O movimento refletiu a baixa dos preços do petróleo no mercado internacional com a trégua no conflito no Oriente Médio. Nesta segunda-feira (27), o dólar à"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "B3 faz mudança em 101 BDRs e reduz preço de entrada para investidores",
+   "url": "https://www.moneytimes.com.br/b3-faz-mudanca-em-101-bdrs-e-reduz-preco-de-entrada-para-investidores/",
+   "publicado": "2026-07-27T20:02:48+00:00",
+   "tickers": [],
+   "resumo": "A B3 (B3SA3) iniciou nesta segunda-feira (27) o ajuste de paridade de 101 BDRs de empresas estrangeiras para reduzir o preço unitário dos recibos e facilitar o acesso de investidores pessoa física a ativos internacionais. A expectativa é que parte dos BDRs passe a ser negociada n"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Wall Street tem tom misto com trégua entre EUA-Irã e liquidação das ações de chips",
+   "url": "https://www.moneytimes.com.br/wall-street-27-7-26-lils/",
+   "publicado": "2026-07-27T20:02:37+00:00",
+   "tickers": [],
+   "resumo": "Os índices de Wall Street encerraram o pregão desta segunda-feira (27) sem direção única com breve alívio nas tensões geopolíticas e pressão vendedora das ações de fabricantes de semicondutores de olho no mercado chinês. Confira o fechamento dos índices: O que mexe com o Wall Str"
   },
   {
    "fonte": "Suno Noticias",
-   "titulo": "ETFs de Tesouro Selic e Tesouro IPCA+: entenda como funcionam e para quem fazem sentido",
-   "url": "https://www.suno.com.br/noticias/etfs-tesouro-selic-tesouro-ipca-como-funcionam-gss/",
-   "publicado": "2026-07-27T10:50:00+00:00",
+   "titulo": "Renda fixa na B3 (B3SA3) cresce 13% e chega a R$ 6,3 trilhões",
+   "url": "https://www.suno.com.br/noticias/b3-b3sa3-renda-fixa-captacao-bancaria-cdb-lci-lca-mt/",
+   "publicado": "2026-07-27T19:55:05+00:00",
    "tickers": [],
-   "resumo": "ETFs de Tesouro Selic e Tesouro IPCA+: entenda como funcionam e para quem fazem sentidoA renda fixa ganhou novas formas de acesso nos últimos anos. Além da compra direta de títulos públicos pelo Tesouro Direto e dos fundos tradicionais, investidores passaram a contar com ETFs de "
+   "resumo": "A renda fixa segue fazendo barulho na carteira do investidor brasileiro. No primeiro semestre de 2026, o estoque de produtos de captação bancária registrados na B3 (B3SA3) cresceu 13% e chegou a R$ 6,3 trilhões, segundo levantamento divulgado pela bolsa nesta segunda-feira (27). "
   },
   {
    "fonte": "Money Times",
-   "titulo": "Nova revolução industrial da China: Por que a inteligência artificial vai muito além das big techs",
-   "url": "https://www.moneytimes.com.br/nova-revolucao-industrial-da-china-por-que-a-inteligencia-artificial-vai-muito-alem-das-big-techs/",
-   "publicado": "2026-07-27T10:49:23+00:00",
+   "titulo": "Teto dos juros do consignado do INSS deveria cair por causa da queda da Selic, diz ministro",
+   "url": "https://www.moneytimes.com.br/wolney-queiroz-discussao-de-eventual-reducao-do-teto-do-consignado-se-da-por-queda-da-selic/",
+   "publicado": "2026-07-27T19:51:18+00:00",
    "tickers": [],
-   "resumo": "A inteligência artificial representa muito mais do que um novo segmento tecnológico. Ela inaugura uma nova etapa da industrialização chinesa. Assim como a eletrificação impulsionou a Segunda Revolução Industrial e a internet redefiniu a economia digital, a IA passa a atuar como u"
+   "resumo": "O ministro da Previdência Social, Wolney Queiroz, afirmou nesta segunda-feira, 27, que a discussão sobre reduzir teto de juros para o consignado do INSS se dá por conta da queda na Selic, mas que ele ainda não sabe se chegou ao ponto de refletir no limite. Ele concede entrevista "
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Com mercado coreano no horizonte, ações da MBRF (MBRF3) lideram ganhos do Ibovespa",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/07/27/com-mercado-coreano-no-horizonte-acoes-da-mbrf-mbrf3-lideram-ganhos-do-ibovespa.ghtml",
+   "publicado": "2026-07-27T19:51:12+00:00",
+   "tickers": [
+    "MBRF3"
+   ],
+   "resumo": "Os papéis da MBRF (MBRF3), empresa resultante da incorporação da BRF pela Marfrig, dispararam no pregão de hoje na B3, a bolsa brasileira, impulsionados pela possibilidade de abertura do mercado coreano à carne brasileira. Por volta de 16h30, as ações subiam mais de 6%, liderando"
   },
   {
    "fonte": "Money Times",
-   "titulo": "Lula diz em artigo no Washington Post que novas tarifas dos EUA são um erro",
-   "url": "https://www.moneytimes.com.br/lula-diz-em-artigo-no-washington-post-que-novas-tarifas-dos-eua-sao-um-erro-gaep/",
-   "publicado": "2026-07-27T10:45:04+00:00",
-   "tickers": [],
-   "resumo": "O presidente Luiz Inácio Lula da Silva classificou as novas tarifas de importação dos Estados Unidos como injustas e um erro estratégico em um artigo de opinião publicado neste domingo no jornal The Washington Post. No texto, Lula diz que as sobretaxas prejudicarão a parceria bil"
+   "titulo": "Citi corta preço-alvo de Grupo Mateus (GMAT3) e Assaí (ASAI3); ‘Pouco motivo para otimismo’, dizem analistas",
+   "url": "https://www.moneytimes.com.br/citi-corta-preco-alvo-de-grupo-mateus-gmat3-e-assai-asai3-pouco-motivo-para-otimismo-dizem-analistas-lmrs/",
+   "publicado": "2026-07-27T19:44:30+00:00",
+   "tickers": [
+    "ASAI3",
+    "GMAT3"
+   ],
+   "resumo": "O Citi rebaixou os preços-alvo para as ações do Grupo Mateus (GMAT3) e do Assaí (ASAI3), mantendo a recomendação neutra para ambas as varejistas. Na visão dos analistas, há &#8220;pouco motivo para otimismo&#8221;, embora as dificuldades do setor pareçam já estar precificadas. No"
   },
   {
    "fonte": "Money Times",
-   "titulo": "Mega-Sena supera +Milionária e promete R$ 78 milhões no próximo concurso; Quina oferece o maior prêmio desta segunda-feira",
-   "url": "https://www.moneytimes.com.br/mega-sena-supera-mais-milionaria-promete-78-milhoes-proximo-concurso-quina-oferece-maior-premio-desta-segunda-feira-loterias-rsgp/",
-   "publicado": "2026-07-27T10:38:52+00:00",
+   "titulo": "Anbima avalia que emissões externas movimentaram US$ 24,8 bilhões no primeiro semestre de 2026",
+   "url": "https://www.moneytimes.com.br/anbima-avalia-que-emissoes-externas-movimentaram-us-248-bilhoes-no-primeiro-semestre-de-2026/",
+   "publicado": "2026-07-27T19:40:16+00:00",
    "tickers": [],
-   "resumo": "A disputa entre a Mega-Sena e a +Milionária pelo topo do pódio dos maiores prêmios oferecidos pelas loterias administradas pela Caixa Econômica Federal acaba de ganhar um novo capítulo. Depois de liderar os prêmios por quase um mês, desde a Quina de São João, a +Milionária cedeu "
+   "resumo": "As emissões externas movimentaram US$ 24,8 bilhões no primeiro semestre de 2026, o maior volume desde 2014, puxado pelas operações do governo brasileiro, de acordo com números da Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais (Anbima). Na primeira metad"
   },
   {
    "fonte": "Money Times",
-   "titulo": "Lula e Xi Jinping defendem aceleração de negociações para acordo Mercosul-China",
-   "url": "https://www.moneytimes.com.br/lula-e-xi-jinping-defendem-aceleracao-de-negociacoes-para-acordo-mercosul-china-gaep/",
-   "publicado": "2026-07-27T10:34:43+00:00",
+   "titulo": "Ministro da Previdência diz que não é preciso aumentar idade de aposentadoria e defende discutir desoneração da folha",
+   "url": "https://www.moneytimes.com.br/ministro-da-previdencia-nega-necessidade-de-nova-reforma-que-aumente-idade-de-aposentadoria/",
+   "publicado": "2026-07-27T19:39:20+00:00",
    "tickers": [],
-   "resumo": "O presidente Luiz Inácio Lula da Silva e o presidente da China, Xi Jinping, defenderam em conversa telefônica no domingo a aceleração das negociações para um acordo entre o Mercosul e a China, segundo nota divulgada pelo governo brasileiro. Na conversa, que durou mais de uma hora"
+   "resumo": "O ministro da Previdência Social, Wolney Queiroz, disse discordar dos analistas que apontam a necessidade de uma nova reforma da Previdência no Brasil, apesar da pressão esperada no sistema com o envelhecimento da população. A última grande mudança nas regras de aposentadoria do "
   },
   {
    "fonte": "Money Times",
-   "titulo": "Bolsas da Ásia fecham em alta com pausa no conflito EUA-Irã; chinesa CXMT dispara na estreia",
-   "url": "https://www.moneytimes.com.br/bolsas-da-asia-fecham-em-alta-com-pausa-no-conflito-eua-ira-chinesa-cxmt-dispara-na-estreia/",
-   "publicado": "2026-07-27T10:22:59+00:00",
+   "titulo": "Coreia do Sul enviará missão a frigoríficos brasileiros para acesso a mercado do país, diz Lula",
+   "url": "https://www.moneytimes.com.br/coreia-do-sul-enviara-missao-a-frigorificos-brasileiros-para-acesso-a-mercado-do-pais-diz-lula-pads/",
+   "publicado": "2026-07-27T19:35:57+00:00",
    "tickers": [],
-   "resumo": "As bolsas asiáticas fecharam majoritariamente em alta nesta segunda-feira (27), à medida que os preços do petróleo recuaram com força após Estados Unidos e Irã suspenderem os ataques, reavivando expectativas de negociações de paz no Oriente Médio. As ações da fabricante chinesa d"
+   "resumo": "O presidente Luiz Inácio Lula da Silva afirmou nesta segunda-feira (27), após reunião com o presidente da Coreia do Sul, Lee Jae Myung, que foi firmado um compromisso para a realização de uma missão sanitária sul-coreana que pode possibilitar a abertura do mercado do país asiátic"
   },
   {
    "fonte": "Money Times",
-   "titulo": "PT entra com ações no TSE e no STF contra mensagem de Bolsonaro em vídeo de IA",
-   "url": "https://www.moneytimes.com.br/pt-entra-com-acoes-no-tse-e-no-stf-contra-mensagem-de-bolsonaro-em-video-de-ia-gaep/",
-   "publicado": "2026-07-27T10:19:11+00:00",
+   "titulo": "Chefe do FMI diz não estar preocupada com a capacidade de pagamento da Argentina: ‘Posição fiscal forte’",
+   "url": "https://www.moneytimes.com.br/chefe-do-fmi-afirma-que-argentina-tem-posicao-fiscal-e-externa-solida/",
+   "publicado": "2026-07-27T19:35:25+00:00",
    "tickers": [],
-   "resumo": "A Federação Brasil da Esperança (PT, PV e PCdoB) entrou com uma ação no Tribunal Superior Eleitoral (TSE) questionando a legalidade da exibição de um vídeo na convenção do PL, realizada no sábado (25). As imagens e o áudio, feitas com Inteligência Artificial (IA), mostraram um di"
+   "resumo": "A diretora-gerente do Fundo Monetário Internacional, Kristalina Georgieva, chegou à Argentina nesta segunda-feira para apoiar as reformas ultraliberais do presidente Javier Milei, apesar da preocupação com uma situação difícil no pagamento da dívida que pode coincidir com sua ten"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Eleição presidencial e política fiscal na Expert XP",
+   "url": "https://valorinveste.globo.com/blogs/marcelo-dagosto/post/2026/07/eleicao-presidencial-e-politica-fiscal-na-expert-xp.ghtml",
+   "publicado": "2026-07-27T19:32:41+00:00",
+   "tickers": [],
+   "resumo": "De acordo com os modelos de previsão para o resultado eleitoral acompanhados pelo cientista político Felipe Nunes, presidente do instituto de pesquisas Quaest, se a eleição presidencial fosse hoje, a probabilidade maior é que o presidente Lula fosse reeleito.\nOs cálculos que esti"
   },
   {
    "fonte": "Money Times",
-   "titulo": "Trégua entre EUA e Irã anima mercados; Ibovespa em dólar sobe hoje (27)",
-   "url": "https://www.moneytimes.com.br/tregua-entre-eua-e-ira-anima-mercados-ibovespa-em-dolar-sobe-hoje-27/",
-   "publicado": "2026-07-27T10:08:31+00:00",
+   "titulo": "Mulheres, jovens, não alinhados e paulistas devem decidir eleição 2026, avaliam institutos de pesquisas",
+   "url": "https://www.moneytimes.com.br/mulheres-jovens-nao-alinhados-e-paulistas-devem-decidir-eleicao-2026-avaliam-institutos-de-pesquisas-gaep/",
+   "publicado": "2026-07-27T19:23:48+00:00",
    "tickers": [],
-   "resumo": "O apetite por risco ganhou força nos mercados globais após a interrupção dos combates entre Estados Unidos e Irã no fim de semana. A trégua elevou as expectativas de retomada das negociações diplomáticas depois de duas semanas de confrontos, reduzindo os temores de uma escalada n"
+   "resumo": "O presidente Luiz Inácio Lula da Silva (PT) segue favorito para conquistar o quarto mandato presidencial, a polarização com o antilulismo continua personificada em Flávio Bolsonaro (PL) e uma opção a essas duas correntes pode até surgir nas eleições 2026. Mas o eleitor que pode d"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Itamaraty convoca embaixador da Argentina para prestar esclarecimentos após críticas de Milei",
-   "url": "https://www.moneytimes.com.br/itamaraty-convoca-embaixador-da-argentina-para-prestar-esclarecimentos-apos-criticas-de-milei/",
-   "publicado": "2026-07-27T10:05:57+00:00",
+   "fonte": "InvestNews",
+   "titulo": "Ingressos da Copa do Mundo feminina 2027: veja o que já se sabe sobre vendas e preços",
+   "url": "https://investnews.com.br/off-work/ingressos-da-copa-do-mundo-feminina-2027-veja-o-que-ja-se-sabe-sobre-vendas-e-precos/",
+   "publicado": "2026-07-27T19:23:33+00:00",
    "tickers": [],
-   "resumo": "O Ministério das Relações Exteriores anunciou neste domingo (26) que o ministro Mauro Vieira convocou o embaixador da Argentina, Daniel Raimondi, para transmitir a &#8220;repulsa do governo brasileiro aos impropérios emitidos pelo presidente Javier Milei&#8221; e cobrar explicaçõ"
+   "resumo": "Fifa já permite o cadastro de interesse para receber informações sobre as vendas de ingressos da Copa do Mundo feminina 2027"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "BTG Pactual/Nexus: Lula mantém vantagem no 1º turno, mas empata com Flávio Bolsonaro, Caiado e Zema no 2º turno",
-   "url": "https://www.moneytimes.com.br/btg-pactual-nexus-pesquisa-27-de-julho-gaep/",
-   "publicado": "2026-07-27T10:00:00+00:00",
+   "fonte": "Suno Noticias",
+   "titulo": "Weg (WEGE3) e Engie (EGIE3) firmam acordo bilionário para ampliar usina; entenda",
+   "url": "https://www.suno.com.br/noticias/weg-engie-contrato-1-2-bilhao-usina-jaguara-232-mw-2030-go/",
+   "publicado": "2026-07-27T19:05:10+00:00",
+   "tickers": [
+    "EGIE3",
+    "WEGE3"
+   ],
+   "resumo": "As empresas Weg e Engie fecharam nesta segunda-feira (27) um contrato avaliado em R$ 1,2 bilhão para a expansão da Usina Hidrelétrica Jaguara, localizada no Rio Grande, na divisa entre Minas Gerais e São Paulo. O negócio prevê o fornecimento, pela Weg (WEGE3), de duas unidades ge"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "B3 (B3SA3) vai lançar criptomoeda própria? Conheça a B3RL",
+   "url": "https://www.suno.com.br/noticias/b3rl-criptomoeda-da-b3-stablecoin-real-tokenizacao-mt/",
+   "publicado": "2026-07-27T18:45:06+00:00",
    "tickers": [],
-   "resumo": "Na sétima pesquisa BTG Pactual/Nexus para a eleição presidencial 2026, divulgada nesta segunda-feira (27), o presidente Luiz Inácio Lula da Silva (PT) aparece com 47% e Flávio Bolsonaro (PL-RJ) com 44% das intenções de voto em um eventual segundo turno. Lula manteve o mesmo porce"
+   "resumo": "A B3 (B3SA3) quer colocar um pezinho, ou melhor, uma infraestrutura inteira, no mercado de ativos digitais. A bolsa brasileira vem desenvolvendo a B3RL, uma stablecoin pareada ao real que deve funcionar como uma espécie de “dinheiro digital” para operações tokenizadas. Apesar do "
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Nem a crise do Master abalou os CDBs: estoque de títulos bancários cresce 13%",
+   "url": "https://valorinveste.globo.com/produtos/renda-fixa/noticia/2026/07/27/nem-a-crise-do-master-abalou-os-cdbs-estoque-de-titulos-bancarios-cresce-13percent.ghtml",
+   "publicado": "2026-07-27T18:28:49+00:00",
+   "tickers": [],
+   "resumo": "Os brasileiros continuam reforçando a preferência pela renda fixa bancária. O movimento ocorre mesmo após a crise envolvendo o Banco Master, que levantou dúvidas sobre os riscos dos Certificados de Depósito Bancário (CDBs) emitidos por bancos de menor porte. Ainda assim, o estoqu"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Itaúsa (ITSA4) ou Itaú (ITUB4): holding ou banco, quem paga mais dividendos?",
+   "url": "https://www.suno.com.br/noticias/itausa-itsa4-itau-itub4-dividendos-indicadores-status-invest-mt/",
+   "publicado": "2026-07-27T18:05:12+00:00",
+   "tickers": [
+    "ITSA4",
+    "ITUB4"
+   ],
+   "resumo": "É quase uma disputa em família: de um lado, a Itaúsa (ITSA4), a holding; do outro, o Itaú Unibanco (ITUB4), o banco que carrega um dos maiores pesos da Bolsa. Mas, quando a pergunta é dividendo, o placar do Status Invest dá uma vantagem para a ITSA4. Segundo dados do Status Inves"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Mais de 100 BDRs ficam mais baratos na B3 a partir de hoje; veja a lista completa",
+   "url": "https://valorinveste.globo.com/produtos/investimento-no-exterior/noticia/2026/07/27/mais-de-100-bdrs-ficam-mais-baratos-na-b3-a-partir-de-hoje-veja-a-lista-completa.ghtml",
+   "publicado": "2026-07-27T18:01:05+00:00",
+   "tickers": [],
+   "resumo": "A B3 começou nesta segunda-feira (27) um ajuste na paridade de 101 Brazilian Depositary Receipts (BDRs), recibos de ações de empresas estrangeiras negociados na bolsa brasileira. A mudança, prevista para ser concluída em quatro etapas até 24 de agosto, busca tornar esses ativos m"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Mercado reforça aposta na Embraer (EMBJ3) após novo recorde de encomendas; ações disparam",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/07/27/mercado-reforca-aposta-na-embraer-embj3-apos-novo-recorde-de-encomendas-acoes-disparam.ghtml",
+   "publicado": "2026-07-27T17:53:02+00:00",
+   "tickers": [
+    "EMBJ3"
+   ],
+   "resumo": "Os papéis da Embraer dispararam no pregão desta segunda-feira (27), após a fabricante de aeronaves divulgar uma carteira de pedidos recorde no segundo trimestre de 2026. As ações (EMBJ3) negociadas na B3, a bolsa brasileira, sobem mais de 4%, e os ADRs (recibos de ações) listados"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Calendário de balanços: o que esperar de Vale, Ambev, Usiminas e Multiplan nesta semana",
+   "url": "https://investnews.com.br/investimentos/calendario-de-balancos-o-que-esperar-de-vale-ambev-usiminas-e-multiplan-na-semana/",
+   "publicado": "2026-07-27T16:49:38+00:00",
+   "tickers": [],
+   "resumo": "Todas as quatro devem anunciar distribuição de proventos"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Startup chinesa Moonshot libera modelo de IA Kimi K3 para download gratuito",
+   "url": "https://investnews.com.br/negocios/startup-chinesa-moonshot-libera-modelo-de-ia-kimi-k3-para-download-gratuito/",
+   "publicado": "2026-07-27T16:41:03+00:00",
+   "tickers": [],
+   "resumo": "O sucesso da Moonshot colocou a empresa no centro da disputa tecnológica entre Estados Unidos e China"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Vale (VALE3): vice-presidente do conselho renuncia ao cargo",
+   "url": "https://www.suno.com.br/noticias/vale-vale3-renuncia-vice-presidente-conselho-mt/",
+   "publicado": "2026-07-27T16:35:11+00:00",
+   "tickers": [
+    "VALE3"
+   ],
+   "resumo": "A Vale (VALE3) informou nesta segunda-feira (27) que Marcelo Gasparino da Silva apresentou renúncia aos cargos de membro e vice-presidente do Conselho de Administração da companhia. Segundo comunicado enviado ao mercado, a saída terá efeitos a partir de 1º de agosto de 2026. Quem"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Fundo imobiliário mais que dobra resultado em junho; confira os valores",
+   "url": "https://www.suno.com.br/noticias/pcip11-resultado-rendimento-junho-2026/",
+   "publicado": "2026-07-27T16:25:10+00:00",
+   "tickers": [
+    "PCIP11"
+   ],
+   "resumo": "O fundo imobiliário PCIP11 apurou resultado distribuível de R$ 18,903 milhões em junho, alta de 147% frente a maio. No período, as receitas somaram R$ 3,887 milhões e as despesas ficaram em R$ 1,217 milhão. O resultado distribuível foi de R$ 1,11 por cota, já contemplando um impa"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Por que a Nvidia investiu na startup de IA criada por ex-cientista da OpenAI",
+   "url": "https://investnews.com.br/negocios/por-que-a-nvidia-investiu-na-startup-de-ia-criada-por-ex-cientista-da-openai/",
+   "publicado": "2026-07-27T16:16:07+00:00",
+   "tickers": [],
+   "resumo": "A parceria com a startup fundada por Ilya Sutskever, ex-cientista-chefe da OpenAI, ocorre em meio à disputa por liderança no mercado global de inteligência artificial"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Fiagro entrega yield de 1,40%; veja quem tem direito ao provento",
+   "url": "https://www.suno.com.br/noticias/dividendos-do-btra11-julho-2026/",
+   "publicado": "2026-07-27T15:45:06+00:00",
+   "tickers": [
+    "BTRA11"
+   ],
+   "resumo": "Os dividendos do BTRA11 referentes à competência de junho de 2026 serão de R$ 0,90 por cota, montante mantido desde fevereiro. O pagamento ocorre em 31 de julho de 2026, com direito aos investidores posicionados até o encerramento do pregão de 24 de julho de 2026, data-base da di"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Mota-Engil, gigante portuguesa da construção, avalia comprar fatia da Odebrecht",
+   "url": "https://investnews.com.br/negocios/mota-engil-gigante-portuguesa-da-construcao-avalia-comprar-fatia-da-odebrecht/",
+   "publicado": "2026-07-27T15:43:53+00:00",
+   "tickers": [],
+   "resumo": "Negociações entre as empresas envolvem possível entrada da Moto-Engil no capital da Odebrecht e a criação de uma estrutura conjunta para novos projetos no país"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Petróleo dá trégua, mas Bitcoin ainda espera sinal que pode destravar preço",
+   "url": "https://valorinveste.globo.com/mercados/cripto/noticia/2026/07/27/petroleo-da-tregua-mas-bitcoin-ainda-espera-sinal-que-pode-destravar-preco.ghtml",
+   "publicado": "2026-07-27T15:02:52+00:00",
+   "tickers": [],
+   "resumo": "Em um início de semana marcado pelo alívio do conflito no Oriente Médio e pela queda do petróleo, o mercado de criptoativos opera em clima de cautela, à espera de uma sequência de eventos que pode definir a direção dos preços. O Bitcoin (BTC) opera praticamente estável, na faixa "
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "PSEC11 rende 11,6% ao ano e negocia com desconto de 22%; veja os detalhes",
+   "url": "https://www.suno.com.br/noticias/psec11-resultado-junho-rendimentos-cris/",
+   "publicado": "2026-07-27T14:45:09+00:00",
+   "tickers": [
+    "PSEC11"
+   ],
+   "resumo": "O fundo imobiliário PSEC11 apurou resultado distribuível de R$ 9,329 milhões em junho, em leve retração frente ao mês anterior. A principal fonte do desempenho foram os rendimentos com FIIs, que totalizaram R$ 7,416 milhões, enquanto as despesas somaram R$ 830 mil. Por cota, o re"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "FMI cobra Argentina por dívida de US$ 57 bilhões e Milei tenta virar a página",
+   "url": "https://investnews.com.br/economia/fmi-cobra-argentina-por-divida-de-us-57-bilhoes-e-milei-tenta-virar-a-pagina/",
+   "publicado": "2026-07-27T14:28:08+00:00",
+   "tickers": [],
+   "resumo": "Visita de Kristalina Georgieva ocorre em meio à melhora da economia argentina, mas país enfrenta o desafio de voltar aos mercados e pagar dívida bilionária com o FMI"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Tesouro Direto: hiato na guerra entre Irã e EUA faz taxas caírem",
+   "url": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/07/27/tesouro-direto-hiato-na-guerra-entre-ira-e-eua-faz-taxas-cairem.ghtml",
+   "publicado": "2026-07-27T13:36:18+00:00",
+   "tickers": [],
+   "resumo": "As taxas dos títulos do Tesouro Direto recuam em bloco nesta segunda-feira (27). A pausa nos ataques entre Irã e Estados Unidos, já no seu terceiro dia, dá alívio aos mercados e às expectativas de juros. A região é a maior produtora de petróleo do mundo e a continuidade do confli"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "R$ 3 mil no IBBP11 ou na poupança? Confira quem rendeu mais em um ano",
+   "url": "https://www.suno.com.br/noticias/fundo-imobiliario-ibbp11-supera-poupanca/",
+   "publicado": "2026-07-27T13:35:09+00:00",
+   "tickers": [
+    "IBBP11"
+   ],
+   "resumo": "O fundo imobiliário IBBP11 investe em galpões industriais e é gerido pela inVista. Com cota perto de R$ 7,60 e patrimônio de cerca de R$ 1 bilhão, é um fundo de tijolo voltado ao aluguel de imóveis do segmento industrial. Em uma simulação com base no último ano, R$ 3 mil aplicado"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Boletim Focus reduz projeção do IPCA 2026 de 5,15% para 5,12%; veja detalhes",
+   "url": "https://www.suno.com.br/noticias/boletim-focus-ipca-reduz-27072026-go/",
+   "publicado": "2026-07-27T13:30:20+00:00",
+   "tickers": [],
+   "resumo": "Boletim Focus. Foto: PixabayA mediana do Boletim Focus para o Índice Nacional de Preços ao Consumidor Amplo (IPCA) de 2026 caiu pela quarta semana seguida, de 5,15% para 5,12% &#8211; 0,62 ponto porcentual acima da meta de inflação perseguida pelo Banco Central, de 4,50%. Conside"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Fabricante de chips dispara 466% em IPO e vira símbolo da disputa da China por IA",
+   "url": "https://investnews.com.br/negocios/fabricante-de-chips-dispara-466-em-ipo-e-vira-simbolo-da-disputa-da-china-por-ia/",
+   "publicado": "2026-07-27T13:25:43+00:00",
+   "tickers": [],
+   "resumo": "Empresa levantou US$ 8,5 bilhões em sua estreia na Bolsa de Xangai e ganhou destaque na disputa da China para reduzir a dependência de tecnologia estrangeira."
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Conselheiro da Vale renuncia após caso de vazamento de informações",
+   "url": "https://investnews.com.br/negocios/conselheiro-da-vale-renuncia-apos-caso-de-vazamento-de-informacoes/",
+   "publicado": "2026-07-27T13:01:30+00:00",
+   "tickers": [],
+   "resumo": "Marcelo Gasparino deixa os cargos de membro e vice-presidente do Conselho de Administração após investigação interna apontar vazamento de informações confidenciais"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Shein tem prejuízo de US$ 99 milhões às vésperas de IPO em Hong Kong",
+   "url": "https://investnews.com.br/negocios/shein-tem-prejuizo-de-us-99-milhoes-as-vesperas-de-ipo-em-hong-kong/",
+   "publicado": "2026-07-27T12:39:45+00:00",
+   "tickers": [],
+   "resumo": "Shein atribui resultado ao fim de benefícios tarifários nos EUA e alerta que medidas semelhantes na Europa podem pressionar ainda mais seus negócios"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Acionistas minoritários desistem, e Americanas encerra a arbitragem sobre a fraude de 2023",
+   "url": "https://investnews.com.br/negocios/americanas-amer3-fim-arbitragem/",
+   "publicado": "2026-07-27T12:25:39+00:00",
+   "tickers": [],
+   "resumo": "Decisão da Câmara de Arbitragem do Mercado extinguiu o processo sem julgamento do mérito e determinou que minoritários reembolsem as despesas da Americanas com a arbitragem"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Ibovespa fecha em alta com pausa nos ataques entre EUA e Irã, mesmo com queda de Petrobras (PETR4)",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/07/27/ibovespa-e-dolar-hoje-27-de-julho-de-2026.ghtml",
+   "publicado": "2026-07-27T12:02:30+00:00",
+   "tickers": [
+    "PETR3",
+    "PETR4"
+   ],
+   "resumo": "Os mercados globais iniciaram a semana sob influência da trégua nos ataques entre Irã e Estados Unidos, o que levou os preços do petróleo a registrarem forte queda. O movimento aliviou os temores de aumento da inflação e, consequentemente, dos juros. O Ibovespa, principal índice "
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "WEG fecha contrato com Engie para projeto de R$ 1,2 bilhão em hidrelétrica",
+   "url": "https://investnews.com.br/negocios/weg-fecha-contrato-com-engie-para-projeto-de-r-12-bilhao-em-hidreletrica/",
+   "publicado": "2026-07-27T11:59:42+00:00",
+   "tickers": [],
+   "resumo": "A WEG fornecerá duas unidades geradoras para a ampliação da Usina Hidrelétrica Jaguara, cuja capacidade será ampliada em 232 MW até 2030"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Datafolha: 52% acham que Trump quer ajudar Flávio com tarifaço",
+   "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/07/27/datafolha-52-pontos-percentuais-acham-que-trump-quer-ajudar-flvio-com-tarifao.ghtml",
+   "publicado": "2026-07-27T11:46:29+00:00",
+   "tickers": [],
+   "resumo": "Mais da metade do eleitorado brasileiro acredita que o tarifaço imposto pelo governo Donald Trump ao Brasil visa auxiliar a pré-campanha de Flávio Bolsonaro (PL) à Presidência. De acordo com pesquisa Datafolha divulgada hoje pela Folha de S. Paulo, para 52%, a medida tem esse fim"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Bitcoin ou Bitcoin Cash? Entenda as diferenças entre as duas criptomoedas",
+   "url": "https://investnews.com.br/investimentos/bitcoin-ou-bitcoin-cash-entenda-as-diferencas-entre-as-duas-criptomoedas/",
+   "publicado": "2026-07-27T11:45:13+00:00",
+   "tickers": [],
+   "resumo": "O Bitcoin Cash surgiu em agosto de 2017 após uma divergência técnica entre desenvolvedores do Bitcoin"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Boletim Focus: Cresce expectativa para inflação em 2027 e 2028",
+   "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/07/27/boletim-focus-cresce-expectativa-para-inflacao-em-2027-e-2028.ghtml",
+   "publicado": "2026-07-27T11:40:18+00:00",
+   "tickers": [],
+   "resumo": "A expectativa dos economistas para a inflação em 2027 subiu após continuar estável na semana passada, enquanto a previsão para 2028 subiu pela segunda vez seguida, apontou o Boletim Focus, divulgado pelo Banco Central nesta segunda-feira (27). \nA projeção para o Índice Nacional d"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Embraer (EMBJ3), Petrobras (PETR4), Triunfo (TPIS3), Copasa (CSMG3) e mais: Veja os destaques das empresas",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/07/27/embraer-embj3-petrobras-petr4-triunfo-tpis3-copasa-csmg3-e-mais-veja-os-destaques-das-empresas.ghtml",
+   "publicado": "2026-07-27T11:13:57+00:00",
+   "tickers": [
+    "CSMG3",
+    "EMBJ3",
+    "PETR4",
+    "TPIS3"
+   ],
+   "resumo": "Embraer\nA carteira de pedidos da Embraer alcançou US$ 34,5 bilhões no segundo trimestre, o que significa um crescimento de 7% em relação aos três meses anteriores. A área de defesa foi a que mais contribuiu para o avanço, com uma aumento na carteira de pedidos de 39%, para US$ 6,"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Petróleo cai abaixo de US$ 90 com indicações de pausa na guerra e anima investidor",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/07/27/petroleo-cai-abaixo-de-us-90-com-indicacoes-de-pausa-na-guerra-e-anima-investidor.ghtml",
+   "publicado": "2026-07-27T10:46:18+00:00",
+   "tickers": [],
+   "resumo": "O preço do petróleo caia para abaixo de US$ 90 o barril nesta segunda-feira (27), com pistas de pausa no conflito entre os Estados Unidos e o Irã amenizando o medo do mercado de novas interrupções no fornecimento da commodity. A indicação de pausa estimula o apetite global por in"
   },
   {
    "fonte": "Valor Investe",
@@ -110,7 +403,7 @@
   },
   {
    "fonte": "InvestNews",
-   "titulo": "A participação da Nike no mercado de fãs de tênis está caindo. Isso é bom para suas ações",
+   "titulo": "A participação da Nike no mercado de fãs de tênis está caindo. Isso é bom para as ações da marca",
    "url": "https://investnews.com.br/the-wall-street-journal/a-participacao-da-nike-no-mercado-de-fas-de-tenis-esta-caindo-isso-e-bom-para-suas-acoes/",
    "publicado": "2026-07-27T09:03:00+00:00",
    "tickers": [],
@@ -122,7 +415,7 @@
    "url": "https://valorinveste.globo.com/produtos/renda-fixa/noticia/2026/07/27/com-o-mercado-em-modo-defesa-onde-estao-as-oportunidades-na-renda-fixa.ghtml",
    "publicado": "2026-07-27T09:00:08+00:00",
    "tickers": [],
-   "resumo": "O investidor que atravessou o primeiro semestre com títulos de crédito privado na carteira pode ter visto a marcação a mercado corroer parte do seu rendimento. Agora, os retornos começam não só a voltar ao patamar anterior como se acomodam um pouco mais elevados, ampliando a dife"
+   "resumo": "O investidor que atravessou o primeiro semestre com títulos de crédito privado na carteira pode ter visto a marcação a mercado corroer parte do seu rendimento. Agora, os retornos acumulados começam não só a voltar ao patamar anterior, como se acomodam um pouco mais elevados, ampl"
   },
   {
    "fonte": "InvestNews",
@@ -187,17 +480,6 @@
    "publicado": "2026-07-26T14:11:20+00:00",
    "tickers": [],
    "resumo": "O resultado da Mega-Sena 3036 com prêmio de R$ 69,5 foi divulgado neste domingo (26), em São Paulo, e ninguém acertou as seis dezenas. Com isso, o prêmio acumulou em R$ 78 milhões para o próximo sorteio que vai ser realizado na terça-feira (28).\nOs números sorteados foram: 05 - 1"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "IRB(Re) (IRBR3) e Bradesco (BBDC4): Veja quem paga dividendos na semana",
-   "url": "https://www.suno.com.br/noticias/irb-irbr3-o-bradesco-bbdc4-agenda-dividendos-24072026/",
-   "publicado": "2026-07-26T13:00:00+00:00",
-   "tickers": [
-    "BBDC4",
-    "IRBR3"
-   ],
-   "resumo": "IRB(Re) (IRBR3) e Bradesco (BBDC4): Veja quem paga dividendos na semanaA semana começa animada para os investidores que têm a estratégia de receber dividendos para reinvestir e engordar seu patrimônio, com destaque para os investidores do IRB(Re) (IRBR3). Os dividendos do IRB som"
   },
   {
    "fonte": "InvestNews",
@@ -312,92 +594,12 @@
    "resumo": "A Thopen, empresa de geração distribuída de energia renovável controlada pela Pontal Energy, do private equity Denham Capital, obteve uma tutela de urgência para proteção contra credores enquanto prepara a entrada de seu pedido de recuperação judicial, fontes disseram ao Brazil J"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "RZTR11 recebe valor de multa de R$ 3,42 milhões e mantém receita após troca de arrendatária no MT",
-   "url": "https://www.suno.com.br/noticias/rztr11-recebe-valor-de-multa-de-r-342-milhoes-e-mantem-receita-apos-troca-de-arrendataria-no-mt/",
-   "publicado": "2026-07-25T00:55:07+00:00",
-   "tickers": [
-    "RZTR11"
-   ],
-   "resumo": "O RZTR11 (Riza Terrax) comunicou ter concluído a troca da arrendatária e dos detentores da opção de compra de um conjunto de fazendas em Campo Verde (MT). Segundo a gestora, a reorganização contratual preserva a geração de receitas do fundo e adiciona uma receita extraordinária e"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Liquidação do XPIN11: cronograma de entrega das cotas do IVBP11 e encerramento do fundo é revisado",
-   "url": "https://www.suno.com.br/noticias/liquidacao-do-xpin11-cronograma-de-entrega-das-cotas-do-ivbp11-e-encerramento-do-fundo-e-revisado/",
-   "publicado": "2026-07-25T00:15:05+00:00",
-   "tickers": [
-    "IVBP11",
-    "XPIN11"
-   ],
-   "resumo": "O fundo imobiliário XPIN11 (Invista Industrial FII) teve o cronograma da etapa final de sua liquidação ajustado. Em Fato Relevante desta quinta-feira (23), a gestora Invista Real Estate informou que a entrega das cotas do Invista Business Park FII (IVBP11) aos cotistas — e o cons"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "SNME11 sobe 0,85% após pagar maior dividendo de sua história e avança em consolidação",
-   "url": "https://www.suno.com.br/noticias/snme11-sobe-085-apos-pagar-maior-dividendo-de-sua-historia-e-avanca-em-consolidacao/",
-   "publicado": "2026-07-24T23:45:05+00:00",
-   "tickers": [
-    "KISU11",
-    "SNME11"
-   ],
-   "resumo": "As cotas do fundo imobiliário SNME11 encerraram a sessão desta sexta-feira (24) com avanço de 0,85%, cotadas a R$ 9,45, mesmo após o pagamento do maior dividendo já distribuído pelo fundo. O movimento ocorre em meio ao processo de consolidação do Suno Multiestratégia, que teve a "
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "KNSC11 anuncia 6ª emissão de cotas para captar até R$ 400 milhões",
-   "url": "https://www.suno.com.br/noticias/knsc11-anuncia-6a-emissao-de-cotas-para-captar-ate-r-400-milhoes/",
-   "publicado": "2026-07-24T23:35:07+00:00",
-   "tickers": [
-    "KNSC11"
-   ],
-   "resumo": "O KNSC11 (Kinea Securities Fundo de Investimento Imobiliário Responsabilidade Limitada) aprovou a 6ª emissão de cotas, em oferta pública que poderá movimentar inicialmente cerca de R$ 400 milhões. A decisão consta de fato relevante divulgado no começo da noite desta sexta-feira ("
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "ALZC11 é destaque entre ganhos dos FIIs e fecha com alta superior a 2%",
-   "url": "https://www.suno.com.br/noticias/alzc11-e-destaque-entre-ganhos-dos-fiis-e-fecha-com-alta-superior-a-2/",
-   "publicado": "2026-07-24T23:25:08+00:00",
-   "tickers": [
-    "ALZC11"
-   ],
-   "resumo": "As cotas do ALZC11 tiveram uma das maiores altas entre os fundos monitorados nesta sexta-feira (24), com avanço de 2,05% e fechamento a R$ 7,47. O movimento ocorre em meio ao processo de captação em curso e a ajustes recentes na carteira do fundo. O fundo imobiliário (FII) inicio"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "SNID11 fecha em forte alta de 1,4% após pagamento de dividendos",
-   "url": "https://www.suno.com.br/noticias/snid11-fecha-em-forte-alta-de-14-apos-pagamento-de-dividendos/",
-   "publicado": "2026-07-24T23:05:06+00:00",
-   "tickers": [
-    "SNID11"
-   ],
-   "resumo": "O fundo de infraestrutura da Suno Asset avançou 1,41% nesta sexta-feira (24), fechando o pregão a R$ 10,76 em sessão marcada pelo crédito de rendimentos aos cotistas. O movimento ocorreu no mesmo dia em que foram pagos os proventos referentes ao mês de junho. O veículo distribuiu"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Datafolha mostra Lula à frente de Flávio Bolsonaro no 1º e no 2º turnos; veja números",
    "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/07/24/datafolha-mostra-lula-a-frente-de-flavio-bolsonaro-no-1o-e-no-2o-turnos-veja-numeros.ghtml",
    "publicado": "2026-07-24T22:58:38+00:00",
    "tickers": [],
    "resumo": "O presidente Luiz Inácio Lula da Silva (PT) lidera a corrida presidencial de 2026 em um cenário de primeiro turno, segundo pesquisa Datafolha divulgada nesta sexta-feira (24). O petista aparece com 40% das intenções de voto, enquanto o senador Flávio Bolsonaro (PL) soma 32%.\nNa c"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Fundos da Suno Asset pagam dividendos nesta sexta; SNME11 distribuiu valor recorde",
-   "url": "https://www.suno.com.br/noticias/fundos-da-suno-asset-pagam-dividendos-nesta-sexta-snme11-distribuiu-valor-recorde/",
-   "publicado": "2026-07-24T22:55:07+00:00",
-   "tickers": [
-    "SNME11"
-   ],
-   "resumo": "Os investidores dos fundos listados da Suno Asset receberam nesta sexta-feira (24) uma nova rodada de dividendos referente aos resultados de junho. Os pagamentos abrangem fundos imobiliários, Fiagros e fundos de infraestrutura, com data-base definida para os cotistas posicionados"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "IFIX fecha sexta praticamente estável, mas registra recuo de 1,1% na semana",
-   "url": "https://www.suno.com.br/noticias/ifix-fecha-sexta-praticamente-estavel-mas-registra-recuo-de-11-na-semana/",
-   "publicado": "2026-07-24T22:45:07+00:00",
-   "tickers": [],
-   "resumo": "O IFIX encerrou o pregão desta sexta-feira (24) aos 3.805,03 pontos, avanço de 1,1 ponto (+0,03%) frente ao fechamento anterior. Ao longo da sessão, o índice de fundos imobiliários oscilou entre a mínima de 3.801,67 pontos e a máxima de 3.808,51 pontos, terminando o dia próximo d"
   },
   {
    "fonte": "Valor Investe",
@@ -554,22 +756,6 @@
    "resumo": "Nova deterioração no cenário econômico global coloca em xeque o alívio recente nas expectativas de inflação e desafia os bancos centrais"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Sal, manteiga e dinheiro: como baldes de pipoca viraram um negócio de US$ 100 milhões",
-   "url": "https://investnews.com.br/negocios/como-baldes-de-pipoca-viraram-um-negocio-de-us-100-milhoes-para-os-cinemas-nos-eua/",
-   "publicado": "2026-07-24T18:27:26+00:00",
-   "tickers": [],
-   "resumo": "Redes americanas transformam itens colecionáveis em uma nova fonte de receita; estratégia já faz parte do modelo de negócios das principais exibidoras brasileiras"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Marca Nutrella é leiloada após tentativas frustradas de venda. O vencedor: ainda é segredo",
-   "url": "https://investnews.com.br/negocios/leilao-nutrella-resultado-bimbo/",
-   "publicado": "2026-07-24T18:17:34+00:00",
-   "tickers": [],
-   "resumo": "Nome do comprador que arrematou a marca que hoje pertence à Bimbo segue em sigilo, uma vez que ainda depende do aval do Cade"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Tesouro Direto: taxas recuam após estresse e acompanham alívio no petróleo e nos juros",
    "url": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/07/24/tesouro-direto-taxas-recuam-apos-estresse-e-acompanham-alivio-no-petroleo-e-nos-juros.ghtml",
@@ -610,28 +796,12 @@
    "resumo": "Apesar do recuo nesta sexta-feira (24), o petróleo fechou a semana com forte valorização. Com a escalada do conflito no Oriente Médio nos últimos dias, o contrato do Brent acumulou alta de quase 10% na semana, a US$ 96,78, enquanto o WTI saltou cerca de 8%, a US$ 89,31.\nNo fecham"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Por que o Brasil foi o país mais prejudicado pelas novas tarifas de Trump",
-   "url": "https://investnews.com.br/economia/brasil-mais-afetado-tarifas-eua/",
-   "publicado": "2026-07-24T16:07:54+00:00",
-   "tickers": [],
-   "resumo": "Tarifa efetiva sobre produtos do Brasil sobe  para 17,7%, o maior salto entre parceiros comerciais dos EUA, enquanto Europa ganha alívio"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Com guerra e eleições, ASA vê pouco espaço para queda dos juros no Brasil",
    "url": "https://valorinveste.globo.com/mercados/noticia/2026/07/24/com-guerra-e-eleicoes-asa-ve-pouco-espaco-para-queda-dos-juros-no-brasil.ghtml",
    "publicado": "2026-07-24T13:56:35+00:00",
    "tickers": [],
    "resumo": "A combinação entre as incertezas geopolíticas e o cenário político doméstico deve manter os investidores cautelosos na alocação de recursos tanto em renda fixa quanto em renda variável, na avaliação de Jeferson Bittencourt, chefe de macroeconomia do ASA. \nDurante painel na Expert"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Vazamento de gás mantém plataforma P-52 da Petrobras parada há nove meses",
-   "url": "https://investnews.com.br/negocios/vazamento-de-gas-mantem-plataforma-p-52-da-petrobras-parada-ha-nove-meses/",
-   "publicado": "2026-07-24T13:54:25+00:00",
-   "tickers": [],
-   "resumo": "Petrobras ainda não tem previsão para retomar as operações da unidade, que está interditada pela ANP desde outubro de 2025 após um vazamento de gás"
   },
   {
    "fonte": "Valor Investe",
@@ -650,14 +820,6 @@
     "PETR4"
    ],
    "resumo": "O mercado doméstico viveu uma sessão de ajuste e cautela nesta sexta-feira (24). O Ibovespa operou no campo negativo do começo ao fim do dia, consolidando 1,5% de queda no fechamento e testando a região limite dos 174 mil pontos. \nO tom defensivo do mercado local foi chancelado p"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Stablecoin: cripto de real da B3 ganha data para estrear",
-   "url": "https://investnews.com.br/investimentos/stablecoin-cripto-de-real-da-b3-ganha-data-para-estrear/",
-   "publicado": "2026-07-24T11:32:43+00:00",
-   "tickers": [],
-   "resumo": "Além da stablecoin, a B3 também pretende iniciar a tokenização de ativos do mercado financeiro em 2027"
   },
   {
    "fonte": "Valor Investe",
@@ -679,161 +841,6 @@
    "publicado": "2026-07-24T10:51:14+00:00",
    "tickers": [],
    "resumo": "Depois de disparar por dois dias consecutivos e alcançar os US$ 100, a cotação do petróleo recua firme e dá um alívio aos investidores do mundo nesta sexta-feira (24). Em um ambiente de calibração das expectativas para a inflação e os juros, o mercado aguarda com ansiedade a part"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Debêntures, CRIs e CRAs voltaram a pagar mais. Vale a pena investir agora?",
-   "url": "https://investnews.com.br/investimentos/taxas-de-debentures-cris-e-cras-voltam-a-se-aproximar-do-maior-nivel-do-ano-mas-cuidado/",
-   "publicado": "2026-07-24T10:00:00+00:00",
-   "tickers": [],
-   "resumo": "Gestores divergem entre aproveitar as taxas atuais e esperar por prêmios maiores no crédito privado"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "O que a física quântica tem a ver com as suas finanças pessoais?",
-   "url": "https://valorinveste.globo.com/blogs/carlos-heitor-campani/coluna/o-que-a-fisica-quantica-tem-a-ver-com-as-suas-financas-pessoais.ghtml",
-   "publicado": "2026-07-24T09:50:09+00:00",
-   "tickers": [],
-   "resumo": "Olá, pessoal! À primeira vista, tentar unir física quântica (que, fundamentalmente, analisa o comportamento de partículas subatômicas) e finanças pessoais pode parecer um exercício de malabarismo intelectual. Afinal, o que o comportamento de um elétron tem a ver com a sua carteir"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "O futuro da contabilidade, tecnologia e sustentabilidade: destaques do congresso USP",
-   "url": "https://valorinveste.globo.com/blogs/alexandre-evaristo-pinto/coluna/o-futuro-da-contabilidade-tecnologia-e-sustentabilidade-destaques-do-congresso-usp.ghtml",
-   "publicado": "2026-07-24T09:30:11+00:00",
-   "tickers": [],
-   "resumo": "A 26ª edição do USP International Conference in Accounting e o 23º Congresso USP de Iniciação Científica em Contabilidade, promovidos anualmente pelo Departamento de Contabilidade e Atuária da FEA/USP, reafirmam a posição do evento como o principal ecossistema de debate acadêmico"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "O ‘casamento do século’ virou o ‘divórcio do século’: a disputa por uma fortuna de US$ 5 bilhões na Coreia do Sul",
-   "url": "https://investnews.com.br/the-wall-street-journal/este-bilionario-da-ia-acabou-de-dobrar-sua-fortuna-a-ex-esposa-quer-metade/",
-   "publicado": "2026-07-24T09:02:00+00:00",
-   "tickers": [],
-   "resumo": "Ex-mulher de Chey Tae-won reivindica parte da fortuna que disparou com o boom global da inteligência artificial"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "O Brasil precisa trocar mais de 30 mil ônibus. Mas quem vai pagar a conta?",
-   "url": "https://investnews.com.br/negocios/move-brasil2-renova-frota-onibus/",
-   "publicado": "2026-07-24T09:00:00+00:00",
-   "tickers": [],
-   "resumo": "Queda de passageiros e crédito escasso encarecem a renovação e ampliam a dependência de dinheiro público"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Receita libera consulta ao terceiro lote de restituição do IR 2026; saiba se vai receber",
-   "url": "https://valorinveste.globo.com/imposto-de-renda/noticia/2026/07/24/consulta-ao-terceiro-lote-de-restituicao-do-imposto-de-renda-2026-saiba-se-vai-receber.ghtml",
-   "publicado": "2026-07-24T03:00:01+00:00",
-   "tickers": [],
-   "resumo": "A Receita Federal liberou nesta sexta-feira (24) a consulta ao terceiro lote de restituição do Imposto de Renda 2026 que vai contemplar 2.7 milhões de contribuintes. O dinheiro vai ser depositado em 31 de julho na conta ou chave Pix informada na declaração e o fisco vai desembols"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "XP espera dobrar participação no mercado de investimentos em sete anos",
-   "url": "https://valorinveste.globo.com/objetivo/hora-de-investir/noticia/2026/07/23/xp-espera-dobrar-participacao-no-mercado-de-investimentos-em-sete-anos.ghtml",
-   "publicado": "2026-07-23T23:11:42+00:00",
-   "tickers": [],
-   "resumo": "A XP tem planos ambiciosos para os próximos anos. A instituição tem hoje cerca de 11% do mercado brasileiro de investimentos e esperar quase dobrar essa participação, chegando em 20% até 2033. Essa é a previsão feita pelo presidente da XP Inc, Thiago Maffra, no primeiro dia da 16"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Os muito ricos estão surfando em ondas artificiais. Agora, há uma corrida bilionária por elas",
-   "url": "https://investnews.com.br/negocios/piscinas-com-ondas-sao-nova-aposta-luxo/",
-   "publicado": "2026-07-23T23:07:27+00:00",
-   "tickers": [],
-   "resumo": "Piscinas de ondas valorizam imóveis e vendem títulos milionários, mas o retorno ainda é incerto"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Advent avalia saída da Tigre quatro anos após aporte bilionário",
-   "url": "https://investnews.com.br/negocios/advent-avalia-saida-da-tigre-quatro-anos-apos-aporte-bilionario/",
-   "publicado": "2026-07-23T22:40:40+00:00",
-   "tickers": [],
-   "resumo": "Gestora contratou o Morgan Stanley para estudar alternativas para sua participação de 25% na companhia"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Brasil entra na nova tarifa global de Trump e exportações aos EUA terão taxa de 12,5%",
-   "url": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/07/23/brasil-entra-na-nova-tarifa-global-de-trump-e-exportacoes-aos-eua-terao-taxa-de-125percent.ghtml",
-   "publicado": "2026-07-23T21:54:05+00:00",
-   "tickers": [],
-   "resumo": "O governo do presidente dos Estados Unidos, Donald Trump, anunciou nesta quinta-feira (23) uma nova rodada de tarifas sobre importações de 60 parceiros comerciais, incluindo o Brasil, que passará a pagar uma tarifa de 12,5% nas exportações para o mercado americano. \nA medida tamb"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Posso comprar um carro com o CNPJ da minha empresa para economizar e pagar menos impostos?",
-   "url": "https://investnews.com.br/negocios/vale-pena-comprar-carro-com-cnpj-impostos/",
-   "publicado": "2026-07-23T21:48:41+00:00",
-   "tickers": [],
-   "resumo": "Comprar bens em nome da empresa pode reduzir a carga tributária em alguns casos, mas a estratégia tem regras e riscos que precisam ser considerado"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Inteligência artificial cria oportunidades que a bolsa brasileira ainda não consegue oferecer",
-   "url": "https://valorinveste.globo.com/produtos/investimento-no-exterior/noticia/2026/07/23/inteligencia-artificial-cria-oportunidades-que-a-bolsa-brasileira-ainda-nao-consegue-oferecer.ghtml",
-   "publicado": "2026-07-23T21:41:38+00:00",
-   "tickers": [],
-   "resumo": "A inteligência artificial abriu uma nova fronteira de investimentos, mas o Brasil participa de apenas uma pequena parte dessa transformação. A avaliação é de Marina Valentini, estrategista de mercados globais no J.P. Morgan Asset Management, durante painel na Expert XP. \nSegundo "
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Brasileiros exageraram nos investimentos que acompanham CDI, dizem gestores",
-   "url": "https://valorinveste.globo.com/produtos/renda-fixa/noticia/2026/07/23/brasileiros-exageraram-nos-investimentos-que-acompanham-cdi-dizem-gestores.ghtml",
-   "publicado": "2026-07-23T21:41:09+00:00",
-   "tickers": [],
-   "resumo": "Assustados com as oscilações nas taxas do crédito privado recentemente, os brasileiros acabaram exagerando nos investimentos que acompanham o CDI para fugir da volatilidade, na visão de gestores de fundos de crédito privado. Contudo, eles alertam que as oscilações são parte do jo"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "EUA aplicam tarifa extra de 12,5% ao Brasil; taxa total pode chegar a 37,5%",
-   "url": "https://investnews.com.br/economia/eua-tarifa-extra-brasil-12-5/",
-   "publicado": "2026-07-23T21:27:51+00:00",
-   "tickers": [],
-   "resumo": "Medida decorre de investigação sobre trabalho forçado em 60 países e deve se somar à tarifa de 25% em vigor desde quarta-feira"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Isenção de debêntures incentivadas tende a acabar, afirmam gestores",
-   "url": "https://valorinveste.globo.com/credito-privado/noticia/2026/07/23/isencao-de-debentures-incentivadas-tende-a-acabar-afirmam-gestores.ghtml",
-   "publicado": "2026-07-23T21:13:39+00:00",
-   "tickers": [],
-   "resumo": "A isenção das debêntures incentivadas provavelmente vai acabar em algum momento, porque não é sustentável para os cofres do governo no longo prazo, na avaliação de gestores de fundos de crédito privado. Após o estresse recente nas taxas desses títulos, que fez brasileiros debanda"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Pelo menos 15% da carteira no exterior? Especialistas defendem diversificação global para investidor brasileiro",
-   "url": "https://valorinveste.globo.com/produtos/investimento-no-exterior/noticia/2026/07/23/pelo-menos-15percent-da-carteira-no-exterior-especialistas-defendem-diversificacao-global-para-investidor-brasileiro.ghtml",
-   "publicado": "2026-07-23T20:57:55+00:00",
-   "tickers": [],
-   "resumo": "Concentrar praticamente todo o patrimônio no Brasil pode deixar a carteira mais exposta aos riscos da economia local. Por isso, especialistas reunidos na Expert XP defenderam que o investidor brasileiro tenha pelo menos 15% dos investimentos alocados no exterior como ponto de par"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Nova disrupção da IA será nos setores 'chatos', diz especialista",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/noticia/2026/07/23/nova-disrupcao-da-ia-sera-nos-setores-chatos-diz-especialista.ghtml",
-   "publicado": "2026-07-23T20:39:43+00:00",
-   "tickers": [],
-   "resumo": "Se até agora os vencedores da corrida pela inteligência artificial foram empresas de semicondutores, é possível que na nova fase os destaques sejam os setores \"chatos\", ou da velha economia. É o que afirmou Laura Howenstine, diretora de investimentos da Wellington Management, em "
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Enquanto as 'big techs' afundaram em NY, a boa e velha economia evitou um desastre no Ibovespa",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/07/23/enquanto-as-big-techs-afundaram-em-ny-a-boa-e-velha-economia-evitou-um-desastre-no-ibovespa.ghtml",
-   "publicado": "2026-07-23T20:28:38+00:00",
-   "tickers": [
-    "HAPV3",
-    "MGLU3"
-   ],
-   "resumo": "O mesmo combustível que fez os índices em Nova York sangrarem mais de 2% nesta quinta-feira (23) serviu como um amortecedor para a bolsa brasileira. A volta do petróleo à casa dos US$ 100 renovou o temor inflacionário global e disparou as taxas de juros mundo afora. \nA explicação"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "FIDCs terão mais investidores que a bolsa e os fundos imobiliários, avalia Ouro Preto",
-   "url": "https://valorinveste.globo.com/mercados/noticia/2026/07/23/fidcs-terao-mais-investidores-que-a-bolsa-e-os-fundos-imobiliarios-avalia-ouro-preto.ghtml",
-   "publicado": "2026-07-23T20:22:53+00:00",
-   "tickers": [],
-   "resumo": "Os Fundos de Investimento em Direitos Creditórios (FIDCs) são uma disrupção grande no mercado de crédito e, em algum momento, o número de cotistas nesses fundos será maior do que o número de investidores na bolsa ou em fundos imobiliários, na análise de João Peixoto, CEO Ouro Pre"
   }
  ]
 }
