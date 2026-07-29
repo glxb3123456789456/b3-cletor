@@ -4,19 +4,176 @@
  "dados": [
   {
    "fonte": "Money Times",
-   "titulo": "Tesouro Direto: Taxas voltam a subir após alívio com IPCA-15; confira os títulos nesta quarta-feira (29)",
-   "url": "https://www.moneytimes.com.br/tesouro-direto-taxas-voltam-a-subir-apos-alivio-com-ipca-15-jcav/",
-   "publicado": "2026-07-29T14:21:33+00:00",
-   "tickers": [],
-   "resumo": "As taxas do Tesouro Direto abriram em alta nesta quarta-feira (29), devolvendo parte do alívio observado na sessão anterior, quando os rendimentos recuaram após a divulgação do IPCA-15 de julho abaixo das expectativas do mercado. Na comparação entre o fechamento de terça-feira (2"
+   "titulo": "CVM adia assembleia da EMAE (EMAE4) sobre incorporação pela Sabesp (SBSP3) e pede informações adicionais; ação recua 2%",
+   "url": "https://www.moneytimes.com.br/cvm-adia-assembleia-da-emae-sobre-incorporacao-pela-sabesp-sbsp3-e-pede-informacoes-adicionais-acao-recua-2-apsa/",
+   "publicado": "2026-07-29T15:56:09+00:00",
+   "tickers": [
+    "EMAE4",
+    "SBSP3"
+   ],
+   "resumo": "A Comissão de Valores Mobiliários (CVM) acatou por unanimidade o pedido de uma acionista minoritária da EMAE (EMAE4) para adiar por 30 dias a Assembleia Geral Extraordinária (AGE), prevista para esta quinta-feira (30), para deliberar sobre a incorporação da companhia pela Sabesp "
   },
   {
    "fonte": "Money Times",
-   "titulo": "Petróleo salta mais de 6% com fim da trégua entre EUA e Irã",
-   "url": "https://www.moneytimes.com.br/petroleo-intradia-28-7-26-lils/",
-   "publicado": "2026-07-29T14:11:33+00:00",
+   "titulo": "O que o IPO da Shein revela sobre a ameaça ao varejo brasileiro, segundo analistas",
+   "url": "https://www.moneytimes.com.br/o-que-o-ipo-da-shein-revela-sobre-a-nova-ameaca-ao-varejo-brasileiro-segundo-a-xp-e-o-bradesco-bbi-ceci/",
+   "publicado": "2026-07-29T15:54:51+00:00",
    "tickers": [],
-   "resumo": "Após três dias consecutivos de preços do petróleo disparam nesta quarta-feira (29) com a retomada dos ataques entre Estados Unidos e Irã no Oriente Médio, o que afastou o otimismo de avanço nas negociações para um acordo de paz definitivo na região. Por volta de 11h (horário de B"
+   "resumo": "A abertura de capital da Shein na Bolsa de Hong Kong revelou detalhes financeiros e operacionais da gigante chinesa de moda e reforçou a percepção de que a empresa continuará sendo uma das principais ameaças ao varejo de vestuário brasileiro, de acordo analistas. Segundo eles, o "
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Pernambucanas troca comando: recruta ex-CEO do GPA e ex-CFO do Avenida",
+   "url": "https://braziljournal.com/pernambucanas-troca-comando-recruta-ex-ceo-do-gpa-e-ex-cfo-do-avenida/",
+   "publicado": "2026-07-29T15:49:43+00:00",
+   "tickers": [],
+   "resumo": "A Pernambucanas acaba de trocar todo o seu comando para tentar fazer algo que não conseguiu nos últimos anos: transformar seu turnaround em lucro. Marcelo Pimentel, o ex-CEO do GPA e da Lojas Marisa, vai substituir Ricardo Doebeli na presidência da varejista centenária a partir d"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Santander (SANB11): CFO vê ‘piora macro’ e responde se dividendos podem diminuir com resultado mais fraco desde 2023",
+   "url": "https://www.moneytimes.com.br/santander-san11-cfo-ve-piora-macro-e-responde-se-dividendos-podem-diminuir-com-resultado-mais-fraco-desde-2023-rnda/",
+   "publicado": "2026-07-29T15:38:57+00:00",
+   "tickers": [
+    "SANB11"
+   ],
+   "resumo": "Ainda sem o seu novo CEO, Gilson Finkelsztain, coube ao CFO do Santander (SANB11), Carlos Muñiz, &#8216;dar a cara&#8217; para explicar melhor os números do banco. O banco lucrou R$ 3 bilhões, cifra bem abaixo do consenso do mercado. Trata-se do pior resultado desde 2023. Na bols"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Dividendos do FGTS? Quem tem direito, quanto é e quando cai na conta",
+   "url": "https://www.moneytimes.com.br/dividendos-do-fgts-quem-tem-direito-quanto-e-e-quando-cai-na-conta-isca/",
+   "publicado": "2026-07-29T15:35:36+00:00",
+   "tickers": [],
+   "resumo": "Foi aprovada na terça-feira (28) a distribuição de 89% do lucro obtido pelo Fundo de Garantia do Tempo de Serviço (FGTS) em 2025. A decisão, tomada pelo Conselho Curador do fundo, destinará pouco mais de R$ 13 bilhões aos trabalhadores com carteira assinada. Os depósitos serão re"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Coreia quer terras raras do Brasil: POSCO vai a Minas",
+   "url": "https://braziljournal.com/coreia-quer-terras-raras-do-brasil-posco-vai-a-minas/",
+   "publicado": "2026-07-29T15:35:27+00:00",
+   "tickers": [],
+   "resumo": "A POSCO — a gigante coreana da siderurgia — fez uma parceria estratégica com a australiana Meteoric Resources visando garantir acesso a uma parcela da produção futura de um projeto de terras raras em Minas Gerais. O acordo mostra como o potencial brasileiro em terras raras está d"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Hypera aumenta a disputa pelas canetas emagracedoras no Brasil – a guerra de preços apenas começou",
+   "url": "https://investnews.com.br/negocios/hypera-caneta-obesidade-ozempic/",
+   "publicado": "2026-07-29T15:19:10+00:00",
+   "tickers": [],
+   "resumo": "Anvisa aprovou o Semavy, medicamento da Hypera; analistas veem oportunidade, mas alertam para a disputa por rentabilidade com a entrada de novos concorrentes"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Bradesco BBI elege Cogna (COGN3) como top pick e vê potencial de 82%, mas rebaixa educacional que acendeu alerta no mercado",
+   "url": "https://www.moneytimes.com.br/bradesco-bbi-elege-cogna-cogn3-como-top-pick-e-ve-potencial-de-82-mas-rebaixa-educacional-que-acendeu-alerta-no-mercado/",
+   "publicado": "2026-07-29T15:15:31+00:00",
+   "tickers": [
+    "COGN3"
+   ],
+   "resumo": "O Bradesco BBI escolheu uma nova top pick no setor de educação: a Cogna (COGN3). O banco elevou a recomendação de neutro para compra e subiu o preço-alvo de R$ 3,80 para R$ 4, o que implica um potencial de valorização de 81,82% em relação ao fechamento anterior. De acordo com o b"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Caiado ataca Flávio Bolsonaro sobre convenção do PL: ‘Desceu a um nível rasteiro de agressão’",
+   "url": "https://www.moneytimes.com.br/caiado-ataca-flavio-bolsonaro-sobre-convencao-do-pl-desceu-a-um-nivel-rasteiro-de-agressao-gaep/",
+   "publicado": "2026-07-29T15:10:14+00:00",
+   "tickers": [],
+   "resumo": "O pré-candidato do PSD à presidência da República, Ronaldo Caiado, criticou o adversário Flávio Bolsonaro (PL) pela convenção do seu partido realizada no sábado (25), com a participação do presidente da Argentina, Javier Milei. Em declarações nesta quarta-feira (29), em Brasília,"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Magazine Luiza (MGLU3): Citi corta preço-alvo e vê pressão no online; o que fazer com as ações?",
+   "url": "https://www.moneytimes.com.br/magazine-luiza-mglu3-citi-corta-preco-alvo-e-ve-pressao-no-online-o-que-fazer-com-as-acoes-lmrs/",
+   "publicado": "2026-07-29T14:59:51+00:00",
+   "tickers": [
+    "MGLU3"
+   ],
+   "resumo": "O Citi cortou o preço-alvo do Magazine Luiza (MGLU3) de R$ 6,50 para R$ 6 por ação, mantendo a recomendação neutra/alto risco para a varejista. O banco atualizou o modelo antes dos resultados do segundo trimestre, de olho no bom desempenho das lojas físicas, enquanto o online enf"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Ciro Gomes lidera nos dois turnos no Ceará, aponta Ipsos-Ipec",
+   "url": "https://www.moneytimes.com.br/ciro-gomes-lidera-nos-dois-turnos-no-ceara-aponta-ipsos-ipec-gaep/",
+   "publicado": "2026-07-29T14:59:14+00:00",
+   "tickers": [],
+   "resumo": "Pesquisa Ipsos-Ipec ao governo do Ceará divulgada nesta quarta-feira (29) traz o ex-governador e ex-ministro Ciro Gomes (PSDB) na liderança, com 43% das intenções de voto no primeiro turno, queda de um ponto sobre os 44% em junho. O atual governador e Elmano de Freitas (PT), recu"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "O tri horroroso do Santander Brasil: lucro menor, mais provisões, ROE de 12,5%",
+   "url": "https://braziljournal.com/o-tri-horroroso-do-santander-brasil-lucro-menor-mais-provisoes-roe-de-125/",
+   "publicado": "2026-07-29T14:54:17+00:00",
+   "tickers": [],
+   "resumo": "O Santander Brasil abriu a temporada de balanços de bancos com um resultado preocupante no segundo trimestre. O lucro caiu para R$ 3 bilhões – 20% menor que o do primeiro trimestre e 18% abaixo do resultado do mesmo período de 2025. A ação despenca cerca de 6% hoje.  O consenso i"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Após balanço fraco, ações do Santander (SANB11) despencam na bolsa",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/07/29/apos-balanco-fraco-acoes-do-santander-despencam-na-bolsa.ghtml",
+   "publicado": "2026-07-29T14:47:14+00:00",
+   "tickers": [
+    "SANB11"
+   ],
+   "resumo": "As units do Santander Brasil (SANB11) despencam mais de 6% nesta quarta-feira (29) após a divulgação do resultado financeiro do 2º trimestre considerado fraco pelo mercado.\nAnalistas destacaram que o balanço veio pior do que o esperado, com aumento das provisões e desempenho frac"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "FII tem proposta milionária para vender escritórios na Berrini; veja valor",
+   "url": "https://www.suno.com.br/noticias/fundo-imobiliario-proposta-venda-thera/",
+   "publicado": "2026-07-29T14:45:21+00:00",
+   "tickers": [
+    "HAAA11"
+   ],
+   "resumo": "O fundo imobiliário HAAA11 (Hedge AAA Fundo de Investimento Imobiliário) comunicou ao mercado que recebeu proposta para vender um conjunto de escritórios no Thera Corporate, na Avenida Engenheiro Luiz Carlos Berrini, em São Paulo, por R$ 242,935 milhões. O informe foi feito por m"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Obras emergenciais de FII vão reduzir a base de rendimentos até 2027; entenda",
+   "url": "https://www.suno.com.br/noticias/fundo-imobiliario-hucg11-obra-rendimentos/",
+   "publicado": "2026-07-29T14:45:14+00:00",
+   "tickers": [
+    "HUCG11"
+   ],
+   "resumo": "O gestor do fundo imobiliário HUCG11 comunicou que contratará uma empresa especializada para corrigir pendências construtivas no imóvel ocupado pela Unimed Campina Grande, com reflexo direto na base de distribuição de rendimentos dos próximos meses. A administração classificou a "
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Resultado do VGIP11 sobe em junho; veja o rendimento e a carteira",
+   "url": "https://www.suno.com.br/noticias/rendimentos-do-vgip11-em-junho/",
+   "publicado": "2026-07-29T14:45:06+00:00",
+   "tickers": [
+    "VGIP11"
+   ],
+   "resumo": "Os rendimentos do VGIP11 somaram R$ 1,16 por cota na competência de junho. No mês, o fundo imobiliário apurou resultado de R$ 13,624 milhões, com receitas totais de R$ 14,523 milhões e despesas de R$ 898 mil, mostrando leve avanço frente aos meses anteriores. Em 12 meses, os rend"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Petrobras (PETR4) sobe mais de 2% após produção recorde: analistas veem espaço para mais dividendos",
+   "url": "https://www.moneytimes.com.br/petrobras-petr4-sobe-mais-de-2-apos-producao-recorde-analistas-veem-espaco-para-mais-dividendos-vtra/",
+   "publicado": "2026-07-29T14:41:16+00:00",
+   "tickers": [
+    "PETR4"
+   ],
+   "resumo": "As ações da Petrobras (PETR4) têm as maiores altas do Ibovespa nesta quarta-feira (29), repercutindo os números operacionais do segundo trimestre de 2026 (2T26). Por volta das 11h30 (horário de Brasília), os papéis avançavam 2,26%, a R$ 42,14. Na avaliação de analistas, o desempe"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Fed vai subir ou manter os juros nesta quarta? Veja o que o mercado espera",
+   "url": "https://www.suno.com.br/noticias/fed-juros-julho-2026-manutencao-reuniao-fomc-go/",
+   "publicado": "2026-07-29T14:40:00+00:00",
+   "tickers": [],
+   "resumo": "Fed vai subir ou manter os juros nesta quarta? Veja o que o mercado esperaO Federal Reserve (Fed), banco central dos Estados Unidos, anuncia nesta quarta-feira (29) sua decisão sobre a taxa de juros americana. O comunicado está previsto para as 15 horas, no horário de Brasília, s"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Mini índice pode buscar os 179 mil pontos se sustentar alta acima dos 177,2 mil; mini dólar mira 5.160",
+   "url": "https://www.moneytimes.com.br/mini-indice-pode-buscar-os-179-mil-pontos-se-sustentar-alta-acima-dos-1772-mil-mini-dolar-mira-5-160-jvka/",
+   "publicado": "2026-07-29T14:32:49+00:00",
+   "tickers": [
+    "WINQ26"
+   ],
+   "resumo": "O mini índice (WINQ26) fechou o último pregão em alta de 0,59%, aos 177.795 pontos, e manteve a trajetória de recuperação observada nas últimas sessões. Segundo análise técnica do BTG Pactual, o contrato segue negociado acima das médias móveis de 21, 50 e 200 períodos no gráfico "
   },
   {
    "fonte": "Brazil Journal",
@@ -25,6 +182,14 @@
    "publicado": "2026-07-29T14:08:50+00:00",
    "tickers": [],
    "resumo": "Quando foi arrastada pela Rússia para a guerra, há quatro anos, a Ucrânia suplicava às grandes potências do Ocidente por armamentos.  Mas de lá pra cá, o país fortaleceu sua indústria bélica com o conhecimento acumulado no front – e agora produz alguns dos drones mais desejados d"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Tesouro Direto: juros sobem em meio a forte alta do petróleo e à espera do Fed",
+   "url": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/07/29/tesouro-direto-juros-sobem-em-meio-a-forte-alta-do-petroleo-e-a-espera-do-fed.ghtml",
+   "publicado": "2026-07-29T14:06:50+00:00",
+   "tickers": [],
+   "resumo": "Os juros do Tesouro Direto sobem nesta quarta-feira (29) em meio a uma disparada no preço do petróleo, com novos ataques entre Irã e Estados Unidos pondo fim ao breve hiato dos últimos dias. Além disso, investidores esperam com apreensão o resultado da reunião do Federal Reserve "
   },
   {
    "fonte": "Suno Noticias",
@@ -38,76 +203,6 @@
    "resumo": "A Petrobras (PETR4; PETR3) registrou o maior volume de produção da sua história no segundo trimestre de 2026. A estatal extraiu 3,336 milhões de barris de óleo equivalente por dia (boed) entre abril e junho, o que representa alta de 3,5% frente ao primeiro trimestre e avanço de a"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "3tentos (TTEN3): Citi corta preço-alvo por 2T26 fraco e perspectiva de margens mais fracas à frente",
-   "url": "https://www.moneytimes.com.br/3tentos-tten3-citi-corta-preco-alvo-por-2t26-fraco-e-perspectiva-de-margens-mais-fracas-a-frente/",
-   "publicado": "2026-07-29T14:01:38+00:00",
-   "tickers": [
-    "TTEN3"
-   ],
-   "resumo": "O Citi reduziu o preço-alvo das ações da 3tentos (TTEN3) de R$ 20 para R$ 17, mantendo a recomendação de compra, após revisar para baixo suas expectativas para os resultados do segundo trimestre de 2026 e para as margens da divisão industrial nos próximos períodos. Por volta de 1"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Ormuz pressiona fertilizantes: enxofre sobe 322% em um ano, fosfatados perdem demanda e ureia volta a avançar",
-   "url": "https://www.moneytimes.com.br/ormuz-pressiona-fertilizantes-enxofre-sobe-322-em-um-ano-fosfatados-perdem-demanda-e-ureia-volta-a-avancar-pads/",
-   "publicado": "2026-07-29T13:44:47+00:00",
-   "tickers": [],
-   "resumo": "O mercado global de fertilizantes continua enfrentando pressões provocadas pelas interrupções nos fluxos comerciais no Estreito de Ormuz, cenário que tem elevado os custos de produção, reduzido a oferta de alguns produtos e mantido os preços em patamares elevados. Segundo Maísa R"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Wall Street cai em compasso de espera por decisão do Fed",
-   "url": "https://www.moneytimes.com.br/wall-street-abertura-29-7-26-lils/",
-   "publicado": "2026-07-29T13:39:13+00:00",
-   "tickers": [],
-   "resumo": "Os índices de Wall Street operam em queda nos primeiros minutos do pregão desta quarta-feira (29) em compasso de espera pela decisão de juros do Federal Reserve (Fed, o Banco Central norte-americano). A retomada das tensões no Oriente Médio e a disparada dos preços do petróleo ta"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "FI-Infra do BTG migra para a B3 e amplia oferta de fundos atrelados ao CDI",
-   "url": "https://www.moneytimes.com.br/fi-infra-do-btg-migra-para-a-b3-e-amplia-oferta-de-fundos-atrelados-ao-cdi-igdl/",
-   "publicado": "2026-07-29T13:36:22+00:00",
-   "tickers": [
-    "BCDI11"
-   ],
-   "resumo": "O BTG Pactual Dívida Infra CDI, fundo de infraestrutura (FI-Infra) gerido pela BTG Pactual Asset, anunciou a migração de suas cotas do mercado de balcão organizado para o mercado de bolsa, onde passará a ser negociado sob o ticker BCDI11. Em fato relevante, o veículo informou que"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Tribunal Superior Eleitoral e plataformas digitais firmam parcerias para as eleições de 2026",
-   "url": "https://www.moneytimes.com.br/tse-firma-parcerias-com-plataformas-digitais-para-as-eleicoes-de-2026-gaep/",
-   "publicado": "2026-07-29T13:31:47+00:00",
-   "tickers": [],
-   "resumo": "O Tribunal Superior Eleitoral (TSE) formalizou parcerias com Facebook, Google, Kwai, TikTok, Linkedin, X e Telegram para reforçar o combate à desinformação nas eleições 2026. Os acordos, anunciados nesta terça-feira (28), preveem canais de denúncia, capacitação de servidores e fe"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Elon Musk prevê um futuro em que nem dinheiro nem trabalho serão mais necessários",
-   "url": "https://www.moneytimes.com.br/elon-musk-preve-futuro-dinheiro-nem-trabalho-desnecessarios-garg/",
-   "publicado": "2026-07-29T13:30:04+00:00",
-   "tickers": [],
-   "resumo": "À medida que a inteligência artificial e outras tecnologias evoluem em ritmo acelerado, aumentam as incertezas sobre o futuro. Na avaliação de Elon Musk, fundador da Tesla e da SpaceX, uma das principais consequências desse cenário será a perda da relevância do dinheiro. Em recen"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Santander (SANB11): Ação despenca 6% com ‘susto’ em resultado",
-   "url": "https://www.moneytimes.com.br/santander-sanb11-acao-despenca-6-com-susto-em-resultado/",
-   "publicado": "2026-07-29T13:20:43+00:00",
-   "tickers": [
-    "SANB11"
-   ],
-   "resumo": "O Santander (SANB11) conseguiu entregar resultado pior que esperado mesmo com projeções já fracas. A cifra de R$ 3 bilhões ficou 16% abaixo do previsto pelo consenso. Na abertura, o papel despencava 6%, a R$ 25,88. Antes do balanço, o mercado já estava cético com o papel, com ana"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Ibovespa recua à espera de Fed e com tensão geopolítica; 5 coisas para saber antes de investir hoje (29)",
-   "url": "https://www.moneytimes.com.br/ibovespa-5-coisas-29-7-26-apsa/",
-   "publicado": "2026-07-29T13:15:03+00:00",
-   "tickers": [],
-   "resumo": "O Ibovespa (IBOV) inicia o pregão desta quarta-feira (29) em baixa, em linha com os pré-mercados de Wall Street, diante da nova rodada de tensões no Oriente Médio e espera pela decisão de juros nos Estados Unidos. Por volta de 10h11 (horário de Brasília), o principal índice da bo"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Liverpool pode ganhar novos donos: família Mittal negocia fatia de até 30% do clube",
    "url": "https://investnews.com.br/negocios/liverpool-pode-ganhar-novos-donos-familia-mittal-negocia-fatia-de-ate-30-do-clube/",
@@ -117,11 +212,15 @@
   },
   {
    "fonte": "Valor Investe",
-   "titulo": "Ibovespa opera em queda antes de decisão do Fed",
+   "titulo": "Ibovespa cai antes de decisão do Fed, mesmo com alta de Petrobras (PETR4); dólar sobe",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/07/29/ibovespa-e-dolar-hoje-29-de-julho-de-2026.ghtml",
    "publicado": "2026-07-29T12:13:17+00:00",
-   "tickers": [],
-   "resumo": "O principal índice de ações brasileiras abriu em torno da estabilidade nesta quarta-feira (29), na qual o Federal Reserve, o banco central dos Estados Unidos, decide sobre a taxa básica de juros da economia americana. É a primeira vez em muito tempo que a autoridade monetária che"
+   "tickers": [
+    "PETR3",
+    "PETR4",
+    "SANB11"
+   ],
+   "resumo": "O principal índice de ações brasileiras opera em queda nesta quarta-feira (29), e só não cai mais pela forte alta dos papéis da Petrobras (PETR3, PETR4), que sobem mais de 2%. O dia é ruim para os bancos, após o balanço do Santander Brasil (SANB11) vir abaixo das expectativas, ma"
   },
   {
    "fonte": "InvestNews",
@@ -417,30 +516,12 @@
    "resumo": "Ações da Ford subiram 44% em maio após investidores apostarem que a divisão de armazenamento de energia"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "Embraer (EMBJ3) bate recorde bilionário e mira novo salto com aviões de defesa",
-   "url": "https://www.suno.com.br/noticias/embraer-embj3-recorde-carteira-pedidos-2t26-mt/",
-   "publicado": "2026-07-28T19:30:00+00:00",
-   "tickers": [
-    "EMBJ3"
-   ],
-   "resumo": "Embraer (EMBJ3) bate recorde bilionário e mira novo salto com aviões de defesaA Embraer (EMBJ3) não está só com agenda cheia: está com fila recorde no hangar. A fabricante brasileira encerrou o 2T26 com uma carteira de pedidos de US$ 34,5 bilhões, o maior valor já registrado pela"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "A biometria é obrigatória nas eleições 2026? Veja como consultar cadastro e regras para votar",
    "url": "https://investnews.com.br/economia/biometria-eleicoes-2026/",
    "publicado": "2026-07-28T19:22:24+00:00",
    "tickers": [],
    "resumo": "A biometria não é obrigatória para votar este ano, mas 89% do eleitorado com título regular já estão cadastrados"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "CXMT: como investir na fabricante chinesa de chips que disparou quase 500% no IPO",
-   "url": "https://www.suno.com.br/noticias/cxmt-ipo-xangai-alta-466-valor-mercado-2t26-go/",
-   "publicado": "2026-07-28T19:05:09+00:00",
-   "tickers": [],
-   "resumo": "A ChangXin Memory Technologies (CXMT), maior fabricante chinesa de chips de memória, estreou na Bolsa de Xangai nesta segunda-feira (27) com uma valorização de 466% no primeiro dia de negociações. O resultado colocou a companhia entre as maiores do mundo por valor de mercado e at"
   },
   {
    "fonte": "InvestNews",
@@ -457,16 +538,6 @@
    "publicado": "2026-07-28T18:45:35+00:00",
    "tickers": [],
    "resumo": "Os investidores estrangeiros intensificaram fortemente as negociações de títulos públicos e privados brasileiros em 2026. As compras praticamente dobraram em relação ao ano anterior, mas as vendas também aumentaram de forma expressiva, mantendo o fluxo líquido próximo ao observad"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Quando a Petrobras (PETR4) paga dividendos? Veja datas e o que esperar do 2T26",
-   "url": "https://www.suno.com.br/noticias/petrobras-petr4-dividendos-data-com-data-ex-pagamento-mt/",
-   "publicado": "2026-07-28T18:30:00+00:00",
-   "tickers": [
-    "PETR4"
-   ],
-   "resumo": "Quando a Petrobras (PETR4) paga dividendos? Veja datas e o que esperar do 2T26Para quem acompanha dividendos, a Petrobras (PETR4) já tem dinheiro com data marcada para cair na conta. A companhia aprovou R$ 9,03 bilhões em remuneração aos acionistas, e os pagamentos de PETR4 serão"
   },
   {
    "fonte": "InvestNews",
@@ -507,16 +578,6 @@
    "publicado": "2026-07-28T17:05:28+00:00",
    "tickers": [],
    "resumo": "Distribuição do lucro do FGTS vai beneficiar 138,2 milhões de trabalhadores com saldo no fundo em 31 de dezembro de 2025"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Telefônica (VIVT3) derrete mais de 6% após resultado do 2T26; entenda",
-   "url": "https://www.suno.com.br/noticias/vivt3-telefonica-queda-resultado-2t26-fluxo-caixa-28072026-go/",
-   "publicado": "2026-07-28T16:55:05+00:00",
-   "tickers": [
-    "VIVT3"
-   ],
-   "resumo": "As ações da Telefônica Brasil (VIVT3) estão operando em forte queda de 6,78% nesta terça-feira (28), aparecendo entre as maiores baixas do Ibovespa. Por volta das 13h30, os papéis são negociados a R$ 33,54. O movimento acontece um dia após a companhia divulgar os resultados do se"
   },
   {
    "fonte": "Valor Investe",
@@ -676,22 +737,6 @@
    "resumo": "Reatores atômicos que caberão na caçamba de um caminhão e poderão gerar energia em qualquer lugar. A ambiciosa promessa da nova geração de equipamentos nucleares está mais perto de sair do papel nos Estados Unidos. O Presidente Trump cercou-se de auxiliares e empresários do setor"
   },
   {
-   "fonte": "Brazil Journal",
-   "titulo": "Projetos de ferrovias poderão gerar receita imobiliária, diz ministro",
-   "url": "https://braziljournal.com/projetos-de-ferrovias-poderao-gerar-receita-imobiliaria-diz-ministro/",
-   "publicado": "2026-07-28T09:50:22+00:00",
-   "tickers": [],
-   "resumo": "O Governo está propondo para os leilões de ferrovias uma modelagem que permitirá aos operadores explorar diversas receitas alternativas, inclusive com ativos imobiliários, a exemplo do que ocorre nos Estados Unidos e na Europa.  Esta novidade é uma das estratégias de Brasília par"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "Contra curtailment e estagnação, geradores eólicos investem nos ventos do Sul",
-   "url": "https://braziljournal.com/contra-curtailment-e-estagnacao-geradores-eolicos-investem-nos-ventos-do-sul/",
-   "publicado": "2026-07-28T09:50:01+00:00",
-   "tickers": [],
-   "resumo": "Em um momento em que a indústria de energia eólica vive uma quase total paralisação no Brasil, a Statkraft acaba de anunciar um projeto que tem sido visto por técnicos como um sinal dos novos tempos no setor.  O grupo norueguês vai investir mais de R$ 1 bilhão para construir um p"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Como escolher um fundo de direitos creditórios (FIDC) com segurança?",
    "url": "https://valorinveste.globo.com/credito-privado/noticia/2026/07/28/como-escolher-um-fundo-de-direitos-creditorios-fidc-com-seguranca.ghtml",
@@ -756,14 +801,6 @@
    "resumo": "Operadora americana prevê cortes a partir de 2027 também para conter custos ao consumidor; Brasil ganha apelo pela oferta de energia"
   },
   {
-   "fonte": "Brazil Journal",
-   "titulo": "Chinesa ameaça ‘monopólio’ da ASML. Ação desaba",
-   "url": "https://braziljournal.com/chinesa-ameaca-monopolio-da-asml-acao-desaba/",
-   "publicado": "2026-07-27T22:12:19+00:00",
-   "tickers": [],
-   "resumo": "A ação da holandesa ASML chegou a desabar 8% hoje, sob o impacto da notícia de que uma empresa chinesa começou a produzir máquinas de litografia ultravioleta – uma das tecnologias utilizadas para fabricar chips avançados, como os usados nos data centers de inteligência artificial"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Com pós-pago, fibra e serviços digitais, lucro da Telefônica (VIVT3) cresce 17% no 2º tri, para R$ 1,6 bi",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/07/27/com-pos-pago-fibra-e-servicos-digitais-lucro-da-telefonica-vivt3-cresce-17percent-no-2o-tri-para-r-16-bi.ghtml",
@@ -772,14 +809,6 @@
     "VIVT3"
    ],
    "resumo": "A Telefônica Brasil (VIVT3), dona da Vivo, registrou lucro líquido de R$ 1,6 bilhão no segundo trimestre, alta de 17% em base anual. Entre abril e junho, a receita líquida da operadora somou R$ 15,8 bilhões, crescimento de 7,6%, influenciado pelo avanço dos negócios de telefonia "
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Ford disputa com a GM seu maior contrato militar nos EUA desde a Guerra Fria",
-   "url": "https://investnews.com.br/negocios/ford-gm-contrato-militar-eua/",
-   "publicado": "2026-07-27T21:50:39+00:00",
-   "tickers": [],
-   "resumo": "Movimento reforça a tentativa de Ford e GM de diversificar receita para além dos carros, desafio que persiste há uma geração"
   },
   {
    "fonte": "Valor Investe",
@@ -840,25 +869,6 @@
    "publicado": "2026-07-27T15:02:52+00:00",
    "tickers": [],
    "resumo": "Em um início de semana marcado pelo alívio do conflito no Oriente Médio e pela queda do petróleo, o mercado de criptoativos opera em clima de cautela, à espera de uma sequência de eventos que pode definir a direção dos preços. O Bitcoin (BTC) opera praticamente estável, na faixa "
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Tesouro Direto: hiato na guerra entre Irã e EUA faz taxas caírem",
-   "url": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/07/27/tesouro-direto-hiato-na-guerra-entre-ira-e-eua-faz-taxas-cairem.ghtml",
-   "publicado": "2026-07-27T13:36:18+00:00",
-   "tickers": [],
-   "resumo": "As taxas dos títulos do Tesouro Direto recuam em bloco nesta segunda-feira (27). A pausa nos ataques entre Irã e Estados Unidos, já no seu terceiro dia, dá alívio aos mercados e às expectativas de juros. A região é a maior produtora de petróleo do mundo e a continuidade do confli"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Ibovespa fecha em alta com pausa nos ataques entre EUA e Irã, mesmo com queda de Petrobras (PETR4)",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/07/27/ibovespa-e-dolar-hoje-27-de-julho-de-2026.ghtml",
-   "publicado": "2026-07-27T12:02:30+00:00",
-   "tickers": [
-    "PETR3",
-    "PETR4"
-   ],
-   "resumo": "Os mercados globais iniciaram a semana sob influência da trégua nos ataques entre Irã e Estados Unidos, o que levou os preços do petróleo a registrarem forte queda. O movimento aliviou os temores de aumento da inflação e, consequentemente, dos juros. O Ibovespa, principal índice "
   }
  ]
 }

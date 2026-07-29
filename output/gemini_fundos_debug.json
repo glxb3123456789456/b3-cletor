@@ -1,0 +1,10 @@
+{
+ "docs_na_janela": 36,
+ "docs_com_texto": 32,
+ "lotes_enviados": 3,
+ "lotes_ok": 3,
+ "findings": 36,
+ "gemini_modelo_usado": "gemini-2.5-flash",
+ "gemini_erro": null,
+ "tem_key": true
+}
