@@ -204,6 +204,12 @@
   .alertset input{width:88px; font:inherit; background:var(--surface-2); color:var(--text); border:1px solid var(--border); padding:4px 7px; font-size:12px;}
   .trigrow{display:flex; justify-content:space-between; gap:8px; padding:6px 8px; border-bottom:1px solid var(--grid); font-size:12px;}
   .trigrow .tt{color:var(--muted); font-size:10px;}
+  .oppcard{border:1px solid var(--border); background:var(--surface-2); padding:9px 11px; margin-bottom:8px;}
+  .opphead{display:flex; justify-content:space-between; align-items:center; gap:8px;}
+  .oppco{font-weight:700; color:var(--white); font-size:12.5px;}
+  .oppticker{color:var(--amber-bright); border:1px solid var(--amber-dim); padding:0 5px; font-size:11px; margin-left:4px;}
+  .oppstars{color:var(--amber); font-size:12px; letter-spacing:1px; flex:none;}
+  .opptese{font-size:11.5px; color:var(--text-2); line-height:1.5; margin:3px 0 4px;}
 </style>
 </head>
 <body>
@@ -216,6 +222,7 @@
       <p class="sub">Ações · Units · FIIs · FI-Infra · Fiagro · ETF · BDR — dados ao vivo via brapi.dev · <span id="lastupd"></span></p>
     </div>
     <div class="toolbtns">
+      <button class="small" id="oppBtn">Oportunidades</button>
       <button class="small" id="alertBtn">Alertas<span class="badge-alert" id="alertBadge" style="display:none">0</span></button>
       <button class="small" id="tickerBtn">Faixa</button>
       <button class="small" id="newsBtn">Notícias</button>
@@ -375,6 +382,8 @@
 
 <div class="modal" id="alertModal"><div class="card" id="alertCard"></div></div>
 
+<div class="modal" id="oppModal"><div class="card" id="oppCard" style="max-width:820px"></div></div>
+
 <div class="modal" id="detModal"><div class="card" id="detCard"></div></div>
 
 <script>
@@ -432,7 +441,7 @@ const state = {
   macro:{}, volMin:0,
   mfin:{}, mfinLoaded:false, segment:"",
   collectorUrl:store.get("b3_collector","https://raw.githubusercontent.com/glxb3123456789456/b3-cletor/refs/heads/main/output"), news:[], events:[], fiiPvp:[],
-  collectorInfo:null, loaded:{}, _newsFilter:"",
+  collectorInfo:null, loaded:{}, _newsFilter:"", findings:[], _oppTipo:"",
   alerts:store.get("b3_alerts",[]), triggers:[], _fired:new Set(), alertedSymbols:new Set(),
   tickerOpen:store.get("b3_ticker",false), newsColOpen:false,
 };
@@ -526,7 +535,9 @@ async function loadCollector(){
   try{ const j=await fetch(base+"/noticias.json"+cb).then(r=>r.json()); state.news=(j&&j.dados)||(Array.isArray(j)?j:[]); }catch(e){ state.news=[]; }
   try{ const j=await fetch(base+"/eventos.json"+cb).then(r=>r.json()); state.events=(j&&j.dados)||(Array.isArray(j)?j:[]); }catch(e){ state.events=[]; }
   try{ const j=await fetch(base+"/fii_pvp.json"+cb).then(r=>r.json()); state.fiiPvp=(j&&j.dados)||(Array.isArray(j)?j:[]); }catch(e){ state.fiiPvp=[]; }
+  try{ const j=await fetch(base+"/findings.json"+cb).then(r=>r.json()); state.findings=(j&&j.dados)||(Array.isArray(j)?j:[]); }catch(e){ state.findings=[]; }
   try{ const j=await fetch(base+"/index.json"+cb).then(r=>r.json()); state.collectorInfo=j; }catch(e){}
+  updateOppBtn();
   buildPvpMap();
   updateNewsBtn(); renderTicker();
   if(state.newsColOpen) renderNewsGrid();
@@ -682,6 +693,49 @@ function openSources(){
   $("#srcModal").classList.add("open");
 }
 
+// ===== Oportunidades (fatos relevantes interpretados pelo Gemini) =====
+function updateOppBtn(){ const b=$("#oppBtn"); if(!b)return; const n=(state.findings||[]).filter(f=>(f.relevancia||0)>=4).length; b.innerHTML="Oportunidades"+(n?`<span class="badge-alert" style="background:var(--good)">${n}</span>`:""); }
+function _relStars(n){ n=Math.max(0,Math.min(5,n||0)); return "★".repeat(n)+"☆".repeat(5-n); }
+const OPP_COL={"RJ/Reestruturação":"crit","M&A/Controle":"good","Venda de Ativo":"warn","Provento Extraordinário":"good","Recompra":"info","Resultado/Guidance":"info","Litígio/Regulatório":"ser","Governança":"info","Emissão/Follow-on":"warn","Outro":"info"};
+function openOpp(){
+  const c=$("#oppCard");
+  if(!state.collectorUrl){ c.innerHTML=`<h2>Oportunidades</h2><div class="warnbox">Configure a URL do coletor no botão Token.</div><div style="text-align:right;margin-top:10px"><button onclick="document.getElementById('oppModal').classList.remove('open')">Fechar</button></div>`; $("#oppModal").classList.add("open"); return; }
+  const fatos=state.collectorInfo&&state.collectorInfo.fontes&&state.collectorInfo.fontes.fatos;
+  const tipos=[...new Set((state.findings||[]).map(f=>f.tipo_evento).filter(Boolean))].sort();
+  c.innerHTML=`<div style="display:flex; justify-content:space-between; align-items:center; gap:10px; flex-wrap:wrap">
+    <h2>Oportunidades · Fatos Relevantes</h2>
+    <div style="display:flex; gap:8px; align-items:center">
+      <select id="oppTipoSel"><option value="">Todos os tipos</option>${tipos.map(t=>`<option value="${t}" ${t===state._oppTipo?'selected':''}>${t}</option>`).join("")}</select>
+      <button onclick="document.getElementById('oppModal').classList.remove('open')">Fechar</button>
+    </div>
+  </div>
+  <p class="muted" style="font-size:11px; margin:4px 0 8px">${(state.findings||[]).length} fatos relevantes lidos e classificados pelo Gemini via seu coletor${fatos&&fatos.status==='erro'?` · <span class="neg">coletor: ${(fatos.erro||'erro')}</span>`:""}. Ordenado por relevância (★).</p>
+  <div id="oppList"></div>`;
+  const sel=$("#oppTipoSel"); if(sel) sel.onchange=e=>{state._oppTipo=e.target.value; renderOppList();};
+  renderOppList();
+  $("#oppModal").classList.add("open");
+}
+function renderOppList(){
+  const el=$("#oppList"); if(!el)return;
+  let fs=(state.findings||[]).slice();
+  if(state._oppTipo) fs=fs.filter(f=>f.tipo_evento===state._oppTipo);
+  if(!fs.length){ el.innerHTML=`<p class="muted" style="font-size:12px">${state.findings.length?'Nada nesse tipo.':'Sem findings ainda — o coletor precisa rodar com o Gemini configurado (secret GEMINI_API_KEY).'}</p>`; return; }
+  el.innerHTML=fs.slice(0,200).map(f=>{
+    const tk=(f.ticker||"").toUpperCase();
+    const inuni=tk && state.universe.find(r=>r.symbol===tk);
+    const cls=OPP_COL[f.tipo_evento]||"info";
+    return `<div class="oppcard">
+      <div class="opphead">
+        <span class="oppco">${f.empresa||""}${tk?` <span class="oppticker" ${inuni?`onclick="document.getElementById('oppModal').classList.remove('open'); openDetail('${tk}')" style="cursor:pointer"`:""}>${tk}</span>`:""}</span>
+        <span class="oppstars" title="relevância ${f.relevancia}/5">${_relStars(f.relevancia)}</span>
+      </div>
+      <div style="margin:3px 0"><span class="tag ${cls}">${f.tipo_evento||"Outro"}</span> <span class="muted" style="font-size:10px">${f.data||""}</span></div>
+      <div class="opptese">${f.tese||""}</div>
+      ${f.link?`<a href="${f.link}" target="_blank" class="muted" style="font-size:10px">ver documento na CVM</a>`:""}
+    </div>`;
+  }).join("");
+}
+
 /* ============ FETCH ============ */
 async function loadUniverse(){
   setStatus("Carregando universo da B3...");
@@ -748,8 +802,9 @@ async function enrichSymbol(sym, full){
   let url=`${API}/quote/${sym}?token=${TOKEN}&range=3mo&interval=1d&fundamental=true`;
   if(wantFund) url+=`&modules=defaultKeyStatistics,financialData${full?",summaryProfile":""}`;
   try{
-    const r=await fetch(url);
-    bumpReq();
+    let r=await fetch(url); bumpReq();
+    if(r.status===403||r.status===429){ await new Promise(res=>setTimeout(res,2000)); r=await fetch(url); bumpReq(); }  // limite do brapi: espera e tenta 1x
+    if(r.status===403||r.status===429) throw new Error("LIMITE");
     if(!r.ok) throw new Error("HTTP "+r.status);
     const j=await r.json();
     const q=(j.results||[])[0];
@@ -1171,7 +1226,14 @@ async function openDetail(sym){
   $("#detModal").classList.add("open");
   $("#detCard").innerHTML=`<h2>${sym}</h2><p class="muted">${row?row.name:''}</p><p class="muted">Carregando...</p>`;
   const e=await enrichSymbol(sym,true); render();
-  if(e.error){$("#detCard").innerHTML=`<h2>${sym}</h2><p>Erro: ${e.error}</p><div style="text-align:right"><button onclick="document.getElementById('detModal').classList.remove('open')">Fechar</button></div>`; return;}
+  if(e.error){
+    const lim=e.error==="LIMITE";
+    const msg=lim
+      ? `<div class="warnbox">Você atingiu o <b>limite de requisições do plano free do brapi</b> (por isso o 403). Isso acontece quando muitos ativos são consultados em pouco tempo ou no mês. Aguarde alguns segundos e tente de novo; se persistir, é a cota mensal - aí só reduzindo o uso ou com o brapi Pro.</div>`
+      : `<p>Erro: ${e.error}</p>`;
+    $("#detCard").innerHTML=`<h2>${sym}</h2>${msg}<div style="display:flex; justify-content:space-between; margin-top:12px">${lim?`<button class="primary" onclick="delete state.enriched['${sym}']; openDetail('${sym}')">Tentar de novo</button>`:'<span></span>'}<button onclick="document.getElementById('detModal').classList.remove('open')">Fechar</button></div>`;
+    return;
+  }
   _det={row,e};
   const tags=tagsOf(row).map(([c,t])=>`<span class="tag ${c}">${t}</span>`).join(" ");
   const fundBlock = HAS_FUND.has(row.cls) ? `
@@ -1389,6 +1451,8 @@ $("#saveCollectorBtn").onclick=()=>{state.collectorUrl=$("#collectorInp").value.
 $("#newsBtn").onclick=toggleNews;
 $("#srcBtn").onclick=openSources;
 $("#tickerBtn").onclick=toggleTicker;
+$("#oppBtn").onclick=openOpp;
+$("#oppModal").onclick=e=>{if(e.target.id==="oppModal")$("#oppModal").classList.remove("open");};
 $("#alertBtn").onclick=openAlerts;
 $("#alertModal").onclick=e=>{if(e.target.id==="alertModal")$("#alertModal").classList.remove("open");};
 $("#srcModal").onclick=e=>{if(e.target.id==="srcModal")$("#srcModal").classList.remove("open");};
