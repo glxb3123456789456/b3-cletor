@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-29T16:03:34.883764+00:00",
+ "gerado_em": "2026-07-29T18:18:54.262405+00:00",
  "fontes": {
   "noticias": {
    "arquivo": "noticias.json",
@@ -11,15 +11,20 @@
    "status": "ok",
    "itens": 1347
   },
-  "fatos": {
-   "arquivo": "findings.json",
+  "fatos_raw": {
+   "arquivo": "fatos_raw.json",
    "status": "ok",
    "itens": 70
   },
-  "fatos_fundos": {
-   "arquivo": "findings_fundos.json",
+  "fatos_fundos_raw": {
+   "arquivo": "fatos_fundos_raw.json",
    "status": "ok",
-   "itens": 36
+   "itens": 50
+  },
+  "fatos_fidc_raw": {
+   "arquivo": "fatos_fidc_raw.json",
+   "status": "ok",
+   "itens": 80
   }
  }
 }
