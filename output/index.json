@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-29T08:02:16.452297+00:00",
+ "gerado_em": "2026-07-29T14:06:18.622304+00:00",
  "fontes": {
   "noticias": {
    "arquivo": "noticias.json",
@@ -10,6 +10,11 @@
    "arquivo": "fii_pvp.json",
    "status": "ok",
    "itens": 1347
+  },
+  "fatos": {
+   "arquivo": "findings.json",
+   "status": "ok",
+   "itens": 0
   }
  }
 }
