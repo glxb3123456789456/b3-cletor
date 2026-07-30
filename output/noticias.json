@@ -3,12 +3,283 @@
  "itens": 100,
  "dados": [
   {
-   "fonte": "Money Times",
-   "titulo": "Fed mantém juros nos EUA entre 3,50% e 3,75%, mas expõe divergências sobre cortes",
-   "url": "https://www.moneytimes.com.br/fed-mantem-juros-nos-eua-entre-350-e-375-mas-expoe-divergencias-sobre-cortes/",
-   "publicado": "2026-07-29T18:10:17+00:00",
+   "fonte": "Valor Investe",
+   "titulo": "Mega-Sena 3038 sorteia prêmio estimado em R$ 86 milhões hoje; veja como apostar e fazer bolão",
+   "url": "https://valorinveste.globo.com/loterias/noticia/2026/07/30/mega-sena-3038-sorteio-hoje-veja-como-apostar-e-fazer-bolao.ghtml",
+   "publicado": "2026-07-30T03:00:10+00:00",
    "tickers": [],
-   "resumo": "O Comitê Federal de Mercado Aberto (Fomc, na sigla em inglês) manteve, nesta quarta-feira (29), os juros de referência dos Estados Unidos (EUA) no intervalo de 3,50% a 3,75% ao ano. A decisão era a aposta majoritária para a reunião de julho, com 66,3% dos agentes do mercando prev"
+   "resumo": "A Mega-Sena 3038 sorteia  m prêmio estimado em R$ 86 milhões nesta quinta-feira (30), a partir das 21h (horário de Brasília), em São Paulo.\nVEJA TAMBÉM: \n- Os números mais sorteados na história Mega-Sena\nNos concursos realizados às terças e quintas-feiras, as apostas podem ser fe"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Quanto rende o prêmio de R$ 86 milhões da Mega-Sena na poupança e em outras opções de renda fixa?",
+   "url": "https://valorinveste.globo.com/objetivo/hora-de-investir/noticia/2026/07/30/quanto-rendem-86-milhoes-da-mega-sena-na-poupanca-e-em-outras-opcoes-de-renda-fixa.ghtml",
+   "publicado": "2026-07-30T03:00:01+00:00",
+   "tickers": [],
+   "resumo": "A Mega-Sena 3038 vai sortear nesta quinta-feira (30) um prêmio estimado em R$ 86 milhões. E a bolada pode render R$ 579 mil em apenas um mês na poupança. \nMas o retorno dessa aplicação em modalidades mais rentáveis da renda fixa pode chegar R$ 817.812,36 se o ganhador optar por d"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "VSHO11: fundo imobiliário vende participação em dois shoppings",
+   "url": "https://www.suno.com.br/noticias/vsho11-fundo-imobiliario-vende-participacao-em-dois-shoppings/",
+   "publicado": "2026-07-30T00:35:07+00:00",
+   "tickers": [
+    "VSHO11"
+   ],
+   "resumo": "O fundo imobiliário VSHO11 (Fundo de Investimento Imobiliário Votorantim Shopping) assinou compromisso para vender participações em dois ativos do portfólio por R$ 37 milhões. A operação contempla a alienação de frações ideais equivalentes a 20% do Shopping Valinhos, em Valinhos "
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "EXES11 segue com DY acima de 17% após 18 meses de dividendos estáveis",
+   "url": "https://www.suno.com.br/noticias/exes11-segue-com-dy-acima-de-17-apos-18-meses-de-dividendos-estaveis/",
+   "publicado": "2026-07-29T23:45:06+00:00",
+   "tickers": [
+    "EXES11"
+   ],
+   "resumo": "O fundo imobiliário FII EXES11 manteve a distribuição de R$ 0,13 por cota referente ao resultado de junho, completando o 18º mês consecutivo no mesmo patamar de dividendos. O pagamento foi anunciado em 17 de julho e equivale a um dividend yield (DY) mensal de 1,34% sobre a cota p"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "HGBS11 retifica 12ª emissão e mantém oferta de até R$ 295,2 milhões",
+   "url": "https://www.suno.com.br/noticias/hgbs11-retifica-12a-emissao-e-mantem-oferta-de-ate-r-2952-milhoes/",
+   "publicado": "2026-07-29T23:05:03+00:00",
+   "tickers": [
+    "HGBS11"
+   ],
+   "resumo": "O HGBS11 (Hedge Brasil Shopping Fundo de Investimento Imobiliário) comunicou ao mercado a assinatura de um instrumento de rerratificação dos termos da sua 12ª emissão de cotas. O documento preserva as características centrais da oferta pública primária, que seguirá o rito de regi"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "BRB: Medidas relacionadas à capitalização seguem em andamento e observam critérios técnicos",
+   "url": "https://www.moneytimes.com.br/brb-medidas-relacionadas-a-capitalizacao-seguem-em-andamento-e-observam-criterios-tecnicos-vtra/",
+   "publicado": "2026-07-29T23:02:47+00:00",
+   "tickers": [],
+   "resumo": "O Banco de Brasília (BRB) afirma, por meio de nota, que as medidas relacionadas ao fortalecimento da sua estrutura de capital continuam em andamento e observam critérios técnicos, regulatórios e de governança. A instituição reforçou que permanece sólida e operando normalmente. Ma"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "SNFZ11: FII supera 15 mil cotistas e avança em novas aquisições; veja guidance",
+   "url": "https://www.suno.com.br/noticias/snfz11-fii-supera-15-mil-cotistas-e-avanca-em-novas-aquisicoes-veja-guidance/",
+   "publicado": "2026-07-29T22:55:06+00:00",
+   "tickers": [
+    "SNFZ11"
+   ],
+   "resumo": "O Fiagro SNFZ11 encerrou junho com um novo pico na base de investidores, ultrapassando a marca de 15 mil participantes, ao mesmo tempo em que avançou no processo de aquisição de novas fazendas e manteve o plano de ampliar a infraestrutura de seus ativos rurais. A gestora relatou "
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "A Ferrari que todo mundo espinafrou já bateu a meta – sem sair da fábrica",
+   "url": "https://braziljournal.com/a-ferrari-que-todo-mundo-espinafrou-ja-bateu-a-meta-sem-sair-da-fabrica/",
+   "publicado": "2026-07-29T22:37:29+00:00",
+   "tickers": [],
+   "resumo": "Quando a Ferrari anunciou seu primeiro modelo elétrico há dois meses, o Luce, pessoas ligadas ao setor vaticinaram que ali era o começo do fim da lendária montadora criada por Enzo Ferrari.  O ex-presidente da marca, Luca di Montezemolo, chegou a sugerir que o carro não ostentass"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "VRTA11 registra resultado de R$ 12,7 milhões e reforça carteira de CRIs",
+   "url": "https://www.suno.com.br/noticias/vrta11-registra-resultado-de-r-127-milhoes-e-reforca-carteira-de-cris/",
+   "publicado": "2026-07-29T22:25:06+00:00",
+   "tickers": [
+    "VRTA11"
+   ],
+   "resumo": "O fundo imobiliário VRTA11 encerrou junho com resultado de R$ 12,65 milhões e manteve a distribuição de R$ 0,85 por cota. A gestão reiterou a diretriz de aumentar a participação em Certificados de Recebíveis Imobiliários (CRIs) e reduzir, de forma gradual, a exposição a fundos im"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "O ‘Partido das Baratas’ que faz a Índia tremer. Se a moda pega…",
+   "url": "https://braziljournal.com/o-partido-das-baratas-que-faz-a-india-tremer-se-a-moda-pega/",
+   "publicado": "2026-07-29T22:15:17+00:00",
+   "tickers": [],
+   "resumo": "A prosperidade desperta novas demandas – e pode desencadear tensão social e protestos, como demonstra o movimento do ‘Partido das Baratas’ na Índia. O Cockroach Janta Party (CJP) nasceu como sátira, com seus memes viralizando nas redes sociais. Foi lançado em 16 de maio deste ano"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "IFIX fecha em queda e recua para 3.797,33 pontos",
+   "url": "https://www.suno.com.br/noticias/ifix-fecha-em-queda-e-recua-para-3-79733-pontos/",
+   "publicado": "2026-07-29T22:05:06+00:00",
+   "tickers": [],
+   "resumo": "O IFIX terminou o pregão desta quarta-feira (29) em 3.797,33 pontos, queda de 0,26%. O recuo equivale a 9,84 pontos em relação ao fechamento anterior, mantendo o índice no campo negativo na variação diária. Ao longo da sessão, o índice de fundos imobiliários oscilou entre a mínim"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Motiva (MOTV3) lucra 67% mais no 2T26 com novas concessões",
+   "url": "https://www.moneytimes.com.br/motiva-motv3-lucra-67-mais-no-2t26-com-novas-concessoes-vtra/",
+   "publicado": "2026-07-29T21:42:31+00:00",
+   "tickers": [
+    "MOTV3"
+   ],
+   "resumo": "A Motiva (MOTV3), antiga CCR, reportou um segundo trimestre de 2026 marcado pela contribuição das novas concessões rodoviárias, com crescimento de dois dígitos na receita, no Ebitda (lucro antes de juros, impostos, depreciação e amortização) e no lucro líquido ajustado. Entre abr"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Meta tem lucro líquido de US$ 15,85 bilhões para o segundo trimestre de 2026",
+   "url": "https://www.moneytimes.com.br/meta-tem-lucro-liquido-de-us-1585-bilhoes-para-o-segundo-trimestre-de-2026/",
+   "publicado": "2026-07-29T21:33:19+00:00",
+   "tickers": [],
+   "resumo": "A Meta apresentou nesta quarta-feira, 29, um lucro líquido de US$ 15,85 bilhões para o segundo trimestre de 2026, uma queda de 14% em relação ao mesmo período do ano anterior. O lucro por ação diluída ficou em US$ 6,18, uma queda de 13% em um ano e abaixo dos US$ 7,19 esperados p"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Na Motiva, sai a Mover e entra o Bradesco; até quando?",
+   "url": "https://braziljournal.com/na-motiva-sai-a-mover-e-entra-o-bradesco-ate-quando/",
+   "publicado": "2026-07-29T21:32:13+00:00",
+   "tickers": [],
+   "resumo": "O Grupo Mover, a antiga Camargo Corrêa, assinou um acordo para vender toda sua participação de 14,86% na Motiva ao Bradesco BBI, marcando sua saída da empresa de concessões que fundou no final dos anos 1990. A transação foi concretizada após os demais membros do bloco de controle"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Microsoft supera em receita com impulso da demanda em nuvem e IA; ação sobe 3% no after de NY",
+   "url": "https://www.moneytimes.com.br/microsoft-supera-em-receita-com-impulso-da-demanda-em-nuvem-e-ia-acao-sobe-3-no-after-de-ny/",
+   "publicado": "2026-07-29T21:26:21+00:00",
+   "tickers": [],
+   "resumo": "A Microsoft viu suas receitas crescerem 18% no quarto trimestre fiscal, encerrado em 30 de junho, em relação ao mesmo período do ano anterior, ao informar um crescimento robusto em computação em nuvem e aumento no número de assinantes pagos de ferramentas de inteligência artifici"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Juros longos dos EUA atingem máxima em 18 anos após Fed manter juros pela 5ª vez consecutiva",
+   "url": "https://www.moneytimes.com.br/juros-longos-dos-eua-atingem-maxima-em-18-anos-apos-fed-manter-juros-pela-5a-vez-consecutiva-lils/",
+   "publicado": "2026-07-29T21:19:00+00:00",
+   "tickers": [],
+   "resumo": "Os rendimentos do título do Tesouro dos Estados Unidos – o Treasury – de 30 anos atingiram o maior nível desde julho de 2007 nesta quarta-feira (29), a 5,244%, após a decisão do Federal Reserve (Fed, o Banco Central dos EUA) de manter os juros inalterados na faixa de 3,50% a 3,75"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Mirando novos investimentos, SNCI11 lucra R$ 4,8 milhões em junho",
+   "url": "https://www.suno.com.br/noticias/mirando-novos-investimentos-snci11-lucra-r-48-milhoes-em-junho/",
+   "publicado": "2026-07-29T21:15:16+00:00",
+   "tickers": [
+    "SNCI11"
+   ],
+   "resumo": "O fundo imobiliário registrou em junho resultado líquido de R$ 4,83 milhões e manteve a distribuição de R$ 1,00 por cota. O patamar está alinhado ao guidance para o terceiro trimestre de 2026, que indica pagamentos entre R$ 1,00 e R$ 1,10 por cota. Considerando o preço de fechame"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Aportes impulsionam biocombustíveis e reforçam cenário para Fiagros",
+   "url": "https://www.suno.com.br/noticias/aportes-impulsionam-biocombustiveis-e-reforcam-cenario-para-fiagros/",
+   "publicado": "2026-07-29T21:15:08+00:00",
+   "tickers": [],
+   "resumo": "O Banco Nacional de Desenvolvimento Econômico e Social (BNDES) aprovou R$ 150 milhões em financiamentos para o Grupo Cerradinho, reforçando o ciclo de investimentos na cadeia de biocombustíveis, segmento acompanhado indiretamente pelos fiagros. O movimento ocorre em linha com a e"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Ibovespa cai 1,52% após Fed manter juros e tensão no Oriente Médio ganhar força",
+   "url": "https://www.suno.com.br/noticias/ibovespa-hoje-29-julho-2026-fed-petr4-mt/",
+   "publicado": "2026-07-29T20:55:08+00:00",
+   "tickers": [],
+   "resumo": "O Ibovespa encerrou o pregão desta quarta-feira (29) em forte queda, pressionado pelo aumento da aversão ao risco nos mercados globais após o Federal Reserve (Fed) manter os juros dos Estados Unidos e reforçar um discurso firme no combate à inflação. O principal índice da B3 recu"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Tempestade perfeita atinge a bolsa e traz o Ibovespa de volta aos 173 mil pontos",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/07/29/tempestade-perfeita-atinge-a-bolsa-e-traz-o-ibovespa-de-volta-aos-173-mil-pontos.ghtml",
+   "publicado": "2026-07-29T20:39:51+00:00",
+   "tickers": [
+    "BBDC3",
+    "BBDC4",
+    "ITUB4",
+    "PETR3",
+    "PETR4",
+    "PRIO3",
+    "RECV3",
+    "SANB11"
+   ],
+   "resumo": "Encurralado entre a fraqueza dos bancos e uma reta final de cautela monetária e geopolítica, o Ibovespa fechou a quarta-feira (29) em queda firme, de volta ao patamar dos 173 mil pontos. \nA decepção com o balanço do Santander espalhou ruído pelo setor financeiro e tirou a tração "
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "CVM suspende oferta de cotas de FIDC da NTZ por falhas na documentação",
+   "url": "https://valorinveste.globo.com/mercados/noticia/2026/07/29/cvm-suspende-oferta-de-cotas-de-fidc-da-ntz-por-falhas-na-documentacao.ghtml",
+   "publicado": "2026-07-29T20:33:59+00:00",
+   "tickers": [],
+   "resumo": "A Comissão de Valores Mobiliários (CVM) suspendeu a oferta pública de distribuição de cotas do NTZ Empreendimentos Fundo de Investimento em Direitos Creditórios (FIDC) após identificar que irregularidades na documentação não foram corrigidas mesmo depois de uma modificação da ope"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Ibovespa segue Wall Street e fecha em baixa em dia de Fed; dólar cai a R$ 5,10",
+   "url": "https://www.moneytimes.com.br/ibovespa-segue-wall-street-e-fecha-em-baixa-em-dia-de-fed-dolar-cai-a-r-510/",
+   "publicado": "2026-07-29T20:31:04+00:00",
+   "tickers": [],
+   "resumo": "O Ibovespa (IBOV) operou em baixa de quase 1% durante a maior parte do pregão, seguindo o exterior, e encerrou no negativo em dia de decisão do Federal Reserve (Fed, o banco central dos EUA) e falas do presidente do BC norte-americano, Kevin Warsh. Nesta quarta-feira (29), o prin"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Petróleo dispara 7% com tensão entre EUA e Irã; veja o que mexeu nos preços",
+   "url": "https://www.suno.com.br/noticias/petroleo-dispara-eua-ira-oriente-medio-brent-wti-mt/",
+   "publicado": "2026-07-29T20:30:24+00:00",
+   "tickers": [],
+   "resumo": "Petróleo. Foto: Pixabay.O petróleo voltou a subir com força nesta quarta-feira (29), depois de dias de queda, em meio à retomada dos ataques entre Estados Unidos e Irã no Oriente Médio e ao temor de uma escalada rápida do conflito. O petróleo WTI para setembro, negociado na New Y"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Dólar recua a R$ 5,10 após decisão do Fed",
+   "url": "https://www.moneytimes.com.br/dolar-29-7-26-apsa/",
+   "publicado": "2026-07-29T20:09:08+00:00",
+   "tickers": [],
+   "resumo": "O dólar à vista perdeu força ante o real após a decisão de política monetária do Federal Reserve (Fed, o banco central dos Estados Unidos) e das falas do presidente do BC norte-americano. Nesta quarta-feira (29), o dólar à vista terminou as negociações a R$ 5,1084, em queda de 0,"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Wall Street tomba após decisão do Fed com maior dissidência em uma década; Dow Jones tem pior pregão desde abril de 2025",
+   "url": "https://www.moneytimes.com.br/wall-street-29-7-26-lils/",
+   "publicado": "2026-07-29T20:06:58+00:00",
+   "tickers": [],
+   "resumo": "Os índices de Wall Street fecharam em forte queda após a decisão do Federal Reserve (Fed, o Banco Central dos EUA) de manter os juros inalterados, com os investidores avaliando se o BC conseguirá manter a inflação sob controle. Em destaque, o Dow Jones caiu 1,100 pontos, registra"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Pedidos de recuperação judicial no agro do Brasil sobem 33% no 1º tri e podem bater recorde em 2026, aponta Neot",
+   "url": "https://www.moneytimes.com.br/pedidos-de-recuperacao-judicial-no-agro-do-brasil-sobem-33-no-1o-tri-e-podem-bater-recorde-em-2026-aponta-neot-pads/",
+   "publicado": "2026-07-29T20:04:36+00:00",
+   "tickers": [],
+   "resumo": "Os pedidos de recuperação judicial no agronegócio brasileiro somaram 517 no primeiro trimestre, aumento de 33% em relação ao mesmo período do ano passado, sinalizando que 2026 pode bater um novo recorde de solicitações, segundo análise divulgada nesta quarta-feira (29) pela Neot."
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Ferrari supera críticas e atinge meta de vendas de seu primeiro elétrico",
+   "url": "https://investnews.com.br/negocios/ferrari-supera-criticas-e-atinge-meta-de-vendas-de-seu-primeiro-eletrico/",
+   "publicado": "2026-07-29T19:48:14+00:00",
+   "tickers": [],
+   "resumo": "Luce da Ferrari, avaliado em 550 mil euros e criado por Jony Ive, vende quase 500 unidades após forte demanda na China"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Fed segura juros, fala sobre dissidência e Warsh avisa: “não temos varinha mágica”",
+   "url": "https://www.moneytimes.com.br/fed-segura-juros-fala-sobre-dissidencia-e-warsh-avisa-nao-temos-varinha-magica/",
+   "publicado": "2026-07-29T19:46:35+00:00",
+   "tickers": [],
+   "resumo": "A segunda decisão de política monetária do Federal Reserve sob o comando de Kevin Warsh veio acompanhada da maior divisão no Comitê Federal de Mercado Aberto (FOMC) desde 2016. Embora o banco central tenha mantido a taxa de juros por 9 votos a 3, as três dissidências dominaram as"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Ordens de suspensão da CVM quadruplicam no 1º trimestre e acendem alerta a investidor",
+   "url": "https://valorinveste.globo.com/objetivo/hora-de-investir/noticia/2026/07/29/ordens-de-suspensao-da-cvm-quadruplicam-no-1o-trimestre-e-acendem-alerta-a-investidor.ghtml",
+   "publicado": "2026-07-29T19:04:44+00:00",
+   "tickers": [],
+   "resumo": "O número de ordens de suspensão (“stop orders”, em inglês) de negócios irregulares de investimentos, que a Comissão de Valores Mobiliários (CVM) costuma emitir, quadriplicou nos primeiros três meses deste ano em comparação mesmo período de 2025.  As interrupções saltaram de 2 par"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Casas Bahia: Itaú aplaude turnaround, mas macro joga contra",
+   "url": "https://braziljournal.com/casas-bahia-itau-aplaude-turnaround-mas-macro-joga-contra/",
+   "publicado": "2026-07-29T18:40:20+00:00",
+   "tickers": [],
+   "resumo": "O Itaú BBA retomou sua cobertura do Grupo Casas Bahia com recomendação ‘neutra’ – reconhecendo o sucesso do turnaround executado pelo CEO Renato Franklin mas pontuando que a tese é altamente dependente de uma queda dos juros.  O banco colocou um preço-alvo de R$ 1, um upside pote"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "CEO da Mercedes diz que competição acirrada na China veio para ficar",
+   "url": "https://investnews.com.br/negocios/ceo-da-mercedes-diz-que-competicao-acirrada-na-china-veio-para-ficar/",
+   "publicado": "2026-07-29T18:39:40+00:00",
+   "tickers": [],
+   "resumo": "CEO Ola Källenius afirma que montadoras chinesas estão investindo pesado para conquistar o segmento de luxo e pressionam fabricantes tradicionais"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Chinesa CMOC fecha acordo para comprar minério de ferro da brasileira Itaminas",
+   "url": "https://investnews.com.br/negocios/cmoc-acordo-minerio-itaminas/",
+   "publicado": "2026-07-29T18:19:21+00:00",
+   "tickers": [],
+   "resumo": "O negócio marca a primeira operação da IXM no mercado de minério de ferro e ocorre em um momento em que outras tradings avançam neste mercado"
   },
   {
    "fonte": "InvestNews",
@@ -19,120 +290,22 @@
    "resumo": "Banco central americano manteve a taxa entre 3,50% e 3,75%, mas decisão teve três votos por uma alta de 0,25 ponto percentual, refletindo preocupações persistentes com a inflação"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Hypera (HYPE3) ganha impulso na ‘corrida das canetas’ após aval da Anvisa; Santander vê alta de 37% para ação",
-   "url": "https://www.moneytimes.com.br/hypera-hype3-ganha-impulso-na-corrida-das-canetas-apos-aval-da-anvisa-santander-ve-alta-de-37-para-acao-igdl/",
-   "publicado": "2026-07-29T18:06:33+00:00",
-   "tickers": [
-    "HYPE3"
-   ],
-   "resumo": "A aprovação da Agência Nacional de Vigilância Sanitária (Anvisa) para o registro de novos medicamentos injetáveis à base de semaglutida reforça a posição da Hypera (HYPE3) na disputa por esse mercado no Brasil, segundo avaliação do Santander. Nesta terça-feira (29), a companhia r"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "BC dos EUA mantém juros em 3,75% ao ano; decisão teve três votos contrários",
    "url": "https://valorinveste.globo.com/mercados/moedas-e-juros/noticia/2026/07/29/bc-dos-eua-mantem-juros-em-375percent-ao-ano.ghtml",
    "publicado": "2026-07-29T18:00:24+00:00",
-   "tickers": [],
+   "tickers": [
+    "BLUE3"
+   ],
    "resumo": "O Federal Reserve (Fed, o banco central dos Estados Unidos) manteve a taxa básica de juros em 3,75% ao ano, confirmando a expectativa predominante do mercado. O destaque, porém, ficou para a votação dividida dentro do comitê de política monetária: três dirigentes defenderam uma a"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Dívida pública federal do Brasil sobe 2,61% em junho e atinge R$ 9,268 trilhões",
-   "url": "https://www.moneytimes.com.br/divida-publica-federal-do-brasil-sobe-261-em-junho-a-r93-tri-e-mostra-elevacao-de-custo/",
-   "publicado": "2026-07-29T17:57:58+00:00",
-   "tickers": [],
-   "resumo": "A dívida pública federal do Brasil subiu 2,61% em junho em relação ao mês anterior, a R$9,268 trilhões, divulgou o Tesouro Nacional nesta quarta-feira, em mês marcado por mais uma elevação de custos para o governo. No período, a dívida pública mobiliária interna teve alta de 2,63"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Dino intima Congresso e questiona como parlamentares serão punidos por desvios nas emendas",
-   "url": "https://www.moneytimes.com.br/dino-intima-congresso-e-questiona-como-parlamentares-serao-punidos-por-desvios-nas-emendas/",
-   "publicado": "2026-07-29T17:52:11+00:00",
-   "tickers": [],
-   "resumo": "O ministro Flávio Dino, do Supremo Tribunal Federal (STF), intimou o governo e o Congresso a especificarem como deputados e senadores podem ser punidos em caso de irregularidades na destinação de emendas parlamentares. O despacho foi proferido nesta quarta-feira, 29, em nova ação"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "3tentos (TTEN3) desaba após susto no agro; entenda a queda",
-   "url": "https://www.suno.com.br/noticias/3tentos-tten3-queda-acoes-2t26-agro-mt/",
-   "publicado": "2026-07-29T17:45:06+00:00",
-   "tickers": [
-    "TTEN3"
-   ],
-   "resumo": "A 3tentos (TTEN3) levou um tombo daqueles que fazem o investidor abrir o home broker só para conferir se viu certo. Depois de cair 16,01% na terça-feira (28), as ações da 3tentos (TTEN3) voltaram a ficar sob pressão nesta quarta-feira (29), em meio a dúvidas sobre o que esperar d"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Santander vê acordo da Motiva (MOTV3) como ‘levemente negativo’; entenda",
-   "url": "https://www.moneytimes.com.br/santander-ve-acordo-da-motiva-motv3-como-levemente-negativo-entenda/",
-   "publicado": "2026-07-29T17:42:25+00:00",
-   "tickers": [
-    "MOTV3"
-   ],
-   "resumo": "As ações da Motiva (MOTV3) caíam cerca de 3%, a R$ 14,22, nesta quarta-feira (29), na véspera de divulgação do seu balanço do 2T26. A baixa dos papéis ocorre após o anúncio de ontem (28), de um acordo de venda da participação do grupo Mover para o Bradesco BBI. Ao todo, o BBI adq"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Caged: Brasil abre 145 mil vagas em junho, acima das estimativas",
-   "url": "https://www.moneytimes.com.br/caged-brasil-abre-145-mil-vagas-em-junho-acima-das-estimativas/",
-   "publicado": "2026-07-29T17:40:36+00:00",
-   "tickers": [],
-   "resumo": "O Brasil abriu 145.161 vagas formais de trabalho em junho de 2026, de acordo com o Cadastro Geral de Empregados e Desempregados (Caged), divulgado nesta quarta-feira (29) pelo Ministério do Trabalho e Emprego. O resultado foi fruto de 2.220.131 admissões e 2.074.970 desligamentos"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "INSS lança novo alerta contra golpes e fraudes",
-   "url": "https://www.moneytimes.com.br/inss-alerta-golpe-fraude-rsgp/",
-   "publicado": "2026-07-29T17:36:06+00:00",
-   "tickers": [],
-   "resumo": "As constantes tentativas de fraude e a proliferação de desinformação sobre aposentadorias, pensões e auxílios aos trabalhadores nas redes sociais levaram o Instituto Nacional do Seguro Social (INSS) a lançar mais um alerta aos segurados com dicas para não caírem em golpes. O INSS"
-  },
-  {
    "fonte": "InvestNews",
-   "titulo": "Netflix paga US$ 200 milhões pelos direitos da Copa do Mundo Feminina de 2027",
+   "titulo": "Netflix paga US$ 200 milhões para transmitir Copa do Mundo Feminina nos EUA",
    "url": "https://investnews.com.br/negocios/netflix-paga-us-200-milhoes-pelos-direitos-da-copa-do-mundo-feminina-de-2027/",
    "publicado": "2026-07-29T17:32:16+00:00",
    "tickers": [],
    "resumo": "O preço pago pela Netflix torna o contrato um dos maiores acordos de mídia, em termos anuais, já fechados para uma propriedade esportiva feminina"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Brasil está menos dependente da renda fixa tradicional, segundo a Anbima",
-   "url": "https://www.moneytimes.com.br/brasil-esta-menos-dependente-da-renda-fixa-tradicional-segundo-a-anbima/",
-   "publicado": "2026-07-29T17:28:20+00:00",
-   "tickers": [],
-   "resumo": "A renda fixa continuou sendo o principal motor do mercado de capitais brasileiro no primeiro semestre de 2026. As emissões do segmento somaram R$ 288,8 bilhões, respondendo pela maior parte das captações realizadas no período e consolidando a classe como a principal fonte de fina"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Santander (SANB11) decepciona mercado, mas queda das ações é exagerada, diz gestor da TCM",
-   "url": "https://www.moneytimes.com.br/santander-decepciona-mercado-com-alta-das-provisoes-queda-da-acao-pode-ter-sido-exagerada-diz-gestor-da-tmc-jvka/",
-   "publicado": "2026-07-29T17:24:19+00:00",
-   "tickers": [
-    "SANB11"
-   ],
-   "resumo": "O Santander Brasil (SANB11) abriu a temporada de balanços dos grandes bancos com números abaixo do esperado. Com isso, as ações da instituição lideraram as perdas do Ibovespa (IBOV) nesta quarta-feira (29). Para Utain Maciel, head de renda variável da TCM Capital, o principal ale"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "3tentos (TTEN3) responde à CVM, confirma reuniões com sell side e nega divulgação de novas informações",
-   "url": "https://www.moneytimes.com.br/3tentos-tten3-responde-a-cvm-confirma-reunioes-com-sell-side-e-nega-divulgacao-de-novas-informacoes-pads/",
-   "publicado": "2026-07-29T17:20:01+00:00",
-   "tickers": [
-    "TTEN3"
-   ],
-   "resumo": "A 3tentos (TTEN3) confirmou que realizou reuniões com analistas de sell side na última terça-feira (28), mas afirmou que os encontros se limitaram à discussão de informações já públicas e negou ter apresentado dados inéditos sobre seu desempenho operacional ou financeiro. Os escl"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Boeing (BOEI34) tem caixa positivo, mas BTG ainda vê alerta na decolagem",
-   "url": "https://www.suno.com.br/noticias/boeing-boei34-resultado-2t26-caixa-entregas-btg-mt/",
-   "publicado": "2026-07-29T17:15:07+00:00",
-   "tickers": [
-    "BOEI34"
-   ],
-   "resumo": "A Boeing (BOEI34) até conseguiu levantar voo no 2T26, mas ainda sem céu totalmente limpo. A fabricante americana reportou geração de caixa positiva e entregas maiores no trimestre, mas margens mais fracas e desafios de execução fizeram o BTG Pactual manter uma postura cautelosa c"
   },
   {
    "fonte": "InvestNews",
@@ -141,16 +314,6 @@
    "publicado": "2026-07-29T17:03:00+00:00",
    "tickers": [],
    "resumo": "Decisão no Carf foi contrária ao entendimento da Receita Federal, que veta benefício fiscal para navios-hotel como o flotel"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Vale a pena investir no VRTA11? Saiba mais sobre o FII",
-   "url": "https://www.suno.com.br/noticias/vrta11-fator-verita-carteira-dividendos/",
-   "publicado": "2026-07-29T16:15:05+00:00",
-   "tickers": [
-    "VRTA11"
-   ],
-   "resumo": "O Fator Verità está entre os fundos de papel mais antigos da B3. Sua carteira é concentrada em Certificados de Recebíveis Imobiliários, os CRIs, majoritariamente indexados ao IPCA, conforme a política do veículo. Com patrimônio de cerca de R$ 1,3 bilhão e 102 mil cotistas, o fund"
   },
   {
    "fonte": "InvestNews",
@@ -194,51 +357,13 @@
   },
   {
    "fonte": "Valor Investe",
-   "titulo": "Após balanço fraco, ações do Santander (SANB11) despencam na bolsa",
+   "titulo": "Após balanço fraco, papéis do Santander (SANB11) despencam na bolsa",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/07/29/apos-balanco-fraco-acoes-do-santander-despencam-na-bolsa.ghtml",
    "publicado": "2026-07-29T14:47:14+00:00",
    "tickers": [
     "SANB11"
    ],
-   "resumo": "As units do Santander Brasil (SANB11) despencam mais de 6% nesta quarta-feira (29) após a divulgação do resultado financeiro do 2º trimestre considerado fraco pelo mercado.\nAnalistas destacaram que o balanço veio pior do que o esperado, com aumento das provisões e desempenho frac"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "FII tem proposta milionária para vender escritórios na Berrini; veja valor",
-   "url": "https://www.suno.com.br/noticias/fundo-imobiliario-proposta-venda-thera/",
-   "publicado": "2026-07-29T14:45:21+00:00",
-   "tickers": [
-    "HAAA11"
-   ],
-   "resumo": "O fundo imobiliário HAAA11 (Hedge AAA Fundo de Investimento Imobiliário) comunicou ao mercado que recebeu proposta para vender um conjunto de escritórios no Thera Corporate, na Avenida Engenheiro Luiz Carlos Berrini, em São Paulo, por R$ 242,935 milhões. O informe foi feito por m"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Obras emergenciais de FII vão reduzir a base de rendimentos até 2027; entenda",
-   "url": "https://www.suno.com.br/noticias/fundo-imobiliario-hucg11-obra-rendimentos/",
-   "publicado": "2026-07-29T14:45:14+00:00",
-   "tickers": [
-    "HUCG11"
-   ],
-   "resumo": "O gestor do fundo imobiliário HUCG11 comunicou que contratará uma empresa especializada para corrigir pendências construtivas no imóvel ocupado pela Unimed Campina Grande, com reflexo direto na base de distribuição de rendimentos dos próximos meses. A administração classificou a "
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Resultado do VGIP11 sobe em junho; veja o rendimento e a carteira",
-   "url": "https://www.suno.com.br/noticias/rendimentos-do-vgip11-em-junho/",
-   "publicado": "2026-07-29T14:45:06+00:00",
-   "tickers": [
-    "VGIP11"
-   ],
-   "resumo": "Os rendimentos do VGIP11 somaram R$ 1,16 por cota na competência de junho. No mês, o fundo imobiliário apurou resultado de R$ 13,624 milhões, com receitas totais de R$ 14,523 milhões e despesas de R$ 898 mil, mostrando leve avanço frente aos meses anteriores. Em 12 meses, os rend"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Fed vai subir ou manter os juros nesta quarta? Veja o que o mercado espera",
-   "url": "https://www.suno.com.br/noticias/fed-juros-julho-2026-manutencao-reuniao-fomc-go/",
-   "publicado": "2026-07-29T14:40:00+00:00",
-   "tickers": [],
-   "resumo": "Fed vai subir ou manter os juros nesta quarta? Veja o que o mercado esperaO Federal Reserve (Fed), banco central dos Estados Unidos, anuncia nesta quarta-feira (29) sua decisão sobre a taxa de juros americana. O comunicado está previsto para as 15 horas, no horário de Brasília, s"
+   "resumo": "As units do Santander Brasil (SANB11) despencaram 7% nesta quarta-feira (29) após a divulgação do resultado financeiro do 2º trimestre considerado fraco pelo mercado.\nAnalistas destacaram que o balanço veio pior do que o esperado, com aumento das provisões e desempenho fraco da r"
   },
   {
    "fonte": "Brazil Journal",
@@ -250,22 +375,11 @@
   },
   {
    "fonte": "Valor Investe",
-   "titulo": "Tesouro Direto: juros sobem em meio a forte alta do petróleo e à espera do Fed",
+   "titulo": "Tesouro Direto: juros avançam após decisão do Fed; é hora de comprar?",
    "url": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/07/29/tesouro-direto-juros-sobem-em-meio-a-forte-alta-do-petroleo-e-a-espera-do-fed.ghtml",
    "publicado": "2026-07-29T14:06:50+00:00",
    "tickers": [],
-   "resumo": "Os juros do Tesouro Direto sobem nesta quarta-feira (29) em meio a uma disparada no preço do petróleo, com novos ataques entre Irã e Estados Unidos pondo fim ao breve hiato dos últimos dias. Além disso, investidores esperam com apreensão o resultado da reunião do Federal Reserve "
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Petrobras (PETR4) registra maior produção da sua história no 2T26; veja detalhes",
-   "url": "https://www.suno.com.br/noticias/petr4-petrobras-recorde-producao-2t26-pre-sal-go/",
-   "publicado": "2026-07-29T14:05:11+00:00",
-   "tickers": [
-    "PETR3",
-    "PETR4"
-   ],
-   "resumo": "A Petrobras (PETR4; PETR3) registrou o maior volume de produção da sua história no segundo trimestre de 2026. A estatal extraiu 3,336 milhões de barris de óleo equivalente por dia (boed) entre abril e junho, o que representa alta de 3,5% frente ao primeiro trimestre e avanço de a"
+   "resumo": "Os juros do Tesouro Direto aceleram esta quarta-feira (29) após a divulgação pelo Fed do resultado da reunião sobre a taxa básica americana. O banco central dos EUA manteve a taxa no intervalo entre 3,5% e 3,75% ao ano, mas a divergência de três diretores, favoráveis a uma alta, "
   },
   {
    "fonte": "InvestNews",
@@ -277,7 +391,7 @@
   },
   {
    "fonte": "Valor Investe",
-   "titulo": "Ibovespa cai antes de decisão do Fed, mesmo com alta de Petrobras (PETR4); dólar sobe",
+   "titulo": "Ibovespa fecha em forte queda com maior aversão a risco global, mesmo com alta de Petrobras (PETR4)",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/07/29/ibovespa-e-dolar-hoje-29-de-julho-de-2026.ghtml",
    "publicado": "2026-07-29T12:13:17+00:00",
    "tickers": [
@@ -285,7 +399,7 @@
     "PETR4",
     "SANB11"
    ],
-   "resumo": "O principal índice de ações brasileiras opera em queda nesta quarta-feira (29), e só não cai mais pela forte alta dos papéis da Petrobras (PETR3, PETR4), que sobem mais de 2%. O dia é ruim para os bancos, após o balanço do Santander Brasil (SANB11) vir abaixo das expectativas, ma"
+   "resumo": "O principal índice de ações brasileiras encerrou o pregão desta quarta-feira (29) em forte queda, e só não foi pior porque os papéis da Petrobras (PETR3, PETR4) registraram valorização significativa. O dia foi especialmente ruim para os bancos, após o balanço do Santander Brasil "
   },
   {
    "fonte": "InvestNews",
@@ -294,16 +408,6 @@
    "publicado": "2026-07-29T12:11:30+00:00",
    "tickers": [],
    "resumo": "Com o mercado chinês ainda sem sinais claros de recuperação, o CEO da Hermès monitora um termômetro pouco convencional do consumo"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Santander Brasil (SANB11) tem lucro de R$ 3 bilhões no 2T26, queda de 17,6%",
-   "url": "https://www.suno.com.br/noticias/santander-brasil-sanb11-lucro-liquido-recorrente-29062026-go/",
-   "publicado": "2026-07-29T12:00:00+00:00",
-   "tickers": [
-    "SANB11"
-   ],
-   "resumo": "Santander Brasil (SANB11) tem lucro de R$ 3 bilhões no 2T26, queda de 17,6%O Santander Brasil (SANB11) teve lucro líquido gerencial recorrente, que desconsidera o ágio de aquisições, de R$ 3,014 bilhões no segundo trimestre de 2026, queda de 17,6% ante o registrado em igual perío"
   },
   {
    "fonte": "InvestNews",
@@ -383,14 +487,6 @@
    "resumo": "O setor de saneamento vai sofrer com a reforma tributária, que elevará os impostos sobre serviços de água e esgoto. Mas por enquanto, ninguém sabe ao certo a dimensão do aumento das tarifas, e nem quando isso acontecerá – nem mesmo as agências reguladoras. A carga tributária efet"
   },
   {
-   "fonte": "Brazil Journal",
-   "titulo": "Os planos de Muller para fazer da Leto a ‘Apollo brasileira’",
-   "url": "https://braziljournal.com/os-planos-de-muller-para-fazer-da-leto-a-apollo-brasileira/",
-   "publicado": "2026-07-29T09:50:23+00:00",
-   "tickers": [],
-   "resumo": "Alexandre Muller passou os últimos 23 anos cobrindo o mercado de crédito: foi analista do UBS e do BTG antes de entrar na JGP para criar a área de crédito na gestora de André Jakurski. Agora, aos 43, Muller está deixando de ser apenas gestor para se tornar empresário. No ano pass"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Quem decide por nós quando envelhecemos?",
    "url": "https://valorinveste.globo.com/blogs/yuri-freitas/coluna/quem-decide-por-nos-quando-envelhecemos.ghtml",
@@ -449,14 +545,6 @@
    "resumo": "Fábrica nasceu com o estado e formou cadeia de fornecedores; agora, BYD e Stellantis tentam combinar produção  local e tecnologia chinesa"
   },
   {
-   "fonte": "Brazil Journal",
-   "titulo": "Clarity Act emperra no Senado americano, abortando a alta do bitcoin",
-   "url": "https://braziljournal.com/clarity-act-emperra-no-senado-americano-abortando-a-alta-do-bitcoin/",
-   "publicado": "2026-07-29T00:39:55+00:00",
-   "tickers": [],
-   "resumo": "Apesar da pressão de Donald Trump e do lobby da indústria dos criptoativos, a votação do Digital Asset Market Clarity Act – a legislação que dará segurança regulatória ao uso das moedas digitais nos EUA – emperrou no Senado, postergando a perspectiva de recuperação do bitcoin. Os"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Itaúsa e Votorantim abrem mão de preferência e Bradesco BBI compra 14,9% da Motiva (ex-CCR)",
    "url": "https://investnews.com.br/negocios/bradesco-bbi-compra-acao-motiva/",
@@ -471,24 +559,6 @@
    "publicado": "2026-07-29T00:02:36+00:00",
    "tickers": [],
    "resumo": "O resultado da Mega-Sena 3037 com prêmio de R$ 76,9 milhões foi divulgado nesta terça-feira (28), em São Paulo, e ninguém acerta as seis dezenas. Com isso, o prêmio acumulou em R$ 86 milhões para o próximo sorteio que vai ser realizado na quinta-feira (30).\nOs números sorteados f"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "O tombo de 16% da 3tentos, após reunião com o sellside",
-   "url": "https://braziljournal.com/o-tombo-de-16-da-3tentos-apos-reuniao-com-o-sellside/",
-   "publicado": "2026-07-28T23:46:22+00:00",
-   "tickers": [],
-   "resumo": "Foi uma “surra de tento” – em gauchês, “uma surra muito severa, uma coça violenta ou goleada histórica.” A 3tentos, uma das ações do agro com melhor performance nos últimos anos, mergulhou 16% hoje depois que reuniões da empresa com analistas do sellside acenderam o sinal amarelo"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "SNME11 lucra R$ 1,81 milhão e mantém estratégia de ganho de capital",
-   "url": "https://www.suno.com.br/noticias/snme11-lucra-r-181-milhao-e-mantem-estrategia-de-ganho-de-capital/",
-   "publicado": "2026-07-28T22:45:06+00:00",
-   "tickers": [
-    "SNME11"
-   ],
-   "resumo": "O FII SNME11 fechou junho com resultado líquido de R$ 1,81 milhão, mantendo a estratégia focada na captura de ganhos de capital em operações estruturadas e arbitragem no mercado de fundos imobiliários. No mês, o fundo apurou resultado distribuível de R$ 0,244 por cota e pagou R$ "
   },
   {
    "fonte": "Valor Investe",
@@ -705,14 +775,6 @@
    "resumo": "O Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA-15), a prévia da inflação do Brasil, aumentou 0,06% em julho, apontou o Instituto Brasileiro de Geografia e Estatística (IBGE) nesta terça-feira (28). O indicador desacelerou bastante em comparação a junho, quando subiu 0,4"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Entrega da ECF é importante para verificar se sua empresa deve impostos ou tem pendências fiscais",
-   "url": "https://investnews.com.br/negocios/como-saber-se-sua-empresa-deve-impostos/",
-   "publicado": "2026-07-28T12:00:43+00:00",
-   "tickers": [],
-   "resumo": "Prazo de entrega à Receita Federal da Escrituração Contábil Fiscal, com dados financeiros da sua empresa, vai até sexta-feira, 31 de julho"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Bradesco reformula renda fixa e lidera ranking da Anbima após quase 10 anos",
    "url": "https://valorinveste.globo.com/produtos/renda-fixa/noticia/2026/07/28/bradesco-reformula-renda-fixa-e-lidera-ranking-da-anbima-apos-quase-10-anos.ghtml",
@@ -742,14 +804,6 @@
    "resumo": "Telefônica\nA Telefônica Brasil, dona da Vivo, registrou lucro líquido de R$ 1,6 bilhão no segundo trimestre, alta de 17% em base anual. A teleconferência será realizada às 10h.\n\nTIM Brasil\nA TIM Brasil registrou um lucro líquido normalizado de R$ 1,03 bilhão no segundo trimestre "
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Três fatores podem definir os rumos do bitcoin até o fim do ano, segundo exchange",
-   "url": "https://investnews.com.br/investimentos/tres-fatores-podem-definir-os-rumos-do-bitcoin-ate-o-fim-do-ano-segundo-exchange/",
-   "publicado": "2026-07-28T11:09:26+00:00",
-   "tickers": [],
-   "resumo": "Principal criptomoeda do mercado é negociada na faixa dos US$ 63 mil hoje"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Na véspera da reunião do Fed, IPCA-15 e números da Petrobras são vistos com lupa",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/07/28/na-vespera-da-reuniao-do-fed-ipca-15-e-numeros-da-petrobras-sao-vistos-com-lupa.ghtml",
@@ -766,28 +820,12 @@
    "resumo": "No universo da renda fixa, poucas armadilhas são tão sedutoras quanto a da taxa mais alta. A lógica parece incontestável: se existe no mercado uma NTN-B rendendo IPCA+7% ao ano, por que manter uma que rende IPCA+5%? A resposta exige entender um dos princípios mais fundamentais e "
   },
   {
-   "fonte": "Brazil Journal",
-   "titulo": "EUA avançam em testes de microrreator nuclear: “cabe num caminhão”",
-   "url": "https://braziljournal.com/eua-avancam-em-testes-de-microrreator-nuclear-cabe-num-caminhao/",
-   "publicado": "2026-07-28T09:50:33+00:00",
-   "tickers": [],
-   "resumo": "Reatores atômicos que caberão na caçamba de um caminhão e poderão gerar energia em qualquer lugar. A ambiciosa promessa da nova geração de equipamentos nucleares está mais perto de sair do papel nos Estados Unidos. O Presidente Trump cercou-se de auxiliares e empresários do setor"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Como escolher um fundo de direitos creditórios (FIDC) com segurança?",
    "url": "https://valorinveste.globo.com/credito-privado/noticia/2026/07/28/como-escolher-um-fundo-de-direitos-creditorios-fidc-com-seguranca.ghtml",
    "publicado": "2026-07-28T09:10:08+00:00",
    "tickers": [],
    "resumo": "Os fundos de investimento em direitos creditórios (FIDCs) passaram por um forte crescimento neste ano e lideraram altas de emissões ao longo dos últimos meses no crédito privado. Ao mesmo tempo, eles têm aparecido associados a escândalos financeiros, como o do banco Master, e for"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "O que as novas tarifas de Trump significam para a economia americana",
-   "url": "https://investnews.com.br/the-wall-street-journal/o-que-as-novas-tarifas-de-trump-significam-para-a-economia-americana/",
-   "publicado": "2026-07-28T09:03:00+00:00",
-   "tickers": [],
-   "resumo": "Trump substitui tarifas prestes a expirar por uma nova rodada de taxas. Veja o que esperar"
   },
   {
    "fonte": "Valor Investe",
@@ -822,50 +860,6 @@
    "publicado": "2026-07-27T20:41:21+00:00",
    "tickers": [],
    "resumo": "A segunda-feira (27) começou com um sopro de alívio vindo do Oriente Médio. Após 13 dias de escalada do conflito, a trégua nos ataques no fim de semana entre Estados Unidos e Irã acalmou os ânimos globais. Declarando que as conversas \"vão bem e há chance de algo acontecer\", o pre"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Com mercado coreano no horizonte, ações da MBRF (MBRF3) lideram ganhos do Ibovespa",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/07/27/com-mercado-coreano-no-horizonte-acoes-da-mbrf-mbrf3-lideram-ganhos-do-ibovespa.ghtml",
-   "publicado": "2026-07-27T19:51:12+00:00",
-   "tickers": [
-    "MBRF3"
-   ],
-   "resumo": "Os papéis da MBRF (MBRF3), empresa resultante da incorporação da BRF pela Marfrig, dispararam no pregão de hoje na B3, a bolsa brasileira, impulsionados pela possibilidade de abertura do mercado coreano à carne brasileira. As ações encerraram as negociações com alta de 7,08%, cot"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Eleição presidencial e política fiscal na Expert XP",
-   "url": "https://valorinveste.globo.com/blogs/marcelo-dagosto/post/2026/07/eleicao-presidencial-e-politica-fiscal-na-expert-xp.ghtml",
-   "publicado": "2026-07-27T19:32:41+00:00",
-   "tickers": [],
-   "resumo": "De acordo com os modelos de previsão para o resultado eleitoral acompanhados pelo cientista político Felipe Nunes, presidente do instituto de pesquisas Quaest, se a eleição presidencial fosse hoje, a probabilidade maior é que o presidente Lula fosse reeleito.\nOs cálculos que esti"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Nem a crise do Master abalou os CDBs: estoque de títulos bancários cresce 13%",
-   "url": "https://valorinveste.globo.com/produtos/renda-fixa/noticia/2026/07/27/nem-a-crise-do-master-abalou-os-cdbs-estoque-de-titulos-bancarios-cresce-13percent.ghtml",
-   "publicado": "2026-07-27T18:28:49+00:00",
-   "tickers": [],
-   "resumo": "Os brasileiros continuam reforçando a preferência pela renda fixa bancária. O movimento ocorre mesmo após a crise envolvendo o Banco Master, que levantou dúvidas sobre os riscos dos Certificados de Depósito Bancário (CDBs) emitidos por bancos de menor porte. Ainda assim, o estoqu"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Mais de 100 BDRs ficam mais baratos na B3 a partir de hoje; veja a lista completa",
-   "url": "https://valorinveste.globo.com/produtos/investimento-no-exterior/noticia/2026/07/27/mais-de-100-bdrs-ficam-mais-baratos-na-b3-a-partir-de-hoje-veja-a-lista-completa.ghtml",
-   "publicado": "2026-07-27T18:01:05+00:00",
-   "tickers": [],
-   "resumo": "A B3 começou nesta segunda-feira (27) um ajuste na paridade de 101 Brazilian Depositary Receipts (BDRs), recibos de ações de empresas estrangeiras negociados na bolsa brasileira. A mudança, prevista para ser concluída em quatro etapas até 24 de agosto, busca tornar esses ativos m"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Mercado reforça aposta na Embraer (EMBJ3) após novo recorde de encomendas; ações disparam",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/07/27/mercado-reforca-aposta-na-embraer-embj3-apos-novo-recorde-de-encomendas-acoes-disparam.ghtml",
-   "publicado": "2026-07-27T17:53:02+00:00",
-   "tickers": [
-    "EMBJ3"
-   ],
-   "resumo": "Os papéis da Embraer dispararam no pregão desta segunda-feira (27), após a fabricante de aeronaves divulgar uma carteira de pedidos recorde no segundo trimestre de 2026. As ações (EMBJ3) negociadas na B3, a bolsa brasileira, subiram 5,33%, cotadas a R$ 86,90, e os ADRs (recibos d"
   }
  ]
 }
