@@ -3,6 +3,79 @@
  "itens": 100,
  "dados": [
   {
+   "fonte": "Money Times",
+   "titulo": "Aumento de capital bilionário do Bradesco, o adeus do Santander e os dividendos da Vale; veja as mais lidas da semana",
+   "url": "https://www.moneytimes.com.br/aumento-de-capital-bilionario-do-bradesco-o-adeus-do-santander-e-os-dividendos-da-vale-veja-as-mais-lidas-da-semana-jcav/",
+   "publicado": "2026-08-01T11:50:02+00:00",
+   "tickers": [
+    "BBDC4",
+    "SANB11"
+   ],
+   "resumo": "A última semana foi marcada por notícias importantes dos bancões brasileiros. Os investidores acompanharam desde um aumento de capial bilionário no Bradesco (BBDC4) ao adeus do Santander (SANB11) à bolsa brasileira. E isso tudo, em meio a temporada de balanços do segundo trimestr"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "MBRF (MBRF3) e Usiminas (USIM5) são os destaques da semana; veja o que movimentou o Ibovespa no fim de julho",
+   "url": "https://www.moneytimes.com.br/ibovespa-destaques-da-semana-31-lils/",
+   "publicado": "2026-08-01T11:30:00+00:00",
+   "tickers": [
+    "MBRF3",
+    "USIM5"
+   ],
+   "resumo": "O Ibovespa (IBOV) encerrou a última semana de julho em forte valorização, com alívio na inflação e expectativa para a próxima decisão do Copom. O principal índice da bolsa brasileira acumulou valorização de 2,27% na semana e encerrou a última sessão aos 177.999,00 pontos. Em julh"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Às vezes saio de casa só pra lembrar que — by Pedro Vinicio",
+   "url": "https://braziljournal.com/as-vezes-saio-de-casa-so-pra-lembrar-que-by-pedro-vinicio/",
+   "publicado": "2026-08-01T11:00:22+00:00",
+   "tickers": [],
+   "resumo": "Ver o último.\nThe post Às vezes saio de casa só pra lembrar que — by Pedro Vinicio appeared first on Brazil Journal."
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "De Banco do Brasil (BBAS3) a Suzano (SUZB3): Os papéis que estão baratos na bolsa, na visão do ‘Buffett de Londrina’",
+   "url": "https://www.moneytimes.com.br/de-banco-do-brasil-bbas3-a-suzano-suzb3-os-papeis-baratos-de-buffett-de-londrina-vontade-zero-de-ficar-com-caixa-rnda/",
+   "publicado": "2026-08-01T11:00:00+00:00",
+   "tickers": [
+    "BBAS3",
+    "SUZB3"
+   ],
+   "resumo": "Se a bolsa já estava atrativa no começo do ano, voltou a ficar ainda mais após a recente queda. Pelo menos na visão do gestor César Paiva, do Real Investor. Conhecido no mercado como &#8216;Warren Buffett de Londrina&#8216; por conta de seus métodos e dos retornos entregues — um "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Gasolina passa a ter 32% de etanol a partir deste sábado (1)",
+   "url": "https://www.moneytimes.com.br/gasolina-passa-a-ter-32-de-etanol-a-partir-deste-sabado-1/",
+   "publicado": "2026-08-01T10:30:00+00:00",
+   "tickers": [],
+   "resumo": "A partir deste sábado (1), a gasolina vendida nos postos brasileiros passa a contar com uma mistura de 32% de etanol anidro. Até então, o percentual obrigatório era de 30%. A mudança foi aprovada pelo Conselho Nacional de Política Energética (CNPE) em 14 de julho e terá validade "
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "No meu divã tinha um prompt",
+   "url": "https://valorinveste.globo.com/blogs/jose-brazuna/coluna/no-meu-diva-tinha-um-prompt.ghtml",
+   "publicado": "2026-08-01T09:40:10+00:00",
+   "tickers": [],
+   "resumo": "Entramos no segundo semestre do ano, e resolvi tentar olhar para trás e fazer um balanço do que tratei nesta coluna ao longo de 2026. Para isso, pedi uma ajuda a inteligência artificial.\nFique surpreso porque esperava um resumo. Mas, o resultado foi bem mais interessante, porque "
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "O Panamá irritou a China. Agora está pagando o preço",
+   "url": "https://investnews.com.br/the-wall-street-journal/o-panama-irritou-a-china-agora-esta-pagando-o-preco/",
+   "publicado": "2026-08-01T09:00:00+00:00",
+   "tickers": [],
+   "resumo": "Pequim pressiona o país após a retirada de uma empresa de Hong Kong de dois portos do Canal do Panamá"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Bolsa Família agosto 2026: confira calendário de pagamentos e quem pode receber",
+   "url": "https://www.moneytimes.com.br/bolsa-familia-agosto-2026-isca/",
+   "publicado": "2026-08-01T08:45:00+00:00",
+   "tickers": [],
+   "resumo": "Os pagamentos do Bolsa Família referentes a agosto começarão dia 18 e se estenderão até o dia 29. A informação consta do calendário divulgado pelo Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome (MDS). Por se tratar do principal programa de transferên"
+  },
+  {
    "fonte": "Valor Investe",
    "titulo": "Mega-Sena 3039 sorteia R$ 100 milhões no domingo (2); veja como e até que horas pode apostar",
    "url": "https://valorinveste.globo.com/loterias/noticia/2026/08/01/mega-sena-3039-sorteia-r-100-milhoes-no-domingo-2-veja-como-e-ate-que-horas-pode-apostar.ghtml",
@@ -199,28 +272,12 @@
    "resumo": "O Bitcoin (BTC) encerrou julho negociado na faixa de US$ 63 mil, acumulando valorização de cerca de 5% no mês, segundo dados da plataforma agregadora de preços CoinGecko. Apesar do desempenho positivo, a principal representante do mercado de criptoativos termina o período cercada"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Ibovespa interrompe sequência de perdas mensais e acumula alta de 3,5% em julho",
-   "url": "https://www.moneytimes.com.br/ibovespa-julho-27-lils/",
-   "publicado": "2026-07-31T20:44:05+00:00",
-   "tickers": [],
-   "resumo": "Com a retomada do fluxo estrangeiro e o otimismo de continuidade do ciclo de cortes na taxa Selic, o Ibovespa (IBOV) interrompeu a sequência de quatro perdas mensais consecutivas e encerrou julho em alta. No mês, o principal índice da bolsa brasileira subiu 3,47% e encerrou o últ"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Sob pane na B3, Ibovespa engata em julho maior alta em 5 meses",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/07/31/sob-pane-na-b3-ibovespa-engata-em-julho-maior-alta-em-5-meses.ghtml",
    "publicado": "2026-07-31T20:42:37+00:00",
    "tickers": [],
    "resumo": "Se julho precisava de uma última dose de adrenalina para se despedir, a própria B3 fez questão de dar o tom nesta sexta-feira (31). Um problema técnico manteve as portas da bolsa fechadas até 12h30. Mas assim que as engrenagens voltaram a girar, o Ibovespa recuperou o tempo perdi"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Michelle decide sobre candidatura ao Senado, com aval de Bolsonaro, até domingo, diz Valdemar Costa Neto",
-   "url": "https://www.moneytimes.com.br/michelle-decide-sobre-candidatura-ao-senado-com-aval-de-bolsonaro-ate-domingo-diz-valdemar-gaep/",
-   "publicado": "2026-07-31T20:33:46+00:00",
-   "tickers": [],
-   "resumo": "O presidente do PL, Valdemar Costa Neto, afirmou nesta sexta-feira (31) que a ex-primeira-dama Michelle Bolsonaro (PL) decidirá até domingo (2) se disputará uma vaga ao Senado pelo Distrito Federal. Segundo o presidente do PL, a palavra final caberá ao ex-presidente Jair Bolsonar"
   },
   {
    "fonte": "Valor Investe",
@@ -231,38 +288,12 @@
    "resumo": "As vendas líquidas, subtraídos os resgates, dos títulos do Tesouro Direto atingiram R$ 10,1 bilhões em junho, o recorde desde o lançamento do produto em 2003. Foram vendidos R$ 14,7 bilhões e resgatados R$ 4,6 bilhões. Houve forte aumento da procura pelos papéis atrelados à infla"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Ibovespa avança pelo 2º pregão consecutivo com Santander (SANB11), apesar do atraso nas negociações; dólar sobe",
-   "url": "https://www.moneytimes.com.br/ibovespa-31-7-26-lils/",
-   "publicado": "2026-07-31T20:16:23+00:00",
-   "tickers": [
-    "SANB11"
-   ],
-   "resumo": "O Ibovespa (IBOV) engatou o segundo dia de ganhos consecutivos, em pregão reduzido por atraso na abertura. As negociações na bolsa brasileira começaram com quase três horas de atraso, reduzindo o fluxo no último pregão do mês – que, em operações normais, tende a ser maior por aju"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Wall Street fecha em alta com tecnologia, mas Nasdaq derrete 3% e tem 2º mês de perdas",
-   "url": "https://www.moneytimes.com.br/wall-street-31-7-26-apsa/",
-   "publicado": "2026-07-31T20:07:13+00:00",
-   "tickers": [],
-   "resumo": "Os índices de Wall Street fecharam em forte alta, apesar da pressão vinda dos Treasuries e do petróleo — o que acrescentou volatilidade aos ativos no pregão desta sexta-feira (31). As ações de tecnologia conseguiram retomar o fôlego mais perto do fim da sessão. Confira o fechamen"
-  },
-  {
    "fonte": "Suno Noticias",
    "titulo": "B3 abre com 2h30 de atraso após falha operacional; entenda o que aconteceu",
    "url": "https://www.suno.com.br/noticias/b3-abertura-atrasada-falha-operacional-pregao-mt/",
    "publicado": "2026-07-31T20:05:11+00:00",
    "tickers": [],
    "resumo": "A manhã desta sexta-feira (31) começou com o mercado brasileiro praticamente no modo de espera. As negociações de ações, fundos imobiliários, BDRs, contratos futuros e outros ativos da B3 foram abertas apenas por volta das 12h30, duas horas e meia depois do horário normal do preg"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Dólar sobe a R$ 5,07 com nova disparada dos Treasuries; divisa acumula queda de quase 2% em julho",
-   "url": "https://www.moneytimes.com.br/dolar-31-7-26-lils/",
-   "publicado": "2026-07-31T20:03:36+00:00",
-   "tickers": [],
-   "resumo": "O dólar à vista ganhou força com o avanço dos rendimentos dos títulos do Tesouro norte-americano e desdobramentos do conflito no Oriente Médio. Nesta sexta-feira (31), o dólar à vista terminou as negociações a R$ 5,0704, com alta de 0,18%. O dólar acompanhou o desempenho da divis"
   },
   {
    "fonte": "Valor Investe",
@@ -830,22 +861,6 @@
    "resumo": "O que investidores ouviram deixou dúvidas sobre a disposição de aumentos de juros potencialmente necessários para conter a inflação em alta"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "AB InBev cresce com marcas premium. Copa ajuda a Ambev – mas menos do que o esperado",
-   "url": "https://investnews.com.br/negocios/ab-inbev-premium-copa-mundo-ambev/",
-   "publicado": "2026-07-30T14:35:36+00:00",
-   "tickers": [],
-   "resumo": "Receita e lucro cresceram com marcas mais caras, mas o efeito da Copa no Brasil ficou abaixo do que projetavam analistas"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "O aumento de capital de R$ 10 bi do Bradesco",
-   "url": "https://braziljournal.com/o-aumento-de-capital-de-r-10-bi-do-bradesco/",
-   "publicado": "2026-07-30T14:08:58+00:00",
-   "tickers": [],
-   "resumo": "E afinal, o Bradesco precisava mesmo de capital. O banco anunciou ontem à noite um aumento de capital de até R$ 10 bilhões, por meio de uma subscrição privada de novas ações.  Os controladores se comprometeram a colocar até R$ 8 bilhões, o valor mínimo para que a operação seja re"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Poeira pós-Fed baixa e Ibovespa fecha em alta com maior apetite global por risco; dólar cai a R$ 5,06",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/07/30/ibovespa-e-dolar-hoje-30-de-julho-de-2026.ghtml",
@@ -876,14 +891,6 @@
     "PMAM3"
    ],
    "resumo": "Ambev \nA Ambev teve lucro líquido de R$ 3,47 bilhões no segundo trimestre deste ano, o que representa aumento de 24,5% quando comparado aos R$ 2,79 bilhões de lucro líquido apurado em igual período de 2025. A teleconferência será realizada às 12h30.\n\nA companhia também aprovou o "
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Quinta tem desemprego no Brasil e inflação e PIB nos EUA, além de balanço da Vale",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/07/30/quinta-tem-desemprego-no-brasil-e-inflacao-e-pib-nos-eua-alem-de-balanco-da-vale.ghtml",
-   "publicado": "2026-07-30T10:55:09+00:00",
-   "tickers": [],
-   "resumo": "Mal deu tempo de repercutir o encontro do Federal Reserve (Fed, o banco central dos Estados Unidos), e o mercado já conta com uma agenda bastante cheia nesta quinta-feira (30). No Brasil, a divulgação da taxa de desemprego e o balanço do primeiro trimestre da Vale, após o fechame"
   }
  ]
 }
