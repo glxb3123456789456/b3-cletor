@@ -3,26 +3,129 @@
  "itens": 100,
  "dados": [
   {
-   "fonte": "Money Times",
-   "titulo": "Aumento de capital bilionário do Bradesco, o adeus do Santander e os dividendos da Vale; veja as mais lidas da semana",
-   "url": "https://www.moneytimes.com.br/aumento-de-capital-bilionario-do-bradesco-o-adeus-do-santander-e-os-dividendos-da-vale-veja-as-mais-lidas-da-semana-jcav/",
-   "publicado": "2026-08-01T11:50:02+00:00",
-   "tickers": [
-    "BBDC4",
-    "SANB11"
-   ],
-   "resumo": "A última semana foi marcada por notícias importantes dos bancões brasileiros. Os investidores acompanharam desde um aumento de capial bilionário no Bradesco (BBDC4) ao adeus do Santander (SANB11) à bolsa brasileira. E isso tudo, em meio a temporada de balanços do segundo trimestr"
+   "fonte": "InvestNews",
+   "titulo": "FIFA desiste de plano polêmico de vender direitos comerciais a investidores privados",
+   "url": "https://investnews.com.br/the-wall-street-journal/fifa-desiste-de-plano-polemico-de-vender-direitos-comerciais-a-investidores-privados/",
+   "publicado": "2026-08-01T17:50:00+00:00",
+   "tickers": [],
+   "resumo": "Enfrentando uma tempestade de críticas, o presidente da Fifa, Gianni Infantino, muda de rumo após motim de entidades europeias"
   },
   {
    "fonte": "Money Times",
-   "titulo": "MBRF (MBRF3) e Usiminas (USIM5) são os destaques da semana; veja o que movimentou o Ibovespa no fim de julho",
-   "url": "https://www.moneytimes.com.br/ibovespa-destaques-da-semana-31-lils/",
-   "publicado": "2026-08-01T11:30:00+00:00",
+   "titulo": "Suzano (SUZB3) e mais 4 ações para bater o Ibovespa (IBOV) no curto prazo, segundo a Terra",
+   "url": "https://www.moneytimes.com.br/suzano-suzb3-e-mais-4-acoes-para-bater-o-ibovespa-ibov-no-curto-prazo-segundo-a-terra-lmrs/",
+   "publicado": "2026-08-01T17:00:00+00:00",
    "tickers": [
+    "HYPE3",
+    "IGTI11",
     "MBRF3",
-    "USIM5"
+    "SBSP3",
+    "SUZB3"
    ],
-   "resumo": "O Ibovespa (IBOV) encerrou a última semana de julho em forte valorização, com alívio na inflação e expectativa para a próxima decisão do Copom. O principal índice da bolsa brasileira acumulou valorização de 2,27% na semana e encerrou a última sessão aos 177.999,00 pontos. Em julh"
+   "resumo": "A carteira recomendada da Terra Investimentos para o período de 31 de julho a 07 de agosto não passou por alterações em relação a semana anterior. Dessa maneira, a composição permanece com as ações da Sabesp (SBSP3), MBRF (MBRF3), Suzano (SUZB3), Hypera (HYPE3) e Iguatemi (IGTI11"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "A nova guerra marítima: como drones e mísseis ‘estrangulam’ o comércio global",
+   "url": "https://investnews.com.br/economia/a-nova-guerra-maritima-como-drones-e-misseis-estrangulam-o-comercio-global/",
+   "publicado": "2026-08-01T16:02:06+00:00",
+   "tickers": [],
+   "resumo": "Ataques de drones e mísseis se expandem para várias rotas marítimas como Ormuz, Mar Vermelho e Mar Negro"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "É compra: Este fundo imobiliário combina desconto, dividendos e potencial de alta, segundo a XP",
+   "url": "https://www.moneytimes.com.br/e-compra-este-fundo-imobiliario-combina-desconto-dividendos-e-potencial-de-alta-segundo-a-xp-igdl/",
+   "publicado": "2026-08-01T16:00:00+00:00",
+   "tickers": [
+    "VILG11"
+   ],
+   "resumo": "A XP Investimentos recomendou compra para as cotas do fundo imobiliário Vinci Logística (VILG11), ao avaliar que o veículo ainda negocia com desconto em relação ao seu valor justo e reúne perspectivas favoráveis para os próximos anos. O preço-alvo da corretora para os papéis é de"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Tesouro Direto bate recorde em junho com impulso do Tesouro IPCA+",
+   "url": "https://www.moneytimes.com.br/tesouro-direto-bate-recorde-em-junho-com-impulso-do-tesouro-ipca-jcav/",
+   "publicado": "2026-08-01T15:14:40+00:00",
+   "tickers": [],
+   "resumo": "O Tesouro IPCA+ roubou a cena entre os investidores em junho e ajudou o Tesouro Direto a registrar seu melhor resultado desde o início do programa. As vendas líquidas dos títulos públicos somaram R$ 10,1 bilhões no mês, resultado de R$ 14,7 bilhões em aplicações e R$ 4,6 bilhões "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Warsh levantou possibilidade de mudar frequência das reuniões de política monetária do Fed, segundo NYT",
+   "url": "https://www.moneytimes.com.br/warsh-levantou-possibilidade-de-mudar-frequencia-das-reunioes-de-politica-monetaria-do-fed-segundo-nyt-jcav/",
+   "publicado": "2026-08-01T14:39:49+00:00",
+   "tickers": [],
+   "resumo": "O chair do Federal Reserve, Kevin Warsh, levantou nesta semana a ideia de reduzir o número de reuniões regulares do Fed nas quais são definidas as taxas de juros, informou o New York Times nesta sexta-feira (31). A medida, se adotada, romperia com uma prática de quase meio século"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Dividendos de até 10,4%: Empiricus troca Cyrela por Direcional em carteira para agosto",
+   "url": "https://www.moneytimes.com.br/dividendos-de-ate-104-empiricus-troca-cyrela-por-direcional-em-carteira-para-agosto-jcav/",
+   "publicado": "2026-08-01T14:36:52+00:00",
+   "tickers": [
+    "CYRE3",
+    "DIRR3"
+   ],
+   "resumo": "A Empiricus promoveu uma mudança pontual em sua carteira de dividendos para agosto. A casa de análise retirou as ações da Cyrela (CYRE3) e voltou a recomendar Direcional (DIRR3), mantendo oito ativos no portfólio, todos com participação de 12,5%. A troca ocorre após a queda de qu"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Preços da gasolina e do diesel podem subir ainda mais, mesmo se petróleo continuar a cair, alertam ExxonMobil e Chevron",
+   "url": "https://investnews.com.br/economia/precos-da-gasolina-e-do-diesel-podem-subir-ainda-mais-mesmo-se-petroleo-continuar-a-cair-alertam-exxonmobil-e-chevron/",
+   "publicado": "2026-08-01T14:11:30+00:00",
+   "tickers": [],
+   "resumo": "Petroleiras afirmam que setor perdeu mais de 5 milhões de barris por dia de capacidade de refino por dia com as guerras"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Debêntures ficaram mais baratas? Itaú BBA vê janela após abertura dos spreads",
+   "url": "https://www.moneytimes.com.br/debentures-ficaram-mais-baratas-itau-bba-ve-janela-apos-abertura-dos-spreads/",
+   "publicado": "2026-08-01T14:07:29+00:00",
+   "tickers": [],
+   "resumo": "O mercado brasileiro de crédito privado passou por um período de ajuste no primeiro semestre de 2026, com abertura dos spreads, resgates em fundos e maior seletividade dos investidores. Apesar da deterioração dos indicadores técnicos, o Itaú BBA avalia que o movimento foi predomi"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Livros que deixam buracos na estante",
+   "url": "https://www.moneytimes.com.br/livros-que-deixam-buracos-na-estante-ceci/",
+   "publicado": "2026-08-01T14:00:00+00:00",
+   "tickers": [],
+   "resumo": "Estou obcecado pela leitura que terminei nesta semana. Trata-se de &#8220;O sentido da vida&#8220;, do psicanalista Contardo Calligaris, morto em 2021. O título do livro explica bem do que se trata – e vale dizer, ele abre uma discussão e não apresenta uma conclusão fácil. Mas o "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Fitch derruba rating da CSN por risco elevado e endividamento",
+   "url": "https://www.moneytimes.com.br/fitch-rebaixa-rating-da-csn-a-ccc-com-piora-de-flexibilidade-financeira-jcav/",
+   "publicado": "2026-08-01T13:29:50+00:00",
+   "tickers": [
+    "CSNA3"
+   ],
+   "resumo": "A Fitch rebaixou o rating inadimplência do emissor (IDRs) de longo prazo em moeda estrangeira e local de B para CCC+ em uma decisão que retrata a piora da flexibilidade financeira da CSN (CSNA3) diante da queima de caixa contínua apesar de alguma melhora operacional. Altas despes"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Lula desafia Trump e Milei: ‘Que venham, mas a extrema direita não volta’",
+   "url": "https://www.moneytimes.com.br/lula-critica-interferencia-de-trump-e-milei-nas-eleicoes-brasileiras-jcav/",
+   "publicado": "2026-08-01T13:23:30+00:00",
+   "tickers": [],
+   "resumo": "O presidente Luiz Inácio Lula da Silva (PT) voltou a citar o presidente americano Donald Trump e o congênere argentino Javier Milei, ao questionar uma possível interferência de governantes de outros países nas eleições brasileiras. As falas de Lula foram na convenção do PT que co"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "STF abre novo inquérito por tráfico de influência contra filho de Lula por atuação no Dataprev",
+   "url": "https://www.moneytimes.com.br/stf-abre-novo-inquerito-por-trafico-de-influencia-contra-filho-de-lula-por-atuacao-no-dataprev-jcav/",
+   "publicado": "2026-08-01T13:18:32+00:00",
+   "tickers": [],
+   "resumo": "O ministro André Mendonça, do Supremo Tribunal Federal (STF), autorizou nesta sexta-feira (31) que a Polícia Federal abra mais um inquérito criminal por tráfico de influência contra o filho primogênito do presidente Luiz Inácio Lula da Silva, o empresário Fábio Luís Lula da Silva"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Mesmo com alta de 22% em julho, vendas da BYD ainda estão muito longe da meta anual",
+   "url": "https://investnews.com.br/geral/mesmo-com-alta-de-22-em-julho-vendas-da-byd-ainda-estao-muito-longe-da-meta-anual/",
+   "publicado": "2026-08-01T13:06:43+00:00",
+   "tickers": [],
+   "resumo": "A BYD vai precisar acelerar ainda mais o ritmo de vendas mensais para cumprir a meta de comercializar 5 milhões de unidades no ano"
   },
   {
    "fonte": "Brazil Journal",
@@ -31,25 +134,6 @@
    "publicado": "2026-08-01T11:00:22+00:00",
    "tickers": [],
    "resumo": "Ver o último.\nThe post Às vezes saio de casa só pra lembrar que — by Pedro Vinicio appeared first on Brazil Journal."
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "De Banco do Brasil (BBAS3) a Suzano (SUZB3): Os papéis que estão baratos na bolsa, na visão do ‘Buffett de Londrina’",
-   "url": "https://www.moneytimes.com.br/de-banco-do-brasil-bbas3-a-suzano-suzb3-os-papeis-baratos-de-buffett-de-londrina-vontade-zero-de-ficar-com-caixa-rnda/",
-   "publicado": "2026-08-01T11:00:00+00:00",
-   "tickers": [
-    "BBAS3",
-    "SUZB3"
-   ],
-   "resumo": "Se a bolsa já estava atrativa no começo do ano, voltou a ficar ainda mais após a recente queda. Pelo menos na visão do gestor César Paiva, do Real Investor. Conhecido no mercado como &#8216;Warren Buffett de Londrina&#8216; por conta de seus métodos e dos retornos entregues — um "
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Gasolina passa a ter 32% de etanol a partir deste sábado (1)",
-   "url": "https://www.moneytimes.com.br/gasolina-passa-a-ter-32-de-etanol-a-partir-deste-sabado-1/",
-   "publicado": "2026-08-01T10:30:00+00:00",
-   "tickers": [],
-   "resumo": "A partir deste sábado (1), a gasolina vendida nos postos brasileiros passa a contar com uma mistura de 32% de etanol anidro. Até então, o percentual obrigatório era de 30%. A mudança foi aprovada pelo Conselho Nacional de Política Energética (CNPE) em 14 de julho e terá validade "
   },
   {
    "fonte": "Valor Investe",
@@ -61,19 +145,11 @@
   },
   {
    "fonte": "InvestNews",
-   "titulo": "O Panamá irritou a China. Agora está pagando o preço",
+   "titulo": "O Panamá cedeu a Trump no canal e afetou negócios da China. Agora está pagando o preço",
    "url": "https://investnews.com.br/the-wall-street-journal/o-panama-irritou-a-china-agora-esta-pagando-o-preco/",
    "publicado": "2026-08-01T09:00:00+00:00",
    "tickers": [],
    "resumo": "Pequim pressiona o país após a retirada de uma empresa de Hong Kong de dois portos do Canal do Panamá"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Bolsa Família agosto 2026: confira calendário de pagamentos e quem pode receber",
-   "url": "https://www.moneytimes.com.br/bolsa-familia-agosto-2026-isca/",
-   "publicado": "2026-08-01T08:45:00+00:00",
-   "tickers": [],
-   "resumo": "Os pagamentos do Bolsa Família referentes a agosto começarão dia 18 e se estenderão até o dia 29. A informação consta do calendário divulgado pelo Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome (MDS). Por se tratar do principal programa de transferên"
   },
   {
    "fonte": "Valor Investe",
@@ -111,24 +187,6 @@
     "VCJR11"
    ],
    "resumo": "Julho é mais um mês que não vai deixar saudades para quem investe em fundos imobiliários. Amargando o terceiro mês consecutivo de perdas, o IFIX registrou queda de 0,3% no período, acumulando uma alta bastante tímida de 1% no ano.\nPressionado principalmente pela abertura da curva"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "CVM cria Divisão de Tecnologia Financeira na Superintendência de Inteligência",
-   "url": "https://www.moneytimes.com.br/cvm-cria-divisao-de-tecnologia-financeira-na-superintendencia-de-inteligencia-vtra/",
-   "publicado": "2026-07-31T22:50:46+00:00",
-   "tickers": [],
-   "resumo": "A Comissão de Valores Mobiliários (CVM) editou nesta sexta-feira (31) uma resolução para criar uma Divisão de Tecnologia Financeira (Ditec) e fazer ajustes em outras áreas. A Resolução CVM 246 atualiza a Resolução CVM 24, que dispõe sobre o Regimento Interno da autarquia. Os trab"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Superintendência do Cade recomenda aprovação sem restrições de investimento da American na Azul (AZUL3)",
-   "url": "https://www.moneytimes.com.br/superintendencia-do-cade-recomenda-aprovacao-sem-restricoes-de-investimento-da-american-na-azul-vtra/",
-   "publicado": "2026-07-31T22:46:22+00:00",
-   "tickers": [
-    "AZUL3"
-   ],
-   "resumo": "A Superintendência-Geral do Conselho Administrativo de Defesa Econômica (SG/Cade) emitiu parecer favorável à operação que prevê investimento da American Airlines na companhia aérea brasileira Azul (AZUL3), segundo comunicado à imprensa. &#8220;A operação não apresenta riscos conc"
   },
   {
    "fonte": "Suno Noticias",
@@ -189,18 +247,6 @@
    "resumo": "A Matrix Energia, controlada pela Prisma Capital e a  ítalo-suíça Duferco, contratou a Alvarez &#38; Marsal para apoiar sua reestruturação, e não para trabalhar num pedido de recuperação judicial, Wilson Ferreira Jr, o CEO da companhia, disse ao Brazil Journal, após notícias na i"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Randoncorp (RAPT3) recebe pedido de registro de OPA para troca de ações por papéis da Frasle Mobility (FRAS3)",
-   "url": "https://www.moneytimes.com.br/randoncorp-rapt3-recebe-pedido-de-registro-de-opa-para-troca-de-acoes-por-papeis-da-frasle-mobility-fras3/",
-   "publicado": "2026-07-31T21:39:09+00:00",
-   "tickers": [
-    "FRAS3",
-    "RAPT3",
-    "RAPT4"
-   ],
-   "resumo": "A Randoncorp (RAPT3;RAPT4) informou nesta sexta-feira (31) que sua acionista controladora, Dramd Participações e Administração, protocolou na Comissão de Valores Mobiliários (CVM) o pedido de registro de uma oferta pública facultativa (OPA) para aquisição de até a totalidade das "
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Ações do Santander saltam 13,4%. Veja se é vantajoso aderir à oferta de aquisição",
    "url": "https://investnews.com.br/investimentos/acoes-do-santander-saltam-134-saiba-se-e-vantajoso-aderir-a-oferta-de-aquisicao-feita-pela-matriz-espanhola/",
@@ -220,18 +266,6 @@
     "USIM5"
    ],
    "resumo": "As maiores quedas de julho contam uma história conhecida: a do peso dos juros sobre a economia brasileira. Foram os casos de construtoras e empresas do varejo cíclico, que concentraram nomes na lista em um cenário negativo para os setores como um todo.\nO destaque negativo foi a D"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Axia (AXIA3) e Isa Energia (ISAE4) concluem descruzamento de participações na IE Madeira e IE Garanhuns",
-   "url": "https://www.moneytimes.com.br/axia-axia3-e-isa-energia-isae4-concluem-descruzamento-de-participacoes-na-ie-madeira-e-ie-garanhuns/",
-   "publicado": "2026-07-31T21:15:05+00:00",
-   "tickers": [
-    "AXIA3",
-    "ISAE3",
-    "ISAE4"
-   ],
-   "resumo": "A Axia (AXIA3) e a Isa Energia (ISAE3; ISAE4) informaram a conclusão do descruzamento de participações societárias na Interligação Elétrica do Madeira e na Interligação Elétrica Garanhuns. A operação foi finalizada após o cumprimento das condições suspensivas e a realização do pa"
   },
   {
    "fonte": "Valor Investe",
@@ -254,14 +288,6 @@
    "publicado": "2026-07-31T21:02:41+00:00",
    "tickers": [],
    "resumo": "A conta de luz continuará mais cara em agosto. A Agência Nacional de Energia Elétrica (ANEEL) informou nesta sexta-feira (31) que a bandeira tarifária permanecerá amarela pelo quarto mês consecutivo, mantendo a cobrança adicional de R$ 1,885 a cada 100 quilowatts-hora (kWh) consu"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Bandeira tarifária para agosto será amarela, mesmo patamar verificado desde maio, define Aneel",
-   "url": "https://www.moneytimes.com.br/bandeira-tarifaria-para-agosto-sera-amarela-mesmo-patamar-verificado-desde-maio-define-aneel/",
-   "publicado": "2026-07-31T21:00:46+00:00",
-   "tickers": [],
-   "resumo": "A Agência Nacional de Energia Elétrica (Aneel) anunciou nesta sexta-feira, 31, a bandeira tarifária amarela para o mês de agosto, mantendo o mesmo patamar verificado desde maio de 2026. Nesse nível, os consumidores de energia elétrica continuarão com um custo adicional de R$ 1,88"
   },
   {
    "fonte": "Valor Investe",
@@ -787,14 +813,6 @@
    "resumo": "As ações da Intelbras (INTB3) chamaram a atenção dos investidores nesta quinta-feira (30) e figuraram entre as maiores altas da B3, a bolsa brasileira, após a divulgação do balanço do segundo trimestre. Mesmo fora do Ibovespa e com menor liquidez, os papéis ganharam força depois "
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Os ‘gastos catastróficos’ com IA da Amazon, a mais nova vítima do tokenmaxxing",
-   "url": "https://investnews.com.br/negocios/gastos-catastroficos-amazon-e-a-nova-vitima-do-tokenmaxxing/",
-   "publicado": "2026-07-30T19:04:39+00:00",
-   "tickers": [],
-   "resumo": "Assim como a Uber, a varejista também põe freio no uso de ferramentas de IA por funcionários"
-  },
-  {
    "fonte": "Brazil Journal",
    "titulo": "Contratos do leilão de capacidade viram disputa na Aneel. Quem vai levar?",
    "url": "https://braziljournal.com/contratos-do-leilao-de-capacidade-viram-disputa-na-aneel-quem-vai-levar/",
@@ -813,28 +831,12 @@
    "resumo": "As ações da siderúrgica Usiminas (USIM5) operaram em forte queda no pregão de hoje na B3, a bolsa brasileira, repercutindo negativamente os sinais futuros apresentados no balanço do segundo trimestre, ainda que os números do período tenham acompanhado as estimativas do mercado.\nO"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "A diretoria financeira é a origem da maioria dos CEOs do Ibovespa. Mas isso está mudando",
-   "url": "https://investnews.com.br/negocios/raiox-ceos-ibovespa/",
-   "publicado": "2026-07-30T18:13:50+00:00",
-   "tickers": [],
-   "resumo": "Levantamento com 141 executivos do Ibovespa entre 2021 e abril de 2026 mostra que 29,8% vieram dá área financeira e 26,2% da liderança operacional"
-  },
-  {
    "fonte": "Brazil Journal",
    "titulo": "Dona da NYSE faz M&A de US$ 5,7 bilhões para crescer em renda fixa",
    "url": "https://braziljournal.com/dona-da-nyse-faz-ma-de-us-57-bilhoes-para-crescer-em-renda-fixa/",
    "publicado": "2026-07-30T18:13:28+00:00",
    "tickers": [],
    "resumo": "A Intercontinental Exchange – a dona da NYSE – está comprando a MarketAxess por US$ 5,7 bilhões, adicionando uma nova vertical ao negócio num momento em que a empresa busca diversificar sua receita.  A Intercontinental Exchange, mais conhecida como ICE, vai pagar US$ 167 por ação"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Receita paga 3º lote da restituição do IR 2026 nesta sexta (31). Veja quando abrirá o último",
-   "url": "https://investnews.com.br/financas/3o-lote-da-restituicao-do-ir-2026/",
-   "publicado": "2026-07-30T17:57:25+00:00",
-   "tickers": [],
-   "resumo": "Terceiro lote da restituição do IR 2026 contempla 2,7 milhões de contribuintes e soma R$ 4,6 bilhões"
   },
   {
    "fonte": "Brazil Journal",
@@ -851,14 +853,6 @@
    "publicado": "2026-07-30T15:04:52+00:00",
    "tickers": [],
    "resumo": "Os títulos do Tesouro Direto atrelados à inflação com vencimento longo atingem as máximas da série histórica que vai até 2010, nesta quinta-feira (30). Papéis com vencimento em 2040 e 2050 registram alta no que operadores veem como o impacto negativo da decisão do Fed de manter o"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Kevin Warsh, presidente do Fed, pediu que o mercado falasse. A resposta veio",
-   "url": "https://investnews.com.br/the-wall-street-journal/kevin-warsh-presidente-do-fed-pediu-que-o-mercado-falasse-a-resposta-veio/",
-   "publicado": "2026-07-30T14:53:45+00:00",
-   "tickers": [],
-   "resumo": "O que investidores ouviram deixou dúvidas sobre a disposição de aumentos de juros potencialmente necessários para conter a inflação em alta"
   },
   {
    "fonte": "Valor Investe",

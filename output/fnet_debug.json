@@ -1,12 +1,12 @@
 {
- "recordsTotal": 9050,
- "paginas_lidas": 38,
+ "recordsTotal": 9053,
+ "paginas_lidas": 37,
  "janela": [
   "20/07/2026",
   "01/08/2026"
  ],
- "docs_filtrados": 106,
- "docs_fundos": 82,
+ "docs_filtrados": 104,
+ "docs_fundos": 80,
  "docs_fidc": 24,
  "amostra_categorias": [
   "Anexo ao Regulamento",
@@ -34,17 +34,17 @@
    "cnpjAdministrador": null,
    "cnpjFundo": null,
    "codSegNegociacao": null,
-   "dataEntrega": "31/07/2026 23:31",
-   "dataReferencia": "12/2025",
+   "dataEntrega": "31/07/2026 21:38",
+   "dataReferencia": "10/2024",
    "dda": null,
-   "descricaoFundo": "PS CRÉDITO ESTRUTURADO CART REV FI EM COTAS DE FUNDOS DE INVESTIMENTO EM  DIREITOS CREDITORIOS",
+   "descricaoFundo": "MORE 051 FI EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
    "descricaoModalidade": "Reapresentação por Exigência",
    "descricaoStatus": "Ativo com visualização",
    "especieDocumento": "",
    "formatoDataReferencia": "2",
    "formatoEstruturaDocumento": null,
-   "fundoOuClasse": "Fundo",
-   "id": 1273500,
+   "fundoOuClasse": "Classe",
+   "id": 1273390,
    "idEntidadeGerenciadora": null,
    "idFundo": null,
    "idSelectItemConvenio": 0,
@@ -62,7 +62,7 @@
    "status": "AC",
    "tipoDocumento": "Informe Mensal Estruturado ",
    "tipoPedido": null,
-   "versao": 3
+   "versao": 2
   },
   {
    "altaPrioridade": false,
@@ -73,17 +73,17 @@
    "cnpjAdministrador": null,
    "cnpjFundo": null,
    "codSegNegociacao": null,
-   "dataEntrega": "31/07/2026 23:23",
-   "dataReferencia": "07/2026",
+   "dataEntrega": "31/07/2026 21:38",
+   "dataReferencia": "10/2024",
    "dda": null,
-   "descricaoFundo": "OC FUNDO DE INVESTIMENTO EM COTAS DE FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-   "descricaoModalidade": "Apresentação",
+   "descricaoFundo": "G5 CRPR FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+   "descricaoModalidade": "Reapresentação por Exigência",
    "descricaoStatus": "Ativo com visualização",
    "especieDocumento": "",
    "formatoDataReferencia": "2",
    "formatoEstruturaDocumento": null,
    "fundoOuClasse": "Classe",
-   "id": 1273498,
+   "id": 1273389,
    "idEntidadeGerenciadora": null,
    "idFundo": null,
    "idSelectItemConvenio": 0,
@@ -91,7 +91,7 @@
    "idTemplate": 0,
    "indicadorFundoAtivoB3": false,
    "informacoesAdicionais": ";",
-   "modalidade": "AP",
+   "modalidade": "RC",
    "nomeAdministrador": null,
    "nomePregao": "",
    "nomePrimeiraVisualizacao": null,
@@ -99,9 +99,9 @@
    "ofertaPublica": null,
    "situacaoDocumento": "A",
    "status": "AC",
-   "tipoDocumento": "Composição da Carteira (CDA)",
+   "tipoDocumento": "Informe Mensal Estruturado ",
    "tipoPedido": null,
-   "versao": 1
+   "versao": 2
   }
  ]
 }
