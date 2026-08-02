@@ -3,8 +3,76 @@
  "itens": 100,
  "dados": [
   {
+   "fonte": "Money Times",
+   "titulo": "Santander (SANB11), Itaú (ITUB4) e mais 6 empresas pagam dividendos nesta semana; veja o calendário",
+   "url": "https://www.moneytimes.com.br/dividendos-da-semana-31-7-26-apsa/",
+   "publicado": "2026-08-02T16:00:00+00:00",
+   "tickers": [
+    "ITUB3",
+    "ITUB4",
+    "SANB11"
+   ],
+   "resumo": "Na semana de 3 a 7 de agosto, oito companhias da bolsa brasileira pagam dividendos e juros sobre capital próprio (JCP) aos seus acionistas. Na segunda-feira (3), o Itaú (ITUB3;ITUB4) realiza pagamento de JCP no valor de R$ 0,015, com data de corte de 30 de junho de 2026. Já na qu"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Copom e payroll rouba atenção dos mercados; confira a agenda semana",
+   "url": "https://www.moneytimes.com.br/copom-e-payroll-rouba-atencao-dos-mercados-confira-a-agenda-semana-jcav/",
+   "publicado": "2026-08-02T15:00:00+00:00",
+   "tickers": [],
+   "resumo": "A semana de 3 a 7 de agosto será marcada por uma agenda carregada na economia, com destaque para a decisão de juros do Comitê de Política Monetária (Copom). O encontro do Banco Central deve concentrar as atenções dos investidores, que buscam sinais sobre os próximos passos da pol"
+  },
+  {
    "fonte": "InvestNews",
-   "titulo": "Trump diz que os EUA vão suspender ataque ao Irã com andamento de nova tentativa de acordo",
+   "titulo": "Mercado de juros dos EUA sinaliza desconfiança crescente com Warsh no Fed",
+   "url": "https://investnews.com.br/financas/mercado-de-juros-dos-eua-sinaliza-desconfianca-crescente-com-warsh-no-fed/",
+   "publicado": "2026-08-02T14:47:19+00:00",
+   "tickers": [],
+   "resumo": "Aumenta a desconfiança dos investidores sobre a real disposição do Fed em combater a inflação"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Ninguém acerta as seis dezenas da Mega-Sena, e prêmio acumula em R$ 135 milhões; veja números sorteados",
+   "url": "https://valorinveste.globo.com/loterias/noticia/2026/08/02/resultado-da-mega-sena-3039-hoje-divulgado-veja-numeros-sorteados.ghtml",
+   "publicado": "2026-08-02T14:05:11+00:00",
+   "tickers": [],
+   "resumo": "O resultado da Mega-Sena 3039 com prêmio de R$ 97,2 milhões foi divulgado neste domingo (2), em São Paulo, e ninguém acertou as seis dezenas. Com isso, o prêmio  cumulou em R$ 135 milhões para o próximo sorteio que vai ser realizado na terça-feira (4).\nOs números sorteados foram:"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Trump diz que Irã pediu suspensão de ataque e cita acordo sobre abertura total do Estreito de Ormuz",
+   "url": "https://www.moneytimes.com.br/trump-diz-que-ira-pediu-suspensao-de-ataque-e-cita-acordo-sobre-abertura-total-do-estreito-de-ormuz-pads/",
+   "publicado": "2026-08-02T13:10:52+00:00",
+   "tickers": [],
+   "resumo": "O presidente dos Estados Unidos, Donald Trump, afirmou neste domingo (2) que o Irã pediu a suspensão de uma possível ofensiva militar norte-americana e concordou em avançar com um acordo para reduzir as tensões no Oriente Médio. Em publicação na rede Truth Social, Trump disse que"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Muito além do cartão: Copa impulsionou pagamentos digitais e transações em cripto",
+   "url": "https://valorinveste.globo.com/produtos/servicos-financeiros/noticia/2026/08/02/muito-alem-do-cartao-copa-impulsionou-pagamentos-digitais-e-transacoes-em-cripto.ghtml",
+   "publicado": "2026-08-02T13:10:08+00:00",
+   "tickers": [],
+   "resumo": "A Copa do Mundo de 2026 não movimentou apenas aeroportos, hotéis e estádios. O torneio também reforçou uma transformação na forma como as pessoas fazem transações financeiras. Levantamentos da Wise, empresa global especializada em pagamentos e transferências internacionais, e da "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "SpaceX (SPCX) cai cerca de 30% após IPO: Ação da empresa de Musk é oportunidade ou armadilha?",
+   "url": "https://www.moneytimes.com.br/spacex-spcx-cai-cerca-de-30-apos-ipo-acao-da-empresa-de-musk-e-oportunidade-ou-armadilha-lbrdgm076/",
+   "publicado": "2026-08-02T13:00:00+00:00",
+   "tickers": [],
+   "resumo": "Entenda os números por trás da queda e o que os analistas da Empiricus dizem sobre o futuro da ação"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Dinheiro na conta: 22 empresas pagam dividendos e JCP em agosto; veja o calendário",
+   "url": "https://www.moneytimes.com.br/dinheiro-na-conta-22-empresas-pagam-dividendos-e-jcp-em-agosto-veja-o-calendario-ceci/",
+   "publicado": "2026-08-02T13:00:00+00:00",
+   "tickers": [],
+   "resumo": "Agosto já começa com novidades para os acionistas que esperam uma remuneração a mais. Vinte e duas empresas pagam dividendos e juros sobre capital próprio (JCP) ao longo do mês. O levantamento realizado pelo Money Times apresenta o calendário completo, com os valores a serem dist"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Trump diz que os EUA vão suspender ataque ao Irã com avanço de nova tentativa de acordo",
    "url": "https://investnews.com.br/economia/trump-diz-que-os-eua-vao-suspender-ataque-ao-ira-com-andamento-de-nova-tentativa-de-acordo/",
    "publicado": "2026-08-02T12:22:04+00:00",
    "tickers": [],
@@ -123,55 +191,12 @@
    "resumo": "A XP Investimentos recomendou compra para as cotas do fundo imobiliário Vinci Logística (VILG11), ao avaliar que o veículo ainda negocia com desconto em relação ao seu valor justo e reúne perspectivas favoráveis para os próximos anos. O preço-alvo da corretora para os papéis é de"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Tesouro Direto bate recorde em junho com impulso do Tesouro IPCA+",
-   "url": "https://www.moneytimes.com.br/tesouro-direto-bate-recorde-em-junho-com-impulso-do-tesouro-ipca-jcav/",
-   "publicado": "2026-08-01T15:14:40+00:00",
-   "tickers": [],
-   "resumo": "O Tesouro IPCA+ roubou a cena entre os investidores em junho e ajudou o Tesouro Direto a registrar seu melhor resultado desde o início do programa. As vendas líquidas dos títulos públicos somaram R$ 10,1 bilhões no mês, resultado de R$ 14,7 bilhões em aplicações e R$ 4,6 bilhões "
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Warsh levantou possibilidade de mudar frequência das reuniões de política monetária do Fed, segundo NYT",
-   "url": "https://www.moneytimes.com.br/warsh-levantou-possibilidade-de-mudar-frequencia-das-reunioes-de-politica-monetaria-do-fed-segundo-nyt-jcav/",
-   "publicado": "2026-08-01T14:39:49+00:00",
-   "tickers": [],
-   "resumo": "O chair do Federal Reserve, Kevin Warsh, levantou nesta semana a ideia de reduzir o número de reuniões regulares do Fed nas quais são definidas as taxas de juros, informou o New York Times nesta sexta-feira (31). A medida, se adotada, romperia com uma prática de quase meio século"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Dividendos de até 10,4%: Empiricus troca Cyrela por Direcional em carteira para agosto",
-   "url": "https://www.moneytimes.com.br/dividendos-de-ate-104-empiricus-troca-cyrela-por-direcional-em-carteira-para-agosto-jcav/",
-   "publicado": "2026-08-01T14:36:52+00:00",
-   "tickers": [
-    "CYRE3",
-    "DIRR3"
-   ],
-   "resumo": "A Empiricus promoveu uma mudança pontual em sua carteira de dividendos para agosto. A casa de análise retirou as ações da Cyrela (CYRE3) e voltou a recomendar Direcional (DIRR3), mantendo oito ativos no portfólio, todos com participação de 12,5%. A troca ocorre após a queda de qu"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Preços da gasolina e do diesel podem subir ainda mais, mesmo se petróleo continuar a cair, alertam ExxonMobil e Chevron",
    "url": "https://investnews.com.br/economia/precos-da-gasolina-e-do-diesel-podem-subir-ainda-mais-mesmo-se-petroleo-continuar-a-cair-alertam-exxonmobil-e-chevron/",
    "publicado": "2026-08-01T14:11:30+00:00",
    "tickers": [],
    "resumo": "Petroleiras afirmam que setor perdeu mais de 5 milhões de barris por dia de capacidade de refino por dia com as guerras"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Debêntures ficaram mais baratas? Itaú BBA vê janela após abertura dos spreads",
-   "url": "https://www.moneytimes.com.br/debentures-ficaram-mais-baratas-itau-bba-ve-janela-apos-abertura-dos-spreads/",
-   "publicado": "2026-08-01T14:07:29+00:00",
-   "tickers": [],
-   "resumo": "O mercado brasileiro de crédito privado passou por um período de ajuste no primeiro semestre de 2026, com abertura dos spreads, resgates em fundos e maior seletividade dos investidores. Apesar da deterioração dos indicadores técnicos, o Itaú BBA avalia que o movimento foi predomi"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Livros que deixam buracos na estante",
-   "url": "https://www.moneytimes.com.br/livros-que-deixam-buracos-na-estante-ceci/",
-   "publicado": "2026-08-01T14:00:00+00:00",
-   "tickers": [],
-   "resumo": "Estou obcecado pela leitura que terminei nesta semana. Trata-se de &#8220;O sentido da vida&#8220;, do psicanalista Contardo Calligaris, morto em 2021. O título do livro explica bem do que se trata – e vale dizer, ele abre uma discussão e não apresenta uma conclusão fácil. Mas o "
   },
   {
    "fonte": "InvestNews",
@@ -817,14 +842,6 @@
    "resumo": "Plano da produtora de etanol contou com adesão de 81,6% dos credores e abrangeu dívidas de R$ 61,4 bilhões"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Caixa paga nesta quinta (30) R$ 13 bilhões em lucro do FGTS. Veja quem tem direito",
-   "url": "https://investnews.com.br/financas/caixa-paga-lucro-do-fgts-quem-tem-direito/",
-   "publicado": "2026-07-30T20:08:36+00:00",
-   "tickers": [],
-   "resumo": "Distribuição do lucro do FGTS vai beneficiar 138,2 milhões de trabalhadores com saldo no fundo em 31 de dezembro de 2025"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Intelbras (INTB3) dispara após balanço do 2º tri superar expectativas e reforçar aposta de analistas",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/07/30/intelbras-intb3-dispara-apos-balanco-do-2o-tri-superar-expectativas-e-reforcar-aposta-de-analistas.ghtml",
@@ -862,27 +879,6 @@
     "USIM5"
    ],
    "resumo": "Os mercados globais tiveram uma quinta-feira (30) de recuperação do apetite a risco, após o posicionamento mais duro do banco central dos EUA, o Federal Reserve, provocar um forte movimento de vendas de ações, ontem, derrubando as bolsas ao redor do mundo. Hoje, o movimento foi d"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Ações da Meta tombam 8% após balanço levantar novas preocupações",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/noticia/2026/07/30/acoes-da-meta-tombam-quase-9percent-apos-balanco-levantar-novas-preocupacoes.ghtml",
-   "publicado": "2026-07-30T11:40:03+00:00",
-   "tickers": [],
-   "resumo": "As ações da Meta, que controla o Facebook, o Instagram e o WhatsApp, tombaram 8% nesta quinta-feira (30), na bolsa Nasdaq, após a companhia divulgar um lucro abaixo das expectativas dos investidores. \nNos Estados Unidos, analistas avaliam que os custos dos investimentos com intel"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Ambev (ABEV3), Motiva (MOTV3), Intelbras (INTB3), Paranapanema (PMAM3): Veja os destaques das empresas",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/07/30/ambev-abev3-motiva-motv3-intelbras-intb3-paranapanema-pmam3-veja-os-destaques-das-empresas.ghtml",
-   "publicado": "2026-07-30T11:09:41+00:00",
-   "tickers": [
-    "ABEV3",
-    "INTB3",
-    "MOTV3",
-    "PMAM3"
-   ],
-   "resumo": "Ambev \nA Ambev teve lucro líquido de R$ 3,47 bilhões no segundo trimestre deste ano, o que representa aumento de 24,5% quando comparado aos R$ 2,79 bilhões de lucro líquido apurado em igual período de 2025. A teleconferência será realizada às 12h30.\n\nA companhia também aprovou o "
   }
  ]
 }
