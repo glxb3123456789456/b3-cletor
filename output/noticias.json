@@ -3,24 +3,306 @@
  "itens": 100,
  "dados": [
   {
-   "fonte": "Money Times",
-   "titulo": "Porto Seguro tem lucro estável de R$ 879 milhões no 2º trimestre, com receita em alta de 10,4%",
-   "url": "https://www.moneytimes.com.br/porto-seguro-tem-lucro-estavel-de-r-879-milhoes-no-2o-trimestre-com-receita-em-alta-de-104/",
-   "publicado": "2026-08-07T11:15:57+00:00",
+   "fonte": "Suno Noticias",
+   "titulo": "Petrobras (PETR4): comprar ou vender após o 2T26? Analistas veem dividendos atrativos, mas riscos continuam",
+   "url": "https://www.suno.com.br/noticias/petrobras-petr4-comprar-vender-resultado-2t26-dividendos-mt/",
+   "publicado": "2026-08-07T17:25:09+00:00",
    "tickers": [
-    "PSSA3"
+    "PETR4"
    ],
-   "resumo": "A Porto Seguro (PSSA3) registrou lucro líquido de R$ 879,4 milhões no segundo trimestre de 2026, praticamente estável em relação ao mesmo período do ano anterior, com avanço de 0,2%, segundo balanço divulgado nesta sexta-feira (7). A receita total da companhia somou R$ 10,9 bilhõ"
+   "resumo": "A Petrobras (PETR4) saiu do segundo trimestre com um balanço considerado sólido pelas principais casas de análise, apoiado por produção maior, margens melhores no refino e forte geração de caixa. O resultado também veio acompanhado de R$ 17,4 bilhões em dividendos e juros sobre c"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Starboard dá uma mordida no Shake Shack e acha que a empresa vale o dobro",
+   "url": "https://braziljournal.com/starboard-da-uma-mordida-no-shake-shack-e-acha-que-a-empresa-vale-o-dobro/",
+   "publicado": "2026-08-07T17:14:19+00:00",
+   "tickers": [],
+   "resumo": "A Starboard Value, o fundo de investimento ativista com histórico no setor de alimentos, comprou uma participação na Shake Shack e quer influir na estratégia da rede de hambúrgueres após sua ação cair 36% nos últimos 12 meses. O CEO da Starboard, Jeff Smith, disse à Bloomberg que"
   },
   {
    "fonte": "Money Times",
-   "titulo": "Fundo imobiliário mira captação de até R$ 250 milhões em nova emissão de cotas; IFIX recua pelo 4º pregão seguido",
-   "url": "https://www.moneytimes.com.br/fundo-imobiliario-mira-captacao-de-ate-r-250-milhoes-em-nova-emissao-de-cotas-ifix-recua-pelo-4o-pregao-seguido-igdl/",
-   "publicado": "2026-08-07T11:14:52+00:00",
+   "titulo": "Alimentos: Índice da FAO sobe em julho, puxado por cereais, açúcar e óleos vegetais",
+   "url": "https://www.moneytimes.com.br/alimentos-indice-da-fao-sobe-em-julho-puxado-por-cereais-acucar-e-oleos-vegetais-pads/",
+   "publicado": "2026-08-07T17:06:01+00:00",
+   "tickers": [],
+   "resumo": "Os preços internacionais dos alimentos subiram levemente em julho, impulsionados pela elevação das cotações de cereais, óleos vegetais e açúcar, que compensaram os recuos nos setores de carnes e produtos lácteos, informou nesta sexta-feira (7), a Organização das Nações Unidas par"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Governo do DF tentará empréstimo para socorrer BRB com resultados parciais das contas de 2026",
+   "url": "https://www.moneytimes.com.br/governo-do-df-tentara-emprestimo-para-socorrer-brb-com-resultados-parciais-das-contas-de-2026/",
+   "publicado": "2026-08-07T16:54:47+00:00",
+   "tickers": [],
+   "resumo": "O governo do Distrito Federal apresentará resultados parciais das contas de 2026 para convencer a União e bancos de que consegue pagar o empréstimo de R$ 6,6 bilhões que está buscando para cobrir o rombo deixado pelo Banco Master no Banco de Brasília (BRB). Como o Estadão revelou"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Vai faltar porto e minério bom: as teses do novo chairman da Cedro",
+   "url": "https://braziljournal.com/vai-faltar-porto-e-minerio-bom-as-teses-do-novo-chairman-da-cedro/",
+   "publicado": "2026-08-07T16:51:35+00:00",
+   "tickers": [],
+   "resumo": "Um veterano da mineração que fez carreira na Vale e CSN, José Carlos Martins acaba de assumir como o novo chairman da Cedro para conduzir um plano de investimentos de R$ 10 bilhões que passará não só pelo minério de ferro, mas também por infraestrutura própria.  Conselheiro da co"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Pior interrupção da história do mercado brasileiro coloca a B3 em foco",
+   "url": "https://investnews.com.br/investimentos/pior-interrupcao-da-historia-do-mercado-brasileiro-coloca-a-b3-em-foco/",
+   "publicado": "2026-08-07T16:48:56+00:00",
+   "tickers": [],
+   "resumo": "Na manhã de 31 de julho, problemas técnicos na B3 interromperam quase todos os fluxos de dados em São Paulo por mais de três horas"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Petrobras (PETR4): Por que a ação cai quase 2% mesmo após lucro acima do esperado",
+   "url": "https://www.moneytimes.com.br/petrobras-petr4-lucro-surpreende-mas-acao-cai-especialista-explica-o-motivo-ceci/",
+   "publicado": "2026-08-07T16:38:47+00:00",
    "tickers": [
-    "IBBP11"
+    "PETR4"
    ],
-   "resumo": "O fundo imobiliário Invista Brazilian Business Park (IBBP11) anunciou, por meio de fato relevante, a realização de sua 6ª emissão de cotas, em uma oferta que pode movimentar R$ 228 milhões. Segundo o comunicado divulgado ao mercado, serão emitidos inicialmente 24,2 milhões de nov"
+   "resumo": "A queda das ações da Petrobras (PETR4) nesta sexta-feira (7), após a divulgação do balanço do segundo trimestre, reflete um movimento ligado ao cenário macroeconômico, disse Marcelo Bassani, economista e sócio da Boa Brasil Capital no Giro do Mercado. “O que precisamos levar em c"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Log (LOGG3): Ações caem após balanço do 2T26; o que dizem analistas?",
+   "url": "https://www.moneytimes.com.br/log-logg3-acoes-caem-apos-balanco-do-2t26-o-que-dizem-analistas-igdl/",
+   "publicado": "2026-08-07T16:37:42+00:00",
+   "tickers": [
+    "LOGG3"
+   ],
+   "resumo": "As ações da Log Commercial (LOGG3) operam em queda nesta sexta-feira (7), um dia após a empresa divulgar seu balanço do segundo trimestre de 2026 (2T26). Entre analistas, no entanto, a avaliação é de que os números vieram positivos. Por volta das 11h30 (de Brasília), os papéis da"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Inflação nos EUA dá alívio, mas ainda não libera o Fed; entenda o PCE de junho",
+   "url": "https://www.suno.com.br/noticias/inflacao-eua-nucleo-pce-junho-2026-fed-mt/",
+   "publicado": "2026-08-07T16:35:08+00:00",
+   "tickers": [],
+   "resumo": "A inflação nos EUA trouxe uma notícia melhor do que o esperado em junho, mas ainda não o suficiente para tirar o Federal Reserve do modo cautela. O núcleo do PCE, indicador preferido do banco central americano para acompanhar a trajetória dos preços, avançou apenas 0,1% no mês, a"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Petrobras (PETR4): Dividendo extraordinário é ‘muito pouco provável’ em 2026, diz CFO",
+   "url": "https://www.moneytimes.com.br/petrobras-petr4-dividendo-extraordinario-e-muito-pouco-provavel-em-2026-diz-cfo-vtra/",
+   "publicado": "2026-08-07T16:12:28+00:00",
+   "tickers": [
+    "PETR4"
+   ],
+   "resumo": "Apesar do lucro recorde e da forte geração de caixa no segundo trimestre de 2026 (2T26), a Petrobras (PETR4) considera &#8220;muito pouco provável&#8221; o pagamento de dividendos extraordinários neste ano. A sinalização foi dada pelo diretor Financeiro e de Relacionamento com In"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Ações da Airbnb têm maior cotação em quatro anos, com investidores comemorando aumento da previsão de receita",
+   "url": "https://www.moneytimes.com.br/acoes-da-airbnb-tem-maior-cotacao-em-quatro-anos-com-investidores-comemorando-aumento-da-previsao-de-receita/",
+   "publicado": "2026-08-07T15:41:57+00:00",
+   "tickers": [],
+   "resumo": "As ações da Airbnb subiram 14% nesta sexta-feira, atingindo a maior cotação em mais de quatro anos, à medida que a revisão para cima da previsão de receita anual da empresa de aluguel por temporada amenizou as preocupações com as repercussões do conflito no Oriente Médio sobre a "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "O que surpreendeu tanto no balanço do Fleury (FLRY3)? Ação chega a saltar 14% nesta sexta (7)",
+   "url": "https://www.moneytimes.com.br/o-que-agradou-tanto-no-balanco-do-2t26-do-fleury-flry3-acao-salta-13-nesta-sexta-7-apsa/",
+   "publicado": "2026-08-07T15:09:18+00:00",
+   "tickers": [
+    "FLRY3"
+   ],
+   "resumo": "O Fleury (FLRY3) lidera a ponta positiva do Ibovespa (IBOV) nesta sexta-feira (7), após divulgar os seus resultados do segundo trimestre de 2026 (2T26). Por volta das 11h38 (horário de Brasília), FLRY3 saltava 11,41% (R$ 19,24). A ação, na máxima, chegou a disparar 14,24% (a R$ 1"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Ibovespa cai mais de 1% e volta aos 172 mil pontos com Petrobras (PETR4); como andam os mercados nesta sexta-feira (7)",
+   "url": "https://www.moneytimes.com.br/ibovespa-intradia-7-8-26-lils/",
+   "publicado": "2026-08-07T15:08:55+00:00",
+   "tickers": [
+    "PETR4"
+   ],
+   "resumo": "O Ibovespa (IBOV) perdeu mais de 2 mil pontos nas primeiras horas do pregão desta sexta-feira (7), em dia de reação a balanços corporativos e potencial saída de fluxo estrangeiro, após começar a sessão em alta com apoio de Wall Street. Por volta de 12h (horário de Brasília), o pr"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Alpargatas (ALPA4) dispara após resultado do 2T26 surpreender; o que agradou, na avaliação de XP e JPMorgan",
+   "url": "https://www.moneytimes.com.br/alpargatas-alpa4-dispara-apos-lucro-operacional-surpreender-veja-a-avaliacao-de-xp-e-jpmorgan-ceci/",
+   "publicado": "2026-08-07T15:03:16+00:00",
+   "tickers": [
+    "ALPA4"
+   ],
+   "resumo": "A Alpargatas (ALPA4), dona da Havaianas, abriu o pregão de hoje entre as maiores altas do Ibovespa. Por volta das 11h50, os papéis subiam cerca de 11%, no patamar de R$ 13,61. O otimismo dos investidores veio após resultados do segundo trimestre de 2026 acima das expectativas, im"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Magalu (MGLU3): Fred Trajano dobra aposta nas lojas físicas e mira Amazon para reaquecer vendas online",
+   "url": "https://www.moneytimes.com.br/magalu-mglu3-fred-trajano-dobra-aposta-nas-lojas-fisicas-e-mira-amazon-para-reaquecer-vendas-online/",
+   "publicado": "2026-08-07T15:00:50+00:00",
+   "tickers": [
+    "MGLU3"
+   ],
+   "resumo": "O CEO do Magazine Luiza (MGLU3), Fred Trajano, aproveitou a teleconferência de resultados do segundo trimestre de 2026 (2T26) para reforçar que a companhia entrou em um novo ciclo estratégico, focado em duas frentes principais: fortalecer a liderança omnichannel com apoio de inte"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Você tem o Tesouro IPCA+ 2026 que vence em 15 de agosto? Veja onde alocar o dinheiro",
+   "url": "https://investnews.com.br/investimentos/tesouro-ipca2026-vence-onde-alocar/",
+   "publicado": "2026-08-07T14:55:26+00:00",
+   "tickers": [],
+   "resumo": "Tesouro Direto pagará R$ 13 bi a investidores pessoas físicas no dia 17; títulos atrelados à inflação, ETFs e crédito privado são opções"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Poupança tem saída líquida de R$ 7,2 bilhões em julho, diz BC",
+   "url": "https://valorinveste.globo.com/produtos/noticia/2026/08/07/poupanca-tem-saida-liquida-de-r-72-bilhoes-em-julho-diz-bc.ghtml",
+   "publicado": "2026-08-07T14:39:30+00:00",
+   "tickers": [],
+   "resumo": "Os saques em caderneta de poupança superaram os depósitos em R$ 7,153 bilhões em julho, como divulgado nesta sexta-feira (8) pelo Banco Central (BC). No acumulado de 2026, a saída líquida foi de R$ 46,5 bilhões. \nEm julho, os brasileiros depositaram R$ 370,7 bilhões e sacaram R$ "
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Na Chipotle, quem pediu jalapeño levou Salmonella",
+   "url": "https://braziljournal.com/na-chipotle-quem-pediu-jalapeno-levou-salmonella/",
+   "publicado": "2026-08-07T14:36:38+00:00",
+   "tickers": [],
+   "resumo": "A Chipotle Mexican Grill – a rede americana de comida mexicana – teve seu melhor resultado trimestral em muito tempo no fim do mês passado, mas uma bactéria veio estragar a festa. Um surto de Salmonella que se espalhou por 27 estados nos últimos dias, associado ao jalapeño servid"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Tesouro Direto: taxas recuam e caminham para encerrar vaivém da semana em leve queda",
+   "url": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/08/07/tesouro-direto-taxas-recuam-e-caminham-para-encerrar-vaivem-da-semana-em-leve-queda.ghtml",
+   "publicado": "2026-08-07T14:35:20+00:00",
+   "tickers": [],
+   "resumo": "Os títulos do Tesouro Direto voltam a recuar nesta sexta-feira (7), com destaque para os papéis atrelados à inflação, e caminham para encerrar em leve queda uma semana de vaivém. O movimento de alívio de hoje responde sobretudo ao exterior, depois que o relatório de emprego (\"pay"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Por que as ações da Lojas Renner (LREN3) estão caindo mais de 12%? Entenda",
+   "url": "https://www.suno.com.br/noticias/lren3-renner-resultado-2t26-guidance-cortado-vendas-fracas-go/",
+   "publicado": "2026-08-07T14:35:05+00:00",
+   "tickers": [
+    "LREN3"
+   ],
+   "resumo": "As ações das Lojas Renner (LREN3) caíam mais de 12% na manhã desta sexta-feira (7), após a varejista divulgar resultados abaixo das expectativas no segundo trimestre de 2026 e cortar pela metade o intervalo de seu guidance de receita para o ano. Por volta das 10h50, as ações da L"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Em M&A na oncologia e em doenças raras, farmacêutica sueca Sobi assume 100% da Pint Pharma",
+   "url": "https://investnews.com.br/negocios/oncologia-aquisicao-sobi-suecia/",
+   "publicado": "2026-08-07T14:34:09+00:00",
+   "tickers": [],
+   "resumo": "Aquisição dá à Sobi o controle da distribuição no Brasil de remédios como Empaveli, Kineret e Iclusig"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Milei recua em projeto de propriedade privada após pressão e protestos na Argentina",
+   "url": "https://investnews.com.br/economia/milei-recua-em-projeto-de-propriedade-privada-apos-pressao-e-protestos-na-argentina/",
+   "publicado": "2026-08-07T14:29:12+00:00",
+   "tickers": [],
+   "resumo": "Governo de Milei retira pontos centrais da proposta após protestos, enquanto projeto segue para votação na Câmara dos Deputados"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Petrobras supera expectativas com alta do petróleo após conflito entre Irã e EUA",
+   "url": "https://investnews.com.br/negocios/petrobras-supera-expectativas-com-alta-do-petroleo-apos-conflito-entre-ira-e-eua/",
+   "publicado": "2026-08-07T14:14:02+00:00",
+   "tickers": [],
+   "resumo": "A Petrobras teve lucro líquido de R$ 52,4 bilhões no segundo trimestre, quase o dobro do resultado de um ano antes"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "FII divulga dividendos com retorno de 1,27% ao mês",
+   "url": "https://www.suno.com.br/noticias/dividendos-do-rect11-julho-2026/",
+   "publicado": "2026-08-07T14:05:10+00:00",
+   "tickers": [
+    "RECT11"
+   ],
+   "resumo": "Os cotistas do fundo imobiliário RECT11 vão receber R$ 0,45 por cota em dividendos referentes a julho de 2026. O pagamento dos dividendos do RECT11 segue o cronograma do fundo para o período, mantendo as condições informadas ao mercado. O valor anunciado é isento de Imposto de Re"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Confira os FIIs que vão pagar dividendos nesta sexta-feira (7)",
+   "url": "https://www.suno.com.br/noticias/dividendos-hoje-fundos-imobiliarios-lista/",
+   "publicado": "2026-08-07T13:45:07+00:00",
+   "tickers": [
+    "HSML11",
+    "RZTR11"
+   ],
+   "resumo": "Quinze fundos imobiliários creditam rendimentos nesta sexta-feira aos cotistas. Entre os destaques, o RZTR11 pagará R$ 0,90 por cota e o HSML11 distribuirá R$ 0,75 no mesmo dia. Os investidores recebem os dividendos hoje diretamente na conta da corretora, sem necessidade de qualq"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Embraer negocia venda de jatos E2 para a maior companhia aérea da Índia",
+   "url": "https://investnews.com.br/negocios/embraer-negocia-venda-de-jatos-regionais-para-a-maior-companhia-aerea-da-india/",
+   "publicado": "2026-08-07T13:39:54+00:00",
+   "tickers": [],
+   "resumo": "Companhia aérea indiana avalia encomenda de jatos regionais da Embraer em meio à expansão da frota"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Mercado passa a esperar manutenção dos juros nos EUA após 'payroll",
+   "url": "https://valorinveste.globo.com/mercados/moedas-e-juros/noticia/2026/08/07/mercado-passa-a-esperar-manutencao-dos-juros-nos-eua-apos-payroll.ghtml",
+   "publicado": "2026-08-07T13:21:00+00:00",
+   "tickers": [],
+   "resumo": "O relatório de criação de empregos nos Estados Unidos (\"payroll\") divulgado nesta sexta (7) deu um giro nas expectativas do mercado em relação aos juros na maior economia do mundo. Até a divulgação, o mercado atribua 55% de probabilidade a uma alta de 0,25 ponto percentual em set"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Petrobras (PETR4) anuncia proventos bilionários; veja valor por ação",
+   "url": "https://www.suno.com.br/noticias/petrobras-petr4-dividendos-jcp-r-17-bilhoes-2026-go/",
+   "publicado": "2026-08-07T12:25:08+00:00",
+   "tickers": [
+    "PETR4"
+   ],
+   "resumo": "A Petrobras (PETR4) anunciou nesta quinta-feira (6) o pagamento de R$ 17,4 bilhões em dividendos e juros sobre capital próprio (JCP) intercalares aos acionistas, como antecipação da remuneração referente ao exercício de 2026. O valor dos rendimentos da Petrobras equivale a R$ 1,3"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Ibovespa e dólar caem após 'payroll', em meio a alta das bolsas de NY",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/08/07/dolar-e-ibovespa-hoje-7-de-agosto-de-2026.ghtml",
+   "publicado": "2026-08-07T12:04:42+00:00",
+   "tickers": [
+    "PETR3",
+    "PETR4"
+   ],
+   "resumo": "Os mercados retomam, na reta final desta semana, o otimismo visto no início dela, após a divulgação do \"payroll\" com destruição de 23 mil postos de trabalho em julho e revisão para baixo de dados dos meses anteriores. O Ibovespa recua, com queda firme das ações da Petrobras (PETR"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Balanço da Petrobras supera expectativa dos analistas. É hora de investir na ação?",
+   "url": "https://valorinveste.globo.com/noticia/2026/08/07/balanco-da-petrobras-supera-expectativa-dos-analistas-e-hora-de-investir-na-acao.ghtml",
+   "publicado": "2026-08-07T11:55:00+00:00",
+   "tickers": [],
+   "resumo": "O balanço da Petrobras superou as expectativas dos analistas. A companhia divulgou na noite de ontem (6) lucro de R$ 52,4 bilhões no segundo trimestre, alta de 96,8% em comparação aos R$ 26,6 bilhões de igual período no ano passado. A empresa atribuiu o balanço a maiores volumes "
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Brasil é o 3º país com mais ataques físicos contra investidores de criptomoedas. Saiba como se proteger",
+   "url": "https://investnews.com.br/investimentos/brasil-e-o-3o-pais-com-mais-ataques-fisicos-contra-investidores-de-criptomoedas-saiba-como-se-proteger/",
+   "publicado": "2026-08-07T11:51:11+00:00",
+   "tickers": [],
+   "resumo": "Os casos incluem invasões a residências, sequestros e extorsões para obrigar vítimas a transferir criptomoedas aos criminosos"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Empresas brasileiras buscam captações externas em janela antes das eleições",
+   "url": "https://valorinveste.globo.com/credito-privado/noticia/2026/08/07/empresas-brasileiras-buscam-captacoes-externas-em-janela-antes-das-eleicoes.ghtml",
+   "publicado": "2026-08-07T11:36:54+00:00",
+   "tickers": [],
+   "resumo": "Enquanto o mercado global de dívida caminha para mais um ano de forte atividade, uma sequência de eventos de crédito envolvendo empresas brasileiras interrompeu o ritmo das emissões no exterior e impediu que o país acompanhasse o desempenho observado em outros mercados. Após um i"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "A Volkswagen está em ‘encruzilhada histórica’ e precisa cortar custos, diz presidente do conselho fiscal",
+   "url": "https://investnews.com.br/negocios/a-volkswagen-esta-em-encruzilhada-historica-e-precisa-cortar-custos-diz-presidente-do-conselho-fiscal/",
+   "publicado": "2026-08-07T11:36:31+00:00",
+   "tickers": [],
+   "resumo": "Família Porsche-Piëch pede que Volkswagen considere todas as opções para recuperar competitividade e apoia cortes de milhares de empregos"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Petrobras (PETR4) quase dobra lucro no 2T26 e supera estimativas; veja detalhes",
+   "url": "https://www.suno.com.br/noticias/petrobras-petr4-lucro-2t26-r52-bilhoes-supera-estimativas-go/",
+   "publicado": "2026-08-07T11:30:00+00:00",
+   "tickers": [
+    "PETR4"
+   ],
+   "resumo": "Petrobras (PETR4) quase dobra lucro no 2T26 e supera estimativas; veja detalhesA Petrobras (PETR4) registrou lucro líquido de R$ 52,4 bilhões no segundo trimestre de 2026, quase dobrando o resultado em relação ao mesmo período do ano anterior e superando as estimativas do mercado"
   },
   {
    "fonte": "Valor Investe",
@@ -50,81 +332,6 @@
    "publicado": "2026-08-07T10:56:28+00:00",
    "tickers": [],
    "resumo": "Os investidores aguardam a divulgação do relatório de emprego dos Estados Unidos de julho, o \"payroll\", nesta sexta-feira (7). Os dados apontam a criação de empregos da maior economia do mundo e ditam a direção dos juros no país. No Brasil, o mercado repercute o resultado da Petr"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Mitre Realty (MTRE3): Lucro líquido sobe 45,5% no 2T26",
-   "url": "https://www.moneytimes.com.br/mitre-realty-mtre3-lucro-liquido-sobe-455-no-2t26-igdl/",
-   "publicado": "2026-08-07T10:49:28+00:00",
-   "tickers": [
-    "MTRE3"
-   ],
-   "resumo": "A Mitre Realty (MTRE3) registrou lucro líquido de R$ 15,1 milhões no segundo trimestre de 2026 (2T26), 45,5% acima do resultado obtido um ano antes, segundo balanço divulgado na noite de quinta-feira (6). A construtora teve crescimento de 5,5% na receita operacional líquida ante "
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Small cap da B3 anuncia R$ 13,9 milhões em dividendos; veja datas e valor por ação",
-   "url": "https://www.moneytimes.com.br/small-cap-da-b3-anuncia-r-139-milhoes-em-dividendos-veja-datas-e-valor-por-acao-igdl/",
-   "publicado": "2026-08-07T10:47:21+00:00",
-   "tickers": [
-    "LOGG3"
-   ],
-   "resumo": "Uma das small caps negociadas na bolsa de valores, a Log Commercial (LOGG3) informou que seu conselho de administração aprovou o pagamento de R$ 13,9 milhões em dividendos intermediários aos acionistas, com base no saldo de reserva de lucros apurado no segundo trimestre de 2026 ("
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Bom dia, bitcoin (BTC): Criptomoeda sustenta os US$ 64 mil antes do payroll; veja o que mexe com os preços nesta sexta-feira (7)",
-   "url": "https://www.moneytimes.com.br/bom-dia-bitcoin-btc-criptomoedas-preco-hoje-rens-070826/",
-   "publicado": "2026-08-07T10:41:03+00:00",
-   "tickers": [],
-   "resumo": "Obitcoin (BTC) é negociado na casa dos US$ 64 mil, com uma leve alta de pouco menos de 1% nas últimas 24h. O mercado global de criptomoedas avança majoritariamente na manhã de hoje, antes da divulgação do payroll, o relatório de empregos mais importante dos Estados Unidos. No mer"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Log (LOGG3) lucra R$ 58,7 milhões no 2T26, queda anual de 32,6%; veja os números da companhia",
-   "url": "https://www.moneytimes.com.br/log-logg3-lucra-r-587-milhoes-no-2t26-queda-anual-de-326-veja-os-numeros-da-companhia-igdl/",
-   "publicado": "2026-08-07T10:32:53+00:00",
-   "tickers": [
-    "LOGG3"
-   ],
-   "resumo": "A Log Commercial (LOGG3) teve lucro líquido de R$ 58,7 milhões no segundo trimestre de 2026 (2T26), queda de 32,6% em relação ao mesmo período de 2025, segundo balanço divulgado nessa quinta-feira (6). A companhia, que desenvolve, aluga e administra galpões logísticos, teve lucro"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Petrobras (PETR4): ADRs da estatal avançam em Nova York com lucro acima do esperado e dividendos",
-   "url": "https://www.moneytimes.com.br/petrobras-petr4-adrs-da-estatal-avancam-em-nova-york-com-lucro-acima-do-esperado-e-dividendos/",
-   "publicado": "2026-08-07T10:26:41+00:00",
-   "tickers": [
-    "PETR4"
-   ],
-   "resumo": "As American Depositary Receipts (ADRs) da Petrobras (PETR4) operam em alta no pré-market da Bolsa de Nova York nesta sexta-feira (7), à medida que investidores repercutem os resultados da estatal referentes ao segundo trimestre de 2026 (2T26). Por volta das 7h20, as ADRs que repr"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "6 mineiros faturam prêmios de mais de R$ 2 milhões na Quina e na Lotofácil; Mega-Sena acumula pelo 12º sorteio seguido",
-   "url": "https://www.moneytimes.com.br/seis-mineiros-faturam-premios-dois-milhoes-quina-lotofacil-mega-sena-acumula-loterias-rsgp/",
-   "publicado": "2026-08-07T10:17:15+00:00",
-   "tickers": [],
-   "resumo": "A &#8220;máquina de milionários&#8221; das loterias da Caixa funcionou a pleno vapor na noite de quinta-feira (6). Um bolão com cinco participantes na Quina e uma aposta simples na Lotofácil resultaram em seis prêmios milionários. Todos os sortudos são de Minas Gerais. Enquanto i"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Mercado repercute dividendo bilionário da Petrobras; Ibovespa em dólar cai hoje (7)",
-   "url": "https://www.moneytimes.com.br/mercado-repercute-dividendo-bilionario-da-petrobras-ibovespa-em-dolar-cai-hoje-7/",
-   "publicado": "2026-08-07T10:04:38+00:00",
-   "tickers": [
-    "PETR3",
-    "PETR4"
-   ],
-   "resumo": "O mercado repercute nesta sexta-feira (7) os resultados da Petrobras (PETR3; PETR4) referentes ao segundo trimestre de 2026 (2T26), além do anúncio de proventos divulgado na véspera. No período, a estatal registrou lucro líquido de R$ 52,4 bilhões, acima da expectativa do mercado"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Nas máximas: o que a disparada dos Treasuries indica sobre a credibilidade do Fed — e por que ela não explica tudo",
-   "url": "https://www.moneytimes.com.br/nas-maximas-o-que-a-disparada-dos-treasuries-revela-sobre-a-credibilidade-do-fed-e-por-que-ela-nao-explica-tudo-lils/",
-   "publicado": "2026-08-07T10:00:00+00:00",
-   "tickers": [],
-   "resumo": "Os primeiros passos de Kevin Warsh no comando do Federal Reserve (Fed, Banco Central dos EUA) trouxeram mais dúvidas do que respostas para o mercado. A combinação entre uma decisão de juros marcada pela maior dissidência em quase dez anos e a falta de sinalizações sobre o futuro "
   },
   {
    "fonte": "Brazil Journal",
@@ -298,26 +505,6 @@
    "resumo": "A Petrobras aprovou nesta quinta-feira (6) o pagamento antecipado de R$ 17,4 bilhões em remuneração aos acionistas, equivalente a R$ 1,34814262 por ação ordinária (PETR3) e preferencial (PETR4) em circulação, com base no balanço do segundo trimestre de 2026. A companhia reportou "
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "IFIX: CACR11 em alta, queda de 0,58% e recuo aos 3.760 pontos",
-   "url": "https://www.suno.com.br/noticias/ifix-cacr11-em-alta-queda-de-058-e-recuo-aos-3-760-pontos/",
-   "publicado": "2026-08-06T22:25:07+00:00",
-   "tickers": [
-    "CACR11"
-   ],
-   "resumo": "O IFIX encerrou o pregão desta quinta-feira (6) aos 3.760,11 pontos, com queda de 0,58%, uma redução de 21,88 pontos em relação ao fechamento anterior. O índice de fundos imobiliários registrou fraqueza ao longo de praticamente toda a sessão e terminou o dia no menor nível do pre"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "SNAG11: exportações do agro mineiro somam R$ 45,6 bilhões e aceleram crédito rural",
-   "url": "https://www.suno.com.br/noticias/snag11-exportacoes-do-agro-mineiro-somam-r-456-bilhoes-e-aceleram-credito-rural/",
-   "publicado": "2026-08-06T22:15:05+00:00",
-   "tickers": [
-    "SNAG11"
-   ],
-   "resumo": "O agronegócio de Minas Gerais somou R$ 45,6 bilhões em exportações no primeiro semestre de 2026, desempenho que evidencia a relevância do campo para a economia estadual e nacional. O movimento também sustenta a demanda por financiamento voltado à produção, armazenagem e infraestr"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Jamie Dimon vê alavancagem elevada nos mercados e pede atenção a riscos ocultos",
    "url": "https://investnews.com.br/investimentos/jamie-dimon-ve-alavancagem-elevada-nos-mercados-e-pede-atencao-a-riscos-ocultos/",
@@ -334,30 +521,12 @@
    "resumo": "Resultado operacional quase triplica e margem sobe a 27%, mas cenário incerto aponta para uma desaceleração daqui pra frente"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "Ibovespa cai 1,23% após Copom e tensão no exterior; Petrobras (PETR4) limita perdas",
-   "url": "https://www.suno.com.br/noticias/ibovespa-hoje-06-agosto-2026-copom-petr4-mt/",
-   "publicado": "2026-08-06T21:35:10+00:00",
-   "tickers": [
-    "PETR4"
-   ],
-   "resumo": "O Ibovespa encerrou o pregão desta quinta-feira (6) em forte queda, pressionado pela leitura mais cautelosa do comunicado do Comitê de Política Monetária (Copom), pela abertura dos juros globais e pela nova escalada das tensões no Oriente Médio. O principal índice da B3 recuou 1,"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Assaí ganha clientes, mas juros altos encolhem o valor do carrinho",
    "url": "https://investnews.com.br/negocios/assai-asai3-juros-encolhem-carrinho/",
    "publicado": "2026-08-06T21:12:06+00:00",
    "tickers": [],
    "resumo": "Consumidor preserva o volume de compras ao migrar para produtos mais baratos; rede mantém expansão contida para reduzir a dívida"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Selic a 14%: CDB ou poupança, onde o dinheiro rende mais agora?",
-   "url": "https://www.suno.com.br/noticias/taxa-selic-14-cdb-poupanca-onde-investir-mt/",
-   "publicado": "2026-08-06T20:35:00+00:00",
-   "tickers": [],
-   "resumo": "Selic a 14%: CDB ou poupança, onde o dinheiro rende mais agora?A Taxa Selic caiu, mas a renda fixa ainda está longe de perder o brilho. Com os juros básicos em 14% ao ano, deixar o dinheiro em aplicações pós-fixadas continua oferecendo retornos elevados — e a velha poupança perma"
   },
   {
    "fonte": "Valor Investe",
@@ -387,16 +556,6 @@
    "resumo": "Para quem ainda não regularizou as pendências da restituição do IR 2026, ainda é possível fazer a correção para tentar receber no último lote"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "Alliança Saúde (AALR3) pede recuperação extrajudicial para dívida de R$ 1,1 bilhão; entenda o que muda",
-   "url": "https://www.suno.com.br/noticias/allianca-saude-aalr3-recuperacao-extrajudicial-divida-mt/",
-   "publicado": "2026-08-06T19:41:00+00:00",
-   "tickers": [
-    "AALR3"
-   ],
-   "resumo": "Alliança Saúde (AALR3) pede recuperação extrajudicial para dívida de R$ 1,1 bilhão; entenda o que mudaA Alliança Saúde (AALR3) recorreu à recuperação extrajudicial para tentar reorganizar aproximadamente R$ 1,1 bilhão em dívidas sem interromper suas operações. Dona de marcas como"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "CSN se aproxima de acordo para trocar dívida de US$ 1,3 bilhão",
    "url": "https://investnews.com.br/negocios/csn-se-aproxima-de-acordo-para-trocar-divida-de-us-13-bilhao/",
@@ -405,32 +564,12 @@
    "resumo": "A CSN se aproxima de quórum necessário para acordo de dívida"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "Petrobras (PETR4) divulga resultados do 2T26 nesta quinta; veja o que esperam os analistas",
-   "url": "https://www.suno.com.br/noticias/petrobras-petr4-resultado-2t26-projecoes-analistas-go/",
-   "publicado": "2026-08-06T18:55:07+00:00",
-   "tickers": [
-    "PETR4"
-   ],
-   "resumo": "A Petrobras (PETR4) divulga nesta quinta-feira (6) os resultados do segundo trimestre de 2026, após o fechamento do mercado. A expectativa dos analistas é de um balanço significativamente mais forte em relação ao trimestre anterior, sustentada por produção recorde de petróleo e g"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Crescimento não foi suficiente: investidores punem Mercado Livre por margens ainda pressionadas",
    "url": "https://investnews.com.br/negocios/crescimento-nao-foi-suficiente-investidores-punem-mercado-livre-por-margens-ainda-pressionadas/",
    "publicado": "2026-08-06T18:48:48+00:00",
    "tickers": [],
    "resumo": "Companhia amplia vendas no segundo trimestre, mas investidores questionam as margens estreitas"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Bradesco (BBDC4) entra mais forte no novo ciclo, mas BTG mantém cautela; entenda",
-   "url": "https://www.suno.com.br/noticias/bradesco-bbdc4-btg-analise-2t26-mt/",
-   "publicado": "2026-08-06T18:32:00+00:00",
-   "tickers": [
-    "BBDC4"
-   ],
-   "resumo": "Bradesco (BBDC4) entra mais forte no novo ciclo, mas BTG mantém cautela; entendaO Bradesco (BBDC4) entregou um segundo trimestre sem grandes surpresas, mas deixou uma mensagem importante para o mercado: o banco acredita estar mais preparado para enfrentar um ambiente de crédito m"
   },
   {
    "fonte": "Valor Investe",
@@ -689,14 +828,6 @@
    "resumo": "A Mega-Sena 3041 sorteia um prêmio estimado em R$ 150 milhões nesta quinta-feira (6), a partir das 21h (horário de Brasília), em São Paulo. Se tiver ganhador, o prêmio poderá ser o terceiro maior do ano até agora - veja abaixo todos os prêmios pagos em 2026.\nVEJA TAMBÉM: \n- Os nú"
   },
   {
-   "fonte": "Brazil Journal",
-   "titulo": "Bradesco expande lucro com inadimplência sob controle. ROE vai a 16,2%",
-   "url": "https://braziljournal.com/bradesco-expande-lucro-com-inadimplencia-sob-controle-roe-vai-a-162/",
-   "publicado": "2026-08-05T23:58:17+00:00",
-   "tickers": [],
-   "resumo": "O Bradesco entregou mais um trimestre de melhora nos resultados, tranquilizando o mercado.  O lucro cresceu pelo décimo trimestre seguido e chegou a R$ 7,1 bilhões, uma alta de 16,2% na comparação anual e de 3,5% no sequencial.  O ROE aumentou para 16,2% – estava em 14,6% há um a"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Axia (AXIA3), ex-Eletrobras, sai do prejuízo e apura lucro de R$ 1,2 bi no 2º trimestre",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/08/05/axia-axia3-ex-eletrobras-sai-do-prejuizo-e-apura-lucro-de-r-12-bi-no-2o-trimestre.ghtml",
@@ -707,14 +838,6 @@
    "resumo": "A Axia Energia (AXIA3), ex-Eletrobras, registrou lucro líquido de R$ 1,2 bilhão no segundo trimestre deste ano, deixando para trás o prejuízo de R$ 1,3 bilhão verificado em igual período em 2026. Segundo a empresa, o resultado refletiu efeitos positivos com a venda de energia, a "
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Após OPA, petroleira colombiana Ecopetrol passa a ter 51% da Brava Energia",
-   "url": "https://investnews.com.br/negocios/ecopetrol-consolida-controle-brava/",
-   "publicado": "2026-08-05T22:41:21+00:00",
-   "tickers": [],
-   "resumo": "Empresa gastou R$ 2,67 bilhões para consolidar o controle da Brava Energia, junior oil formada a partir da fusão entre 3R e Enauta"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Bradesco (BBDC4) tem lucro de R$ 7 bilhões no 2º trimestre, alta de 16,2%",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/08/05/bradesco-bbdc4-tem-lucro-de-r-7-bilhoes-no-2o-trimestre-alta-de-162percent.ghtml",
@@ -723,48 +846,6 @@
     "BBDC4"
    ],
    "resumo": "O Bradesco (BBDC4) teve lucro líquido recorrente de R$ 7 bilhões no segundo trimestre, 16,2% maior que o reportado no mesmo período do ano passado. O resultado ficou levemente acima da média das projeções dos analistas consultados pelo Valor, que apontavam ganho de R$ R$ 6,984 bi"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Aegea confirma aumento de capital de R$ 2,1 bilhões para equilibrar estrutura financeira",
-   "url": "https://investnews.com.br/negocios/aegea-confirma-aumento-capital/",
-   "publicado": "2026-08-05T22:16:41+00:00",
-   "tickers": [],
-   "resumo": "Itaúsa e o fundo soberano de Singapura (GIC) lideraram o aporte na empresa de saneamento, uma das maiores do país"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Copom reduz Selic para 14% ao ano, como esperado pelo mercado, e cita desaceleração da inflação",
-   "url": "https://investnews.com.br/economia/copom-reduz-selic-para-14-ao-ano-como-esperado-pelo-mercado-e-cita-desaceleracao-da-inflacao/",
-   "publicado": "2026-08-05T22:09:18+00:00",
-   "tickers": [],
-   "resumo": "Decisão unânime levou em conta a 'moderação da atividade econômica' e a desaceleração da inflação, segundo o Copom em comunicado"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "Riachuelo tem recorde no EBITDA e lucro. Agora vem a expansão",
-   "url": "https://braziljournal.com/riachuelo-tem-recorde-no-ebitda-e-lucro-agora-vem-a-expansao/",
-   "publicado": "2026-08-05T21:58:49+00:00",
-   "tickers": [],
-   "resumo": "A Lojas Riachuelo reportou um segundo tri que superou as projeções do sellside e trouxe com uma série de recordes históricos. O resultado também marcou um ponto de inflexão na estratégia da companhia, que a partir do segundo semestre vai entrar em ‘modus’ expansão – voltando a ab"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "PRIO bate recordes com petróleo em alta. E os dividendos?",
-   "url": "https://braziljournal.com/prio-bate-recordes-com-petroleo-em-alta-e-os-dividendos/",
-   "publicado": "2026-08-05T21:46:53+00:00",
-   "tickers": [],
-   "resumo": "A PRIO teve um segundo tri de recordes, apoiada pelos preços altos do petróleo e avanços na produção – em resultados que ampliaram a já elevada expectativa do mercado por uma política de remuneração aos acionistas prometida pela companhia alguns meses atrás. Na teleconferência de"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Cyrela negocia venda de portfólio de R$ 2 bilhões com o fundo TRXF11",
-   "url": "https://investnews.com.br/negocios/cyrela-negocia-venda-de-portfolio-de-r-2-bilhoes-com-o-fundo-trxf11/",
-   "publicado": "2026-08-05T21:44:39+00:00",
-   "tickers": [
-    "TRXF11"
-   ],
-   "resumo": "O pacote reúne ativos comerciais em São Paulo e participações em empreendimentos logísticos"
   },
   {
    "fonte": "Valor Investe",
@@ -797,96 +878,6 @@
    "publicado": "2026-08-05T21:34:11+00:00",
    "tickers": [],
    "resumo": "O Comitê de Política Monetária (Copom) do Banco Central (BC) reduziu a meta para a taxa básica de juros (Selic) em 0,25 ponto nesta quarta-feira (5), levando a taxa de 14,25% para 14% ao ano, menor nível desde fevereiro de 2025. A decisão confirmou as apostas que ganharam força n"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Bolsa fica no impasse entre o alívio global e os rumos da corrida presidencial",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/08/05/bolsa-fica-no-impasse-entre-o-alivio-global-e-os-rumos-da-corrida-presidencial.ghtml",
-   "publicado": "2026-08-05T20:32:13+00:00",
-   "tickers": [
-    "CEAB3",
-    "ITUB4",
-    "PETR3",
-    "PETR4",
-    "RADL3"
-   ],
-   "resumo": "A bolsa brasileira viveu um pregão de altos e baixos nesta quarta-feira (5), equilibrando o otimismo vindo do exterior com o ritmo das pesquisas e articulações eleitorais no Brasil, tudo isso em meio ao compasso de espera pela decisão do Comitê de Política Monetária (Copom) do Ba"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Meta lança agente de IA para programação e desafia OpenAI e Anthropic",
-   "url": "https://investnews.com.br/negocios/meta-lanca-agente-de-ia-para-programacao-e-desafia-openai-e-anthropic/",
-   "publicado": "2026-08-05T20:00:52+00:00",
-   "tickers": [],
-   "resumo": "O lançamento ocorre enquanto a Meta amplia seus investimentos em inteligência artificial, data centers e infraestrutura computacional"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Auditoria da União Europeia pode evitar embargo ao frango brasileiro",
-   "url": "https://investnews.com.br/economia/auditoria-da-uniao-europeia-pode-evitar-embargo-ao-frango-brasileiro/",
-   "publicado": "2026-08-05T18:30:09+00:00",
-   "tickers": [],
-   "resumo": "Se o resultado da auditoria for positivo, a Comissão da União Europeia poderá considerar uma alteração na lista de exportadores autorizados para reincluir o Brasil"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Argentina renova acordo cambial de US$ 19 bilhões com a China por cinco anos",
-   "url": "https://investnews.com.br/economia/argentina-renova-acordo-cambial-de-us-19-bilhoes-com-a-china-por-cinco-anos/",
-   "publicado": "2026-08-05T17:28:06+00:00",
-   "tickers": [],
-   "resumo": "Acordo com o Banco do Povo da China garante uma importante fonte de reservas internacionais para a Argentina e estende por mais dois anos a vigência da linha de swap"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Comerc compra fatia da Equinor e assume 100% de empresa de armazenamento de energia",
-   "url": "https://investnews.com.br/negocios/comerc-compra-100-micropower/",
-   "publicado": "2026-08-05T17:18:46+00:00",
-   "tickers": [],
-   "resumo": "Controlada da Vibra Energia absorve por completo a Micropower e aumenta presença em armazenamento em meio à desaceleração das renováveis"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "SpaceX (SPCX34) tem 'forte começo' e gatilhos positivos pela frente, diz Citi",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/08/05/spacex-spcx34-tem-forte-comeco-e-gatilhos-positivos-pela-frente-diz-citi.ghtml",
-   "publicado": "2026-08-05T15:39:13+00:00",
-   "tickers": [
-    "SPCX34"
-   ],
-   "resumo": "A SpaceX (SPCX34) registrou um \"forte começo\" para uma sequência de anos ricos em gatilhos, na leitura do Citi, ao entregar no segundo trimestre números acima das estimativas em receita, lucro bruto e lucro antes de juros, impostos e amortizações (Ebitda) ajustado nos seus três p"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Ouro dispara e chega a US$ 4,3 mil com alívio nas preocupações com inflação nos EUA",
-   "url": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/08/05/ouro-dispara-e-chega-a-us-43-mil-com-alivio-nas-preocupacoes-com-inflacao-nos-eua.ghtml",
-   "publicado": "2026-08-05T14:56:00+00:00",
-   "tickers": [],
-   "resumo": "Os preços do ouro sobem com força nesta quarta-feira (5) em meio ao avanço diplomático no Oriente Médio, que derruba o preço do petróleo. Com isso, o mercado já antecipa riscos menores de a inflação acelerar nos Estados Unidos. Na última reunião do Fed, três diretores se posicion"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Tesouro Direto: IPCA+8% chegou ao fim? Taxas caem antes da decisão do BC sobre juros",
-   "url": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/08/05/tesouro-direto-ipca8percent-chegou-ao-fim-taxas-caem-antes-da-decisao-do-bc-sobre-juros.ghtml",
-   "publicado": "2026-08-05T14:03:34+00:00",
-   "tickers": [],
-   "resumo": "Os títulos do Tesouro Direto caem pelo terceiro consecutivo nesta quarta-feira (5), enquanto investidores esperam o resultado da reunião do Comitê de Política Monetária (Copom), do Banco Central. As taxas respondem uma combinação de ventos favoráveis, que vão desde a forte queda "
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Ações do Itaú (ITUB4) sobem após balanço sem grandes entusiasmos ou decepções",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/08/05/analistas-veem-balanco-do-itau-itub4-sem-grandes-entusiasmos-ou-decepcoes.ghtml",
-   "publicado": "2026-08-05T12:56:40+00:00",
-   "tickers": [
-    "ITUB4"
-   ],
-   "resumo": "O lucro do Itaú no segundo trimestre, de R$ 12,4 bilhões, veio basicamente em linha com as projeções e analistas dizem que o balanço não trouxe grandes entusiasmos nem grandes decepções. A redução no guidance de receita de serviços já estava embutida nos preços e os relatórios de"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Justiça de São Paulo aprova pedido de recuperação extrajudicial da Oncoclínicas",
-   "url": "https://valorinveste.globo.com/credito-privado/noticia/2026/08/05/justia-de-so-paulo-aprova-pedido-de-recuperao-extrajudicial-da-oncoclnicas.ghtml",
-   "publicado": "2026-08-05T12:36:21+00:00",
-   "tickers": [],
-   "resumo": "A Justiça de São Paulo aprovou o pedido de recuperação extrajudicial que a Oncoclínicas protocolou no mês passado, atendendo também ao pedido para suspender cobranças e a eficácia de cláusulas contratuais contra a companhia.\nHá cerca de 40 mil investidores pessoas físicas que são"
   }
  ]
 }
