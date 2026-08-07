@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-07T05:00:59.680927+00:00",
+ "gerado_em": "2026-08-07T11:34:17.268463+00:00",
  "fontes": {
   "noticias": {
    "arquivo": "noticias.json",
@@ -19,12 +19,12 @@
   "fatos_fundos_raw": {
    "arquivo": "fatos_fundos_raw.json",
    "status": "ok",
-   "itens": 61
+   "itens": 54
   },
   "fatos_fidc_raw": {
    "arquivo": "fatos_fidc_raw.json",
    "status": "ok",
-   "itens": 58
+   "itens": 54
   }
  }
 }
