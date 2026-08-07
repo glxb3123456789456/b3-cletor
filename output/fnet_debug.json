@@ -1,13 +1,13 @@
 {
- "recordsTotal": 9819,
- "paginas_lidas": 40,
+ "recordsTotal": 10803,
+ "paginas_lidas": 36,
  "janela": [
-  "25/07/2026",
-  "06/08/2026"
+  "26/07/2026",
+  "07/08/2026"
  ],
- "docs_filtrados": 96,
- "docs_fundos": 55,
- "docs_fidc": 41,
+ "docs_filtrados": 119,
+ "docs_fundos": 61,
+ "docs_fidc": 58,
  "amostra_categorias": [
   "Assembleia",
   "Atos de Deliberação do Administrador",
@@ -22,7 +22,7 @@
   "Regulamento",
   "Relatórios"
  ],
- "erro": null,
+ "erro": "excecao: HTTPSConnectionPool(host='fnet.bmfbovespa.com.br', port=443): Read timed out. (read timeout=60)",
  "amostra_registros": [
   {
    "altaPrioridade": false,
@@ -33,17 +33,17 @@
    "cnpjAdministrador": null,
    "cnpjFundo": null,
    "codSegNegociacao": null,
-   "dataEntrega": "05/08/2026 23:59",
-   "dataReferencia": "07/2026",
+   "dataEntrega": "06/08/2026 23:36",
+   "dataReferencia": "03/2026",
    "dda": null,
-   "descricaoFundo": "XP CRÉDITO ESTRUTURADO 360 MASTER FIC FIDC RESPONSABILIDADE LIMITADA",
-   "descricaoModalidade": "Apresentação",
+   "descricaoFundo": "ATLAS HUB II FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA",
+   "descricaoModalidade": "Reapresentação Espontânea",
    "descricaoStatus": "Ativo com visualização",
    "especieDocumento": "",
    "formatoDataReferencia": "2",
    "formatoEstruturaDocumento": null,
    "fundoOuClasse": "Classe",
-   "id": 1278123,
+   "id": 1279244,
    "idEntidadeGerenciadora": null,
    "idFundo": null,
    "idSelectItemConvenio": 0,
@@ -51,7 +51,7 @@
    "idTemplate": 0,
    "indicadorFundoAtivoB3": false,
    "informacoesAdicionais": ";",
-   "modalidade": "AP",
+   "modalidade": "RE",
    "nomeAdministrador": null,
    "nomePregao": "",
    "nomePrimeiraVisualizacao": null,
@@ -61,7 +61,7 @@
    "status": "AC",
    "tipoDocumento": "Informe Mensal Estruturado ",
    "tipoPedido": null,
-   "versao": 1
+   "versao": 2
   },
   {
    "altaPrioridade": false,
@@ -72,17 +72,17 @@
    "cnpjAdministrador": null,
    "cnpjFundo": null,
    "codSegNegociacao": null,
-   "dataEntrega": "05/08/2026 23:43",
-   "dataReferencia": "07/2026",
+   "dataEntrega": "06/08/2026 23:35",
+   "dataReferencia": "03/2026",
    "dda": null,
-   "descricaoFundo": "CREDIT RESTRUCTURING II FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
-   "descricaoModalidade": "Apresentação",
+   "descricaoFundo": "ATLAS HUB I FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA",
+   "descricaoModalidade": "Reapresentação Espontânea",
    "descricaoStatus": "Ativo com visualização",
    "especieDocumento": "",
    "formatoDataReferencia": "2",
    "formatoEstruturaDocumento": null,
    "fundoOuClasse": "Classe",
-   "id": 1278122,
+   "id": 1279243,
    "idEntidadeGerenciadora": null,
    "idFundo": null,
    "idSelectItemConvenio": 0,
@@ -90,7 +90,7 @@
    "idTemplate": 0,
    "indicadorFundoAtivoB3": false,
    "informacoesAdicionais": ";",
-   "modalidade": "AP",
+   "modalidade": "RE",
    "nomeAdministrador": null,
    "nomePregao": "",
    "nomePrimeiraVisualizacao": null,
@@ -100,7 +100,7 @@
    "status": "AC",
    "tipoDocumento": "Informe Mensal Estruturado ",
    "tipoPedido": null,
-   "versao": 1
+   "versao": 3
   }
  ]
 }
