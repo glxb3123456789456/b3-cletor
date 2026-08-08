@@ -3,38 +3,275 @@
  "itens": 100,
  "dados": [
   {
+   "fonte": "InvestNews",
+   "titulo": "De hotel a galpões, TRX acelera compras e leva fatias de shoppings da Iguatemi por R$ 876 milhões",
+   "url": "https://investnews.com.br/negocios/trx-avanca-compras-iguatemi/",
+   "publicado": "2026-08-07T22:58:45+00:00",
+   "tickers": [],
+   "resumo": "Negócio se soma a aquisições bilionárias recentes em logística e hotelaria; fundo abriu captação que pode chegar a R$ 10 bilhões"
+  },
+  {
    "fonte": "Suno Noticias",
-   "titulo": "Petrobras (PETR4): comprar ou vender após o 2T26? Analistas veem dividendos atrativos, mas riscos continuam",
-   "url": "https://www.suno.com.br/noticias/petrobras-petr4-comprar-vender-resultado-2t26-dividendos-mt/",
-   "publicado": "2026-08-07T17:25:09+00:00",
+   "titulo": "TRXF11 lucra R$ 60 mi; fundo acelera expansão com aquisições no segmento logístico",
+   "url": "https://www.suno.com.br/noticias/trxf11-lucra-r-60-mi-fundo-acelera-expansao-com-aquisicoes-no-segmento-logistico/",
+   "publicado": "2026-08-07T22:45:05+00:00",
+   "tickers": [
+    "TRXF11"
+   ],
+   "resumo": "O fundo imobiliário TRXF11 apurou em julho resultado operacional de R$ 59,97 milhões. A gestora manteve o ritmo de expansão do portfólio e anunciou novas aquisições que somam bilhões de reais em ativos imobiliários, com foco em logística e hospitality. Entre os movimentos do mês,"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Desmatamento na Amazônia registra maior recuo da década",
+   "url": "https://www.moneytimes.com.br/desmatamento-na-amazonia-registra-maior-recuo-da-decada-pads/",
+   "publicado": "2026-08-07T22:31:07+00:00",
+   "tickers": [],
+   "resumo": "O Brasil registrou entre agosto de 2025 e julho de 2026 a menor área sob alerta de desmatamento na Amazônia nos últimos dez anos, desde que foi iniciada a série histórica, em 2016. Segundo dados do Sistema de Detecção de Desmatamentos em Tempo Real (Deter) do Instituto Nacional d"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "IFIX avança 0,29%, mas fecha semana com queda de 1,24%",
+   "url": "https://www.suno.com.br/noticias/ifix-avanca-029-mas-fecha-semana-com-queda-de-124/",
+   "publicado": "2026-08-07T22:25:08+00:00",
+   "tickers": [],
+   "resumo": "O IFIX encerrou o pregão desta sexta-feira (7) aos 3.771,15 pontos, avanço de 11,04 pontos (+0,29%) sobre o fechamento anterior. Ao longo da sessão, o índice de fundos imobiliários oscilou entre a mínima de 3.760,08 pontos e a máxima de 3.777,02 pontos, terminando o dia próximo d"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "B3 lança índice Small Cap Smart Rebal B3",
+   "url": "https://www.moneytimes.com.br/b3-lanca-indice-small-cap-smart-rebal-b3-pads/",
+   "publicado": "2026-08-07T22:13:27+00:00",
+   "tickers": [],
+   "resumo": "A B3 anunciou o lançamento do Índice Small Cap Smart Rebal B3 (SCSR), que acompanha o desempenho médio das cotações das ações de empresas de menor valor de mercado listadas na bolsa paulista, segundo comunicado divulgado nesta sexta-feira. O novo indicador faz ajustes da carteira"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "IBBP11 aprova emissão de R$ 228 mi; montante financiará novos investimentos",
+   "url": "https://www.suno.com.br/noticias/ibbp11-aprova-emissao-de-r-228-mi-montante-financiara-novos-investimentos/",
+   "publicado": "2026-08-07T22:05:04+00:00",
+   "tickers": [
+    "IBBP11"
+   ],
+   "resumo": "O fundo imobiliário (FII) IBBP11 aprovou a 6ª emissão de cotas em uma oferta pública que poderá somar aproximadamente R$ 228 milhões. Os recursos serão direcionados à realização de novos investimentos, conforme fato relevante enviado ao mercado, com foco na expansão do portfólio "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Iguatemi (IGTI11) embolsa R$ 876 milhões com venda de ativos para fundo imobiliário; veja detalhes",
+   "url": "https://www.moneytimes.com.br/iguatemi-igti11-embolsa-r-876-milhoes-com-venda-de-ativos-para-fundo-imobiliario-veja-detalhes-rnda/",
+   "publicado": "2026-08-07T21:57:18+00:00",
+   "tickers": [
+    "IGTI11",
+    "TRXF11"
+   ],
+   "resumo": "A Iguatemi (IGTI11) está embolsando R$ 876 milhões com a venda de cinco ativos imobiliários para o TRX Real Estate (TRXF11), mostra documento enviado ao mercado nesta sexta-feira (7). Os ativos incluem: O preço será pago da seguinte forma: Mesmo com a venda, a Iguatemi manterá a "
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "B3 lança índice de small caps com giro menor de carteira e ETF da XP atrelado",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/08/07/b3-lanca-indice-de-small-caps-com-giro-menor-de-carteira-e-etf-da-xp-atrelado.ghtml",
+   "publicado": "2026-08-07T21:51:13+00:00",
+   "tickers": [
+    "XCAP11"
+   ],
+   "resumo": "A B3 passou a oferecer nesta sexta-feira (7) o Índice Small Cap Smart Rebal (SCSR), que mede o desempenho de ações de empresas de menor valor de mercado e já nasce com um fundo de índice atrelado, o XCAP11, da XP. A principal diferença em relação ao que já existia está na forma d"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Tenda (TEND3) anuncia R$ 78 milhões em dividendos intercalares",
+   "url": "https://www.moneytimes.com.br/tenda-tend3-anuncia-r-78-milhoes-em-dividendos-intercalares/",
+   "publicado": "2026-08-07T21:47:10+00:00",
+   "tickers": [
+    "TEND3"
+   ],
+   "resumo": "A Tenda (TEND3) informou nesta sexta-feira (7) que aprovou a distribuição de R$ 78 milhões em dividendos intercalares, o equivalente a R$ 0,64 por ação. Terão direito ao pagamento os acionistas com posição na companhia no fechamento do pregão de 13 de agosto, e as ações passam a "
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "SNEL11 renova máxima histórica; fundo imobiliário chega a 123 mil cotistas",
+   "url": "https://www.suno.com.br/noticias/snel11-renova-maxima-historica-fundo-imobiliario-chega-a-123-mil-cotistas/",
+   "publicado": "2026-08-07T21:45:04+00:00",
+   "tickers": [
+    "SNEL11"
+   ],
+   "resumo": "O fundo imobiliário SNEL11 alcançou nesta sexta-feira (7) a marca de 123 mil cotistas, em meio ao avanço das cotas no mercado secundário. O movimento confirma a expansão da base de investidores do veículo e acompanha o desempenho recente na Bolsa. No pregão de hoje, o fundo renov"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Trigo se recupera em Chicago enquanto mercado avalia ataques no Mar Negro",
+   "url": "https://www.moneytimes.com.br/trigo-se-recupera-em-chicago-enquanto-mercado-avalia-ataques-no-mar-negro-pads/",
+   "publicado": "2026-08-07T21:44:36+00:00",
+   "tickers": [],
+   "resumo": "Os contratos futuros de trigo negociados na bolsa de Chicago se recuperaram de uma mínima de quatro semanas nesta sexta-feira (7), impulsionados pela desvalorização do dólar norte-americano e enquanto os operadores avaliavam relatos de novos ataques na zona de exportação do Mar N"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Agricultores argentinos retêm safra de trigo de olho em preços mais altos",
+   "url": "https://www.moneytimes.com.br/agricultores-argentinos-retem-safra-de-trigo-de-olho-em-precos-mais-altos-pads/",
+   "publicado": "2026-08-07T21:37:38+00:00",
+   "tickers": [],
+   "resumo": "Os agricultores argentinos ainda têm cerca de 30% da safra de trigo desta temporada para vender, informou a bolsa de grãos de Rosário nesta sexta-feira, já que expectativa de preços ainda mais altos incentivam os produtores a reterem os grãos. Até o momento, os agricultores vende"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Zema propõe saída dos Brics, privatizações e R$ 1 mil para cada brasileiro ao nascer",
+   "url": "https://www.moneytimes.com.br/zema-propoe-saida-dos-brics-privatizacoes-e-r-1-mil-para-cada-brasileiro-ao-nascer-pads/",
+   "publicado": "2026-08-07T21:20:25+00:00",
+   "tickers": [],
+   "resumo": "O candidato do Novo à Presidência da República, Romeu Zema, propõe privatizar todas as empresas estatais, depositar R$ 1 mil para cada brasileiro que nascer e pagar um prêmio de R$ 5 mil a famílias que conseguirem deixar o Bolsa Família. As medidas fazem parte do chamado &#8220;P"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Bessent anuncia novas sanções em meio a esforço para elevar pressão econômica contra Irã",
+   "url": "https://www.moneytimes.com.br/bessent-anuncia-novas-sancoes-em-meio-a-esforco-para-elevar-pressao-economica-contra-ira/",
+   "publicado": "2026-08-07T21:17:47+00:00",
+   "tickers": [],
+   "resumo": "O secretário do Tesouro dos Estados Unidos, Scott Bessent, afirmou que o governo norte-americano continuará aumentando a pressão econômica sobre o Irã, enquanto anunciou novas sanções nesta sexta-feira, 7. &#8220;A dependência do regime iraniano em relação a ativos digitais e red"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "FII TRCO11 sofre novo calote dias após receber aluguel atrasado com multa",
+   "url": "https://www.suno.com.br/noticias/fii-trco11-sofre-novo-calote-dias-apos-receber-aluguel-atrasado-com-multa/",
+   "publicado": "2026-08-07T21:15:07+00:00",
+   "tickers": [
+    "TRCO11"
+   ],
+   "resumo": "O fundo imobiliário Torre Rio Claro Offices (TRCO11) comunicou ao mercado que a locatária BM Varejo Empreendimentos S.A. não efetuou o pagamento do aluguel referente a julho. O registro ocorre dois dias após o fundo informar que recebeu, com atraso, o aluguel de junho, acrescido "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Açúcar bruto atinge maior cotação em 10 meses devido à redução da oferta",
+   "url": "https://www.moneytimes.com.br/acucar-bruto-atinge-maior-cotacao-em-10-meses-devido-a-reducao-da-oferta-pads/",
+   "publicado": "2026-08-07T21:07:50+00:00",
+   "tickers": [],
+   "resumo": "Os contratos futuros de açúcar bruto na ICE atingiram nesta sexta-feira (7) seu nível mais alto em 10 meses, com as preocupações com a safra na União Europeia e na Ásia reforçando as expectativas de que o mercado global entrará em déficit na temporada 2026/27. O açúcar bruto fech"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Essa construtora derreteu na bolsa — e agora quer recomprar 10% dos papéis em circulação",
+   "url": "https://www.moneytimes.com.br/essa-construtora-derreteu-na-bolsa-e-agora-quer-recomprar-10-dos-papeis-em-circulacao/",
+   "publicado": "2026-08-07T20:52:01+00:00",
+   "tickers": [
+    "LAVV3"
+   ],
+   "resumo": "A Lavvi (LAVV3) irá recomprar até 7,4 milhões de ações, ou até 10% das ações em circulação, mostra documento enviado ao mercado nesta sexta-feira (7). Segundo o comunicado, o programa terá prazo de vigência de 18 meses, que será iniciado em 10 de agosto. A companhia diz que o pro"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "GGRC11 movimenta R$ 307 milhões em julho; liquidez é a maior da história doFII",
+   "url": "https://www.suno.com.br/noticias/ggrc11-movimenta-r-307-milhoes-em-julho-liquidez-e-a-maior-da-historia-dofii/",
+   "publicado": "2026-08-07T20:45:11+00:00",
+   "tickers": [
+    "GGRC11"
+   ],
+   "resumo": "O fundo imobiliário GGRC11 registrou em julho o maior volume de negociações de sua história no mercado secundário. Ao longo do mês, foram movimentados aproximadamente R$ 307,3 milhões em cotas, sinalizando aumento de liquidez do ativo na B3 e maior participação diária de investid"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Ibovespa cai 1,73% com Petrobras (PETR4), varejo e bancos sob pressão",
+   "url": "https://www.suno.com.br/noticias/ibovespa-hoje-07-agosto-2026-petr4-varejo-mt/",
+   "publicado": "2026-08-07T20:45:03+00:00",
    "tickers": [
     "PETR4"
    ],
-   "resumo": "A Petrobras (PETR4) saiu do segundo trimestre com um balanço considerado sólido pelas principais casas de análise, apoiado por produção maior, margens melhores no refino e forte geração de caixa. O resultado também veio acompanhado de R$ 17,4 bilhões em dividendos e juros sobre c"
+   "resumo": "O Ibovespa encerrou esta sexta-feira (7) em forte queda, pressionado pela repercussão dos balanços corporativos, pela leitura cautelosa do comunicado do Banco Central e pela redução do fluxo estrangeiro para a bolsa brasileira. O principal índice da B3 recuou 1,73%, aos 172.513,4"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Petróleo sobe com pouca esperança de reabertura do Estreito de Ormuz, mas recua 5% na semana",
+   "url": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/08/07/petroleo-sobe-com-pouca-esperanca-de-reabertura-do-estreito-de-ormuz-mas-recua-5percent-na-semana.ghtml",
+   "publicado": "2026-08-07T20:35:48+00:00",
+   "tickers": [],
+   "resumo": "Os contratos futuros de petróleo encerraram esta sexta-feira em alta, ao passo em que a esperança dos investidores quanto à reabertura do Estreito de Ormuz parece se dissipar. A sessão contou com poucos desdobramentos no cenário geopolítico, embora os Houthis do Iêmen tenham assu"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Agosto faz jus à fama: Ibovespa tem pior desempenho em 12 semanas",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/08/07/agosto-faz-jus-a-fama-ibovespa-tem-pior-desempenho-em-12-semanas.ghtml",
+   "publicado": "2026-08-07T20:25:07+00:00",
+   "tickers": [
+    "ASAI3",
+    "FLRY3",
+    "ITUB4",
+    "LREN3",
+    "MGLU3",
+    "PETR4",
+    "VALE3"
+   ],
+   "resumo": "O primeiro capítulo de agosto fez jus à fama na bolsa. A tentativa de reação do Ibovespa esbarrou na decepção com os balanços corporativos nesta sexta-feira (7), anulando o alívio vindo do exterior em semana marcada por incertezas pós-Copom.\nO principal índice da B3 acumulou qued"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Lojas Renner (LREN3) corta projeção de vendas após 2T26 mais fraco; ainda vale comprar?",
+   "url": "https://www.suno.com.br/noticias/lojas-renner-lren3-resultado-2t26-guidance-comprar-mt/",
+   "publicado": "2026-08-07T20:15:08+00:00",
+   "tickers": [
+    "LREN3"
+   ],
+   "resumo": "A Lojas Renner (LREN3) atravessou o segundo trimestre de 2026 com uma combinação que deixou o investidor entre dois sinais. De um lado, a companhia preservou margens, manteve estoques sob controle e continuou avançando no digital. Do outro, as vendas perderam ritmo, ficaram abaix"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Briga pelo Tecon 10 esquenta: operadora ICTSI contesta acordo de MSC e Maersk no Porto de Santos",
+   "url": "https://investnews.com.br/negocios/tecon10-santos-msc-maersk-ictsi/",
+   "publicado": "2026-08-07T20:09:27+00:00",
+   "tickers": [],
+   "resumo": "Grupo filipino pede ao Cade que aprofunde análise sobre o futuro da BTP, sociedade entre MSC e Maersk, que opera um dos principais terminais de Santos"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Após queda da Selic para 14%, ainda vale a pena investir em FIIs?",
+   "url": "https://www.suno.com.br/noticias/apos-queda-da-selic-para-14-ainda-vale-a-pena-investir-em-fiis/",
+   "publicado": "2026-08-07T20:05:11+00:00",
+   "tickers": [],
+   "resumo": "A decisão do Comitê de Política Monetária (Copom) de reduzir a taxa Selic de 14,25% para 14% ao ano reacendeu uma dúvida recorrente entre investidores: ainda compensa comprar fundos imobiliários (FIIs) ou a renda fixa segue como alternativa mais atrativa? A resposta varia conform"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Ouro tem forte alta com dados de emprego nos EUA e acumula ganho de 7% na semana",
+   "url": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/08/07/ouro-tem-forte-alta-com-dados-de-emprego-nos-eua-e-acumula-ganho-de-7percent-na-semana.ghtml",
+   "publicado": "2026-08-07T19:34:58+00:00",
+   "tickers": [],
+   "resumo": "O ouro disparou nesta sexta-feira (7) e chegou ao maior nível em sete semanas, após a surpresa com o mercado de trabalho dos Estados Unidos reduzir as apostas em uma nova alta dos juros pelo Federal Reserve (Fed, o banco central americano).\nO ouro à vista avançava 2,3%, a US$ 4.3"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Selic a 14% ainda deixa a renda fixa atraente? Entenda o que muda para cada investimento",
+   "url": "https://www.suno.com.br/noticias/selic-14-renda-fixa-cdb-lci-lca-tesouro-mt/",
+   "publicado": "2026-08-07T19:25:12+00:00",
+   "tickers": [],
+   "resumo": "A Selic caiu para 14% ao ano, mas isso não significa que a renda fixa deixou de ser interessante. Na prática, o investidor continua encontrando retornos elevados em aplicações pós-fixadas, embora a redução dos juros comece a mudar a relação entre liquidez, prazo e potencial de ga"
   },
   {
    "fonte": "Brazil Journal",
-   "titulo": "Starboard dá uma mordida no Shake Shack e acha que a empresa vale o dobro",
+   "titulo": "No gás, Petrobras é “atravessadora”, diz diretor da ANP. “Não somos ONG,” diz Magda",
+   "url": "https://braziljournal.com/no-gas-petrobras-e-atravessadora-diz-diretor-da-anp-nao-somos-ong-diz-magda/",
+   "publicado": "2026-08-07T19:23:37+00:00",
+   "tickers": [],
+   "resumo": "A Agência Nacional do Petróleo avançou hoje em um plano que pretende reduzir o poder de mercado da Petrobras na indústria de gás natural, potencialmente reduzindo o preço de uma mólecula-chave na economia brasileira. A agência abriu uma consulta pública sobre uma proposta que cri"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "O novo sócio da JBS: o governo da Indonésia",
+   "url": "https://braziljournal.com/o-novo-socio-da-jbs-o-governo-da-indonesia/",
+   "publicado": "2026-08-07T17:46:04+00:00",
+   "tickers": [],
+   "resumo": "A JBS NV – a empresa que controla a JBS globalmente – anunciou hoje que o Danantara, o fundo soberano da Indonésia, vai investir US$ 2,5 bilhões numa joint venture composta pelos ativos da companhia na Austrália e Nova Zelândia. A transação – que dará ao Danantara 25% da JV – ava"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "C&A e Riachuelo apertam o passo. E expõem a perda de ritmo da Renner",
+   "url": "https://investnews.com.br/negocios/renner-lren3-queda-cea-riachuelo-apertam/",
+   "publicado": "2026-08-07T17:28:57+00:00",
+   "tickers": [],
+   "resumo": "Renner ainda preserva vantagem relevante de produtividade, mas cresceu menos que as concorrentes e cortou sua projeção de vendas para o ano"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Starboard dá uma mordida no Shake Shack e diz que a empresa vale o dobro",
    "url": "https://braziljournal.com/starboard-da-uma-mordida-no-shake-shack-e-acha-que-a-empresa-vale-o-dobro/",
    "publicado": "2026-08-07T17:14:19+00:00",
    "tickers": [],
    "resumo": "A Starboard Value, o fundo de investimento ativista com histórico no setor de alimentos, comprou uma participação na Shake Shack e quer influir na estratégia da rede de hambúrgueres após sua ação cair 36% nos últimos 12 meses. O CEO da Starboard, Jeff Smith, disse à Bloomberg que"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Alimentos: Índice da FAO sobe em julho, puxado por cereais, açúcar e óleos vegetais",
-   "url": "https://www.moneytimes.com.br/alimentos-indice-da-fao-sobe-em-julho-puxado-por-cereais-acucar-e-oleos-vegetais-pads/",
-   "publicado": "2026-08-07T17:06:01+00:00",
-   "tickers": [],
-   "resumo": "Os preços internacionais dos alimentos subiram levemente em julho, impulsionados pela elevação das cotações de cereais, óleos vegetais e açúcar, que compensaram os recuos nos setores de carnes e produtos lácteos, informou nesta sexta-feira (7), a Organização das Nações Unidas par"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Governo do DF tentará empréstimo para socorrer BRB com resultados parciais das contas de 2026",
-   "url": "https://www.moneytimes.com.br/governo-do-df-tentara-emprestimo-para-socorrer-brb-com-resultados-parciais-das-contas-de-2026/",
-   "publicado": "2026-08-07T16:54:47+00:00",
-   "tickers": [],
-   "resumo": "O governo do Distrito Federal apresentará resultados parciais das contas de 2026 para convencer a União e bancos de que consegue pagar o empréstimo de R$ 6,6 bilhões que está buscando para cobrir o rombo deixado pelo Banco Master no Banco de Brasília (BRB). Como o Estadão revelou"
   },
   {
    "fonte": "Brazil Journal",
@@ -51,92 +288,6 @@
    "publicado": "2026-08-07T16:48:56+00:00",
    "tickers": [],
    "resumo": "Na manhã de 31 de julho, problemas técnicos na B3 interromperam quase todos os fluxos de dados em São Paulo por mais de três horas"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Petrobras (PETR4): Por que a ação cai quase 2% mesmo após lucro acima do esperado",
-   "url": "https://www.moneytimes.com.br/petrobras-petr4-lucro-surpreende-mas-acao-cai-especialista-explica-o-motivo-ceci/",
-   "publicado": "2026-08-07T16:38:47+00:00",
-   "tickers": [
-    "PETR4"
-   ],
-   "resumo": "A queda das ações da Petrobras (PETR4) nesta sexta-feira (7), após a divulgação do balanço do segundo trimestre, reflete um movimento ligado ao cenário macroeconômico, disse Marcelo Bassani, economista e sócio da Boa Brasil Capital no Giro do Mercado. “O que precisamos levar em c"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Log (LOGG3): Ações caem após balanço do 2T26; o que dizem analistas?",
-   "url": "https://www.moneytimes.com.br/log-logg3-acoes-caem-apos-balanco-do-2t26-o-que-dizem-analistas-igdl/",
-   "publicado": "2026-08-07T16:37:42+00:00",
-   "tickers": [
-    "LOGG3"
-   ],
-   "resumo": "As ações da Log Commercial (LOGG3) operam em queda nesta sexta-feira (7), um dia após a empresa divulgar seu balanço do segundo trimestre de 2026 (2T26). Entre analistas, no entanto, a avaliação é de que os números vieram positivos. Por volta das 11h30 (de Brasília), os papéis da"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Inflação nos EUA dá alívio, mas ainda não libera o Fed; entenda o PCE de junho",
-   "url": "https://www.suno.com.br/noticias/inflacao-eua-nucleo-pce-junho-2026-fed-mt/",
-   "publicado": "2026-08-07T16:35:08+00:00",
-   "tickers": [],
-   "resumo": "A inflação nos EUA trouxe uma notícia melhor do que o esperado em junho, mas ainda não o suficiente para tirar o Federal Reserve do modo cautela. O núcleo do PCE, indicador preferido do banco central americano para acompanhar a trajetória dos preços, avançou apenas 0,1% no mês, a"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Petrobras (PETR4): Dividendo extraordinário é ‘muito pouco provável’ em 2026, diz CFO",
-   "url": "https://www.moneytimes.com.br/petrobras-petr4-dividendo-extraordinario-e-muito-pouco-provavel-em-2026-diz-cfo-vtra/",
-   "publicado": "2026-08-07T16:12:28+00:00",
-   "tickers": [
-    "PETR4"
-   ],
-   "resumo": "Apesar do lucro recorde e da forte geração de caixa no segundo trimestre de 2026 (2T26), a Petrobras (PETR4) considera &#8220;muito pouco provável&#8221; o pagamento de dividendos extraordinários neste ano. A sinalização foi dada pelo diretor Financeiro e de Relacionamento com In"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Ações da Airbnb têm maior cotação em quatro anos, com investidores comemorando aumento da previsão de receita",
-   "url": "https://www.moneytimes.com.br/acoes-da-airbnb-tem-maior-cotacao-em-quatro-anos-com-investidores-comemorando-aumento-da-previsao-de-receita/",
-   "publicado": "2026-08-07T15:41:57+00:00",
-   "tickers": [],
-   "resumo": "As ações da Airbnb subiram 14% nesta sexta-feira, atingindo a maior cotação em mais de quatro anos, à medida que a revisão para cima da previsão de receita anual da empresa de aluguel por temporada amenizou as preocupações com as repercussões do conflito no Oriente Médio sobre a "
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "O que surpreendeu tanto no balanço do Fleury (FLRY3)? Ação chega a saltar 14% nesta sexta (7)",
-   "url": "https://www.moneytimes.com.br/o-que-agradou-tanto-no-balanco-do-2t26-do-fleury-flry3-acao-salta-13-nesta-sexta-7-apsa/",
-   "publicado": "2026-08-07T15:09:18+00:00",
-   "tickers": [
-    "FLRY3"
-   ],
-   "resumo": "O Fleury (FLRY3) lidera a ponta positiva do Ibovespa (IBOV) nesta sexta-feira (7), após divulgar os seus resultados do segundo trimestre de 2026 (2T26). Por volta das 11h38 (horário de Brasília), FLRY3 saltava 11,41% (R$ 19,24). A ação, na máxima, chegou a disparar 14,24% (a R$ 1"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Ibovespa cai mais de 1% e volta aos 172 mil pontos com Petrobras (PETR4); como andam os mercados nesta sexta-feira (7)",
-   "url": "https://www.moneytimes.com.br/ibovespa-intradia-7-8-26-lils/",
-   "publicado": "2026-08-07T15:08:55+00:00",
-   "tickers": [
-    "PETR4"
-   ],
-   "resumo": "O Ibovespa (IBOV) perdeu mais de 2 mil pontos nas primeiras horas do pregão desta sexta-feira (7), em dia de reação a balanços corporativos e potencial saída de fluxo estrangeiro, após começar a sessão em alta com apoio de Wall Street. Por volta de 12h (horário de Brasília), o pr"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Alpargatas (ALPA4) dispara após resultado do 2T26 surpreender; o que agradou, na avaliação de XP e JPMorgan",
-   "url": "https://www.moneytimes.com.br/alpargatas-alpa4-dispara-apos-lucro-operacional-surpreender-veja-a-avaliacao-de-xp-e-jpmorgan-ceci/",
-   "publicado": "2026-08-07T15:03:16+00:00",
-   "tickers": [
-    "ALPA4"
-   ],
-   "resumo": "A Alpargatas (ALPA4), dona da Havaianas, abriu o pregão de hoje entre as maiores altas do Ibovespa. Por volta das 11h50, os papéis subiam cerca de 11%, no patamar de R$ 13,61. O otimismo dos investidores veio após resultados do segundo trimestre de 2026 acima das expectativas, im"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Magalu (MGLU3): Fred Trajano dobra aposta nas lojas físicas e mira Amazon para reaquecer vendas online",
-   "url": "https://www.moneytimes.com.br/magalu-mglu3-fred-trajano-dobra-aposta-nas-lojas-fisicas-e-mira-amazon-para-reaquecer-vendas-online/",
-   "publicado": "2026-08-07T15:00:50+00:00",
-   "tickers": [
-    "MGLU3"
-   ],
-   "resumo": "O CEO do Magazine Luiza (MGLU3), Fred Trajano, aproveitou a teleconferência de resultados do segundo trimestre de 2026 (2T26) para reforçar que a companhia entrou em um novo ciclo estratégico, focado em duas frentes principais: fortalecer a liderança omnichannel com apoio de inte"
   },
   {
    "fonte": "InvestNews",
@@ -171,16 +322,6 @@
    "resumo": "Os títulos do Tesouro Direto voltam a recuar nesta sexta-feira (7), com destaque para os papéis atrelados à inflação, e caminham para encerrar em leve queda uma semana de vaivém. O movimento de alívio de hoje responde sobretudo ao exterior, depois que o relatório de emprego (\"pay"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "Por que as ações da Lojas Renner (LREN3) estão caindo mais de 12%? Entenda",
-   "url": "https://www.suno.com.br/noticias/lren3-renner-resultado-2t26-guidance-cortado-vendas-fracas-go/",
-   "publicado": "2026-08-07T14:35:05+00:00",
-   "tickers": [
-    "LREN3"
-   ],
-   "resumo": "As ações das Lojas Renner (LREN3) caíam mais de 12% na manhã desta sexta-feira (7), após a varejista divulgar resultados abaixo das expectativas no segundo trimestre de 2026 e cortar pela metade o intervalo de seu guidance de receita para o ano. Por volta das 10h50, as ações da L"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Em M&A na oncologia e em doenças raras, farmacêutica sueca Sobi assume 100% da Pint Pharma",
    "url": "https://investnews.com.br/negocios/oncologia-aquisicao-sobi-suecia/",
@@ -205,27 +346,6 @@
    "resumo": "A Petrobras teve lucro líquido de R$ 52,4 bilhões no segundo trimestre, quase o dobro do resultado de um ano antes"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "FII divulga dividendos com retorno de 1,27% ao mês",
-   "url": "https://www.suno.com.br/noticias/dividendos-do-rect11-julho-2026/",
-   "publicado": "2026-08-07T14:05:10+00:00",
-   "tickers": [
-    "RECT11"
-   ],
-   "resumo": "Os cotistas do fundo imobiliário RECT11 vão receber R$ 0,45 por cota em dividendos referentes a julho de 2026. O pagamento dos dividendos do RECT11 segue o cronograma do fundo para o período, mantendo as condições informadas ao mercado. O valor anunciado é isento de Imposto de Re"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Confira os FIIs que vão pagar dividendos nesta sexta-feira (7)",
-   "url": "https://www.suno.com.br/noticias/dividendos-hoje-fundos-imobiliarios-lista/",
-   "publicado": "2026-08-07T13:45:07+00:00",
-   "tickers": [
-    "HSML11",
-    "RZTR11"
-   ],
-   "resumo": "Quinze fundos imobiliários creditam rendimentos nesta sexta-feira aos cotistas. Entre os destaques, o RZTR11 pagará R$ 0,90 por cota e o HSML11 distribuirá R$ 0,75 no mesmo dia. Os investidores recebem os dividendos hoje diretamente na conta da corretora, sem necessidade de qualq"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Embraer negocia venda de jatos E2 para a maior companhia aérea da Índia",
    "url": "https://investnews.com.br/negocios/embraer-negocia-venda-de-jatos-regionais-para-a-maior-companhia-aerea-da-india/",
@@ -242,25 +362,18 @@
    "resumo": "O relatório de criação de empregos nos Estados Unidos (\"payroll\") divulgado nesta sexta (7) deu um giro nas expectativas do mercado em relação aos juros na maior economia do mundo. Até a divulgação, o mercado atribua 55% de probabilidade a uma alta de 0,25 ponto percentual em set"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "Petrobras (PETR4) anuncia proventos bilionários; veja valor por ação",
-   "url": "https://www.suno.com.br/noticias/petrobras-petr4-dividendos-jcp-r-17-bilhoes-2026-go/",
-   "publicado": "2026-08-07T12:25:08+00:00",
-   "tickers": [
-    "PETR4"
-   ],
-   "resumo": "A Petrobras (PETR4) anunciou nesta quinta-feira (6) o pagamento de R$ 17,4 bilhões em dividendos e juros sobre capital próprio (JCP) intercalares aos acionistas, como antecipação da remuneração referente ao exercício de 2026. O valor dos rendimentos da Petrobras equivale a R$ 1,3"
-  },
-  {
    "fonte": "Valor Investe",
-   "titulo": "Ibovespa e dólar caem após 'payroll', em meio a alta das bolsas de NY",
+   "titulo": "Ibovespa e dólar fecham em queda após 'payroll', em meio a alta das bolsas de NY",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/08/07/dolar-e-ibovespa-hoje-7-de-agosto-de-2026.ghtml",
    "publicado": "2026-08-07T12:04:42+00:00",
    "tickers": [
+    "ASAI3",
+    "LREN3",
+    "MGLU3",
     "PETR3",
     "PETR4"
    ],
-   "resumo": "Os mercados retomam, na reta final desta semana, o otimismo visto no início dela, após a divulgação do \"payroll\" com destruição de 23 mil postos de trabalho em julho e revisão para baixo de dados dos meses anteriores. O Ibovespa recua, com queda firme das ações da Petrobras (PETR"
+   "resumo": "Os mercados globais operaram em alta firme nesta sexta-feira (7), após dados mais fracos do mercado de trabalho dos Estados Unidos reduzirem as apostas em uma alta de juros pelo Federal Reserve (Fed) em setembro. O Ibovespa, principal índice da bolsa brasileira, porém, não acompa"
   },
   {
    "fonte": "Valor Investe",
@@ -293,16 +406,6 @@
    "publicado": "2026-08-07T11:36:31+00:00",
    "tickers": [],
    "resumo": "Família Porsche-Piëch pede que Volkswagen considere todas as opções para recuperar competitividade e apoia cortes de milhares de empregos"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Petrobras (PETR4) quase dobra lucro no 2T26 e supera estimativas; veja detalhes",
-   "url": "https://www.suno.com.br/noticias/petrobras-petr4-lucro-2t26-r52-bilhoes-supera-estimativas-go/",
-   "publicado": "2026-08-07T11:30:00+00:00",
-   "tickers": [
-    "PETR4"
-   ],
-   "resumo": "Petrobras (PETR4) quase dobra lucro no 2T26 e supera estimativas; veja detalhesA Petrobras (PETR4) registrou lucro líquido de R$ 52,4 bilhões no segundo trimestre de 2026, quase dobrando o resultado em relação ao mesmo período do ano anterior e superando as estimativas do mercado"
   },
   {
    "fonte": "Valor Investe",
@@ -412,42 +515,12 @@
    "resumo": "Disparada de quase 200% no preço do whey protein paralisou o processo de venda da Growth, maior fabricante de suplementos do Brasil"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "TRXF11: maior aquisição da história do FII em operação de R$ 2,13 bi",
-   "url": "https://www.suno.com.br/noticias/trxf11-maior-aquisicao-da-historia-do-fii-em-operacao-de-r-213-bi/",
-   "publicado": "2026-08-07T01:05:04+00:00",
-   "tickers": [
-    "TRXF11"
-   ],
-   "resumo": "O fundo imobiliário TRXF11 (TRX Real Estate) informou a maior operação de sua trajetória ao comprometer aproximadamente R$ 2,13 bilhões na aquisição de participação em dois fundos imobiliários sob gestão da Cy.Capital, plataforma do Grupo Cyrela. O negócio contempla cinco imóveis"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "HGRE11: emissão de até R$ 700 milhões para ampliar capacidade de investimentos",
-   "url": "https://www.suno.com.br/noticias/hgre11-emissao-de-ate-r-700-milhoes-para-ampliar-capacidade-de-investimentos/",
-   "publicado": "2026-08-07T00:15:04+00:00",
-   "tickers": [
-    "HGRE11"
-   ],
-   "resumo": "Os cotistas do fundo imobiliário HGRE11 (Pátria Escritórios) aprovaram a realização da 10ª emissão de cotas, autorizando uma oferta pública que poderá movimentar até R$ 700 milhões. A decisão foi tomada por consulta formal encerrada em 30 de julho e representa mais um passo na es"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Ninguém acerta as seis dezenas da Mega-Sena 3041, e prêmio vai a R$ 165 milhões; veja números sorteados",
    "url": "https://valorinveste.globo.com/loterias/noticia/2026/08/06/resultado-do-sorteio-da-mega-sena-3041-hoje-divulgado-veja-numeros-sorteados.ghtml",
    "publicado": "2026-08-07T00:02:16+00:00",
    "tickers": [],
    "resumo": "O resultado da Mega-Sena 3041 com prêmio de R$ 147,5 milhões foi divulgado nesta quinta-feira (6), em São Paulo, e ninguém acertou as seis dezenas. Com isso, o prêmio acumulou em R$ 165 milhões - o segundo maior do ano - para o sorteio de domingo (9).\nOs números sorteados foram: "
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Megaacordo da Tesla mostra expansão da energia renovável; SNEL11 atento aos movimentos",
-   "url": "https://www.suno.com.br/noticias/megaacordo-da-tesla-mostra-expansao-da-energia-renovavel-snel11-atento-aos-movimentos/",
-   "publicado": "2026-08-06T23:25:07+00:00",
-   "tickers": [
-    "SNEL11"
-   ],
-   "resumo": "O avanço dos investimentos em energia renovável segue acelerando no exterior, movimento observado de perto pelo fundo imobiliário SNEL11, focado em ativos de geração distribuída de energia solar no Brasil. O ritmo de novos projetos e contratos reforça a atratividade de longo praz"
   },
   {
    "fonte": "InvestNews",
@@ -732,22 +805,6 @@
    "resumo": "BOSTON – As eleições de midterm nos EUA começaram a tomar forma esta semana, quando alguns estados-chave foram às urnas definir quem serão os candidatos dos dois partidos em novembro. No Partido Democrata, os resultados escancaram a falta de rumo. À deriva desde a acachapante vit"
   },
   {
-   "fonte": "Brazil Journal",
-   "titulo": "No MASP, uma sucessão com tom de continuidade",
-   "url": "https://braziljournal.com/no-masp-uma-sucessao-com-tom-de-continuidade/",
-   "publicado": "2026-08-06T09:50:22+00:00",
-   "tickers": [],
-   "resumo": "O MASP anunciou que Flávia Almeida será a nova presidente do museu, sucedendo Heitor Martins, que estava no cargo há doze anos, e dando continuidade ao trabalho do grupo que fez o turnaround de um dos maiores museus da América Latina. Flávia já era a vice-presidente do MASP desde"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "Multilixo faz M&A de R$ 150 milhões e cresce fora de São Paulo",
-   "url": "https://braziljournal.com/multilixo-faz-ma-de-r-150-milhoes-e-cresce-fora-de-sao-paulo/",
-   "publicado": "2026-08-06T09:50:09+00:00",
-   "tickers": [],
-   "resumo": "O lixo segue valendo milhões. O Grupo Multilixo está comprando 100% da RCR Ambiental numa transação de R$ 150 milhões – a maior aquisição da empresa paulistana desde que foi fundada em 1996. A aquisição também é a 28ª da Multilixo desde que a companhia controlada pela família Uri"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Regularmente é chave",
    "url": "https://valorinveste.globo.com/blogs/vera-rita-de-mello-ferreira/coluna/regularmente-e-chave.ghtml",
@@ -780,36 +837,12 @@
    "resumo": "Todo mês aparece um número mais gordo pra contar a história da tokenização. Segundo o RWA.xyz, o volume de RWA onchain fora stablecoins triplicou em um ano e está hoje em mais de US$ 37 bilhões. No Brasil, dados do RWA Monitor mostram o primeiro semestre fechando em R$ 4,84 bilhõ"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Por que a Mattel continua presa ao corredor de brinquedos",
-   "url": "https://investnews.com.br/the-wall-street-journal/por-que-a-mattel-continua-presa-ao-corredor-de-brinquedos/",
-   "publicado": "2026-08-06T09:05:00+00:00",
-   "tickers": [],
-   "resumo": "A fabricante das bonecas Barbie e dos carrinhos Hot Wheels passa anos tentando se transformar em uma empresa de brinquedos e entretenimento"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Veja os investimentos de renda fixa mais recomendados para agosto",
    "url": "https://valorinveste.globo.com/credito-privado/noticia/2026/08/06/veja-os-investimentos-de-renda-fixa-mais-recomendados-para-agosto.ghtml",
    "publicado": "2026-08-06T09:00:13+00:00",
    "tickers": [],
    "resumo": "Quatro das principais casas de análise de investimentos do país — BB Investimentos, Itaú BBA, XP e BTG Pactual — divulgaram suas carteiras recomendadas de renda fixa para agosto com um recado em comum: a relação entre risco e retorno melhorou, mas o momento ainda pede cautela na "
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Irmã ‘low profile’ amplia negócios da família Batista com entrada em mineração para fertilizantes",
-   "url": "https://investnews.com.br/negocios/irma-batista-discreta-entra-mineracao/",
-   "publicado": "2026-08-06T09:00:00+00:00",
-   "tickers": [],
-   "resumo": "VL Holding, que reúne os negócios de Valére Batista e seus filhos, possui o controle da única mina de potássio em operação no Brasil"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "BC indica que cenário tem de piorar muito para não cortar a Selic em setembro, diz Solange Srour, do UBS",
-   "url": "https://investnews.com.br/investimentos/bc-corta-selic-de-novo-diz-srour/",
-   "publicado": "2026-08-06T09:00:00+00:00",
-   "tickers": [],
-   "resumo": "'Se Copom quisesse pausar, teria deixado claro', aponta economista ao InvestNews; mas tema fiscal vai se impor no próximo governo, diz"
   },
   {
    "fonte": "Valor Investe",
@@ -846,38 +879,6 @@
     "BBDC4"
    ],
    "resumo": "O Bradesco (BBDC4) teve lucro líquido recorrente de R$ 7 bilhões no segundo trimestre, 16,2% maior que o reportado no mesmo período do ano passado. O resultado ficou levemente acima da média das projeções dos analistas consultados pelo Valor, que apontavam ganho de R$ R$ 6,984 bi"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Brasil cai para terceiro lugar em ranking de países com maior juro real",
-   "url": "https://valorinveste.globo.com/mercados/moedas-e-juros/noticia/2026/08/05/brasil-cai-para-terceiro-lugar-em-ranking-de-paises-com-maior-juro-real.ghtml",
-   "publicado": "2026-08-05T21:35:01+00:00",
-   "tickers": [],
-   "resumo": "Da última reunião do Comitê de Política Monetária (Copom) do Banco Central para esta de hoje (5), em que a autoridade cortou os juros em 0,25 ponto percentual, de 14,25% para 14% ao ano, o Brasil caiu do primeiro para o terceiro lugar no ranking dos países com o maior juro real. "
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Veja como investir após corte da Selic para 14%",
-   "url": "https://valorinveste.globo.com/objetivo/hora-de-investir/noticia/2026/08/05/veja-como-investir-apos-corte-da-selic-para-14percent.ghtml",
-   "publicado": "2026-08-05T21:34:39+00:00",
-   "tickers": [],
-   "resumo": "Apesar de o Banco Central cortar os juros pela quarta vez e dos últimos indicadores de atividade econômica e inflação aumentarem a confiança de que a redução da Selic seguirá, a indicação dos especialistas é continuar cauteloso nos investimentos. Pensando em prazos abaixo de cinc"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Quanto rende R$ 1 mil em poupança, Tesouro Direto e CDB após corte da Selic para 14%",
-   "url": "https://valorinveste.globo.com/produtos/renda-fixa/noticia/2026/08/05/quanto-rende-r-1-mil-em-poupanca-tesouro-direto-e-cdb-apos-corte-da-selic-para-14percent.ghtml",
-   "publicado": "2026-08-05T21:34:19+00:00",
-   "tickers": [],
-   "resumo": "Nesta quarta-feira (5), o Comitê de Política Monetária (Copom) do Banco Central cortou os juros de referência, a taxa Selic, em 0,25 ponto percentual, de 14,25% para 14% ao ano. É a quarta redução consecutiva, do mesmo tamanho, e a decisão impacta de maneira prática a vida dos br"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Copom corta Selic em 0,25 ponto, a 14% ao ano",
-   "url": "https://valorinveste.globo.com/mercados/moedas-e-juros/noticia/2026/08/05/copom-corta-selic-em-025-ponto-a-14percent-ao-ano.ghtml",
-   "publicado": "2026-08-05T21:34:11+00:00",
-   "tickers": [],
-   "resumo": "O Comitê de Política Monetária (Copom) do Banco Central (BC) reduziu a meta para a taxa básica de juros (Selic) em 0,25 ponto nesta quarta-feira (5), levando a taxa de 14,25% para 14% ao ano, menor nível desde fevereiro de 2025. A decisão confirmou as apostas que ganharam força n"
   }
  ]
 }
