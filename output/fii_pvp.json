@@ -1,6 +1,6 @@
 {
  "fonte": "fii_pvp",
- "itens": 1347,
+ "itens": 1349,
  "dados": [
   {
    "cnpj": "00.332.266/0001-31",
@@ -145,9 +145,9 @@
   {
    "cnpj": "04.644.612/0001-78",
    "fundo": "STARK FUNDO DE INVESTIMENTO IMOBILIÁRIO-FII",
-   "patrimonio_liquido": 28527916.54,
+   "patrimonio_liquido": 28499071.57,
    "num_cotas": 2081002.66324455,
-   "vp_cota": 13.7087
+   "vp_cota": 13.6949
   },
   {
    "cnpj": "04.722.883/0001-02",
@@ -250,9 +250,9 @@
   {
    "cnpj": "08.696.175/0001-97",
    "fundo": "RB CAPITAL RENDA I FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
-   "patrimonio_liquido": 185148504.74,
+   "patrimonio_liquido": 185396155.2,
    "num_cotas": 927162.0,
-   "vp_cota": 199.6938
+   "vp_cota": 199.9609
   },
   {
    "cnpj": "08.706.065/0001-69",
@@ -271,9 +271,9 @@
   {
    "cnpj": "08.971.868/0001-40",
    "fundo": "FUNDO DE INVESTIMENTO IMOBILIÁRIO RIO GRANDE",
-   "patrimonio_liquido": 3796840.59,
+   "patrimonio_liquido": 3542400.51,
    "num_cotas": 27423.30802067,
-   "vp_cota": 138.453
+   "vp_cota": 129.1748
   },
   {
    "cnpj": "09.006.914/0001-34",
@@ -299,9 +299,9 @@
   {
    "cnpj": "09.276.964/0001-31",
    "fundo": "FII PLANNER 0418 - PROPERTY INVEST FII",
-   "patrimonio_liquido": 464782766.74,
+   "patrimonio_liquido": 464346395.25,
    "num_cotas": 1206868.34768904,
-   "vp_cota": 385.1147
+   "vp_cota": 384.7531
   },
   {
    "cnpj": "09.326.861/0001-39",
@@ -369,9 +369,9 @@
   {
    "cnpj": "10.991.914/0001-15",
    "fundo": "FUNDO DE INVESTIMENTO IMOBILIARIO CAIXA CEDAE",
-   "patrimonio_liquido": 108142835.91,
+   "patrimonio_liquido": 108187944.52,
    "num_cotas": 1712950.0,
-   "vp_cota": 63.1325
+   "vp_cota": 63.1588
   },
   {
    "cnpj": "11.044.355/0001-07",
@@ -460,16 +460,16 @@
   {
    "cnpj": "11.769.604/0001-13",
    "fundo": "FII PLANNER 2557 - GSFI FII",
-   "patrimonio_liquido": 1223710564.51,
-   "num_cotas": 96106665.9710736,
-   "vp_cota": 12.7328
+   "patrimonio_liquido": 1219824372.36,
+   "num_cotas": 96110102.7882761,
+   "vp_cota": 12.6919
   },
   {
    "cnpj": "11.827.568/0001-05",
    "fundo": "INCENTIVO FUNDO DE INVESTIMENTO IMOBILIÁRIO-FII",
-   "patrimonio_liquido": 52096507.27,
+   "patrimonio_liquido": 52377930.4,
    "num_cotas": 37122134.4905246,
-   "vp_cota": 1.4034
+   "vp_cota": 1.411
   },
   {
    "cnpj": "11.839.593/0001-09",
@@ -537,9 +537,9 @@
   {
    "cnpj": "12.811.222/0001-73",
    "fundo": "FII PLANNER 2481 - FII OAR",
-   "patrimonio_liquido": 15236798.25,
+   "patrimonio_liquido": 15216721.42,
    "num_cotas": 130657.83128704,
-   "vp_cota": 116.616
+   "vp_cota": 116.4624
   },
   {
    "cnpj": "12.887.506/0001-43",
@@ -565,9 +565,9 @@
   {
    "cnpj": "12.989.974/0001-29",
    "fundo": "CAIXA FUNDO DE INVESTIMENTO IMOBILIARIO PORTO MARAVILHA",
-   "patrimonio_liquido": 6924556206.66,
+   "patrimonio_liquido": 6926790721.66,
    "num_cotas": 4735662339.00747,
-   "vp_cota": 1.4622
+   "vp_cota": 1.4627
   },
   {
    "cnpj": "13.000.836/0001-38",
@@ -635,9 +635,9 @@
   {
    "cnpj": "13.555.918/0001-49",
    "fundo": "AQUILLA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-   "patrimonio_liquido": 111878236.57,
+   "patrimonio_liquido": 111714708.33,
    "num_cotas": 145817.99700065,
-   "vp_cota": 767.2457
+   "vp_cota": 766.1243
   },
   {
    "cnpj": "13.584.584/0001-31",
@@ -677,9 +677,9 @@
   {
    "cnpj": "13.920.018/0001-53",
    "fundo": "FII PLANNER 2478 - CICA JUNDIAI FII",
-   "patrimonio_liquido": 82839402.77,
+   "patrimonio_liquido": 82604527.43,
    "num_cotas": 40501.13111128,
-   "vp_cota": 2045.3602
+   "vp_cota": 2039.561
   },
   {
    "cnpj": "13.974.819/0001-00",
@@ -768,9 +768,9 @@
   {
    "cnpj": "14.631.148/0001-39",
    "fundo": "HAZ FUNDO DE INVESTIMENTO IMOBILIARIO",
-   "patrimonio_liquido": 69050157.07,
+   "patrimonio_liquido": 68965403.04,
    "num_cotas": 928908.19633869,
-   "vp_cota": 74.3347
+   "vp_cota": 74.2435
   },
   {
    "cnpj": "14.721.889/0001-00",
@@ -824,9 +824,9 @@
   {
    "cnpj": "15.348.117/0001-38",
    "fundo": "FII PLANNER 2472 - SUCESS FII",
-   "patrimonio_liquido": 100906481.25,
+   "patrimonio_liquido": 100662380.16,
    "num_cotas": 1000.5181519,
-   "vp_cota": 100854.2234
+   "vp_cota": 100610.2488
   },
   {
    "cnpj": "15.447.108/0001-02",
@@ -845,9 +845,9 @@
   {
    "cnpj": "15.461.076/0001-91",
    "fundo": "FUNDO DE INVESTIMENTO IMOBILIÁRIO BR HOTÉIS",
-   "patrimonio_liquido": 107881171.14,
+   "patrimonio_liquido": 107791308.5,
    "num_cotas": 1841677.0,
-   "vp_cota": 58.5777
+   "vp_cota": 58.5289
   },
   {
    "cnpj": "15.463.207/0001-70",
@@ -901,9 +901,9 @@
   {
    "cnpj": "16.543.270/0001-89",
    "fundo": "SÃO DOMINGOS FUNDO DE INVESTIMENTO IMOBILIARIO- FII",
-   "patrimonio_liquido": 16226824.53,
+   "patrimonio_liquido": 16099591.67,
    "num_cotas": 1072588.3504721,
-   "vp_cota": 15.1287
+   "vp_cota": 15.01
   },
   {
    "cnpj": "16.671.412/0001-93",
@@ -1041,9 +1041,9 @@
   {
    "cnpj": "17.374.696/0001-19",
    "fundo": "FII PLANNER 2553 - LABINA MULTI ATIVOS FII RL",
-   "patrimonio_liquido": 550560743.88,
+   "patrimonio_liquido": 544408209.32,
    "num_cotas": 5280066.24543441,
-   "vp_cota": 104.2716
+   "vp_cota": 103.1063
   },
   {
    "cnpj": "17.554.274/0001-25",
@@ -1202,9 +1202,9 @@
   {
    "cnpj": "18.874.965/0001-79",
    "fundo": "CIDADE FUNDO DE INVESTIEMNTO IMOBILIÁRIO - FII",
-   "patrimonio_liquido": 170035919.57,
+   "patrimonio_liquido": 169932377.1,
    "num_cotas": 166750.0,
-   "vp_cota": 1019.7057
+   "vp_cota": 1019.0847
   },
   {
    "cnpj": "18.929.353/0001-36",
@@ -1328,9 +1328,9 @@
   {
    "cnpj": "20.118.470/0001-61",
    "fundo": "CASPER FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
-   "patrimonio_liquido": 874405168.04,
+   "patrimonio_liquido": 884629250.66,
    "num_cotas": 6105.06389668,
-   "vp_cota": 143226.2107
+   "vp_cota": 144900.8996
   },
   {
    "cnpj": "20.118.492/0001-21",
@@ -1342,9 +1342,9 @@
   {
    "cnpj": "20.118.507/0001-51",
    "fundo": "CEDRO - FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
-   "patrimonio_liquido": 101878332.49,
+   "patrimonio_liquido": 101936711.24,
    "num_cotas": 30411.46817762,
-   "vp_cota": 3349.9972
+   "vp_cota": 3351.9168
   },
   {
    "cnpj": "20.132.453/0001-89",
@@ -1503,9 +1503,9 @@
   {
    "cnpj": "22.081.808/0001-83",
    "fundo": "BRAZIL PROPERTIES FII",
-   "patrimonio_liquido": 68562900.93,
+   "patrimonio_liquido": 68382036.64,
    "num_cotas": 1635.77,
-   "vp_cota": 41914.7563
+   "vp_cota": 41804.188
   },
   {
    "cnpj": "22.169.671/0001-13",
@@ -1552,9 +1552,9 @@
   {
    "cnpj": "22.503.991/0001-68",
    "fundo": "FII PLANNER 2397 - OPORTUNIDADE I FII",
-   "patrimonio_liquido": 7407024.76,
+   "patrimonio_liquido": 7392739.89,
    "num_cotas": 431877.89833141,
-   "vp_cota": 17.1507
+   "vp_cota": 17.1177
   },
   {
    "cnpj": "22.646.161/0001-90",
@@ -1573,9 +1573,9 @@
   {
    "cnpj": "23.120.006/0001-06",
    "fundo": "FUNDO DE INVESTIMENTO IMOBILIÁRIO CONTAGEM BTS - FII",
-   "patrimonio_liquido": 12531566.61,
+   "patrimonio_liquido": 12504067.44,
    "num_cotas": 454179.4301,
-   "vp_cota": 27.5917
+   "vp_cota": 27.5311
   },
   {
    "cnpj": "23.120.027/0001-13",
@@ -1734,9 +1734,9 @@
   {
    "cnpj": "24.976.492/0001-13",
    "fundo": "FII PLANNER 3731 - IRON CAPITAL REAL ESTATE I FII RL",
-   "patrimonio_liquido": 482655019.47,
+   "patrimonio_liquido": 482309362.8,
    "num_cotas": 11084.44757127,
-   "vp_cota": 43543.4438
+   "vp_cota": 43512.2598
   },
   {
    "cnpj": "25.032.881/0001-53",
@@ -1776,9 +1776,9 @@
   {
    "cnpj": "26.452.179/0001-01",
    "fundo": "FII PLANNER 2593 - VIRACONDO FII",
-   "patrimonio_liquido": 40958651.42,
+   "patrimonio_liquido": 39544367.06,
    "num_cotas": 28762400.930483,
-   "vp_cota": 1.424
+   "vp_cota": 1.3749
   },
   {
    "cnpj": "26.499.833/0001-32",
@@ -1909,9 +1909,9 @@
   {
    "cnpj": "27.539.651/0001-00",
    "fundo": "FII PLANNER 2410 - TRADE INVEST CARE II FII",
-   "patrimonio_liquido": 143618499.71,
-   "num_cotas": 30727.97916648,
-   "vp_cota": 4673.8674
+   "patrimonio_liquido": 143601085.7,
+   "num_cotas": 30730.43332326,
+   "vp_cota": 4672.9275
   },
   {
    "cnpj": "27.590.950/0001-70",
@@ -1944,9 +1944,9 @@
   {
    "cnpj": "27.882.272/0001-19",
    "fundo": "FII PLANNER 3572 - NPP FII RL",
-   "patrimonio_liquido": 10454848.43,
+   "patrimonio_liquido": 10445073.94,
    "num_cotas": 10550.0,
-   "vp_cota": 990.9809
+   "vp_cota": 990.0544
   },
   {
    "cnpj": "28.108.193/0001-18",
@@ -1972,9 +1972,9 @@
   {
    "cnpj": "28.267.530/0001-10",
    "fundo": "FII PLANNER 2405 - SABUGAL FII",
-   "patrimonio_liquido": 6044622.71,
+   "patrimonio_liquido": 6528391.0,
    "num_cotas": 3563.71907325,
-   "vp_cota": 1696.1558
+   "vp_cota": 1831.9039
   },
   {
    "cnpj": "28.267.555/0001-13",
@@ -2651,9 +2651,9 @@
   {
    "cnpj": "33.701.887/0001-02",
    "fundo": "INTRABANK FUNDO DE INVESTIMENTO IMOBILIÁRIO RL",
-   "patrimonio_liquido": 37693237.93,
-   "num_cotas": 52936.98256971,
-   "vp_cota": 712.0398
+   "patrimonio_liquido": 58749347.86,
+   "num_cotas": 82524.06819137,
+   "vp_cota": 711.9056
   },
   {
    "cnpj": "33.842.871/0001-01",
@@ -2735,9 +2735,9 @@
   {
    "cnpj": "34.509.007/0001-55",
    "fundo": "FII PLANNER 2467 - FII JAPURA",
-   "patrimonio_liquido": 100988871.62,
+   "patrimonio_liquido": 101018366.11,
    "num_cotas": 772497.18065818,
-   "vp_cota": 130.7304
+   "vp_cota": 130.7686
   },
   {
    "cnpj": "34.547.078/0001-42",
@@ -3041,6 +3041,13 @@
    "vp_cota": 0.5542
   },
   {
+   "cnpj": "35.940.506/0001-65",
+   "fundo": "PLATINIUM XXI FUNDO DE INVESTIMENTO IMOBILIÁRIO RESP LTDA",
+   "patrimonio_liquido": 1081003.47,
+   "num_cotas": 4735033.4849888,
+   "vp_cota": 0.2283
+  },
+  {
    "cnpj": "36.098.375/0001-83",
    "fundo": "BTSP I FUNDO DE INVESTIMENTO IMOBILIÁRIO",
    "patrimonio_liquido": 121009308.49,
@@ -3155,9 +3162,9 @@
   {
    "cnpj": "36.501.210/0001-00",
    "fundo": "BARRA MALLS FUNDO DE INVESTIMENTO IMOBILIARIO",
-   "patrimonio_liquido": 167556921.11,
+   "patrimonio_liquido": 165882074.88,
    "num_cotas": 1134132.23495008,
-   "vp_cota": 147.7402
+   "vp_cota": 146.2634
   },
   {
    "cnpj": "36.501.233/0001-15",
@@ -3330,9 +3337,9 @@
   {
    "cnpj": "37.180.091/0001-02",
    "fundo": "BB FUNDO DE FUNDOS - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-   "patrimonio_liquido": 287294548.98,
+   "patrimonio_liquido": 281341316.72,
    "num_cotas": 4003900.0,
-   "vp_cota": 71.7537
+   "vp_cota": 70.2668
   },
   {
    "cnpj": "37.262.531/0001-62",
@@ -3365,9 +3372,9 @@
   {
    "cnpj": "37.295.952/0001-90",
    "fundo": "FII PLANNER 2461 - FBV KEYDEV FII",
-   "patrimonio_liquido": 76679571.18,
+   "patrimonio_liquido": 82512537.05,
    "num_cotas": 22209.73665742,
-   "vp_cota": 3452.5205
+   "vp_cota": 3715.1515
   },
   {
    "cnpj": "37.433.832/0001-01",
@@ -3512,9 +3519,9 @@
   {
    "cnpj": "39.583.723/0001-04",
    "fundo": "BII VENTURA FUNDO DE INVESTIMENTO IMOBIIÁRIO - FII",
-   "patrimonio_liquido": 122424696.02,
+   "patrimonio_liquido": 122095459.6,
    "num_cotas": 39800.4630333,
-   "vp_cota": 3075.9616
+   "vp_cota": 3067.6894
   },
   {
    "cnpj": "39.591.218/0001-01",
@@ -3624,9 +3631,9 @@
   {
    "cnpj": "40.063.899/0001-06",
    "fundo": "FII DESENVOLVIMENTO I MODALMAIS",
-   "patrimonio_liquido": 139253451.59,
+   "patrimonio_liquido": 135271712.69,
    "num_cotas": 96627.07976736,
-   "vp_cota": 1441.1431
+   "vp_cota": 1399.9358
   },
   {
    "cnpj": "40.067.483/0001-66",
@@ -3645,9 +3652,9 @@
   {
    "cnpj": "40.189.596/0001-34",
    "fundo": "FUNDO DE INVESTIMENTO IMOBILIÁRIO CAIXA AGENCIAS",
-   "patrimonio_liquido": 231483695.48,
+   "patrimonio_liquido": 216204707.25,
    "num_cotas": 2090621.0,
-   "vp_cota": 110.7248
+   "vp_cota": 103.4165
   },
   {
    "cnpj": "40.225.262/0001-79",
@@ -3659,9 +3666,9 @@
   {
    "cnpj": "40.346.049/0001-15",
    "fundo": "GREEN LOG FI IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-   "patrimonio_liquido": 407789805.2,
+   "patrimonio_liquido": 407657194.06,
    "num_cotas": 3384680.0,
-   "vp_cota": 120.4811
+   "vp_cota": 120.4419
   },
   {
    "cnpj": "40.414.001/0001-05",
@@ -3669,6 +3676,13 @@
    "patrimonio_liquido": 57169454.21,
    "num_cotas": 57500000.0,
    "vp_cota": 0.9943
+  },
+  {
+   "cnpj": "40.502.694/0001-80",
+   "fundo": "SPE FEE RE I FII",
+   "patrimonio_liquido": 76629941.6,
+   "num_cotas": 54165872.0,
+   "vp_cota": 1.4147
   },
   {
    "cnpj": "40.575.940/0001-23",
@@ -3680,9 +3694,9 @@
   {
    "cnpj": "40.837.664/0001-24",
    "fundo": "FII PLANNER 2400 - LOG IND FII",
-   "patrimonio_liquido": 23626213.63,
-   "num_cotas": 876.67219126,
-   "vp_cota": 26949.8837
+   "patrimonio_liquido": 23620798.91,
+   "num_cotas": 876.28101353,
+   "vp_cota": 26955.7351
   },
   {
    "cnpj": "40.886.241/0001-02",
@@ -3932,9 +3946,9 @@
   {
    "cnpj": "41.776.296/0001-14",
    "fundo": "LUCERNA FUNDO DE INVESTIMENTO IMOBILIÁRIOS",
-   "patrimonio_liquido": 68572858.4,
+   "patrimonio_liquido": 68548575.56,
    "num_cotas": 112381.23519944,
-   "vp_cota": 610.1807
+   "vp_cota": 609.9646
   },
   {
    "cnpj": "41.778.415/0001-78",
@@ -3960,16 +3974,16 @@
   {
    "cnpj": "41.833.876/0001-04",
    "fundo": "BRASIS FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-   "patrimonio_liquido": 73357005.86,
+   "patrimonio_liquido": 75291391.85,
    "num_cotas": 119588.66729111,
-   "vp_cota": 613.411
+   "vp_cota": 629.5863
   },
   {
    "cnpj": "41.969.521/0001-39",
    "fundo": "EVORIS FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-   "patrimonio_liquido": 56542525.4,
+   "patrimonio_liquido": 48860813.76,
    "num_cotas": 51228.92725143,
-   "vp_cota": 1103.7226
+   "vp_cota": 953.7739
   },
   {
    "cnpj": "41.969.537/0001-41",
@@ -4002,9 +4016,9 @@
   {
    "cnpj": "42.031.201/0001-04",
    "fundo": "FII PLANNER 0407 - INSTANT RENDA URBANA",
-   "patrimonio_liquido": 150496016.67,
-   "num_cotas": 617560.91118915,
-   "vp_cota": 243.6942
+   "patrimonio_liquido": 71723854.01,
+   "num_cotas": 471681.36150225,
+   "vp_cota": 152.06
   },
   {
    "cnpj": "42.066.916/0001-94",
@@ -4268,9 +4282,9 @@
   {
    "cnpj": "43.101.312/0001-02",
    "fundo": "FII PLANNER 2837 - MEIRINGEN FII",
-   "patrimonio_liquido": 391172621.19,
+   "patrimonio_liquido": 391078641.83,
    "num_cotas": 31432981.1116456,
-   "vp_cota": 12.4447
+   "vp_cota": 12.4417
   },
   {
    "cnpj": "43.164.799/0001-64",
@@ -4310,9 +4324,9 @@
   {
    "cnpj": "43.619.174/0001-40",
    "fundo": "GRANBRAVA FUNDO DE INVESTIMENTO IMOBILIÁRIO RL",
-   "patrimonio_liquido": 12112822.52,
+   "patrimonio_liquido": 18887172.41,
    "num_cotas": 19608.19180154,
-   "vp_cota": 617.743
+   "vp_cota": 963.2287
   },
   {
    "cnpj": "43.619.218/0001-31",
@@ -4324,9 +4338,9 @@
   {
    "cnpj": "43.671.250/0001-66",
    "fundo": "FII PLANNER 3464 - LAGUNA FII",
-   "patrimonio_liquido": 119374407.7,
+   "patrimonio_liquido": 119304767.64,
    "num_cotas": 60264.0,
-   "vp_cota": 1980.8577
+   "vp_cota": 1979.7021
   },
   {
    "cnpj": "43.671.358/0001-59",
@@ -4366,9 +4380,9 @@
   {
    "cnpj": "43.790.197/0001-12",
    "fundo": "FII PLANNER 3570 - NOVO CAMPO FII RL",
-   "patrimonio_liquido": 58663307.28,
+   "patrimonio_liquido": 58629143.01,
    "num_cotas": 52800.0,
-   "vp_cota": 1111.0475
+   "vp_cota": 1110.4004
   },
   {
    "cnpj": "43.862.625/0001-75",
@@ -4499,16 +4513,16 @@
   {
    "cnpj": "44.584.965/0001-44",
    "fundo": "FOCO FUNDO DE INVESTIMENTO IMOBILIARIO",
-   "patrimonio_liquido": 11220660.93,
-   "num_cotas": 6545463.96874579,
-   "vp_cota": 1.7143
+   "patrimonio_liquido": 11220117.36,
+   "num_cotas": 6588766.03399674,
+   "vp_cota": 1.7029
   },
   {
    "cnpj": "44.585.121/0001-18",
    "fundo": "ASSET BANK - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-   "patrimonio_liquido": 10267400.57,
-   "num_cotas": 21814.06939523,
-   "vp_cota": 470.6779
+   "patrimonio_liquido": 10468804.99,
+   "num_cotas": 22262.37371229,
+   "vp_cota": 470.2466
   },
   {
    "cnpj": "44.625.562/0001-04",
@@ -4569,9 +4583,9 @@
   {
    "cnpj": "44.683.052/0001-85",
    "fundo": "FUNDO DE INVESTIMENTO IMOBILIARIO ALUMIE - FII",
-   "patrimonio_liquido": 7245966.08,
-   "num_cotas": 14769.48639315,
-   "vp_cota": 490.6038
+   "patrimonio_liquido": 7244385.66,
+   "num_cotas": 14837.4299709,
+   "vp_cota": 488.2507
   },
   {
    "cnpj": "44.705.818/0001-85",
@@ -4709,9 +4723,9 @@
   {
    "cnpj": "45.254.732/0001-46",
    "fundo": "FII POXIM RL",
-   "patrimonio_liquido": 89461142.91,
+   "patrimonio_liquido": 89123426.08,
    "num_cotas": 743600.00000169,
-   "vp_cota": 120.3082
+   "vp_cota": 119.854
   },
   {
    "cnpj": "45.338.646/0001-11",
@@ -4828,9 +4842,9 @@
   {
    "cnpj": "46.965.606/0001-62",
    "fundo": "FII PLANNER 2412 - PEDRA ALTA FII",
-   "patrimonio_liquido": 13198087.7,
-   "num_cotas": 24022.01879176,
-   "vp_cota": 549.4163
+   "patrimonio_liquido": 12654997.45,
+   "num_cotas": 24021.99499214,
+   "vp_cota": 526.8088
   },
   {
    "cnpj": "47.085.640/0001-05",
@@ -4870,9 +4884,9 @@
   {
    "cnpj": "47.669.336/0001-05",
    "fundo": "FG DEVELOPER INVESTIMENTOS FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-   "patrimonio_liquido": 19753501.7,
-   "num_cotas": 30177.71755206,
-   "vp_cota": 654.5724
+   "patrimonio_liquido": 19691851.17,
+   "num_cotas": 30200.64423215,
+   "vp_cota": 652.0341
   },
   {
    "cnpj": "47.669.545/0001-59",
@@ -4912,9 +4926,9 @@
   {
    "cnpj": "48.904.259/0001-93",
    "fundo": "FII PLANNER 3602 - CARFAN FII RESP LIMITADA",
-   "patrimonio_liquido": 17217959.09,
-   "num_cotas": 15604.0,
-   "vp_cota": 1103.4324
+   "patrimonio_liquido": 17212553.24,
+   "num_cotas": 15612.16171626,
+   "vp_cota": 1102.5093
   },
   {
    "cnpj": "48.916.699/0001-60",
@@ -4954,9 +4968,9 @@
   {
    "cnpj": "48.978.797/0001-22",
    "fundo": "FII PLANNER 3470 - MENESCAL FII RL",
-   "patrimonio_liquido": 18789234.53,
+   "patrimonio_liquido": 18773939.27,
    "num_cotas": 21237.0,
-   "vp_cota": 884.7405
+   "vp_cota": 884.0203
   },
   {
    "cnpj": "48.978.859/0001-04",
@@ -5122,9 +5136,9 @@
   {
    "cnpj": "50.375.550/0001-63",
    "fundo": "FII PLANNER 2422 - FII ARANDU AUCTION OPPORTUNITIES",
-   "patrimonio_liquido": 6499686.87,
+   "patrimonio_liquido": 6451834.97,
    "num_cotas": 1683103.4131795,
-   "vp_cota": 3.8617
+   "vp_cota": 3.8333
   },
   {
    "cnpj": "50.385.179/0001-10",
@@ -5297,8 +5311,8 @@
   {
    "cnpj": "51.303.221/0001-70",
    "fundo": "THOR FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-   "patrimonio_liquido": 7013211.24,
-   "num_cotas": 674369124003991.0,
+   "patrimonio_liquido": 7013676.92,
+   "num_cotas": 676069124003991.0,
    "vp_cota": 0.0
   },
   {
@@ -5486,9 +5500,9 @@
   {
    "cnpj": "51.991.587/0001-89",
    "fundo": "BTW 001 FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-   "patrimonio_liquido": 207990842.77,
-   "num_cotas": 212311.81667939,
-   "vp_cota": 979.648
+   "patrimonio_liquido": 209543160.03,
+   "num_cotas": 213842.31361001,
+   "vp_cota": 979.8957
   },
   {
    "cnpj": "51.991.713/0001-03",
@@ -5598,9 +5612,9 @@
   {
    "cnpj": "52.366.833/0001-74",
    "fundo": "CODEMAR FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-   "patrimonio_liquido": 130187796.79,
+   "patrimonio_liquido": 129567887.87,
    "num_cotas": 125637170.563782,
-   "vp_cota": 1.0362
+   "vp_cota": 1.0313
   },
   {
    "cnpj": "52.371.756/0001-40",
@@ -5836,9 +5850,9 @@
   {
    "cnpj": "53.249.951/0001-65",
    "fundo": "FII PLANNER 2450 - ESPANHOL FII",
-   "patrimonio_liquido": 33819553.65,
+   "patrimonio_liquido": 33744982.53,
    "num_cotas": 29575.79443786,
-   "vp_cota": 1143.4876
+   "vp_cota": 1140.9662
   },
   {
    "cnpj": "53.250.967/0001-98",
@@ -5857,16 +5871,16 @@
   {
    "cnpj": "53.251.715/0001-83",
    "fundo": "FII PLANNER 2477 - SGON FII",
-   "patrimonio_liquido": 33787486.07,
+   "patrimonio_liquido": 33724482.84,
    "num_cotas": 29575.79277546,
-   "vp_cota": 1142.4034
+   "vp_cota": 1140.2732
   },
   {
    "cnpj": "53.251.882/0001-24",
    "fundo": "FII PLANNER 2473 - TCG FII",
-   "patrimonio_liquido": 33632012.39,
+   "patrimonio_liquido": 33543126.73,
    "num_cotas": 29575.79783878,
-   "vp_cota": 1137.1464
+   "vp_cota": 1134.1411
   },
   {
    "cnpj": "53.260.548/0001-37",
@@ -6046,9 +6060,9 @@
   {
    "cnpj": "54.045.925/0001-88",
    "fundo": "FII PLANNER 2687 - SUNNY FII",
-   "patrimonio_liquido": 12305607.45,
-   "num_cotas": 17048.49278552,
-   "vp_cota": 721.8003
+   "patrimonio_liquido": 14719426.48,
+   "num_cotas": 20582.54097193,
+   "vp_cota": 715.1414
   },
   {
    "cnpj": "54.064.962/0001-33",
@@ -6130,9 +6144,9 @@
   {
    "cnpj": "54.375.187/0001-37",
    "fundo": "BB PREMIUM MALLS FII DE RESPONSABILIDADE LIMITADA",
-   "patrimonio_liquido": 973312907.83,
+   "patrimonio_liquido": 970733277.39,
    "num_cotas": 99120994.0,
-   "vp_cota": 9.8194
+   "vp_cota": 9.7934
   },
   {
    "cnpj": "54.386.365/0001-25",
@@ -6151,9 +6165,9 @@
   {
    "cnpj": "54.419.040/0001-00",
    "fundo": "JMP FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-   "patrimonio_liquido": 11603664.16,
-   "num_cotas": 7722.31017602,
-   "vp_cota": 1502.6157
+   "patrimonio_liquido": 12033066.54,
+   "num_cotas": 8010.18342662,
+   "vp_cota": 1502.2211
   },
   {
    "cnpj": "54.422.883/0001-57",
@@ -6249,9 +6263,9 @@
   {
    "cnpj": "54.675.539/0001-70",
    "fundo": "FII PLANNER 2392 - FRANCORCHAMPS FII",
-   "patrimonio_liquido": 72548454.87,
+   "patrimonio_liquido": 65479570.41,
    "num_cotas": 202951.96785482,
-   "vp_cota": 357.4661
+   "vp_cota": 322.6358
   },
   {
    "cnpj": "54.698.848/0001-65",
@@ -6375,9 +6389,9 @@
   {
    "cnpj": "55.435.378/0001-00",
    "fundo": "AURORA RENDA RESIDENCIAL FII - RL",
-   "patrimonio_liquido": 24978602.61,
+   "patrimonio_liquido": 24860447.93,
    "num_cotas": 28644.54089,
-   "vp_cota": 872.0197
+   "vp_cota": 867.8948
   },
   {
    "cnpj": "55.611.150/0001-23",
@@ -6486,10 +6500,10 @@
   },
   {
    "cnpj": "56.028.598/0001-81",
-   "fundo": "ALEGRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESP ILIMITADA",
-   "patrimonio_liquido": 19604130.89,
-   "num_cotas": 39288.42829945,
-   "vp_cota": 498.9798
+   "fundo": "FII PLANNER 3893 - ALEGRIA FII RP LM",
+   "patrimonio_liquido": 20799288.48,
+   "num_cotas": 39288.42811701,
+   "vp_cota": 529.3999
   },
   {
    "cnpj": "56.053.824/0001-84",
@@ -6515,9 +6529,9 @@
   {
    "cnpj": "56.174.611/0001-00",
    "fundo": "FII PLANNER 0414 - SHOPPING TOTALBRAS E NEWMALL",
-   "patrimonio_liquido": 254990279.43,
+   "patrimonio_liquido": 256222435.93,
    "num_cotas": 110038.34264221,
-   "vp_cota": 2317.2857
+   "vp_cota": 2328.4832
   },
   {
    "cnpj": "56.191.016/0001-83",
@@ -6578,9 +6592,9 @@
   {
    "cnpj": "56.883.420/0001-18",
    "fundo": "FUNDO DE INVESTIMENTO IMOBILIÁRIO ZION CEMITÉRIOS RL",
-   "patrimonio_liquido": 1072470.86,
+   "patrimonio_liquido": 1034932.33,
    "num_cotas": 1033.34952145,
-   "vp_cota": 1037.8588
+   "vp_cota": 1001.5317
   },
   {
    "cnpj": "56.978.773/0001-00",
@@ -6627,9 +6641,9 @@
   {
    "cnpj": "57.136.514/0001-96",
    "fundo": "FII NOVUS DESENVOLVIMENTO URBANO RL",
-   "patrimonio_liquido": 8644354.39,
+   "patrimonio_liquido": 8762258.51,
    "num_cotas": 76723.0,
-   "vp_cota": 112.6697
+   "vp_cota": 114.2064
   },
   {
    "cnpj": "57.170.846/0001-97",
@@ -6879,9 +6893,9 @@
   {
    "cnpj": "58.054.129/0001-62",
    "fundo": "FII PLANNER 3478 - LUMINI FII",
-   "patrimonio_liquido": 38914089.46,
+   "patrimonio_liquido": 38912459.42,
    "num_cotas": 3672.0,
-   "vp_cota": 10597.5189
+   "vp_cota": 10597.075
   },
   {
    "cnpj": "58.099.321/0001-75",
@@ -7103,9 +7117,9 @@
   {
    "cnpj": "58.580.017/0001-45",
    "fundo": "THE SPOT ONE FUNDO DE INVESTIMENTO IMOBILIÁRIO",
-   "patrimonio_liquido": 61004107.44,
+   "patrimonio_liquido": 60940771.2,
    "num_cotas": 127311.80566068,
-   "vp_cota": 479.1709
+   "vp_cota": 478.6734
   },
   {
    "cnpj": "58.643.797/0001-25",
@@ -7558,9 +7572,9 @@
   {
    "cnpj": "61.248.346/0001-06",
    "fundo": "FUNDO DE INVESTIMENTO IMOBILIARIO AQUARIUM",
-   "patrimonio_liquido": 1843131.84,
+   "patrimonio_liquido": 2310756.59,
    "num_cotas": 1913823.46862915,
-   "vp_cota": 0.9631
+   "vp_cota": 1.2074
   },
   {
    "cnpj": "61.250.889/0001-50",
@@ -7579,9 +7593,9 @@
   {
    "cnpj": "61.272.053/0001-56",
    "fundo": "QI RL2 FUNDO DE INVESTIMENTO IMOBILIÁRIO RL",
-   "patrimonio_liquido": 9255899.55,
+   "patrimonio_liquido": 9264914.0,
    "num_cotas": 102016.6290789,
-   "vp_cota": 90.7293
+   "vp_cota": 90.8177
   },
   {
    "cnpj": "61.272.325/0001-18",
@@ -7971,9 +7985,9 @@
   {
    "cnpj": "62.385.601/0001-17",
    "fundo": "ASHER FUNDO DE INVESTIMENTO IMOBILIÁRIO RESP LIM",
-   "patrimonio_liquido": 20515389.38,
+   "patrimonio_liquido": 22463578.69,
    "num_cotas": 13314.9746,
-   "vp_cota": 1540.7757
+   "vp_cota": 1687.0914
   },
   {
    "cnpj": "62.429.810/0001-15",
@@ -8083,9 +8097,9 @@
   {
    "cnpj": "62.754.323/0001-28",
    "fundo": "SIGA SPECIAL SITUATIONS FUNDO DE INVEST IMOB- S3FII",
-   "patrimonio_liquido": 12146278.64,
-   "num_cotas": 405273.26,
-   "vp_cota": 29.9706
+   "patrimonio_liquido": 12441998.35,
+   "num_cotas": 416631.80679324,
+   "vp_cota": 29.8633
   },
   {
    "cnpj": "62.805.438/0001-02",
@@ -8167,9 +8181,9 @@
   {
    "cnpj": "62.959.750/0001-42",
    "fundo": "BRIO MULTIFAMILY FUNDO DE INVESTIMENTO IMOBILIÁRIO RESP LIM",
-   "patrimonio_liquido": 113897571.18,
+   "patrimonio_liquido": 113813164.9,
    "num_cotas": 1159297.12518906,
-   "vp_cota": 98.2471
+   "vp_cota": 98.1743
   },
   {
    "cnpj": "62.962.772/0001-61",
@@ -8650,16 +8664,16 @@
   {
    "cnpj": "63.879.307/0001-24",
    "fundo": "FII PLANNER 3472 - MASSARO FII RP LM",
-   "patrimonio_liquido": 4782081.42,
-   "num_cotas": 4866.0,
-   "vp_cota": 982.7541
+   "patrimonio_liquido": 4772999.18,
+   "num_cotas": 4875.1718439,
+   "vp_cota": 979.0422
   },
   {
    "cnpj": "63.879.740/0001-60",
    "fundo": "FII PLANNER 3474 - ZAMOR FII RP LM",
-   "patrimonio_liquido": 136259534.51,
+   "patrimonio_liquido": 136182532.34,
    "num_cotas": 136716.0,
-   "vp_cota": 996.6612
+   "vp_cota": 996.098
   },
   {
    "cnpj": "63.918.369/0001-06",
@@ -8818,9 +8832,9 @@
   {
    "cnpj": "64.280.202/0001-17",
    "fundo": "COTINGUIBA FUNDO DE INVESTIMENTO IMOBILIÁRIO - RL",
-   "patrimonio_liquido": 480844.1,
+   "patrimonio_liquido": 1842780.7,
    "num_cotas": 10990.0,
-   "vp_cota": 43.7529
+   "vp_cota": 167.678
   },
   {
    "cnpj": "64.357.284/0001-50",
@@ -8874,9 +8888,9 @@
   {
    "cnpj": "64.636.299/0001-58",
    "fundo": "FII PLANNER 2371 - OPPORTUNITIES FII",
-   "patrimonio_liquido": 40660728.07,
+   "patrimonio_liquido": 40586402.54,
    "num_cotas": 40740.0,
-   "vp_cota": 998.0542
+   "vp_cota": 996.2298
   },
   {
    "cnpj": "64.722.519/0001-66",
@@ -8958,9 +8972,9 @@
   {
    "cnpj": "65.133.202/0001-57",
    "fundo": "ESTRELAS DO CEU FII",
-   "patrimonio_liquido": 66791076.39,
+   "patrimonio_liquido": 66764313.79,
    "num_cotas": 66619.53521789,
-   "vp_cota": 1002.5749
+   "vp_cota": 1002.1732
   },
   {
    "cnpj": "65.196.656/0001-77",
@@ -9077,9 +9091,9 @@
   {
    "cnpj": "65.788.132/0001-75",
    "fundo": "FII PLANNER 3448 - CLEAR FII",
-   "patrimonio_liquido": 431125929.62,
+   "patrimonio_liquido": 430732207.47,
    "num_cotas": 431567100.0,
-   "vp_cota": 0.999
+   "vp_cota": 0.9981
   },
   {
    "cnpj": "65.793.850/0001-30",
@@ -9098,9 +9112,9 @@
   {
    "cnpj": "65.794.655/0001-24",
    "fundo": "FII PLANNER 3445 - OLIVIA FII",
-   "patrimonio_liquido": 17687909.3,
+   "patrimonio_liquido": 16899508.31,
    "num_cotas": 17628.80282,
-   "vp_cota": 1003.3528
+   "vp_cota": 958.6305
   },
   {
    "cnpj": "65.837.970/0001-91",
@@ -9168,9 +9182,9 @@
   {
    "cnpj": "66.170.151/0001-04",
    "fundo": "FII PLANNER 3837 - SPB MALL FII",
-   "patrimonio_liquido": -74453.95,
-   "num_cotas": 5.66617791,
-   "vp_cota": -13140.0657
+   "patrimonio_liquido": -40288.08,
+   "num_cotas": 10.0,
+   "vp_cota": -4028.808
   },
   {
    "cnpj": "66.197.624/0001-59",
@@ -9196,9 +9210,9 @@
   {
    "cnpj": "66.286.953/0001-76",
    "fundo": "FII PLANNER 3739 - GERIR FII RL",
-   "patrimonio_liquido": 4263897.95,
+   "patrimonio_liquido": 4238963.88,
    "num_cotas": 4315000.0,
-   "vp_cota": 0.9882
+   "vp_cota": 0.9824
   },
   {
    "cnpj": "66.287.781/0001-55",
@@ -9343,9 +9357,9 @@
   {
    "cnpj": "67.001.147/0001-77",
    "fundo": "ARIE IDEES POMPÉIA FII RL",
-   "patrimonio_liquido": 26319075.34,
+   "patrimonio_liquido": 26156542.56,
    "num_cotas": 26500.0,
-   "vp_cota": 993.1727
+   "vp_cota": 987.0393
   },
   {
    "cnpj": "67.016.721/0001-60",
