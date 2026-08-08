@@ -3,6 +3,135 @@
  "itens": 100,
  "dados": [
   {
+   "fonte": "Brazil Journal",
+   "titulo": "OPINIÃO. Quem manda na economia?",
+   "url": "https://braziljournal.com/opiniao-quem-manda-na-economia/",
+   "publicado": "2026-08-08T15:49:54+00:00",
+   "tickers": [],
+   "resumo": "No dia 14 de julho, o Senado aprovou por 73 a 1 uma PEC que cria uma aposentadoria especial para agentes comunitários de saúde – R$ 27 bilhões em dez anos –  sem indicar de onde sai o dinheiro. A Fazenda passou meses implorando para que a matéria não fosse pautada e ameaçou ir ao"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Depois de perder a cabeça por seis horas— by Pedro Vinicio",
+   "url": "https://braziljournal.com/depois-de-perder-a-cabeca-por-seis-horas-by-pedro-vinicio/",
+   "publicado": "2026-08-08T15:00:16+00:00",
+   "tickers": [],
+   "resumo": "Ver o último.\nThe post Depois de perder a cabeça por seis horas— by Pedro Vinicio appeared first on Brazil Journal."
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Dos R$ 17,4 bilhões em dividendos da Petrobras (PETR4) a calote em fundo imobiliário; confira as mais lidas da semana",
+   "url": "https://www.moneytimes.com.br/dos-r-174-bilhoes-em-dividendos-da-petrobras-petr4-a-calote-em-fundo-imobiliario-veja-as-mais-lidas-da-semana-igdl/",
+   "publicado": "2026-08-08T14:36:56+00:00",
+   "tickers": [
+    "PETR4"
+   ],
+   "resumo": "Da mensalidade que Luciano Huck e Angélica vão pagar pela faculdade do filho à recuperação judicial de um grupo do agronegócio com 25 fazendas e R$ 53 milhões em dívidas, a semana reuniu histórias que chamaram a atenção dos leitores do Money Times. Entre os temas mais lidos, tamb"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Berkshire Hathaway, de Warren Buffett, dobra lucro no 2T26, a US$ 25,6 bilhões",
+   "url": "https://www.moneytimes.com.br/berkshire-hathaway-de-warren-buffett-dobra-lucro-no-2t26-a-us-256-bilhoes-igdl/",
+   "publicado": "2026-08-08T13:48:51+00:00",
+   "tickers": [],
+   "resumo": "A Berkshire Hathaway, holding de empresas e investimentos de Warren Buffett, registrou lucro líquido de US$ 25,667 bilhões no segundo trimestre de 2026 (2T26), praticamente dobrando o resultado de US$ 12,370 bilhões em igual período de 2025. No primeiro semestre do ano, o lucro b"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Bitcoin (BTC) fica perto de US$ 65 mil após payroll; veja cotação das principais criptomoedas neste sábado (8)",
+   "url": "https://www.moneytimes.com.br/bitcoin-btc-fica-perto-de-us-65-mil-apos-payroll-veja-cotacao-das-principais-criptomoedas-neste-sabado-8-igdl/",
+   "publicado": "2026-08-08T13:31:44+00:00",
+   "tickers": [],
+   "resumo": "O bitcoin (BTC) é negociado na faixa dos US$ 64,9 mil neste sábado (8), com leve queda de 0,1% nas últimas 24 horas, segundo dados da plataforma Coingecko. No acumulado de sete dias, a maior criptomoeda do mundo registra ganhos de aproximadamente 3,1%, enquanto, em um mês, a valo"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "A gente ainda confunde chefe duro com líder forte",
+   "url": "https://www.moneytimes.com.br/a-gente-ainda-confunde-chefe-duro-com-lider-forte-ceci/",
+   "publicado": "2026-08-08T13:00:00+00:00",
+   "tickers": [],
+   "resumo": "Tem uma cena que se repete em toda mesa de bar de gente que trabalha em empresa: alguém conta, meio orgulhoso, meio traumatizado, do chefe que &#8220;não passava a mão na cabeça de ninguém&#8221;. Fala isso como quem descreve um personagem de filme de guerra. E os outros da mesa "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Olá, Eli Lilly (LILY34): Por que fabricante do Mounjaro é uma das novas recomendações da carteira de ações internacionais da Empiricus",
+   "url": "https://www.moneytimes.com.br/ola-eli-lilly-lily34-por-que-fabricante-do-mounjaro-e-uma-das-novas-recomendacoes-da-carteira-de-acoes-internacionais-da-empiricus-lbrdjm025/",
+   "publicado": "2026-08-08T13:00:00+00:00",
+   "tickers": [
+    "LILY34"
+   ],
+   "resumo": "Além desta, analista apresenta outras 11 ações de diversos setores da economia para buscar as melhores oportunidades no mercado internacional"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Fundos imobiliários (FIIs) para agosto: Veja os 9 mais recomendados pelos analistas",
+   "url": "https://www.moneytimes.com.br/fiis-para-agosto-veja-os-9-mais-recomendados-pelos-analistas-igdl/",
+   "publicado": "2026-08-08T13:00:00+00:00",
+   "tickers": [
+    "KNCR11",
+    "XPML11"
+   ],
+   "resumo": "Kinea Rendimentos (KNCR11), gerido pela Kinea Investimentos, é o fundo imobiliário (FII) mais indicado pelos analistas para agosto, mostrou um levantamento realizado pelo Money Times. De 11 carteiras recomendadas de bancos, corretoras e casas de análise acompanhadas pela reportag"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Julho estanca fuga de estrangeiros do Brasil; o que pode jogar ‘água no chope’, segundo especialistas",
+   "url": "https://www.moneytimes.com.br/julho-estanca-fuga-de-estrangeiros-do-brasil-o-que-pode-jogar-agua-no-chope-segundo-especialistas-igdl/",
+   "publicado": "2026-08-08T12:57:34+00:00",
+   "tickers": [],
+   "resumo": "O mês de julho foi marcado pela interrupção de dois meses seguidos de saída substancial de capital estrangeiro da B3. A bolsa de valores brasileira fechou o mês passado com entrada de R$ 2,558 bilhões, elevando o saldo do ano para R$ 36,406 bilhões. O montante é ainda 81% superio"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Nova era na Berkshire? Greg Abel começa a usar o caixa acumulado por Buffett",
+   "url": "https://investnews.com.br/negocios/berkshire-2t26-greg-abel-buffett/",
+   "publicado": "2026-08-08T12:44:04+00:00",
+   "tickers": [],
+   "resumo": "Berkshire investiu US$ 19,8 bilhões líquidos em ações e retomou recompras enquanto novo CEO começa a imprimir sua marca"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "OPA não sai: Atom (ATED3) desfaz venda de controle e Valorant fica com 34,5% da companhia",
+   "url": "https://www.moneytimes.com.br/opa-nao-sai-atom-ated3-desfaz-venda-de-controle-e-valorant-fica-com-345-da-companhia-igdl/",
+   "publicado": "2026-08-08T12:30:21+00:00",
+   "tickers": [
+    "ATED3"
+   ],
+   "resumo": "A Atom Educação e Editora (ATED3) anunciou, por meio de fato relevante, que desfez a venda do seu controle para a Valorant Capital, após a compradora não cumprir o prazo legal para realizar a oferta pública de aquisição de ações (OPA). Segundo o comunicado divulgado ao mercado, a"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Eleições 2026: Entenda o cálculo que fixa de 8 a 70 o tamanho da bancada na Câmara e qual a diferença para o Senado",
+   "url": "https://www.moneytimes.com.br/eleicoes-2026-entenda-o-calculo-que-fixa-de-8-a-70-o-tamanho-da-bancada-na-camara-e-qual-a-diferenca-para-o-senado-gaep/",
+   "publicado": "2026-08-08T12:30:00+00:00",
+   "tickers": [],
+   "resumo": "Se é nas urnas que os rostos daqueles que governam serão decididos, a distribuição de forças no Poder Legislativo brasileiro segue um desenho matemático rigoroso estabelecido muito antes da apuração, em 4 de outubro, das eleições 2026. Regulada pela Constituição de 1988 e por uma"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "‘Odisseia’ para investidores: o que os mitos gregos ensinam sobre as tempestades do mercado",
+   "url": "https://www.moneytimes.com.br/odisseia-para-investidores-mitos-gregos-ensinam-sobre-tempestades-mercado-rsgp/",
+   "publicado": "2026-08-08T12:26:00+00:00",
+   "tickers": [],
+   "resumo": "Toda jornada parece guardar algo de Odisseia. De tão importante, a história virou sinônimo de desafios, reviravoltas e superações — algo que, em certa medida, também se parece com a busca de prosperidade de todo investidor. A obra atribuída a Homero atravessou 3 mil anos narrando"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Banco leiloa mais de 600 imóveis com lances a partir de R$ 10 mil; confira",
+   "url": "https://valorinveste.globo.com/produtos/imoveis/noticia/2026/08/08/banco-leiloa-mais-de-600-imoveis-com-lances-a-partir-de-r-10-mil-confira.ghtml",
+   "publicado": "2026-08-08T12:12:19+00:00",
+   "tickers": [],
+   "resumo": "O Santander colocou à venda mais de 600 imóveis em três leilões que ocorrem no mesmo dia, 11 de agosto, com lances a partir de R$ 10 mil e descontos que chegam a 93% sobre o valor de avaliação. Realizados em parceria com três leiloeiras (Biasi, Frazão e SOLD, do Grupo Superbid), "
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Trump reforça ofensiva por minerais críticos com projetos de US$ 3 bilhões",
+   "url": "https://investnews.com.br/negocios/trump-minerais-criticos-china/",
+   "publicado": "2026-08-08T12:08:10+00:00",
+   "tickers": [],
+   "resumo": "Pacote reúne novos investimentos e projetos já anunciados em mineração, baterias e ímãs para reduzir a dependência americana da China"
+  },
+  {
    "fonte": "InvestNews",
    "titulo": "Pais ‘helicópteros’ estão guiando a carreira dos filhos adultos",
    "url": "https://investnews.com.br/the-wall-street-journal/pais-helicopteros-estao-guiando-a-carreira-dos-filhos-adultos/",
@@ -45,28 +174,12 @@
    "resumo": "O fundo imobiliário TRXF11 apurou em julho resultado operacional de R$ 59,97 milhões. A gestora manteve o ritmo de expansão do portfólio e anunciou novas aquisições que somam bilhões de reais em ativos imobiliários, com foco em logística e hospitality. Entre os movimentos do mês,"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Desmatamento na Amazônia registra maior recuo da década",
-   "url": "https://www.moneytimes.com.br/desmatamento-na-amazonia-registra-maior-recuo-da-decada-pads/",
-   "publicado": "2026-08-07T22:31:07+00:00",
-   "tickers": [],
-   "resumo": "O Brasil registrou entre agosto de 2025 e julho de 2026 a menor área sob alerta de desmatamento na Amazônia nos últimos dez anos, desde que foi iniciada a série histórica, em 2016. Segundo dados do Sistema de Detecção de Desmatamentos em Tempo Real (Deter) do Instituto Nacional d"
-  },
-  {
    "fonte": "Suno Noticias",
    "titulo": "IFIX avança 0,29%, mas fecha semana com queda de 1,24%",
    "url": "https://www.suno.com.br/noticias/ifix-avanca-029-mas-fecha-semana-com-queda-de-124/",
    "publicado": "2026-08-07T22:25:08+00:00",
    "tickers": [],
    "resumo": "O IFIX encerrou o pregão desta sexta-feira (7) aos 3.771,15 pontos, avanço de 11,04 pontos (+0,29%) sobre o fechamento anterior. Ao longo da sessão, o índice de fundos imobiliários oscilou entre a mínima de 3.760,08 pontos e a máxima de 3.777,02 pontos, terminando o dia próximo d"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "B3 lança índice Small Cap Smart Rebal B3",
-   "url": "https://www.moneytimes.com.br/b3-lanca-indice-small-cap-smart-rebal-b3-pads/",
-   "publicado": "2026-08-07T22:13:27+00:00",
-   "tickers": [],
-   "resumo": "A B3 anunciou o lançamento do Índice Small Cap Smart Rebal B3 (SCSR), que acompanha o desempenho médio das cotações das ações de empresas de menor valor de mercado listadas na bolsa paulista, segundo comunicado divulgado nesta sexta-feira. O novo indicador faz ajustes da carteira"
   },
   {
    "fonte": "Suno Noticias",
@@ -79,17 +192,6 @@
    "resumo": "O fundo imobiliário (FII) IBBP11 aprovou a 6ª emissão de cotas em uma oferta pública que poderá somar aproximadamente R$ 228 milhões. Os recursos serão direcionados à realização de novos investimentos, conforme fato relevante enviado ao mercado, com foco na expansão do portfólio "
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Iguatemi (IGTI11) embolsa R$ 876 milhões com venda de ativos para fundo imobiliário; veja detalhes",
-   "url": "https://www.moneytimes.com.br/iguatemi-igti11-embolsa-r-876-milhoes-com-venda-de-ativos-para-fundo-imobiliario-veja-detalhes-rnda/",
-   "publicado": "2026-08-07T21:57:18+00:00",
-   "tickers": [
-    "IGTI11",
-    "TRXF11"
-   ],
-   "resumo": "A Iguatemi (IGTI11) está embolsando R$ 876 milhões com a venda de cinco ativos imobiliários para o TRX Real Estate (TRXF11), mostra documento enviado ao mercado nesta sexta-feira (7). Os ativos incluem: O preço será pago da seguinte forma: Mesmo com a venda, a Iguatemi manterá a "
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "B3 lança índice de small caps com giro menor de carteira e ETF da XP atrelado",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/08/07/b3-lanca-indice-de-small-caps-com-giro-menor-de-carteira-e-etf-da-xp-atrelado.ghtml",
@@ -98,16 +200,6 @@
     "XCAP11"
    ],
    "resumo": "A B3 passou a oferecer nesta sexta-feira (7) o Índice Small Cap Smart Rebal (SCSR), que mede o desempenho de ações de empresas de menor valor de mercado e já nasce com um fundo de índice atrelado, o XCAP11, da XP. A principal diferença em relação ao que já existia está na forma d"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Tenda (TEND3) anuncia R$ 78 milhões em dividendos intercalares",
-   "url": "https://www.moneytimes.com.br/tenda-tend3-anuncia-r-78-milhoes-em-dividendos-intercalares/",
-   "publicado": "2026-08-07T21:47:10+00:00",
-   "tickers": [
-    "TEND3"
-   ],
-   "resumo": "A Tenda (TEND3) informou nesta sexta-feira (7) que aprovou a distribuição de R$ 78 milhões em dividendos intercalares, o equivalente a R$ 0,64 por ação. Terão direito ao pagamento os acionistas com posição na companhia no fechamento do pregão de 13 de agosto, e as ações passam a "
   },
   {
    "fonte": "Suno Noticias",
@@ -120,38 +212,6 @@
    "resumo": "O fundo imobiliário SNEL11 alcançou nesta sexta-feira (7) a marca de 123 mil cotistas, em meio ao avanço das cotas no mercado secundário. O movimento confirma a expansão da base de investidores do veículo e acompanha o desempenho recente na Bolsa. No pregão de hoje, o fundo renov"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Trigo se recupera em Chicago enquanto mercado avalia ataques no Mar Negro",
-   "url": "https://www.moneytimes.com.br/trigo-se-recupera-em-chicago-enquanto-mercado-avalia-ataques-no-mar-negro-pads/",
-   "publicado": "2026-08-07T21:44:36+00:00",
-   "tickers": [],
-   "resumo": "Os contratos futuros de trigo negociados na bolsa de Chicago se recuperaram de uma mínima de quatro semanas nesta sexta-feira (7), impulsionados pela desvalorização do dólar norte-americano e enquanto os operadores avaliavam relatos de novos ataques na zona de exportação do Mar N"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Agricultores argentinos retêm safra de trigo de olho em preços mais altos",
-   "url": "https://www.moneytimes.com.br/agricultores-argentinos-retem-safra-de-trigo-de-olho-em-precos-mais-altos-pads/",
-   "publicado": "2026-08-07T21:37:38+00:00",
-   "tickers": [],
-   "resumo": "Os agricultores argentinos ainda têm cerca de 30% da safra de trigo desta temporada para vender, informou a bolsa de grãos de Rosário nesta sexta-feira, já que expectativa de preços ainda mais altos incentivam os produtores a reterem os grãos. Até o momento, os agricultores vende"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Zema propõe saída dos Brics, privatizações e R$ 1 mil para cada brasileiro ao nascer",
-   "url": "https://www.moneytimes.com.br/zema-propoe-saida-dos-brics-privatizacoes-e-r-1-mil-para-cada-brasileiro-ao-nascer-pads/",
-   "publicado": "2026-08-07T21:20:25+00:00",
-   "tickers": [],
-   "resumo": "O candidato do Novo à Presidência da República, Romeu Zema, propõe privatizar todas as empresas estatais, depositar R$ 1 mil para cada brasileiro que nascer e pagar um prêmio de R$ 5 mil a famílias que conseguirem deixar o Bolsa Família. As medidas fazem parte do chamado &#8220;P"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Bessent anuncia novas sanções em meio a esforço para elevar pressão econômica contra Irã",
-   "url": "https://www.moneytimes.com.br/bessent-anuncia-novas-sancoes-em-meio-a-esforco-para-elevar-pressao-economica-contra-ira/",
-   "publicado": "2026-08-07T21:17:47+00:00",
-   "tickers": [],
-   "resumo": "O secretário do Tesouro dos Estados Unidos, Scott Bessent, afirmou que o governo norte-americano continuará aumentando a pressão econômica sobre o Irã, enquanto anunciou novas sanções nesta sexta-feira, 7. &#8220;A dependência do regime iraniano em relação a ativos digitais e red"
-  },
-  {
    "fonte": "Suno Noticias",
    "titulo": "FII TRCO11 sofre novo calote dias após receber aluguel atrasado com multa",
    "url": "https://www.suno.com.br/noticias/fii-trco11-sofre-novo-calote-dias-apos-receber-aluguel-atrasado-com-multa/",
@@ -160,24 +220,6 @@
     "TRCO11"
    ],
    "resumo": "O fundo imobiliário Torre Rio Claro Offices (TRCO11) comunicou ao mercado que a locatária BM Varejo Empreendimentos S.A. não efetuou o pagamento do aluguel referente a julho. O registro ocorre dois dias após o fundo informar que recebeu, com atraso, o aluguel de junho, acrescido "
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Açúcar bruto atinge maior cotação em 10 meses devido à redução da oferta",
-   "url": "https://www.moneytimes.com.br/acucar-bruto-atinge-maior-cotacao-em-10-meses-devido-a-reducao-da-oferta-pads/",
-   "publicado": "2026-08-07T21:07:50+00:00",
-   "tickers": [],
-   "resumo": "Os contratos futuros de açúcar bruto na ICE atingiram nesta sexta-feira (7) seu nível mais alto em 10 meses, com as preocupações com a safra na União Europeia e na Ásia reforçando as expectativas de que o mercado global entrará em déficit na temporada 2026/27. O açúcar bruto fech"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Essa construtora derreteu na bolsa — e agora quer recomprar 10% dos papéis em circulação",
-   "url": "https://www.moneytimes.com.br/essa-construtora-derreteu-na-bolsa-e-agora-quer-recomprar-10-dos-papeis-em-circulacao/",
-   "publicado": "2026-08-07T20:52:01+00:00",
-   "tickers": [
-    "LAVV3"
-   ],
-   "resumo": "A Lavvi (LAVV3) irá recomprar até 7,4 milhões de ações, ou até 10% das ações em circulação, mostra documento enviado ao mercado nesta sexta-feira (7). Segundo o comunicado, o programa terá prazo de vigência de 18 meses, que será iniciado em 10 de agosto. A companhia diz que o pro"
   },
   {
    "fonte": "Suno Noticias",
@@ -339,11 +381,11 @@
   },
   {
    "fonte": "Valor Investe",
-   "titulo": "Tesouro Direto: taxas recuam e caminham para encerrar vaivém da semana em leve queda",
+   "titulo": "Tesouro Direto: taxas recuam e encerra vaivém da semana em leve queda",
    "url": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/08/07/tesouro-direto-taxas-recuam-e-caminham-para-encerrar-vaivem-da-semana-em-leve-queda.ghtml",
    "publicado": "2026-08-07T14:35:20+00:00",
    "tickers": [],
-   "resumo": "Os títulos do Tesouro Direto voltam a recuar nesta sexta-feira (7), com destaque para os papéis atrelados à inflação, e caminham para encerrar em leve queda uma semana de vaivém. O movimento de alívio de hoje responde sobretudo ao exterior, depois que o relatório de emprego (\"pay"
+   "resumo": "Os títulos do Tesouro Direto voltaram a recuar nesta sexta-feira (7), com destaque para os papéis atrelados à inflação, e encerraram em leve queda uma semana de vaivém. O movimento de alívio de hoje responde sobretudo ao exterior, depois que o relatório de emprego (\"payroll\") dos"
   },
   {
    "fonte": "InvestNews",
@@ -735,14 +777,6 @@
    "resumo": "No 1º episódio da série Day01, David Vélez conta como identificou a oportunidade de criar a fintech e dá dicas valiosas para quem quer empreender."
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Exclusivo: Cosan adia entrega de propostas pela Rumo para início de setembro",
-   "url": "https://investnews.com.br/negocios/exclusivo-cosan-adia-entrega-propostas-rumo-para-setembro/",
-   "publicado": "2026-08-06T12:50:51+00:00",
-   "tickers": [],
-   "resumo": "Objetivo é que os interessados tenham acesso aos números mais recentes da operadora de ferrovias; Rumo divulga balanço no dia 12"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Ibovespa fecha em queda após Copom deixar próximos passos em aberto",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/08/06/dolar-e-ibovespa-hoje-6-de-agosto-de-2026.ghtml",
@@ -754,14 +788,6 @@
     "PETR4"
    ],
    "resumo": "Os mercados mostraram nesta quinta-feira (6) sinais de esgotamento do apetite por risco visto no início da semana. O principal índice de ações brasileiras, o Ibovespa, recuou após a comunicação do Comitê de Política Monetária (Copom) do Banco Central de ontem. A autoridade cortou"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Diageo, fabricante do Johnnie Walker, anuncia corte de US$ 1 bilhão para retomar crescimento",
-   "url": "https://investnews.com.br/negocios/diageo-fabricante-do-johnnie-walker-anuncia-corte-de-us-1-bilhao-para-retomar-crescimento/",
-   "publicado": "2026-08-06T12:04:54+00:00",
-   "tickers": [],
-   "resumo": "Lewis tenta recuperar uma empresa cujo crescimento perdeu força e cujas ações acumulam queda superior a 50% desde o pico registrado durante a pandemia"
   },
   {
    "fonte": "Valor Investe",
@@ -803,22 +829,6 @@
    "publicado": "2026-08-06T10:42:52+00:00",
    "tickers": [],
    "resumo": "Os investidores calibram as suas apostas para os juros nesta quinta-feira (6), após a comunicação do Comitê de Política Monetária (Copom) do Banco Central. A autoridade cortou a Selic em 0,25 ponto percentual, de 14,25% para 14% ao ano, e deixou os próximos passos em aberto. Além"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "Na Bolsa do México, um múltiplo de 12x aguarda melhores ventos do norte",
-   "url": "https://braziljournal.com/na-bolsa-do-mexico-um-multiplo-de-12x-aguarda-melhores-ventos-do-norte/",
-   "publicado": "2026-08-06T09:50:53+00:00",
-   "tickers": [],
-   "resumo": "Depois de atingir o high histórico em fevereiro, a bolsa do México caiu e passou a ter um desempenho pior que o dos outros grandes mercados da América Latina. Projeções fracas para o PIB e incertezas sobre o (importantíssimo) fluxo de comércio com os EUA passaram a pesar num mome"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "Primárias mostram que os Democratas não sabem pra onde ir",
-   "url": "https://braziljournal.com/primarias-mostram-que-os-democratas-nao-sabem-pra-onde-ir/",
-   "publicado": "2026-08-06T09:50:50+00:00",
-   "tickers": [],
-   "resumo": "BOSTON – As eleições de midterm nos EUA começaram a tomar forma esta semana, quando alguns estados-chave foram às urnas definir quem serão os candidatos dos dois partidos em novembro. No Partido Democrata, os resultados escancaram a falta de rumo. À deriva desde a acachapante vit"
   },
   {
    "fonte": "Valor Investe",
@@ -867,14 +877,6 @@
    "publicado": "2026-08-06T03:00:06+00:00",
    "tickers": [],
    "resumo": "A Mega-Sena 3041 vai sortear um prêmio estimado em R$ 150 milhões nesta quinta-feira (6). E a bolada pode render R$ 1 milhão em apenas um mês na poupança. Mas o retorno dessa aplicação em modalidades mais rentáveis da renda fixa pode chegar R$ 1,4 milhão se o ganhador optar por d"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Mega-Sena 3041 pode pagar R$ 150 milhões hoje, terceiro maior prêmio do ano",
-   "url": "https://valorinveste.globo.com/loterias/noticia/2026/08/06/mega-sena-3041-pode-pagar-r-150-milhoes-hoje-terceiro-maior-premio-do-ano.ghtml",
-   "publicado": "2026-08-06T03:00:04+00:00",
-   "tickers": [],
-   "resumo": "A Mega-Sena 3041 sorteia um prêmio estimado em R$ 150 milhões nesta quinta-feira (6), a partir das 21h (horário de Brasília), em São Paulo. Se tiver ganhador, o prêmio poderá ser o terceiro maior do ano até agora - veja abaixo todos os prêmios pagos em 2026.\nVEJA TAMBÉM: \n- Os nú"
   }
  ]
 }
