@@ -1,6 +1,6 @@
 {
  "recordsTotal": 11476,
- "paginas_lidas": 38,
+ "paginas_lidas": 40,
  "janela": [
   "28/07/2026",
   "09/08/2026"
@@ -22,7 +22,7 @@
   "Regulamento",
   "Relatórios"
  ],
- "erro": "excecao: HTTPSConnectionPool(host='fnet.bmfbovespa.com.br', port=443): Read timed out. (read timeout=60)",
+ "erro": null,
  "amostra_registros": [
   {
    "altaPrioridade": false,
