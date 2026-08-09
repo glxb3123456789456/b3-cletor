@@ -3,6 +3,148 @@
  "itens": 100,
  "dados": [
   {
+   "fonte": "InvestNews",
+   "titulo": "Ouro protege contra a inflação? Um dupla de economistas dizem que não",
+   "url": "https://investnews.com.br/investimentos/ouro-inflacao-estudo-contesta/",
+   "publicado": "2026-08-09T15:48:00+00:00",
+   "tickers": [],
+   "resumo": "Dados históricos desafiam uma das crenças mais antigas do mercado sobre o papel do ouro nas carteiras"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Gasolina dispara nos EUA e dá nova força aos híbridos de Toyota e Honda",
+   "url": "https://investnews.com.br/negocios/hibridos-toyota-eua-alta-vendas/",
+   "publicado": "2026-08-09T14:52:44+00:00",
+   "tickers": [],
+   "resumo": "Com gasolina mais cara e menos incentivos aos elétricos, consumidor americano volta-se para uma solução intermediária"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Inflação, ata do Copom e CPI dos EUA estão no radar dos mercados nesta semana; confira agenda",
+   "url": "https://www.moneytimes.com.br/inflacao-ata-do-copom-e-cpi-dos-eua-estao-no-radar-dos-mercados-nesta-semana-confira-agenda-jcav/",
+   "publicado": "2026-08-09T14:50:00+00:00",
+   "tickers": [],
+   "resumo": "A semana de 10 a 14 de agosto será marcada por uma nova rodada de indicadores de inflação no Brasil e nos Estados Unidos, além da divulgação da ata da última reunião do Copom. A agenda doméstica começa na segunda-feira (10) com a divulgação do Boletim Focus, que reúne as projeçõe"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Mega-Sena 3042: aposta de Fortaleza leva R$ 165 milhões, o segundo maior prêmio do ano",
+   "url": "https://valorinveste.globo.com/loterias/noticia/2026/08/09/resultado-da-mega-sena-3042-veja-os-numeros-sorteados.ghtml",
+   "publicado": "2026-08-09T14:13:03+00:00",
+   "tickers": [],
+   "resumo": "A Mega-Sena 3042 sorteou um prêmio estimado em R$ 165 milhões neste domingo (9), Dia dos Pais. Uma única aposta, realizada na lotéria Aldeota, em Fortaleza, acertou as seis dezenas e leva para casa o segundo maior prêmio do ano. Foram 100 cotas e 15 números apostados.\nÉ a mesma c"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Últimos balanços do 2T26 chegam nesta semana; veja as empresas que divulgam seus números",
+   "url": "https://www.moneytimes.com.br/ultimos-balancos-do-2o-trimestre-chegam-nesta-semana-veja-as-empresas-que-divulgam-seus-numeros-ceci/",
+   "publicado": "2026-08-09T14:00:00+00:00",
+   "tickers": [
+    "ANIM3",
+    "EMBJ3",
+    "ITSA4",
+    "JBSS32",
+    "NATU3",
+    "SMTO3",
+    "SOJA3"
+   ],
+   "resumo": "A temporada de balanços do segundo trimestre de 2026 está chegando ao final, ainda com muitas expectativas do mercado. Na segunda-feira (10), Embraer (EMBJ3), Itaúsa (ITSA4), Natura (NATU3), São Martinho (SMTO3), e JBS (JBSS32) são os destaques. Já na sexta-feira (14), fechando a"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Uma chave fácil de copiar — e roubar os seus bitcoins: Veja as notícias mais lidas no Crypto Times",
+   "url": "https://www.moneytimes.com.br/uma-chave-facil-de-copiar-e-roubar-os-seus-bitcoins-veja-as-noticias-mais-lidas-no-crypto-times-rens/",
+   "publicado": "2026-08-09T14:00:00+00:00",
+   "tickers": [],
+   "resumo": "Olá, investidor e investidora de cripto! Sejam muito bem-vindos a mais uma edição da nossa coluna semanal do Crypto Times, a editoria de bitcoin (BTC) e criptomoedas do Money Times. Para se inscrever e receber em primeira mão em todas as manhãs de sábado, basta se inscrever no bo"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Mercado espera leilão de canal de acesso de Santos para balizar atratividade do modelo",
+   "url": "https://www.moneytimes.com.br/mercado-espera-leilao-de-canal-de-acesso-de-santos-para-balizar-atratividade-do-modelo-rens/",
+   "publicado": "2026-08-09T13:56:26+00:00",
+   "tickers": [],
+   "resumo": "Com os projetos dos canais de acesso de Itajaí (SC), Santos (SP) e Rio Grande do Sul ainda em preparação, agentes do setor avaliam que o leilão de Santos será decisivo para testar a viabilidade e a atratividade do modelo. A percepção é de que, por se tratar do maior complexo port"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "A crise imobiliária dos bilionários: faltam mansões de luxo nos EUA",
+   "url": "https://investnews.com.br/negocios/falta-mansoes-luxo-eua/",
+   "publicado": "2026-08-09T13:11:00+00:00",
+   "tickers": [],
+   "resumo": "Boom de riqueza ligado à IA e à bolsa dispara demanda por imóveis de ultraluxo enquanto o mercado residencial comum segue travado"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Weg (WEGE3) e JHSF (JHSF3): Veja quem vai pagar dividendos na semana",
+   "url": "https://www.suno.com.br/noticias/a-weg-wege3-a-jhsf-jhsf3-agenda-dividendos-07082026-go/",
+   "publicado": "2026-08-09T13:00:00+00:00",
+   "tickers": [
+    "JHSF3",
+    "WEGE3"
+   ],
+   "resumo": "Weg (WEGE3) e JHSF (JHSF3): Veja quem vai pagar dividendos na semanaEsta semana começa com mais uma rodada de dividendos caindo na conta dos investidores, com destaque para a distribuição de proventos da Weg (WEGE3). Esta empresa fará uma distribuição de R$ 0,4128 por ação em 12 "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Tarcísio e Haddad vão a debate com cara de 2° turno; veja horário e local",
+   "url": "https://www.moneytimes.com.br/tarcisio-e-haddad-vao-a-debate-com-cara-de-2-turno-veja-horario-e-local-rens/",
+   "publicado": "2026-08-09T12:52:42+00:00",
+   "tickers": [],
+   "resumo": "O governador de São Paulo, Tarcísio de Freitas (Republicanos), e o ex-ministro da Fazenda Fernando Haddad (PT) se enfrentam neste domingo (9) pela primeira vez no debate entre os candidatos ao governo paulista, promovido pela Band, a partir das 20 horas. Nos bastidores, a expecta"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Recuperação judicial do agro, calote no aluguel e mais: Veja as mais lidas da semana no Money Times",
+   "url": "https://www.moneytimes.com.br/recuperacao-judicial-do-agro-calote-no-aluguel-e-mais-veja-as-mais-lidas-da-semana-no-money-times-rens/",
+   "publicado": "2026-08-09T12:48:04+00:00",
+   "tickers": [],
+   "resumo": "Os leitores do Money Times deram mais atenção à recuperação judicial para renegociar dívida de R$ 53 milhões deste grupo do agro e ao calote de um fundo imobiliário nesta semana. Veja a seguir as cinco reportagens mais lidas da semana: 1- Grupo do agro com 25 fazendas entra em re"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Com almoço mais caro, vale-refeição perde poder de compra e já dura menos de 10 dias",
+   "url": "https://valorinveste.globo.com/objetivo/organize-as-contas/noticia/2026/08/09/com-almoco-mais-caro-vale-refeicao-perde-poder-de-compra-e-ja-dura-menos-de-10-dias.ghtml",
+   "publicado": "2026-08-09T12:18:46+00:00",
+   "tickers": [],
+   "resumo": "O vale-refeição já não é suficiente para pagar nem metade dos almoços durante todo o mês de trabalho. Levantamento da Pluxee mostra que o benefício durou, em média, apenas nove dias úteis no primeiro semestre do ano, ante dez dias em 2025 e 18 dias em 2019, refletindo a perda de "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Federação ou coligação? Entenda a diferença entre os dois modelos no sistema eleitoral",
+   "url": "https://www.moneytimes.com.br/federacao-ou-coligacao-entenda-a-diferenca-entre-os-dois-modelos-no-sistema-eleitoral-gaep/",
+   "publicado": "2026-08-09T12:00:00+00:00",
+   "tickers": [],
+   "resumo": "O sistema eleitoral brasileiro permite que os partidos políticos brasileiros definam suas alianças por meio de dois modelos: as federações partidárias nacionais ou as coligações, restritas aos cargos majoritários. A escolha da estrutura determina a duração dos compromissos políti"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Bitcoin (BTC) tenta sustentar os US$ 65 mil antes de dados da inflação dos EUA; veja preços das criptomoedas neste domingo (9)",
+   "url": "https://www.moneytimes.com.br/bom-dia-bitcoin-btc-criptomoedas-precos-hoje-rens-090826/",
+   "publicado": "2026-08-09T11:51:16+00:00",
+   "tickers": [],
+   "resumo": "O bitcoin (BTC) é negociado na casa dos US$ 64,9 mil na manhã deste domingo (9), próximo da estabilidade nas primeiras horas do dia. O mercado global de criptomoedas oscila com a baixa liquidez típica do fim de semana para o setor de ativos digitais. Veja o desempenho das dez mai"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "WEG (WEGE3), JHSF (JHSF3) e mais 3 empresas pagam dividendos nesta semana; veja o calendário",
+   "url": "https://www.moneytimes.com.br/dividendos-da-semana-7-8-26-apsa/",
+   "publicado": "2026-08-09T11:30:00+00:00",
+   "tickers": [
+    "JHSF3",
+    "WEGE3"
+   ],
+   "resumo": "Na semana de 10 a 14 de agosto, cinco companhias da bolsa brasileira pagam dividendos e juros sobre capital próprio (JCP) aos seus acionistas. Na segunda-feira (10), a JHSF (JHSF3) realiza pagamento de dividendo no valor de R$ 0,0691, para os acionistas posionados em 30 de julho "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Como buscar ganhos com criptomoedas sem esperar a votação do Clarity Act?",
+   "url": "https://www.moneytimes.com.br/como-buscar-ganhos-com-criptomoedas-sem-esperar-a-votacao-do-clarity-act-lbrdbb097/",
+   "publicado": "2026-08-09T11:00:00+00:00",
+   "tickers": [],
+   "resumo": "O senado dos Estados Unidos adiou a votação do Clarity Act mais uma vez. O projeto de lei pode ser retomado somente após as férias de agosto da casa, com início marcado para este sábado (8). A expectativa dos investidores é de que o Clarity Act ajude o mercado cripto a se recuper"
+  },
+  {
    "fonte": "Brazil Journal",
    "titulo": "No Rio Grande do Sul, Gabriel Souza tem um desafio que só Caiado entende",
    "url": "https://braziljournal.com/no-rio-grande-do-sul-gabriel-souza-tem-um-desafio-que-so-caiado-entende/",
@@ -41,14 +183,6 @@
    "publicado": "2026-08-09T09:03:00+00:00",
    "tickers": [],
    "resumo": "A fabricante do Mustang e do Bronco quer uma linha de veículos “apaixonantes”. Sedãs familiares tradicionais, hatchbacks baratos e minivans sem graça ficaram para trás"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Gás do Povo libera botijão grátis amanhã; confira quem tem direito em agosto",
-   "url": "https://www.moneytimes.com.br/gas-do-povo-botijao-recarga-programa-social-liberado-amanha-isca/",
-   "publicado": "2026-08-09T09:00:00+00:00",
-   "tickers": [],
-   "resumo": "Será liberada amanhã a recarga gratuita de botijão de gás de cozinha (GLP) do Programa Gás do Povo para famílias brasileiras de baixa renda. Em agosto, aqueles que terão direito ao benefício poderão recebê-lo a partir do dia 10 — data fixada pelo governo, independentemente de coi"
   },
   {
    "fonte": "Valor Investe",
@@ -99,93 +233,12 @@
    "resumo": "Ver o último.\nThe post Depois de perder a cabeça por seis horas— by Pedro Vinicio appeared first on Brazil Journal."
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Dos R$ 17,4 bilhões em dividendos da Petrobras (PETR4) a calote em fundo imobiliário; confira as mais lidas da semana",
-   "url": "https://www.moneytimes.com.br/dos-r-174-bilhoes-em-dividendos-da-petrobras-petr4-a-calote-em-fundo-imobiliario-veja-as-mais-lidas-da-semana-igdl/",
-   "publicado": "2026-08-08T14:36:56+00:00",
-   "tickers": [
-    "PETR4"
-   ],
-   "resumo": "Da mensalidade que Luciano Huck e Angélica vão pagar pela faculdade do filho à recuperação judicial de um grupo do agronegócio com 25 fazendas e R$ 53 milhões em dívidas, a semana reuniu histórias que chamaram a atenção dos leitores do Money Times. Entre os temas mais lidos, tamb"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Berkshire Hathaway, de Warren Buffett, dobra lucro no 2T26, a US$ 25,6 bilhões",
-   "url": "https://www.moneytimes.com.br/berkshire-hathaway-de-warren-buffett-dobra-lucro-no-2t26-a-us-256-bilhoes-igdl/",
-   "publicado": "2026-08-08T13:48:51+00:00",
-   "tickers": [],
-   "resumo": "A Berkshire Hathaway, holding de empresas e investimentos de Warren Buffett, registrou lucro líquido de US$ 25,667 bilhões no segundo trimestre de 2026 (2T26), praticamente dobrando o resultado de US$ 12,370 bilhões em igual período de 2025. No primeiro semestre do ano, o lucro b"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Bitcoin (BTC) fica perto de US$ 65 mil após payroll; veja cotação das principais criptomoedas neste sábado (8)",
-   "url": "https://www.moneytimes.com.br/bitcoin-btc-fica-perto-de-us-65-mil-apos-payroll-veja-cotacao-das-principais-criptomoedas-neste-sabado-8-igdl/",
-   "publicado": "2026-08-08T13:31:44+00:00",
-   "tickers": [],
-   "resumo": "O bitcoin (BTC) é negociado na faixa dos US$ 64,9 mil neste sábado (8), com leve queda de 0,1% nas últimas 24 horas, segundo dados da plataforma Coingecko. No acumulado de sete dias, a maior criptomoeda do mundo registra ganhos de aproximadamente 3,1%, enquanto, em um mês, a valo"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Fundos imobiliários (FIIs) para agosto: Veja os 9 mais recomendados pelos analistas",
-   "url": "https://www.moneytimes.com.br/fiis-para-agosto-veja-os-9-mais-recomendados-pelos-analistas-igdl/",
-   "publicado": "2026-08-08T13:00:00+00:00",
-   "tickers": [
-    "KNCR11",
-    "XPML11"
-   ],
-   "resumo": "Kinea Rendimentos (KNCR11), gerido pela Kinea Investimentos, é o fundo imobiliário (FII) mais indicado pelos analistas para agosto, mostrou um levantamento realizado pelo Money Times. De 11 carteiras recomendadas de bancos, corretoras e casas de análise acompanhadas pela reportag"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Olá, Eli Lilly (LILY34): Por que fabricante do Mounjaro é uma das novas recomendações da carteira de ações internacionais da Empiricus",
-   "url": "https://www.moneytimes.com.br/ola-eli-lilly-lily34-por-que-fabricante-do-mounjaro-e-uma-das-novas-recomendacoes-da-carteira-de-acoes-internacionais-da-empiricus-lbrdjm025/",
-   "publicado": "2026-08-08T13:00:00+00:00",
-   "tickers": [
-    "LILY34"
-   ],
-   "resumo": "Além desta, analista apresenta outras 11 ações de diversos setores da economia para buscar as melhores oportunidades no mercado internacional"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "A gente ainda confunde chefe duro com líder forte",
-   "url": "https://www.moneytimes.com.br/a-gente-ainda-confunde-chefe-duro-com-lider-forte-ceci/",
-   "publicado": "2026-08-08T13:00:00+00:00",
-   "tickers": [],
-   "resumo": "Tem uma cena que se repete em toda mesa de bar de gente que trabalha em empresa: alguém conta, meio orgulhoso, meio traumatizado, do chefe que &#8220;não passava a mão na cabeça de ninguém&#8221;. Fala isso como quem descreve um personagem de filme de guerra. E os outros da mesa "
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Julho estanca fuga de estrangeiros do Brasil; o que pode jogar ‘água no chope’, segundo especialistas",
-   "url": "https://www.moneytimes.com.br/julho-estanca-fuga-de-estrangeiros-do-brasil-o-que-pode-jogar-agua-no-chope-segundo-especialistas-igdl/",
-   "publicado": "2026-08-08T12:57:34+00:00",
-   "tickers": [],
-   "resumo": "O mês de julho foi marcado pela interrupção de dois meses seguidos de saída substancial de capital estrangeiro da B3. A bolsa de valores brasileira fechou o mês passado com entrada de R$ 2,558 bilhões, elevando o saldo do ano para R$ 36,406 bilhões. O montante é ainda 81% superio"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Nova era na Berkshire? Greg Abel começa a usar o caixa acumulado por Buffett",
    "url": "https://investnews.com.br/negocios/berkshire-2t26-greg-abel-buffett/",
    "publicado": "2026-08-08T12:44:04+00:00",
    "tickers": [],
    "resumo": "Berkshire investiu US$ 19,8 bilhões líquidos em ações e retomou recompras enquanto novo CEO começa a imprimir sua marca"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "OPA não sai: Atom (ATED3) desfaz venda de controle e Valorant fica com 34,5% da companhia",
-   "url": "https://www.moneytimes.com.br/opa-nao-sai-atom-ated3-desfaz-venda-de-controle-e-valorant-fica-com-345-da-companhia-igdl/",
-   "publicado": "2026-08-08T12:30:21+00:00",
-   "tickers": [
-    "ATED3"
-   ],
-   "resumo": "A Atom Educação e Editora (ATED3) anunciou, por meio de fato relevante, que desfez a venda do seu controle para a Valorant Capital, após a compradora não cumprir o prazo legal para realizar a oferta pública de aquisição de ações (OPA). Segundo o comunicado divulgado ao mercado, a"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Eleições 2026: Entenda o cálculo que fixa de 8 a 70 o tamanho da bancada na Câmara e qual a diferença para o Senado",
-   "url": "https://www.moneytimes.com.br/eleicoes-2026-entenda-o-calculo-que-fixa-de-8-a-70-o-tamanho-da-bancada-na-camara-e-qual-a-diferenca-para-o-senado-gaep/",
-   "publicado": "2026-08-08T12:30:00+00:00",
-   "tickers": [],
-   "resumo": "As urnas decidirão os que governarão o País a partir de 2027, mas a distribuição de forças no Poder Legislativo brasileiro segue um desenho matemático rigoroso estabelecido muito antes da apuração, em 4 de outubro, das eleições 2026. Regulada pela Constituição de 1988 e por uma l"
   },
   {
    "fonte": "Valor Investe",
@@ -370,14 +423,6 @@
    "publicado": "2026-08-07T19:34:58+00:00",
    "tickers": [],
    "resumo": "O ouro disparou nesta sexta-feira (7) e chegou ao maior nível em sete semanas, após a surpresa com o mercado de trabalho dos Estados Unidos reduzir as apostas em uma nova alta dos juros pelo Federal Reserve (Fed, o banco central americano).\nO ouro à vista avançava 2,3%, a US$ 4.3"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Selic a 14% ainda deixa a renda fixa atraente? Entenda o que muda para cada investimento",
-   "url": "https://www.suno.com.br/noticias/selic-14-renda-fixa-cdb-lci-lca-tesouro-mt/",
-   "publicado": "2026-08-07T19:25:12+00:00",
-   "tickers": [],
-   "resumo": "A Selic caiu para 14% ao ano, mas isso não significa que a renda fixa deixou de ser interessante. Na prática, o investidor continua encontrando retornos elevados em aplicações pós-fixadas, embora a redução dos juros comece a mudar a relação entre liquidez, prazo e potencial de ga"
   },
   {
    "fonte": "Brazil Journal",
@@ -727,30 +772,6 @@
    "resumo": "Brasil responde por mais da metade das exportações globais de açúcar, mas mudança na divulgação dos dados da Unica aumenta a incerteza sobre a oferta da commodity"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Último lote da restituição do IR 2026 será pago para atrasados e quem saiu da malha fina",
-   "url": "https://investnews.com.br/financas/ultimo-lote-restituicao-do-ir-2026/",
-   "publicado": "2026-08-06T19:56:34+00:00",
-   "tickers": [],
-   "resumo": "Para quem ainda não regularizou as pendências da restituição do IR 2026, ainda é possível fazer a correção para tentar receber no último lote"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "CSN se aproxima de acordo para trocar dívida de US$ 1,3 bilhão",
-   "url": "https://investnews.com.br/negocios/csn-se-aproxima-de-acordo-para-trocar-divida-de-us-13-bilhao/",
-   "publicado": "2026-08-06T18:58:06+00:00",
-   "tickers": [],
-   "resumo": "A CSN se aproxima de quórum necessário para acordo de dívida"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Crescimento não foi suficiente: investidores punem Mercado Livre por margens ainda pressionadas",
-   "url": "https://investnews.com.br/negocios/crescimento-nao-foi-suficiente-investidores-punem-mercado-livre-por-margens-ainda-pressionadas/",
-   "publicado": "2026-08-06T18:48:48+00:00",
-   "tickers": [],
-   "resumo": "Companhia amplia vendas no segundo trimestre, mas investidores questionam as margens estreitas"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Ministro da Fazenda afirma que governo não está gastando mais do que arrecada",
    "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/08/06/ministro-da-fazenda-afirma-que-governo-nao-esta-gastando-mais-do-que-arrecada.ghtml",
@@ -861,22 +882,6 @@
    "publicado": "2026-08-06T09:20:09+00:00",
    "tickers": [],
    "resumo": "Há muitos e muitos textos sobre este assunto. Especula-se aqui não sobre a IA em particular, mas sobre a interação dela com o mundo de fusões e aquisições. Lanço algumas ideias pessoais sobre o tema.\nNa minha visão, obviamente, a parte analítica das due diligences e a feitura de "
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Tokeniza, tokeniza. E depois?",
-   "url": "https://valorinveste.globo.com/blogs/gustavo-cunha/coluna/tokeniza-tokeniza-e-depois.ghtml",
-   "publicado": "2026-08-06T09:10:08+00:00",
-   "tickers": [],
-   "resumo": "Todo mês aparece um número mais gordo pra contar a história da tokenização. Segundo o RWA.xyz, o volume de RWA onchain fora stablecoins triplicou em um ano e está hoje em mais de US$ 37 bilhões. No Brasil, dados do RWA Monitor mostram o primeiro semestre fechando em R$ 4,84 bilhõ"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Veja os investimentos de renda fixa mais recomendados para agosto",
-   "url": "https://valorinveste.globo.com/credito-privado/noticia/2026/08/06/veja-os-investimentos-de-renda-fixa-mais-recomendados-para-agosto.ghtml",
-   "publicado": "2026-08-06T09:00:13+00:00",
-   "tickers": [],
-   "resumo": "Quatro das principais casas de análise de investimentos do país — BB Investimentos, Itaú BBA, XP e BTG Pactual — divulgaram suas carteiras recomendadas de renda fixa para agosto com um recado em comum: a relação entre risco e retorno melhorou, mas o momento ainda pede cautela na "
   }
  ]
 }
