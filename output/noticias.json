@@ -3,6 +3,54 @@
  "itens": 100,
  "dados": [
   {
+   "fonte": "Brazil Journal",
+   "titulo": "No Rio Grande do Sul, Gabriel Souza tem um desafio que só Caiado entende",
+   "url": "https://braziljournal.com/no-rio-grande-do-sul-gabriel-souza-tem-um-desafio-que-so-caiado-entende/",
+   "publicado": "2026-08-09T09:50:45+00:00",
+   "tickers": [],
+   "resumo": "PORTO ALEGRE – Marcado pela polarização muito antes da palavra ganhar dimensão nacional, o Rio Grande do Sul tem tudo para replicar na eleição estadual os dilemas da disputa que ocorre no País.  Os dois nomes que despontam nas pesquisas representam as duas correntes que dominam a"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "OPINIÃO. Por que o agro bombou e a indústria brasileira flopou",
+   "url": "https://braziljournal.com/opiniao-por-que-o-agro-bombou-e-a-industria-brasileira-flopou/",
+   "publicado": "2026-08-09T09:50:33+00:00",
+   "tickers": [],
+   "resumo": "O ano era 2003 e estávamos na VIII Reunião Ministerial da ALCA, a Área de Livre Comércio das Américas. Era novembro. O Governo Lula ainda não havia completado seu primeiro ano, mas já dava demonstrações do que seria. A reunião se deu no Hotel Intercontinental, cercado por policia"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "EDITORIAL. Ninguém cuida do circo",
+   "url": "https://braziljournal.com/editorial-ninguem-cuida-do-circo/",
+   "publicado": "2026-08-09T09:50:04+00:00",
+   "tickers": [],
+   "resumo": "A palhaçada em que se transformou a definição de uma candidatura ao Governo de Minas – obliterando o que restava da credibilidade do partido e do pré-candidato envolvidos – é apenas a ilustração mais crua da decadência da política brasileira e de uma sociedade cada vez mais indif"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "A China está atropelando o Ocidente. Este livro mostra os riscos para o Brasil",
+   "url": "https://braziljournal.com/a-china-esta-atropelando-o-ocidente-este-livro-mostra-os-riscos-para-o-brasil/",
+   "publicado": "2026-08-09T09:50:04+00:00",
+   "tickers": [],
+   "resumo": "O relógio passa das três da manhã e o barulho não para. Marteladas, caminhões, serras, britadeiras. É 2011, e no 37º andar de um prédio em Zhongguancun, um bairro que viraria o Vale do Silício de Pequim, um jovem brasileiro tenta dormir e não consegue. Dias depois, entra em um ca"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "A Ford tornou populares carros sem graça. Agora, não quer mais esses modelos",
+   "url": "https://investnews.com.br/the-wall-street-journal/a-ford-tornou-populares-carros-sem-graca-agora-nao-quer-mais-esses-modelos/",
+   "publicado": "2026-08-09T09:03:00+00:00",
+   "tickers": [],
+   "resumo": "A fabricante do Mustang e do Bronco quer uma linha de veículos “apaixonantes”. Sedãs familiares tradicionais, hatchbacks baratos e minivans sem graça ficaram para trás"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Gás do Povo libera botijão grátis amanhã; confira quem tem direito em agosto",
+   "url": "https://www.moneytimes.com.br/gas-do-povo-botijao-recarga-programa-social-liberado-amanha-isca/",
+   "publicado": "2026-08-09T09:00:00+00:00",
+   "tickers": [],
+   "resumo": "Será liberada amanhã a recarga gratuita de botijão de gás de cozinha (GLP) do Programa Gás do Povo para famílias brasileiras de baixa renda. Em agosto, aqueles que terão direito ao benefício poderão recebê-lo a partir do dia 10 — data fixada pelo governo, independentemente de coi"
+  },
+  {
    "fonte": "Valor Investe",
    "titulo": "Com 'inconsistências financeiras' na Apex Partners, BTG bloqueia saques em FIDC",
    "url": "https://valorinveste.globo.com/produtos/fundos/noticia/2026/08/08/suspeita-de-fraude-na-apex-partners-leva-a-onda-de-resgates-e-btg-bloqueia-saques-em-fidc.ghtml",
@@ -78,11 +126,14 @@
   },
   {
    "fonte": "Money Times",
-   "titulo": "A gente ainda confunde chefe duro com líder forte",
-   "url": "https://www.moneytimes.com.br/a-gente-ainda-confunde-chefe-duro-com-lider-forte-ceci/",
+   "titulo": "Fundos imobiliários (FIIs) para agosto: Veja os 9 mais recomendados pelos analistas",
+   "url": "https://www.moneytimes.com.br/fiis-para-agosto-veja-os-9-mais-recomendados-pelos-analistas-igdl/",
    "publicado": "2026-08-08T13:00:00+00:00",
-   "tickers": [],
-   "resumo": "Tem uma cena que se repete em toda mesa de bar de gente que trabalha em empresa: alguém conta, meio orgulhoso, meio traumatizado, do chefe que &#8220;não passava a mão na cabeça de ninguém&#8221;. Fala isso como quem descreve um personagem de filme de guerra. E os outros da mesa "
+   "tickers": [
+    "KNCR11",
+    "XPML11"
+   ],
+   "resumo": "Kinea Rendimentos (KNCR11), gerido pela Kinea Investimentos, é o fundo imobiliário (FII) mais indicado pelos analistas para agosto, mostrou um levantamento realizado pelo Money Times. De 11 carteiras recomendadas de bancos, corretoras e casas de análise acompanhadas pela reportag"
   },
   {
    "fonte": "Money Times",
@@ -96,14 +147,11 @@
   },
   {
    "fonte": "Money Times",
-   "titulo": "Fundos imobiliários (FIIs) para agosto: Veja os 9 mais recomendados pelos analistas",
-   "url": "https://www.moneytimes.com.br/fiis-para-agosto-veja-os-9-mais-recomendados-pelos-analistas-igdl/",
+   "titulo": "A gente ainda confunde chefe duro com líder forte",
+   "url": "https://www.moneytimes.com.br/a-gente-ainda-confunde-chefe-duro-com-lider-forte-ceci/",
    "publicado": "2026-08-08T13:00:00+00:00",
-   "tickers": [
-    "KNCR11",
-    "XPML11"
-   ],
-   "resumo": "Kinea Rendimentos (KNCR11), gerido pela Kinea Investimentos, é o fundo imobiliário (FII) mais indicado pelos analistas para agosto, mostrou um levantamento realizado pelo Money Times. De 11 carteiras recomendadas de bancos, corretoras e casas de análise acompanhadas pela reportag"
+   "tickers": [],
+   "resumo": "Tem uma cena que se repete em toda mesa de bar de gente que trabalha em empresa: alguém conta, meio orgulhoso, meio traumatizado, do chefe que &#8220;não passava a mão na cabeça de ninguém&#8221;. Fala isso como quem descreve um personagem de filme de guerra. E os outros da mesa "
   },
   {
    "fonte": "Money Times",
@@ -138,14 +186,6 @@
    "publicado": "2026-08-08T12:30:00+00:00",
    "tickers": [],
    "resumo": "As urnas decidirão os que governarão o País a partir de 2027, mas a distribuição de forças no Poder Legislativo brasileiro segue um desenho matemático rigoroso estabelecido muito antes da apuração, em 4 de outubro, das eleições 2026. Regulada pela Constituição de 1988 e por uma l"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "‘Odisseia’ para investidores: o que os mitos gregos ensinam sobre as tempestades do mercado",
-   "url": "https://www.moneytimes.com.br/odisseia-para-investidores-mitos-gregos-ensinam-sobre-tempestades-mercado-rsgp/",
-   "publicado": "2026-08-08T12:26:00+00:00",
-   "tickers": [],
-   "resumo": "Toda jornada parece guardar algo de Odisseia. De tão importante, a história virou sinônimo de desafios, reviravoltas e superações — algo que, em certa medida, também se parece com a busca de prosperidade de todo investidor. A obra atribuída a Homero atravessou 3 mil anos narrando"
   },
   {
    "fonte": "Valor Investe",
@@ -404,14 +444,6 @@
    "resumo": "Os saques em caderneta de poupança superaram os depósitos em R$ 7,153 bilhões em julho, como divulgado nesta sexta-feira (8) pelo Banco Central (BC). No acumulado de 2026, a saída líquida foi de R$ 46,5 bilhões. \nEm julho, os brasileiros depositaram R$ 370,7 bilhões e sacaram R$ "
   },
   {
-   "fonte": "Brazil Journal",
-   "titulo": "Na Chipotle, quem pediu jalapeño levou Salmonella",
-   "url": "https://braziljournal.com/na-chipotle-quem-pediu-jalapeno-levou-salmonella/",
-   "publicado": "2026-08-07T14:36:38+00:00",
-   "tickers": [],
-   "resumo": "A Chipotle Mexican Grill – a rede americana de comida mexicana – teve seu melhor resultado trimestral em muito tempo no fim do mês passado, mas uma bactéria veio estragar a festa. Um surto de Salmonella que se espalhou por 27 estados nos últimos dias, associado ao jalapeño servid"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Tesouro Direto: taxas recuam e encerra vaivém da semana em leve queda",
    "url": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/08/07/tesouro-direto-taxas-recuam-e-caminham-para-encerrar-vaivem-da-semana-em-leve-queda.ghtml",
@@ -535,22 +567,6 @@
    "resumo": "Os investidores aguardam a divulgação do relatório de emprego dos Estados Unidos de julho, o \"payroll\", nesta sexta-feira (7). Os dados apontam a criação de empregos da maior economia do mundo e ditam a direção dos juros no país. No Brasil, o mercado repercute o resultado da Petr"
   },
   {
-   "fonte": "Brazil Journal",
-   "titulo": "A resiliência do peronismo e a ruptura de Milei: um livro que explica a Argentina",
-   "url": "https://braziljournal.com/a-resiliencia-do-peronismo-e-a-ruptura-de-milei-um-livro-que-explica-a-argentina/",
-   "publicado": "2026-08-07T09:50:37+00:00",
-   "tickers": [],
-   "resumo": "Em sua campanha à Presidência, uma das promessas mais barulhentas de Javier Milei foi a de extinguir o Banco Central da Argentina. Milei não levou isso adiante, mas acabou de apresentar um projeto que, se aprovado, vai impedir que o BC financie “de forma direta ou indireta o Fisc"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "Com a Apple no horizonte, Samsung se arma para a “guerra dos dobráveis”",
-   "url": "https://braziljournal.com/com-a-apple-no-horizonte-samsung-se-arma-para-a-guerra-dos-dobraveis/",
-   "publicado": "2026-08-07T09:50:15+00:00",
-   "tickers": [],
-   "resumo": "Os celulares dobráveis estão se tornando a nova trincheira de disputa entre as fabricantes de smartphones. Com a iminência da Apple lançar seu primeiro modelo dobrável este ano, a expectativa do mercado é que este segmento – que estreou há oito anos e representa apenas 1,6% do to"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "A vingança dos filósofos: por que a IA está mudando o valor do conhecimento",
    "url": "https://valorinveste.globo.com/blogs/hugo-daniel-azevedo/coluna/a-vinganca-dos-filosofos-por-que-a-ia-esta-mudando-o-valor-do-conhecimento.ghtml",
@@ -647,14 +663,6 @@
     "PETR4"
    ],
    "resumo": "A Petrobras (PETR4) registrou lucro líquido de R$ 52,4 bilhões no segundo trimestre de 2026, salto de 96,8% em relação ao mesmo período do ano passado. A receita de vendas somou R$ 169,5 bilhões, avanço de 42,3%, enquanto o resultado antes de juros, impostos, depreciação e amorti"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "Alloha emplaca bond de US$ 350 milhões; eB Capital conversa com estratégicos",
-   "url": "https://braziljournal.com/alloha-emplaca-bond-de-us-350-milhoes-eb-capital-conversa-com-estrategicos/",
-   "publicado": "2026-08-06T22:44:45+00:00",
-   "tickers": [],
-   "resumo": "A Alloha Fibra – o provedor de serviços de fibra ótica controlado pela eB Capital que agora opera com a marca Giga+ – acaba de levantar US$ 350 milhões com a emissão de seu primeiro bond. O papel saiu a um yield de 12,25% e vencimento em fevereiro de 2032. Os recursos serão usado"
   },
   {
    "fonte": "InvestNews",
@@ -767,14 +775,6 @@
     "BBDC4"
    ],
    "resumo": "Analistas destacaram os resultados sólidos do Bradesco no segundo trimestre, com o lucro levemente acima do esperado e inadimplência  sob controle. Ainda assim, ressaltam que há desafios à frente, sobretudo na qualidade dos ativos, incluindo o agronegócio.\nAs ações preferenciais "
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Gerdau tenta impedir avanço de siderúrgica chinesa no Peru em disputa por mercado de aço",
-   "url": "https://investnews.com.br/negocios/gerdau-tenta-impedir-avanco-de-siderurgica-chinesa-no-peru-em-disputa-por-mercado-de-aco/",
-   "publicado": "2026-08-06T14:53:24+00:00",
-   "tickers": [],
-   "resumo": "A siderúrgica brasileira questiona projeto da chinesa Jingye Steel no país vizinho e afirma que a nova usina pode ampliar a sobreoferta de aço na região"
   },
   {
    "fonte": "Valor Investe",
