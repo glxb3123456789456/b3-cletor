@@ -3,6 +3,209 @@
  "itens": 100,
  "dados": [
   {
+   "fonte": "Money Times",
+   "titulo": "Ata do Copom acende alerta: BC eleva preocupação com desancoragem das expectativas de inflação",
+   "url": "https://www.moneytimes.com.br/ata-do-copom-acende-alerta-bc-eleva-preocupacao-com-desancoragem-das-expectativas-de-inflacao/",
+   "publicado": "2026-08-11T11:27:05+00:00",
+   "tickers": [],
+   "resumo": "O Banco Central publicou, na manhã desta terça-feira (11), a ata da última reunião do Comitê de Política Monetária (Copom), que reduziu a taxa Selic em 0,25 ponto percentual (p.p.) para 14% ao ano. Na ata, o comitê destaca que o ambiente externo permanece incerto em função da ind"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Intel amplia oferta de ações ordinárias para US$ 20 bilhões",
+   "url": "https://www.moneytimes.com.br/intel-amplia-oferta-de-acoes-ordinarias-para-us-20-bilhoes/",
+   "publicado": "2026-08-11T11:18:04+00:00",
+   "tickers": [],
+   "resumo": "A Intel anunciou nesta terça-feira (11) a precificação de sua oferta pública subscrita de ações ordinárias, ampliando o montante da operação para US$ 20 bilhões &#8211; ante os US$ 15 bilhões anunciados inicialmente. A empresa definiu o preço de emissão em US$ 95 por ação, totali"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "JBS (JBSS3), Natura (NATU3), BTG (BPAC11), SBF (SBFG3) e mais: Veja os destaques das empresas",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/08/11/jbs-jbss3-natura-natu3-btg-bpac11-sbf-sbfg3-e-mais-veja-os-destaques-das-empresas.ghtml",
+   "publicado": "2026-08-11T11:12:56+00:00",
+   "tickers": [
+    "BPAC11",
+    "JBSS3",
+    "NATU3",
+    "SBFG3"
+   ],
+   "resumo": "JBS\nA JBS registrou um prejuízo líquido de US$ 102 milhões no segundo trimestre, número que se compara ao lucro líquido de US$ 528 milhões contabilizado em igual período do ano passado. A teleconferência será realizada às 10h.\n\nNatura\nA Natura Cosméticos encerrou o segundo trimes"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Fundo imobiliário é notificado sobre saída de locatária que responde por 8% da área locável; IFIX cai",
+   "url": "https://www.moneytimes.com.br/fundo-imobiliario-e-notificado-sobre-saida-de-locataria-que-responde-por-8-da-area-locavel-ifix-cai-igdl/",
+   "publicado": "2026-08-11T11:05:12+00:00",
+   "tickers": [
+    "HJCT11"
+   ],
+   "resumo": "O fundo imobiliário Hedge JHSF Capital Prime Offices (HJCT11) anunciou, por meio de fato relevante, que a União Química Farmacêutica Nacional não pretende renovar o contrato de locação no Edifício Continental Tower, localizado em São Paulo (SP). Segundo o documento divulgado ao m"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Bom dia, bitcoin (BTC): Criptomoeda sustenta os US$ 64 mil antes da inflação dos EUA; veja o que mexe com o mercado nesta terça-feira (11)",
+   "url": "https://www.moneytimes.com.br/bom-dia-bitcoin-btc-criptomoeda-preco-hoje-rens-110826/",
+   "publicado": "2026-08-11T11:04:54+00:00",
+   "tickers": [],
+   "resumo": "O bitcoin (BTC) é negociado na casa dos US$ 64 mil na manhã desta terça-feira (11), com uma queda de cerca de 1% nas últimas 24h. O mercado global de criptomoedas opera sem um único sinal, com os investidores à espera dos dados de inflação dos Estados Unidos. No mercado tradicion"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Bitcoin fica em cima do muro e mercado busca uma direção",
+   "url": "https://investnews.com.br/investimentos/bitcoin-fica-em-cima-do-muro-e-mercado-busca-uma-direcao/",
+   "publicado": "2026-08-11T10:52:05+00:00",
+   "tickers": [],
+   "resumo": "Em agosto, a criptomoeda tem oscilado em uma faixa mais estreita, entre US$ 62 mil e US$ 65 mil"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "IPC-Fipe: Inflação em São Paulo sobe 0,05% no início de agosto",
+   "url": "https://www.moneytimes.com.br/ipc-fipe-sobe-005-na-1a-quadrissemana-de-agosto-apos-cair-003-em-julho/",
+   "publicado": "2026-08-11T10:49:00+00:00",
+   "tickers": [],
+   "resumo": "O Índice de Preços ao Consumidor (IPC), que mede a inflação na cidade de São Paulo, subiu 0,05% na primeira quadrissemana de agosto, após recuar 0,03% em julho, segundo dados divulgados nesta terça-feira, 11, pela Fundação Instituto de Pesquisas Econômicas (Fipe). Na leitura inic"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Ata do Copom e IPCA marcam esta terça-feira, em mais um dia de disparada do petróleo",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/08/11/ata-do-copom-e-ipca-marcam-esta-terca-feira-em-mais-um-dia-de-disparada-do-petroleo.ghtml",
+   "publicado": "2026-08-11T10:45:37+00:00",
+   "tickers": [],
+   "resumo": "Esta terça-feira (11) é marcada pela a ata do Comitê de Política Monetária (Copom) do Banco Central do encontro da semana passada e pelo e pelo Índice Nacional de Preços ao Consumidor Amplo (IPCA) de julho, em meio à expectativa de que a melhora nos preços que a prévia do indicad"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Lotofácil 3758 tem 19 ganhadores, mas apenas 7 deles podem sacar prêmio de R$ 530 mil",
+   "url": "https://www.moneytimes.com.br/lotofacil-3758-tem-19-ganhadores-mas-apenas-sete-deles-poderao-sacar-premio-530-mil-rsgp/",
+   "publicado": "2026-08-11T10:34:58+00:00",
+   "tickers": [],
+   "resumo": "A Lotofácil abriu a semana com uma bola dividida. Oito apostas vão repartir o prêmio principal do concurso 3758 da modalidade. Os números sorteados na noite de segunda-feira (10) foram os seguintes: 01, 03, 04, 05, 08, 09, 11, 12, 13, 14, 17, 18, 20, 24 e 25. Cada um dos oito bil"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Dívidas da Apex Partners de R$ 975 milhões têm cobrança suspensa na Justiça",
+   "url": "https://valorinveste.globo.com/objetivo/hora-de-investir/noticia/2026/08/11/dividas-da-apex-partners-de-r-975-milhoes-tem-cobranca-suspensa-na-justica.ghtml",
+   "publicado": "2026-08-11T10:15:25+00:00",
+   "tickers": [],
+   "resumo": "A Justiça do Espírito Santo suspendeu a cobrança das dívidas do grupo Apex Partners. O juiz Marcos Pereira Sanches, da Vara de Recuperação Judicial e Falência de Vitória, concedeu uma tutela cautelar antecedente, uma espécie de \"pré-recuperação judicial\", que interrompe execuções"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Bolsas da Europa operam sem força com alta do petróleo e impasse sobre Ormuz",
+   "url": "https://www.moneytimes.com.br/bolsas-da-europa-operam-sem-forca-com-alta-do-petroleo-e-impasse-sobre-ormuz/",
+   "publicado": "2026-08-11T10:11:08+00:00",
+   "tickers": [],
+   "resumo": "As bolsas europeias operam sem força e com variações modestas na manhã desta terça-feira (11), enquanto o petróleo segue avançando em meio ao impasse nas negociações para reabrir o Estreito de Ormuz. Por volta das 6h15 (de Brasília), o índice pan-europeu Stoxx 600 recuava 0,17%, "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "ACM Neto e Jerônimo empatam na Bahia; Rui Costa e Jaques Wagner lideram ao Senado, aponta Real Time Big Data",
+   "url": "https://www.moneytimes.com.br/acm-neto-e-jeronimo-empatam-na-bahia-rui-costa-e-jaques-wagner-lideram-ao-senado-aponta-real-time-big-data-gaep/",
+   "publicado": "2026-08-11T10:00:00+00:00",
+   "tickers": [],
+   "resumo": "Pesquisa Real Time Big Data para o governo da Bahia divulgada nesta terça-feira (11) revela um empate técnico nos dois turnos entre o ex-prefeito de Salvador ACM Neto (União Brasil) e o atual governador do Estado, Jerônimo Rodrigues (PT), na eleição 2026 para Executivo local. Na "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Vale comprar Ibovespa agora, mesmo com incertezas no curto prazo? Estrategista da Santander Corretora enxerga uma oportunidade",
+   "url": "https://www.moneytimes.com.br/vale-comprar-ibovespa-agora-mesmo-com-incertezas-no-curto-prazo-estrategista-da-santander-corretora-enxerga-uma-oportunidade-apsa/",
+   "publicado": "2026-08-11T10:00:00+00:00",
+   "tickers": [],
+   "resumo": "A bolsa brasileira, a B3, enfrenta alguns desafios na reta final do ano: incertezas com a credibilidade de um ajuste fiscal, trade eleitoral com a proximidade das eleições para a Presidência da República e juros nominais e reais elevados. Neste contexto, o que ainda torna a bolsa"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Dia D dos juros: ata do Copom e IPCA mexem com o mercado; Ibovespa em dólar cai hoje (11)",
+   "url": "https://www.moneytimes.com.br/dia-d-dos-juros-ata-do-copom-e-ipca-mexem-com-o-mercado-ibovespa-em-dolar-cai-hoje-11/",
+   "publicado": "2026-08-11T09:59:37+00:00",
+   "tickers": [],
+   "resumo": "O mercado acompanha nesta terça-feira (11) a divulgação da ata da última reunião do Comitê de Política Monetária (Copom), que reduziu a taxa básica de juros para 14% ao ano. O documento é aguardado pelos investidores por trazer detalhes sobre os fatores que sustentaram a decisão "
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Entre IA e renda fixa: onde os brasileiros estão investirando nos EUA",
+   "url": "https://valorinveste.globo.com/produtos/investimento-no-exterior/noticia/2026/08/11/entre-ia-e-renda-fixa-onde-os-brasileiros-estao-investirando-nos-eua.ghtml",
+   "publicado": "2026-08-11T09:58:45+00:00",
+   "tickers": [],
+   "resumo": "Julho mostrou duas faces do investidor brasileiro nos Estados Unidos: de um lado, a busca por empresas que podem se beneficiar dos investimentos em infraestrutura para inteligência artificial; de outro, a manutenção de uma parcela do dinheiro em ativos mais conservadores, princip"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "O dinheiro dos outros",
+   "url": "https://valorinveste.globo.com/blogs/marcelo-trindade/coluna/o-dinheiro-dos-outros.ghtml",
+   "publicado": "2026-08-11T09:55:31+00:00",
+   "tickers": [],
+   "resumo": "Em junho ocorreu a maior oferta inicial de venda de ações (IPO) da história: a Space X captou 85 bilhões de dólares – incluída a opção de compra pelos bancos responsáveis pela oferta (o chamado greenshoe). Desde então, a cotação das ações tem enfrentado grande volatilidade: lança"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "O jeito de investir para a aposentadoria está mudando — e isso vai além da previdência privada",
+   "url": "https://valorinveste.globo.com/produtos/previdencia-privada/noticia/2026/08/11/o-jeito-de-investir-para-a-aposentadoria-esta-mudando-e-isso-vai-alem-da-previdencia-privada.ghtml",
+   "publicado": "2026-08-11T09:55:24+00:00",
+   "tickers": [],
+   "resumo": "Viver mais deixou de ser uma projeção para se tornar uma realidade. Com a expectativa de vida aumentando e um sistema previdenciário pressionado pelo envelhecimento da população, depender exclusivamente do INSS tende a ser cada vez menos suficiente para manter o padrão de renda d"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "De ‘go local’ a ‘go global’. A AI está ampliando a ambição das startups",
+   "url": "https://braziljournal.com/de-go-local-a-go-global-a-ai-esta-ampliando-a-ambicao-das-startups/",
+   "publicado": "2026-08-11T09:50:48+00:00",
+   "tickers": [],
+   "resumo": "Brian Requarth vendeu o marketplace de imóveis Viva Real para a OLX Brasil em 2020 por R$ 2,9 bilhões. Meses depois, fundou a Latitud Ventures – um fundo de venture capital para ser o “primeiro cheque” de startups latino-americanas. No início, quase todas as investidas eram volta"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "“O mercado está diferente”. O plano da Heineken para recuperar volume no Brasil",
+   "url": "https://braziljournal.com/o-mercado-esta-diferente-o-plano-da-heineken-para-recuperar-volume-no-brasil/",
+   "publicado": "2026-08-11T09:50:34+00:00",
+   "tickers": [],
+   "resumo": "Durante anos, Maurício Giamellaro, o CEO da Heineken no Brasil, precisou repetir a mesma explicação aos clientes: a companhia não tinha cerveja suficiente para atender à demanda.  Esse problema acabou depois de a companhia investir mais de R$ 6 bilhões em novas fábricas e ampliaç"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "A arquitetura contratual de um fundo de private equity",
+   "url": "https://valorinveste.globo.com/blogs/marina-procknor/coluna/a-arquitetura-contratual-de-um-fundo-de-private-equity.ghtml",
+   "publicado": "2026-08-11T09:45:02+00:00",
+   "tickers": [],
+   "resumo": "Na coluna anterior, escrevi sobre as perguntas que o investidor sofisticado faz para avaliar um gestor de private equity. Mas avaliar pessoas e histórico é apenas metade do trabalho. A outra metade é entender como o contrato entre quem aloca e quem opera está construído.\nEm merca"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Boom de chips para IA torna engenheiros da Samsung e da SK Hynix ‘bons partidos’ na Coreia",
+   "url": "https://investnews.com.br/the-wall-street-journal/boom-dos-chips-transforma-engenheiros-da-samsung-e-sk-hynix-em-bons-partidos-na-coreia/",
+   "publicado": "2026-08-11T09:03:00+00:00",
+   "tickers": [],
+   "resumo": "Graças a bônus de centenas de milhares de dólares, engenheiros da Samsung e da SK Hynix são os solteiros mais cobiçados da Coreia do Sul"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Preço dos carros usados sobe cada vez menos. E isso é um problema para as locadoras",
+   "url": "https://investnews.com.br/negocios/preco-carro-usado-desacelera-locadoras/",
+   "publicado": "2026-08-11T09:00:00+00:00",
+   "tickers": [],
+   "resumo": "Anos de alta acima da inflação podem estar com os dias contados. E isso afeta não só o consumidor mas também o negócio de revendas"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "KNCA11 vê resultado cair 31,4%; dividendo volta para R$ 1 por cota",
+   "url": "https://www.suno.com.br/noticias/knca11-ve-resultado-cair-314-dividendo-volta-para-r-1-por-cota/",
+   "publicado": "2026-08-11T00:25:08+00:00",
+   "tickers": [
+    "KNCA11"
+   ],
+   "resumo": "O Fiagro KNCA11 (Kinea Crédito Agro) encerrou julho com resultado líquido de R$ 21,6 milhões, queda de 31,4% ante os R$ 31,5 milhões registrados em junho. Com a retração, a distribuição mensal retornou a R$ 1 por cota, após o pagamento de R$ 1,13 no mês anterior. O resultado gera"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "FII EXES11 fecha em alta de 0,63%; fundo vai na contramão do IFIX",
+   "url": "https://www.suno.com.br/noticias/fii-exes11-fecha-em-alta-de-063-fundo-vai-na-contramao-do-ifix/",
+   "publicado": "2026-08-10T23:55:06+00:00",
+   "tickers": [
+    "EXES11"
+   ],
+   "resumo": "O EXES11 encerrou o pregão desta segunda-feira (10) com avanço de 0,63%, a R$ 9,66, em sentido oposto ao mercado de fundos imobiliários. A cota oscilou entre R$ 9,64 e R$ 9,68 ao longo da sessão, após abertura em R$ 9,68, e fechou próxima da máxima do dia. O desempenho destoou do"
+  },
+  {
    "fonte": "Suno Noticias",
    "titulo": "SNID11 fecha pregão em alta de 0,2%; fundo acumula ganhos acima de 16%",
    "url": "https://www.suno.com.br/noticias/snid11-fecha-pregao-em-alta-de-02-fundo-acumula-ganhos-acima-de-16/",
@@ -21,16 +224,6 @@
     "SNME11"
    ],
    "resumo": "O SNME11 encerrou o pregão desta segunda-feira (10) em alta de 0,53%, cotado a R$ 9,44. A cota abriu a sessão em R$ 9,38, alcançou R$ 9,44 ao longo do dia e terminou exatamente na máxima registrada na tela. O desempenho ficou na contramão do IFIX, que recuou 0,76% no mesmo períod"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Itaúsa (ITSA4) lucra R$ 4,3 bilhões, alta de 7%, no 2T26",
-   "url": "https://www.moneytimes.com.br/itausa-itsa4-lucra-r-43-bilhoes-alta-de-7-no-2t26/",
-   "publicado": "2026-08-10T22:47:10+00:00",
-   "tickers": [
-    "ITSA4"
-   ],
-   "resumo": "A Itaúsa (ITSA4) encerrou o segundo trimestre de 2026 com lucro líquido de R$ 4,3 bilhões, alta de 7% em relação ao mesmo período do ano passado, segundo documento enviado ao mercado nesta segunda-feira (10). De acordo com a companhia, o resultado foi impulsionado pelo &#8220;sól"
   },
   {
    "fonte": "Valor Investe",
@@ -63,35 +256,6 @@
    "resumo": "O SNEL11 fechou o pregão desta segunda-feira (10) em alta de 0,12%, a R$ 8,38. Ao longo da sessão, o fundo renovou a máxima histórica ao considerar retorno + dividendos, segundo os dados de fechamento. A cota variou entre R$ 8,36 e R$ 8,38 durante o dia, encerrando próxima do top"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Hugo Motta retribui gesto do presidente e diz que apoiará candidatura de Lula à reeleição",
-   "url": "https://www.moneytimes.com.br/hugo-motta-retribui-gesto-do-presidente-e-diz-que-apoiara-candidatura-de-lula-a-reeleicao-rnda/",
-   "publicado": "2026-08-10T22:23:53+00:00",
-   "tickers": [],
-   "resumo": "O presidente da Câmara dos Deputados, Hugo Motta (Republicanos-PB), declarou nesta segunda-feira, 10, que ele e o Republicanos da Paraíba apoiarão a reeleição do presidente Luiz Inácio Lula da Silva. Motta disse que Lula &#8220;é o presidente que converge com aquilo que pensamos "
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "São Martinho (SMTO3): Lucro encolhe 39,3%, para R$ 38,14 milhões no 1T27",
-   "url": "https://www.moneytimes.com.br/sao-martinho-smto3-lucro-encolhe-393-para-r-3814-milhoes-no-1t27-pads/",
-   "publicado": "2026-08-10T22:15:15+00:00",
-   "tickers": [
-    "SMTO3"
-   ],
-   "resumo": "A São Martinho (SMTO3) reportou um lucro líquido de R$ 38,149 milhões no primeiro trimestre do ano-safra 2026/27 (1T27), uma queda de 39,3% na comparação com o primeiro trimestre da safra 2025/2026 (1T26). No mesmo comparativo, a receita líquida caiu 17,6%, saindo de R$ 1,857 bil"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Moody’s rebaixa rating da Cosan (CSAN3) em meio à deterioração da qualidade de crédito da Raízen (RAIZ4)",
-   "url": "https://www.moneytimes.com.br/moodys-rebaixa-rating-da-cosan-csan3-e-mantem-perspectiva-negativa-pads/",
-   "publicado": "2026-08-10T22:12:34+00:00",
-   "tickers": [
-    "CSAN3",
-    "RAIZ4"
-   ],
-   "resumo": "A Moody’s Local Brasil rebaixou nesta segunda-feira (10) o rating de emissor da Cosan (CSAN3) para A+.br, ante AA.br, e manteve a perspectiva negativa. A decisão conclui a revisão dos ratings iniciada em fevereiro deste ano. Segundo a agência de classificação de risco, o rebaixam"
-  },
-  {
    "fonte": "Suno Noticias",
    "titulo": "IFIX recua aos 3.742,32 pontos e fecha em queda de 0,76%",
    "url": "https://www.suno.com.br/noticias/ifix-recua-aos-3-74232-pontos-e-fecha-em-queda-de-076/",
@@ -100,52 +264,12 @@
    "resumo": "O IFIX encerrou o pregão desta segunda-feira (10) aos 3.742,32 pontos, recuo de 0,76% no dia. A variação corresponde a uma perda de 28,83 pontos frente ao fechamento anterior, de 3.771,15 pontos. O desempenho consolidou uma sessão negativa para o índice de fundos imobiliários, qu"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Natura (NATU3) vê lucro derreter 82% no 2T26, para R$ 35 milhões, bem abaixo do esperado",
-   "url": "https://www.moneytimes.com.br/natura-natu3-ve-lucro-derreter-82-no-2t26-para-r-35-milhoes-bem-abaixo-do-esperado-pads/",
-   "publicado": "2026-08-10T21:56:24+00:00",
-   "tickers": [
-    "NATU3"
-   ],
-   "resumo": "A Natura (NATU3) teve lucro líquido de R$35 milhões de abril ao final de junho, resultado 82% menor na comparação com o segundo trimestre de 2025, segundo balanço da fabricante de cosméticos divulgado nesta segunda-feira. O resultado operacional medido pelo lucro antes de juros, "
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Itaúsa (ITSA4) define data para R$ 2,8 bilhões em juros sobre o capital próprio",
-   "url": "https://www.moneytimes.com.br/itausa-itsa4-define-data-para-r-28-bilhoes-em-juros-sobre-o-capital-proprio-rnda/",
-   "publicado": "2026-08-10T21:45:29+00:00",
-   "tickers": [
-    "ITSA4"
-   ],
-   "resumo": "A Itaúsa (ITSA4) bateu o martelo e pagará em 28 de agosto, R$ 2,8 bilhões em juros sobre o capital próprio, mostra documento enviado ao mercado nesta segunda-feira (10). O montante diz respeito a dois pagamentos: Está marcado para esta segunda a divulgação de resultados."
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Grupo SBF (SBFG3): mesmo sem o hexa, dona da Centauro celebra impulso da Copa do Mundo e lucra 63% a mais no 2T26",
-   "url": "https://www.moneytimes.com.br/grupo-sbf-sbfg3-mesmo-sem-o-hexa-dona-da-centauro-celebra-impulso-da-copa-do-mundo-e-lucra-63-a-mais-no-2t26/",
-   "publicado": "2026-08-10T21:42:16+00:00",
-   "tickers": [
-    "SBFG3"
-   ],
-   "resumo": "O Grupo SBF (SBFG3), dono da Centauro e responsável pela operação da Nike no Brasil por meio da Fisia, registrou lucro líquido ajustado de R$ 141,9 milhões no segundo trimestre de 2026, alta de 62,7% em relação ao mesmo período do ano passado. A companhia atribui parte importante"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "A JBS nunca vendeu tanto. Mesmo assim, teve prejuízo de US$ 102 milhões",
    "url": "https://investnews.com.br/negocios/jbs-vende-mais-mas-fecha-trimestre-no-prejuizo-com-crise-da-carne-nos-eua/",
    "publicado": "2026-08-10T21:39:04+00:00",
    "tickers": [],
    "resumo": "Crise do gado nos EUA e custos financeiros derrubam o resultado; JBS ainda paga US$ 1 bi em dividendos"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Movida (MOVI3) prevê salto no lucro do 3T26",
-   "url": "https://www.moneytimes.com.br/movida-movi3-preve-salto-no-lucro-do-3t26-pads/",
-   "publicado": "2026-08-10T21:31:29+00:00",
-   "tickers": [
-    "MOVI3"
-   ],
-   "resumo": "A Movida (MOVI3) anunciou nesta segunda-feira que espera lucro líquido de entre R$130 milhões e R$150 milhões para o terceiro trimestre, o dobro do resultado de R$70 milhões obtido no mesmo período de 2025. A companhia de aluguel de carros controlada pela holding Simpar afirmou a"
   },
   {
    "fonte": "Suno Noticias",
@@ -164,22 +288,6 @@
    "publicado": "2026-08-10T21:24:13+00:00",
    "tickers": [],
    "resumo": "Com mais diárias e tarifas maiores, locadora melhora retorno sobre o capital; estratégia de frota mais barata ajuda a conter, por ora, a pressão sobre a depreciação"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Juros futuros sobem na esteira dos Treasuries antes de IPCA e ata do Copom",
-   "url": "https://www.moneytimes.com.br/juros-futuros-10-8-26-lils/",
-   "publicado": "2026-08-10T21:14:12+00:00",
-   "tickers": [],
-   "resumo": "A curva de juros brasileira abriu nesta segunda-feira (10) na esteira da alta dos rendimentos dos títulos do Tesouro dos EUA, os Treasuries, em meio à retomada da tensão entre Estados Unidos e Irã sobre o Estreito de Ormuz. A taxa do contrato de Depósito Interfinanceiro (DI) para"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "PicPay (PICS) tem novo CFO; veja quem assume",
-   "url": "https://www.moneytimes.com.br/picpay-pics-tem-novo-cfo-veja-quem-assume/",
-   "publicado": "2026-08-10T21:13:54+00:00",
-   "tickers": [],
-   "resumo": "O PicPay (PICS) trocou seu diretor financeiro (CFO), com a entrada de André Cazotto no lugar de Rodrigo Couto, que atuará como assessor especial da companhia até o final de 2026 para garantir uma transição tranquila, mostra documento desta segunda-feira (10). Como CFO, Cazotto, q"
   },
   {
    "fonte": "Suno Noticias",
@@ -225,14 +333,6 @@
    "resumo": "A Anvisa revogou hoje todas as resoluções e medidas provisórias que proibiam a venda de medicamentos pela Shoppe, Rappi, iFood, Mercado Livre e Americanas – um movimento que torna cada vez mais próxima a liberação definitiva deste tipo de venda pelos marketplaces.  A revogação ve"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "Fiagros superam 600 mil investidores; emissões no 1º semestre chegam a R$ 8,3 bilhões",
-   "url": "https://www.suno.com.br/noticias/fiagros-superam-600-mil-investidores-emissoes-no-1o-semestre-chegam-a-r-83-bilhoes/",
-   "publicado": "2026-08-10T19:55:04+00:00",
-   "tickers": [],
-   "resumo": "Os Fiagros ultrapassaram a marca de 600 mil investidores pessoas físicas na B3, segundo dados divulgados nesta segunda-feira (10) pela bolsa brasileira. No momento, 57 fundos dessa classe estão listados. As emissões somaram R$ 8,3 bilhões no primeiro semestre de 2026, com expansã"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Tesouro Renda+, sob os juros de hoje, transforma um Corolla numa Ferrari. Mas só para quem pode esperar",
    "url": "https://investnews.com.br/investimentos/tesouro-renda-sob-os-juros-de-hoje-transforma-um-corolla-numa-ferrari-mas-so-para-quem-pode-esperar/",
@@ -247,16 +347,6 @@
    "publicado": "2026-08-10T19:47:51+00:00",
    "tickers": [],
    "resumo": "Declaração do ITR 2026 deve ser enviada até 30 de setembro e passa a ter novos critérios de obrigatoriedade para empresas e pessoas físicas"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Vale (VALE3) tem data com para dividendos nesta semana; veja calendário completo",
-   "url": "https://www.suno.com.br/noticias/vale-vale3-data-com-11-agosto-dividendos-jcp-2t25-go/",
-   "publicado": "2026-08-10T19:45:05+00:00",
-   "tickers": [
-    "VALE3"
-   ],
-   "resumo": "Os investidores que querem receber os proventos que a Vale (VALE3) vai pagar no dia 2 de setembro precisam comprar as ações até a próxima terça-feira (11), último dia em que a companhia registrará os acionistas com direito ao provento. A data com é o pregão até o qual o investido"
   },
   {
    "fonte": "InvestNews",
@@ -652,22 +742,6 @@
    "resumo": "Empresas buscam profissionais para organizar prioridades do CEO em meio a IA, geopolítica e negócios mais complexos"
   },
   {
-   "fonte": "Brazil Journal",
-   "titulo": "OPINIÃO. Quem manda na economia?",
-   "url": "https://braziljournal.com/opiniao-quem-manda-na-economia/",
-   "publicado": "2026-08-08T15:49:54+00:00",
-   "tickers": [],
-   "resumo": "No dia 14 de julho, o Senado aprovou por 73 a 1 uma PEC que cria uma aposentadoria especial para agentes comunitários de saúde – R$ 27 bilhões em dez anos –  sem indicar de onde sai o dinheiro. A Fazenda passou meses implorando para que a matéria não fosse pautada e ameaçou ir ao"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "Depois de perder a cabeça por seis horas— by Pedro Vinicio",
-   "url": "https://braziljournal.com/depois-de-perder-a-cabeca-por-seis-horas-by-pedro-vinicio/",
-   "publicado": "2026-08-08T15:00:16+00:00",
-   "tickers": [],
-   "resumo": "Ver o último.\nThe post Depois de perder a cabeça por seis horas— by Pedro Vinicio appeared first on Brazil Journal."
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Nova era na Berkshire? Greg Abel começa a usar o caixa acumulado por Buffett",
    "url": "https://investnews.com.br/negocios/berkshire-2t26-greg-abel-buffett/",
@@ -684,22 +758,6 @@
    "resumo": "O Santander colocou à venda mais de 600 imóveis em três leilões que ocorrem no mesmo dia, 11 de agosto, com lances a partir de R$ 10 mil e descontos que chegam a 93% sobre o valor de avaliação. Realizados em parceria com três leiloeiras (Biasi, Frazão e SOLD, do Grupo Superbid), "
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Trump reforça ofensiva por minerais críticos com projetos de US$ 3 bilhões",
-   "url": "https://investnews.com.br/negocios/trump-minerais-criticos-china/",
-   "publicado": "2026-08-08T12:08:10+00:00",
-   "tickers": [],
-   "resumo": "Pacote reúne novos investimentos e projetos já anunciados em mineração, baterias e ímãs para reduzir a dependência americana da China"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Pais ‘helicópteros’ estão guiando a carreira dos filhos adultos",
-   "url": "https://investnews.com.br/the-wall-street-journal/pais-helicopteros-estao-guiando-a-carreira-dos-filhos-adultos/",
-   "publicado": "2026-08-08T09:00:00+00:00",
-   "tickers": [],
-   "resumo": "Mães e pais estão ligando para gerentes de contratação, candidatando os filhos a vagas de emprego em nome deles e até ficando à espreita, fora do enquadramento, durante chamadas pelo Zoom"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Mega-Sena 3042 sorteia prêmio estimado em R$ 165 milhões no domingo (9), segundo maior do ano",
    "url": "https://valorinveste.globo.com/loterias/noticia/2026/08/08/mega-sena-3042-sorteio-como-e-ate-que-horas-pode-apostar.ghtml",
@@ -714,14 +772,6 @@
    "publicado": "2026-08-08T03:00:01+00:00",
    "tickers": [],
    "resumo": "A Mega-Sena 3042 vai sortear um prêmio estimado em R$ 165 milhões neste domingo (9), Dia dos Pais, a partir das 11h (horário de Brasília). E a bolada pode render R$ 1,1 milhão em apenas um mês na poupança. \nMas o retorno dessa aplicação em modalidades mais rentáveis da renda fixa"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "De hotel a galpões, TRX acelera compras e leva fatias de shoppings da Iguatemi por R$ 876 milhões",
-   "url": "https://investnews.com.br/negocios/trx-avanca-compras-iguatemi/",
-   "publicado": "2026-08-07T22:58:45+00:00",
-   "tickers": [],
-   "resumo": "Negócio se soma a aquisições bilionárias recentes em logística e hotelaria; fundo abriu captação que pode chegar a R$ 10 bilhões"
   },
   {
    "fonte": "Valor Investe",
@@ -818,73 +868,6 @@
    "publicado": "2026-08-07T11:36:54+00:00",
    "tickers": [],
    "resumo": "Enquanto o mercado global de dívida caminha para mais um ano de forte atividade, uma sequência de eventos de crédito envolvendo empresas brasileiras interrompeu o ritmo das emissões no exterior e impediu que o país acompanhasse o desempenho observado em outros mercados. Após um i"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Petrobras (PETR4), Assaí (ASAI3), Allos (ALOS3), Alpargatas (ALPA4) e mais: Veja os destaques das empresas",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/08/07/petrobras-petr4-assai-asai3-allos-alos3-alpargatas-alpa4-e-mais-veja-os-destaques-das-empresas.ghtml",
-   "publicado": "2026-08-07T11:08:52+00:00",
-   "tickers": [
-    "ALOS3",
-    "ALPA4",
-    "ASAI3",
-    "PETR4"
-   ],
-   "resumo": "Petrobras\nA Petrobras terminou o segundo trimestre de 2026 com lucro líquido de R$ 52,44 bilhões, alta de 96,8% em comparação com o lucro de R$ 26,65 bilhões apurado no mesmo intervalo do ano anterior. A teleconferência será realizada às 11h45.\n\nO conselho de administração da pet"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Relatório de emprego americano está no foco do mercado, que também repercute Petrobras",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/08/07/relatorio-de-emprego-americano-esta-no-foco-do-mercado-que-tambem-repercute-petrobras.ghtml",
-   "publicado": "2026-08-07T10:56:28+00:00",
-   "tickers": [],
-   "resumo": "Os investidores aguardam a divulgação do relatório de emprego dos Estados Unidos de julho, o \"payroll\", nesta sexta-feira (7). Os dados apontam a criação de empregos da maior economia do mundo e ditam a direção dos juros no país. No Brasil, o mercado repercute o resultado da Petr"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "A vingança dos filósofos: por que a IA está mudando o valor do conhecimento",
-   "url": "https://valorinveste.globo.com/blogs/hugo-daniel-azevedo/coluna/a-vinganca-dos-filosofos-por-que-a-ia-esta-mudando-o-valor-do-conhecimento.ghtml",
-   "publicado": "2026-08-07T09:40:08+00:00",
-   "tickers": [],
-   "resumo": "Durante décadas ouvimos o mesmo conselho: \"Aprenda a programar.\"\nEra difícil discordar. Em um mundo cada vez mais digital, dominar código parecia ser a habilidade mais valiosa que alguém poderia desenvolver. Programadores tornaram-se protagonistas da economia do conhecimento, dis"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "A economia da felicidade e a utilidade marginal da riqueza",
-   "url": "https://valorinveste.globo.com/blogs/carlos-heitor-campani/coluna/a-economia-da-felicidade-e-a-utilidade-marginal-da-riqueza.ghtml",
-   "publicado": "2026-08-07T09:30:08+00:00",
-   "tickers": [],
-   "resumo": "Olá, pessoal! O dinheiro é uma das invenções mais extraordinárias e transformadoras da história da humanidade. Como meio de troca universal, ele libertou o comércio das limitações do escambo e permitiu uma especialização do trabalho sem precedentes na civilização. No entanto, emb"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Recuperações judiciais batem recorde com onda de acordos bilionários",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/08/07/recuperacoes-judiciais-batem-recorde-com-onda-de-acordos-bilionarios.ghtml",
-   "publicado": "2026-08-07T09:20:08+00:00",
-   "tickers": [
-    "AMBP3",
-    "ONCO3",
-    "PCAR3",
-    "RAIZ4",
-    "TOKY3"
-   ],
-   "resumo": "O Brasil nunca teve tantas empresas em recuperação judicial. Eram 6.341 casos em um universo de 2,76 milhões de empresas apenas no que é considerado núcleo relevante da economia ao fim de junho, de acordo com a classificação do Monitor RGF-BIZDOC. Houve aumento de 6,2% em relação"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Veja a renda necessária para financiar imóvel em bairros de São Paulo",
-   "url": "https://valorinveste.globo.com/produtos/credito/noticia/2026/08/07/veja-a-renda-necessaria-para-financiar-imovel-em-bairros-de-sao-paulo.ghtml",
-   "publicado": "2026-08-07T09:10:08+00:00",
-   "tickers": [],
-   "resumo": "Um estudo feito pela Loft, empresa que presta serviços para imobiliárias, mostra quanto o comprador deve ganhar por mês para financiar um imóvel em vários bairros na capital paulistana. A pessoa precisa ter renda mensal média entre R$ 26 mil, para financiar um imóvel em Jabaquara"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Renda fixa puxa resgate dos fundos de investimentos",
-   "url": "https://valorinveste.globo.com/produtos/fundos/renda-fixa/noticia/2026/08/07/renda-fixa-puxa-resgate-dos-fundos-de-investimentos.ghtml",
-   "publicado": "2026-08-07T09:00:15+00:00",
-   "tickers": [],
-   "resumo": "Os cotistas dos fundos de investimentos resgataram R$ 25,3 bilhões em julho, descontando a aplicação, apontam os dados divulgados no site da Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais (Anbima). Foi o segundo mês consecutivo de debandada, que acelero"
   }
  ]
 }
