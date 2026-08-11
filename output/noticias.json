@@ -3,47 +3,284 @@
  "itens": 100,
  "dados": [
   {
-   "fonte": "Money Times",
-   "titulo": "Bolsas da Europa têm alta com negociações sobre Ormuz no radar; FTSE 100 destoa e recua",
-   "url": "https://www.moneytimes.com.br/europa-10-8-26-lils/",
-   "publicado": "2026-08-10T17:54:55+00:00",
-   "tickers": [],
-   "resumo": "Os índices europeus terminaram o pregão majoritariamente em alta com otimismo de avanço nas negociações no Oriente Médio para a reabertura total do Estreito de Ormuz. Nesta segunda-feira (10), o índice pan-europeu Stoxx 600 encerrou as negociações com leve avanço de 0,03%, aos 66"
+   "fonte": "Suno Noticias",
+   "titulo": "SNID11 fecha pregão em alta de 0,2%; fundo acumula ganhos acima de 16%",
+   "url": "https://www.suno.com.br/noticias/snid11-fecha-pregao-em-alta-de-02-fundo-acumula-ganhos-acima-de-16/",
+   "publicado": "2026-08-10T23:35:05+00:00",
+   "tickers": [
+    "SNID11"
+   ],
+   "resumo": "O SNID11 encerrou o pregão desta segunda-feira (10) em alta de 0,19%, cotado a R$ 10,39. O fundo abriu o dia no mesmo nível do fechamento anterior, de R$ 10,30, e durante a sessão chegou a marcar R$ 10,50. Ao longo do dia, as negociações mantiveram a cota próxima dos patamares in"
   },
   {
    "fonte": "Suno Noticias",
-   "titulo": "Meta (M1TA34) é condenada a pagar R$ 2,9 bilhões; entenda o caso que envolve menores",
-   "url": "https://www.suno.com.br/noticias/meta-m1ta34-condenacao-menores-redes-sociais-mt/",
-   "publicado": "2026-08-10T17:35:09+00:00",
-   "tickers": [],
-   "resumo": "A conta da proteção de crianças nas redes sociais ficou mais pesada para a Meta (M1TA34). A dona do Facebook e do Instagram foi condenada pela Justiça do Novo México, nos Estados Unidos, a pagar US$ 567 milhões, cerca de R$ 2,9 bilhões, e a promover mudanças relevantes no funcion"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Compre Meta (M1TA34) e venda duas ações para ganhar mais de 4% nesta semana, segundo o Safra",
-   "url": "https://www.moneytimes.com.br/compre-meta-m1ta34-e-venda-duas-acoes-para-ganhar-mais-de-4-nesta-semana-segundo-o-safra-lils/",
-   "publicado": "2026-08-10T17:28:54+00:00",
-   "tickers": [],
-   "resumo": "A Safra Corretora recomenda a compra de BDR da Meta (M1TA34) e outros dois papéis em day trade para esta semana. O banco também recomendou a venda de duas ações no período. Confira as oportunidades de compra e venda, segundo o Safra, entre os dias 10 e 14 de agosto: Empresa Ativo"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Shopee entra no mercado de remédios, mas concorrente pode ser o maior beneficiado",
-   "url": "https://www.moneytimes.com.br/shopee-entra-no-mercado-de-remedios-mas-concorrente-pode-ser-o-maior-beneficiado-lmrs/",
-   "publicado": "2026-08-10T17:21:26+00:00",
-   "tickers": [],
-   "resumo": "Nesta segunda-feira (10), a Shopee deu um passo importante para entrar no mercado de medicamentos. Uma decisão da Agência Nacional de Vigilância Sanitária (Anvisa) autorizou a plataforma a comercializar remédios vendidos por farmácias e drogarias devidamente licenciadas. Desde ma"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Compre Bradesco (BBDC4), Copasa (CSMG3) e outras 8 ações para ganhar mais de 5% nesta semana, segundo Itaú BBA",
-   "url": "https://www.moneytimes.com.br/compre-bradesco-bbdc4-copasa-csmg3-e-outras-8-acoes-para-ganhar-mais-de-5-nesta-semana-segundo-itau-bba-lils/",
-   "publicado": "2026-08-10T17:17:35+00:00",
+   "titulo": "SNME11 supera IFIX; fundo encerra pregão da segunda-feira em alta de 0,53%",
+   "url": "https://www.suno.com.br/noticias/snme11-supera-ifix-fundo-encerra-pregao-da-segunda-feira-em-alta-de-053/",
+   "publicado": "2026-08-10T23:05:06+00:00",
    "tickers": [
-    "BBDC4",
-    "CSMG3"
+    "SNME11"
    ],
-   "resumo": "A ação do Bradesco (BBDC4) é uma das recomendações de compra em day trade do Íon Itaú/Itaú BBA para esta semana. As ações da empresa fecharam a sessão da última sexta-feira (7) cotadas a R$ 17,31. O potencial de ganho no objetivo um é de 8,29% e o stop sugerido é de R$ 17,71. Con"
+   "resumo": "O SNME11 encerrou o pregão desta segunda-feira (10) em alta de 0,53%, cotado a R$ 9,44. A cota abriu a sessão em R$ 9,38, alcançou R$ 9,44 ao longo do dia e terminou exatamente na máxima registrada na tela. O desempenho ficou na contramão do IFIX, que recuou 0,76% no mesmo períod"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Itaúsa (ITSA4) lucra R$ 4,3 bilhões, alta de 7%, no 2T26",
+   "url": "https://www.moneytimes.com.br/itausa-itsa4-lucra-r-43-bilhoes-alta-de-7-no-2t26/",
+   "publicado": "2026-08-10T22:47:10+00:00",
+   "tickers": [
+    "ITSA4"
+   ],
+   "resumo": "A Itaúsa (ITSA4) encerrou o segundo trimestre de 2026 com lucro líquido de R$ 4,3 bilhões, alta de 7% em relação ao mesmo período do ano passado, segundo documento enviado ao mercado nesta segunda-feira (10). De acordo com a companhia, o resultado foi impulsionado pelo &#8220;sól"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Natura (NATU3) vê lucro desabar 92% no 2º tri com problemas operacionais e piora do resultado financeiro",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/08/10/natura-natu3-ve-lucro-desabar-92percent-no-2o-tri-com-problemas-operacionais-e-piora-do-resultado-financeiro.ghtml",
+   "publicado": "2026-08-10T22:41:45+00:00",
+   "tickers": [
+    "NATU3"
+   ],
+   "resumo": "A Natura (NATU3) encerrou o segundo trimestre de 2026 com lucro líquido de R$ 35 milhões, queda de 92% ante os R$ 446 milhões registrados nas operações continuadas um ano antes. O resultado foi afetado principalmente pela piora de R$ 320 milhões no resultado financeiro líquido, d"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Fundo imobiliário recebe aviso de saída de inquilino; impacto estimado é de R$ 0,20 por cota",
+   "url": "https://www.suno.com.br/noticias/fundo-imobiliario-recebe-aviso-de-saida-de-inquilino-impacto-estimado-e-de-r-020-por-cota/",
+   "publicado": "2026-08-10T22:35:07+00:00",
+   "tickers": [
+    "HJCT11"
+   ],
+   "resumo": "O fundo imobiliário Hedge JHSF Capital Prime Offices Fundo de Investimento Imobiliário (HJCT11) foi notificado pela União Química Farmacêutica Nacional sobre a não renovação do contrato de locação de dois conjuntos na Continental Tower, em São Paulo. A companhia informou que deix"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "SNEL11: fundo fecha em alta e renova máxima; liquidez chega a R$ 1,97 milhões",
+   "url": "https://www.suno.com.br/noticias/snel11-fundo-fecha-em-alta-e-renova-maxima-liquidez-chega-a-r-197-milhoes/",
+   "publicado": "2026-08-10T22:25:08+00:00",
+   "tickers": [
+    "SNEL11"
+   ],
+   "resumo": "O SNEL11 fechou o pregão desta segunda-feira (10) em alta de 0,12%, a R$ 8,38. Ao longo da sessão, o fundo renovou a máxima histórica ao considerar retorno + dividendos, segundo os dados de fechamento. A cota variou entre R$ 8,36 e R$ 8,38 durante o dia, encerrando próxima do top"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Hugo Motta retribui gesto do presidente e diz que apoiará candidatura de Lula à reeleição",
+   "url": "https://www.moneytimes.com.br/hugo-motta-retribui-gesto-do-presidente-e-diz-que-apoiara-candidatura-de-lula-a-reeleicao-rnda/",
+   "publicado": "2026-08-10T22:23:53+00:00",
+   "tickers": [],
+   "resumo": "O presidente da Câmara dos Deputados, Hugo Motta (Republicanos-PB), declarou nesta segunda-feira, 10, que ele e o Republicanos da Paraíba apoiarão a reeleição do presidente Luiz Inácio Lula da Silva. Motta disse que Lula &#8220;é o presidente que converge com aquilo que pensamos "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "São Martinho (SMTO3): Lucro encolhe 39,3%, para R$ 38,14 milhões no 1T27",
+   "url": "https://www.moneytimes.com.br/sao-martinho-smto3-lucro-encolhe-393-para-r-3814-milhoes-no-1t27-pads/",
+   "publicado": "2026-08-10T22:15:15+00:00",
+   "tickers": [
+    "SMTO3"
+   ],
+   "resumo": "A São Martinho (SMTO3) reportou um lucro líquido de R$ 38,149 milhões no primeiro trimestre do ano-safra 2026/27 (1T27), uma queda de 39,3% na comparação com o primeiro trimestre da safra 2025/2026 (1T26). No mesmo comparativo, a receita líquida caiu 17,6%, saindo de R$ 1,857 bil"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Moody’s rebaixa rating da Cosan (CSAN3) em meio à deterioração da qualidade de crédito da Raízen (RAIZ4)",
+   "url": "https://www.moneytimes.com.br/moodys-rebaixa-rating-da-cosan-csan3-e-mantem-perspectiva-negativa-pads/",
+   "publicado": "2026-08-10T22:12:34+00:00",
+   "tickers": [
+    "CSAN3",
+    "RAIZ4"
+   ],
+   "resumo": "A Moody’s Local Brasil rebaixou nesta segunda-feira (10) o rating de emissor da Cosan (CSAN3) para A+.br, ante AA.br, e manteve a perspectiva negativa. A decisão conclui a revisão dos ratings iniciada em fevereiro deste ano. Segundo a agência de classificação de risco, o rebaixam"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "IFIX recua aos 3.742,32 pontos e fecha em queda de 0,76%",
+   "url": "https://www.suno.com.br/noticias/ifix-recua-aos-3-74232-pontos-e-fecha-em-queda-de-076/",
+   "publicado": "2026-08-10T22:05:06+00:00",
+   "tickers": [],
+   "resumo": "O IFIX encerrou o pregão desta segunda-feira (10) aos 3.742,32 pontos, recuo de 0,76% no dia. A variação corresponde a uma perda de 28,83 pontos frente ao fechamento anterior, de 3.771,15 pontos. O desempenho consolidou uma sessão negativa para o índice de fundos imobiliários, qu"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Natura (NATU3) vê lucro derreter 82% no 2T26, para R$ 35 milhões, bem abaixo do esperado",
+   "url": "https://www.moneytimes.com.br/natura-natu3-ve-lucro-derreter-82-no-2t26-para-r-35-milhoes-bem-abaixo-do-esperado-pads/",
+   "publicado": "2026-08-10T21:56:24+00:00",
+   "tickers": [
+    "NATU3"
+   ],
+   "resumo": "A Natura (NATU3) teve lucro líquido de R$35 milhões de abril ao final de junho, resultado 82% menor na comparação com o segundo trimestre de 2025, segundo balanço da fabricante de cosméticos divulgado nesta segunda-feira. O resultado operacional medido pelo lucro antes de juros, "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Itaúsa (ITSA4) define data para R$ 2,8 bilhões em juros sobre o capital próprio",
+   "url": "https://www.moneytimes.com.br/itausa-itsa4-define-data-para-r-28-bilhoes-em-juros-sobre-o-capital-proprio-rnda/",
+   "publicado": "2026-08-10T21:45:29+00:00",
+   "tickers": [
+    "ITSA4"
+   ],
+   "resumo": "A Itaúsa (ITSA4) bateu o martelo e pagará em 28 de agosto, R$ 2,8 bilhões em juros sobre o capital próprio, mostra documento enviado ao mercado nesta segunda-feira (10). O montante diz respeito a dois pagamentos: Está marcado para esta segunda a divulgação de resultados."
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Grupo SBF (SBFG3): mesmo sem o hexa, dona da Centauro celebra impulso da Copa do Mundo e lucra 63% a mais no 2T26",
+   "url": "https://www.moneytimes.com.br/grupo-sbf-sbfg3-mesmo-sem-o-hexa-dona-da-centauro-celebra-impulso-da-copa-do-mundo-e-lucra-63-a-mais-no-2t26/",
+   "publicado": "2026-08-10T21:42:16+00:00",
+   "tickers": [
+    "SBFG3"
+   ],
+   "resumo": "O Grupo SBF (SBFG3), dono da Centauro e responsável pela operação da Nike no Brasil por meio da Fisia, registrou lucro líquido ajustado de R$ 141,9 milhões no segundo trimestre de 2026, alta de 62,7% em relação ao mesmo período do ano passado. A companhia atribui parte importante"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "A JBS nunca vendeu tanto. Mesmo assim, teve prejuízo de US$ 102 milhões",
+   "url": "https://investnews.com.br/negocios/jbs-vende-mais-mas-fecha-trimestre-no-prejuizo-com-crise-da-carne-nos-eua/",
+   "publicado": "2026-08-10T21:39:04+00:00",
+   "tickers": [],
+   "resumo": "Crise do gado nos EUA e custos financeiros derrubam o resultado; JBS ainda paga US$ 1 bi em dividendos"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Movida (MOVI3) prevê salto no lucro do 3T26",
+   "url": "https://www.moneytimes.com.br/movida-movi3-preve-salto-no-lucro-do-3t26-pads/",
+   "publicado": "2026-08-10T21:31:29+00:00",
+   "tickers": [
+    "MOVI3"
+   ],
+   "resumo": "A Movida (MOVI3) anunciou nesta segunda-feira que espera lucro líquido de entre R$130 milhões e R$150 milhões para o terceiro trimestre, o dobro do resultado de R$70 milhões obtido no mesmo período de 2025. A companhia de aluguel de carros controlada pela holding Simpar afirmou a"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Ibovespa cai pela 5ª vez seguida com tensão no Oriente Médio; Petrobras (PETR4) limita perdas",
+   "url": "https://www.suno.com.br/noticias/ibovespa-hoje-10-agosto-2026-petr4-oriente-medio-mt/",
+   "publicado": "2026-08-10T21:25:08+00:00",
+   "tickers": [
+    "PETR4"
+   ],
+   "resumo": "O Ibovespa iniciou a semana no vermelho e completou a quinta sessão consecutiva de queda nesta segunda-feira (10), pressionado pela volta das preocupações com o conflito entre Estados Unidos e Irã e pelos possíveis impactos da alta do petróleo sobre a inflação global. O principal"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Movida aumenta ocupação e preços para fazer a frota render mais",
+   "url": "https://investnews.com.br/negocios/movida-aumenta-aluguel-ocupacao-frota/",
+   "publicado": "2026-08-10T21:24:13+00:00",
+   "tickers": [],
+   "resumo": "Com mais diárias e tarifas maiores, locadora melhora retorno sobre o capital; estratégia de frota mais barata ajuda a conter, por ora, a pressão sobre a depreciação"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Juros futuros sobem na esteira dos Treasuries antes de IPCA e ata do Copom",
+   "url": "https://www.moneytimes.com.br/juros-futuros-10-8-26-lils/",
+   "publicado": "2026-08-10T21:14:12+00:00",
+   "tickers": [],
+   "resumo": "A curva de juros brasileira abriu nesta segunda-feira (10) na esteira da alta dos rendimentos dos títulos do Tesouro dos EUA, os Treasuries, em meio à retomada da tensão entre Estados Unidos e Irã sobre o Estreito de Ormuz. A taxa do contrato de Depósito Interfinanceiro (DI) para"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "PicPay (PICS) tem novo CFO; veja quem assume",
+   "url": "https://www.moneytimes.com.br/picpay-pics-tem-novo-cfo-veja-quem-assume/",
+   "publicado": "2026-08-10T21:13:54+00:00",
+   "tickers": [],
+   "resumo": "O PicPay (PICS) trocou seu diretor financeiro (CFO), com a entrada de André Cazotto no lugar de Rodrigo Couto, que atuará como assessor especial da companhia até o final de 2026 para garantir uma transição tranquila, mostra documento desta segunda-feira (10). Como CFO, Cazotto, q"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Pix Internacional está mais perto? Banco Central avança em plano para conectar pagamentos entre países",
+   "url": "https://www.suno.com.br/noticias/pix-internacional-banco-central-pagamentos-paises-mt/",
+   "publicado": "2026-08-10T20:45:06+00:00",
+   "tickers": [],
+   "resumo": "Mandar um Pix para alguém do outro lado da cidade leva poucos segundos. O próximo passo pode ser fazer o dinheiro atravessar uma fronteira com a mesma facilidade. O Banco Central passou a tratar de forma mais concreta a possibilidade de conectar o sistema brasileiro a plataformas"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Ibovespa cede à cautela global e vive teste de fogo nos 172 mil pontos",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/08/10/ibovespa-cede-a-cautela-global-e-vive-teste-de-fogo-nos-172-mil-pontos.ghtml",
+   "publicado": "2026-08-10T20:42:19+00:00",
+   "tickers": [
+    "CSAN3",
+    "EMBR3",
+    "PETR3",
+    "PETR4",
+    "PRIO3",
+    "RECV3",
+    "VAMO3",
+    "YDUQ3"
+   ],
+   "resumo": "O compasso de espera deu o tom na bolsa brasileira neste início de semana. O Ibovespa até tentou ensaiar alguma reação ao longo da sessão desta segunda-feira (10), mas acabou contido pela escalada dos preços do petróleo no exterior e pela cautela generalizada que antecede a divul"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "TRXF11 negocia compra de cinco shoppings por R$ 876 milhões",
+   "url": "https://www.suno.com.br/noticias/trxf11-negocia-compra-de-cinco-shoppings-por-r-876-milhoes/",
+   "publicado": "2026-08-10T20:25:07+00:00",
+   "tickers": [
+    "TRXF11"
+   ],
+   "resumo": "O fundo imobiliário TRXF11 (TRX Real Estate) comunicou duas movimentações relevantes e de naturezas distintas. De um lado, firmou acordo para adquirir participações em cinco shoppings administrados pela Iguatemi, em operação avaliada em R$ 876,1 milhões. De outro, assinou comprom"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Venda de remédios nos marketplaces fica mais perto. Qual o impacto nas farmácias?",
+   "url": "https://braziljournal.com/venda-de-remedios-nos-marketplaces-fica-mais-perto-qual-o-impacto-nas-farmacias/",
+   "publicado": "2026-08-10T20:20:56+00:00",
+   "tickers": [],
+   "resumo": "A Anvisa revogou hoje todas as resoluções e medidas provisórias que proibiam a venda de medicamentos pela Shoppe, Rappi, iFood, Mercado Livre e Americanas – um movimento que torna cada vez mais próxima a liberação definitiva deste tipo de venda pelos marketplaces.  A revogação ve"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Fiagros superam 600 mil investidores; emissões no 1º semestre chegam a R$ 8,3 bilhões",
+   "url": "https://www.suno.com.br/noticias/fiagros-superam-600-mil-investidores-emissoes-no-1o-semestre-chegam-a-r-83-bilhoes/",
+   "publicado": "2026-08-10T19:55:04+00:00",
+   "tickers": [],
+   "resumo": "Os Fiagros ultrapassaram a marca de 600 mil investidores pessoas físicas na B3, segundo dados divulgados nesta segunda-feira (10) pela bolsa brasileira. No momento, 57 fundos dessa classe estão listados. As emissões somaram R$ 8,3 bilhões no primeiro semestre de 2026, com expansã"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Tesouro Renda+, sob os juros de hoje, transforma um Corolla numa Ferrari. Mas só para quem pode esperar",
+   "url": "https://investnews.com.br/investimentos/tesouro-renda-sob-os-juros-de-hoje-transforma-um-corolla-numa-ferrari-mas-so-para-quem-pode-esperar/",
+   "publicado": "2026-08-10T19:49:51+00:00",
+   "tickers": [],
+   "resumo": "O que significa travar um juro historicamente alto por décadas? O Renda+, título mais longo do Tesouro, dá a resposta. E ela é surpreendente"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Tem imóvel na zona rural? Prazo do ITR 2026 começa nesta segunda (10). Veja como declarar",
+   "url": "https://investnews.com.br/financas/imovel-zona-rural-itr-2026-como-declarar/",
+   "publicado": "2026-08-10T19:47:51+00:00",
+   "tickers": [],
+   "resumo": "Declaração do ITR 2026 deve ser enviada até 30 de setembro e passa a ter novos critérios de obrigatoriedade para empresas e pessoas físicas"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Vale (VALE3) tem data com para dividendos nesta semana; veja calendário completo",
+   "url": "https://www.suno.com.br/noticias/vale-vale3-data-com-11-agosto-dividendos-jcp-2t25-go/",
+   "publicado": "2026-08-10T19:45:05+00:00",
+   "tickers": [
+    "VALE3"
+   ],
+   "resumo": "Os investidores que querem receber os proventos que a Vale (VALE3) vai pagar no dia 2 de setembro precisam comprar as ações até a próxima terça-feira (11), último dia em que a companhia registrará os acionistas com direito ao provento. A data com é o pregão até o qual o investido"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "JBS terá Wesley Batista Filho como novo CEO global em 2027",
+   "url": "https://investnews.com.br/negocios/jbs-tera-wesley-batista-filho-como-novo-ceo-global-em-2027/",
+   "publicado": "2026-08-10T18:51:44+00:00",
+   "tickers": [],
+   "resumo": "Wesley Batista Filho substituirá Gilberto Tomazoni, que deixará o cargo após oito anos e assumirá a vice-presidência do conselho da companhia"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Desenrola Adimplentes começa nesta segunda (10); veja quem pode participar e as regras",
+   "url": "https://valorinveste.globo.com/objetivo/organize-as-contas/noticia/2026/08/10/desenrola-adimplentes-quem-pode-participar.ghtml",
+   "publicado": "2026-08-10T18:33:58+00:00",
+   "tickers": [],
+   "resumo": "O Desenrola Adimplentes, modalidade do programa Desenrola voltada a trabalhadores informais que mantêm seus compromissos financeiros em dia, começa a funcionar nesta segunda-feira (10). O programa amplia a participação de instituições financeiras e permite trocar empréstimos mais"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Pix sem internet? Veja essa e outras novidades que o BC prepara para o próximo ano",
+   "url": "https://valorinveste.globo.com/produtos/servicos-financeiros/noticia/2026/08/10/pix-sem-internet-veja-essa-e-outras-novidades-que-o-bc-prepara-para-o-proximo-ano.ghtml",
+   "publicado": "2026-08-10T18:30:47+00:00",
+   "tickers": [],
+   "resumo": "O Pix deve ganhar novas formas de pagamento, funcionar em situações sem acesso à internet e incorporar novos mecanismos contra golpes e fraudes nos próximos anos. Em relatório sobre a evolução do sistema, divulgado nesta segunda-feira (10), o Banco Central (BC) detalhou projetos "
   },
   {
    "fonte": "Valor Investe",
@@ -52,66 +289,6 @@
    "publicado": "2026-08-10T16:58:41+00:00",
    "tickers": [],
    "resumo": "A Berkshire Hathaway superou as estimativas de mercado no segundo trimestre e voltou a ser compradora líquida de ações, sinalizando maior disposição para o risco depois de meses em reduziu sua participação no mercado acionário. O conglomerado adquiriu cerca de US$ 23 bilhões em p"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Fleury (FLRY3) vê lucro saltar 46% no 2T26 e anuncia R$ 217,8 milhões em JCP",
-   "url": "https://www.suno.com.br/noticias/fleury-flry3-resultado-2t26-lucro-jcp-mt/",
-   "publicado": "2026-08-10T16:55:05+00:00",
-   "tickers": [
-    "FLRY3"
-   ],
-   "resumo": "O Fleury (FLRY3) encerrou o segundo trimestre de 2026 combinando crescimento de receita, avanço da geração de caixa e um salto de quase 46% no lucro líquido. O desempenho veio acompanhado de outro anúncio relevante para o acionista: a companhia aprovou R$ 217,8 milhões em juros s"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Embraer (EMBJ3) lucra R$ 1,1 bilhão e ação dispara 7%; ‘Compraria para meu filho para daqui a 10 anos’, diz sócio da GT Capital",
-   "url": "https://www.moneytimes.com.br/embraer-embr3-lucra-r-11-bilhao-e-acao-dispara-7-compraria-para-meu-filho-para-daqui-a-10-anos-diz-socio-da-gt-capital-jvka/",
-   "publicado": "2026-08-10T16:54:51+00:00",
-   "tickers": [
-    "EMBJ3"
-   ],
-   "resumo": "A forte alta das ações da Embraer (EMBJ3) nesta segunda-feira (10) ocorreu após a divulgação dos resultados do segundo trimestre e a melhora das projeções para 2026. A companhia registrou lucro líquido ajustado de R$ 1,1 bilhão no período, avanço de 25% na comparação anual. A com"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Anvisa libera entrega de medicamentos por aplicativos como iFood, Rappi e Mercado Livre",
-   "url": "https://www.moneytimes.com.br/anvisa-libera-entrega-de-medicamentos-por-aplicativos-como-ifood-rappi-e-mercado-livre/",
-   "publicado": "2026-08-10T16:49:40+00:00",
-   "tickers": [],
-   "resumo": "A Agência Nacional de Vigilância Sanitária (Anvisa) liberou nesta segunda-feira, 10, a entrega de medicamentos por aplicativos e plataformas digitais. A resolução, publicada no Diário Oficial da União (DOU), cita lei de março de 2026, que passou a autorizar farmácias e drogarias "
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Master: PF faz varredura em fundo de previdência em Alagoas e mira aporte de R$ 97 mi no banco",
-   "url": "https://www.moneytimes.com.br/master-pf-faz-varredura-em-fundo-de-previdencia-em-alagoas-e-mira-aporte-de-r-97-mi-no-banco/",
-   "publicado": "2026-08-10T16:45:19+00:00",
-   "tickers": [],
-   "resumo": "A Polícia Federal (PF) cumpriu nesta segunda-feira, 10, oito mandados de busca e apreensão para investigar a aplicação de recursos do Regime Próprio de Previdência Social (RPPS) do município de Maceió em letras financeiras emitidas pelo Banco Master. Após a operação, o Maceió Pre"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Bolsas da Europa fecham sem direção única com incerteza sobre negociações para Ormuz",
-   "url": "https://www.moneytimes.com.br/bolsas-da-europa-fecham-sem-direcao-unica-com-incerteza-sobre-negociacoes-para-ormuz/",
-   "publicado": "2026-08-10T16:43:27+00:00",
-   "tickers": [],
-   "resumo": "As bolsas europeias fecharam sem direção única nesta segunda-feira (10) em meio à indefinição nas negociações para uma eventual reabertura do Estreito de Ormuz, as quais sustentam os preços do petróleo. Em Londres, o FTSE 100 fechou em queda de 0,35%, a 10.862,50 pontos. Em Frank"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Holding de Vorcaro é liquidada nas Ilhas Cayman",
-   "url": "https://www.moneytimes.com.br/holding-de-vorcaro-e-liquidada-nas-ilhas-cayman/",
-   "publicado": "2026-08-10T16:42:19+00:00",
-   "tickers": [],
-   "resumo": "A Titan Capital, conhecida pelas instalações de luxo e como a &#8220;holding ostentação&#8221; de Daniel Vorcaro, ex-controlador do Banco Master, foi liquidada. Com sede fiscal nas Ilhas Cayman, a empresa foi fechada de forma definitiva em decisão da Suprema Corte daquele país, q"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Banco Central avalia interligar Pix a sistemas de pagamentos internacionais",
-   "url": "https://www.moneytimes.com.br/bc-avalia-interligar-pix-a-sistemas-de-pagamentos-estrangeiros-em-meio-a-ataques-dos-eua/",
-   "publicado": "2026-08-10T16:37:41+00:00",
-   "tickers": [],
-   "resumo": "O Banco Central afirmou nesta segunda-feira que avalia a interligação do Pix com sistemas de pagamentos instantâneos de outros países, argumentando que a iniciativa geraria maior eficiência e menor custo de transações, em meio a ataques do governo dos Estados Unidos contra o mode"
   },
   {
    "fonte": "InvestNews",
@@ -130,42 +307,12 @@
    "resumo": "Muse Glimmer pode ser baixado e personalizado pelos usuários; Zuckerberg defende redução de barreiras para IA aberta diante do avanço de modelos chineses"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "Dividendo do BTHF11 rende 1,14% no mês; entenda quem recebe",
-   "url": "https://www.suno.com.br/noticias/dividendos-do-bthf11-agosto-2026/",
-   "publicado": "2026-08-10T15:35:08+00:00",
-   "tickers": [
-    "BTHF11"
-   ],
-   "resumo": "O fundo imobiliário BTHF11 confirmou uma nova distribuição aos cotistas. Os dividendos do BTHF11 serão de R$ 0,101 por cota, correspondentes ao resultado de julho de 2026, cujos números ainda não foram anunciados. O valor se mantém inalterado pelo 7º mês seguido. Terão direito ao"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Tesouro Direto: taxa do IPCA+ 2032 cai sozinha em dia de alta dos juros",
    "url": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/08/10/tesouro-direto-taxa-do-ipca-2032-cai-sozinha-em-dia-de-alta-dos-juros.ghtml",
    "publicado": "2026-08-10T14:54:59+00:00",
    "tickers": [],
    "resumo": "A falta de avanço nas negociações entre Estados Unidos e Irã no Oriente Médio contribui com a alta dos juros globais nesta segunda-feira (10), à medida em que o preço do petróleo dispara e as incertezas em relação à duração do conflito aumentam. É o que ocorre nos títulos público"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "FII será liquidado após aprovação dos cotistas; entenda o processo",
-   "url": "https://www.suno.com.br/noticias/fundo-imobiliario-itip11-dissolucao-liquidacao/",
-   "publicado": "2026-08-10T14:45:07+00:00",
-   "tickers": [
-    "ITIP11"
-   ],
-   "resumo": "Os cotistas do fundo imobiliário ITIP11 aprovaram, sem ressalvas, a dissolução e a liquidação do veículo. A deliberação confirma a reorganização proposta e autoriza a execução das etapas necessárias ao encerramento. O plano determina a venda de todos os ativos que hoje compõem a "
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Embraer (EMBJ3) lucra R$ 1,11 bi no 2T, bate recorde de receita e revisa guidance para cima",
-   "url": "https://www.suno.com.br/noticias/embraer-embj3-resultado-2t26-lucro-recorde-guidance-revisado-go/",
-   "publicado": "2026-08-10T14:31:00+00:00",
-   "tickers": [
-    "EMBJ3"
-   ],
-   "resumo": "Embraer (EMBJ3) lucra R$ 1,11 bi no 2T, bate recorde de receita e revisa guidance para cimaA Embraer (EMBJ3) divulgou nesta segunda-feira (10) resultado do segundo trimestre de 2026 com lucro líquido ajustado de R$ 1,11 bilhão, alta de 25,1% frente ao mesmo período de 2025, recei"
   },
   {
    "fonte": "Valor Investe",
@@ -176,16 +323,6 @@
    "resumo": "A Polícia Federal cumpriu, nesta segunda-feira (10), oito mandados de busca e apreensão em operação que investiga possíveis irregularidades em investimentos do Instituto de Previdência dos Servidores Públicos de Maceió (Iprev-AL) feitos em letras financeiras (LFs) emitidas pelo B"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "Rendimento do BTCI11 rende 1,13% no mês; confira valor",
-   "url": "https://www.suno.com.br/noticias/dividendos-btci11-pagamento-agosto-2026/",
-   "publicado": "2026-08-10T13:45:04+00:00",
-   "tickers": [
-    "BTCI11"
-   ],
-   "resumo": "O fundo imobiliário BTCI11 anunciou a distribuição de proventos de R$ 0,103 por cota, ligeiramente abaixo do mês anterior, quando pagou R$ 0,105 por cota. O crédito ocorrerá em 14 de agosto de 2026. Para ter direito ao pagamento, o investidor precisava estar posicionado ao final "
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Brava encerra acordo de acionistas após avanço da Ecopetrol",
    "url": "https://investnews.com.br/negocios/brava-encerra-acordo-de-acionistas-apos-avanco-da-ecopetrol/",
@@ -194,28 +331,12 @@
    "resumo": "Acordo extinto em 6 de agosto regulava direito de voto e transferência de ações entre signatários desde a fundação da companhia de petróleo"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "Imóvel ou fundo imobiliário? Investidor compara as duas formas de renda",
-   "url": "https://www.suno.com.br/noticias/comprar-imovel-ou-fundo-imobiliario/",
-   "publicado": "2026-08-10T12:45:06+00:00",
-   "tickers": [],
-   "resumo": "A escolha entre comprar imóvel ou fundo imobiliário para buscar renda passiva no setor imobiliário depende do objetivo e do perfil de quem investe, especialmente quanto à disposição para lidar com as particularidades de cada formato. Para Sidney Angulo, empresário do setor e inve"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Imposto sobre herança: veja o que muda no ITCMD antes de fazer o planejamento sucessório",
    "url": "https://investnews.com.br/financas/imposto-sobre-heranca/",
    "publicado": "2026-08-10T12:43:54+00:00",
    "tickers": [],
    "resumo": "O imposto sobre herança está mudando. Veja o que já vale, o que depende dos estados e por que a alíquota pode não ser o maior impacto no bolso"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Boletim Focus corta novamente projeção para o IPCA 2026; veja detalhes",
-   "url": "https://www.suno.com.br/noticias/boletim-focus-mediana-ipca-2026-10082026-go/",
-   "publicado": "2026-08-10T12:36:00+00:00",
-   "tickers": [],
-   "resumo": "Boletim Focus. Foto: Pixabay A mediana do Boletim Focus para o IPCA de 2026 caiu pela sexta semana seguida, de 5,03% para 5,02% 0,52 ponto porcentual acima da meta perseguida pelo Banco Central, de 4,50%. Considerando apenas as 34 estimativas atualizadas nos últimos cinco dias út"
   },
   {
    "fonte": "InvestNews",
@@ -235,11 +356,11 @@
   },
   {
    "fonte": "InvestNews",
-   "titulo": "CSN recebe propostas para compra de 100% de sua unidade de cimentos",
+   "titulo": "CSN recebe três propostas para compra de 100% de sua unidade de cimentos",
    "url": "https://investnews.com.br/negocios/csn-recebe-propostas-para-compra-de-100-de-sua-unidade-de-cimentos/",
    "publicado": "2026-08-10T12:16:41+00:00",
    "tickers": [],
-   "resumo": "CSN informou ter recebido propostas para compra da uidade de cimentos do grupo"
+   "resumo": "Cementeira chinesa, a brasileira Polimix e um consórcio entre a Votorantim e a Cementir fizeram propostas pelo negócio da CSN"
   },
   {
    "fonte": "InvestNews",
@@ -251,16 +372,20 @@
   },
   {
    "fonte": "Valor Investe",
-   "titulo": "Ibovespa recua com aversão a risco; Petrobras (PETR4) e Vale (VALE3) evitam tombo",
+   "titulo": "Entre aversão a risco e Petrobras (PETR4) e Vale (VALE3) em alta, Ibovespa fecha em leva queda",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/08/10/dolar-e-ibovespa-hoje-10-de-agosto-de-2026.ghtml",
    "publicado": "2026-08-10T12:04:21+00:00",
    "tickers": [
+    "BBDC4",
+    "CSAN3",
     "EMBJ4",
-    "PETR3",
+    "ITUB4",
     "PETR4",
-    "VALE3"
+    "VALE3",
+    "VAMO3",
+    "YDUQ3"
    ],
-   "resumo": "Após avanços e recuos ao longo dos últimos meses, as expectativas de um acordo para normalizar o fluxo de navios pelo Estreito de Ormuz, passagem no Golfo Pérsico por onde passava 20% do petróleo produzido no mundo antes do conflito, aumentaram na última semana. Só que, até o iní"
+   "resumo": "Após avanços e recuos ao longo dos últimos meses, as expectativas de um acordo para normalizar o fluxo de navios pelo Estreito de Ormuz, passagem no Golfo Pérsico por onde passava 20% do petróleo produzido no mundo antes do conflito, aumentaram na última semana. Só que, até esta "
   },
   {
    "fonte": "InvestNews",
@@ -279,32 +404,12 @@
    "resumo": "A expectativa dos economistas para a inflação em 2026 recuou pela sexta semana seguida, enquanto a estimativa para 2027 e 2028 foi mantida pela segunda semana seguida, apontou o Boletim Focus divulgado pelo Banco Central nesta segunda-feira (10). É o primeiro boletim após o Comit"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "MXRF11 e outros 181 FIIs vão distribuir dividendos na semana; confira valores",
-   "url": "https://www.suno.com.br/noticias/dividendos-de-fiis-10-14-agosto/",
-   "publicado": "2026-08-10T11:45:05+00:00",
-   "tickers": [
-    "MXRF11"
-   ],
-   "resumo": "Os investidores de fundos imobiliários terão uma agenda intensa de pagamentos de dividendos de FIIs entre 10 e 14 de agosto de 2026. As distribuições começam na segunda-feira (10) e ganham tração ao longo dos dias, com a maior concentração prevista para sexta-feira (14). No total"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Por que o BC criou “quarentena” de 24 horas para stablecoins?",
    "url": "https://investnews.com.br/investimentos/por-que-o-bc-criou-quarentena-de-24-horas-para-stablecoins/",
    "publicado": "2026-08-10T11:40:41+00:00",
    "tickers": [],
    "resumo": "Medida, que começa a valer em 1º de janeiro, se aplica a stablecoins enviadas para o exterior ou para carteiras de autocustódia"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "JHSF (JHSF3) paga dividendos nesta segunda-feira; veja valor por ação",
-   "url": "https://www.suno.com.br/noticias/a-jhsf-jhsf3-agenda-dividendos-10082026-go/",
-   "publicado": "2026-08-10T11:30:00+00:00",
-   "tickers": [
-    "JHSF3"
-   ],
-   "resumo": "JHSF (JHSF3) paga dividendos nesta segunda-feira; veja valor por açãoHoje é um dos dias aguardados pelos investidores que seguem uma estratégia de investimentos focada em dividendos: a JHSF (JHSF3) vai pagar rendimentos aos seus acionistas. O valor a ser pago aos investidores em "
   },
   {
    "fonte": "Valor Investe",
@@ -653,52 +758,12 @@
    "resumo": "O primeiro capítulo de agosto fez jus à fama na bolsa. A tentativa de reação do Ibovespa esbarrou na decepção com os balanços corporativos nesta sexta-feira (7), anulando o alívio vindo do exterior em semana marcada por incertezas pós-Copom.\nO principal índice da B3 acumulou qued"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Briga pelo Tecon 10 esquenta: operadora ICTSI contesta acordo de MSC e Maersk no Porto de Santos",
-   "url": "https://investnews.com.br/negocios/tecon10-santos-msc-maersk-ictsi/",
-   "publicado": "2026-08-07T20:09:27+00:00",
-   "tickers": [],
-   "resumo": "Grupo filipino pede ao Cade que aprofunde análise sobre o futuro da BTP, sociedade entre MSC e Maersk, que opera um dos principais terminais de Santos"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Ouro tem forte alta com dados de emprego nos EUA e acumula ganho de 7% na semana",
    "url": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/08/07/ouro-tem-forte-alta-com-dados-de-emprego-nos-eua-e-acumula-ganho-de-7percent-na-semana.ghtml",
    "publicado": "2026-08-07T19:34:58+00:00",
    "tickers": [],
    "resumo": "O ouro disparou nesta sexta-feira (7) e chegou ao maior nível em sete semanas, após a surpresa com o mercado de trabalho dos Estados Unidos reduzir as apostas em uma nova alta dos juros pelo Federal Reserve (Fed, o banco central americano).\nO ouro à vista avançava 2,3%, a US$ 4.3"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "No gás, Petrobras é “atravessadora”, diz diretor da ANP. “Não somos ONG,” diz Magda",
-   "url": "https://braziljournal.com/no-gas-petrobras-e-atravessadora-diz-diretor-da-anp-nao-somos-ong-diz-magda/",
-   "publicado": "2026-08-07T19:23:37+00:00",
-   "tickers": [],
-   "resumo": "A Agência Nacional do Petróleo avançou hoje em um plano que pretende reduzir o poder de mercado da Petrobras na indústria de gás natural, potencialmente reduzindo o preço de uma mólecula-chave na economia brasileira. A agência abriu uma consulta pública sobre uma proposta que cri"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "C&A e Riachuelo apertam o passo. E expõem a perda de ritmo da Renner",
-   "url": "https://investnews.com.br/negocios/renner-lren3-queda-cea-riachuelo-apertam/",
-   "publicado": "2026-08-07T17:28:57+00:00",
-   "tickers": [],
-   "resumo": "Renner ainda preserva vantagem relevante de produtividade, mas cresceu menos que as concorrentes e cortou sua projeção de vendas para o ano"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Pior interrupção da história do mercado brasileiro coloca a B3 em foco",
-   "url": "https://investnews.com.br/investimentos/pior-interrupcao-da-historia-do-mercado-brasileiro-coloca-a-b3-em-foco/",
-   "publicado": "2026-08-07T16:48:56+00:00",
-   "tickers": [],
-   "resumo": "Na manhã de 31 de julho, problemas técnicos na B3 interromperam quase todos os fluxos de dados em São Paulo por mais de três horas"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Você tem o Tesouro IPCA+ 2026 que vence em 15 de agosto? Veja onde alocar o dinheiro",
-   "url": "https://investnews.com.br/investimentos/tesouro-ipca2026-vence-onde-alocar/",
-   "publicado": "2026-08-07T14:55:26+00:00",
-   "tickers": [],
-   "resumo": "Tesouro Direto pagará R$ 13 bi a investidores pessoas físicas no dia 17; títulos atrelados à inflação, ETFs e crédito privado são opções"
   },
   {
    "fonte": "Valor Investe",
@@ -715,14 +780,6 @@
    "publicado": "2026-08-07T14:35:20+00:00",
    "tickers": [],
    "resumo": "Os títulos do Tesouro Direto voltaram a recuar nesta sexta-feira (7), com destaque para os papéis atrelados à inflação, e encerraram em leve queda uma semana de vaivém. O movimento de alívio de hoje responde sobretudo ao exterior, depois que o relatório de emprego (\"payroll\") dos"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Em M&A na oncologia e em doenças raras, farmacêutica sueca Sobi assume 100% da Pint Pharma",
-   "url": "https://investnews.com.br/negocios/oncologia-aquisicao-sobi-suecia/",
-   "publicado": "2026-08-07T14:34:09+00:00",
-   "tickers": [],
-   "resumo": "Aquisição dá à Sobi o controle da distribuição no Brasil de remédios como Empaveli, Kineret e Iclusig"
   },
   {
    "fonte": "Valor Investe",
@@ -828,45 +885,6 @@
    "publicado": "2026-08-07T09:00:15+00:00",
    "tickers": [],
    "resumo": "Os cotistas dos fundos de investimentos resgataram R$ 25,3 bilhões em julho, descontando a aplicação, apontam os dados divulgados no site da Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais (Anbima). Foi o segundo mês consecutivo de debandada, que acelero"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Ninguém acerta as seis dezenas da Mega-Sena 3041, e prêmio vai a R$ 165 milhões; veja números sorteados",
-   "url": "https://valorinveste.globo.com/loterias/noticia/2026/08/06/resultado-do-sorteio-da-mega-sena-3041-hoje-divulgado-veja-numeros-sorteados.ghtml",
-   "publicado": "2026-08-07T00:02:16+00:00",
-   "tickers": [],
-   "resumo": "O resultado da Mega-Sena 3041 com prêmio de R$ 147,5 milhões foi divulgado nesta quinta-feira (6), em São Paulo, e ninguém acertou as seis dezenas. Com isso, o prêmio acumulou em R$ 165 milhões - o segundo maior do ano - para o sorteio de domingo (9).\nOs números sorteados foram: "
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Magazine Luiza (MGLU3) soma prejuízo de R$ 72,4 milhões no 2º trimestre",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/08/06/magazine-luiza-mglu3-soma-prejuizo-de-r-724-milhoes-no-2o-trimestre.ghtml",
-   "publicado": "2026-08-06T23:13:48+00:00",
-   "tickers": [
-    "MGLU3"
-   ],
-   "resumo": "O Magazine Luiza (MGLU3) apresentou um prejuízo líquido de R$ 72,5 milhões no segundo trimestre de 2026, quase três vezes superior à perda de R$ 24,4 milhões reportada no mesmo período do ano passado.\n\nNo critério ajustado, o prejuízo seria de R$ 50,4 milhões, revertendo o lucro "
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Lucro da Petrobras (PETR4) quase dobra no 2º tri e chega a R$ 52 bilhões com alta do petróleo e da produção",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/08/06/lucro-da-petrobras-petr4-quase-dobra-no-2o-tri-e-chega-a-r-52-bilhoes-com-alta-do-petroleo-e-da-producao.ghtml",
-   "publicado": "2026-08-06T22:55:01+00:00",
-   "tickers": [
-    "PETR4"
-   ],
-   "resumo": "A Petrobras (PETR4) registrou lucro líquido de R$ 52,4 bilhões no segundo trimestre de 2026, salto de 96,8% em relação ao mesmo período do ano passado. A receita de vendas somou R$ 169,5 bilhões, avanço de 42,3%, enquanto o resultado antes de juros, impostos, depreciação e amorti"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Petrobras (PETR4) aprova R$ 17,4 bilhões em dividendos e JCP; veja quem e quando recebe",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/08/06/petrobras-petr4-aprova-r-174-bilhoes-em-dividendos-e-jcp-veja-quem-e-quando-recebe.ghtml",
-   "publicado": "2026-08-06T22:29:39+00:00",
-   "tickers": [
-    "PETR3",
-    "PETR4"
-   ],
-   "resumo": "A Petrobras aprovou nesta quinta-feira (6) o pagamento antecipado de R$ 17,4 bilhões em remuneração aos acionistas, equivalente a R$ 1,34814262 por ação ordinária (PETR3) e preferencial (PETR4) em circulação, com base no balanço do segundo trimestre de 2026. A companhia reportou "
   }
  ]
 }
