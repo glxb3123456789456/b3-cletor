@@ -4,13 +4,243 @@
  "dados": [
   {
    "fonte": "Suno Noticias",
-   "titulo": "Embraer (EMBJ3) aprova R$ 154 milhões em proventos; veja quem tem direito",
-   "url": "https://www.suno.com.br/noticias/embraer-embj3-jcp-154-milhoes-2t26-go/",
-   "publicado": "2026-08-14T18:05:13+00:00",
+   "titulo": "IFIX cai 0,17% nesta sexta-feira; índice encerra semana em baixa de 2,25%",
+   "url": "https://www.suno.com.br/noticias/ifix-cai-017-nesta-sexta-feira-indice-encerra-semana-em-baixa-de-225/",
+   "publicado": "2026-08-14T22:45:05+00:00",
+   "tickers": [],
+   "resumo": "O IFIX encerrou o pregão desta sexta-feira (14) aos 3.686,33 pontos, em baixa de 0,17%, o que representa recuo de 6,32 pontos no dia. Na sessão anterior, o índice havia fechado aos 3.692,65 pontos. Ao longo do dia, o índice de fundos imobiliários oscilou entre a mínima de 3.679,8"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Lucro da Vibra (VBBR3) quase quadriplica no segundo trimestre de 2026",
+   "url": "https://www.moneytimes.com.br/lucro-da-vibra-quase-quadriplica-no-segundo-trimestre-jcav/",
+   "publicado": "2026-08-14T22:42:34+00:00",
+   "tickers": [
+    "VBBR3"
+   ],
+   "resumo": "A Vibra Energia (VBBR3) teve lucro líquido ajustado de R$ 2,3 bilhões no segundo trimestre, o que representa um ganho de 365% em relação ao mesmo período de 2025, informou a companhia dona da rede de postos de combustíveis BR nesta sexta-feira (14). O lucro antes de juros, impost"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Cosan (CSAN3) vê prejuízo cair 66%, para R$ 320 milhões",
+   "url": "https://www.moneytimes.com.br/cosan-csan3-ve-prejuizo-subir-66-para-r-320-milhoes/",
+   "publicado": "2026-08-14T22:32:45+00:00",
+   "tickers": [
+    "CSAN3"
+   ],
+   "resumo": "A Cosan (CSAN3), que passa por uma reestruturação financeira, viu o seu prejuízo cair mais 66%, para R$ 320 milhões, mostra documento enviado ao mercado nesta sexta-feira (14). Segundo o documento, o resultado foi prejudicado por um impacto pontual negativo de R$ 233 milhões. O n"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Petrobras encontra indícios de petróleo e gás na Foz do Amazonas",
+   "url": "https://investnews.com.br/negocios/petrobras-petroleo-gas-foz-do-amazonas/",
+   "publicado": "2026-08-14T22:29:41+00:00",
+   "tickers": [],
+   "resumo": "Poço perfurado a 175 km da costa do Amapá identificou hidrocarbonetos; descoberta ainda precisa ser avaliada para determinar se há uma reserva comercial"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Na Cosan, saem dois veteranos, marcando uma nova fase",
+   "url": "https://braziljournal.com/na-cosan-saem-dois-veteranos-marcando-uma-nova-fase/",
+   "publicado": "2026-08-14T22:27:58+00:00",
+   "tickers": [],
+   "resumo": "A Cosan acaba de anunciar que o CFO Rafael Bergman e a vice-presidente jurídica, Rita Drummond, estão deixando a companhia – um movimento que reflete o enxugamento da holding de Rubens Ometto. Bergman estava no cargo há apenas nove meses, mas era um veterano do grupo: já havia si"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Caiado registra candidatura à Presidência no TSE com patrimônio 111% maior do que em 2022",
+   "url": "https://www.moneytimes.com.br/caiado-registra-candidatura-a-presidencia-no-tse-com-patrimonio-111-maior-do-que-em-2022-jcav/",
+   "publicado": "2026-08-14T22:17:56+00:00",
+   "tickers": [],
+   "resumo": "Ex-governador de Goiás e candidato à Presidência da República, Ronaldo Caiado (PSD) teve sua candidatura registrada no Tribunal Superior Eleitoral (TSE) e declarou patrimônio avaliado em R$ 52,5 milhões. A quantia é mais do que o dobro de quatro anos atrás, quando Caiado se lanço"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Petrobras (PETR4) recebe mais R$ 536,7 milhões em subvenções para gasolina e GLP",
+   "url": "https://www.moneytimes.com.br/petrobras-petr4-recebe-mais-r-5367-milhoes-em-subvencoes-para-gasolina-e-glp-jcav/",
+   "publicado": "2026-08-14T22:16:41+00:00",
+   "tickers": [
+    "PETR3",
+    "PETR4"
+   ],
+   "resumo": "A Petrobras (PETR4; PETR3) recebeu R$ 536,7 milhões em novas parcelas do Programa de Subvenção Econômica da gasolina e do GLP (gás liquefeito de petróleo), informou a companhia nesta sexta-feira (14). Com os novos pagamentos, o total acumulado recebido pela estatal no âmbito do p"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Stripe e Advent podem aumentar oferta pelo PayPal",
+   "url": "https://braziljournal.com/stripe-e-advent-podem-aumentar-oferta-pelo-paypal/",
+   "publicado": "2026-08-14T22:05:33+00:00",
+   "tickers": [],
+   "resumo": "A processadora de pagamentos Stripe e a Advent podem aumentar a oferta pelo PayPal, depois que a proposta inicial de US$ 60,50 por ação foi considerada insuficiente, segundo o Wall Street Journal.  As partes podem chegar a um acordo nas próximas semanas, mas não há garantias de q"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Ibovespa fecha perto da estabilidade, mas amarga 9ª queda seguida",
+   "url": "https://www.suno.com.br/noticias/ibovespa-hoje-14-agosto-2026-estrangeiros-mt/",
+   "publicado": "2026-08-14T22:03:31+00:00",
+   "tickers": [],
+   "resumo": "Ibovespa fecha perto da estabilidade, mas amarga 9ª queda seguidaO Ibovespa conseguiu reduzir boa parte das perdas na reta final desta sexta-feira (14), mas não escapou do vermelho e completou nove pregões consecutivos de queda, a maior sequência negativa em três anos. O principa"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Petrobras (PETR4) faz nova descoberta em águas ultraprofundas do Amapá, na margem equatorial",
+   "url": "https://www.moneytimes.com.br/petrobras-petr4-faz-nova-descoberta-em-aguas-ultraprofundas-do-amapa-na-margem-equatorial/",
+   "publicado": "2026-08-14T21:59:55+00:00",
+   "tickers": [
+    "PETR3",
+    "PETR4"
+   ],
+   "resumo": "A Petrobras (PETR4;PETR3) identificou a presença de hidrocarbonetos em um poço exploratório em perfuração no bloco FZA-M-59, em águas ultraprofundas do Amapá, na Bacia da Foz do Amazonas, na chamada margem equatorial brasileira. A descoberta foi comunicada pela companhia nesta se"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Aegea: diretor financeiro pede renúncia uma semana após capitalização bilionária",
+   "url": "https://investnews.com.br/negocios/aegea-cfo-pede-renuncia/",
+   "publicado": "2026-08-14T21:56:30+00:00",
+   "tickers": [],
+   "resumo": "André Pires deixou também o cargo de diretor de relações com investidores; empresa reduziu patrimônio em R$ 5 bilhões"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Tesouro Direto fecha semana sob estresse, com taxas dos Prefixados e IPCA+ em alta",
+   "url": "https://www.moneytimes.com.br/tesouro-direto-fecha-semana-sob-estresse-com-taxas-dos-prefixados-e-ipca-em-alta-jcav/",
+   "publicado": "2026-08-14T21:47:26+00:00",
+   "tickers": [],
+   "resumo": "O Tesouro Direto encerrou a sexta-feira (14) em meio a forte estresse nos mercados brasileiros, com alta das taxas dos títulos públicos em relação ao fechamento da quinta-feira (13). O movimento ganhou força após uma sessão marcada por aversão ao risco entre investidores estrange"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Nova pesquisa da Quaest aponta Lula com 43% no 2º turno e Flávio com 40%",
+   "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/08/14/nova-pesquisa-da-quaest-aponta-lula-com-43percent-no-2o-turno-e-flavio-com-40percent.ghtml",
+   "publicado": "2026-08-14T21:35:43+00:00",
+   "tickers": [],
+   "resumo": "O presidente Luiz Inácio Lula da Silva (PT) tem 38% das intenções de voto e o senador Flávio Bolsonaro (PL) registra 31% no primeiro turno da eleição presidencial, segundo pesquisa Quaest divulgada nesta sexta-feira (14). Num segundo turno entre os dois, Lula marca 43%, enquanto "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Lula e Flávio Bolsonaro voltam a empatar no segundo turno, aponta pesquisa Quaest",
+   "url": "https://www.moneytimes.com.br/lula-e-flavio-bolsonaro-voltam-ao-empate-no-segundo-turno-aponta-pesquisa-quaest-gaep/",
+   "publicado": "2026-08-14T21:32:10+00:00",
+   "tickers": [],
+   "resumo": "Pesquisa Quaest para a eleição presidencial 2026 divulgada nesta sexta-feira (14) mostra o presidente Luiz Inácio Lula da Silva (PT) com 43% das intenções de voto e o senador Flávio Bolsonaro (PL-RJ) com 40% em um eventual segundo turno. Lula recuou 1 ponto porcentual ante os 44%"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Greg Abel usa caixa da Berkshire para comprar US$ 37,8 bilhões em ações do Google",
+   "url": "https://investnews.com.br/negocios/greg-abel-usa-caixa-da-berkshire-para-comprar-us-378-bilhoes-em-acoes-do-google/",
+   "publicado": "2026-08-14T21:10:56+00:00",
+   "tickers": [],
+   "resumo": "Berkshire amplia posições na Delta e na Alphabet, dona do Google, no segundo trimestre"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Casas Bahia passou anos enxugando a operação. Agora, fecha quase 300 lojas de uma vez",
+   "url": "https://investnews.com.br/negocios/casas-bahia-fecha-298-lojas-de-uma-vez/",
+   "publicado": "2026-08-14T20:55:46+00:00",
+   "tickers": [],
+   "resumo": "Movimento reduz quase 30% da rede física e marca a fase mais agressiva da reestruturação iniciada em 2023"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Absolute e Unity ampliam fatia na CVC. “Apex é só mais um acionista”",
+   "url": "https://braziljournal.com/absolute-e-unity-ampliam-fatia-na-cvc-apex-e-so-mais-um-acionista/",
+   "publicado": "2026-08-14T20:55:13+00:00",
+   "tickers": [],
+   "resumo": "A crise da Apex Partners mudou o cap table da CVC. Os fundos ligados à gestora capixaba reduziram sua participação de 12,2% para 7,97% nos últimos dias, abrindo espaço para a Absolute e a Unity Capital.  A operação foi articulada pela GJP, o veículo de investimento da família Pau"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Trump: ‘Logo declararei o Estreito de Ormuz como um território dos EUA’",
+   "url": "https://www.moneytimes.com.br/trump-logo-declararei-o-estreito-de-ormuz-como-um-territorio-dos-eua/",
+   "publicado": "2026-08-14T20:53:29+00:00",
+   "tickers": [],
+   "resumo": "O presidente dos Estados Unidos, Donald Trump, afirmou que declarará o Estreito de Ormuz território norte-americano, durante um pronunciamento no Centro de Treinamento e Inteligência David S. Mack, em Garden City, em Nova York, nesta sexta-feira, 14. &#8220;Logo declararei o Estr"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Ibovespa amarga pior semana desde maio e devolve quase toda alta do ano",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/08/14/ibovespa-amarga-pior-semana-desde-maio-e-devolve-quase-toda-alta-do-ano.ghtml",
+   "publicado": "2026-08-14T20:51:34+00:00",
+   "tickers": [],
+   "resumo": "Se agosto costuma carregar a fama de “mês do desgosto” na bolsa, esta semana carimbou a tradição. O Ibovespa fechou o período com a maior queda semanal desde maio, voltou ao menor nível desde janeiro e viu praticamente esfarelar os ganhos que havia garantido ao longo de 2026.\nNa "
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Conta de luz vai mudar: consumidor poderá escolher fornecedor de energia; entenda",
+   "url": "https://www.suno.com.br/noticias/escolher-fornecedor-energia-mercado-livre-2027-mt/",
+   "publicado": "2026-08-14T20:45:06+00:00",
+   "tickers": [],
+   "resumo": "Escolher a operadora de celular ou o banco já faz parte da rotina. A partir dos próximos anos, essa lógica também começará a chegar à conta de luz. Um decreto assinado nesta semana regulamentou a abertura do mercado livre de energia para consumidores de baixa tensão e permitirá q"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Consultoria gringa recomenda fugir de bolsa — e culpa é do governo Lula; só um investimento vale a pena",
+   "url": "https://www.moneytimes.com.br/consultoria-gringa-recomenda-fugir-de-bolsa-e-culpa-e-do-governo-lula-so-um-investimento-vale-a-pena/",
+   "publicado": "2026-08-14T20:31:04+00:00",
+   "tickers": [],
+   "resumo": "Em meio ao forte pessimismo que tomou conta do mercado brasileiro, com gringos batendo em retirada, o Brasil ganhou mais um detrator: a BCA Research. Em duro relatório, os analistas que assinam o documento são claros ao dizer que o melhor é evitar o país. A casa rebaixou a recome"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Ibovespa cai 3% na semana e tem pior sequência desde 2023; dólar sobe",
+   "url": "https://www.moneytimes.com.br/ibovespa-5-coisas-14-8-26-apsa-2/",
+   "publicado": "2026-08-14T20:30:42+00:00",
+   "tickers": [],
+   "resumo": "O Ibovespa (IBOV) teve a nona sessão de queda consecutiva, marcando a pior sequência do índice desde 2023. Nesta sexta-feira (14), o principal índice da bolsa brasileira terminou as negociações com queda de 0,10%, aos 166.934,20 pontos. Na semana, o IBOV recuou 3,27%. Já o dólar "
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Azul (AZUL3) vê prejuízo dobrar no 2T26; combustível e menor capacidade pesam",
+   "url": "https://www.suno.com.br/noticias/azul-azul3-resultado-2t26-prejuizo-combustivel-mt/",
+   "publicado": "2026-08-14T19:55:07+00:00",
+   "tickers": [
+    "AZUL3"
+   ],
+   "resumo": "A Azul (AZUL3) encerrou o segundo trimestre de 2026 com um contraste importante no balanço. Mesmo com uma redução de 10,6% na capacidade, a companhia alcançou receita recorde para um segundo trimestre, de R$ 4,98 bilhões. O avanço, porém, não foi suficiente para compensar a forte"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Preços do petróleo avançam mais de 5% na semana com impasse sobre Ormuz",
+   "url": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/08/14/precos-do-petroleo-avancam-mais-de-5percent-na-semana-com-impasse-sobre-ormuz.ghtml",
+   "publicado": "2026-08-14T19:46:11+00:00",
+   "tickers": [],
+   "resumo": "O impasse sobre a reabertura de Ormuz pesou sobre o mercado de energia nesta semana, levando os contratos futuros de petróleo a encerrarem o período com ganhos acima de 5% no período. Sem novos desdobramentos na agenda diplomática, os preços exibiram alta moderada nesta sexta-fei"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "No bilionário mercado de aquisições no Brasil, a IA se torna arma para encontrar o próximo comprador",
+   "url": "https://investnews.com.br/negocios/bilionario-mercado-aquisicoes-ia-como-arma/",
+   "publicado": "2026-08-14T19:39:37+00:00",
+   "tickers": [],
+   "resumo": "Tecnologia ajuda a identificar negócios e a calcular o valor de empresas sem acesso ao mercado na OverA Capital"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Possível recuperação extrajudicial pesa e Braskem (BRKM5) despenca mesmo após lucro bilionário",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/08/14/possivel-recuperacao-extrajudicial-pesa-e-braskem-brkm5-despenca-mesmo-apos-lucro-bilionario.ghtml",
+   "publicado": "2026-08-14T19:00:45+00:00",
+   "tickers": [
+    "BRKM5"
+   ],
+   "resumo": "As ações da Braskem (BRKM5) tombaram 8%, nesta sexta-feira (14), em um pregão já negativo para a bolsa brasileira com a saída de investidores estrangeiros. No caso da petroquímica, porém, há combustível adicional para a queda: apesar de um balanço operacionalmente melhor no segun"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Ibovespa emenda 9ª queda seguida – e isso tem tudo a ver com os Estados Unidos",
+   "url": "https://investnews.com.br/investimentos/ibovespa-9-queda-saida-estrangeiro/",
+   "publicado": "2026-08-14T18:56:53+00:00",
+   "tickers": [],
+   "resumo": "Ativos nos EUA voltam a ganhar apelo, enquanto proximidade da eleição no Brasil pesa no mercado doméstico"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Embraer (EMBJ3) aprova R$ 154 milhões em JCP após lucro recorde; veja quem recebe",
+   "url": "https://www.suno.com.br/noticias/embraer-embj3-jcp-154-milhoes-quem-tem-direito-mt/",
+   "publicado": "2026-08-14T18:45:06+00:00",
    "tickers": [
     "EMBJ3"
    ],
-   "resumo": "O conselho de administração da Embraer (EMBJ3) aprovou, na noite de quinta-feira (13), o pagamento de juros sobre capital próprio (JCP) referente ao terceiro trimestre. O valor total do provento soma R$ 154 milhões. De acordo com comunicado enviado ao mercado, o pagamento equival"
+   "resumo": "Poucos dias depois de divulgar um segundo trimestre com lucro e receita em níveis recordes, a Embraer (EMBJ3) anunciou uma nova remuneração aos acionistas. O Conselho de Administração aprovou R$ 154 milhões em juros sobre capital próprio (JCP), equivalentes a R$ 0,216342 por ação"
   },
   {
    "fonte": "Suno Noticias",
@@ -21,100 +251,12 @@
    "resumo": "O Banco Central decretou nesta sexta-feira (14) a liquidação extrajudicial da Simpala S.A. Crédito, Financiamento e Investimento e da Simpala Lançadora e Administradora de Consórcios, ambas sediadas em Porto Alegre. A decisão interrompe as atividades das instituições e abre agora"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Braskem (BRKM5) cai 9% após balanço do 2T26 — Citi não vê motivos para se animar",
-   "url": "https://www.moneytimes.com.br/braskem-brkm5-cai-9-apos-balanco-do-2t26-citi-nao-ve-motivos-para-se-animar/",
-   "publicado": "2026-08-14T18:00:29+00:00",
-   "tickers": [
-    "BRKM5"
-   ],
-   "resumo": "A petroquímica Braskem (BRKM5) foi dos destaques positivos do Ibovespa (IBOV) nesta sexta-feira (14) após a divulgação do resultado do balanço do segundo trimestre de 2026 (2T26), chegando a salta 8% na manhã. No entanto, o papel inverteu o sinal e passou a despencar 9,74% (R$ 4,"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Bolsas da Europa caem com dados de atividade da zona do euro e Oriente Médio no radar",
-   "url": "https://www.moneytimes.com.br/europa-14-8-26-lils/",
-   "publicado": "2026-08-14T17:58:32+00:00",
-   "tickers": [],
-   "resumo": "As bolsas europeias fecharam majoritariamente em queda nesta sexta-feira (14), os investidores reagindo a dados de atividade econômica da zona do euro e a escalada das tensões entre EUA e Irã no Oriente Médio. O índice Stoxx 600 encerrou com queda de 0,21%, a 657,86 pontos, e reg"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Lula diz acreditar que Lulinha é inocente, mas afirma que inquéritos não serão interrompidos",
-   "url": "https://www.moneytimes.com.br/lula-diz-acreditar-que-lulinha-e-inocente-mas-afirma-que-inqueritos-nao-serao-interrompidos-gaep/",
-   "publicado": "2026-08-14T17:57:50+00:00",
-   "tickers": [],
-   "resumo": "O presidente da República e candidato à reeleição, Luiz Inácio Lula da Silva (PT), afirmou nesta sexta-feira (14), em entrevista a podcasts, que acredita na inocência do filho dele, o empresário Fábio Luis Lula da Silva, o Lulinha, mas que os inquéritos contra ele não serão engav"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Lula diz que só dará agrément a embaixador após eleições e que tenta conversa com Trump",
-   "url": "https://www.moneytimes.com.br/lula-diz-que-so-dara-agrement-a-embaixador-apos-eleicoes-e-que-tenta-conversa-com-trump-gaep/",
-   "publicado": "2026-08-14T17:48:02+00:00",
-   "tickers": [],
-   "resumo": "O presidente da República e candidato à reeleição, Luiz Inácio Lula da Silva (PT), afirmou nesta sexta-feira (14) que apenas dará o agrément, a permissão para exercício de chefia da diplomacia, ao indicado dos Estados Unidos para assumir a embaixada do País em Brasília após as el"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Dólar encosta em R$ 5,25 na quinta alta seguida; juros futuros disparam com ‘estresse’ doméstico",
-   "url": "https://www.moneytimes.com.br/dolar-encosta-em-r-525-e-juros-futuros-disparam-com-estresse-local-lils/",
-   "publicado": "2026-08-14T17:47:31+00:00",
-   "tickers": [],
-   "resumo": "O dólar à vista, que já opera no maior nível desde meados de janeiro, salta cerca de 1% e ronda a cotação de R$ 5,25, com a continuidade da redução a exposição dos investidores a ativos brasileiros. Com o desempenho negativo nesta sexta-feira (14), a moeda brasileira já tem o pio"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Safra eleva preço-alvo para Embraer (EMBJ3) e aponta 3 fatores que sustentam recomendação de compra; veja",
-   "url": "https://www.moneytimes.com.br/safra-eleva-preco-alvo-para-embraer-embj3-e-aponta-3-fatores-que-sustentam-recomendacao-de-compra-veja-lmrs/",
-   "publicado": "2026-08-14T17:43:29+00:00",
-   "tickers": [
-    "EMBJ3"
-   ],
-   "resumo": "O Safra elevou o preço-alvo para as ações da Embraer (EMBJ; EMBJ3) de US$ 92 para US$ 95, mantendo a classificação Outperform (equivalente à compra). O valor em dólar se refere aos ADRs (recibo de depósito americano) das ações negociadas na Bolsa de Nova York (NYSE). A atualizaçã"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Por que um superpetroleiro pagou US$ 4,6 milhões para furar a fila no Canal do Panamá?",
    "url": "https://investnews.com.br/economia/por-que-um-superpetroleiro-pagou-us-46-milhoes-para-furar-a-fila-no-canal-do-panama/",
    "publicado": "2026-08-14T17:36:26+00:00",
    "tickers": [],
    "resumo": "Guerra com o Irã e El Niño alteram rotas do comércio e aumentam a disputa por passagem no Canal do Panamá"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Alcolumbre manda avançar fim da 6×1, PEC da segurança e minerais críticos após encontrar Lula",
-   "url": "https://www.moneytimes.com.br/alcolumbre-manda-avancar-fim-da-6x1-pec-da-seguranca-e-minerais-criticos-apos-encontrar-lula-gaep/",
-   "publicado": "2026-08-14T17:33:39+00:00",
-   "tickers": [],
-   "resumo": "O presidente do Senado Federal, Davi Alcolumbre (União-AP), informou que determinou o avanço das propostas de fim da escala 6&#215;1, de ampliação das competências da União na segurança pública e de instituição de uma política nacional de minerais críticos e estratégicos. O comun"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Cyrela (CYRE3) tem pouco espaço para crescimento de margem bruta sobre patamar atual, diz CFO",
-   "url": "https://www.moneytimes.com.br/cyrela-cyre3-tem-pouco-espaco-para-crescimento-de-margem-bruta-sobre-patamar-atual-diz-cfo-igdl/",
-   "publicado": "2026-08-14T17:25:32+00:00",
-   "tickers": [
-    "CYRE3"
-   ],
-   "resumo": "A Cyrela (CYRE3) deve ter pouco espaço para crescimento da margem bruta e permanecerá por algum tempo no patamar atual de 34,4%, disse nesta sexta-feira (14) o diretor financeiro (CFO) da construtora, Miguel Mickelberg. Em apresentação dos resultados do segundo trimestre (2T26), "
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Por que ações da Cosan (CSAN3) caem apesar dos movimentos para reduzir dívida? Veja o que dizem os analistas",
-   "url": "https://www.moneytimes.com.br/por-que-acoes-da-cosan-csan3-caem-na-bolsa-apesar-de-passo-para-reduzir-divida-veja-o-que-dizem-os-analistas-jcav/",
-   "publicado": "2026-08-14T17:25:27+00:00",
-   "tickers": [
-    "CSAN3"
-   ],
-   "resumo": "As ações da Cosan (CSAN3) recuam nesta sexta-feira (14), apesar da companhia ter anunciado um movimento considerado positivo para sua estrutura de capital. Por volta das 13h50, os papéis caíam 2,71%. Cosan dá passo para reduzir dívida Na quinta-feira (13), a Cosan informou que fo"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "FGC estima pagamento de R$ 622 milhões em garantias a 21 mil credores da Simpala",
-   "url": "https://www.moneytimes.com.br/fgc-estima-pagamento-de-r-622-milhoes-em-garantias-a-21-mil-credores-da-simpala/",
-   "publicado": "2026-08-14T17:10:56+00:00",
-   "tickers": [],
-   "resumo": "O Fundo Garantidor de Créditos (FGC) informou nesta sexta-feira (14) que a Simpala S.A. Crédito, Financiamento e Investimento, cuja liquidação extrajudicial foi decretada mais cedo pelo Banco Central, tem uma base estimada de 21 mil credores com depósitos elegíveis ao pagamento d"
   },
   {
    "fonte": "Suno Noticias",
@@ -179,11 +321,11 @@
   },
   {
    "fonte": "Valor Investe",
-   "titulo": "Tesouro Direto: taxas estacionam na semana; confira as recomendações de onde investir",
+   "titulo": "Tesouro Direto: taxas dos vencimentos curtos aceleram na reta final da semana",
    "url": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/08/14/tesouro-direto-taxas-estacionam-na-semana-confira-as-recomendacoes-de-onde-investir.ghtml",
    "publicado": "2026-08-14T14:42:02+00:00",
    "tickers": [],
-   "resumo": "As taxas dos títulos do Tesouro Direto pouco mudaram ao longo desta semana, com leve alta observada nos prefixados. Em meio a debandada de estrangeiros da bolsa e do câmbio, o fluxo para a renda fixa sustentou as papéis apesar de uma leve piora das expectativas em relação aos jur"
+   "resumo": "As taxas dos títulos do Tesouro Direto jogaram paradas ao longo desta semana, com leve alta observada nos prefixados, até esta sexta (14). Durante a tarde, as taxas dos títulos prefixados e IPCA+ com vencimento menor do que dez anos dispararam. \nNo caso dos prefixados, o papel qu"
   },
   {
    "fonte": "Suno Noticias",
@@ -197,11 +339,11 @@
   },
   {
    "fonte": "InvestNews",
-   "titulo": "Mubadala tem ofertas de até US$ 3,5 bilhões por Porto Sudeste",
+   "titulo": "Vale e Gerdau se unem à BlackRock em oferta de até US$ 3,5 bilhões pelo Porto Sudeste",
    "url": "https://investnews.com.br/negocios/mubadala-tem-ofertas-de-ate-us-35-bilhoes-por-porto-sudeste/",
    "publicado": "2026-08-14T14:00:37+00:00",
    "tickers": [],
-   "resumo": "Duas propostas vinculantes disputam o Porto Sudeste, com ofertas entre US$ 3 bilhões e US$ 3,5 bilhões"
+   "resumo": "Duas ofertas com compromisso de compra disputam o Porto Sudeste, avaliando o ativo entre US$ 3 bilhões e US$ 3,5 bilhões"
   },
   {
    "fonte": "InvestNews",
@@ -230,34 +372,16 @@
    "resumo": "Os dividendos do RBRR11 referentes a julho de 2026 serão de R$ 0,90 por cota, conforme comunicado ao mercado. O pagamento aos cotistas está programado para 18 de agosto de 2026, de acordo com o cronograma divulgado pelo administrador do fundo. Terão direito aos proventos os inves"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "BTG Pactual (BPAC11) e Intelbras (INTB3) pagam dividendos nesta sexta; saiba mais",
-   "url": "https://www.suno.com.br/noticias/o-btg-pactual-bpac11-agenda-dividendos-14082026/",
-   "publicado": "2026-08-14T12:55:00+00:00",
-   "tickers": [
-    "BPAC11",
-    "INTB3"
-   ],
-   "resumo": "BTG Pactual (BPAC11) e Intelbras (INTB3) pagam dividendos nesta sexta; saiba maisOs acionistas do BTG Pactual (BPAC11) e da Intelbras (INTB3) receberão nesta sexta-feira os dividendos que serão distribuídos pelas companhias. Os acionistas do BTG Pactual vão receber R$ 0,7766 em d"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Por que títulos prefixados se valorizam mais que pós-fixados na queda de juros?",
-   "url": "https://www.suno.com.br/noticias/titulos-prefixados-valorizam-pos-fixados-gss/",
-   "publicado": "2026-08-14T12:27:40+00:00",
-   "tickers": [],
-   "resumo": "Por que títulos prefixados se valorizam mais que pós-fixados na queda de juros?O mercado de renda fixa oferece diferentes maneiras de se posicionar diante das mudanças na taxa de juros. Enquanto os investimentos pós-fixados acompanham mais diretamente o nível atual da Selic, os p"
-  },
-  {
    "fonte": "Valor Investe",
-   "titulo": "Ibovespa recua ao menor nível desde janeiro pressionado por saída de estrangeiros; dólar sobe",
+   "titulo": "Ibovespa recua pressionado por saída de estrangeiros; dólar sobe a R$ 5,22, maior cotação desde março",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/08/14/dolar-e-ibovespa-hoje-14-de-agosto-de-2026.ghtml",
    "publicado": "2026-08-14T12:23:06+00:00",
    "tickers": [
+    "BRKM5",
     "EMBJ4",
     "ROXO34"
    ],
-   "resumo": "Em um clima de aversão a risco global, o Ibovespa, principal índice de ações brasileiras, recua pelo nono dia consecutivo, na pior sequência de quedas em três anos. A última vez que o índice estava nesse nível foi em janeiro deste ano.\nA saída de estrangeiros se intensificou nest"
+   "resumo": "Em um clima de aversão a risco global, o Ibovespa, principal índice de ações brasileiras, recuou pelo nono dia consecutivo, na pior sequência de quedas em três anos, com a venda generalizada, principalmente, dos investidores estrangeiros. Durante a maior parte do pregão, o índice"
   },
   {
    "fonte": "InvestNews",
@@ -266,16 +390,6 @@
    "publicado": "2026-08-14T12:05:57+00:00",
    "tickers": [],
    "resumo": "Argentina flexibiliza crédito em dólar após restrições criadas na crise de 2001"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Novos dividendos do VGIR11 superam 1,3% de yield; veja valor",
-   "url": "https://www.suno.com.br/noticias/dividendos-do-vgir11-agosto-2026/",
-   "publicado": "2026-08-14T12:05:06+00:00",
-   "tickers": [
-    "VGIR11"
-   ],
-   "resumo": "Os dividendos do VGIR11 foram confirmados em R$ 0,13 por cota, referentes a julho de 2026. O pagamento aos cotistas ocorrerá em 19 de agosto de 2026, conforme comunicado do fundo imobiliário. Terão direito à distribuição os investidores com cotas na posição de fechamento de 12 de"
   },
   {
    "fonte": "Valor Investe",
@@ -300,16 +414,6 @@
    "publicado": "2026-08-14T11:30:34+00:00",
    "tickers": [],
    "resumo": "O BC decretou nesta sexta-feira (14) a liquidação extrajudicial da Simpala Lançadora e Administradora de Consórcios Ltda. e da Simpala S.A. Crédito, Financiamento e Investimento, ambas com sede em Porto Alegre (RS). Com isso, a partir de hoje, ficam indisponíveis os bens dos cont"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "TGAR11 mantém DY de 14,27%; fundo imobiliário lucra R$ 15,6 milhões em junho",
-   "url": "https://www.suno.com.br/noticias/tgar11-mantem-dy-de-1427-fundo-imobiliario-lucra-r-156-milhoes-em-junho/",
-   "publicado": "2026-08-14T11:25:08+00:00",
-   "tickers": [
-    "TGAR11"
-   ],
-   "resumo": "O fundo imobiliário TGAR11 encerrou junho com resultado de aproximadamente R$ 15,6 milhões e distribuição de R$ 0,72 por cota aos investidores. O pagamento correspondeu a um dividend yield mensal de 1,35%, ou 17,48% em termos anualizados, conforme os dados do período. No acumulad"
   },
   {
    "fonte": "Valor Investe",
@@ -486,14 +590,6 @@
    "resumo": "A JHSF reportou mais um trimestre com recordes de receita e lucro em todas as suas linhas de negócio, e o CEO Augusto Martins disse que a meta da companhia é quase triplicar seu EBITDA em três anos – saindo dos atuais R$ 730 milhões nos últimos doze meses para mais de R$ 2 bi, [&"
   },
   {
-   "fonte": "Brazil Journal",
-   "titulo": "Nubank tem lucro recorde no 2º tri; crédito cresce menos",
-   "url": "https://braziljournal.com/nubank-tem-lucro-recorde-no-2o-tri-credito-cresce-menos/",
-   "publicado": "2026-08-13T21:49:52+00:00",
-   "tickers": [],
-   "resumo": "O Nubank lucrou US$ 1,1 bilhão entre abril e junho, seu melhor resultado trimestral até agora. O número ficou 10% acima do consenso e representa um crescimento de 17% frente aos três meses anteriores e de 49% na comparação anual. O ROE chegou a 33%, acima dos 29% do trimestre ant"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Lucro do Nubank sobe 49% no segundo trimestre, para US$ 1,06 bilhão",
    "url": "https://investnews.com.br/negocios/resultado-nubank-2t26-lucro1bi/",
@@ -503,7 +599,7 @@
   },
   {
    "fonte": "InvestNews",
-   "titulo": "Sua empresa paga dividendos aos sócios? A Receita Federal quer saber quanto – e todo mês",
+   "titulo": "Sua empresa paga dividendos aos sócios? A Receita quer saber quanto – e todo mês",
    "url": "https://investnews.com.br/negocios/imposto-renda-dividendos-como-pagar-pj/",
    "publicado": "2026-08-13T21:35:36+00:00",
    "tickers": [],
@@ -560,14 +656,6 @@
    "resumo": "Em uma sequência dolorosa que já embala a sua oitava queda seguida, a pior marca desde as 13 sessões consecutivas de recuo registradas em agosto de 2023, o Ibovespa acendeu um sinal de alerta. A confirmação de uma tendência de baixa que, nos cenários mais severos, abre espaço par"
   },
   {
-   "fonte": "Brazil Journal",
-   "titulo": "O jato chinês para desafiar a Airbus e a Boeing",
-   "url": "https://braziljournal.com/o-jato-chines-para-desafiar-a-airbus-e-a-boeing/",
-   "publicado": "2026-08-13T20:27:32+00:00",
-   "tickers": [],
-   "resumo": "São raros os produtos industriais em que os chineses não são autossuficientes.  Os jatos comerciais são um deles. Mas a estatal China Commercial Aircraft, conhecida como Comac, está empenhada em mudar essa história. O jato C919, um bimotor narrow body com capacidade para até 174 "
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Anthropic, dona do Claude, pode chegar a US$ 2 trilhões e ter maior IPO da história",
    "url": "https://investnews.com.br/negocios/anthropic-dona-do-claude-pode-chegar-a-us-2-trilhoes-e-ter-maior-ipo-da-historia/",
@@ -592,14 +680,6 @@
     "BBAS3"
    ],
    "resumo": "As ações do Banco do Brasil (BBAS3) operaram em forte queda no pregão de hoje na B3, repercutindo os números do segundo trimestre, divulgados ontem, após o fechamento do mercado. Ao final dos negócios, o papel registrou desvalorização de 4,16%, cotado a R$ 18,21.\nApesar de o Banc"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "GOL troca CEO: Ferrer vai para a Boeing e Fehlauer assume",
-   "url": "https://braziljournal.com/gol-troca-ceo-ferrer-vai-para-a-boeing-e-fehlauer-assume/",
-   "publicado": "2026-08-13T18:16:01+00:00",
-   "tickers": [],
-   "resumo": "André Fehlauer vai substituir Celso Ferrer como CEO da Gol a partir de setembro, uma troca de comando num momento em que a companhia aérea busca voltar a crescer depois de emergir de sua recuperação judicial e incorporação pelo Abra Group – a holding dos Constantino com os donos "
   },
   {
    "fonte": "Valor Investe",
@@ -676,14 +756,6 @@
    "resumo": "O fim do lock-up, que liberou ações para venda, não provocou a esperada pressão sobre os papéis e reforçou a confiança dos investidores na SpaceX"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "No Azzas, Birman fala pela primeira vez após crise entre sócios e diz que foco está na operação",
-   "url": "https://investnews.com.br/negocios/azzas-birman-fala-crise-socios-2t26/",
-   "publicado": "2026-08-13T15:05:01+00:00",
-   "tickers": [],
-   "resumo": "Fala do CEO do Azzas 2154 ocorre em meio à discussão sobre cisão do grupo e à busca de alternativas estratégicas para a Farm Rio"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Tesouro Direto: de grão em grão, prefixados ganham a dianteira",
    "url": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/08/13/tesouro-direto-de-grao-em-grao-prefixados-ganham-a-dianteira.ghtml",
@@ -700,38 +772,6 @@
    "resumo": "A Mega-Sena 3044 sorteia um prêmio estimado em R$ 3,5 milhões nesta quinta-feira (13), a partir das 21h (horário de Brasília), em São Paulo.\nVEJA TAMBÉM: \n- Os números mais sorteados na história Mega-Sena\nNos concursos realizados às terças e quintas-feiras, as apostas podem ser f"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Doação com usufruto: como doar um imóvel em vida sem perder o direito de morar nele",
-   "url": "https://investnews.com.br/financas/doacao-com-usufruto/",
-   "publicado": "2026-08-13T14:30:22+00:00",
-   "tickers": [],
-   "resumo": "Ferramenta de planejamento sucessório, a doação com usufruto permite transferir a propriedade em vida mantendo a possibilidade de uso"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Dá para evitar inventário sobre investimentos no exterior? Veja formas para reduzir impostos",
-   "url": "https://investnews.com.br/financas/inventario-sobre-investimentos-no-exterior/",
-   "publicado": "2026-08-13T14:27:28+00:00",
-   "tickers": [],
-   "resumo": "Bens no exterior seguem a lei do país onde estão, não a brasileira. Entenda como funciona o inventário fora do Brasil e como reduzir o imposto de herança"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Gol troca CEO: Celso Ferrer vai para a Boeing, André Fehlauer assume o comando",
-   "url": "https://investnews.com.br/negocios/gol-troca-ceo-celso-ferrer-vai-para-a-boeing-andre-fehlauer-assume-o-comando/",
-   "publicado": "2026-08-13T13:59:33+00:00",
-   "tickers": [],
-   "resumo": "Celso Ferrer deixará a companhia após mais de 20 anos e assumirá a Boeing na região; André Fehlauer será o novo CEO da Gol"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Gafisa adia balanço do 2º trimestre em meio a crise entre acionistas",
-   "url": "https://investnews.com.br/negocios/gafisa-adia-balanco-do-2o-trimestre-em-meio-a-crise-entre-acionistas/",
-   "publicado": "2026-08-13T13:19:36+00:00",
-   "tickers": [],
-   "resumo": "Com o novo cronograma, a teleconferência para apresentação dos resultados do segundo trimestre da Gafisa está prevista para 1º de setembro"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Fluxo externo para ações do Brasil é menor do que para bolsas da Ásia",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/08/13/fluxo-externo-para-acoes-do-brasil-e-menor-do-que-para-bolsas-da-asia.ghtml",
@@ -746,14 +786,6 @@
    "publicado": "2026-08-13T13:03:52+00:00",
    "tickers": [],
    "resumo": "O volume de vendas no varejo restrito subiu 0,5% em junho, ante maio, segundo a Pesquisa Mensal do Comércio (PMC), divulgada hoje pelo Instituto Brasileiro de Geografia e Estatística (IBGE). Em maio, o comércio restrito tinha avançado 0,3% (dado revisado após divulgação de alta d"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Angola cobra compromisso do Brasil com projetos agrícolas ou pede que saia do caminho",
-   "url": "https://investnews.com.br/economia/angola-cobra-compromisso-do-brasil-com-projetos-agricolas-ou-pede-que-saia-do-caminho/",
-   "publicado": "2026-08-13T12:42:23+00:00",
-   "tickers": [],
-   "resumo": "Ministro da Angola pode buscar novos parceiros diante das mudanças nas condições de investimento feitas por empresas brasileiras"
   },
   {
    "fonte": "Valor Investe",
@@ -850,40 +882,6 @@
     "BBAS3"
    ],
    "resumo": "O Banco do Brasil (BBAS3)  aprovou a distribuição de R$ 584,9 milhões em juros sobre capital próprio (JCP) complementares referentes ao segundo trimestre de 2026. O pagamento será feito em 11 de setembro.\nO valor corresponde a R$ 0,10413811686 por ação. Segundo o banco, o montant"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "A fragilidade de uma bolsa sem suportes e a busca por abrigo no dólar",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/08/12/a-fragilidade-de-uma-bolsa-sem-suportes-e-a-busca-por-abrigo-no-dolar.ghtml",
-   "publicado": "2026-08-12T20:43:33+00:00",
-   "tickers": [],
-   "resumo": "Se o dia após a tempestade costuma ser de calmaria, na bolsa brasileira ele trouxe apenas o eco do tombo da véspera. Após atingir o menor nível desde janeiro e refém da perda de suportes, o Ibovespa ficou sem fôlego para ensaiar uma recuperação nesta quarta-feira (12).\nO índice a"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Boi gordo e estatais rendem mais que o Ibovespa no 1º semestre; veja os índices da B3 que mais subiram",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/08/12/boi-gordo-e-estatais-rendem-mais-que-o-ibovespa-no-1o-semestre-veja-os-indices-da-b3-que-mais-subiram.ghtml",
-   "publicado": "2026-08-12T18:53:12+00:00",
-   "tickers": [],
-   "resumo": "Os índices da B3 ligados ao boi gordo e às empresas estatais foram os que mais subiram no primeiro semestre de 2026, superando o desempenho do Ibovespa, de acordo com balanço da empresa. Entre janeiro e junho, o principal índice da bolsa brasileira acumulou valorização de 6,76%.\n"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Sabesp (SBSP3) dá até 100% de desconto para quitar contas de água atrasadas; veja como negociar",
-   "url": "https://valorinveste.globo.com/objetivo/organize-as-contas/noticia/2026/08/12/sabesp-sbsp3-da-ate-100percent-de-desconto-para-quitar-contas-de-agua-atrasadas-veja-como-negociar.ghtml",
-   "publicado": "2026-08-12T18:18:09+00:00",
-   "tickers": [
-    "SBSP3"
-   ],
-   "resumo": "Clientes residenciais da Sabesp (SBSP3) com contas de água em atraso há mais de 90 dias poderão renegociar os débitos com desconto de até 100% sobre o valor da dívida. A campanha Tudo Azul Sabesp vai até 10 de setembro e prevê isenção integral de juros, multa e correção monetária"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "B3 ficou ‘aquém do padrão’ em falha que atrasou abertura do pregão, diz novo presidente",
-   "url": "https://valorinveste.globo.com/mercados/noticia/2026/08/12/b3-ficou-aquem-do-padrao-em-falha-que-atrasou-abertura-do-pregao-diz-novo-presidente.ghtml",
-   "publicado": "2026-08-12T18:08:14+00:00",
-   "tickers": [],
-   "resumo": "O novo presidente da B3, Christian Egan, disse hoje que a falha técnica que atrasou a abertura dos mercados em 31 de julho servirá como um “call to action” (chamado à ação, em tradução livre) para a empresa. “Ficamos aquém do padrão que o mercado espera da B3 e, mais importante, "
   }
  ]
 }
