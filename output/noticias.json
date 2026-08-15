@@ -3,12 +3,131 @@
  "itens": 100,
  "dados": [
   {
-   "fonte": "Suno Noticias",
-   "titulo": "IFIX cai 0,17% nesta sexta-feira; índice encerra semana em baixa de 2,25%",
-   "url": "https://www.suno.com.br/noticias/ifix-cai-017-nesta-sexta-feira-indice-encerra-semana-em-baixa-de-225/",
-   "publicado": "2026-08-14T22:45:05+00:00",
+   "fonte": "InvestNews",
+   "titulo": "LinkedIn incentiva usuários a depender menos da IA. Talvez muito menos",
+   "url": "https://investnews.com.br/the-wall-street-journal/linkedin-incentiva-usuarios-a-depender-menos-da-ia-talvez-muito-menos/",
+   "publicado": "2026-08-15T09:00:00+00:00",
    "tickers": [],
-   "resumo": "O IFIX encerrou o pregão desta sexta-feira (14) aos 3.686,33 pontos, em baixa de 0,17%, o que representa recuo de 6,32 pontos no dia. Na sessão anterior, o índice havia fechado aos 3.692,65 pontos. Ao longo do dia, o índice de fundos imobiliários oscilou entre a mínima de 3.679,8"
+   "resumo": "LinkedIn cria botão contra conteúdo de IA e vai avisar quando usuários parecerem estar escrevendo como robôs"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "SNFF11: fundo divulga dividendos com yield próximo de 1%; veja valor",
+   "url": "https://www.suno.com.br/noticias/snff11-fundo-divulga-dividendos-com-yield-proximo-de-1-veja-valor/",
+   "publicado": "2026-08-15T01:55:03+00:00",
+   "tickers": [
+    "SNFF11"
+   ],
+   "resumo": "O fundo imobiliário SNFF11 anunciou a distribuição de R$ 0,72 por cota em rendimentos aos investidores. O pagamento está previsto para 25 de agosto, com data-base em 14 de agosto de 2026. Considerando a cotação de fechamento de R$ 73,03 no fim de julho, o valor corresponde a um d"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "VRTA11 avança 0,64% nesta sexta, na contramão do IFIX",
+   "url": "https://www.suno.com.br/noticias/vrta11-avanca-064-nesta-sexta-na-contramao-do-ifix/",
+   "publicado": "2026-08-15T01:45:03+00:00",
+   "tickers": [
+    "VRTA11"
+   ],
+   "resumo": "O fundo imobiliário VRTA11 encerrou o pregão desta sexta-feira (14) em alta de 0,64%, a R$ 69,50, enquanto o IFIX recuou 0,17%, aos 3.686,34 pontos. Com isso, o FII caminhou na direção oposta ao principal índice de fundos imobiliários no dia. Ao longo da sessão, a cota oscilou en"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "CACR11: após meses de crise, FII vende CRI Helvetia por R$ 23,5 milhões",
+   "url": "https://www.suno.com.br/noticias/cacr11-apos-meses-de-crise-fii-vende-cri-helvetia-por-r-235-milhoes/",
+   "publicado": "2026-08-15T01:05:04+00:00",
+   "tickers": [
+    "CACR11"
+   ],
+   "resumo": "O CACR11 (Cartesia Recebíveis Imobiliários) alienou integralmente sua posição no CRI Helvetia por R$ 23,5 milhões. O pagamento foi feito à vista, com liquidação financeira em 13 de agosto. O acordo inclui um mecanismo de earn-out, que garante ao fundo participação em eventual rec"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Faria Lima: fundo imobiliário recebe proposta de R$ 557,8 milhões por lajes corporativas",
+   "url": "https://www.suno.com.br/noticias/faria-lima-fundo-imobiliario-recebe-proposta-de-r-5578-milhoes-por-lajes-corporativas/",
+   "publicado": "2026-08-15T00:25:16+00:00",
+   "tickers": [
+    "CVFL11",
+    "TRXF11"
+   ],
+   "resumo": "O fundo imobiliário CVFL11 (Catuaí Vista FL) recebeu proposta vinculante de R$ 557,85 milhões do TRXF11 (TRX Real Estate Fundo de Investimento Imobiliário – Responsabilidade Limitada) para aquisição das 12 lajes corporativas detidas no edifício Vista Faria Lima, em São Paulo. Se "
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "VRTA11: carteira do fundo imobiliário tem retorno potencial de IPCA + 20,97%",
+   "url": "https://www.suno.com.br/noticias/vrta11-carteira-do-fundo-imobiliario-tem-retorno-potencial-de-ipca-2097/",
+   "publicado": "2026-08-15T00:25:10+00:00",
+   "tickers": [
+    "VRTA11"
+   ],
+   "resumo": "O fundo imobiliário VRTA11 encerrou junho com uma carteira que, ao considerar o preço de mercado de R$ 69,00 por cota, indica potencial de retorno de IPCA + 20,97%. O patamar decorre de um cenário em que a cota negocia com desconto frente ao valor dos ativos do portfólio. No fech"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Na contramão do IFIX, fundos da Suno Asset fecham em alta de até 4%",
+   "url": "https://www.suno.com.br/noticias/na-contramao-do-ifix-fundos-da-suno-asset-fecham-em-alta-de-ate-4/",
+   "publicado": "2026-08-15T00:15:05+00:00",
+   "tickers": [
+    "SNID11"
+   ],
+   "resumo": "Os fundos da Suno Asset encerraram a sessão desta sexta-feira (14) em alta, na contramão do mercado de FIIs. Enquanto os veículos da gestora avançaram, o IFIX, principal índice de fundos imobiliários da B3, recuou 0,17%, aos 3.686,34 pontos. O melhor desempenho entre os fundos da"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "SNME11: FII anuncia dividendos com yield de 1,07%; veja valor",
+   "url": "https://www.suno.com.br/noticias/snme11-fii-anuncia-dividendos-com-yield-de-107-veja-valor/",
+   "publicado": "2026-08-14T23:55:20+00:00",
+   "tickers": [
+    "SNME11"
+   ],
+   "resumo": "O fundo imobiliário SNME11 anunciou a distribuição de R$ 0,10 por cota aos investidores, com pagamento em 25 de agosto de 2026. Terá direito ao provento quem estiver posicionado na data-base de 14 de agosto. Com a cota a R$ 9,38 (fechamento de julho), o provento corresponde a um "
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "SNEL11: fundo movimenta R$ 5,15 mi e fecha em alta de 0,24%",
+   "url": "https://www.suno.com.br/noticias/snel11-fundo-movimenta-r-515-mi-e-fecha-em-alta-de-024/",
+   "publicado": "2026-08-14T23:55:12+00:00",
+   "tickers": [
+    "SNEL11"
+   ],
+   "resumo": "O fundo imobiliário SNEL11 encerrou o pregão desta sexta-feira (14) em alta de 0,24%, cotado a R$ 8,37, em movimento oposto ao IFIX, que recuou 0,17% no mesmo dia. A variação diária ficou concentrada em uma faixa estreita, e o fechamento ocorreu na máxima da sessão. A negociação "
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "SNFZ11 avança 0,75% nesta sexta depois de anunciar novos dividendos",
+   "url": "https://www.suno.com.br/noticias/snfz11-avanca-075-nesta-sexta-depois-de-anunciar-novos-dividendos/",
+   "publicado": "2026-08-14T23:55:06+00:00",
+   "tickers": [
+    "SNFZ11"
+   ],
+   "resumo": "O fiagro SNFZ11 encerrou o pregão desta sexta-feira (14) em alta de 0,75%, em sentido oposto ao IFIX, que recuou 0,17% no dia. As cotas fecharam negociadas a R$ 9,45, após variarem entre a mínima de R$ 9,38 e uma máxima não informada no levantamento. O volume financeiro somou apr"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "SNAG11: Fiagro pagará novos dividendos em agosto, com yield superior a 1,2%",
+   "url": "https://www.suno.com.br/noticias/snag11-fiagro-pagara-novos-dividendos-em-agosto-com-yield-superior-a-12/",
+   "publicado": "2026-08-14T23:25:16+00:00",
+   "tickers": [
+    "SNAG11"
+   ],
+   "resumo": "O fundo imobiliário comunicou o pagamento de R$ 0,12 por cota em proventos aos investidores. O cronograma prevê a liquidação em 25 de agosto de 2026, para os cotistas com posição na data-base de 14 de agosto, conforme informado pela administração. Considerando a cotação de fecham"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Cosan (CSAN3) anuncia simplificação da estrutura, cisão de R$ 2,6 bi e vai dar adeus de bolsa de NY",
+   "url": "https://www.moneytimes.com.br/cosan-csan3-anuncia-simplificacao-da-estrutura-cisao-de-r-26-bi-e-saida-da-nyse-jcav/",
+   "publicado": "2026-08-14T23:14:16+00:00",
+   "tickers": [
+    "CSAN3"
+   ],
+   "resumo": "A Cosan (CSAN3), comunicou nesta sexta-feira (14) uma série de medidas para simplificar sua estrutura corporativa, incluindo mudanças na diretoria, uma reestruturação societária envolvendo o Grupo Radar e a deslistagem voluntária de seus American Depositary Shares (ADSs) da Bolsa"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Cosan troca CFO, extingue subsidiária e prepara saída de ADRs da Bolsa de Nova York",
+   "url": "https://investnews.com.br/negocios/cosan-cfo-adrs-ny-reorganiza-csan3/",
+   "publicado": "2026-08-14T22:53:32+00:00",
+   "tickers": [],
+   "resumo": "Companhia enxuga a estrutura, reorganiza o negócio de terras e cria meta para mostrar capacidade de pagar juros"
   },
   {
    "fonte": "Money Times",
@@ -32,7 +151,7 @@
   },
   {
    "fonte": "InvestNews",
-   "titulo": "Petrobras encontra indícios de petróleo e gás na Foz do Amazonas",
+   "titulo": "Petrobras encontra indícios de petróleo e gás na Margem Equatorial",
    "url": "https://investnews.com.br/negocios/petrobras-petroleo-gas-foz-do-amazonas/",
    "publicado": "2026-08-14T22:29:41+00:00",
    "tickers": [],
@@ -74,16 +193,8 @@
    "resumo": "A processadora de pagamentos Stripe e a Advent podem aumentar a oferta pelo PayPal, depois que a proposta inicial de US$ 60,50 por ação foi considerada insuficiente, segundo o Wall Street Journal.  As partes podem chegar a um acordo nas próximas semanas, mas não há garantias de q"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "Ibovespa fecha perto da estabilidade, mas amarga 9ª queda seguida",
-   "url": "https://www.suno.com.br/noticias/ibovespa-hoje-14-agosto-2026-estrangeiros-mt/",
-   "publicado": "2026-08-14T22:03:31+00:00",
-   "tickers": [],
-   "resumo": "Ibovespa fecha perto da estabilidade, mas amarga 9ª queda seguidaO Ibovespa conseguiu reduzir boa parte das perdas na reta final desta sexta-feira (14), mas não escapou do vermelho e completou nove pregões consecutivos de queda, a maior sequência negativa em três anos. O principa"
-  },
-  {
    "fonte": "Money Times",
-   "titulo": "Petrobras (PETR4) faz nova descoberta em águas ultraprofundas do Amapá, na margem equatorial",
+   "titulo": "Petrobras (PETR4) faz nova descoberta em águas ultraprofundas do Amapá, na margem equatorial; ‘uma alegria danada’, diz CEO",
    "url": "https://www.moneytimes.com.br/petrobras-petr4-faz-nova-descoberta-em-aguas-ultraprofundas-do-amapa-na-margem-equatorial/",
    "publicado": "2026-08-14T21:59:55+00:00",
    "tickers": [
@@ -165,38 +276,12 @@
    "resumo": "Se agosto costuma carregar a fama de “mês do desgosto” na bolsa, esta semana carimbou a tradição. O Ibovespa fechou o período com a maior queda semanal desde maio, voltou ao menor nível desde janeiro e viu praticamente esfarelar os ganhos que havia garantido ao longo de 2026.\nNa "
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "Conta de luz vai mudar: consumidor poderá escolher fornecedor de energia; entenda",
-   "url": "https://www.suno.com.br/noticias/escolher-fornecedor-energia-mercado-livre-2027-mt/",
-   "publicado": "2026-08-14T20:45:06+00:00",
-   "tickers": [],
-   "resumo": "Escolher a operadora de celular ou o banco já faz parte da rotina. A partir dos próximos anos, essa lógica também começará a chegar à conta de luz. Um decreto assinado nesta semana regulamentou a abertura do mercado livre de energia para consumidores de baixa tensão e permitirá q"
-  },
-  {
    "fonte": "Money Times",
    "titulo": "Consultoria gringa recomenda fugir de bolsa — e culpa é do governo Lula; só um investimento vale a pena",
    "url": "https://www.moneytimes.com.br/consultoria-gringa-recomenda-fugir-de-bolsa-e-culpa-e-do-governo-lula-so-um-investimento-vale-a-pena/",
    "publicado": "2026-08-14T20:31:04+00:00",
    "tickers": [],
    "resumo": "Em meio ao forte pessimismo que tomou conta do mercado brasileiro, com gringos batendo em retirada, o Brasil ganhou mais um detrator: a BCA Research. Em duro relatório, os analistas que assinam o documento são claros ao dizer que o melhor é evitar o país. A casa rebaixou a recome"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Ibovespa cai 3% na semana e tem pior sequência desde 2023; dólar sobe",
-   "url": "https://www.moneytimes.com.br/ibovespa-5-coisas-14-8-26-apsa-2/",
-   "publicado": "2026-08-14T20:30:42+00:00",
-   "tickers": [],
-   "resumo": "O Ibovespa (IBOV) teve a nona sessão de queda consecutiva, marcando a pior sequência do índice desde 2023. Nesta sexta-feira (14), o principal índice da bolsa brasileira terminou as negociações com queda de 0,10%, aos 166.934,20 pontos. Na semana, o IBOV recuou 3,27%. Já o dólar "
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Azul (AZUL3) vê prejuízo dobrar no 2T26; combustível e menor capacidade pesam",
-   "url": "https://www.suno.com.br/noticias/azul-azul3-resultado-2t26-prejuizo-combustivel-mt/",
-   "publicado": "2026-08-14T19:55:07+00:00",
-   "tickers": [
-    "AZUL3"
-   ],
-   "resumo": "A Azul (AZUL3) encerrou o segundo trimestre de 2026 com um contraste importante no balanço. Mesmo com uma redução de 10,6% na capacidade, a companhia alcançou receita recorde para um segundo trimestre, de R$ 4,98 bilhões. O avanço, porém, não foi suficiente para compensar a forte"
   },
   {
    "fonte": "Valor Investe",
@@ -233,40 +318,12 @@
    "resumo": "Ativos nos EUA voltam a ganhar apelo, enquanto proximidade da eleição no Brasil pesa no mercado doméstico"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "Embraer (EMBJ3) aprova R$ 154 milhões em JCP após lucro recorde; veja quem recebe",
-   "url": "https://www.suno.com.br/noticias/embraer-embj3-jcp-154-milhoes-quem-tem-direito-mt/",
-   "publicado": "2026-08-14T18:45:06+00:00",
-   "tickers": [
-    "EMBJ3"
-   ],
-   "resumo": "Poucos dias depois de divulgar um segundo trimestre com lucro e receita em níveis recordes, a Embraer (EMBJ3) anunciou uma nova remuneração aos acionistas. O Conselho de Administração aprovou R$ 154 milhões em juros sobre capital próprio (JCP), equivalentes a R$ 0,216342 por ação"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Banco Central liquida Simpala; FGC estima R$ 622 milhões a pagar a 21 mil credores",
-   "url": "https://www.suno.com.br/noticias/banco-central-liquida-simpala-fgc-622-milhoes-mt/",
-   "publicado": "2026-08-14T18:05:06+00:00",
-   "tickers": [],
-   "resumo": "O Banco Central decretou nesta sexta-feira (14) a liquidação extrajudicial da Simpala S.A. Crédito, Financiamento e Investimento e da Simpala Lançadora e Administradora de Consórcios, ambas sediadas em Porto Alegre. A decisão interrompe as atividades das instituições e abre agora"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Por que um superpetroleiro pagou US$ 4,6 milhões para furar a fila no Canal do Panamá?",
    "url": "https://investnews.com.br/economia/por-que-um-superpetroleiro-pagou-us-46-milhoes-para-furar-a-fila-no-canal-do-panama/",
    "publicado": "2026-08-14T17:36:26+00:00",
    "tickers": [],
    "resumo": "Guerra com o Irã e El Niño alteram rotas do comércio e aumentam a disputa por passagem no Canal do Panamá"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Vale (VALE3) acelera projeto em Salobo e mira mais 30 mil toneladas de cobre por ano",
-   "url": "https://www.suno.com.br/noticias/vale-vale3-salobo-producao-cobre-mt/",
-   "publicado": "2026-08-14T17:05:12+00:00",
-   "tickers": [
-    "VALE3"
-   ],
-   "resumo": "A Vale (VALE3) decidiu acelerar uma das frentes de sua estratégia para ampliar a produção de cobre. Por meio da Vale Base Metals, a mineradora avançou com o projeto de Flotação de Partículas Grossas (CPF) no Complexo de Salobo, no Pará, e agora prevê iniciar a operação no primeir"
   },
   {
    "fonte": "Valor Investe",
@@ -309,33 +366,12 @@
    "resumo": "No início deste ano, a Raízen obteve a aprovação dos credores para reestruturar R$ 65 bilhões"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "Dividendos do MXRF11 e BRCO11: veja os FIIs que pagam nesta sexta (14)",
-   "url": "https://www.suno.com.br/noticias/dividendos-hoje-fiis-pagam-proventos/",
-   "publicado": "2026-08-14T14:55:06+00:00",
-   "tickers": [
-    "BRCO11",
-    "MXRF11"
-   ],
-   "resumo": "Os fundos imobiliários BRCO11 e MXRF11 estão entre os FIIs que distribuem proventos nesta sexta-feira. Esses dois fundos pagarão R$ 0,24 e R$ 0,10 por cota, respectivamente. Os valores serão creditados automaticamente na conta da corretora dos investidores. Quem recebe os provent"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Tesouro Direto: taxas dos vencimentos curtos aceleram na reta final da semana",
    "url": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/08/14/tesouro-direto-taxas-estacionam-na-semana-confira-as-recomendacoes-de-onde-investir.ghtml",
    "publicado": "2026-08-14T14:42:02+00:00",
    "tickers": [],
    "resumo": "As taxas dos títulos do Tesouro Direto jogaram paradas ao longo desta semana, com leve alta observada nos prefixados, até esta sexta (14). Durante a tarde, as taxas dos títulos prefixados e IPCA+ com vencimento menor do que dez anos dispararam. \nNo caso dos prefixados, o papel qu"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Nubank (ROXO34) sobe mais de 10% após lucro recorde de US$ 1 bilhão no 2T26",
-   "url": "https://www.suno.com.br/noticias/nubank-roxo34-lucro-recorde-2t26-acoes-sobem-10-go/",
-   "publicado": "2026-08-14T14:35:00+00:00",
-   "tickers": [
-    "ROXO34"
-   ],
-   "resumo": "Nubank (ROXO34) sobe mais de 10% após lucro recorde de US$ 1 bilhão no 2T26O Nubank (ROXO34) está registrando alta de mais de 10% nesta sexta-feira (14), um dia após divulgar o melhor resultado trimestral de sua história: lucro líquido de US$ 1,061 bilhão no segundo trimestre de "
   },
   {
    "fonte": "InvestNews",
@@ -360,16 +396,6 @@
    "publicado": "2026-08-14T13:35:28+00:00",
    "tickers": [],
    "resumo": "Conflito no Irã elevou preços e melhorou margens no trimestre, mas companhia se prepara para um mercado petroquímico pressionado pelo avanço  chinês"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "FII RBRR11 confirma dividendos com retorno de 1,19% no mês",
-   "url": "https://www.suno.com.br/noticias/dividendos-do-rbrr11-julho-2026/",
-   "publicado": "2026-08-14T13:05:07+00:00",
-   "tickers": [
-    "RBRR11"
-   ],
-   "resumo": "Os dividendos do RBRR11 referentes a julho de 2026 serão de R$ 0,90 por cota, conforme comunicado ao mercado. O pagamento aos cotistas está programado para 18 de agosto de 2026, de acordo com o cronograma divulgado pelo administrador do fundo. Terão direito aos proventos os inves"
   },
   {
    "fonte": "Valor Investe",
@@ -738,22 +764,6 @@
    "publicado": "2026-08-13T16:56:58+00:00",
    "tickers": [],
    "resumo": "Empresa de planos de saúde tem aumento da sinistralidade e de gastos com processos judiciais no segundo trimestre"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "eVTOL: o ‘carro voador’ vai realmente caber no seu bolso?",
-   "url": "https://investnews.com.br/videos/evtol-o-carro-voador-vai-realmente-caber-no-seu-bolso/",
-   "publicado": "2026-08-13T15:32:45+00:00",
-   "tickers": [],
-   "resumo": "Adiado para 2028, o projeto de eVTOL da Eve enfrenta desafios técnicos e altos custos no Brasil. Assista ao vídeo e entenda os impactos."
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "SpaceX supera teste de fim de restrição a vendas e ganha US$ 500 bilhões em valor",
-   "url": "https://investnews.com.br/negocios/spacex-supera-teste-de-fim-de-restricao-a-vendas-e-ganha-us-500-bilhoes-em-valor/",
-   "publicado": "2026-08-13T15:30:47+00:00",
-   "tickers": [],
-   "resumo": "O fim do lock-up, que liberou ações para venda, não provocou a esperada pressão sobre os papéis e reforçou a confiança dos investidores na SpaceX"
   },
   {
    "fonte": "Valor Investe",
