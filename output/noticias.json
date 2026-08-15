@@ -3,6 +3,30 @@
  "itens": 100,
  "dados": [
   {
+   "fonte": "InvestNews",
+   "titulo": "China abre a primeira rota de carga pelo Ártico na história",
+   "url": "https://investnews.com.br/the-wall-street-journal/china-abre-a-primeira-rota-de-carga-pelo-artico-na-historia/",
+   "publicado": "2026-08-15T19:49:16+00:00",
+   "tickers": [],
+   "resumo": "Mandar cargueiros pela rota polar não é mais um disparate. Cortesia das mudanças climáticas e dos preços do petróleo"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Como investidores buscaram ganhos de até 586% aproveitando a volatilidade das eleições",
+   "url": "https://www.moneytimes.com.br/como-investidores-buscaram-ganhos-de-ate-586-aproveitando-a-volatilidade-das-eleicoes-lbrdjr250/",
+   "publicado": "2026-08-15T19:00:00+00:00",
+   "tickers": [],
+   "resumo": "Estratégia que “se alimenta de volatilidade” permite buscar lucros em períodos de alta e de baixa do mercado"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "O gargalo que trava as megabaterias de armazenamento",
+   "url": "https://investnews.com.br/negocios/o-gargalo-que-trava-o-avanco-das-megabaterias-de-armazenamento/",
+   "publicado": "2026-08-15T16:32:09+00:00",
+   "tickers": [],
+   "resumo": "Projetos de baterias inundam a fila de conexão nos EUA e exigem obras demoradas – uma amostra do que pode acontecer no Brasil"
+  },
+  {
    "fonte": "Money Times",
    "titulo": "Cadê o balanço da Casas Bahia (BHIA3)? Empresa escolhe outra data em meio a reuniões com advogados e bancos, diz jornal",
    "url": "https://www.moneytimes.com.br/cade-o-balanco-da-casas-bahia-bhia3-empresa-escolhe-outra-data-em-meio-a-reunioes-com-advogados-e-bancos-diz-jornal/",
@@ -14,11 +38,11 @@
   },
   {
    "fonte": "InvestNews",
-   "titulo": "Já falta navio para trazer tanto carro chinês",
-   "url": "https://investnews.com.br/the-wall-street-journal/falta-navio-para-trazer-tanto-carro-chines/",
+   "titulo": "Falta navio: inundação de carros chineses testa os limites do frete marítimo",
+   "url": "https://investnews.com.br/negocios/falta-navio-para-trazer-tanto-carro-chines/",
    "publicado": "2026-08-15T15:11:13+00:00",
    "tickers": [],
-   "resumo": "Com a demanda em queda dentro da China, exportação cresce – e testa os limites do frete marítimo"
+   "resumo": "Com a demanda em queda dentro da China, exportação de veículos cresce – e sobrecarrega a navegação global"
   },
   {
    "fonte": "Money Times",
@@ -53,7 +77,7 @@
   },
   {
    "fonte": "InvestNews",
-   "titulo": "Marisa: as táticas do CEO para ampliar as vendas e enfrentar o crescimento da dívida",
+   "titulo": "Marisa: as táticas do CEO para ampliar as vendas e estancar a dívida ameaçadora",
    "url": "https://investnews.com.br/negocios/marisa-melhora-operacao-divida-balanco/",
    "publicado": "2026-08-15T13:59:28+00:00",
    "tickers": [],
@@ -112,7 +136,7 @@
    "tickers": [
     "ONCO3"
    ],
-   "resumo": "A Oncoclinicas (ONCO3), que passa por momento delicado na Bolsa, viu os seus números pioraram no segundo trimestre de 2025, com prejuízo de R$ 475,7 milhões, alta de 234% em relação ao mesmo período do ano passado, quando reportou prejuízo de R$ 142 milhões, mostra documento envi"
+   "resumo": "A Oncoclinicas (ONCO3), que passa por momento delicado na Bolsa, viu os seus números pioraram no segundo trimestre de 2026, com prejuízo de R$ 475,7 milhões, alta de 234% em relação ao mesmo período do ano passado, quando reportou prejuízo de R$ 142 milhões, mostra documento envi"
   },
   {
    "fonte": "Money Times",
@@ -135,16 +159,8 @@
    "resumo": "O fundo imobiliário CPTS11 (Capitânia Securities II) comunicou uma nova distribuição de dividendos referente ao resultado de julho de 2026. O valor anunciado é de R$ 0,09 por cota, em linha com os pagamentos anteriores realizados pelo veículo. O pagamento dos dividendos está agen"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Quatro Estados e Minas Gerais, ‘o espelho do Brasil’, decidirão a eleição 2026?",
-   "url": "https://www.moneytimes.com.br/quatro-estados-e-minas-gerais-o-espelho-do-brasil-decidirao-a-eleicao-2026-gaep/",
-   "publicado": "2026-08-15T11:00:00+00:00",
-   "tickers": [],
-   "resumo": "A relevância político-eleitoral de Minas Gerais no cenário brasileiro vai além da quantidade absoluta de eleitores. O estado abriga 16,3 milhões de eleitores, segundo maior colégio com 10,32% de todo o eleitorado do País. Devido ao seu perfil econômico e social variado, o comport"
-  },
-  {
    "fonte": "InvestNews",
-   "titulo": "LinkedIn diz que quer incentivar usuários a depender menos da IA. Não vai ser fácil",
+   "titulo": "LinkedIn quer incentivar usuários a depender menos da IA. Não vai ser fácil",
    "url": "https://investnews.com.br/the-wall-street-journal/linkedin-incentiva-usuarios-a-depender-menos-da-ia-talvez-muito-menos/",
    "publicado": "2026-08-15T09:00:00+00:00",
    "tickers": [],
@@ -752,14 +768,6 @@
    "resumo": "Rede de bares Fulujia se tornou a maior do mundo ao replicar a estratégia de preço baixo, franquias e escala do grupo"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "A Jeep quer reverter a perda de mercado para chineses no Brasil. O Avenger é o primeiro passo",
-   "url": "https://investnews.com.br/negocios/plano-jeep-para-recuperar-terreno-brasil/",
-   "publicado": "2026-08-13T17:38:28+00:00",
-   "tickers": [],
-   "resumo": "Com modelo 'híbrido leve' e preços a partir de R$ 120 mil, Stellantis busca crescer no segmento cada vez mais concorrido de SUVs de entrada"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Ações da Hapvida (HAPV3) desabam mais de 30%, com dados do 2º trimestre piores que o esperado",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/08/13/acoes-da-hapvida-hapv3-desabam-mais-de-20percent-com-dados-do-2o-trimestre-piores-que-o-esperado.ghtml",
@@ -768,14 +776,6 @@
     "HAPV3"
    ],
    "resumo": "As ações da Hapvida (HAPV3) tombaram 33% no pregão desta quinta-feira (13), na B3, depois de a operadora de planos de saúde divulgar um balanço do segundo trimestre que frustrou as expectativas do mercado. A piora da sinistralidade, o aumento dos gastos relacionados à judicializa"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Saque do FGTS: TST muda regra sobre onde trabalhador pode recorrer",
-   "url": "https://investnews.com.br/financas/saque-do-fgts-como-recorrer-valores/",
-   "publicado": "2026-08-13T17:34:36+00:00",
-   "tickers": [],
-   "resumo": "Saiba os casos em que o pedido de saque do FGTS vai para a Justiça do Trabalho e quando vai para a Justiça comum. Entenda a mudança"
   },
   {
    "fonte": "Valor Investe",
