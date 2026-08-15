@@ -3,12 +3,152 @@
  "itens": 100,
  "dados": [
   {
+   "fonte": "Money Times",
+   "titulo": "Cadê o balanço da Casas Bahia (BHIA3)? Empresa escolhe outra data em meio a reuniões com advogados e bancos, diz jornal",
+   "url": "https://www.moneytimes.com.br/cade-o-balanco-da-casas-bahia-bhia3-empresa-escolhe-outra-data-em-meio-a-reunioes-com-advogados-e-bancos-diz-jornal/",
+   "publicado": "2026-08-15T15:29:56+00:00",
+   "tickers": [
+    "BHIA3"
+   ],
+   "resumo": "A Casas Bahia (BHIA3) divulgará na próxima segunda-feira (17) seus resultados do segundo trimestre de 2026, segundo o Valor Econômico. A informação foi confirmada pelo Money Times. Trata-se do segundo adiamento. O balanço estava previsto para ocorrer na quarta-feira (12) e foi tr"
+  },
+  {
    "fonte": "InvestNews",
-   "titulo": "LinkedIn incentiva usuários a depender menos da IA. Talvez muito menos",
+   "titulo": "Já falta navio para trazer tanto carro chinês",
+   "url": "https://investnews.com.br/the-wall-street-journal/falta-navio-para-trazer-tanto-carro-chines/",
+   "publicado": "2026-08-15T15:11:13+00:00",
+   "tickers": [],
+   "resumo": "Com a demanda em queda dentro da China, exportação cresce – e testa os limites do frete marítimo"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Bitcoin (BTC) opera em queda, a US$ 62 mil; veja preços das criptomoedas neste sábado (15)",
+   "url": "https://www.moneytimes.com.br/bitcoin-btc-opera-em-queda-a-us-62-mil-veja-precos-das-criptomoedas-neste-sabado-15/",
+   "publicado": "2026-08-15T15:09:50+00:00",
+   "tickers": [],
+   "resumo": "O bitcoin (BTC) é negociado na casa dos US$ 62,9 mil na manhã desta sexta-feira (14), com queda de 0,01% por volta das 12h. Veja o desempenho das dez maiores criptomoedas do mundo hoje: # Ativo Ticker Preço 1h 24h 7d — CoinMarketCap 20 Index DTF CMC20 US$ 128,20 +0,02% +0,38% +2,"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Sai Sabesp (SBSP3), entra WEG (WEGE3): 5 ações para superar o Ibovespa no curto prazo, segundo a Terra",
+   "url": "https://www.moneytimes.com.br/sai-sabesp-entra-weg-5-acoes-para-superar-o-ibovespa-ibov-no-curto-prazo-segundo-a-terra-lmrs/",
+   "publicado": "2026-08-15T14:50:00+00:00",
+   "tickers": [
+    "SBSP3",
+    "WEGE3"
+   ],
+   "resumo": "A Terra Investimentos realizou uma alteração na carteira recomendada semanal para o período de 14 a 21 de agosto. Deixam o portfólio as ações da Sabesp (SBSP3) e no lugar entram as da WEG (WEGE3). De acordo com Régis Chinchila, que assina a carteira, a Sabesp é uma empresa com fu"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "JCPs do Banco do Brasil (BBAS3), dividendos da Caixa Seguridade (CXSE3) e liquidação do Ibovespa; veja o que bombou no Money Times na semana",
+   "url": "https://www.moneytimes.com.br/jcps-do-banco-do-brasil-bbas3-dividendos-da-caixa-seguridade-cxse3-e-liquidacao-do-ibovespa-veja-o-que-bombou-no-money-times-na-semana/",
+   "publicado": "2026-08-15T14:39:59+00:00",
+   "tickers": [
+    "BBAS3",
+    "CXSE3",
+    "ITSA4"
+   ],
+   "resumo": "O mercado financeiro teve uma semana movimentada, com investidores de olho em dividendos e juros sobre capital próprio, balanços corporativos e na forte queda do Ibovespa. Entre os destaques, Banco do Brasil (BBAS3), Itaúsa (ITSA4) e Caixa Seguridade (CXSE3) chamaram a atenção, e"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Marisa: as táticas do CEO para ampliar as vendas e enfrentar o crescimento da dívida",
+   "url": "https://investnews.com.br/negocios/marisa-melhora-operacao-divida-balanco/",
+   "publicado": "2026-08-15T13:59:28+00:00",
+   "tickers": [],
+   "resumo": "Edson Garcia mostra como está reorganizando a varejista, que recupera margem, mas ainda luta para rolar as dívidas"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Crédito em alerta: Bancos evitam clientes de baixa renda e elevam garantias em meio à piora da economia",
+   "url": "https://www.moneytimes.com.br/foco-em-garantias-e-cautela-com-baixa-renda-grandes-bancos-brasileiros-redobram-estrategia-defensiva/",
+   "publicado": "2026-08-15T13:54:12+00:00",
+   "tickers": [],
+   "resumo": "Os maiores bancos do Brasil estão redobrando a postura mais cautelosa na concessão de crédito, dando continuidade a uma migração para produtos com garantia e clientes de renda mais alta diante de sinais de deterioração nas finanças das famílias, apesar de um mercado de trabalho a"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Investidores fogem do real e apertam o cerco diante da sombra da reeleição de Lula",
+   "url": "https://www.moneytimes.com.br/investidores-fogem-do-real-e-apertam-o-cerco-diante-da-sombra-da-reeleicao-de-lula-rnda/",
+   "publicado": "2026-08-15T13:48:48+00:00",
+   "tickers": [],
+   "resumo": "A dois meses das eleições e com a possibilidade da continuidade de um governo de Luiz Inácio Lula da Silva (PT), o mercado já começou a incorporar um prêmio eleitoral no real, depois de investidores terem permanecido comprados em moeda brasileira durante boa parte do ano. O gatil"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Hapvida (HAPV3) despenca mais de 30% e Embraer (EMBJ3) destoa de cautela local; veja os destaques do Ibovespa na semana",
+   "url": "https://www.moneytimes.com.br/ibovespa-destaques-da-semana-33-lils/",
+   "publicado": "2026-08-15T13:01:00+00:00",
+   "tickers": [
+    "EMBJ3",
+    "HAPV3"
+   ],
+   "resumo": "O Ibovespa (IBOV) engatou mais uma semana de forte queda, marcada pela fuga do investidor estrangeiro. O principal índice da bolsa brasileira acumulou desvalorização de 3,23% na semana e encerrou a última sessão aos 166.934,20 pontos. Durante o período, o IBOV marcou nove pregões"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Mega-Sena 3045 sorteia prêmio de R$ 38 milhões neste domingo; veja como e até que horas pode apostar",
+   "url": "https://valorinveste.globo.com/loterias/noticia/2026/08/15/mega-sena-3045-sorteia-premio-de-38-milhoes-neste-domingo-veja-como-e-ate-que-horas-pode-apostar.ghtml",
+   "publicado": "2026-08-15T12:57:37+00:00",
+   "tickers": [],
+   "resumo": "A Mega-Sena 3045 sorteia um prêmio estimado em R$ 38 milhões neste domingo (16), a partir das 11h (horário de Brasília), em São Paulo.\nVEJA TAMBÉM: \n- Os números mais sorteados na história Mega-Sena\nPara os sorteios realizados aos domingos, as apostas podem ser feitas até às 22h "
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "BTLG11 anuncia dividendos; veja valor e quem tem direito a receber",
+   "url": "https://www.suno.com.br/noticias/btlg11-anuncia-dividendos-veja-valor-e-quem-tem-direito-a-receber/",
+   "publicado": "2026-08-15T12:45:05+00:00",
+   "tickers": [
+    "BTLG11"
+   ],
+   "resumo": "O BTG Pactual Logística comunicou uma nova distribuição de rendimentos aos cotistas. O pagamento será de R$ 0,81 por cota, referente aos resultados de julho de 2026, com data de crédito marcada para 25 de agosto. Conforme informado pelo fundo imobiliário, terão direito aos rendim"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Oncoclinicas (ONCO3) vê prejuízo saltar 234%, para R$ 475 milhões; empresa tem ajustes contábeis ‘significativos’",
+   "url": "https://www.moneytimes.com.br/oncoclinicas-onco3-ve-prejuizo-saltar-234-para-r-475-milhoes-empresa-tem-ajustes-contabeis-significativos-rnda/",
+   "publicado": "2026-08-15T12:40:13+00:00",
+   "tickers": [
+    "ONCO3"
+   ],
+   "resumo": "A Oncoclinicas (ONCO3), que passa por momento delicado na Bolsa, viu os seus números pioraram no segundo trimestre de 2025, com prejuízo de R$ 475,7 milhões, alta de 234% em relação ao mesmo período do ano passado, quando reportou prejuízo de R$ 142 milhões, mostra documento envi"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Vibra Energia (VBBR3) pagará R$ 499 milhões em juros sobre o capital próprio após resultado acima do esperado",
+   "url": "https://www.moneytimes.com.br/vibra-energia-vbbr3-pagara-r-499-milhoes-em-juros-sobre-o-capital-proprio-apos-resultado-acima-do-esperado/",
+   "publicado": "2026-08-15T11:56:42+00:00",
+   "tickers": [
+    "VBBR3"
+   ],
+   "resumo": "A Vibra Energia (VBBR3) pagará R$ 499 milhões em juros sobre o capital próprio, mostra documento enviado ao mercado na última sexta-feira (14). Segundo o documento enviado ao mercado, o valor por ação será de R$ 0,41, enquanto o pagamento ocorrerá em 16 de novembro. Quem quiser a"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "CPTS11 divulga novos dividendos; confira valor e quem tem direito",
+   "url": "https://www.suno.com.br/noticias/cpts11-divulga-novos-dividendos-confira-valor-e-quem-tem-direito/",
+   "publicado": "2026-08-15T11:05:05+00:00",
+   "tickers": [
+    "CPTS11"
+   ],
+   "resumo": "O fundo imobiliário CPTS11 (Capitânia Securities II) comunicou uma nova distribuição de dividendos referente ao resultado de julho de 2026. O valor anunciado é de R$ 0,09 por cota, em linha com os pagamentos anteriores realizados pelo veículo. O pagamento dos dividendos está agen"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Quatro Estados e Minas Gerais, ‘o espelho do Brasil’, decidirão a eleição 2026?",
+   "url": "https://www.moneytimes.com.br/quatro-estados-e-minas-gerais-o-espelho-do-brasil-decidirao-a-eleicao-2026-gaep/",
+   "publicado": "2026-08-15T11:00:00+00:00",
+   "tickers": [],
+   "resumo": "A relevância político-eleitoral de Minas Gerais no cenário brasileiro vai além da quantidade absoluta de eleitores. O estado abriga 16,3 milhões de eleitores, segundo maior colégio com 10,32% de todo o eleitorado do País. Devido ao seu perfil econômico e social variado, o comport"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "LinkedIn diz que quer incentivar usuários a depender menos da IA. Não vai ser fácil",
    "url": "https://investnews.com.br/the-wall-street-journal/linkedin-incentiva-usuarios-a-depender-menos-da-ia-talvez-muito-menos/",
    "publicado": "2026-08-15T09:00:00+00:00",
    "tickers": [],
-   "resumo": "LinkedIn cria botão contra conteúdo de IA e vai avisar quando usuários parecerem estar escrevendo como robôs"
+   "resumo": "Rede cria botão contra 'conteúdo lixo de IA' e vai avisar quando usuários parecerem escrever como robôs"
   },
   {
    "fonte": "Suno Noticias",
@@ -92,62 +232,12 @@
    "resumo": "O fundo imobiliário SNEL11 encerrou o pregão desta sexta-feira (14) em alta de 0,24%, cotado a R$ 8,37, em movimento oposto ao IFIX, que recuou 0,17% no mesmo dia. A variação diária ficou concentrada em uma faixa estreita, e o fechamento ocorreu na máxima da sessão. A negociação "
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "SNFZ11 avança 0,75% nesta sexta depois de anunciar novos dividendos",
-   "url": "https://www.suno.com.br/noticias/snfz11-avanca-075-nesta-sexta-depois-de-anunciar-novos-dividendos/",
-   "publicado": "2026-08-14T23:55:06+00:00",
-   "tickers": [
-    "SNFZ11"
-   ],
-   "resumo": "O fiagro SNFZ11 encerrou o pregão desta sexta-feira (14) em alta de 0,75%, em sentido oposto ao IFIX, que recuou 0,17% no dia. As cotas fecharam negociadas a R$ 9,45, após variarem entre a mínima de R$ 9,38 e uma máxima não informada no levantamento. O volume financeiro somou apr"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "SNAG11: Fiagro pagará novos dividendos em agosto, com yield superior a 1,2%",
-   "url": "https://www.suno.com.br/noticias/snag11-fiagro-pagara-novos-dividendos-em-agosto-com-yield-superior-a-12/",
-   "publicado": "2026-08-14T23:25:16+00:00",
-   "tickers": [
-    "SNAG11"
-   ],
-   "resumo": "O fundo imobiliário comunicou o pagamento de R$ 0,12 por cota em proventos aos investidores. O cronograma prevê a liquidação em 25 de agosto de 2026, para os cotistas com posição na data-base de 14 de agosto, conforme informado pela administração. Considerando a cotação de fecham"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Cosan (CSAN3) anuncia simplificação da estrutura, cisão de R$ 2,6 bi e vai dar adeus de bolsa de NY",
-   "url": "https://www.moneytimes.com.br/cosan-csan3-anuncia-simplificacao-da-estrutura-cisao-de-r-26-bi-e-saida-da-nyse-jcav/",
-   "publicado": "2026-08-14T23:14:16+00:00",
-   "tickers": [
-    "CSAN3"
-   ],
-   "resumo": "A Cosan (CSAN3), comunicou nesta sexta-feira (14) uma série de medidas para simplificar sua estrutura corporativa, incluindo mudanças na diretoria, uma reestruturação societária envolvendo o Grupo Radar e a deslistagem voluntária de seus American Depositary Shares (ADSs) da Bolsa"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Cosan troca CFO, extingue subsidiária e prepara saída de ADRs da Bolsa de Nova York",
    "url": "https://investnews.com.br/negocios/cosan-cfo-adrs-ny-reorganiza-csan3/",
    "publicado": "2026-08-14T22:53:32+00:00",
    "tickers": [],
    "resumo": "Companhia enxuga a estrutura, reorganiza o negócio de terras e cria meta para mostrar capacidade de pagar juros"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Lucro da Vibra (VBBR3) quase quadriplica no segundo trimestre de 2026",
-   "url": "https://www.moneytimes.com.br/lucro-da-vibra-quase-quadriplica-no-segundo-trimestre-jcav/",
-   "publicado": "2026-08-14T22:42:34+00:00",
-   "tickers": [
-    "VBBR3"
-   ],
-   "resumo": "A Vibra Energia (VBBR3) teve lucro líquido ajustado de R$ 2,3 bilhões no segundo trimestre, o que representa um ganho de 365% em relação ao mesmo período de 2025, informou a companhia dona da rede de postos de combustíveis BR nesta sexta-feira (14). O lucro antes de juros, impost"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Cosan (CSAN3) vê prejuízo cair 66%, para R$ 320 milhões",
-   "url": "https://www.moneytimes.com.br/cosan-csan3-ve-prejuizo-subir-66-para-r-320-milhoes/",
-   "publicado": "2026-08-14T22:32:45+00:00",
-   "tickers": [
-    "CSAN3"
-   ],
-   "resumo": "A Cosan (CSAN3), que passa por uma reestruturação financeira, viu o seu prejuízo cair mais 66%, para R$ 320 milhões, mostra documento enviado ao mercado nesta sexta-feira (14). Segundo o documento, o resultado foi prejudicado por um impacto pontual negativo de R$ 233 milhões. O n"
   },
   {
    "fonte": "InvestNews",
@@ -166,42 +256,12 @@
    "resumo": "A Cosan acaba de anunciar que o CFO Rafael Bergman e a vice-presidente jurídica, Rita Drummond, estão deixando a companhia – um movimento que reflete o enxugamento da holding de Rubens Ometto. Bergman estava no cargo há apenas nove meses, mas era um veterano do grupo: já havia si"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Caiado registra candidatura à Presidência no TSE com patrimônio 111% maior do que em 2022",
-   "url": "https://www.moneytimes.com.br/caiado-registra-candidatura-a-presidencia-no-tse-com-patrimonio-111-maior-do-que-em-2022-jcav/",
-   "publicado": "2026-08-14T22:17:56+00:00",
-   "tickers": [],
-   "resumo": "Ex-governador de Goiás e candidato à Presidência da República, Ronaldo Caiado (PSD) teve sua candidatura registrada no Tribunal Superior Eleitoral (TSE) e declarou patrimônio avaliado em R$ 52,5 milhões. A quantia é mais do que o dobro de quatro anos atrás, quando Caiado se lanço"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Petrobras (PETR4) recebe mais R$ 536,7 milhões em subvenções para gasolina e GLP",
-   "url": "https://www.moneytimes.com.br/petrobras-petr4-recebe-mais-r-5367-milhoes-em-subvencoes-para-gasolina-e-glp-jcav/",
-   "publicado": "2026-08-14T22:16:41+00:00",
-   "tickers": [
-    "PETR3",
-    "PETR4"
-   ],
-   "resumo": "A Petrobras (PETR4; PETR3) recebeu R$ 536,7 milhões em novas parcelas do Programa de Subvenção Econômica da gasolina e do GLP (gás liquefeito de petróleo), informou a companhia nesta sexta-feira (14). Com os novos pagamentos, o total acumulado recebido pela estatal no âmbito do p"
-  },
-  {
    "fonte": "Brazil Journal",
    "titulo": "Stripe e Advent podem aumentar oferta pelo PayPal",
    "url": "https://braziljournal.com/stripe-e-advent-podem-aumentar-oferta-pelo-paypal/",
    "publicado": "2026-08-14T22:05:33+00:00",
    "tickers": [],
    "resumo": "A processadora de pagamentos Stripe e a Advent podem aumentar a oferta pelo PayPal, depois que a proposta inicial de US$ 60,50 por ação foi considerada insuficiente, segundo o Wall Street Journal.  As partes podem chegar a um acordo nas próximas semanas, mas não há garantias de q"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Petrobras (PETR4) faz nova descoberta em águas ultraprofundas do Amapá, na margem equatorial; ‘uma alegria danada’, diz CEO",
-   "url": "https://www.moneytimes.com.br/petrobras-petr4-faz-nova-descoberta-em-aguas-ultraprofundas-do-amapa-na-margem-equatorial/",
-   "publicado": "2026-08-14T21:59:55+00:00",
-   "tickers": [
-    "PETR3",
-    "PETR4"
-   ],
-   "resumo": "A Petrobras (PETR4;PETR3) identificou a presença de hidrocarbonetos em um poço exploratório em perfuração no bloco FZA-M-59, em águas ultraprofundas do Amapá, na Bacia da Foz do Amazonas, na chamada margem equatorial brasileira. A descoberta foi comunicada pela companhia nesta se"
   },
   {
    "fonte": "InvestNews",
@@ -212,28 +272,12 @@
    "resumo": "André Pires deixou também o cargo de diretor de relações com investidores; empresa reduziu patrimônio em R$ 5 bilhões"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Tesouro Direto fecha semana sob estresse, com taxas dos Prefixados e IPCA+ em alta",
-   "url": "https://www.moneytimes.com.br/tesouro-direto-fecha-semana-sob-estresse-com-taxas-dos-prefixados-e-ipca-em-alta-jcav/",
-   "publicado": "2026-08-14T21:47:26+00:00",
-   "tickers": [],
-   "resumo": "O Tesouro Direto encerrou a sexta-feira (14) em meio a forte estresse nos mercados brasileiros, com alta das taxas dos títulos públicos em relação ao fechamento da quinta-feira (13). O movimento ganhou força após uma sessão marcada por aversão ao risco entre investidores estrange"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Nova pesquisa da Quaest aponta Lula com 43% no 2º turno e Flávio com 40%",
    "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/08/14/nova-pesquisa-da-quaest-aponta-lula-com-43percent-no-2o-turno-e-flavio-com-40percent.ghtml",
    "publicado": "2026-08-14T21:35:43+00:00",
    "tickers": [],
    "resumo": "O presidente Luiz Inácio Lula da Silva (PT) tem 38% das intenções de voto e o senador Flávio Bolsonaro (PL) registra 31% no primeiro turno da eleição presidencial, segundo pesquisa Quaest divulgada nesta sexta-feira (14). Num segundo turno entre os dois, Lula marca 43%, enquanto "
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Lula e Flávio Bolsonaro voltam a empatar no segundo turno, aponta pesquisa Quaest",
-   "url": "https://www.moneytimes.com.br/lula-e-flavio-bolsonaro-voltam-ao-empate-no-segundo-turno-aponta-pesquisa-quaest-gaep/",
-   "publicado": "2026-08-14T21:32:10+00:00",
-   "tickers": [],
-   "resumo": "Pesquisa Quaest para a eleição presidencial 2026 divulgada nesta sexta-feira (14) mostra o presidente Luiz Inácio Lula da Silva (PT) com 43% das intenções de voto e o senador Flávio Bolsonaro (PL-RJ) com 40% em um eventual segundo turno. Lula recuou 1 ponto porcentual ante os 44%"
   },
   {
    "fonte": "InvestNews",
@@ -260,28 +304,12 @@
    "resumo": "A crise da Apex Partners mudou o cap table da CVC. Os fundos ligados à gestora capixaba reduziram sua participação de 12,2% para 7,97% nos últimos dias, abrindo espaço para a Absolute e a Unity Capital.  A operação foi articulada pela GJP, o veículo de investimento da família Pau"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Trump: ‘Logo declararei o Estreito de Ormuz como um território dos EUA’",
-   "url": "https://www.moneytimes.com.br/trump-logo-declararei-o-estreito-de-ormuz-como-um-territorio-dos-eua/",
-   "publicado": "2026-08-14T20:53:29+00:00",
-   "tickers": [],
-   "resumo": "O presidente dos Estados Unidos, Donald Trump, afirmou que declarará o Estreito de Ormuz território norte-americano, durante um pronunciamento no Centro de Treinamento e Inteligência David S. Mack, em Garden City, em Nova York, nesta sexta-feira, 14. &#8220;Logo declararei o Estr"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Ibovespa amarga pior semana desde maio e devolve quase toda alta do ano",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/08/14/ibovespa-amarga-pior-semana-desde-maio-e-devolve-quase-toda-alta-do-ano.ghtml",
    "publicado": "2026-08-14T20:51:34+00:00",
    "tickers": [],
    "resumo": "Se agosto costuma carregar a fama de “mês do desgosto” na bolsa, esta semana carimbou a tradição. O Ibovespa fechou o período com a maior queda semanal desde maio, voltou ao menor nível desde janeiro e viu praticamente esfarelar os ganhos que havia garantido ao longo de 2026.\nNa "
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Consultoria gringa recomenda fugir de bolsa — e culpa é do governo Lula; só um investimento vale a pena",
-   "url": "https://www.moneytimes.com.br/consultoria-gringa-recomenda-fugir-de-bolsa-e-culpa-e-do-governo-lula-so-um-investimento-vale-a-pena/",
-   "publicado": "2026-08-14T20:31:04+00:00",
-   "tickers": [],
-   "resumo": "Em meio ao forte pessimismo que tomou conta do mercado brasileiro, com gringos batendo em retirada, o Brasil ganhou mais um detrator: a BCA Research. Em duro relatório, os analistas que assinam o documento são claros ao dizer que o melhor é evitar o país. A casa rebaixou a recome"
   },
   {
    "fonte": "Valor Investe",
@@ -750,22 +778,6 @@
    "resumo": "Saiba os casos em que o pedido de saque do FGTS vai para a Justiça do Trabalho e quando vai para a Justiça comum. Entenda a mudança"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "H&M vai abrir quatro novas lojas no Brasil em 2026. Veja onde",
-   "url": "https://investnews.com.br/negocios/hm-vai-abrir-quatro-novas-lojas-no-brasil-em-2026-veja-onde/",
-   "publicado": "2026-08-13T17:11:06+00:00",
-   "tickers": [],
-   "resumo": "Com as novas unidades, a H&#038;M deve chegar a 13 lojas no Brasil, distribuídas por três das cinco regiões do país"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Hapvida despenca 33% depois de resultado decepcionar: custo maior e uso de planos em alta",
-   "url": "https://investnews.com.br/investimentos/acao-da-hapvida-cai-29-com-aumento-de-gastos-com-clientes-e-de-despesas-judiciais/",
-   "publicado": "2026-08-13T16:56:58+00:00",
-   "tickers": [],
-   "resumo": "Empresa de planos de saúde tem aumento da sinistralidade e de gastos com processos judiciais no segundo trimestre"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Tesouro Direto: de grão em grão, prefixados ganham a dianteira",
    "url": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/08/13/tesouro-direto-de-grao-em-grao-prefixados-ganham-a-dianteira.ghtml",
@@ -882,16 +894,6 @@
     "BBSA3"
    ],
    "resumo": "O Banco do Brasil (BBAS3) registrou lucro líquido ajustado de R$ 3,9 bilhões no segundo trimestre de 2026, alta de 3,3% em relação ao mesmo período do ano passado. O resultado ficou acima da projeção de analistas consultados pelo Valor, que esperavam R$ 3,6 bilhões.\nJá o lucro lí"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Banco do Brasil (BBAS3) vai distribuir mais de R$ 500 milhões em JCP; veja quem recebe",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/08/12/banco-do-brasil-bbas3-vai-distribuir-mais-de-r-500-milhoes-em-jcp-veja-quem-recebe.ghtml",
-   "publicado": "2026-08-12T21:37:53+00:00",
-   "tickers": [
-    "BBAS3"
-   ],
-   "resumo": "O Banco do Brasil (BBAS3)  aprovou a distribuição de R$ 584,9 milhões em juros sobre capital próprio (JCP) complementares referentes ao segundo trimestre de 2026. O pagamento será feito em 11 de setembro.\nO valor corresponde a R$ 0,10413811686 por ação. Segundo o banco, o montant"
   }
  ]
 }
