@@ -3,12 +3,141 @@
  "itens": 100,
  "dados": [
   {
+   "fonte": "Money Times",
+   "titulo": "Vivara (VIVA3): Guepardo Investimentos atinge 5,44% de ações ordinárias",
+   "url": "https://www.moneytimes.com.br/vivara-viva3-guepardo-investimentos-atinge-544-de-acoes-ordinarias-apsa/",
+   "publicado": "2026-08-16T14:51:17+00:00",
+   "tickers": [
+    "VIVA3"
+   ],
+   "resumo": "A Vivara (VIVA3) divulgou neste sábado (15) comunicado ao mercado informando que recebeu correspondência da Guepardo Investimentos sobre a aquisição de ações da rede de joalherias por fundos, carteiras e clubes sob sua gestão, que passaram a deter em conjunto 12.854.800 papéis or"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Esteja preparado: Prévia do PIB, ata do Fed e os indicadores que mexem com o mercado esta semana; confira",
+   "url": "https://www.moneytimes.com.br/esteja-preparado-indicadores-que-mexem-com-o-mercado-esta-semana-confira-jcav/",
+   "publicado": "2026-08-16T14:50:00+00:00",
+   "tickers": [],
+   "resumo": "A semana de 17 a 21 de agosto será marcada por uma agenda movimentada no Brasil e no exterior, com destaque para a prévia do PIB no Brasil e a ata da última reunião do Federal Reserve (Fed). Os dados podem ajudar o mercado a calibrar as apostas para os próximos passos da política"
+  },
+  {
    "fonte": "InvestNews",
-   "titulo": "Conheça os ‘datamaxxers’: obcecados por monitorar a saúde. Eles entregam tudo à IA",
+   "titulo": "Casas Bahia avalia recuperação judicial e auditoria cita ‘incerteza sobre a continuidade da companhia’",
+   "url": "https://investnews.com.br/negocios/casas-bahia-nao-descarta-recuperacao-judicial-e-balanco-cita-incerteza-sobre-a-continuidade-da-companhia/",
+   "publicado": "2026-08-16T14:39:04+00:00",
+   "tickers": [],
+   "resumo": "A EY se absteve de comentar o balanço, que saiu na madrugada de domingo, citando \"incerteza relevante sobre a continuidade operacional\""
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "PIS/Pasep: último lote do abono salarial é pago a 4,1 milhões de trabalhadores nesta segunda (17)",
+   "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/programas-sociais/noticia/2026/08/16/pis-pasep-abono-salarial-ultimo-lote-pagamento-na-segunda-17-de-agosto.ghtml",
+   "publicado": "2026-08-16T14:27:41+00:00",
+   "tickers": [],
+   "resumo": "O último lote do abono salarial do PIS e do Pasep 2026 é pago nesta segunda-feira (17) para 4,1 milhões de trabalhadores da iniciativa privada e servidores públicos nascidos em novembro e dezembro e que receberam até R$ 2.766 de remuneração média mensal em 2024.\nNeste lote, o abo"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Bitcoin tem leve alta, a US$ 63 mil; confira os preços das criptomoedas neste domingo (16)",
+   "url": "https://www.moneytimes.com.br/bitcoin-16-8-26-apsa/",
+   "publicado": "2026-08-16T14:25:47+00:00",
+   "tickers": [],
+   "resumo": "O bitcoin (BTC) é negociado aos US$ 63 mil na manhã deste domingo (16), com ganho de 0,1% nas últimas 24 horas, segundo dados da plataforma Coingecko. No acumulado da semana, no entanto, a principal criptomoeda do mundo acumula queda de 3%, enquanto, em 30 dias, registra baixa de"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Ninguém acerta as seis dezenas da Mega-Sena 3045, e prêmio acumula em R$ 45 milhões; veja números sorteados",
+   "url": "https://valorinveste.globo.com/loterias/noticia/2026/08/16/resultado-da-mega-sena-3045-hoje-divulgado-veja-numeros-sorteados.ghtml",
+   "publicado": "2026-08-16T14:02:23+00:00",
+   "tickers": [],
+   "resumo": "O resultado da Mega-Sena 3045 com prêmio de R$ 36,9 milhões foi divulgado neste domingo (16), em São Paulo, e ninguém acertou as seis dezenas. Com isso, o prêmio acumulou em R$ 45 milhões para o próximo sorteio que vai ser realizado na terça-feira (18)\nOs números sorteados foram:"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "No debate sobre regulação das criptomoedas, as crianças saíram da sala; essas e outras notícias no Crypto Times",
+   "url": "https://www.moneytimes.com.br/no-debate-sobre-regulacao-das-criptomoedas-as-criancas-sairam-da-sala-essas-e-outras-noticias-no-crypto-times-rens/",
+   "publicado": "2026-08-16T14:00:00+00:00",
+   "tickers": [],
+   "resumo": "Olá, investidor e investidora de cripto! Sejam muito bem-vindos a mais uma edição da nossa coluna semanal do Crypto Times, a editoria de bitcoin (BTC) e criptomoedas do Money Times. Para se inscrever e receber em primeira mão em todas as manhãs de sábado, basta se inscrever no bo"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Blue3, Mondelez e mais: confira centenas de vagas de emprego e estágio abertas",
+   "url": "https://valorinveste.globo.com/educacao-financeira/comecar/noticia/2026/08/16/blue3-mondelez-e-mais-confira-centenas-de-vagas-de-emprego-e-estagio-abertas.ghtml",
+   "publicado": "2026-08-16T13:31:57+00:00",
+   "tickers": [
+    "BLUE3"
+   ],
+   "resumo": "Procura uma oportunidade de recolocação, de crescer na carreira ou de começar em uma nova empresa? O Valor Investe reuniu vagas abertas para ajudar quem quer dar esse \"empurrãozinho\" na vida profissional.\nSão mais de 230 posições nas modalidades presencial, híbrida e remota, em s"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Pablo Marçal está de volta? Justiça concede liminar e influenciador protocola pedido de candidatura à Presidência",
+   "url": "https://www.moneytimes.com.br/pablo-marcal-esta-de-volta-justica-concede-liminar-e-influenciador-protocola-pedido-de-candidatura-a-presidencia-apsa/",
+   "publicado": "2026-08-16T13:31:34+00:00",
+   "tickers": [],
+   "resumo": "A Justiça Eleitoral de São Paulo concedeu liminar para o influenciador Pablo Marçal trocar de sigla e se filiar ao Partido Renovador Trabalhista Brasileiro (PRTB) neste sábado (15). A medida abriu a possibilidade para Marçal protocolar pedido de registro de candidatura à Presidên"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Aplicação da Lei de Reciprocidade contra os EUA é vista como ‘eleitoreira’ por empresas exportadoras",
+   "url": "https://www.moneytimes.com.br/aplicacao-da-lei-de-reciprocidade-contra-os-eua-e-vista-como-eleitoreira-por-empresas-exportadoras-apsa/",
+   "publicado": "2026-08-16T13:15:29+00:00",
+   "tickers": [],
+   "resumo": "A abertura do processo de reciprocidade contra as tarifas aplicadas pelos Estados Unidos sobre produtos brasileiros não foi bem recebida pelos setores exportadores da indústria. A leitura é de que a medida atende ao propósito do presidente Luiz Inácio Lula da Silva (PT) de fortal"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Dividendos acima de 14%: 6 ações que podem superar a Selic",
+   "url": "https://www.moneytimes.com.br/dividendos-acima-de-14-6-acoes-que-podem-superar-a-selic-ceci/",
+   "publicado": "2026-08-16T13:00:00+00:00",
+   "tickers": [],
+   "resumo": "Com a Selic ainda em patamar elevado, as ações pagadoras de dividendos voltam ao radar dos investidores em busca de retornos acima da renda fixa. Em relatório, a Rico aponta que algumas companhias da Bolsa oferecem dividend yield superior à taxa básica de juros, mas alerta que a "
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Petrobras (PETR4) e Caixa Seguridade (CXSE3): Veja quem paga dividendos na semana",
+   "url": "https://www.suno.com.br/noticias/petrobras-petr4-a-caixa-seguridade-cxse3-agenda-dividendos-14082026-go/",
+   "publicado": "2026-08-16T13:00:00+00:00",
+   "tickers": [
+    "CXSE3",
+    "PETR4"
+   ],
+   "resumo": "Petrobras (PETR4) e Caixa Seguridade (CXSE3): Veja quem paga dividendos na semanaEsta semana traz os dividendos e juros sobre capital próprio (JCP) que os investidores tanto esperam receber das empresas em que investem, caso da Petrobras (PETR4). Os dividendos da Petrobras somam "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Casas Bahia (BHIA3) tem prejuízo de R$ 10,1 bilhões no 2T26",
+   "url": "https://www.moneytimes.com.br/casas-bahia-bhia3-tem-prejuizo-de-r-101-bilhoes-no-2t26-apsa-2/",
+   "publicado": "2026-08-16T12:48:02+00:00",
+   "tickers": [
+    "BHIA3"
+   ],
+   "resumo": "A Casas Bahia (BHIA3) reportou prejuízo líquido de R$ 10,1 bilhões no segundo trimestre de 2026 (2T26), segundo demonstrações financeiras divulgadas na madrugada de domingo (16). O valor é 18 vezes maior do que o saldo negativo de R$ 555 milhões apresentado no mesmo período do an"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "A cidade que nasceu de uma profecia e hoje é uma das maiores metrópoles do planeta",
+   "url": "https://www.moneytimes.com.br/a-cidade-mexicana-da-profecia-isca/",
+   "publicado": "2026-08-16T12:10:00+00:00",
+   "tickers": [],
+   "resumo": "Coincidência ou não, pouca gente sabe que a metrópole mais populosa da América do Norte teria surgido a partir de uma antiga profecia, eternizada até hoje na bandeira de seu país. Considerada por muitos a cidade mais bonita do mundo em um passado cada vez mais distante, ela já su"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "A partir de amanhã você poderá conhecer o plano de “tiro curto” que pode buscar ganhos de até 586% durante as eleições",
+   "url": "https://www.moneytimes.com.br/a-partir-de-amanha-voce-podera-conhecer-o-plano-de-tiro-curto-que-pode-buscar-ganhos-de-ate-586-durante-as-eleicoes-lbrdgm081/",
+   "publicado": "2026-08-16T12:00:00+00:00",
+   "tickers": [],
+   "resumo": "Empiricus cria estratégia para capturar os movimentos mais explosivos das eleições de 2026; saiba mais"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Eles entregam a rotina de treinos, sono e alimentação à IA. O que pode dar errado?",
    "url": "https://investnews.com.br/the-wall-street-journal/conheca-os-datamaxxers-obcecados-por-monitorar-a-saude-eles-entregam-tudo-a-ia/",
    "publicado": "2026-08-16T09:00:00+00:00",
    "tickers": [],
-   "resumo": "Do treino para maratonas ao controle da ansiedade, obcecados por saúde usam IA para criar treinadores pessoais"
+   "resumo": "Conheça os \"datamaxxerrs\": obcecados por saúde que usam IA para criar personal trainers oniscientes"
   },
   {
    "fonte": "Brazil Journal",
@@ -32,7 +161,7 @@
    "url": "https://braziljournal.com/a-cabeca-do-vc-pragmatico-que-esta-comprando-o-onlyfans/",
    "publicado": "2026-08-16T03:10:05+00:00",
    "tickers": [],
-   "resumo": "James Sagan, um VC de 34 anos baseado em São Francisco, quer “ganhar dinheiro, não preservar narrativas”. É assim que ele justifica estar prestes a assumir o controle do OnlyFans. Em sua primeira entrevista após liderar um concórcio que comprou 16% na rede social em março, o CEO "
+   "resumo": "James Sagan, um VC de 34 anos baseado em São Francisco, quer “ganhar dinheiro, não preservar narrativas”. É assim que ele justifica estar prestes a assumir o controle do OnlyFans. Em sua primeira entrevista após liderar um consórcio que comprou 16% na rede social em março, o CEO "
   },
   {
    "fonte": "Brazil Journal",
@@ -67,30 +196,12 @@
    "resumo": "Mandar cargueiros pela rota polar não é mais um disparate. Cortesia das mudanças climáticas e dos preços do petróleo"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Como investidores buscaram ganhos de até 586% aproveitando a volatilidade das eleições",
-   "url": "https://www.moneytimes.com.br/como-investidores-buscaram-ganhos-de-ate-586-aproveitando-a-volatilidade-das-eleicoes-lbrdjr250/",
-   "publicado": "2026-08-15T19:00:00+00:00",
-   "tickers": [],
-   "resumo": "Estratégia que “se alimenta de volatilidade” permite buscar lucros em períodos de alta e de baixa do mercado"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "O gargalo que trava as megabaterias de armazenamento",
    "url": "https://investnews.com.br/negocios/o-gargalo-que-trava-o-avanco-das-megabaterias-de-armazenamento/",
    "publicado": "2026-08-15T16:32:09+00:00",
    "tickers": [],
    "resumo": "Projetos de baterias inundam a fila de conexão nos EUA e exigem obras demoradas – uma amostra do que pode acontecer no Brasil"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Cadê o balanço da Casas Bahia (BHIA3)? Empresa escolhe outra data em meio a reuniões com advogados e bancos, diz jornal",
-   "url": "https://www.moneytimes.com.br/cade-o-balanco-da-casas-bahia-bhia3-empresa-escolhe-outra-data-em-meio-a-reunioes-com-advogados-e-bancos-diz-jornal/",
-   "publicado": "2026-08-15T15:29:56+00:00",
-   "tickers": [
-    "BHIA3"
-   ],
-   "resumo": "A Casas Bahia (BHIA3) divulgará na próxima segunda-feira (17) seus resultados do segundo trimestre de 2026, segundo o Valor Econômico. A informação foi confirmada pelo Money Times. Trata-se do segundo adiamento. O balanço estava previsto para ocorrer na quarta-feira (12) e foi tr"
   },
   {
    "fonte": "InvestNews",
@@ -101,70 +212,12 @@
    "resumo": "Com a demanda em queda dentro da China, exportação de veículos cresce – e sobrecarrega a navegação global"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Bitcoin (BTC) opera em queda, a US$ 62 mil; veja preços das criptomoedas neste sábado (15)",
-   "url": "https://www.moneytimes.com.br/bitcoin-btc-opera-em-queda-a-us-62-mil-veja-precos-das-criptomoedas-neste-sabado-15/",
-   "publicado": "2026-08-15T15:09:50+00:00",
-   "tickers": [],
-   "resumo": "O bitcoin (BTC) é negociado na casa dos US$ 62,9 mil na manhã desta sexta-feira (14), com queda de 0,01% por volta das 12h. Veja o desempenho das dez maiores criptomoedas do mundo hoje: # Ativo Ticker Preço 1h 24h 7d — CoinMarketCap 20 Index DTF CMC20 US$ 128,20 +0,02% +0,38% +2,"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Sai Sabesp (SBSP3), entra WEG (WEGE3): 5 ações para superar o Ibovespa no curto prazo, segundo a Terra",
-   "url": "https://www.moneytimes.com.br/sai-sabesp-entra-weg-5-acoes-para-superar-o-ibovespa-ibov-no-curto-prazo-segundo-a-terra-lmrs/",
-   "publicado": "2026-08-15T14:50:00+00:00",
-   "tickers": [
-    "SBSP3",
-    "WEGE3"
-   ],
-   "resumo": "A Terra Investimentos realizou uma alteração na carteira recomendada semanal para o período de 14 a 21 de agosto. Deixam o portfólio as ações da Sabesp (SBSP3) e no lugar entram as da WEG (WEGE3). De acordo com Régis Chinchila, que assina a carteira, a Sabesp é uma empresa com fu"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "JCPs do Banco do Brasil (BBAS3), dividendos da Caixa Seguridade (CXSE3) e liquidação do Ibovespa; veja o que bombou no Money Times na semana",
-   "url": "https://www.moneytimes.com.br/jcps-do-banco-do-brasil-bbas3-dividendos-da-caixa-seguridade-cxse3-e-liquidacao-do-ibovespa-veja-o-que-bombou-no-money-times-na-semana/",
-   "publicado": "2026-08-15T14:39:59+00:00",
-   "tickers": [
-    "BBAS3",
-    "CXSE3",
-    "ITSA4"
-   ],
-   "resumo": "O mercado financeiro teve uma semana movimentada, com investidores de olho em dividendos e juros sobre capital próprio, balanços corporativos e na forte queda do Ibovespa. Entre os destaques, Banco do Brasil (BBAS3), Itaúsa (ITSA4) e Caixa Seguridade (CXSE3) chamaram a atenção, e"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Marisa: as táticas do CEO para ampliar as vendas e estancar a dívida ameaçadora",
    "url": "https://investnews.com.br/negocios/marisa-melhora-operacao-divida-balanco/",
    "publicado": "2026-08-15T13:59:28+00:00",
    "tickers": [],
    "resumo": "Edson Garcia mostra como está reorganizando a varejista, que recupera margem, mas ainda luta para rolar as dívidas"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Crédito em alerta: Bancos evitam clientes de baixa renda e elevam garantias em meio à piora da economia",
-   "url": "https://www.moneytimes.com.br/foco-em-garantias-e-cautela-com-baixa-renda-grandes-bancos-brasileiros-redobram-estrategia-defensiva/",
-   "publicado": "2026-08-15T13:54:12+00:00",
-   "tickers": [],
-   "resumo": "Os maiores bancos do Brasil estão redobrando a postura mais cautelosa na concessão de crédito, dando continuidade a uma migração para produtos com garantia e clientes de renda mais alta diante de sinais de deterioração nas finanças das famílias, apesar de um mercado de trabalho a"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Investidores fogem do real e apertam o cerco diante da sombra da reeleição de Lula",
-   "url": "https://www.moneytimes.com.br/investidores-fogem-do-real-e-apertam-o-cerco-diante-da-sombra-da-reeleicao-de-lula-rnda/",
-   "publicado": "2026-08-15T13:48:48+00:00",
-   "tickers": [],
-   "resumo": "A dois meses das eleições e com a possibilidade da continuidade de um governo de Luiz Inácio Lula da Silva (PT), o mercado já começou a incorporar um prêmio eleitoral no real, depois de investidores terem permanecido comprados em moeda brasileira durante boa parte do ano. O gatil"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Hapvida (HAPV3) despenca mais de 30% e Embraer (EMBJ3) destoa de cautela local; veja os destaques do Ibovespa na semana",
-   "url": "https://www.moneytimes.com.br/ibovespa-destaques-da-semana-33-lils/",
-   "publicado": "2026-08-15T13:01:00+00:00",
-   "tickers": [
-    "EMBJ3",
-    "HAPV3"
-   ],
-   "resumo": "O Ibovespa (IBOV) engatou mais uma semana de forte queda, marcada pela fuga do investidor estrangeiro. O principal índice da bolsa brasileira acumulou desvalorização de 3,23% na semana e encerrou a última sessão aos 166.934,20 pontos. Durante o período, o IBOV marcou nove pregões"
   },
   {
    "fonte": "Valor Investe",
@@ -183,26 +236,6 @@
     "BTLG11"
    ],
    "resumo": "O BTG Pactual Logística comunicou uma nova distribuição de rendimentos aos cotistas. O pagamento será de R$ 0,81 por cota, referente aos resultados de julho de 2026, com data de crédito marcada para 25 de agosto. Conforme informado pelo fundo imobiliário, terão direito aos rendim"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Oncoclinicas (ONCO3) vê prejuízo saltar 234%, para R$ 475 milhões; empresa tem ajustes contábeis ‘significativos’",
-   "url": "https://www.moneytimes.com.br/oncoclinicas-onco3-ve-prejuizo-saltar-234-para-r-475-milhoes-empresa-tem-ajustes-contabeis-significativos-rnda/",
-   "publicado": "2026-08-15T12:40:13+00:00",
-   "tickers": [
-    "ONCO3"
-   ],
-   "resumo": "A Oncoclinicas (ONCO3), que passa por momento delicado na Bolsa, viu os seus números pioraram no segundo trimestre de 2026, com prejuízo de R$ 475,7 milhões, alta de 234% em relação ao mesmo período do ano passado, quando reportou prejuízo de R$ 142 milhões, mostra documento envi"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Vibra Energia (VBBR3) pagará R$ 499 milhões em juros sobre o capital próprio após resultado acima do esperado",
-   "url": "https://www.moneytimes.com.br/vibra-energia-vbbr3-pagara-r-499-milhoes-em-juros-sobre-o-capital-proprio-apos-resultado-acima-do-esperado/",
-   "publicado": "2026-08-15T11:56:42+00:00",
-   "tickers": [
-    "VBBR3"
-   ],
-   "resumo": "A Vibra Energia (VBBR3) pagará R$ 499 milhões em juros sobre o capital próprio, mostra documento enviado ao mercado na última sexta-feira (14). Segundo o documento enviado ao mercado, o valor por ação será de R$ 0,41, enquanto o pagamento ocorrerá em 16 de novembro. Quem quiser a"
   },
   {
    "fonte": "Suno Noticias",
@@ -292,16 +325,6 @@
     "SNME11"
    ],
    "resumo": "O fundo imobiliário SNME11 anunciou a distribuição de R$ 0,10 por cota aos investidores, com pagamento em 25 de agosto de 2026. Terá direito ao provento quem estiver posicionado na data-base de 14 de agosto. Com a cota a R$ 9,38 (fechamento de julho), o provento corresponde a um "
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "SNEL11: fundo movimenta R$ 5,15 mi e fecha em alta de 0,24%",
-   "url": "https://www.suno.com.br/noticias/snel11-fundo-movimenta-r-515-mi-e-fecha-em-alta-de-024/",
-   "publicado": "2026-08-14T23:55:12+00:00",
-   "tickers": [
-    "SNEL11"
-   ],
-   "resumo": "O fundo imobiliário SNEL11 encerrou o pregão desta sexta-feira (14) em alta de 0,24%, cotado a R$ 8,37, em movimento oposto ao IFIX, que recuou 0,17% no mesmo dia. A variação diária ficou concentrada em uma faixa estreita, e o fechamento ocorreu na máxima da sessão. A negociação "
   },
   {
    "fonte": "InvestNews",
@@ -734,14 +757,6 @@
    "resumo": "Em uma sequência dolorosa que já embala a sua oitava queda seguida, a pior marca desde as 13 sessões consecutivas de recuo registradas em agosto de 2023, o Ibovespa acendeu um sinal de alerta. A confirmação de uma tendência de baixa que, nos cenários mais severos, abre espaço par"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Anthropic, dona do Claude, pode chegar a US$ 2 trilhões e ter maior IPO da história",
-   "url": "https://investnews.com.br/negocios/anthropic-dona-do-claude-pode-chegar-a-us-2-trilhoes-e-ter-maior-ipo-da-historia/",
-   "publicado": "2026-08-13T19:56:10+00:00",
-   "tickers": [],
-   "resumo": "A oferta deve superar a da SpaceX e marcar a maior abertura de capital da história"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "FGC vai continuar atuando para 'coibir desvios de funcionalidade', segundo presidente",
    "url": "https://valorinveste.globo.com/produtos/renda-fixa/cdb/noticia/2026/08/13/fgc-vai-continuar-atuando-para-coibir-desvios-de-funcionalidade-segundo-presidente.ghtml",
@@ -865,35 +880,6 @@
    "publicado": "2026-08-13T09:55:09+00:00",
    "tickers": [],
    "resumo": "- F.I.R.E. é o acrônimo para Financial Independence, Retire Early - em português, Independência Financeira e Aposentadoria Precoce \n- no fim, além de comentar um pouco sobre essa 'moda', o vídeo reuniu alguns outros temas, como sonhos juvenis, legado e outros\n- quem sabe pode int"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Potencial de alta das ações brasileiras cai. Veja as empresas que mais podem subir",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/noticia/2026/08/13/potencial-de-alta-das-acoes-brasileiras-cai-veja-as-empresas-que-mais-podem-subir.ghtml",
-   "publicado": "2026-08-13T09:52:56+00:00",
-   "tickers": [],
-   "resumo": "O consenso dos analistas do mercado mostra que as projeções de alta para as ações brasileiras caíram em julho, após alcançarem em junho o maior nível desde dezembro de 2024. Dados do Valor One, plataforma do Valor  para ajudar o investidor a tomar as melhores decisões sobre seu d"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Conselho da Ultrapar (UGPA3) aprova pagamento de R$ 1 bilhão em dividendos",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/08/12/conselho-da-ultrapar-ugpa3-aprova-pagamento-de-r-1-bilhao-em-dividendos.ghtml",
-   "publicado": "2026-08-12T22:17:29+00:00",
-   "tickers": [
-    "UGPA3"
-   ],
-   "resumo": "O conselho de administração da Ultrapar (UGPA3) aprovou o pagamento de R$ 1,1 bilhão em dividendos, referente aos resultados do segundo trimestre do ano. O montante corresponde a R$ 1,00 por ação.\n\nOs proventos serão pagos a partir de 3 de setembro, com base na posição acionária "
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Banco do Brasil (BBAS3) tem lucro de R$ 3,9 bi no 2º trimestre, alta de 3,3%",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/08/12/banco-do-brasil-bbsa3-tem-lucro-de-r-39-bi-no-2o-trimestre-alta-de-33percent.ghtml",
-   "publicado": "2026-08-12T22:00:19+00:00",
-   "tickers": [
-    "BBAS3",
-    "BBSA3"
-   ],
-   "resumo": "O Banco do Brasil (BBAS3) registrou lucro líquido ajustado de R$ 3,9 bilhões no segundo trimestre de 2026, alta de 3,3% em relação ao mesmo período do ano passado. O resultado ficou acima da projeção de analistas consultados pelo Valor, que esperavam R$ 3,6 bilhões.\nJá o lucro lí"
   }
  ]
 }
