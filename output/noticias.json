@@ -1,102 +1,186 @@
 {
  "fonte": "noticias",
- "itens": 100,
+ "itens": 90,
  "dados": [
   {
-   "fonte": "Money Times",
-   "titulo": "Renan Santos diz que vai montar ‘Liga da Justiça’ com empresários por reformas estruturantes",
-   "url": "https://www.moneytimes.com.br/renan-santos-diz-que-vai-montar-liga-da-justica-com-empresarios-por-reformas-estruturantes-gaep/",
-   "publicado": "2026-08-18T15:52:32+00:00",
-   "tickers": [],
-   "resumo": "O candidato do partido Missão à presidência da República, Renan Santos, afirmou que vai montar uma espécie de &#8220;Liga da Justiça&#8221; para unir setores empresariais em defesa de reformas estruturantes. As declarações ocorreram nesta terça-feira (18), durante o evento &#8220"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "‘Tempestade se formando’: BofA vê piora do crédito e adota postura defensiva com bancos no Brasil",
-   "url": "https://www.moneytimes.com.br/tempestade-se-formando-bofa-ve-piora-do-credito-e-adota-postura-defensiva-com-bancos-no-brasil/",
-   "publicado": "2026-08-18T15:50:20+00:00",
-   "tickers": [],
-   "resumo": "O Bank of America (BofA) acendeu um alerta para o setor bancário brasileiro após a temporada de resultados do segundo trimestre de 2026 (2t26). Em relatório, o banco afirma que os indicadores mais recentes apontam para uma deterioração gradual da qualidade do crédito das famílias"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Ibovespa abaixo dos 170 mil? Quase metade dos investidores aposta nessa possibilidade, diz BofA",
-   "url": "https://www.moneytimes.com.br/ibovespa-abaixo-dos-170-mil-quase-metade-dos-investidores-aposta-nessa-possibilidade-diz-bofa-apsa/",
-   "publicado": "2026-08-18T15:49:06+00:00",
-   "tickers": [],
-   "resumo": "O sentimento dos investidores em relação ao Ibovespa (IBOV) é de maior pessimismo na nova Pesquisa de Gestores de Fundos de agosto do Bank of America (BofA). Cerca de metade dos participantes espera que o principal índice da bolsa brasileira encerre 2026 abaixo dos 170 mil pontos"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Centrão não me apoiou por ameaças feitas por altas autoridades, diz Flávio Bolsonaro",
-   "url": "https://www.moneytimes.com.br/centrao-nao-me-apoiou-por-ameacas-feitas-por-altas-autoridades-diz-flavio-bolsonaro-gaep/",
-   "publicado": "2026-08-18T15:45:50+00:00",
-   "tickers": [],
-   "resumo": "O candidato à Presidência pelo PL, Flávio Bolsonaro, afirmou nesta terça-feira (18) que a falta de apoio do Centrão ao seu nome ocorreu, porque integrantes desses partidos foram ameaçados por autoridades de Brasília. &#8220;Apesar de esses partidos não terem vindo formalmente, se"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Embraer (EMBJ;EMBJ3) não atingiu o teto: Itaú BBA eleva preço-alvo e vê espaço para mais",
-   "url": "https://www.moneytimes.com.br/embraer-embjembj3-nao-atingiu-o-teto-itau-bba-eleva-preco-alvo-e-ve-espaco-para-mais-lmrs/",
-   "publicado": "2026-08-18T15:42:28+00:00",
+   "fonte": "Suno Noticias",
+   "titulo": "HSLG11: fundo imobiliário sofre calote da Casas Bahia, mas pretende manter dividendo",
+   "url": "https://www.suno.com.br/noticias/hslg11-fundo-imobiliario-sofre-calote-da-casas-bahia-mas-pretende-manter-dividendo/",
+   "publicado": "2026-08-18T22:45:03+00:00",
    "tickers": [
-    "EMBJ3"
+    "HSLG11"
    ],
-   "resumo": "O Itaú BBA elevou o preço-alvo da Embraer (EMBJ;EMBJ3) para US$ 95, com potencial de valorização de 23,2%, mantendo a recomendação de compra. O valor em dólar se refere aos ADRs (recibo de depósito americano) das ações negociadas na Bolsa de Nova York (NYSE). A fabricante brasile"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Influenciador argentino aliado de Eduardo Bolsonaro é preso suspeito de balear ex-mulher",
-   "url": "https://www.moneytimes.com.br/suspeito-de-balear-ex-mulher-antigo-colaborador-de-milei-e-aliado-de-eduardo-bolsonaro-e-preso-gaep/",
-   "publicado": "2026-08-18T15:35:38+00:00",
-   "tickers": [],
-   "resumo": "O influenciador argentino Fernando Cerimedo, que faz transmissões ao vivo desde 2022 com informações falsas sobre o sistema eletrônico de votação do Brasil, foi preso nesta terça-feira (18), no Aeroporto Internacional Viru Viru, região de Santa Cruz de la Sierra, na Bolívia. Ele "
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Vivo (VIVT3) cai 18% e Itaú BBA corta preço-alvo; competição preocupa",
-   "url": "https://www.moneytimes.com.br/vivo-vivt3-cai-18-e-itau-bba-corta-preco-alvo-competicao-preocupa-ceci/",
-   "publicado": "2026-08-18T15:35:32+00:00",
-   "tickers": [
-    "VIVT3"
-   ],
-   "resumo": "As ações da Vivo (VIVT3) caíram cerca de 18% desde a divulgação dos resultados do segundo trimestre de 2026, no final de julho. Na visão do Itaú BBA, a reação do mercado foi motivada por um ambiente de competição mais acirrada no setor de telecomunicações, que colocam em dúvida a"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Citi retira real da cesta de ‘carry trade’ com provável reeleição de Lula",
-   "url": "https://www.moneytimes.com.br/citi-retira-real-da-cesta-de-carry-trade-com-provavel-reeleicao-de-lula-lils/",
-   "publicado": "2026-08-18T15:27:24+00:00",
-   "tickers": [],
-   "resumo": "De olho nas eleições presidenciais em outubro, o Citi fez uma mudança na cesta de carry trade de mercados emergentes e trocou o real (BRL) pelo rand sul-africano (ZAR). O banco tinha posição comprada na moeda brasileira desde 14 de julho. Segundo os analistas liderados por Dirk W"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Casas Bahia (BHIA3): Hoje nos centavos, ações já valeram quase R$ 500; cenário vai piorar?",
-   "url": "https://www.moneytimes.com.br/casas-bahia-bhia3-hoje-nos-centavos-acoes-ja-valeram-quase-r-500-cenario-vai-piorar-lmrs/",
-   "publicado": "2026-08-18T15:24:27+00:00",
-   "tickers": [
-    "BHIA3"
-   ],
-   "resumo": "As ações da Casas Bahia (BHIA3) enfrentam mais um dia de queda no pregão desta terça-feira (18), após desabar 33% na véspera em reação ao pedido de recuperação judicial e prejuízo de R$ 10,1 bilhões no segundo trimestre de 2026. Por volta de 12h (horário de Brasília), as ações ca"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "MBRF (MBRF3) amplia uso de colágeno em alimentos e bebidas e mira novas aplicações",
-   "url": "https://www.moneytimes.com.br/mbrf-mbrf3-amplia-uso-de-colageno-em-alimentos-e-bebidas-e-mira-novas-aplicacoes-pads/",
-   "publicado": "2026-08-18T15:23:27+00:00",
-   "tickers": [
-    "MBRF3"
-   ],
-   "resumo": "A MBRF está ampliando o uso de proteínas em alimentos e bebidas ao levar o colágeno para categorias que tradicionalmente não têm esse ingrediente, como sucos, cafés, bebidas lácteas, massas, panificados e sobremesas. A movimentação é conduzida pela Gelprime, empresa que recebe in"
+   "resumo": "O fundo imobiliário HSLG11 (HSI Logística FII) comunicou que a varejista Casas Bahia não efetuou, até esta terça-feira (18), o pagamento dos aluguéis com vencimento em agosto referentes aos dois imóveis que ocupa no portfólio. A atualização veio após a companhia protocolar, no do"
   },
   {
    "fonte": "Suno Noticias",
-   "titulo": "Preço da celulose perto do fundo? XP vê sinais de estabilização e até 57% de alta para ações do setor",
-   "url": "https://www.suno.com.br/noticias/celulose-precos-xp-suzano-suzb3-klabin-klbn11-mt/",
-   "publicado": "2026-08-18T15:15:06+00:00",
+   "titulo": "HGLG11: fundo imobiliário anuncia nova oferta bilionária; veja detalhes",
+   "url": "https://www.suno.com.br/noticias/hglg11-fundo-imobiliario-anuncia-nova-oferta-bilionaria-veja-detalhes/",
+   "publicado": "2026-08-18T22:15:12+00:00",
+   "tickers": [
+    "HGLG11"
+   ],
+   "resumo": "O fundo imobiliário HGLG11 aprovou a 12ª emissão de cotas, com potencial de captação de até R$ 1,5 bilhão. A colocação será destinada exclusivamente a investidores profissionais, seguindo os parâmetros definidos pelo fundo. A operação ocorrerá em série única, sob regime de melhor"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "IFIX sobe 0,33% nesta terça; em meio à crise da inquilina Casas Bahia, HSML11 cai 9,14%",
+   "url": "https://www.suno.com.br/noticias/ifix-sobe-033-nesta-terca-em-meio-a-crise-da-inquilina-casas-bahia-hsml11-cai-914/",
+   "publicado": "2026-08-18T22:15:06+00:00",
+   "tickers": [
+    "HSML11"
+   ],
+   "resumo": "O IFIX encerrou o pregão desta terça-feira (18) aos 3.666,83 pontos, em alta de 0,33%. O desempenho representou avanço de 12,13 pontos frente ao fechamento anterior, de 3.654,70 pontos, mantendo o índice em terreno positivo ao fim da sessão. Ao longo do dia, o índice de fundos im"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Proposta prevê facilidades para oferta de criptoativos no mercado dos EUA",
+   "url": "https://investnews.com.br/investimentos/projeto-criptoativos-liberal-eua/",
+   "publicado": "2026-08-18T22:04:03+00:00",
    "tickers": [],
-   "resumo": "Depois de meses de pressão sobre os preços, o mercado de celulose começa a emitir alguns sinais de que a queda pode estar perto de encontrar um piso. A XP vê melhora nas encomendas na Europa e na China, estoques equilibrados de celulose e níveis baixos de produtos acabados entre "
+   "resumo": "Projeto da SEC faz parte dos planos para o mercado de criptos, enquanto legislação ampla segue travada no Congresso"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Ibovespa cai pela 11ª vez seguida e tem maior sequência de perdas em três anos",
+   "url": "https://www.suno.com.br/noticias/ibovespa-hoje-18-agosto-2026-petrobras-mt/",
+   "publicado": "2026-08-18T21:55:26+00:00",
+   "tickers": [],
+   "resumo": "Ibovespa cai pela 11ª vez seguida e tem maior sequência de perdas em três anosO Ibovespa tentou interromper a sequência negativa nesta terça-feira (18), mas voltou a fechar no vermelho e chegou ao 11º pregão consecutivo de queda, a maior série de perdas em três anos. Em uma sessã"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "VISC11 vê vendas subirem 8,9% e mira redesenhar carteira",
+   "url": "https://www.suno.com.br/noticias/visc11-ve-vendas-subirem-89-e-mira-redesenhar-carteira/",
+   "publicado": "2026-08-18T21:15:05+00:00",
+   "tickers": [
+    "VISC11"
+   ],
+   "resumo": "O fundo imobiliário VISC11 encerrou o segundo trimestre de 2026 (2T26) com duas frentes estratégicas no portfólio. De um lado, assinou um Memorando de Entendimento (MoU) para a potencial venda de participações em nove shopping centers por aproximadamente R$ 573 milhões. De outro,"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Fundo imobiliário XPCM11 registra R$ 8,4 milhões em cotas subscritas em nova emissão",
+   "url": "https://www.suno.com.br/noticias/fundo-imobiliario-xpcm11-registra-r-84-milhoes-em-cotas-subscritas-em-nova-emissao/",
+   "publicado": "2026-08-18T21:05:06+00:00",
+   "tickers": [
+    "XPCM11"
+   ],
+   "resumo": "O fundo imobiliário XP Corporate Macaé (XPCM11) informou que 1.062.399 novas cotas de sua segunda emissão foram subscritas após as etapas de exercício do direito de preferência e de subscrição de sobras. O montante correspondente somou R$ 8.403.576,09, conforme comunicado da admi"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Fundo imobiliário ALZC11 confirma dividendos com yield superior a 1,35%",
+   "url": "https://www.suno.com.br/noticias/fundo-imobiliario-alzc11-confirma-dividendos-com-yield-superior-a-135/",
+   "publicado": "2026-08-18T20:55:04+00:00",
+   "tickers": [
+    "ALZC11"
+   ],
+   "resumo": "O fundo imobiliário (FII) ALZC11 informou a distribuição de R$ 0,10 por cota em rendimentos aos cotistas. O pagamento está programado para 24 de agosto de 2026, e a data-base que garante direito ao provento foi definida para 17 de agosto. A gestora reiterou que os dividendos do f"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Quem ainda segura a bolsa brasileira enquanto o estrangeiro vai embora?",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/08/18/quem-ainda-segura-a-bolsa-brasileira-enquanto-o-estrangeiro-vai-embora.ghtml",
+   "publicado": "2026-08-18T20:48:20+00:00",
+   "tickers": [],
+   "resumo": "O rali que levou o Ibovespa para perto dos 200 mil pontos no início do ano, embalado pela forte entrada de capital estrangeiro, ficou para trás. Desde que esse fluxo começou a minguar, a bolsa também perdeu o fôlego e entrou em uma sequência de quedas que já dura 11 sessões.\nAgor"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Ibovespa é o segundo pior mercado acionário do mundo em agosto; veja detalhes",
+   "url": "https://www.suno.com.br/noticias/ibovespa-agosto-2025-segundo-pior-mercado-mundial-elos-ayta-go/",
+   "publicado": "2026-08-18T20:15:06+00:00",
+   "tickers": [],
+   "resumo": "O Ibovespa aparece como o segundo pior mercado acionário do mundo em agosto, superado apenas pela bolsa argentina, de acordo com levantamento da consultoria Elos Ayta divulgado até 17 de agosto. O índice acumula recuo de 8,54% em dólar no período, resultado que só fica acima do S"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Mega-Sena 3046 sorteia prêmio de R$ 45 milhões hoje; veja como apostar e fazer bolão",
+   "url": "https://valorinveste.globo.com/loterias/noticia/2026/08/18/mega-sena-3046-sorteio-hoje-como-apostar-e-fazer-bolao.ghtml",
+   "publicado": "2026-08-18T19:34:10+00:00",
+   "tickers": [],
+   "resumo": "A Mega-Sena 3046 sorteia um prêmio estimado em R$ 45 milhões nesta terça-feira (18), a partir das 21h (horário de Brasília), em São Paulo.\nVEJA TAMBÉM: \n- Os números mais sorteados na história Mega-Sena\nNos concursos realizados às terças e quintas-feiras, as apostas podem ser fei"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Vale (VALE3) não decidiu sobre exploração de terras-raras, mas estuda mercado, diz presidente",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/08/18/vale-vale3-nao-decidiu-sobre-exploracao-de-terras-raras-mas-estuda-mercado-diz-presidente.ghtml",
+   "publicado": "2026-08-18T19:33:09+00:00",
+   "tickers": [
+    "VALE3"
+   ],
+   "resumo": "O presidente da Vale (VALE3), Gustavo Pimenta, afirmou nesta terça-feira (18) que a companhia ainda não tomou uma decisão sobre a entrada em novas commodities, como terras-raras, e segue estudando oportunidades. \nSegundo o executivo, entre os principais desafios estão a escala e "
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Depois de onze quedas, Ibovespa volta ao patamar do início do ano. É hora de voltar para a bolsa?",
+   "url": "https://investnews.com.br/investimentos/depois-de-dez-quedas-ibovespa-volta-ao-patamar-do-inicio-do-ano-e-hora-de-voltar-para-a-bolsa/",
+   "publicado": "2026-08-18T19:17:25+00:00",
+   "tickers": [],
+   "resumo": "Múltiplo que mede a relação de preço do ativo e lucro (P/L) da bolsa brasileira voltou ao período de janeiro"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Braskem (BRKM5): subsidiária mexicana pede Chapter 11 nos EUA para reestruturar dívida",
+   "url": "https://www.suno.com.br/noticias/braskem-idesa-chapter-11-eua-reducao-divida-920-milhoes-go/",
+   "publicado": "2026-08-18T19:15:00+00:00",
+   "tickers": [
+    "BRKM5"
+   ],
+   "resumo": "Braskem (BRKM5). Foto: DivulgaçãoA Braskem (BRKM5) informou ao mercado nesta terça-feira (18) que sua subsidiária mexicana, a Braskem Idesa, protocolou um pedido de recuperação judicial do tipo Chapter 11 nos Estados Unidos, com o objetivo de reduzir a dívida em mais de US$ 920 m"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Casas Bahia: quais são os fundos com maior exposição aos R$ 4,8 bilhões em títulos de crédito?",
+   "url": "https://valorinveste.globo.com/credito-privado/noticia/2026/08/18/casas-bahia-quem-sao-os-fundos-com-maior-exposicao-aos-r-48-bilhoes-em-titulos-de-credito.ghtml",
+   "publicado": "2026-08-18T19:09:28+00:00",
+   "tickers": [
+    "TRSE16"
+   ],
+   "resumo": "Entre as dívidas do Grupo Casas Bahia, que entrou com pedido de recuperação judicial neste domingo (16), há cerca de R$ 4,8 bilhões compostos por títulos de crédito privado, segundo dados da plataforma Vitrify obtidos pelo Valor Investe. Uma parte desse valor começaria a vencer e"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "TikTok testa pagamentos entre usuários por mensagens diretas",
+   "url": "https://investnews.com.br/negocios/tiktok-testa-pagamentos-entre-usuarios-por-mensagens-diretas/",
+   "publicado": "2026-08-18T18:43:36+00:00",
+   "tickers": [],
+   "resumo": "Consumidores no mundo todo gastaram mais de US$ 2,9 bilhões no TikTok apenas neste ano"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "CVM vai julgar processo de suposta fraude em FII com Vorcaro e outros 19 acusados",
+   "url": "https://valorinveste.globo.com/mercados/noticia/2026/08/18/cvm-vai-julgar-processo-de-suposta-fraude-em-fii-com-vorcaro-e-outros-19-acusados.ghtml",
+   "publicado": "2026-08-18T18:41:41+00:00",
+   "tickers": [],
+   "resumo": "A Comissão de Valores Mobiliários (CVM) marcou para o próximo dia 8 de setembro o julgamento do processo sancionador que investigou operações supostamente fraudulentas do Banco Master e da família Vorcaro por meio da negociação de cotas do fundo de investimento imobiliário (FII) "
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Vale (VALE3) defende ‘força-tarefa’ para avanço de licenciamento de projetos estratégicos",
+   "url": "https://www.suno.com.br/noticias/vale-vale3-defende-forca-tarefa-para-avanco-de-licenciamento-go/",
+   "publicado": "2026-08-18T18:35:00+00:00",
+   "tickers": [
+    "VALE3"
+   ],
+   "resumo": "Vale (VALE3) defende &#8216;força-tarefa&#8217; para avanço de licenciamento de projetos estratégicosO CEO da Vale (VALE3), Gustavo Pimenta, defendeu nesta terça-feira, 18, uma &#8220;força-tarefa&#8221; para o avanço do licenciamento de projetos considerados estratégicos para o "
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Mudou de novo: empresas de serviços terão mais dois meses para migrar nota fiscal",
+   "url": "https://investnews.com.br/negocios/nota-fiscal-servico-simples/",
+   "publicado": "2026-08-18T17:52:09+00:00",
+   "tickers": [],
+   "resumo": "Obrigação para micro e pequenas empresas começaria em setembro e foi adiada para 1º de novembro"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Ação da Nvidia negocia com desconto de até 50%, diz BofA",
+   "url": "https://investnews.com.br/investimentos/acao-da-nvidia-negocia-com-desconto-de-ate-50-diz-bofa/",
+   "publicado": "2026-08-18T16:49:37+00:00",
+   "tickers": [],
+   "resumo": "O BofA calcula que o preço justo da ação da Nvidia seja de US$ 350 ante a cotação atual de US$ 219"
   },
   {
    "fonte": "InvestNews",
@@ -131,70 +215,12 @@
    "resumo": "Área técnica afastou risco concorrencial na reorganização da BTP e freou ofensiva da ICTSI, que tentava barrar o arranjo; plenário do Cade ainda pode rever a decisão"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "Xiaomi vê lucro cair 20,5% no 2T26; smartphones pressionam, mas carros elétricos avançam",
-   "url": "https://www.suno.com.br/noticias/xiaomi-resultado-2t26-lucro-carros-eletricos-mt/",
-   "publicado": "2026-08-18T14:16:00+00:00",
-   "tickers": [],
-   "resumo": "Bolsas asiáticas Xiaomi. Foto: iStock.A Xiaomi encerrou o segundo trimestre com um retrato dividido. De um lado, os negócios mais tradicionais sentiram o peso de custos maiores e demanda mais fraca. Do outro, a frente mais nova da companhia, a de veículos elétricos, continuou cre"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Rendimento do MCRE11 rende 1,16% no mês; confira a distribuição de julho",
-   "url": "https://www.suno.com.br/noticias/rendimento-do-mcre11-rende-116-no-mes-confira-a-distribuicao-de-julho/",
-   "publicado": "2026-08-18T14:15:07+00:00",
-   "tickers": [
-    "MCRE11"
-   ],
-   "resumo": "Os cotistas do fundo imobiliário MCRE11 vão receber R$ 0,10 por cota em proventos referentes a julho de 2026, com pagamento em 24 de agosto. Os dividendos do MCRE11 correspondem a um dividend yield mensal aproximado de 1,16%, calculado sobre a cotação de R$ 8,65 em que o papel en"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Rede D’Or (RDOR3) pode subir 75%? BTG eleva preço-alvo após 2T26 forte",
-   "url": "https://www.suno.com.br/noticias/rede-dor-rdor3-btg-preco-alvo-resultado-2t26-mt/",
-   "publicado": "2026-08-18T13:55:57+00:00",
-   "tickers": [
-    "RDOR3"
-   ],
-   "resumo": "A Rede D’Or (RDOR3) saiu do segundo trimestre de 2026 com um resultado que fez o BTG Pactual aumentar a aposta na companhia. Depois de números acima do esperado, o banco elevou suas estimativas de lucro para 2027, revisou o preço-alvo das ações para R$ 58 e manteve recomendação d"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "BRCO11 fecha contrato de cinco anos com o Mercado Livre; veja detalhes",
-   "url": "https://www.suno.com.br/noticias/brco11-vacancia-mercado-livre-resende/",
-   "publicado": "2026-08-18T13:35:18+00:00",
-   "tickers": [
-    "BRCO11"
-   ],
-   "resumo": "O BRCO11 (Bresco Logística FII) firmou contrato de locação com o Mercado Livre que elimina a vacância do Imóvel Bresco Resende e reduz a vacância física do fundo para 1,6%. O acordo foi comunicado em fato relevante divulgado nesta segunda-feira (17). BRCO11 reduz vacância e ocupa"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Rede D’Or (RDOR3) pode subir 75%? Analistas veem espaço após 2T26 forte",
-   "url": "https://www.suno.com.br/noticias/rede-dor-rdor3-pode-subir-75-btg-eleva-preco-alvo-apos-2t26-forte/",
-   "publicado": "2026-08-18T13:35:09+00:00",
-   "tickers": [
-    "RDOR3"
-   ],
-   "resumo": "A Rede D’Or (RDOR3) saiu do segundo trimestre de 2026 com um resultado que fez o BTG Pactual aumentar a aposta na companhia. Depois de números acima do esperado, o banco elevou suas estimativas de lucro para 2027, revisou o preço-alvo das ações para R$ 58 e manteve recomendação d"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Tesouro Direto: taxas dos títulos IPCA+ caem com dinheiro na praça; prefixados sobem",
    "url": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/08/18/tesouro-direto-taxas-hoje-18-agosto-2026-titulos-publicos-federais-ipca-prefixado-selic.ghtml",
    "publicado": "2026-08-18T13:07:59+00:00",
    "tickers": [],
-   "resumo": "A enxurrada de dinheiro lançado no mercado com o vencimento do Tesouro IPCA+ 2026 (ou NTN-B) nesta semana ajuda o Brasil a ser uma exceção em dia de forte alta das taxas de juros globais, em especial nos vencimentos mais longos. Títulos públicos do Japão e dos Estados Unidos ocup"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "NDIV11 acumula R$ 25,18 por cota distribuídos em 33 eventos desde 2023",
-   "url": "https://www.suno.com.br/noticias/ndiv11-acumula-cota-distribuidos-gss/",
-   "publicado": "2026-08-18T13:06:53+00:00",
-   "tickers": [
-    "NDIV11"
-   ],
-   "resumo": "NDIV11 acumula R$ 25,18 por cota distribuídos em 33 eventos desde 2023O NDIV11, ETF da Nu Asset Management voltado a empresas com histórico consistente de pagamento de dividendos, acumula R$ 25,18 distribuídos por cota desde o início de sua operação, em setembro de 2023. Ao todo,"
+   "resumo": "A enxurrada de dinheiro lançado no mercado com o vencimento do Tesouro IPCA+ 2026 (ou NTN-B) nesta semana ajuda o Brasil a ser uma exceção em dia de forte alta das taxas de juros globais, em especial nos vencimentos mais longos. Títulos públicos do Japão, da Alemanha e dos Estado"
   },
   {
    "fonte": "InvestNews",
@@ -205,57 +231,24 @@
    "resumo": "Em meio à rejeição ao texto gerado por robôs, veja como usar ChatGPT e Claude para leitura crítica, checagem de fatos e revisão"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "Ibovespa esqueceu como sobe? Bolsa emenda 10 quedas e agosto vira teste de nervos",
-   "url": "https://www.suno.com.br/noticias/ibovespa-10-quedas-seguidas-mt/",
-   "publicado": "2026-08-18T12:35:07+00:00",
-   "tickers": [],
-   "resumo": "O botão verde parece ter sumido da B3 em agosto. O Ibovespa fechou a segunda-feira (17) em queda de 0,09%, aos 166.783,57 pontos, e completou dez pregões consecutivos no vermelho, a maior sequência negativa desde as 13 baixas seguidas registradas em agosto de 2023. No mês, o índi"
-  },
-  {
    "fonte": "InvestNews",
-   "titulo": "Crédito caro aperta todo o varejo. Na Casas Bahia, foi peça-chave para crise de sobrevivência",
+   "titulo": "Crédito caro aperta todo o varejo. Na Casas Bahia, teve peso relevante para crise de sobrevivência",
    "url": "https://investnews.com.br/negocios/credito-varejo-casas-bahia-bhia3/",
    "publicado": "2026-08-18T12:21:53+00:00",
    "tickers": [],
    "resumo": "Varejista renegociou a dívida, mas não conseguiu financiar os estoques; agora busca R$ 1 bilhão em crédito"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "5 FIIs distribuem dividendos nesta terça; IRIM11 rende 1,28% no mês",
-   "url": "https://www.suno.com.br/noticias/dividendos-hoje-rbrr11-rbry11-fiis/",
-   "publicado": "2026-08-18T12:15:06+00:00",
-   "tickers": [
-    "IRIM11",
-    "RBRR11",
-    "RBRY11"
-   ],
-   "resumo": "Nesta terça-feira, 5 fundos imobiliários creditam dividendos hoje aos cotistas, com destaque para RBRR11 e RBRY11. Quem detém RBRR11 recebe R$ 0,90 por cota, enquanto o pagamento do RBRY11 é de R$ 1,00 por cota. Para quem possui cotas desses fundos que pagam proventos hoje, não é"
-  },
-  {
    "fonte": "Valor Investe",
-   "titulo": "Ibovespa sobe em meio a alta dos juros nos EUA com ajuda de Vale (VALE3) e Petrobras (PETR4)",
+   "titulo": "Bolsas caem no exterior com pressão dos juros dos EUA; commodities seguram tombo do Ibovespa",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/08/18/dolar-e-ibovespa-hoje-18-de-agosto-de-2026.ghtml",
    "publicado": "2026-08-18T12:03:23+00:00",
    "tickers": [
-    "BHIA3",
-    "HAPV3",
-    "MGLU3",
     "PETR3",
     "PETR4",
     "VALE3"
    ],
-   "resumo": "Na contramão das bolsas de Nova York, o principal índice de ações brasileiras, o Ibovespa, opera em alta nesta terça-feira (18). O avanço dos juros dos títulos públicos americanos aumenta a pressão sobre os ativos globais. As altas do petróleo e do minério de ferro, porém, impuls"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Tegma (TGMA3) paga dividendos e JCP nesta terça-feira; veja valor por ação",
-   "url": "https://www.suno.com.br/noticias/a-tegma-tgma3-agenda-dividendos-18082026/",
-   "publicado": "2026-08-18T11:55:00+00:00",
-   "tickers": [
-    "TGMA3"
-   ],
-   "resumo": "Tegma (TGMA3) paga dividendos e JCP nesta terça-feira; veja valor por açãoHoje é um dos dias aguardados pelos investidores que seguem uma estratégia de investimentos focada em dividendos: a Tegma (TGMA3) vai pagar rendimentos aos seus acionistas. Os dividendos da Tegma correspond"
+   "resumo": "A disparada dos juros de longo prazo dos títulos dos Estados Unidos voltou a pressionar os mercados globais nesta terça-feira (18), com investidores preocupados com dívida pública americana elevada, inflação persistente e petróleo em alta diante do conflito no Oriente Médio. As b"
   },
   {
    "fonte": "InvestNews",
@@ -292,7 +285,7 @@
    "url": "https://braziljournal.com/citi-inicia-banco-mercantil-com-buy-ve-combinacao-rara/",
    "publicado": "2026-08-18T11:11:38+00:00",
    "tickers": [],
-   "resumo": "O Citi iniciou sua cobertura de Banco Mercantil com recomendação de ‘compra’ – colocando o banco da família Andrade de Araújo como uma “combinação rara” de crescimento acima da média, alta rentabilidade e um valuation ainda modesto. Os analistas colocaram um preço-alvo de R$ 6, u"
+   "resumo": "O Citi iniciou sua cobertura de Banco Mercantil com recomendação de ‘compra’ – colocando o banco da família Andrade de Araújo como uma “combinação rara” de crescimento acima da média, alta rentabilidade e um valuation ainda modesto. Os analistas colocaram um preço-alvo de R$ 66, "
   },
   {
    "fonte": "Valor Investe",
@@ -741,14 +734,6 @@
    "resumo": "Nenhum órgão público cobra pagamento antecipado ou transferência para liberar um benefício. O alerta é da Associação Brasileira de Bancos (ABBC), que reforçou a campanha \"Tem Cara de Golpe\" diante do aumento de fraudes que se aproveitam da popularidade de programas do governo.\nNo"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Até o Claude desconhece informações sobre a esposa de Dario Amodei – e a influência dela na Anthropic",
-   "url": "https://investnews.com.br/the-wall-street-journal/ate-claude-desconhece-detalhes-sobre-a-mulher-de-dario-amodei-e-sua-influencia-na-anthropic/",
-   "publicado": "2026-08-17T09:06:00+00:00",
-   "tickers": [],
-   "resumo": "Cami Clark, mulher de Dario Amodei, é conselheira da Anthropic e tentou obter investimentos de Jeffrey Epstein"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Carteiras administradas, antes exclusivas aos milionários, viram moda. Vale investir?",
    "url": "https://valorinveste.globo.com/objetivo/hora-de-investir/noticia/2026/08/17/carteiras-administradas-antes-exclusivas-aos-milionarios-viram-moda-vale-investir.ghtml",
@@ -757,44 +742,12 @@
    "resumo": "O volume investido em carteiras administradas, uma espécie de gestão de investimentos profissional, pelos brasileiros dobrou nos últimos quatro anos. Bancos, corretoras, gestoras e consultorias estão oferecendo esse serviço, antes exclusivo aos ricaços, para um público um pouco m"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "De Suape a Santos, gigantes globais travam ‘batalha naval’ nos portos do Brasil",
-   "url": "https://investnews.com.br/negocios/maersk-versus-ictsi-suape-santos-portos/",
-   "publicado": "2026-08-17T09:00:00+00:00",
-   "tickers": [],
-   "resumo": "ICTSI questiona avanço da Maersk em Pernambuco enquanto os dois grupos se enfrentam pelo Tecon 10 em Santos"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "A disputa familiar que colocou a Marabraz em recuperação judicial",
-   "url": "https://investnews.com.br/negocios/a-briga-de-familia-que-colocou-a-marabraz-em-recuperacao-judicial/",
-   "publicado": "2026-08-17T01:19:48+00:00",
-   "tickers": [],
-   "resumo": "Sem poder oferecer aos bancos os imóveis da família Fares como garantia, a rede de móveis viu o crédito secar"
-  },
-  {
    "fonte": "Brazil Journal",
    "titulo": "Judiciário pressionou Centrão a não apoiar Flávio Bolsonaro, diz jornalista",
    "url": "https://braziljournal.com/stf-pressionou-centrao-a-nao-apoiar-flavio-bolsonaro-diz-jornalista/",
    "publicado": "2026-08-16T23:36:38+00:00",
    "tickers": [],
    "resumo": "O Judiciário “operou muito nos bastidores” para impedir que os partidos do Centrão – nomeadamente União Brasil, PP e Republicanos – apoiassem a candidatura de Flávio Bolsonaro à Presidência, o jornalista da CNN Brasil Caio Junqueira disse num programa da emissora. De acordo com e"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Fluxos clandestinos de petróleo no Oriente Médio seguram os preços globais",
-   "url": "https://investnews.com.br/negocios/fluxos-clandestinos-de-petroleo-no-oriente-medio-seguram-os-precos-globais/",
-   "publicado": "2026-08-16T16:46:57+00:00",
-   "tickers": [],
-   "resumo": "Os produtores do Oriente Médio seguem a todo vapor tirando grandes volumes de petróleo do Golfo Pérsico em operações de vaivém, o que ajuda a segurar os preços e a acalma o temor de uma inflação globa puxada pelos combustíveis – mesmo com a guerra do Irã se arrastando. O negócio "
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Casas Bahia pede recuperação judicial e diz: ‘necessário para preservar a continuidade das atividades’",
-   "url": "https://investnews.com.br/negocios/casas-bahia-pede-recuperacao-judicial/",
-   "publicado": "2026-08-16T14:39:04+00:00",
-   "tickers": [],
-   "resumo": "Empresa varejista tinha R$ 7,8 bilhões em dívidas já contando dinheiro em caixa e cita 'liquidez restrita'"
   },
   {
    "fonte": "Valor Investe",
@@ -837,48 +790,6 @@
    "publicado": "2026-08-15T12:57:37+00:00",
    "tickers": [],
    "resumo": "A Mega-Sena 3045 sorteia um prêmio estimado em R$ 38 milhões neste domingo (16), a partir das 11h (horário de Brasília), em São Paulo.\nVEJA TAMBÉM: \n- Os números mais sorteados na história Mega-Sena\nPara os sorteios realizados aos domingos, as apostas podem ser feitas até às 22h "
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Nova pesquisa da Quaest aponta Lula com 43% no 2º turno e Flávio com 40%",
-   "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/08/14/nova-pesquisa-da-quaest-aponta-lula-com-43percent-no-2o-turno-e-flavio-com-40percent.ghtml",
-   "publicado": "2026-08-14T21:35:43+00:00",
-   "tickers": [],
-   "resumo": "O presidente Luiz Inácio Lula da Silva (PT) tem 38% das intenções de voto e o senador Flávio Bolsonaro (PL) registra 31% no primeiro turno da eleição presidencial, segundo pesquisa Quaest divulgada nesta sexta-feira (14). Num segundo turno entre os dois, Lula marca 43%, enquanto "
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Ibovespa amarga pior semana desde maio e devolve quase toda alta do ano",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/08/14/ibovespa-amarga-pior-semana-desde-maio-e-devolve-quase-toda-alta-do-ano.ghtml",
-   "publicado": "2026-08-14T20:51:34+00:00",
-   "tickers": [],
-   "resumo": "Se agosto costuma carregar a fama de “mês do desgosto” na bolsa, esta semana carimbou a tradição. O Ibovespa fechou o período com a maior queda semanal desde maio, voltou ao menor nível desde janeiro e viu praticamente esfarelar os ganhos que havia garantido ao longo de 2026.\nNa "
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Preços do petróleo avançam mais de 5% na semana com impasse sobre Ormuz",
-   "url": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/08/14/precos-do-petroleo-avancam-mais-de-5percent-na-semana-com-impasse-sobre-ormuz.ghtml",
-   "publicado": "2026-08-14T19:46:11+00:00",
-   "tickers": [],
-   "resumo": "O impasse sobre a reabertura de Ormuz pesou sobre o mercado de energia nesta semana, levando os contratos futuros de petróleo a encerrarem o período com ganhos acima de 5% no período. Sem novos desdobramentos na agenda diplomática, os preços exibiram alta moderada nesta sexta-fei"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Possível recuperação extrajudicial pesa e Braskem (BRKM5) despenca mesmo após lucro bilionário",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/08/14/possivel-recuperacao-extrajudicial-pesa-e-braskem-brkm5-despenca-mesmo-apos-lucro-bilionario.ghtml",
-   "publicado": "2026-08-14T19:00:45+00:00",
-   "tickers": [
-    "BRKM5"
-   ],
-   "resumo": "As ações da Braskem (BRKM5) tombaram 8%, nesta sexta-feira (14), em um pregão já negativo para a bolsa brasileira com a saída de investidores estrangeiros. No caso da petroquímica, porém, há combustível adicional para a queda: apesar de um balanço operacionalmente melhor no segun"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Ouro sobe na semana e acumula alta de 10% no mês",
-   "url": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/08/14/ouro-sobe-na-semana-e-acumula-alta-de-10percent-no-mes.ghtml",
-   "publicado": "2026-08-14T17:00:30+00:00",
-   "tickers": [],
-   "resumo": "Depois de amargar com a alta dos juros nos Estados Unidos, quando apagou tudo aquilo que avançou no início do ano, o ouro caminha para fechar a semana em alta e ensaia uma recuperação consistente em agosto – acumula alta de quase 10% no mês. Apesar do renovado otimismo, o ritmo c"
   }
  ]
 }
