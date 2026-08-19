@@ -1,7 +1,129 @@
 {
  "fonte": "noticias",
- "itens": 90,
+ "itens": 100,
  "dados": [
+  {
+   "fonte": "Money Times",
+   "titulo": "Bolsas da Europa recuam com incerteza no Oriente Médio e ata do Fed no radar",
+   "url": "https://www.moneytimes.com.br/bolsas-da-europa-recuam-com-incerteza-no-oriente-medio-e-ata-do-fed-no-radar-rens/",
+   "publicado": "2026-08-19T09:50:24+00:00",
+   "tickers": [],
+   "resumo": "As bolsas europeias recuam majoritariamente na manhã desta quarta-feira, enquanto o petróleo segue em alta em meio às incertezas do conflito no Oriente Médio e investidores aguardam a ata da reunião de política monetária de julho do Federal Reserve (Fed). Por volta das 6h20 (de B"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Bolsas da Ásia fecham em baixa após perdas em Wall Street; Kospi despenca 5,8%",
+   "url": "https://www.moneytimes.com.br/bolsas-da-asia-fecham-em-baixa-apos-perdas-em-wall-street-kospi-despenca-58-rens/",
+   "publicado": "2026-08-19T09:46:37+00:00",
+   "tickers": [],
+   "resumo": "As bolsas asiáticas fecharam majoritariamente em baixa nesta quarta-feira, após Wall Street recuar pelo terceiro pregão seguido ontem, em meio a uma nova onda de aversão a ações ligadas à inteligência artificial. O índice sul-coreano Kospi liderou as perdas, com queda de 5,80%, p"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Investidores já começam a temer pelo tamanho da dívida brasileira",
+   "url": "https://valorinveste.globo.com/blogs/hudson-bessa/coluna/investidores-ja-comecam-a-temer-pelo-tamanho-da-divida-brasileira.ghtml",
+   "publicado": "2026-08-19T09:30:08+00:00",
+   "tickers": [],
+   "resumo": "Na semana passada, em uma de minhas aulas sobre mercado financeiro e investimentos, estávamos discutindo os fatores que colaboram para a formação da taxa de juros do País. Falávamos sobre as teorias que explicam por que as taxas de juros atingem esse ou aquele patamar e como este"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Agenda: Ata do Fomc detalha manutenção de juros norte-americanos; veja indicadores econômicos desta quarta (19)",
+   "url": "https://www.moneytimes.com.br/agenda-ata-do-fomc-detalha-manutencao-de-juros-norte-americanos-pela-5o-vez-seguida-e-mais-veja-indicadores-e-horarios-jvka/",
+   "publicado": "2026-08-19T09:30:00+00:00",
+   "tickers": [],
+   "resumo": "Nesta quarta-feira (19), os investidores acompanham a ata do Comitê Federal de Mercado Aberto (Fomc), que traz um detalhamento da mais recente reunião de política monetária dos Estados Unidos. No início do mês, o Federal Reserve manteve a taxa de juros na faixa de 3,50% a 3,75% a"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Da conta no Instagram às criptomoedas: o desafio da herança digital",
+   "url": "https://valorinveste.globo.com/blogs/yuri-freitas/coluna/da-conta-no-instagram-as-criptomoedas-o-desafio-da-heranca-digital.ghtml",
+   "publicado": "2026-08-19T09:20:08+00:00",
+   "tickers": [],
+   "resumo": "Talvez você não perceba, mas já acumula um patrimônio digital que merece atenção no seu planejamento sucessório. Quem hoje não possui milhas aéreas, investimentos em criptoativos, livros digitais, contas em redes sociais ou, simplesmente, uma vida armazenada em celulares e comput"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Tesouro IPCA+ pode render 27,5% em 12 meses se juros caírem, calcula gestora",
+   "url": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/08/19/tesouro-ipca-pode-render-275percent-em-12-meses-se-juros-cairem-calcula-gestora.ghtml",
+   "publicado": "2026-08-19T09:10:08+00:00",
+   "tickers": [],
+   "resumo": "Os rendimentos dos títulos Tesouro IPCA+ encostaram na máxima histórica em julho e, desde então, mantiveram-se entre 7,4% e 8,6% ao ano (somada a inflação oficial medida pelo IPCA). É um bom retorno, mas, além do valor contratado na compra, há outra forma de fazer dinheiro com el"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Os bastidores da disputa entre Ford e GM na guerra comercial de Trump",
+   "url": "https://investnews.com.br/the-wall-street-journal/os-bastidores-da-disputa-entre-ford-e-gm-na-guerra-comercial-de-trump/",
+   "publicado": "2026-08-19T09:02:00+00:00",
+   "tickers": [],
+   "resumo": "Ford e GM se enfrentam na guerra comercial dos EUA por tarifas, baterias e importações"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Só três de 48 gestoras de fundos imobiliários bateram o CDI em três anos. O que o ranking revela?",
+   "url": "https://valorinveste.globo.com/produtos/fundos-imobiliarios/especial/so-tres-de-48-gestoras-de-fundos-imobiliarios-bateram-o-cdi-em-tres-anos-o-que-o-ranking-revela.ghtml",
+   "publicado": "2026-08-19T09:00:08+00:00",
+   "tickers": [],
+   "resumo": "Investir em um fundo imobiliário costuma ser uma forma simples de buscar renda passiva sem precisar comprar um imóvel. Mas, antes de escolher um fundo, há uma decisão que pode ser tão importante quanto o próprio fundo: quem está cuidando do dinheiro.\nEntre 48 gestoras de fundos i"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Tempo real: Ibovespa acompanha inflação na Europa e ata do Fed",
+   "url": "https://www.moneytimes.com.br/tempo-real-ibovespa-hoje-mercado-ao-vivo-19-08-2026-jals-lils-apsa/",
+   "publicado": "2026-08-19T09:00:00+00:00",
+   "tickers": [],
+   "resumo": "Resumo: O Ibovespa (IBOV) opera atento aos índices de inflação no Reino Unido e na zona do euro, ao discurso da presidente do Banco Central Europeu, Christine Lagarde, e à divulgação da ata da última reunião do Federal Reserve. A balança comercial do Japão também está no radar do"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Com alta renda perdendo fôlego, Moura Dubeux reforça foco no Minha Casa Minha Vida. E não está sozinha",
+   "url": "https://investnews.com.br/negocios/moura-dubeux-foco-minha-casa-minha-vida/",
+   "publicado": "2026-08-19T09:00:00+00:00",
+   "tickers": [],
+   "resumo": "Maior incorporadora do Nordeste amplia lançamentos de imóveis financiados pelo programa em busca de demanda resiliente"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "A Pilgrim’s está em seu pior momento. Os Batista querem comprar os minoritários",
+   "url": "https://braziljournal.com/a-pilgrims-esta-em-seu-pior-momento-os-batista-querem-comprar-os-minoritarios/",
+   "publicado": "2026-08-19T03:40:59+00:00",
+   "tickers": [],
+   "resumo": "A JBS voltou a ciscar no mesmo terreno: quer (de novo) fechar o capital da Pilgrim’s Pride, a produtora de frango que ela controla nos EUA. Após tentar comprar a participação dos minoritários e ouvir um “não” em 2021, a companhia dos Batista voltou à mesa – desta vez oferecendo c"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "A visão do Tesouro sobre a rolagem da dívida, o arcabouço fiscal e os papéis incentivados",
+   "url": "https://braziljournal.com/a-visao-do-tesouro-sobre-a-rolagem-da-divida-o-arcabouco-fiscal-e-os-papeis-incentivados/",
+   "publicado": "2026-08-19T03:40:48+00:00",
+   "tickers": [],
+   "resumo": "Não existe a menor possibilidade de haver alguma forma de calote da dívida pública – e quem especula sobre esse risco não sabe do que está falando. Esta é a resposta do secretário do Tesouro sobre o assunto durante uma entrevista de quase uma hora com o Brazil Journal. “A chance "
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "BYD passa a vender kits de energia solar em suas concessionárias",
+   "url": "https://braziljournal.com/byd-passa-a-vender-kits-de-energia-solar-em-suas-concessionarias/",
+   "publicado": "2026-08-19T03:40:40+00:00",
+   "tickers": [],
+   "resumo": "A BYD vai usar sua rede de concessionárias de veículos elétricos para vender kits de geração de energia solar para residências, entrando em um novo nicho bilionário e com imenso potencial de expansão.  O grupo chinês, que há pouco assumiu a liderança no varejo de carros do País, "
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Ninguém acerta as seis dezenas da Mega-Sena 3046, e prêmio vai a R$ 50 milhões; veja números sorteados",
+   "url": "https://valorinveste.globo.com/loterias/noticia/2026/08/18/resultado-da-mega-sena-3046-com-premio-de-r-428-milhoes-hoje-veja-numeros-sorteados.ghtml",
+   "publicado": "2026-08-19T00:35:33+00:00",
+   "tickers": [],
+   "resumo": "O resultado da Mega-Sena 3046 com prêmio de R$ 42,8 milhõeso foi divulgado nesta terça-feira (18), em São Paulo, e ninguém acertou as seis dezenas. Com isso, o prêmio acumulou em R$ 50 milhões para o próximo sorteio que vai ser realizado na quinta-feira (20).\nOs números sorteados"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Fundo imobiliário XPLG11 aluga galpão em São Bernardo e reduz vacância para 3,9%",
+   "url": "https://www.suno.com.br/noticias/fundo-imobiliario-xplg11-aluga-galpao-em-sao-bernardo-e-reduz-vacancia-para-39/",
+   "publicado": "2026-08-18T23:35:05+00:00",
+   "tickers": [
+    "XPLG11"
+   ],
+   "resumo": "O fundo imobiliário XPLG11 (XP Log) assinou contrato para a locação de toda a área do CD CL Imigrantes V, em São Bernardo do Campo (SP). Com a operação, a vacância física dos imóveis do portfólio será reduzida para 3,9%, conforme fato relevante divulgado nesta terça-feira (18). O"
+  },
   {
    "fonte": "Suno Noticias",
    "titulo": "HSLG11: fundo imobiliário sofre calote da Casas Bahia, mas pretende manter dividendo",
@@ -33,6 +155,14 @@
    "resumo": "O IFIX encerrou o pregão desta terça-feira (18) aos 3.666,83 pontos, em alta de 0,33%. O desempenho representou avanço de 12,13 pontos frente ao fechamento anterior, de 3.654,70 pontos, mantendo o índice em terreno positivo ao fim da sessão. Ao longo do dia, o índice de fundos im"
   },
   {
+   "fonte": "Money Times",
+   "titulo": "Soja amplia ganhos em meio a dúvidas sobre safra nos EUA",
+   "url": "https://www.moneytimes.com.br/soja-amplia-ganhos-em-meio-a-duvidas-sobre-safra-nos-eua-pads/",
+   "publicado": "2026-08-18T22:12:57+00:00",
+   "tickers": [],
+   "resumo": "Os contratos futuros de soja negociados na bolsa de Chicago tiveram leve alta nesta terça-feira, à medida que boletins meteorológicos e dados sobre a safra levantaram preocupações quanto às perspectivas da colheita deste ano no Meio-Oeste dos EUA, segundo analistas. Os preços do "
+  },
+  {
    "fonte": "InvestNews",
    "titulo": "Proposta prevê facilidades para oferta de criptoativos no mercado dos EUA",
    "url": "https://investnews.com.br/investimentos/projeto-criptoativos-liberal-eua/",
@@ -49,6 +179,34 @@
    "resumo": "Ibovespa cai pela 11ª vez seguida e tem maior sequência de perdas em três anosO Ibovespa tentou interromper a sequência negativa nesta terça-feira (18), mas voltou a fechar no vermelho e chegou ao 11º pregão consecutivo de queda, a maior série de perdas em três anos. Em uma sessã"
   },
   {
+   "fonte": "Money Times",
+   "titulo": "LWSA (LWSA3) atualiza valor de dividendos; confira",
+   "url": "https://www.moneytimes.com.br/lwsa-lwsa3-atualiza-valor-de-dividendos-confira/",
+   "publicado": "2026-08-18T21:49:08+00:00",
+   "tickers": [
+    "LWSA3"
+   ],
+   "resumo": "A LWSA (LWSA3), em comunicado ao mercado na Comissão de Valores Mobiliários (CVM), informa que, em razão da alteração na quantidade de ações mantidas em tesouraria, a quantidade de ações com direito ao recebimento de dividendos passou a ser de R$ 548 milhões ações ordinárias. Com"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "A virada de chave do açúcar em agosto: Índia pode voltar às compras e mercado já olha para déficit em 2026/27",
+   "url": "https://www.moneytimes.com.br/a-virada-de-chave-do-acucar-em-agosto-india-pode-voltar-as-compras-e-mercado-ja-olha-para-deficit-em-2026-27-pads/",
+   "publicado": "2026-08-18T21:48:40+00:00",
+   "tickers": [],
+   "resumo": "O mercado de açúcar parece ter virado a chave em agosto. Depois de meses pressionados, os contratos futuros da commodity engataram uma forte recuperação nas últimas semanas, com o açúcar bruto negociado em Nova York saindo da região dos 15 centavos de dólar por libra-peso para pe"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Cosan (CSAN3) avança para dar adeus à Bolsa de Nova York e já tem data para o último pregão",
+   "url": "https://www.moneytimes.com.br/cosan-csan3-avanca-com-saida-da-bolsa-de-nova-york-e-ja-tem-data-para-o-ultimo-pregao-pads/",
+   "publicado": "2026-08-18T21:18:36+00:00",
+   "tickers": [
+    "CSAN3"
+   ],
+   "resumo": "A Cosan (CSAN3) notificou formalmente a Bolsa de Valores de Nova York (NYSE) sobre sua intenção de deslistar voluntariamente suas American Depositary Shares (ADSs) negociadas no mercado norte-americano. O movimento dá continuidade ao fato relevante divulgado em 14 de agosto, quan"
+  },
+  {
    "fonte": "Suno Noticias",
    "titulo": "VISC11 vê vendas subirem 8,9% e mira redesenhar carteira",
    "url": "https://www.suno.com.br/noticias/visc11-ve-vendas-subirem-89-e-mira-redesenhar-carteira/",
@@ -59,6 +217,14 @@
    "resumo": "O fundo imobiliário VISC11 encerrou o segundo trimestre de 2026 (2T26) com duas frentes estratégicas no portfólio. De um lado, assinou um Memorando de Entendimento (MoU) para a potencial venda de participações em nove shopping centers por aproximadamente R$ 573 milhões. De outro,"
   },
   {
+   "fonte": "Money Times",
+   "titulo": "Rogério Marinho: Petrobras é estratégica e será avaliada, mas não há plano de privatizá-la",
+   "url": "https://www.moneytimes.com.br/rogerio-marinho-petrobras-e-estrategica-e-sera-avaliada-mas-nao-ha-plano-de-privatiza-la-gaep/",
+   "publicado": "2026-08-18T21:08:48+00:00",
+   "tickers": [],
+   "resumo": "O senador Rogério Marinho (PL-RN), coordenador de campanha de Flávio Bolsonaro (PL-RJ) à Presidência da República, defendeu nesta terça-feira (18) que a Petrobras passe por uma avaliação de eficiência, mas disse que, por ora, não há a intenção de privatizá-la, caso seu grupo polí"
+  },
+  {
    "fonte": "Suno Noticias",
    "titulo": "Fundo imobiliário XPCM11 registra R$ 8,4 milhões em cotas subscritas em nova emissão",
    "url": "https://www.suno.com.br/noticias/fundo-imobiliario-xpcm11-registra-r-84-milhoes-em-cotas-subscritas-em-nova-emissao/",
@@ -67,6 +233,14 @@
     "XPCM11"
    ],
    "resumo": "O fundo imobiliário XP Corporate Macaé (XPCM11) informou que 1.062.399 novas cotas de sua segunda emissão foram subscritas após as etapas de exercício do direito de preferência e de subscrição de sobras. O montante correspondente somou R$ 8.403.576,09, conforme comunicado da admi"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Taxas dos DIs fecham perto da estabilidade à espera de ata do Fed",
+   "url": "https://www.moneytimes.com.br/taxas-dos-dis-fecham-perto-da-estabilidade-a-espera-de-ata-do-fed/",
+   "publicado": "2026-08-18T20:58:35+00:00",
+   "tickers": [],
+   "resumo": "As taxas dos Depósitos Interfinanceiros (DIs) fecharam a terça-feira (18) próximas da estabilidade, enquanto os agentes monitoravam o noticiário geopolítico externo, diante das novas tensões no Oriente Médio e a cena doméstica. No fim da tarde, a taxa do DI para janeiro de 2028 e"
   },
   {
    "fonte": "Suno Noticias",
@@ -155,16 +329,6 @@
    "publicado": "2026-08-18T18:41:41+00:00",
    "tickers": [],
    "resumo": "A Comissão de Valores Mobiliários (CVM) marcou para o próximo dia 8 de setembro o julgamento do processo sancionador que investigou operações supostamente fraudulentas do Banco Master e da família Vorcaro por meio da negociação de cotas do fundo de investimento imobiliário (FII) "
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Vale (VALE3) defende ‘força-tarefa’ para avanço de licenciamento de projetos estratégicos",
-   "url": "https://www.suno.com.br/noticias/vale-vale3-defende-forca-tarefa-para-avanco-de-licenciamento-go/",
-   "publicado": "2026-08-18T18:35:00+00:00",
-   "tickers": [
-    "VALE3"
-   ],
-   "resumo": "Vale (VALE3) defende &#8216;força-tarefa&#8217; para avanço de licenciamento de projetos estratégicosO CEO da Vale (VALE3), Gustavo Pimenta, defendeu nesta terça-feira, 18, uma &#8220;força-tarefa&#8221; para o avanço do licenciamento de projetos considerados estratégicos para o "
   },
   {
    "fonte": "InvestNews",
@@ -587,14 +751,6 @@
    "resumo": "A bolsa brasileira disponibilizará para negociação a partir desta segunda-feira (17) 164 novos ativos no mercado a termo, no qual o investidor combina hoje o preço de um ativo para a liquidação da operação acontecer em uma data futura. Os ativos são 99 fundos imobiliários e 65 BD"
   },
   {
-   "fonte": "Brazil Journal",
-   "titulo": "Índia abre setor nuclear ao capital privado",
-   "url": "https://braziljournal.com/india-abre-setor-nuclear-ao-capital-privado/",
-   "publicado": "2026-08-17T13:29:28+00:00",
-   "tickers": [],
-   "resumo": "A Índia vai abrir seu setor nuclear aos investimentos privados. Num discurso neste final de semana – marcando os 80 anos de independência do país do domínio britânico – o primeiro-ministro Narendra Modi prometeu tornar a Índia uma nação desenvolvida até 2047, o que passa pela amb"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Vai votar em outra cidade? Prazo para solicitar voto em trânsito acaba nos próximos dias",
    "url": "https://investnews.com.br/economia/voto-em-transito/",
@@ -665,14 +821,6 @@
    "resumo": "Geely eleva em 23% a meta de exportações para 2026, para 920 mil veículos, diante da demanda fraca na China"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Autocustódia de criptomoedas é colocada em xeque após falhas em segurança e vazamentos",
-   "url": "https://investnews.com.br/investimentos/autocustodia-de-criptomoedas-e-colocada-em-xeque-apos-tres-incidentes/",
-   "publicado": "2026-08-17T11:33:39+00:00",
-   "tickers": [],
-   "resumo": "Modelo consiste em manter criptomoedas em carteiras próprias, fora de exchanges e bancos"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Crise na Casas Bahia leva a pedido de recuperação judicial",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/08/17/crise-na-casas-bahia-leva-a-pedido-de-recuperacao-judicial.ghtml",
@@ -702,14 +850,6 @@
    "resumo": "A semana será mais calma para os investidores. No Brasil, a campanha eleitoral entra no foco do mercado, em um momento em que os investidores estrangeiros continuam debandando do país, com a eleição reforçando os riscos fiscais. O mercado começa acompanhando com atenção uma pales"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Day01: Como lidar com a incerteza (Episódio 4)",
-   "url": "https://investnews.com.br/videos/day01-como-lidar-com-a-incerteza-episodio-4/",
-   "publicado": "2026-08-17T10:46:00+00:00",
-   "tickers": [],
-   "resumo": "No 4º episódio de Day01, David Vélez revela como transformou o Nubank em gigante e por que empreender exige saber mudar de ideia"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "De onde vem nossa vontade de ostentar?",
    "url": "https://valorinveste.globo.com/blogs/ana-leoni/coluna/de-onde-vem-nossa-vontade-de-ostentar.ghtml",
@@ -732,64 +872,6 @@
    "publicado": "2026-08-17T09:10:08+00:00",
    "tickers": [],
    "resumo": "Nenhum órgão público cobra pagamento antecipado ou transferência para liberar um benefício. O alerta é da Associação Brasileira de Bancos (ABBC), que reforçou a campanha \"Tem Cara de Golpe\" diante do aumento de fraudes que se aproveitam da popularidade de programas do governo.\nNo"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Carteiras administradas, antes exclusivas aos milionários, viram moda. Vale investir?",
-   "url": "https://valorinveste.globo.com/objetivo/hora-de-investir/noticia/2026/08/17/carteiras-administradas-antes-exclusivas-aos-milionarios-viram-moda-vale-investir.ghtml",
-   "publicado": "2026-08-17T09:00:08+00:00",
-   "tickers": [],
-   "resumo": "O volume investido em carteiras administradas, uma espécie de gestão de investimentos profissional, pelos brasileiros dobrou nos últimos quatro anos. Bancos, corretoras, gestoras e consultorias estão oferecendo esse serviço, antes exclusivo aos ricaços, para um público um pouco m"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "Judiciário pressionou Centrão a não apoiar Flávio Bolsonaro, diz jornalista",
-   "url": "https://braziljournal.com/stf-pressionou-centrao-a-nao-apoiar-flavio-bolsonaro-diz-jornalista/",
-   "publicado": "2026-08-16T23:36:38+00:00",
-   "tickers": [],
-   "resumo": "O Judiciário “operou muito nos bastidores” para impedir que os partidos do Centrão – nomeadamente União Brasil, PP e Republicanos – apoiassem a candidatura de Flávio Bolsonaro à Presidência, o jornalista da CNN Brasil Caio Junqueira disse num programa da emissora. De acordo com e"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "PIS/Pasep: último lote do abono salarial é pago a 4,1 milhões de trabalhadores nesta segunda (17)",
-   "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/programas-sociais/noticia/2026/08/16/pis-pasep-abono-salarial-ultimo-lote-pagamento-na-segunda-17-de-agosto.ghtml",
-   "publicado": "2026-08-16T14:27:41+00:00",
-   "tickers": [],
-   "resumo": "O último lote do abono salarial do PIS e do Pasep 2026 é pago nesta segunda-feira (17) para 4,1 milhões de trabalhadores da iniciativa privada e servidores públicos nascidos em novembro e dezembro e que receberam até R$ 2.766 de remuneração média mensal em 2024.\nNeste lote, o abo"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Ninguém acerta as seis dezenas da Mega-Sena 3045, e prêmio acumula em R$ 45 milhões; veja números sorteados",
-   "url": "https://valorinveste.globo.com/loterias/noticia/2026/08/16/resultado-da-mega-sena-3045-hoje-divulgado-veja-numeros-sorteados.ghtml",
-   "publicado": "2026-08-16T14:02:23+00:00",
-   "tickers": [],
-   "resumo": "O resultado da Mega-Sena 3045 com prêmio de R$ 36,9 milhões foi divulgado neste domingo (16), em São Paulo, e ninguém acertou as seis dezenas. Com isso, o prêmio acumulou em R$ 45 milhões para o próximo sorteio que vai ser realizado na terça-feira (18)\nOs números sorteados foram:"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Blue3, Mondelez e mais: confira centenas de vagas de emprego e estágio abertas",
-   "url": "https://valorinveste.globo.com/educacao-financeira/comecar/noticia/2026/08/16/blue3-mondelez-e-mais-confira-centenas-de-vagas-de-emprego-e-estagio-abertas.ghtml",
-   "publicado": "2026-08-16T13:31:57+00:00",
-   "tickers": [
-    "BLUE3"
-   ],
-   "resumo": "Procura uma oportunidade de recolocação, de crescer na carreira ou de começar em uma nova empresa? O Valor Investe reuniu vagas abertas para ajudar quem quer dar esse \"empurrãozinho\" na vida profissional.\nSão mais de 230 posições nas modalidades presencial, híbrida e remota, em s"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "OPINIÃO. Os erros dos CEOs ao falar com jornalistas",
-   "url": "https://braziljournal.com/opiniao-os-erros-dos-ceos-ao-falar-com-jornalistas/",
-   "publicado": "2026-08-16T03:10:08+00:00",
-   "tickers": [],
-   "resumo": "Depois de acompanhar centenas de entrevistas com executivos e jornalistas, é possível perceber que os erros mais comuns raramente estão relacionados à falta de conhecimento sobre o próprio negócio. Em geral é o contrário: os CEOs conhecem tão profundamente suas empresas que têm d"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Mega-Sena 3045 sorteia prêmio de R$ 38 milhões neste domingo; veja como e até que horas pode apostar",
-   "url": "https://valorinveste.globo.com/loterias/noticia/2026/08/15/mega-sena-3045-sorteia-premio-de-38-milhoes-neste-domingo-veja-como-e-ate-que-horas-pode-apostar.ghtml",
-   "publicado": "2026-08-15T12:57:37+00:00",
-   "tickers": [],
-   "resumo": "A Mega-Sena 3045 sorteia um prêmio estimado em R$ 38 milhões neste domingo (16), a partir das 11h (horário de Brasília), em São Paulo.\nVEJA TAMBÉM: \n- Os números mais sorteados na história Mega-Sena\nPara os sorteios realizados aos domingos, as apostas podem ser feitas até às 22h "
   }
  ]
 }
