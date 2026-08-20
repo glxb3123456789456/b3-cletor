@@ -4,6 +4,81 @@
  "dados": [
   {
    "fonte": "Brazil Journal",
+   "titulo": "“What’s cautelar?” A pergunta que o gringo mais faz hoje sobre o Brasil",
+   "url": "https://braziljournal.com/whats-cautelar-a-pergunta-que-o-gringo-mais-faz-hoje-sobre-o-brasil/",
+   "publicado": "2026-08-20T09:50:52+00:00",
+   "tickers": [],
+   "resumo": "Banqueiros em roadshows para vender papéis de empresas brasileiras a investidores internacionais estão se deparando com dúvidas que dizem muito sobre o Brasil atual. “What’s cautelar?”, perguntam vários deles, tentando entender a medida judicial que prevê a suspensão da execução "
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "OPINIÃO. O mercado invisível do gás – e como a CCEE pode ajudar",
+   "url": "https://braziljournal.com/opiniao-o-mercado-invisivel-do-gas-e-como-a-ccee-pode-ajudar/",
+   "publicado": "2026-08-20T09:50:30+00:00",
+   "tickers": [],
+   "resumo": "Uma siderúrgica em Minas Gerais com volume de gás sobrando. Do outro lado, a poucos quilômetros, uma mineradora precisando exatamente desse volume a mais. Produção caiu de um lado, consumo subiu do outro. Take-or-pay de um lado, risco de ultrapassagem do outro. As duas empresas e"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "O projeto é um sucesso. Seu token, não",
+   "url": "https://valorinveste.globo.com/blogs/gustavo-cunha/coluna/o-projeto-e-um-sucesso-seu-token-nao.ghtml",
+   "publicado": "2026-08-20T09:40:12+00:00",
+   "tickers": [],
+   "resumo": "No meu artigo de março de 2025, escrevi que tinha largado mão da Ethereum não porque a tecnologia fosse ruim, mas porque comecei a me questionar se o crescimento da rede necessariamente se transformaria em valorização do ativo que eu tinha na carteira (artigo: “Por que o Ethereum"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "O maior desafio da indústria de alimentos: pessoas que não querem mais comer",
+   "url": "https://investnews.com.br/the-wall-street-journal/o-maior-desafio-da-industria-de-alimentos-pessoas-que-nao-querem-mais-comer/",
+   "publicado": "2026-08-20T09:03:00+00:00",
+   "tickers": [],
+   "resumo": "Com os medicamentos GLP-1, fabricantes de alimentos industrializados testam maneiras de conquistar consumidores sem tanta fome"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Tempo real: Ibovespa monitora ata do BCE e reunião do CMN",
+   "url": "https://www.moneytimes.com.br/tempo-real-ibovespa-hoje-mercado-ao-vivo-20-08-2026-jals-lils-apsa/",
+   "publicado": "2026-08-20T09:00:00+00:00",
+   "tickers": [],
+   "resumo": "Resumo: O Ibovespa (IBOV) acompanha a ata da última reunião do Banco Central Europeu e a reunião do Conselho Monetário Nacional (CMN), além dos dados de inflação e dos PMIs industrial e de serviços do Japão. Destaques: Confira os principais temas do Ibovespa e dos mercados em tem"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "O que está por trás da explosão de processos contra os planos de saúde",
+   "url": "https://investnews.com.br/negocios/explosao-processos-contra-planos-saude/",
+   "publicado": "2026-08-20T09:00:00+00:00",
+   "tickers": [],
+   "resumo": "Recusa de cobertura, regras que mudam e decisões favoráveis a pacientes transformam os tribunais em parte do setor"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Venda da Amil para fundos caminha para os últimos detalhes – ainda que o momento demande cautela",
+   "url": "https://investnews.com.br/negocios/amil-venda-detalhes-finais-cautela/",
+   "publicado": "2026-08-20T00:29:38+00:00",
+   "tickers": [],
+   "resumo": "Conversas entre Júnior Seripieri e gestoras Bain e Advent nunca estiveram tão avançadas, segundo pessoas próximas da negociação"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Dívida pública dos EUA ultrapassa US$ 40 trilhões e se aproxima do teto permitido",
+   "url": "https://investnews.com.br/economia/divida-publica-dos-eua/",
+   "publicado": "2026-08-19T23:21:35+00:00",
+   "tickers": [],
+   "resumo": "Valor cresceu um terço em menos de cinco anos; teto de endividamento deve ser atingido em 2027, segundo a Fitch"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Vai pingar: Banco do Brasil (BBAS3) antecipa pagamento de JCPs; veja valores",
+   "url": "https://www.moneytimes.com.br/banco-do-brasil-bbas3-antecipa-pagamento-de-jcps-veja-valores-rnda/",
+   "publicado": "2026-08-19T23:18:54+00:00",
+   "tickers": [
+    "BBAS3",
+    "BBSA3"
+   ],
+   "resumo": "O Banco do Brasil (BBSA3) anunciou nesta quarta-feira que aprovou pagamento aos acionistas de juros sobre capital próprio no valor de cerca de R$ 197 milhões, relativo aos resultados do terceiro trimestre. O BB afirmou que o pagamento, a ser feito em 11 de setembro, equivale a R$"
+  },
+  {
+   "fonte": "Brazil Journal",
    "titulo": "OPINIÃO. Além das urnas: dez anos de PPI",
    "url": "https://braziljournal.com/opiniao-alem-das-urnas-dez-anos-de-ppi/",
    "publicado": "2026-08-19T22:38:36+00:00",
@@ -130,7 +205,7 @@
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/08/19/por-que-uma-decisao-do-tesouro-dos-eua-mudou-o-humor-dos-ativos-brasileiros.ghtml",
    "publicado": "2026-08-19T20:42:47+00:00",
    "tickers": [],
-   "resumo": "Depois de onze sessões seguidas de perdas, a bolsa brasileira finalmente encontrou um pouco de espaço para respirar. Desta vez, o alívio veio de fora, mais precisamente dos Estados Unidos, onde uma decisão do Tesouro americano mexeu com o mercado de títulos e rapidamente atravess"
+   "resumo": "Depois de 11 sessões seguidas de perdas, a bolsa brasileira finalmente encontrou um pouco de espaço para respirar. Desta vez, o alívio veio de fora, mais precisamente dos Estados Unidos, onde uma decisão do Tesouro americano mexeu com o mercado de títulos e rapidamente atravessou"
   },
   {
    "fonte": "InvestNews",
@@ -139,14 +214,6 @@
    "publicado": "2026-08-19T20:38:46+00:00",
    "tickers": [],
    "resumo": "Vacina personalizada da Moderna e da Merck reduziu a recorrência do melanoma em estudo de estágio final"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Soja fecha em alta em meio a preocupações com safra no Meio-Oeste dos EUA",
-   "url": "https://www.moneytimes.com.br/soja-fecha-em-alta-em-meio-a-preocupacoes-com-safra-no-meio-oeste-dos-eua-pads/",
-   "publicado": "2026-08-19T20:34:08+00:00",
-   "tickers": [],
-   "resumo": "A soja de Chicago subiu pela quarta sessão consecutiva nesta quarta-feira, à medida que os resultados de uma visita de campo organizada pelo setor aumentaram as preocupações sobre as perspectivas mistas de rendimento no Meio-Oeste dos Estados Unidos, em meio às compras chinesas d"
   },
   {
    "fonte": "Suno Noticias",
@@ -159,14 +226,6 @@
     "MULT3"
    ],
    "resumo": "Shopping operado pela Allos (ALOS3). Foto:Divulgação/Assessoria.Três das principais empresas de shopping centers da Bolsa estão no radar dos investidores, mas uma delas larga na frente na avaliação do Bank of America (BofA). Entre Allos (ALOS3), Iguatemi (IGTI11) e Multiplan (MUL"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Açúcar bruto atinge máxima de mais de um ano, café arábica recua",
-   "url": "https://www.moneytimes.com.br/acucar-bruto-atinge-maxima-de-mais-de-um-ano-cafe-arabica-recua-pads/",
-   "publicado": "2026-08-19T20:27:48+00:00",
-   "tickers": [],
-   "resumo": "Os futuros do açúcar bruto na ICE subiram nesta quarta-feira (19), atingindo a maior cotação em mais de um ano devido ao agravamento das perspectivas de produção em todo o mundo, enquanto o café arábica caiu após ter atingido, anteriormente, a máxima de um mês. O contrato de açúc"
   },
   {
    "fonte": "InvestNews",
@@ -204,7 +263,7 @@
   },
   {
    "fonte": "InvestNews",
-   "titulo": "Abra, dona da Gol, recorre ao Cade para impedir que American Airlines seja sócia da Azul",
+   "titulo": "Abra, dona da Gol, recorre ao Cade para impedir que American seja sócia da Azul",
    "url": "https://investnews.com.br/negocios/abra-gol-recorre-cade-aporte-american-azul/",
    "publicado": "2026-08-19T19:14:12+00:00",
    "tickers": [],
@@ -658,22 +717,6 @@
    "resumo": "A disparada dos juros de longo prazo dos títulos dos Estados Unidos voltou a pressionar os mercados globais nesta terça-feira (18), com investidores preocupados com dívida pública americana elevada, inflação persistente e petróleo em alta diante do conflito no Oriente Médio. As b"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Braskem Idesa pede recuperação judicial nos Estados Unidos",
-   "url": "https://investnews.com.br/negocios/braskem-idesa-pede-recuperacao-judicial-nos-estados-unidos/",
-   "publicado": "2026-08-18T11:45:43+00:00",
-   "tickers": [],
-   "resumo": "Braskem Idesa acumula mais de US$ 920 milhões em dívidas e busca reestruturar seus débitos"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Brasileiro investe mais em criptomoedas do que em CDBs e ações, mostra Datafolha",
-   "url": "https://investnews.com.br/investimentos/brasileiro-investe-mais-em-criptomoedas-do-que-em-cdbs-e-acoes-mostra-datafolha/",
-   "publicado": "2026-08-18T11:36:25+00:00",
-   "tickers": [],
-   "resumo": "A 2ª Pesquisa Nacional das Criptomoedas também revela que a principal porta de entrada para ativos digitais são os bancos"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Petrobras (PETR4), Banco do Brasil (BBAS3), Braskem (BRKM5), Eneva (ENEV3) e mais: Veja os destaques das empresas",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/08/18/petrobras-petr4-banco-do-brasil-bbas3-braskem-brkm5-eneva-enev3-e-mais-veja-os-destaques-das-empresas.ghtml",
@@ -687,36 +730,12 @@
    "resumo": "Petrobras\nA presidente da Petrobras, Magda Chambriard, confirmou a descoberta de petróleo na bacia da Foz do Amazonas, no Amapá. \n\nOs investimentos realizados pela companhia na perfuração do primeiro poço, Morpho, na Bacia da Foz do Amazonas, somam US$ 300 milhões (cerca de R$ 1,"
   },
   {
-   "fonte": "Brazil Journal",
-   "titulo": "Citi inicia Banco Mercantil com ‘buy’, o ‘banco dos clientes 50+’",
-   "url": "https://braziljournal.com/citi-inicia-banco-mercantil-com-buy-ve-combinacao-rara/",
-   "publicado": "2026-08-18T11:11:38+00:00",
-   "tickers": [],
-   "resumo": "O Citi iniciou sua cobertura de Banco Mercantil com recomendação de ‘compra’ – colocando o banco da família Andrade de Araújo como uma “combinação rara” de crescimento acima da média, alta rentabilidade e um valuation ainda modesto. Os analistas colocaram um preço-alvo de R$ 66, "
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Tensão entre EUA e Irã, produção industrial americana e campanha eleitoral estão no foco",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/08/18/tensao-entre-eua-e-ira-producao-industrial-americana-e-campanha-eleitoral-estao-no-foco.ghtml",
    "publicado": "2026-08-18T11:00:44+00:00",
    "tickers": [],
    "resumo": "Os indicadores futuros de ações americanas Nasdaq e S&amp;P 500 caíam no começo desta terça-feira (18), com o setor de semicondutores puxando a baixa, após os índices mais relevantes dos Estados Unidos iniciarem a semana tombando. A desvalorização é fruto da persistência da tensã"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "ETFs em alta: o fundo que conquistou até Warren Buffett",
-   "url": "https://investnews.com.br/videos/etfs-em-alta-o-fundo-que-conquistou-ate-warren-buffett/",
-   "publicado": "2026-08-18T10:57:00+00:00",
-   "tickers": [],
-   "resumo": "De renda fixa a cripto, os ETFs quase triplicaram no Brasil. Veja como funcionam esses fundos e por que diversificar a carteira com eles"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "Impulso fiscal eleva a taxa neutra e empurra os juros longos, diz o BTG",
-   "url": "https://braziljournal.com/impulso-fiscal-eleva-a-taxa-neutra-e-empurra-os-juros-longos-diz-o-btg/",
-   "publicado": "2026-08-18T10:09:53+00:00",
-   "tickers": [],
-   "resumo": "Os juros longos estão abrindo em boa parte do mundo, e no Brasil não tem sido diferente. Mas quanto da elevação das taxas longas brasileiras se deve a questões domésticas, como o aumento da dívida pública, e quanto foi causado por fatores externos? Os economistas Tiago Berriel e "
   },
   {
    "fonte": "Valor Investe",
@@ -741,14 +760,6 @@
    "publicado": "2026-08-18T09:10:08+00:00",
    "tickers": [],
    "resumo": "As criptomoedas ficaram mais conhecidas entre os brasileiros nos últimos anos, mas esse avanço ainda não se traduziu em aumento significativo da parcela da população que investe nesses ativos. Ao mesmo tempo, a intenção de comprar cripto nos próximos dois anos permanece estável, "
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Como o novo CEO da Sony está reformulando a empresa em que trabalha há 39 anos: ‘precisamos mudar’",
-   "url": "https://investnews.com.br/the-wall-street-journal/como-um-veterano-da-sony-esta-reformulando-a-empresa-onde-cresceu/",
-   "publicado": "2026-08-18T09:02:00+00:00",
-   "tickers": [],
-   "resumo": "A Sony construiu seu império em eletrônicos. Mas Hiroki Totoki diz que o futuro está no entretenimento"
   },
   {
    "fonte": "Valor Investe",
@@ -864,14 +875,6 @@
     "BHIA3"
    ],
    "resumo": "As ações do Grupo Casas Bahia (BHIA3) despencaram no pregão de hoje, na B3, com investidores deixando o papel, após a companhia informar que pediu recuperação judicial. A desvalorização chegou a superar os 30%, o que levou a entrar em leilão. \nA queda seguiu na mesma magnitude du"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Bolsa disponibiliza 164 novos BDRs e fundos imobiliários no mercado a termo",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/08/17/bolsa-disponibiliza-164-novos-bdrs-e-fundos-imobiliarios-no-mercado-a-termo.ghtml",
-   "publicado": "2026-08-17T13:41:07+00:00",
-   "tickers": [],
-   "resumo": "A bolsa brasileira disponibilizará para negociação a partir desta segunda-feira (17) 164 novos ativos no mercado a termo, no qual o investidor combina hoje o preço de um ativo para a liquidação da operação acontecer em uma data futura. Os ativos são 99 fundos imobiliários e 65 BD"
   }
  ]
 }
