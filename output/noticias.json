@@ -3,6 +3,22 @@
  "itens": 100,
  "dados": [
   {
+   "fonte": "InvestNews",
+   "titulo": "A corrida para construir o primeiro novo reator nuclear dos EUA em décadas",
+   "url": "https://investnews.com.br/the-wall-street-journal/a-corrida-para-construir-o-primeiro-novo-reator-nuclear-dos-eua-em-decadas/",
+   "publicado": "2026-08-22T09:00:00+00:00",
+   "tickers": [],
+   "resumo": "O renovado interesse pela energia nuclear e a euforia em torno da IA se encontram no Laboratório Nacional de Idaho"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Bitcoin sobe 23% e se aproxima de US$ 80 mil com intervenção do Tesouro dos EUA",
+   "url": "https://investnews.com.br/investimentos/bitcoin-sobe-23-e-se-aproxima-de-us-80-mil-com-intervencao-do-tesouro-dos-eua/",
+   "publicado": "2026-08-21T22:46:23+00:00",
+   "tickers": [],
+   "resumo": "Alta ocorre após Tesouro americano ampliar recompra de títulos e provocar liquidação bilionária de posições vendidas"
+  },
+  {
    "fonte": "Valor Investe",
    "titulo": "Pesquisa Datafolha aponta Lula com 47% e Flávio marca 43% no 2º turno",
    "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/08/21/pesquisa-datafolha-aponta-lula-com-47percent-e-flavio-marca-43percent-no-2o-turno.ghtml",
@@ -223,11 +239,11 @@
   },
   {
    "fonte": "InvestNews",
-   "titulo": "A estratégia do bilionário Ray Dalio para se proteger de uma possível crise da dívida dos EUA",
-   "url": "https://investnews.com.br/economia/a-estrategia-do-bilionario-ray-dalio-para-se-proteger-de-uma-possivel-crise-da-divida-dos-eua/",
+   "titulo": "A estratégia do bilionário Ray Dalio para se proteger do risco de uma crise da dívida dos EUA",
+   "url": "https://investnews.com.br/economia/ray-dalio-proteger-crise-da-divida-eua/",
    "publicado": "2026-08-21T18:43:38+00:00",
    "tickers": [],
-   "resumo": "Os comentários de Dalio acontecem em um momento em que os rendimentos dos Treasuries de longo prazo subiram para máximas de vários anos"
+   "resumo": "Investidor defendeu aumento da exposição ao ouro e ao bitcoin como forma de proteção ao risco de uma crise"
   },
   {
    "fonte": "Valor Investe",
@@ -775,14 +791,6 @@
    "resumo": "O impulso veio da intervenção do Tesouro dos EUA no mercado de títulos"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Brasil 🇧🇷 é o terceiro emoji que mais cresceu no mundo – e a explicação não é o futebol",
-   "url": "https://investnews.com.br/negocios/brasil-ganha-destaque-digital-emojis/",
-   "publicado": "2026-08-20T11:09:21+00:00",
-   "tickers": [],
-   "resumo": "País tem se destacado em redes sociais pelo comportamento com alto engajamento de seus usuários"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Dados de emprego nos EUA e dúvidas sobre futuro das taxas dos títulos estão no radar",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/08/20/dados-de-emprego-nos-eua-e-duvidas-sobre-futuro-das-taxas-dos-titulos-estao-no-radar.ghtml",
@@ -840,14 +848,6 @@
    "publicado": "2026-08-20T09:40:12+00:00",
    "tickers": [],
    "resumo": "No meu artigo de março de 2025, escrevi que tinha largado mão da Ethereum não porque a tecnologia fosse ruim, mas porque comecei a me questionar se o crescimento da rede necessariamente se transformaria em valorização do ativo que eu tinha na carteira (artigo: “Por que o Ethereum"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "O maior desafio da indústria de alimentos: pessoas que não querem mais comer",
-   "url": "https://investnews.com.br/the-wall-street-journal/o-maior-desafio-da-industria-de-alimentos-pessoas-que-nao-querem-mais-comer/",
-   "publicado": "2026-08-20T09:03:00+00:00",
-   "tickers": [],
-   "resumo": "Com os medicamentos GLP-1, fabricantes de alimentos industrializados testam maneiras de conquistar consumidores sem tanta fome"
   }
  ]
 }
