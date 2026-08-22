@@ -1,13 +1,13 @@
 {
  "recordsTotal": 16055,
- "paginas_lidas": 40,
+ "paginas_lidas": 38,
  "janela": [
   "10/08/2026",
   "22/08/2026"
  ],
- "docs_filtrados": 111,
- "docs_fundos": 55,
- "docs_fidc": 56,
+ "docs_filtrados": 106,
+ "docs_fundos": 54,
+ "docs_fidc": 52,
  "amostra_categorias": [
   "Anexo ao Regulamento",
   "Assembleia",
@@ -24,7 +24,7 @@
   "Regulamento",
   "Relatórios"
  ],
- "erro": null,
+ "erro": "excecao: HTTPSConnectionPool(host='fnet.bmfbovespa.com.br', port=443): Read timed out. (read timeout=60)",
  "amostra_registros": [
   {
    "altaPrioridade": false,
