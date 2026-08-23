@@ -3,6 +3,30 @@
  "itens": 100,
  "dados": [
   {
+   "fonte": "InvestNews",
+   "titulo": "Ambipar mantém análise contábil sob sigilo antes de assembleia de credores",
+   "url": "https://investnews.com.br/negocios/ambipar-balanco-sob-sigilo-credores/",
+   "publicado": "2026-08-23T20:08:42+00:00",
+   "tickers": [],
+   "resumo": "Credores pedem adiamento da votação enquanto companhia mantém dados financeiros sob sigilo e ainda busca auditor para a holding"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "IPCA-15 no Brasil e revisão do 'payroll' nos EUA são destaque na semana",
+   "url": "https://valorinveste.globo.com/objetivo/de-olho-no-mercado/noticia/2026/08/23/ipca-15-no-brasil-e-revisao-do-payroll-nos-eua-sao-destaque-na-semana.ghtml",
+   "publicado": "2026-08-23T19:52:28+00:00",
+   "tickers": [],
+   "resumo": "Após uma semana mais tranquila em relação a indicadores e eventos, os mercados se preparam para alguns dados de peso tanto no Brasil quanto nos Estados Unidos na semana entre 24 e 28 de agosto. Além disso, o noticiário político segue no foco dos investidores, com as entrevistas d"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Alibaba busca US$ 10 bilhões com venda de ações para expandir investimentos em IA",
+   "url": "https://investnews.com.br/negocios/alibaba-bilhoes-acoes-investimentos-ia/",
+   "publicado": "2026-08-23T15:26:54+00:00",
+   "tickers": [],
+   "resumo": "Oferta seria a maior colocação subsequente já registrada em Hong Kong e ocorre após a queda de mais de 75% no lucro trimestral da companhia"
+  },
+  {
    "fonte": "Money Times",
    "titulo": "Temporada de debates entre presidenciáveis começa sem Lula e Flávio Bolsonaro; veja horário, participantes e as regras",
    "url": "https://www.moneytimes.com.br/temporada-de-debates-entre-presidenciaveis-comeca-sem-lula-e-flavio-bolsonaro-veja-horario-participantes-e-as-regras-gaep/",
@@ -712,28 +736,12 @@
    "resumo": "Novo CEO pode aumentar os investimentos da Apple em IA para acelerar o desenvolvimento de novos softwares"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "🏢 A nova onda de prédios de escritório: veja quais FIIs você pode usar para investir nela",
-   "url": "https://investnews.com.br/investimentos/nova-onda-de-predios-de-escritorio-em-sp-veja-quais-sao-os-fiis-mais-expostos/",
-   "publicado": "2026-08-20T18:02:52+00:00",
-   "tickers": [],
-   "resumo": "Dos 27 empreendimentos previstos para este ano em São Paulo, seis têm participação de FIIs"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Petróleo sobe mais de 2% com Trump ameaçando 'guerra econômica' contra Irã",
    "url": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/08/20/petroleo-sobe-mais-de-2percent-com-trump-ameacando-guerra-economica-contra-ira.ghtml",
    "publicado": "2026-08-20T16:19:51+00:00",
    "tickers": [],
    "resumo": "Os preços do petróleo subiram mais de 2% nesta quinta-feira (20), em meio ao aumento das tensões entre Estados Unidos e Irã e ao impasse nas negociações diplomáticas entre os dois países.\nO petróleo tipo Brent, a referência global e brasileira de preço, avançou 2,4%, cotado a US$"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Bessent sinaliza que recompra de títulos pelo Tesouro pode superar US$ 4 bilhões",
-   "url": "https://investnews.com.br/economia/bessent-sinaliza-que-recompra-de-titulos-pelo-tesouro-pode-superar-us-4-bilhoes/",
-   "publicado": "2026-08-20T15:58:22+00:00",
-   "tickers": [],
-   "resumo": "Bessent afirmou que o tamanho das futuras recompras dependerá das condições do mercado"
   },
   {
    "fonte": "Valor Investe",
@@ -830,14 +838,6 @@
     "SMAL11"
    ],
    "resumo": "A indústria de ETFs cresce em ritmo acelerado, mesmo em um momento de resgates entre fundos multimercados e de saída dos investidores da bolsa. Mas o maior volume de dinheiro ainda está concentrado no topo da pirâmide. Dois fundos de índice responderam sozinhos por mais da metade"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Turim abre inscrições para prêmio universitário com desafio sobre agentes de IA para investimentos",
-   "url": "https://valorinveste.globo.com/produtos/fundos/noticia/2026/08/20/turim-abre-inscricoes-para-premio-universitario-com-desafio-sobre-agentes-de-ia-para-investimentos.ghtml",
-   "publicado": "2026-08-20T09:57:50+00:00",
-   "tickers": [],
-   "resumo": "A gestora de patrimônio Turim abriu nesta quarta-feira (19) as inscrições para a 9ª edição do Prêmio Turim, competição voltada a estudantes de graduação interessados em investimentos e gestão de patrimônio. Neste ano, o desafio terá como tema a construção de agentes de inteligênc"
   }
  ]
 }
