@@ -1,8 +1,8 @@
 {
- "total_linhas": 49277,
- "com_fato_relevante": 2817,
- "data_min": "2025-01-02",
- "data_max": "2025-12-31",
+ "total_linhas": 32646,
+ "com_fato_relevante": 1755,
+ "data_min": "2026-01-02",
+ "data_max": "2026-08-24",
  "janela_desde": "2026-08-05",
  "amostra_categorias": [
   "Acordo de Acionistas",
@@ -16,7 +16,6 @@
   "Comunicação sobre Transação entre Partes Relacionadas",
   "Comunicação sobre demandas societárias",
   "Contratos de Indenidade",
-  "Convenção de grupos de sociedades",
   "Código de Conduta",
   "Dados Econômico-Financeiros",
   "Dados cadastrais de companhias incentivadas",
@@ -25,6 +24,7 @@
   "Escrituras e aditamentos de debêntures",
   "Estatuto Social",
   "Fato Relevante",
+  "Formulário FÁCIL",
   "Informação Prestada às Bolsas Estrangeiras",
   "Informações Companhias em Falência",
   "Informações Companhias em Liquidação",
