@@ -4,19 +4,447 @@
  "dados": [
   {
    "fonte": "Money Times",
-   "titulo": "Renan Santos: Brasil tem que ter condições de ter uma arma atômica",
-   "url": "https://www.moneytimes.com.br/renan-santos-brasil-tem-que-ter-condicoes-de-ter-uma-arma-atomica-gaep/",
-   "publicado": "2026-08-27T00:28:00+00:00",
+   "titulo": "Petrobras (PETR4) salta e ganha quase R$ 20 bilhões em valor de mercado em apenas um dia",
+   "url": "https://www.moneytimes.com.br/petrobras-petr4-salta-e-ganha-quase-r-20-bilhoes-em-valor-de-mercado-em-apenas-um-dia-lils/",
+   "publicado": "2026-08-27T19:16:14+00:00",
+   "tickers": [
+    "PETR3",
+    "PETR4"
+   ],
+   "resumo": "As ações da Petrobras (PETR3;PETR4) operam em forte alta nesta quinta-feira (27) com apoio dos preços do petróleo e a suspensão do imposto de exportação. Por volta de 16h (horário de Brasília), as ações preferenciais PETR4 subiam 2,70%, a R$ 42,57, enquanto as ordinárias PETR3 re"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Bancos ou elétricas: qual setor paga mais dividendos hoje?",
+   "url": "https://www.suno.com.br/noticias/bancos-ou-eletricas-qual-setor-paga-mais-dividendos-mt/",
+   "publicado": "2026-08-27T19:05:07+00:00",
    "tickers": [],
-   "resumo": "O candidato à presidência da República pelo Missão, Renan Santos, voltou a defender que o Brasil desenvolva bombas atômicas. Durante entrevista nesta quarta-feira (26) à TV Globo, o presidenciável disse que &#8220;ter armas nucleares é uma forma de defender sua própria soberania&"
+   "resumo": "A fama das elétricas como boas pagadoras segue de pé, mas os bancos não ficaram muito atrás. Considerando uma amostra com quatro empresas de cada setor, as companhias de energia apresentavam uma média de dividendos de 7,01% sobre o preço das ações, ante 6,94% das instituições fin"
   },
   {
    "fonte": "Money Times",
-   "titulo": "Ricardo Couto tem melhor avaliação de governo no RJ que últimas quatro administrações eleitas",
-   "url": "https://www.moneytimes.com.br/ricardo-couto-tem-melhor-avaliacao-de-governo-no-rj-que-ultimas-quatro-administracoes-eleitas-gaep/",
-   "publicado": "2026-08-27T00:22:38+00:00",
+   "titulo": "Aécio retoma conversas para disputa ao Senado de Minas Gerais após apelo de PDT e PSDB",
+   "url": "https://www.moneytimes.com.br/aecio-retoma-conversas-para-disputa-ao-senado-de-minas-gerais-apos-apelo-de-pdt-e-psdb-gaep/",
+   "publicado": "2026-08-27T19:02:49+00:00",
    "tickers": [],
-   "resumo": "O governador em exercício do Rio de Janeiro, Ricardo Couto, tem a aprovação de 38% e 20% de desaprovação, segundo pesquisa Quaest, tornando-o o governador melhor avaliado dentre as últimas quatro administrações do Estado. Outros 42% não souberam ou não responderam. A última Quaes"
+   "resumo": "O presidente nacional do PSDB, deputado federal Aécio Neves, retomou nesta semana conversas para ser candidato ao Senado por Minas Gerais. O diretório estadual da federação que o partido tem com o Cidadania e o PDT publicaram nesta quarta-feira (26), um apelo nas redes sociais pe"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Como GTA 6, novo jogo de videogame, virou negócio para Rockstar, Netflix e hackers",
+   "url": "https://investnews.com.br/negocios/trailer-gta-6-rockstar-netflix-hacker/",
+   "publicado": "2026-08-27T18:58:33+00:00",
+   "tickers": [],
+   "resumo": "Antecipação em torno de GTA 6 já movimenta pré-vendas, consoles, streaming e até publicidade em vazamentos"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Cade admite recurso de controladora da Gol contra aprovação da operação Azul-American Airlines",
+   "url": "https://www.moneytimes.com.br/cade-admite-recurso-da-controladora-da-gol-contra-aprovacao-da-operacao-azul-american-airlines-lmrs/",
+   "publicado": "2026-08-27T18:58:30+00:00",
+   "tickers": [
+    "AZUL3"
+   ],
+   "resumo": "A novela envolvendo o aporte da American Airlines na Azul (AZUL3) segue ganhando novos capítulos. No mais recente, o Conselho Administrativo de Defesa Econômica (Cade) admitiu recurso da Abra Group, holding que controla a Gol e a Avianca, contrário à operação. O aceite veio da co"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Braskem (BRKM5) dispara quase 19% na Bolsa com reforço bilionário em crédito da Petrobras (PETR4)",
+   "url": "https://www.moneytimes.com.br/braskem-brkm5-dispara-na-bolsa-com-reforco-bilionario-em-credito-da-petrobras-petr4-pads/",
+   "publicado": "2026-08-27T18:58:02+00:00",
+   "tickers": [
+    "BRKM5",
+    "PETR4"
+   ],
+   "resumo": "As ações da Braskem (BRKM5), que está em recuperação extrajudicial, disparavam 18,75% por volta das 15h30 desta quinta-feira (27), após a petroquímica anunciar uma ampliação bilionária do limite de crédito mantido com a Petrobras (PETR4). No mesmo horário, os papéis preferenciais"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Itaú (ITUB4) e Nubank (ROXO34) valem ouro e lideram ranking no Brasil",
+   "url": "https://www.suno.com.br/noticias/marcas-mais-valiosas-itau-itub4-nubank-roxo34/",
+   "publicado": "2026-08-27T18:45:05+00:00",
+   "tickers": [
+    "ITUB4",
+    "ROXO34"
+   ],
+   "resumo": "A disputa pelo topo do sistema financeiro ganhou números bilionários. Itaú Unibanco (ITUB4) e Nubank (ROXO34) são as duas marcas mais valiosas do Brasil, segundo o ranking Kantar BrandZ divulgado nesta quarta-feira (26). Juntas, as instituições acumulam mais de US$ 25 bilhões em "
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Banco ou cerveja: quais são as marcas brasileiras mais valiosas de 2026?",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/08/27/banco-ou-cerveja-quais-sao-as-marcas-brasileiras-mais-valiosas-de-2026.ghtml",
+   "publicado": "2026-08-27T18:44:47+00:00",
+   "tickers": [
+    "ABEV3",
+    "BBDC4",
+    "ITUB4",
+    "ROXO34",
+    "VIVT3"
+   ],
+   "resumo": "Qual é a marca brasileira mais valiosa? Em uma disputa que reúne bancos, cervejas, operadoras de telefonia e até uma locadora de carros, o Itaú (ITUB4) manteve a liderança em 2026, seguido de perto pelo Nubank (ROXO34). O banco aparece no topo do ranking Kantar BrandZ, com valor "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Ouro avança à espera de sinalizações do Fed em Jackson Hole",
+   "url": "https://www.moneytimes.com.br/ouro-27-8-26-apsa/",
+   "publicado": "2026-08-27T18:40:15+00:00",
+   "tickers": [],
+   "resumo": "O ouro encerrou as negociações desta quinta-feira (27) em leve alta, com o mercado aguardando as sinalizações de política monetária no Simpósio de Política Econômica de Jackson Hole dos próximos passos do Federal Reserve (Fed, o banco central dos Estados Unidos). Na Comex, divisã"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "OpenAI lança operação comercial no Brasil; veja detalhes",
+   "url": "https://www.moneytimes.com.br/openai-lanca-operacao-comercial-no-brasil/",
+   "publicado": "2026-08-27T18:35:21+00:00",
+   "tickers": [],
+   "resumo": "A OpenAI anunciou nesta quinta-feira lançamento de operação comercial no Brasil com escritório na cidade de São Paulo, depois de o país ter se tornado o terceiro maior mercado para o chatbot da empresa, o ChatGPT, no mundo. A companhia de inteligência artificial afirmou em comuni"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Aplicativo Caixa Tem registra  instabilidade pelo segundo dia seguido",
+   "url": "https://valorinveste.globo.com/produtos/servicos-financeiros/noticia/2026/08/27/aplicativo-caixa-tem-registra-instabilidade-pelo-segundo-dia-seguido.ghtml",
+   "publicado": "2026-08-27T18:20:55+00:00",
+   "tickers": [],
+   "resumo": "Pelo segundo dia consecutivo, usuários relataram instabilidade no aplicativo Caixa Tem, da Caixa, que funciona como uma conta digital para movimentar dinheiro e receber benefícios sociais. \n\nDe acordo com o site DownDetector, que monitora falhas em serviços on-line, um pico de re"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "OpenAI, Anthropic e mais: Grandes empresas de tecnologia pedem reforço em medidas de defesa contra ataques da IA",
+   "url": "https://www.moneytimes.com.br/grandes-empresas-de-tecnologia-pedem-reforco-em-medidas-de-defesa-contra-ataques-da-ia-rens/",
+   "publicado": "2026-08-27T18:17:36+00:00",
+   "tickers": [],
+   "resumo": "Grandes empresas de tecnologia, incluindo OpenAI, Anthropic, Microsoft, Alphabet e Amazon, estão pedindo uma mobilização defensiva em toda a sociedade para derrotar o que descrevem como uma onda iminente de ataques digitais impulsionados pela inteligência artificial. Em uma carta"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "CEO de produtora de ‘Dark Horse’ pede a André Mendonça que leve inquérito sobre desvios em São Paulo ao STF",
+   "url": "https://www.moneytimes.com.br/dark-horse-ceo-de-produtora-pede-a-mendonca-que-leve-inquerito-sobre-desvios-em-sp-ao-stf-gaep/",
+   "publicado": "2026-08-27T18:15:54+00:00",
+   "tickers": [],
+   "resumo": "Os advogados de Karina Ferreira da Gama, dona da produtora Go Up Entertainment, responsável pelas filmagens de &#8220;Dark Horse&#8220;, filme sobre Jair Bolsonaro (PL), pediram ao ministro do Supremo Tribunal Federal (STF) André Mendonça que a investigação sobre supostas fraudes"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Como foi a primeira cirurgia cerebral com assistência de inteligência artificial que removeu um tumor com sucesso",
+   "url": "https://www.moneytimes.com.br/como-foi-a-primeira-cirurgia-cerebral-com-assistencia-de-inteligencia-artificial-mlem/",
+   "publicado": "2026-08-27T18:08:30+00:00",
+   "tickers": [],
+   "resumo": "Pela primeira vez na história, uma inteligência artificial auxiliou uma cirurgia cerebral em tempo real. Com a ajuda da tecnologia, os cirurgiões do Hospital da Universidade College de Londres (UCLH) puderam remover o tumor do paciente, Rhys Hibbert, com sucesso. Há um ano e meio"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Macro Day 2026: BTG Pactual reúne grandes líderes do mercado financeiro no dia 31 de agosto; veja como realizar a sua inscrição gratuita",
+   "url": "https://www.moneytimes.com.br/macro-day-2026-btg-pactual-reune-grandes-lideres-do-mercado-financeiro-no-dia-31-de-agosto-veja-como-realizar-a-sua-inscricao-gratuita-lbrdgm084/",
+   "publicado": "2026-08-27T18:00:00+00:00",
+   "tickers": [],
+   "resumo": "Evento gratuito reúne gestores, economistas e autoridades para discutir os rumos da economia; inscrições são limitadas"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Após dobrar operação, CEO da Minerva diz que empresa está no tamanho ideal. Agora, é gerar caixa",
+   "url": "https://investnews.com.br/negocios/minerva-america-do-sul-carne-bovina-beef3/",
+   "publicado": "2026-08-27T17:51:58+00:00",
+   "tickers": [],
+   "resumo": "Frigorífico dos Vilela de Queiroz põe aquisições de lado e reduz dividendos para baixar a dívida em até 29 meses"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Fiagro conclui alocação da 2ª emissão com carrego médio de CDI + 5,1%; conheça o ROCA11",
+   "url": "https://www.suno.com.br/noticias/roca11-oportunidade-credito-apertado-agro-gss/",
+   "publicado": "2026-08-27T16:40:51+00:00",
+   "tickers": [
+    "ROCA11"
+   ],
+   "resumo": "Fiagro conclui alocação da 2ª emissão com carrego médio de CDI + 5,1%; conheça o ROCA11O ROCA11, Fiagro da Ceres Investimentos voltado ao crédito do agronegócio, concluiu recentemente a alocação dos recursos de sua segunda emissão e chegou a cerca de 95% do patrimônio investido. "
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Salesforce (SSFO34) dobra lucro e ação dispara 11% com reforço da IA",
+   "url": "https://www.suno.com.br/noticias/balanco-da-salesforce-ssfo34-lucro-inteligencia-artificial-mt/",
+   "publicado": "2026-08-27T16:29:00+00:00",
+   "tickers": [
+    "SSFO34"
+   ],
+   "resumo": "Salesforce (SSFO34) dobra lucro e ação dispara 11% com reforço da IAA Salesforce (BDR: SSFO34) colocou a inteligência artificial para trabalhar e entregou um lucro muito acima das expectativas. O balanço da Salesforce, divulgado nesta quarta-feira (26), mostrou lucro líquido de U"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "CVM permite que empresas voltem atrás na adesão a padrão de sustentabilidade",
+   "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/08/27/cvm-permite-que-empresas-voltem-atrs-na-adeso-a-padro-de-sustentabilidade.ghtml",
+   "publicado": "2026-08-27T16:14:29+00:00",
+   "tickers": [],
+   "resumo": "Companhias abertas que haviam aderido voluntariamente ao padrão internacional de divulgação de informações financeiras de sustentabilidade antes da mudança das regras promovida pela Comissão de Valores Mobiliários (CVM), em maio, poderão desistir da publicação sem cumprir o perío"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "SaaSholic levanta seu 3º fundo e mira os ‘agentic software’",
+   "url": "https://braziljournal.com/saasholic-levanta-seu-3o-fundo-e-mira-os-agentic-software/",
+   "publicado": "2026-08-27T15:48:07+00:00",
+   "tickers": [],
+   "resumo": "A SaaSholic acaba de concluir a captação de seu terceiro fundo, levantando US$ 30 milhões para replicar sua tese anterior num momento em que a AI potencializa os negócios de software. A captação foi ancorada por dois investidores: a gestora Spectra, que colocou US$ 7 milhões, e R"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Raio-x do TGAR11: veja carteira, vendas e dividendos do fundo",
+   "url": "https://www.suno.com.br/noticias/dividendos-do-tgar11-historico-carteira/",
+   "publicado": "2026-08-27T15:35:07+00:00",
+   "tickers": [
+    "TGAR11"
+   ],
+   "resumo": "Este raio-x apresenta a estrutura, a carteira e o histórico de dividendos do TGAR11, sem configurar recomendação de investimento. Segundo o relatório gerencial de junho de 2026, o fundo encerrou o mês com patrimônio líquido de R$ 2,55 bilhões e uma carteira de 171 ativos, distrib"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "OPINIÃO. Proteger o clima, sem abrir mão do progresso",
+   "url": "https://braziljournal.com/opiniao-proteger-o-clima-sem-abrir-mao-do-progresso/",
+   "publicado": "2026-08-27T15:33:58+00:00",
+   "tickers": [],
+   "resumo": "O Brasil precisa proteger sua meta climática sem fechar a porta à demanda internacional. As decisões após a consulta pública sobre a regulamentação dos Resultados de Mitigação Transferidos Internacionalmente, os ITMOs, coloca o Brasil diante de uma decisão que pode definir sua po"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Petrobras avalia exportar gás natural para a Ásia",
+   "url": "https://investnews.com.br/negocios/petrobras-avalia-exportar-gas-natural-para-a-asia/",
+   "publicado": "2026-08-27T15:16:34+00:00",
+   "tickers": [],
+   "resumo": "A Petrobras estuda parceria para liquefazer e exportar gás de campos offshore diante da alta da demanda por GNL"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Enquanto negocia fatia da Odebrecht, Mota-Engil chega a R$ 14 bilhões em obras no Brasil",
+   "url": "https://investnews.com.br/negocios/mota-engil-resultado-brasil-1s26/",
+   "publicado": "2026-08-27T15:03:13+00:00",
+   "tickers": [],
+   "resumo": "Brasil mais que dobrou sua contribuição em um ano e já é o terceiro maior mercado da companhia, atrás de México e Angola"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Tesouro Direto: taxas têm leve queda com desemprego dentro do esperado",
+   "url": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/08/27/tesouro-direto-taxas-tem-leve-queda-com-desemprego-dentro-do-esperado.ghtml",
+   "publicado": "2026-08-27T14:45:57+00:00",
+   "tickers": [],
+   "resumo": "O rendimento dos títulos do Tesouro Direto abriram a sessão desta quinta-feira (27) com queda nos atrelados à inflação, após a Pnad Contínua mostrar uma queda da taxa de desemprego do Brasil, de 5,4% a 5,3%, em linha com a projeção do mercado. \nApós a divulgação do IPCA-15 de ago"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "BTLG11 fecha compra milionária de galpão logístico em SP",
+   "url": "https://www.suno.com.br/noticias/btlg11-compra-galpao-em-guarulhos/",
+   "publicado": "2026-08-27T14:35:07+00:00",
+   "tickers": [
+    "BTLG11"
+   ],
+   "resumo": "O BTLG11 (BTG Pactual Logística Fundo de Investimento Imobiliário) concluiu, nesta quarta-feira (26), a compra de um imóvel logístico em Guarulhos (SP) por R$ 375 milhões. Denominado BTLG Guarulhos I, o ativo soma 95.348 metros quadrados de área bruta locável, está 100% locado e "
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Estrangeiros aportam R$ 1,3 bilhão em ações na B3 em 25 de agosto, e acumulam saldo de R$ 16,4 bilhões em 2026",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/08/27/estrangeiros-aportam-r-13-bilho-em-aes-na-b3-em-25-de-agosto-e-acumulam-saldo-de-r-164-bilhes-em-2026.ghtml",
+   "publicado": "2026-08-27T14:31:10+00:00",
+   "tickers": [],
+   "resumo": "Os investidores estrangeiros aportaram R$ 1,3 bilhão em ações da B3 no pregão de 25 de agosto, quando o Ibovespa subiu 1,61%. Com isso, a categoria acumula saldo negativo de R$ 20 bilhões no mês. No ano, porém, os estrangeiros mantêm saldo positivo de R$ 16,4 bilhões. \nNo mesmo d"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Por que o Google perdeu US$ 700 bilhões em valor de mercado desde maio",
+   "url": "https://investnews.com.br/negocios/por-que-o-google-perdeu-us-700-bilhoes-em-valor-de-mercado-desde-maio/",
+   "publicado": "2026-08-27T14:28:08+00:00",
+   "tickers": [],
+   "resumo": "Durante boa parte do último ano, a Alphabet, controladora do Google, foi a ação de Big Tech a ser batida, à medida que os investidores apostavam que a empresa seria a principal vencedora do boom da inteligência artificial. As ações da Alphabet atingiram máxima histórica em 13 de "
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Votorantim vende Nexa em  troca de ações de US$ 1,3 bi com Boliden",
+   "url": "https://braziljournal.com/votorantim-vende-nexa-em-troca-de-acoes-de-us-13-bi-com-boliden/",
+   "publicado": "2026-08-27T14:18:19+00:00",
+   "tickers": [],
+   "resumo": "Depois de anos de conversas, a Votorantim chegou a um acordo para vender sua participação de 64,7% na Nexa – uma produtora de zinco, cobre e chumbo com operações no Brasil e no Peru – para a sueca Boliden. A operação será feita por meio de troca de ações, e a Votorantim se tornar"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "HGRU11 detalha oferta bilionária de cotas; entenda como funciona",
+   "url": "https://www.suno.com.br/noticias/hgru11-7a-emissao-preco-12820/",
+   "publicado": "2026-08-27T13:35:07+00:00",
+   "tickers": [
+    "HGRU11"
+   ],
+   "resumo": "O fundo imobiliário HGRU11 definiu as condições de sua 7ª emissão de cotas, com montante inicial de até R$ 1,1 bilhão. A oferta prevê a distribuição de 8.580.343 novas cotas a R$ 128,20 cada e será direcionada exclusivamente a investidores profissionais. Sobre o preço de emissão "
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Petrobras fará resgate antecipado de US$ 1 bilhão em títulos com vencimento em 2028",
+   "url": "https://investnews.com.br/negocios/petrobras-fara-resgate-antecipado-de-us-1-bilhao-em-titulos-com-vencimento-em-2028/",
+   "publicado": "2026-08-27T13:27:15+00:00",
+   "tickers": [],
+   "resumo": "Petrobras antecipará pagamento de títulos com vencimento em janeiro de 2028; liquidação está prevista para setembro"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Habib’s em recuperação judicial: entenda os motivos e o que muda",
+   "url": "https://www.suno.com.br/noticias/recuperacao-judicial-habibs-o-que-muda-go/",
+   "publicado": "2026-08-27T13:00:00+00:00",
+   "tickers": [],
+   "resumo": "Habib&#8217;s em recuperação judicial: entenda os motivos e o que mudaA Justiça de São Paulo aceitou o pedido de recuperação judicial do Grupo Gennius, dono da marca Habib&#8217;s. No documento protocolado, a companhia lista dívidas de R$ 265,2 milhões e reúne no processo 178 emp"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Unilever venderá marca de mostarda após acordo com a McCormick",
+   "url": "https://investnews.com.br/negocios/unilever-vendera-marca-de-mostarda-colmans-apos-acordo-com-mccormick/",
+   "publicado": "2026-08-27T12:47:27+00:00",
+   "tickers": [],
+   "resumo": "O acordo com a McCormick inclui marcas importantes da Unilever, como a maionese Hellmann’s e os cubos de caldo Knorr"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Ações da Nvidia saltam após companhia mais valiosa do mundo dobrar lucro e receita",
+   "url": "https://valorinveste.globo.com/produtos/investimento-no-exterior/noticia/2026/08/27/acoes-da-nvidia-saltam-apos-companhia-mais-valiosa-do-mundo-dobrar-lucro-e-receita.ghtml",
+   "publicado": "2026-08-27T12:38:49+00:00",
+   "tickers": [],
+   "resumo": "As ações da companhia de inteligência artificial Nvidia saltavam nesta quinta-feira (27), em Nova York, após a empresa mais valiosa do mundo divulgar o seu balanço. A companhia superou as expectativas dos analistas e projetou também um forte aumento de receita. Os papéis disparav"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "PMLL11 avança 82% no resultado de julho e negocia com desconto; entenda",
+   "url": "https://www.suno.com.br/noticias/rendimentos-do-pmll11-sobem-82/",
+   "publicado": "2026-08-27T12:35:05+00:00",
+   "tickers": [
+    "PMLL11"
+   ],
+   "resumo": "O fundo imobiliário PMLL11 reportou resultado distribuível de R$ 22,162 milhões em julho de 2026, avanço de 82% em relação ao mês anterior. O desempenho reflete receitas totais de R$ 24,583 milhões, equivalentes a R$ 1,76 por cota, frente a despesas de R$ 2,421 milhões no período"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Ibovespa sobe com Petrobras e IA impulsiona bolsas de NY; dólar avança",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/08/27/dolar-e-ibovespa-hoje-27-de-agosto-de-2026.ghtml",
+   "publicado": "2026-08-27T12:22:24+00:00",
+   "tickers": [
+    "PETR3",
+    "PETR4"
+   ],
+   "resumo": "O Ibovespa, principal índice de ações brasileiras, passou a subir no início da tarde desta quinta-feira (27). A alta das ações da Petrobras (PETR3, PETR4) impulsiona o índice em meio a uma nova valorização do preço do petróleo internacional. Ataques a navios petroleiros continuam"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Desemprego cai para 5,3% no trimestre até julho",
+   "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/08/27/desemprego-cai-para-53percent-no-trimestre-ate-julho.ghtml",
+   "publicado": "2026-08-27T12:20:12+00:00",
+   "tickers": [],
+   "resumo": "A taxa de desemprego no país foi de 5,3% no trimestre móvel encerrado em julho. O resultado ficou abaixo do verificado no trimestre móvel anterior encerrado em abril (5,8%) e abaixo do resultado de igual período de 2025 (5,6%), mostrou a Pesquisa Nacional por Amostra de Domicílio"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Shein já valeu US$ 100 bilhões. Agora, IPO reduz valor para US$ 26 bilhões",
+   "url": "https://investnews.com.br/negocios/shein-levanta-us-17-bilhao-em-ipo-e-vale-us-26-bilhoes-em-hong-kong/",
+   "publicado": "2026-08-27T12:09:55+00:00",
+   "tickers": [],
+   "resumo": "Valor da Shein fica bem abaixo dos cerca de US$ 100 bilhões registrados quatro anos atrás"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Quem tem direito de participar dos debates presidenciais das Eleições 2026?",
+   "url": "https://investnews.com.br/economia/direito-participacao-debates-presidenciais/",
+   "publicado": "2026-08-27T11:51:52+00:00",
+   "tickers": [],
+   "resumo": "Regras dos debates presidenciais garantem espaço a candidatos com representação partidária no Congresso"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Criptos sob ameaça quântica? Desenvolvedores testam novas blindagens para bitcoin e ethereum",
+   "url": "https://investnews.com.br/tecnologia/criptos-sob-ameaca-quantica-desenvolvedores-testam-novas-blindagens-para-bitcoin-e-ethereum/",
+   "publicado": "2026-08-27T11:33:43+00:00",
+   "tickers": [],
+   "resumo": "Projetos buscam fechar brechas de segurança em transações e staking antes que a nova tecnologia se torne uma ameaça real para o setor"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Oncoclínicas (ONCO3), Petrobras (PETR4), Braskem (BRKM5), Caixa e mais: Veja os destaques das empresas",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/08/27/oncoclinicas-onco3-petrobras-petr4-braskem-brkm5-caixa-e-mais-veja-os-destaques-das-empresas.ghtml",
+   "publicado": "2026-08-27T11:18:22+00:00",
+   "tickers": [
+    "BRKM5",
+    "ONCO3",
+    "PETR4"
+   ],
+   "resumo": "Oncoclínicas\nA Oncoclínicas apresentou o plano de recuperação extrajudicial, que prevê um desconto (“haircut”) de até 80% do valor da dívida, sem conversão em participação. A expectativa é que, dependendo da opção de pagamento escolhida pelos credores, o desconto médio a valor pr"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Taxa de desemprego, entrevistas dos presidenciáveis e resultado da Nvidia estão no foco",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/08/27/taxa-de-desemprego-entrevistas-dos-presidenciaveis-e-resultado-da-nvidia-estao-no-foco.ghtml",
+   "publicado": "2026-08-27T11:08:48+00:00",
+   "tickers": [],
+   "resumo": "Os investidores monitoram nesta quinta-feira (27) a taxa de desemprego de julho da Pesquisa Nacional por Amostra de Domicílios (Pnad) Contínua, em busca de indicações sobre o mercado de trabalho e, consequentemente, sobre a inflação e os juros. Além disso, o noticiário político c"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Votorantim vende controle da mineradora Nexa em negócio de US$ 1,3 bilhão",
+   "url": "https://investnews.com.br/negocios/votorantim-vende-nexa-zinco-boliden/",
+   "publicado": "2026-08-27T10:22:09+00:00",
+   "tickers": [],
+   "resumo": "Grupo dos Ermírio de Moraes receberá 7% da compradora, a mineradora europeia Boliden, tornando-se a maior acionista da empresa sueca"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Pix no exterior: o que os brasileiros realmente usam para pagar fora do país?",
+   "url": "https://valorinveste.globo.com/produtos/servicos-financeiros/noticia/2026/08/27/pix-no-exterior-o-que-os-brasileiros-realmente-usam-para-pagar-fora-do-pais.ghtml",
+   "publicado": "2026-08-27T09:55:18+00:00",
+   "tickers": [],
+   "resumo": "O brasileiro que lê um QR Code numa viagem a Portugal, França ou Uruguai não está, tecnicamente, usando o Pix. O sistema de pagamentos instantâneos criado pelo Banco Central continua restrito a quem tem conta bancária no Brasil. O que funciona no exterior é uma integração entre i"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Agentes de IA poderão movimentar seu dinheiro? Tecnologia começa a se encontrar com o mundo cripto",
+   "url": "https://valorinveste.globo.com/mercados/cripto/noticia/2026/08/27/agentes-de-ia-poderao-movimentar-seu-dinheiro-tecnologia-comeca-a-se-encontrar-com-o-mundo-cripto.ghtml",
+   "publicado": "2026-08-27T09:51:48+00:00",
+   "tickers": [],
+   "resumo": "A inteligência artificial pode estar prestes a dar um grande passo dentro do mercado financeiro: deixar de apenas responder perguntas e passar a movimentar dinheiro em nome do usuário. E ainda: esse avanço começa a se cruzar com a criptoeconomia, universo que ainda pode parecer u"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "É bolha ou só 'sabor bolha'?",
+   "url": "https://valorinveste.globo.com/blogs/vera-rita-de-mello-ferreira/coluna/e-bolha-ou-so-sabor-bolha.ghtml",
+   "publicado": "2026-08-27T09:50:16+00:00",
+   "tickers": [],
+   "resumo": "- o jeito mais fácil de entender essa 'trend' (que, no meu tempo, seria 'onda'...), é pedir para um adolescente te explicar...\n- mas se refere a essa degradação nutricional que, para baratear um produto, retira-se seu ingrediente bacana, substitui por alguma porcaria de baixo cus"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "IRB, seis anos depois",
+   "url": "https://valorinveste.globo.com/blogs/fabio-coelho/coluna/irb-seis-anos-depois.ghtml",
+   "publicado": "2026-08-27T09:40:16+00:00",
+   "tickers": [],
+   "resumo": "Em março de 2020, quando avaliei o caso IRB pela primeira vez em um documento da Amec, a crise ainda estava em curso. A companhia havia se tornado uma das poucas grandes empresas brasileiras com capital pulverizado e enfrentava um conflito pouco usual por aqui, envolvendo acionis"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Como distorcer incentivos econômicos",
+   "url": "https://valorinveste.globo.com/blogs/claudio-de-moraes/coluna/como-distorcer-incentivos-economicos.ghtml",
+   "publicado": "2026-08-27T09:30:16+00:00",
+   "tickers": [],
+   "resumo": "Um dos grandes avanços da economia contemporânea, particularmente da teoria dos contratos, diz respeito ao poder dos incentivos. Não é exatamente minha área de especialização, pois trabalho com macroeconomia e banking, mas a ideia é relativamente simples. Boa parte das relações e"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "O país que agora tem o maior superávit comercial com os EUA é… o Vietnã",
+   "url": "https://investnews.com.br/the-wall-street-journal/o-pais-que-agora-tem-o-maior-superavit-comercial-com-os-eua-e-o-vietna/",
+   "publicado": "2026-08-27T09:04:00+00:00",
+   "tickers": [],
+   "resumo": "As tarifas de Trump ajudaram o Vietnã a superar México e China e assumir o maior superávit comercial com os Estados Unidos"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Como as telas que vemos nas ruas viraram um negócio bilionário disputado por grandes grupos de mídia",
+   "url": "https://investnews.com.br/negocios/telas-nas-ruas-negocio-bilionario/",
+   "publicado": "2026-08-27T09:00:00+00:00",
+   "tickers": [],
+   "resumo": "Empresas de mídia out-of-home (OOH) negociam bilhões para anúncios em relógios de rua, elevadores, aeroportos e shoppings"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Mega-Sena 3050 sorteia prêmio de R$ 25 milhões hoje; veja como apostar e fazer bolão",
+   "url": "https://valorinveste.globo.com/loterias/noticia/2026/08/27/mega-sena-3050-sorteia-premio-de-r-25-milhoes-hoje-veja-como-apostar-e-fazer-bolao.ghtml",
+   "publicado": "2026-08-27T03:00:17+00:00",
+   "tickers": [],
+   "resumo": "A Mega-Sena 3050 sorteia um prêmio estimado em R$ 25 milhões nesta quinta-feira (27), a partir das 21h (horário de Brasília), em São Paulo.\nVEJA TAMBÉM: \n- Os números mais sorteados na história Mega-Sena\nNos concursos realizados às terças e quintas-feiras, as apostas podem ser fe"
   },
   {
    "fonte": "Brazil Journal",
@@ -45,57 +473,20 @@
    "resumo": "Até a esfiha azeda com essa Selic. Dois meses depois de entrar com uma cautelar contra os credores, o Grupo Gennius – dono das marcas Habib’s, Ragazzo e Tendal – entrou em recuperação judicial listando R$ 265,2 milhões em dívidas. O pedido foi feito no domingo e foi deferido onte"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Tesoura maior: XP muda projeções para Selic em 2026; veja como ficaram os números",
-   "url": "https://www.moneytimes.com.br/tesoura-maior-xp-ve-selic-menor-para-2026-veja-como-ficou-numeros-rnda/",
-   "publicado": "2026-08-26T23:01:13+00:00",
-   "tickers": [],
-   "resumo": "Em meio a uma série de más notícias no noticiário econômico, a XP vê um &#8216;respiro&#8217; maior nas altas taxas de juros no Brasil. A corretora cortou a projeção da Selic em 2026 de 14% para 13,25%. Segundo o economista Caio Megale, da XP Investimentos, a inflação deverá vir "
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "IFIX fecha quarta-feira em ligeira queda, aos 3.697,78 pontos",
-   "url": "https://www.suno.com.br/noticias/ifix-fecha-quarta-feira-em-ligeira-queda-aos-3-69778-pontos/",
-   "publicado": "2026-08-26T22:45:05+00:00",
-   "tickers": [],
-   "resumo": "O IFIX encerrou o pregão desta quarta-feira (26) aos 3.697,78 pontos, em queda de 0,08%. O movimento representou recuo de 2,93 pontos ante o fechamento anterior, de 3.700,71 pontos, mantendo o índice de fundos imobiliários próximo do patamar de 3,7 mil pontos ao fim da sessão. O "
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "BB (BBAS3) sai, Suzano (SUZB3) entra: Morgan Stanley escala ações para passar por piora de Brasil",
-   "url": "https://www.moneytimes.com.br/bb-bbas3-sai-suzano-suzb3-entra-veja-quais-acoes-o-morgan-stanley-escala-para-passar-pela-piora-de-brasil-apsa/",
-   "publicado": "2026-08-26T22:29:36+00:00",
-   "tickers": [
-    "BBAS3",
-    "SUZB3"
-   ],
-   "resumo": "De olho nas incertezas quanto às eleições de outubro, o Morgan Stanley adotou uma postura mais defensiva na sua carteira de alocação no Brasil. Diante disso, o banco incluiu a ação da Suzano (SUZB3) para aumentar a exposição a empresas que geram receitas em dólares, como uma form"
-  },
-  {
    "fonte": "InvestNews",
-   "titulo": "FIDCs da Casas Bahia ofereciam retornos de até CDI+30% ao ano – e tiveram crescimento acelerado em meio à crise",
+   "titulo": "FIDCs da Casas Bahia ofereciam retornos de até CDI+30% ao ano – e dobraram captação na crise",
    "url": "https://investnews.com.br/investimentos/fidcs-da-casas-bahia-ofereciam-retornos-de-ate-cdi30-ao-ano-e-tiveram-crescimento-acelerado-em-meio-a-crise/",
    "publicado": "2026-08-26T22:19:41+00:00",
    "tickers": [],
-   "resumo": "Os maiores fundos de direitos creditórios ligados à varejista têm R$ 1,4 bilhão a receber – e agora têm a recuperação judicial pela frente"
+   "resumo": "Os maiores fundos de direitos creditórios ligados à varejista têm R$ 1,4 bilhão a receber – e agora a recuperação judicial"
   },
   {
    "fonte": "InvestNews",
-   "titulo": "Até onde vai a Nvidia?  Empresa prevê que vendas alimentadas por IA se estendem até 2028",
+   "titulo": "Até onde vai a Nvidia?  Empresa prevê que boom de IA vai alimentar vendas pelo menos até 2028",
    "url": "https://investnews.com.br/negocios/ate-onde-vai-a-nvidia/",
    "publicado": "2026-08-26T22:16:42+00:00",
    "tickers": [],
    "resumo": "Papéis da fabricante de chips subiram mais de 4% após CFO da empresa citar aceleração da demanda por IA"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "SNAG11 gera R$ 11,5 milhões em julho; Fiagro se aproxima de 140 mil cotistas",
-   "url": "https://www.suno.com.br/noticias/snag11-gera-r-115-milhoes-em-julho-fiagro-se-aproxima-de-140-mil-cotistas/",
-   "publicado": "2026-08-26T22:05:04+00:00",
-   "tickers": [
-    "SNAG11"
-   ],
-   "resumo": "O fiagro SNAG11 manteve em julho a distribuição de R$ 0,12 por cota, em linha com a geração de resultados da carteira no período. O resultado mensal somou R$ 0,129 por cota, montante suficiente para sustentar o pagamento aos investidores e, ao mesmo tempo, reforçar a reserva de r"
   },
   {
    "fonte": "Brazil Journal",
@@ -104,40 +495,6 @@
    "publicado": "2026-08-26T22:00:12+00:00",
    "tickers": [],
    "resumo": "CAMBRIDGE, Massachusetts – Lito Sousa conseguiu nas últimas semanas o feito raro de unir um País polarizado em torno de uma causa – ainda que por um motivo triste. Conhecido na internet por seu conteúdo técnico sobre aviação, o influenciador de 59 anos vem há meses passando por u"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "SNFZ11 conclui compra de três fazendas no Mato Grosso e alcança 16 mil cotistas",
-   "url": "https://www.suno.com.br/noticias/snfz11-conclui-compra-de-tres-fazendas-no-mato-grosso-e-alcanca-16-mil-cotistas/",
-   "publicado": "2026-08-26T21:55:04+00:00",
-   "tickers": [
-    "SNFZ11"
-   ],
-   "resumo": "O SNFZ11 (Suno Fazendas) concluiu, em julho, a compra de três propriedades rurais no Mato Grosso, ampliando sua exposição ao mercado de terras agrícolas. Com as novas aquisições, o portfólio passou a contar com seis fazendas e três CRAs, somando nove ativos sob gestão. As fazenda"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Mais um bancão gringo rebaixa recomendação de ações brasileiras — e o risco Brasil segue no radar",
-   "url": "https://www.moneytimes.com.br/mais-um-bancao-gringo-rebaixa-recomendacao-de-acoes-brasileiras-apsa/",
-   "publicado": "2026-08-26T21:42:57+00:00",
-   "tickers": [],
-   "resumo": "O Morgan Stanley passou a enxergar com mais cautela a relação entre risco e retorno no mercado brasileiro Brasil. Fatores como a desaceleração econômica doméstica, as preocupações fiscais persistente e o aumento da incerteza em relação à continuidade das políticas elevando os ris"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Relatório da OpenAI afirma que rede da empresa foi invadida por seus próprios agentes de IA rebeldes",
-   "url": "https://www.moneytimes.com.br/relatorio-da-openai-afirma-que-rede-da-empresa-foi-invadida-por-seus-proprios-agentes-de-ia-rebeldes-pads/",
-   "publicado": "2026-08-26T21:35:27+00:00",
-   "tickers": [],
-   "resumo": "Agentes de IA criados pela OpenAI invadiram os próprios sistemas da empresa durante testes internos e, em alguns casos, tentaram ocultar seu comportamento, informou a empresa em um relatório publicado nesta quarta-feira (26). Essas descobertas provavelmente intensificarão as preo"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Ibovespa fica no zero a zero aos 174 mil pontos com inflação no Brasil e nos EUA",
-   "url": "https://www.suno.com.br/noticias/ibovespa-hoje-26-agosto-2026-ipca15-pce-mt/",
-   "publicado": "2026-08-26T21:35:05+00:00",
-   "tickers": [],
-   "resumo": "O Ibovespa praticamente não saiu do lugar nesta quarta-feira (26), dividido entre uma inflação mais favorável no Brasil e sinais de preços ainda pressionados nos Estados Unidos. O principal índice da B3 fechou em leve alta de 0,01%, aos 174.586,26 pontos, garantindo o sexto pregã"
   },
   {
    "fonte": "Valor Investe",
@@ -172,38 +529,12 @@
    "resumo": "As chamadas stablecoins, criptoativos lastreados a moedas fiduciárias, como dólar e real, começam a avançar para além do investimento em criptos e ganham espaço como uma infraestrutura para pagamentos e transferências internacionais. Esse movimento foi destacado por representante"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Radar das Eleições: Debates perdem força nas eleições e PSDB enfrenta crise de identidade",
-   "url": "https://www.moneytimes.com.br/radar-das-eleicoes-debates-perdem-forca-nas-eleicoes-e-psdb-enfrenta-crise-de-identidade-gaep/",
-   "publicado": "2026-08-26T21:07:45+00:00",
-   "tickers": [],
-   "resumo": "A ascensão das redes sociais e a consolidação da polarização entre lulismo e bolsonarismo reduziram a um segundo plano os tradicionais debates entre candidatos, nas eleições presidenciais. Esse foi o ponto central da quinta edição do Radar das Eleições, que tratou também sobre a "
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Oncoclínicas (ONCO3): CVM exige OPA bilionária, mas preço ainda é incógnita",
-   "url": "https://www.suno.com.br/noticias/opa-da-oncoclinicas-onco3-cvm-6-bilhoes-mt/",
-   "publicado": "2026-08-26T21:05:07+00:00",
-   "tickers": [
-    "ONCO3"
-   ],
-   "resumo": "A decisão que fez as ações saltarem também abriu uma lista de perguntas. A Comissão de Valores Mobiliários (CVM) concluiu que é obrigatória a OPA da Oncoclínicas, operação pela qual um investidor apresenta uma proposta pública para comprar ações dos demais acionistas por preço e "
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Mais um: Habib’s entra em recuperação judicial. A dívida? R$ 265 milhões",
    "url": "https://investnews.com.br/negocios/habibs-recuperacao-judicial-divida-265-milhoes/",
    "publicado": "2026-08-26T21:03:22+00:00",
    "tickers": [],
    "resumo": "Pedido de recuperação judicial do Habib’s foi aceito pela Justiça de São Paulo; grupo diz que restaurantes seguem funcionando normalmente"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Nvidia (NVDA) supera expectativas e projeta receita de US$ 108 bilhões; resultado veio forte, diz estrategista",
-   "url": "https://www.moneytimes.com.br/nvidia-nvda-supera-expectativas-e-projeta-receita-de-us-108-bilhoes-resultado-veio-forte-diz-estrategista/",
-   "publicado": "2026-08-26T20:53:24+00:00",
-   "tickers": [],
-   "resumo": "A Nvidia (NVDA) apresentou resultados acima das expectativas do mercado no segundo trimestre do ano fiscal de 2027, reforçando a força da demanda por infraestrutura de inteligência artificial, segundo análise de William Castro Alves, estrategista-chefe da Avenue. A companhia regi"
   },
   {
    "fonte": "Valor Investe",
@@ -230,22 +561,6 @@
    "resumo": "A manhã começou com o tipo de notícia que o investidor local vinha pedindo. O IPCA-15 recuou 0,4% em agosto, bem mais do que o mercado esperava, e devolveu ao Banco Central um pouco de conforto para seguir analisando a trajetória dos juros. \nO Ibovespa subiu firme na abertura e, "
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Mais uma empresa em recuperação judicial; dívidas chegam a R$ 265 milhões",
-   "url": "https://www.moneytimes.com.br/mais-uma-empresa-em-recuperacao-judicial-dividas-chegam-a-r-265-milhoes/",
-   "publicado": "2026-08-26T20:33:56+00:00",
-   "tickers": [],
-   "resumo": "A lista de empresas que entraram em recuperação judicial ganhou mais um nome: o Grupo Gennius, que controla as redes Habib&#8217;s e Ragazzo. Com dívidas de R$ 265 milhões, a medida foi deferida pela 1ª Vara de Falências e Recuperações Judiciais de São Paulo e envolve 178 empresa"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Em almoço, Lula pede a Motta e Alcolumbre pauta de votação com fim da ‘taxa das blusinhas’ e da escala 6×1",
-   "url": "https://www.moneytimes.com.br/lula-pedi-a-hugo-e-alcolumbre-para-definir-as-coisas-importantes-na-pauta-da-camara-e-senado-gaep/",
-   "publicado": "2026-08-26T20:31:46+00:00",
-   "tickers": [],
-   "resumo": "O presidente Luiz Inácio Lula da Silva (PT) disse que pactuou, junto dos presidentes da Câmara, Hugo Motta (Republicanos-PB), e do Senado, Davi Alcolumbre (União Brasil-AP), assuntos importantes e as pautas prioritárias para serem votados no Legislativo, durante almoço com os líd"
-  },
-  {
    "fonte": "Brazil Journal",
    "titulo": "EXCLUSIVO: Cemig terá novo CEO (depois de apenas três meses)",
    "url": "https://braziljournal.com/exclusivo-cemig-tera-novo-ceo-depois-de-apenas-tres-meses/",
@@ -262,16 +577,6 @@
    "resumo": "Mudança amplia a integração entre as companhias e dá à Gol a gestão comercial dos produtos da Avianca no país"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "Banco Pine (PINE4) afunda 20%, mas analistas enxergam alta de 38%",
-   "url": "https://www.suno.com.br/noticias/banco-pine-pine4-cai-potencial-alta-safra-mt/",
-   "publicado": "2026-08-26T19:35:00+00:00",
-   "tickers": [
-    "PINE4"
-   ],
-   "resumo": "Banco Pine (PINE4) afunda 20%, mas analistas enxergam alta de 38%Uma queda de 20% em apenas um mês costuma acender o sinal vermelho, mas, desta vez, o Safra vê uma porta de entrada. Mesmo após o tombo das ações do Banco Pine, a instituição manteve a recomendação de compra para PI"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Inclusão financeira não ocorreu com qualidade no país, diz Acrefi",
    "url": "https://valorinveste.globo.com/produtos/credito/noticia/2026/08/26/inclusao-financeira-nao-ocorreu-com-qualidade-no-pais-diz-acrefi.ghtml",
@@ -286,14 +591,6 @@
    "publicado": "2026-08-26T18:49:22+00:00",
    "tickers": [],
    "resumo": "Credores que representam 39,6% da dívida da Braskem aderiram ao plano de recuperação extrajudicial da empresa"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "SpaceX (SPCX) leva Starship à Louisiana com megacomplexo de US$ 100 bilhões",
-   "url": "https://www.suno.com.br/noticias/spacex-spcx-complexo-starship-louisiana-100-bilhoes-mt/",
-   "publicado": "2026-08-26T18:37:00+00:00",
-   "tickers": [],
-   "resumo": "SpaceX (SPCX) leva Starship à Louisiana com megacomplexo de US$ 100 bilhõesA SpaceX (SPCX) escolheu uma nova pista para acelerar seus planos de chegar à Lua, a Marte e muito além. A companhia anunciou um investimento de US$ 100 bilhões na construção da Starbase Louisiana, complex"
   },
   {
    "fonte": "InvestNews",
@@ -320,16 +617,6 @@
    "resumo": "Depois de comprar SIATT, Condor e Akaer, EDGE Group entra agora como sócio de um centro do próprio Exército"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "Nvidia (NVDC34) encara o teste dos US$ 92 bilhões; veja o que esperar do balanço",
-   "url": "https://www.suno.com.br/noticias/balanco-da-nvidia-nvdc34-resultados-expectativas-mt/",
-   "publicado": "2026-08-26T17:35:00+00:00",
-   "tickers": [
-    "NVDC34"
-   ],
-   "resumo": "Nvidia (NVDC34) encara o teste dos US$ 92 bilhões; veja o que esperar do balançoA régua está alta até para a maior estrela da inteligência artificial. A Nvidia (BDR: NVDC34) divulga nesta quarta-feira (26) seu resultado do segundo trimestre fiscal de 2027, e o balanço da Nvidia t"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "CVM multa Infinite Trade em R$ 3,9 milhões por oferta irregular",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/08/26/cvm-multa-infinite-trade-em-r-39-milhoes-por-oferta-irregular.ghtml",
@@ -344,16 +631,6 @@
    "publicado": "2026-08-26T16:58:34+00:00",
    "tickers": [],
    "resumo": "O BTG Pactual iniciou a cobertura de Unipar com recomendação ‘neutra’ e um preço-alvo de R$ 68 – reconhecendo que o negócio tem se tornado cada vez mais resiliente, mas com a ação já precificada de forma justa.  O preço-alvo representa um upside potencial de 19% em relação ao pre"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Hapvida (HAPV3) passa a tesoura na dívida e corta R$ 322,6 milhões",
-   "url": "https://www.suno.com.br/noticias/hapvida-hapv3-reduz-divida-recompra-debentures-hedge-mt/",
-   "publicado": "2026-08-26T16:55:05+00:00",
-   "tickers": [
-    "HAPV3"
-   ],
-   "resumo": "A Hapvida (HAPV3) encontrou uma maneira de pagar menos para dever menos. A dívida da Hapvida foi reduzida em R$ 322,6 milhões após a companhia recomprar debêntures e antecipar a liquidação de uma operação de hedge, ambas negociadas com desconto médio de 23%. A operação prevê o de"
   },
   {
    "fonte": "InvestNews",
@@ -531,60 +808,12 @@
    "resumo": "Recentemente li uma entrevista de um importante executivo da OpenAI, e o conteúdo conectou-se diretamente com algo sobre o qual venho refletindo — e que inclusive coloco como uma das espinhas dorsais para minha empresa para os próximos anos.\nAo falar sobre a expansão da inteligên"
   },
   {
-   "fonte": "Brazil Journal",
-   "titulo": "AI precisa de um ‘iPhone moment’, diz Sam Altman",
-   "url": "https://braziljournal.com/ai-precisa-de-um-iphone-moment-diz-sam-altman/",
-   "publicado": "2026-08-26T09:50:13+00:00",
-   "tickers": [],
-   "resumo": "Sam Altman é, por definição, alguém extremamente exposto aos avanços da inteligência artificial, mas trabalha no computador, do mesmo jeito, há 20 anos. A AI ainda não conseguiu mudar isso.  “Estamos em um mundo com todo avanço tecnológico, mas ainda não tivemos o ‘iPhone moment’"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Como a Crocs transformou uma dor momentânea em ganho de longo prazo",
-   "url": "https://investnews.com.br/the-wall-street-journal/como-a-crocs-transformou-uma-dor-momentanea-em-ganho-de-longo-prazo/",
-   "publicado": "2026-08-26T09:03:00+00:00",
-   "tickers": [],
-   "resumo": "A Crocs sofreu um impacto nas vendas ao reduzir os descontos mesmo em meio ao excesso de estoque, mas agora voltou a crescer"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Serra Verde: como o apoio bilionário dos EUA viabiliza a única mina comercial de terras raras no Brasil",
-   "url": "https://investnews.com.br/negocios/serra-verde-eua-terras-raras-eua/",
-   "publicado": "2026-08-26T09:00:00+00:00",
-   "tickers": [],
-   "resumo": "Acordo prevê preços mínimos e compra de toda a produção da primeira fase por 15 anos; aquisição será decidida nesta sexta (28)"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "CVM decide que haverá OPA bilionária na Oncoclínicas e caso deve ir para arbitragem",
-   "url": "https://investnews.com.br/negocios/cvm-decide-opa-oncoclinicas-onco3/",
-   "publicado": "2026-08-26T00:59:57+00:00",
-   "tickers": [],
-   "resumo": "Colegiado contrariou a área técnica por 3 a 0; gestora americana Centaurus contesta e diz que disputa cabe à arbitragem da B3"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Do piloto à prateleira: bancos avançam na tokenização de produtos, mas escala ainda é desafio",
    "url": "https://valorinveste.globo.com/produtos/servicos-financeiros/noticia/2026/08/25/do-piloto-a-prateleira-bancos-avancam-na-tokenizacao-de-produtos-mas-escala-ainda-e-desafio.ghtml",
    "publicado": "2026-08-25T22:39:19+00:00",
    "tickers": [],
    "resumo": "Depois de anos de testes e projetos-piloto, a tokenização de ativos começa a enfrentar um novo desafio no sistema financeiro: sair dos laboratórios de inovação e ganhar escala, com produtos que façam sentido para os clientes. Para isso, os bancos ainda precisam avançar em questõe"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "Prisma coloca Origem Energia à venda",
-   "url": "https://braziljournal.com/prisma-coloca-origem-energia-a-venda/",
-   "publicado": "2026-08-25T22:11:11+00:00",
-   "tickers": [],
-   "resumo": "A Prisma Capital está avançando em um processo para vender a Origem Energia, uma junior oil que nos últimos anos se tornou uma das maiores produtoras independentes de gás do País. A gestora de ativos alternativos de Marcelo Hallack, João Mendes e Lucas Canhoto entrou na companhia"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "Pemex e PIBinho colocam em risco o ‘investment grade’ do México",
-   "url": "https://braziljournal.com/pemex-e-pibinho-colocam-em-risco-o-investment-grade-do-mexico/",
-   "publicado": "2026-08-25T22:05:10+00:00",
-   "tickers": [],
-   "resumo": "Com gastos públicos em alta e crescimento econômico medíocre, o México está próximo de perder o grau de investimento – e uma das razões para isso são as recorrentes capitalizações que o Governo tem feito na Pemex.  Segundo a Bloomberg, nos últimos dois anos o Governo da esquerdis"
   },
   {
    "fonte": "Valor Investe",
@@ -610,14 +839,6 @@
    "resumo": "O mercado brasileiro ganhou nesta terça-feira (25) uma combinação que costuma ser muito bem recebida pela bolsa: juros em queda, ações ligadas à economia doméstica em alta e os primeiros sinais de que o estrangeiro pode estar voltando a comprar.\nO Ibovespa avançou 1,5% na sessão "
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Petróleo cai 5% com relatos de avanço em cessar-fogo entre Estados Unidos e Irã",
-   "url": "https://investnews.com.br/economia/petroleo-cai-5-com-relatos-de-avanco-em-cessar-fogo-entre-estados-unidos-e-ira/",
-   "publicado": "2026-08-25T20:13:33+00:00",
-   "tickers": [],
-   "resumo": "Petróleo Brent cai 5% e vai a US$ 85,99; avanço entre Estados e Irã reduz risco sobre oferta via Ormuz"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Investimentos serão democratizados com empurrão da inteligência artificial, diz Gorila",
    "url": "https://valorinveste.globo.com/objetivo/hora-de-investir/noticia/2026/08/25/investimentos-serao-democratizados-com-empurrao-da-inteligencia-artificial-diz-gorila.ghtml",
@@ -626,230 +847,12 @@
    "resumo": "A inteligência artificial (IA) é a tecnologia que vai mais impulsionar a democratização dos investimentos para as pessoas físicas no Brasil, conforme Guilherme Assis, CEO e cofundador do consolidador de investimentos Gorila. Na análise dele, a inteligência artificial ajuda a esca"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Como a recuperação extrajudicial da Braskem afeta a Petrobras",
-   "url": "https://investnews.com.br/negocios/como-a-recuperacao-extrajudicial-da-braskem-afeta-a-petrobras/",
-   "publicado": "2026-08-25T19:55:56+00:00",
-   "tickers": [],
-   "resumo": "A Petrobras tem resistido a se comprometer com uma injeção direta de capital nos termos exigidos pelos credores"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Amazon reajusta preços de Kindle e Alexa no Brasil. Veja quanto fica",
-   "url": "https://investnews.com.br/financas/amazon-precos-kindle-alexa-aumento/",
-   "publicado": "2026-08-25T19:45:00+00:00",
-   "tickers": [],
-   "resumo": "Amazon aumentou preços de parte de seus dispositivos no Brasil e reajuste passa de 50% em alguns casos"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Oi tem falência mantida pela Justiça do Rio",
-   "url": "https://investnews.com.br/negocios/oi-tem-falencia-mantida-pela-justica-do-rio/",
-   "publicado": "2026-08-25T19:03:17+00:00",
-   "tickers": [],
-   "resumo": "A 1ª Câmara de Direito Privado do TJ-RJ negou os recursos dos bancos e nomeou três administradores judiciais para gerir a falência da operadora"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Atenção, consumidor! Contas de empresas são novo alvo de fraudes financeiras",
    "url": "https://valorinveste.globo.com/produtos/servicos-financeiros/noticia/2026/08/25/atencao-consumidor-contas-de-empresas-sao-novo-alvo-de-fraudes-financeiras.ghtml",
    "publicado": "2026-08-25T18:35:55+00:00",
    "tickers": [],
    "resumo": "As fraudes financeiras migraram das pessoas físicas para as empresas, após as contas das pessoas físicas serem mais protegidas. Nos últimos 12 meses, as infrações nas contas das companhias aumentaram de 31% para 56%, superando as das pessoas físicas,  apontam dados da Deck divulg"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Fed pode voltar a subir juros? Dirigente faz alerta antes de novo dado de inflação",
-   "url": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/08/25/fed-pode-voltar-a-subir-juros-dirigente-faz-alerta-antes-de-novo-dado-de-inflacao.ghtml",
-   "publicado": "2026-08-25T18:09:35+00:00",
-   "tickers": [],
-   "resumo": "A presidente do Federal Reserve (Fed, o banco central americano) de Boston, Susan Collins, afirmou nesta terça-feira (25) que pode ser necessário apertar a política monetária em breve caso não surjam novas evidências de progresso no combate à inflação.\nSegundo Collins, a manutenç"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Navio asiático paga recorde de US$ 5,3 milhões para cruzar Canal do Panamá",
-   "url": "https://investnews.com.br/economia/navio-asiatico-paga-recorde-de-us-53-milhoes-para-cruzar-canal-do-panama/",
-   "publicado": "2026-08-25T17:53:24+00:00",
-   "tickers": [],
-   "resumo": "A sul-coreana SK Gas concordou em pagar esse valor para atravessar o canal do Panamá em 1º de setembro"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Após pedir mudanças na Hapvida, Squadra vende ações e diz que investimento foi seu ‘maior erro’",
-   "url": "https://investnews.com.br/negocios/hapvida-squadra-encerra-investimento/",
-   "publicado": "2026-08-25T17:17:12+00:00",
-   "tickers": [],
-   "resumo": "Gestora de Guilherme Aché reduziu participação para 3,87% e defende venda de ativos e simplificação do grupo para reduzir a dívida"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Em Jackson Hole, presidente do Fed enfrenta novo teste — desta vez, de comunicação",
-   "url": "https://investnews.com.br/economia/em-jackson-hole-presidente-do-fed-enfrenta-novo-teste-desta-vez-de-comunicacao/",
-   "publicado": "2026-08-25T17:09:16+00:00",
-   "tickers": [],
-   "resumo": "Kevin Warsh fará seu primeiro grande discurso como presidente do Fed na sexta-feira"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Em meio a disputa familiar, herdeiro da Ray-Ban renuncia à presidência da marca",
-   "url": "https://investnews.com.br/negocios/em-meio-a-disputa-familiar-herdeiro-da-ray-ban-renuncia-a-presidencia-da-marca/",
-   "publicado": "2026-08-25T16:15:00+00:00",
-   "tickers": [],
-   "resumo": "Herdeiro da Ray-Ban deixa presidência da marca e cargo estratégico em meio a disputa pelo patrimônio da família"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Fraudes com 'deepfakes’ disparam e desafiam tecnologias de identificação em bancos",
-   "url": "https://valorinveste.globo.com/produtos/servicos-financeiros/noticia/2026/08/25/fraudes-com-deepfakes-disparam-e-desafiam-tecnologias-de-identificacao-em-bancos.ghtml",
-   "publicado": "2026-08-25T16:04:48+00:00",
-   "tickers": [],
-   "resumo": "Uma onda de ‘deepfakes’ caseiros tem testado a capacidade das instituições financeiras de responderem com rapidez a uma nova era de fraudes bancárias. Com o rápido aprimoramento e barateamento da inteligência artificial (IA), ferramentas que podem ser usadas para esses crimes fic"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "O mercado de ações mais insano do mundo virou uma montanha-russa",
-   "url": "https://investnews.com.br/the-wall-street-journal/o-mercado-de-acoes-mais-insano-do-mundo-virou-uma-montanha-russa/",
-   "publicado": "2026-08-25T15:47:16+00:00",
-   "tickers": [],
-   "resumo": "Uma queda em câmera lenta do índice Kospi, da Coreia do Sul, eliminou US$ 2,5 trilhões em valor de mercado"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Canadá anuncia US$ 20 bilhões em tarifas retaliatórias sobre produtos dos EUA",
-   "url": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/08/25/canad-anuncia-us-20-bilhes-em-tarifas-retaliatrias-sobre-produtos-dos-eua.ghtml",
-   "publicado": "2026-08-25T15:41:20+00:00",
-   "tickers": [],
-   "resumo": "O Canadá anunciou nesta terça-feira tarifas retaliatórias sobre 27,6 bilhões de dólares canadenses (US$ 19,94 bilhões) em produtos dos Estados Unidos, igualando, dólar por dólar, as novas tarifas impostas por Washington, e apresentou medidas de apoio financeiro a empresas e traba"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Concorrente da Disney? Arábia Saudita vai investir US$ 7 bilhões em parque perto de Paris",
-   "url": "https://investnews.com.br/economia/concorrente-da-disney-arabia-saudita-vai-investir-us-7-bilhoes-em-parque-perto-de-paris/",
-   "publicado": "2026-08-25T15:00:55+00:00",
-   "tickers": [],
-   "resumo": "Projeto terá três parques de lazer, incluindo área de Dragon Ball Z, e deve gerar cerca de 22 mil emprego"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Ambev (ABEV3) entra no top 10 das ações mais negociadas da B3 pela 1ª vez; veja ranking",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/noticia/2026/08/25/ambev-abev3-entra-no-top-10-das-acoes-mais-negociadas-da-b3-pela-1a-vez-veja-ranking.ghtml",
-   "publicado": "2026-08-25T14:29:18+00:00",
-   "tickers": [
-    "ABEV3",
-    "AXIA3",
-    "BBDC4",
-    "BPAC11",
-    "ITSA4",
-    "ITUB4",
-    "PETR3",
-    "PETR4",
-    "PRIO3",
-    "VALE3"
-   ],
-   "resumo": "A Ambev (ABEV3) entrou pela primeira vez em 2026 no ranking das dez ações mais negociadas da bolsa. Em julho, o papel ficou na 7ª posição, segundo levantamento do DataWise+, solução de dados da B3.\nPetrobras (PETR4), Vale (VALE3) e Itaú Unibanco (ITUB4) mantiveram a liderança, ne"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Estrangeiros voltam a comprar ações na B3 após 13 pregões de saídas",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/08/25/estrangeiros-voltam-a-comprar-acoes-na-b3-apos-13-pregoes-de-saidas.ghtml",
-   "publicado": "2026-08-25T14:08:27+00:00",
-   "tickers": [],
-   "resumo": "Os investidores estrangeiros voltaram a comprar ações na B3, interrompendo uma sequência de 13 pregões consecutivos de retiradas da bolsa brasileira. O movimento, porém, ainda não foi suficiente para reverter o forte fluxo negativo acumulado em agosto.\nOs estrangeiros colocaram R"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Galípolo diz que não dá para comemorar crédito maior e reclamar do endividamento",
-   "url": "https://valorinveste.globo.com/produtos/credito/noticia/2026/08/25/galipolo-diz-que-nao-da-para-comemorar-credito-maior-e-reclamar-do-endividamento.ghtml",
-   "publicado": "2026-08-25T12:17:22+00:00",
-   "tickers": [],
-   "resumo": "O presidente do Banco Central, Gabriel Galípolo, afirmou que a ampliação do acesso a serviços financeiros no país trouxe novos desafios relacionados ao uso do crédito, especialmente no cartão. Segundo ele, a inclusão financeira precisa avançar para uma etapa de “cidadania finance"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Ibovespa sobe 1,5% e supera os 174 mil pontos; dólar cai",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/08/25/dolar-e-ibovespa-hoje-25-de-agosto-de-2026.ghtml",
-   "publicado": "2026-08-25T12:06:30+00:00",
-   "tickers": [
-    "PETR3",
-    "PETR4"
-   ],
-   "resumo": "O Ibovespa opera em alta firme nesta terça-feira (25), apesar da forte queda dos preços do petróleo e da pressão sobre as ações da Petrobras. O avanço é sustentado pelo recuo dos juros futuros, que melhora o ambiente para ativos de risco, além da retomada do fluxo de investidores"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Bancos exageraram na oferta de crédito e devem fazer ‘mea culpa’, diz Febraban",
-   "url": "https://valorinveste.globo.com/produtos/credito/noticia/2026/08/25/bancos-exageraram-na-oferta-de-credito-e-devem-fazer-mea-culpa-diz-febraban.ghtml",
-   "publicado": "2026-08-25T12:03:28+00:00",
-   "tickers": [],
-   "resumo": "O presidente da Federação Brasileira de Bancos (Febraban), Isaac Sidney, afirmou nesta segunda-feira que o presidente do Banco Central, Gabriel Galípolo, “tem razão”  ao afirmar que houve excesso de oferta de crédito no país, que levou ao superendividamento e à alta da inadimplên"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Bancos cobram de candidatos diretriz de política fiscal",
-   "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/08/25/bancos-cobram-de-candidatos-diretriz-de-politica-fiscal.ghtml",
-   "publicado": "2026-08-25T11:57:17+00:00",
-   "tickers": [],
-   "resumo": "Os principais executivos dos grandes bancos brasileiros, reunidos em evento de tecnologia promovido pela Febraban, aumentaram a pressão por uma sinalização mais clara dos principais candidatos à Presidência da República sobre os rumos da política fiscal. A mensagem principal foi "
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Braskem (BRKM5), PicPay (PICS), Hapvida (HAPV3), Gerdau (GGBR4) e mais: Veja os destaques das empresas",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/08/25/braskem-brkm5-picpay-pics-hapvida-hapv3-gerdau-ggbr4-e-mais-veja-os-destaques-das-empresas.ghtml",
-   "publicado": "2026-08-25T11:11:47+00:00",
-   "tickers": [
-    "BRKM5",
-    "GGBR4",
-    "HAPV3"
-   ],
-   "resumo": "Braskem\nA Braskem confirmou, após o fechamento do pregão desta segunda-feira (24), ter entrado com pedido de recuperação extrajudicial na 2ª Vara de Falências e Recuperações Judiciais de São Paulo, com o objetivo de reestruturar obrigações financeiras no montante de US$ 10,9 bilh"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Intervenção nova do Tesouro americano está no foco do investidor",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/08/25/intervencao-nova-do-tesouro-americano-esta-no-foco-do-investidor.ghtml",
-   "publicado": "2026-08-25T11:03:34+00:00",
-   "tickers": [],
-   "resumo": "A agenda dos investidores é vazia tanto no Brasil quanto nos Estados Unidos nesta terça-feira (25), no aguardo de dados de inflação nos dois países amanhã. No foco dos investidores, está a notícia de que o Tesouro americano pode usar a sua conta que detém US$ 1 trilhão para finan"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "O que fez o mercado de capitais brasileiro chegar até aqui?",
-   "url": "https://valorinveste.globo.com/blogs/zeca-doherty/coluna/o-que-fez-o-mercado-de-capitais-brasileiro-chegar-ate-aqui.ghtml",
-   "publicado": "2026-08-25T09:30:15+00:00",
-   "tickers": [],
-   "resumo": "Quando observamos o mercado de capitais brasileiro hoje é fácil enxergar os resultados. Mais investidores a cada ano, mais empresas captando recursos e uma participação cada vez maior no financiamento da economia.\nO que nem sempre aparece é tudo o que precisou ser construído para"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Sobre guizos e gatos",
-   "url": "https://valorinveste.globo.com/blogs/marcelo-trindade/coluna/sobre-guizos-e-gatos.ghtml",
-   "publicado": "2026-08-25T09:20:15+00:00",
-   "tickers": [],
-   "resumo": "Segundo noticiou a coluna de Lauro Jardim em O Globo, na semana passada o Ministro da Fazenda, Dario Durigan, almoçou em São Paulo com banqueiros e gestores de recursos. No encontro, ainda segundo a coluna, o Ministro teria revelado preocupação com a Comissão de Valores Mobiliári"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Se uma IA do banco errar e causar prejuízo ao cliente, quem paga a conta?",
-   "url": "https://valorinveste.globo.com/produtos/servicos-financeiros/noticia/2026/08/25/se-uma-ia-do-banco-errar-e-causar-prejuizo-ao-cliente-quem-paga-a-conta.ghtml",
-   "publicado": "2026-08-25T09:10:15+00:00",
-   "tickers": [],
-   "resumo": "Imagine autorizar uma inteligência artificial (IA) do banco a executar uma tarefa financeira e descobrir depois que ela tomou uma decisão errada e causou prejuízo. Quem responde pela perda: o cliente, o banco ou, de alguma forma, a própria IA?\nA pergunta ainda parece futurista, m"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "O que são agentes de IA e como eles vão mudar a forma de comprar, pagar e investir",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/08/25/o-que-sao-agentes-de-ia-e-como-eles-vao-mudar-a-forma-de-comprar-pagar-e-investir.ghtml",
-   "publicado": "2026-08-25T09:00:18+00:00",
-   "tickers": [],
-   "resumo": "Uma bela manhã de sábado, depois de decidir o destino das férias com seu cônjuge, você dará o comando:\n“Alexa, compre duas passagens para Orlando, com ida em 26 de abril e volta em 2 de maio. Quero o menor preço, classe econômica, voo direto, entre 18h e 22h, em uma companhia bem"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "'Elo mais fraco determina a força da cadeia inteira': especialistas discutem riscos do setor financeiro na era da IA",
-   "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/08/24/elo-mais-fraco-determina-a-forca-da-cadeia-inteira-especialistas-discutem-riscos-do-setor-financeiro-na-era-da-ia.ghtml",
-   "publicado": "2026-08-24T22:12:06+00:00",
-   "tickers": [],
-   "resumo": "Uma das maiores vulnerabilidades do sistema financeiro saiu de dentro das instituições e passou para os terceiros que as atendem. Foi o diagnóstico de um painel de especialistas no Febraban Tech 2026, nesta segunda-feira (24), em São Paulo, resumido pelo mediador da mesa e direto"
   }
  ]
 }
