@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-29T14:07:57.454710+00:00",
+ "gerado_em": "2026-08-29T18:08:23.819292+00:00",
  "fontes": {
   "noticias": {
    "arquivo": "noticias.json",
@@ -8,23 +8,25 @@
   },
   "fii_pvp": {
    "arquivo": "fii_pvp.json",
-   "status": "ok",
-   "itens": 1375
+   "status": "erro",
+   "itens": 0,
+   "erro": "HTTPSConnectionPool(host='dados.cvm.gov.br', port=443): Max retries exceeded with url: /dados/FII/DOC/INF_MENSAL/DADOS/inf_mensal_fii_2026.zip (Caused by NewConnectionError(\"HTTPSConnection(host='dados.cvm.gov.br', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
   },
   "fatos_raw": {
    "arquivo": "fatos_raw.json",
-   "status": "ok",
-   "itens": 108
+   "status": "erro",
+   "itens": 0,
+   "erro": "nao baixou IPE da CVM"
   },
   "fatos_fundos_raw": {
    "arquivo": "fatos_fundos_raw.json",
    "status": "ok",
-   "itens": 88
+   "itens": 63
   },
   "fatos_fidc_raw": {
    "arquivo": "fatos_fidc_raw.json",
    "status": "ok",
-   "itens": 64
+   "itens": 51
   }
  }
 }
