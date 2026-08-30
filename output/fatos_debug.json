@@ -1,9 +1,9 @@
 {
- "total_linhas": 32646,
- "com_fato_relevante": 1755,
+ "total_linhas": 33026,
+ "com_fato_relevante": 1790,
  "data_min": "2026-01-02",
- "data_max": "2026-08-24",
- "janela_desde": "2026-08-09",
+ "data_max": "2026-08-28",
+ "janela_desde": "2026-08-10",
  "amostra_categorias": [
   "Acordo de Acionistas",
   "Assembleia",
@@ -25,6 +25,7 @@
   "Estatuto Social",
   "Fato Relevante",
   "Formulário FÁCIL",
+  "Formulário de Informações Semestrais - ISEM",
   "Informação Prestada às Bolsas Estrangeiras",
   "Informações Companhias em Falência",
   "Informações Companhias em Liquidação",
@@ -33,7 +34,6 @@
   "OPA - Edital de Oferta Pública de Ações",
   "Plano de Remuneração Baseado em Ações",
   "Plano de Remuneração Baseado em Ações (exceto Plano de Opções)",
-  "Política de Destinação de Resultados",
-  "Política de Dividendos"
+  "Política de Destinação de Resultados"
  ]
 }
