@@ -3,6 +3,14 @@
  "itens": 100,
  "dados": [
   {
+   "fonte": "InvestNews",
+   "titulo": "Por que a safra de soja no Brasil pode aumentar o preço do diesel no mundo inteiro",
+   "url": "https://investnews.com.br/economia/por-que-a-safra-de-soja-no-brasil-pode-aumentar-o-preco-do-diesel-no-mundo-inteiro/",
+   "publicado": "2026-08-30T18:40:49+00:00",
+   "tickers": [],
+   "resumo": "Segundo maior importador do diesel, o Brasil entra no pico do consumo agrícola com oferta global reduzida"
+  },
+  {
    "fonte": "Money Times",
    "titulo": "Orçamento de 2027 será enviado ao Congresso nesta segunda (31); governo prevê superávit",
    "url": "https://www.moneytimes.com.br/orcamento-de-2027-sera-enviado-ao-congresso-nesta-segunda-31-governo-preve-superavit-jcav/",
@@ -722,14 +730,6 @@
    "publicado": "2026-08-27T16:14:29+00:00",
    "tickers": [],
    "resumo": "Companhias abertas que haviam aderido voluntariamente ao padrão internacional de divulgação de informações financeiras de sustentabilidade antes da mudança das regras promovida pela Comissão de Valores Mobiliários (CVM), em maio, poderão desistir da publicação sem cumprir o perío"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Petrobras avalia exportar gás natural para a Ásia",
-   "url": "https://investnews.com.br/negocios/petrobras-avalia-exportar-gas-natural-para-a-asia/",
-   "publicado": "2026-08-27T15:16:34+00:00",
-   "tickers": [],
-   "resumo": "A Petrobras estuda parceria para liquefazer e exportar gás de campos offshore diante da alta da demanda por GNL"
   },
   {
    "fonte": "Valor Investe",
