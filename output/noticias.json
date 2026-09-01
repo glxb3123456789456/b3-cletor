@@ -1,7 +1,316 @@
 {
  "fonte": "noticias",
- "itens": 90,
+ "itens": 100,
  "dados": [
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Sai o rendimento do HSML11; saiba quem entra no pagamento",
+   "url": "https://www.suno.com.br/noticias/dividendos-do-hsml11-agosto-2026/",
+   "publicado": "2026-09-01T13:45:04+00:00",
+   "tickers": [
+    "HSML11"
+   ],
+   "resumo": "O fundo imobiliário HSML11 (HSML11) comunicou a distribuição de R$ 0,75 por cota em proventos referentes a agosto. O valor será pago em 8 de setembro de 2026 aos investidores posicionados ao fim do pregão de 31 de agosto, data de corte definida pelo FII. Os dividendos do HSML11 s"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Retorno de até 7,3%: 5 small caps para investir em setembro, segundo a Ágora",
+   "url": "https://www.moneytimes.com.br/retorno-de-ate-73-5-small-caps-para-investir-em-setembro-segundo-a-agora/",
+   "publicado": "2026-09-01T13:43:16+00:00",
+   "tickers": [
+    "CURY3",
+    "CYRE3"
+   ],
+   "resumo": "A Ágora Investimentos realizou uma única mudança em sua carteira recomendada de small caps para setembro. A corretora retirou as ações da Cury (CURY3) e incluiu os papéis da Cyrela (CYRE3), mantendo os demais ativos inalterados. Segundo a instituição, a substituição foi motivada "
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Crédito mais caro: temor global de inflação e dívida faz investidores venderem títulos",
+   "url": "https://investnews.com.br/economia/credito-mais-caro-temor-global-de-inflacao-e-divida-faz-investidores-venderem-titulos/",
+   "publicado": "2026-09-01T13:40:53+00:00",
+   "tickers": [],
+   "resumo": "Petróleo mais caro eleva temor de inflação e reforça expectativas de alta dos juros nas principais economias"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Tesouro Direto: taxas voltam a subir nos vencimentos de longo prazo; onde investir?",
+   "url": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/09/01/tesouro-direto-taxas-voltam-a-subir-nos-juros-de-longo-prazo-onde-investir.ghtml",
+   "publicado": "2026-09-01T13:35:06+00:00",
+   "tickers": [],
+   "resumo": "Os rendimentos dos títulos do Tesouro Direto registram alta firme nesta terça-feira (1). No caso dos atrelados à inflação, os Tesouro IPCA+, ela é mais intensa, quando comparada a dos prefixados. Os últimos, porém, caíram menos ao longo de agosto, quando aumentaram a distância em"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Mini índice do Ibovespa mira 182 mil pontos enquanto mini dólar testa região de 5.230; veja suportes e resistências",
+   "url": "https://www.moneytimes.com.br/mini-indice-do-ibovespa-mira-182-mil-pontos-enquanto-mini-dolar-testa-regiao-de-5-230-veja-suportes-e-resistencias-ceci/",
+   "publicado": "2026-09-01T13:26:14+00:00",
+   "tickers": [
+    "WINV26"
+   ],
+   "resumo": "O mini índice do Ibovespa (WINV26) avançou 1,35% no pregão e encerrou aos 180.045 pontos, renovando as máximas recentes do movimento de recuperação. Segundo a análise técnica do BTG Pactual, o gráfico de 60 minutos mantém uma estrutura de &#8220;topos e fundos mais altos&#8220;, "
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "HGLG11 divulga novos dividendos para setembro; veja o valor",
+   "url": "https://www.suno.com.br/noticias/dividendos-do-hglg11-setembro-2026/",
+   "publicado": "2026-09-01T13:25:12+00:00",
+   "tickers": [
+    "HGLG11"
+   ],
+   "resumo": "Os dividendos do HGLG11 para setembro foram confirmados em R$ 1,17 por cota, valor idêntico ao distribuído no período anterior. O anúncio mantém a trajetória de estabilidade do rendimento mensal do fundo imobiliário. O pagamento ocorrerá em 15 de setembro de 2026, para os investi"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Orçamento de 2027 não traz alívio fiscal e possui ‘metas ousadas’, avaliam economistas",
+   "url": "https://www.moneytimes.com.br/orcamento-de-2027-nao-traz-alivio-fiscal-e-possui-metas-ousadas-avaliam-economistas-jcav/",
+   "publicado": "2026-09-01T13:11:18+00:00",
+   "tickers": [],
+   "resumo": "O Projeto de Lei Orçamentária Anual (PLOA) de 2027, apresentado pelo governo na segunda-feira (31), não deve trazer o alívio esperado para as contas públicas. Na avaliação do Inter, a proposta continua apostando no crescimento da arrecadação para financiar uma nova expansão das d"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Ibovespa avança e destoa do exterior com petróleo e PIB; 5 coisas para saber antes de investir hoje (1º)",
+   "url": "https://www.moneytimes.com.br/ibovespa-5-coisas-1-9-26-lils/",
+   "publicado": "2026-09-01T13:11:06+00:00",
+   "tickers": [],
+   "resumo": "O Ibovespa (IBOV) começa o primeiro pregão de setembro em alta, em meio à escalada das tensões no Oriente Médio e preços do petróleo a US$ 90 o barril. Por volta de 10h10 (horário de Brasília), o principal índice da bolsa brasileira operava em com alta de 0,40%, aos 178.124,12 po"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "PIB cresce 0,5% no segundo trimestre e reforça cenário de desaceleração no país",
+   "url": "https://investnews.com.br/economia/pib-cresce-05-trimestre-desaceleracao/",
+   "publicado": "2026-09-01T13:09:08+00:00",
+   "tickers": [],
+   "resumo": "Consumo das famílias cai 0,4% e mostra que endividamento elevado e juros altos tiram mais tração da economia"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Sob gestão de Tim Cook, Apple dispara 2.275% e deixa desafio para Ternus",
+   "url": "https://investnews.com.br/negocios/sob-gestao-de-tim-cook-apple-dispara-2-275-e-deixa-desafio-para-ternus/",
+   "publicado": "2026-09-01T13:06:36+00:00",
+   "tickers": [],
+   "resumo": "Cook assumiu a Apple avaliada em menos de US$ 350 bilhões e deixa uma gigante de US$ 4,6 trilhões"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Com yield de 1,16%, KNCR11 anuncia dividendos aos cotistas; confira",
+   "url": "https://www.suno.com.br/noticias/dividendos-do-kncr11-setembro-2026/",
+   "publicado": "2026-09-01T13:05:06+00:00",
+   "tickers": [
+    "KNCR11"
+   ],
+   "resumo": "O fundo imobiliário KNCR11 confirmou o pagamento de R$ 1,15 por cota em setembro, valor inferior ao distribuído no mês anterior. O cronograma informa que o crédito ocorrerá em 14 de setembro de 2026 aos investidores com posição até o fim do pregão de 31 de agosto de 2026, data de"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Porto (PSSA3), Itaú (ITUB4) e mais: 8 ações para ter na carteira de dividendos em setembro",
+   "url": "https://www.moneytimes.com.br/porto-pssa3-itau-itub4-e-mais-8-acoes-para-ter-na-carteira-de-dividendos-em-setembro-lmrs/",
+   "publicado": "2026-09-01T13:03:57+00:00",
+   "tickers": [
+    "AXIA3",
+    "DIRR3",
+    "ITUB4",
+    "MULT3",
+    "PETR4",
+    "PSSA3",
+    "VIVT3"
+   ],
+   "resumo": "A Empiricus Research realizou uma alteração na carteira recomendada de dividendos para o mês de setembro, retirando as ações da Telefônica Brasil (VIVT3), dona da Vivo, e abrindo espaço para a entrada da Porto (PSSA3). Completam o portfólio as ações da Axia Energia (AXIA3), B3 (B"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "10 ações para apostar em setembro e bater o Ibovespa, segundo BB Investimentos",
+   "url": "https://www.moneytimes.com.br/10-acoes-para-apostar-em-setembro-e-bater-o-ibovespa-segundo-bb-investimentos/",
+   "publicado": "2026-09-01T12:56:39+00:00",
+   "tickers": [
+    "DIRR3",
+    "RENT3"
+   ],
+   "resumo": "O BB Investimentos promoveu apenas uma mudança em sua carteira recomendada para setembro de 2026. A casa retirou as ações da Localiza (RENT3) e incluiu os papéis da Direcional (DIRR3), mantendo os demais ativos inalterados. Segundo o banco, a alteração tem como objetivo ampliar a"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Day trade: Compre Prio (PRIO3) e venda Metalúrgica Gerdau (GOAU4) para ganhar até 1,46% hoje (1), segundo a Ágora",
+   "url": "https://www.moneytimes.com.br/day-trade-compre-prio-prio3-e-venda-gerdau-ggbr4-para-ganhar-ate-146-hoje-1o-segundo-a-agora-ceci/",
+   "publicado": "2026-09-01T12:56:17+00:00",
+   "tickers": [
+    "GOAU4",
+    "PRIO3"
+   ],
+   "resumo": "A Prio (PRIO3) é uma das recomendações de compra em day trade da Ágora Investimentos para esta terça-feira (1). As ações da empresa fecharam a sessão da última segunda-feira (31) cotadas a R$ 62,68. O potencial de ganho é de 1,46% e o stop sugerido é de R$ 62,39. Recomendações de"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Shein tem estreia sem brilho na bolsa de Hong Kong, investidores se preocupam com riscos regulatórios",
+   "url": "https://www.moneytimes.com.br/shein-tem-estreia-sem-brilho-na-bolsa-de-hong-kong-investidores-se-preocupam-com-riscos-regulatorios/",
+   "publicado": "2026-09-01T12:40:50+00:00",
+   "tickers": [],
+   "resumo": "As ações da varejista online de fast-fashion Shein encerraram o dia estáveis em sua estreia na bolsa de Hong Kong nesta terça-feira (1), sem conseguir registrar o típico salto de valor do primeiro dia de negociações, em meio a preocupações com contratempos que minaram sua vantage"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Fundo imobiliário da Kinea dará tchau à B3 antes da hora; Ifix avança",
+   "url": "https://www.moneytimes.com.br/fundo-imobiliario-da-kinea-dara-tchau-a-b3-antes-da-hora-ifix-avanca-jcav/",
+   "publicado": "2026-09-01T12:32:45+00:00",
+   "tickers": [
+    "KNPR11"
+   ],
+   "resumo": "O Kinea Premium Properties (KNPR11) informou que suas cotas deixarão de ser negociadas no mercado secundário da B3 a partir de 21 de setembro de 2026. A medida faz parte do processo de encerramento do fundo imobiliário, constituído com prazo de duração de quatro anos. O venciment"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Lista da Forbes: quem é Ricardo Faria, o “Rei do Ovo” e um dos dez maiores bilionários do Brasil",
+   "url": "https://www.moneytimes.com.br/rei-do-ovo-ricardo-faria-novo-bilionario-lista-forbes-isca/",
+   "publicado": "2026-09-01T12:32:27+00:00",
+   "tickers": [],
+   "resumo": "Na lista da Forbes dos dez maiores bilionários do Brasil em 2026, divulgada na última sexta-feira (28), há um estreante no ranking: Ricardo Castellar de Faria. Engenheiro agrônomo pela UFRGS, o empresário detém um patrimônio estimado em R$ 35,1 bilhões. Aos 51 anos, Faria ocupa a"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Bradesco (BBDC4) e Itaú (ITUB4) pagam dividendos nesta terça; saiba mais",
+   "url": "https://www.suno.com.br/noticias/o-bradesco-bbdc4-agenda-dividendos-01092026/",
+   "publicado": "2026-09-01T12:30:00+00:00",
+   "tickers": [
+    "BBDC4",
+    "ITUB4"
+   ],
+   "resumo": "Bradesco (BBDC4) e Itaú (ITUB4) pagam dividendos nesta terça; saiba maisOs acionistas do Bradesco (BBDC4) e do Itaú Unibanco (ITUB4) receberão nesta terça-feira os dividendos que serão distribuídos pelas companhias. O Bradesco distribuirá rendimentos de R$ 0,0172 por ação, enquan"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Shein cai 10% no primeiro dia na bolsa e enfrenta fim do forte crescimento",
+   "url": "https://investnews.com.br/negocios/shein-cai-10-no-primeiro-dia-na-bolsa-e-enfrenta-fim-do-forte-crescimento/",
+   "publicado": "2026-09-01T12:28:57+00:00",
+   "tickers": [],
+   "resumo": "O desafio é que a Shein chega ao mercado acionário depois da expansão explosiva durante a pandemia de Covid-19"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Ibovespa avança com apoio de Petrobras (PETR4), na contramão de NY; dólar fica estável",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/01/ibovespa-e-dolar-hoje-1-de-setembro-de-2026.ghtml",
+   "publicado": "2026-09-01T12:24:31+00:00",
+   "tickers": [
+    "PETR4"
+   ],
+   "resumo": "O Ibovespa, principal índice de ações brasileiras, começa o dia em alta nesta terça-feira (1), sustentado pela valorização do petróleo no mercado internacional. As ações ligadas a petróleo e gás respondem por quase 20% do índice e ajudam a impulsioná-lo apesar de um movimento de "
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Brasil cai para 13º lugar entre economias que mais cresceram em 2026 entre as maiores do mundo",
+   "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/09/01/brasil-cai-para-13o-lugar-entre-economias-que-mais-cresceram-em-2026-ano-entre-as-maiores-do-mundo.ghtml",
+   "publicado": "2026-09-01T12:24:01+00:00",
+   "tickers": [],
+   "resumo": "Depois do crescimento de 0,5% do Produto Interno Bruto (PIB) no segundo trimestre de 2026 divulgado nesta terça-feira (1º) pelo Instituto Brasileiro de Geografia e Estatística (IBGE), o Brasil acumula um crescimento de 1.9% em 12 meses e aparece como a 13ª economia que mais cresc"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Raízen conclui venda de operações na Argentina por US$ 1,42 bilhão",
+   "url": "https://investnews.com.br/negocios/raizen-conclui-venda-de-operacoes-na-argentina-por-us-142-bilhao/",
+   "publicado": "2026-09-01T12:12:54+00:00",
+   "tickers": [],
+   "resumo": "Transação inclui pagamento em caixa e assunção de dívida da Raízen Argentina; recursos serão usados na gestão da estrutura de capital"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "PIB do Brasil desacelera e sobe 0,5% no 2º trimestre. Como afeta o seu bolso?",
+   "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/09/01/pib-do-brasil-desacelera-e-sobe-05percent-no-2o-trimestre-como-afeta-o-seu-bolso.ghtml",
+   "publicado": "2026-09-01T12:02:33+00:00",
+   "tickers": [],
+   "resumo": "O Produto Interno Bruto (PIB) brasileiro, indicador mais importante do avanço da economia do país, cresceu 0,5% no segundo trimestre de 2026, apontou o Instituto Brasileiro de Greografia e Estatística (IBGE) nesta terça-feira (1). O dado desacelerou em relação ao trimestre anteri"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Rio AI City: por que o Brasil quer bilhões em data centers enquanto EUA recuam",
+   "url": "https://investnews.com.br/economia/rio-ai-city-por-que-o-brasil-quer-bilhoes-em-data-centers-enquanto-eua-recuam/",
+   "publicado": "2026-09-01T11:59:31+00:00",
+   "tickers": [],
+   "resumo": "Projeto de US$ 65 bilhões no Rio simboliza a disputa do Brasil para se tornar polo de data centers e IA na América Latina"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Como Joesley Batista influenciou Trump sobre o plano para facilitar a importação de carne nos EUA",
+   "url": "https://investnews.com.br/the-wall-street-journal/como-joesley-batista-da-jbs-influenciou-trump-sobre-o-preco-da-carne-nos-estados-unidos/",
+   "publicado": "2026-09-01T11:40:32+00:00",
+   "tickers": [],
+   "resumo": "Controlador da JBS se reuniu com presidente americano um dia antes de anúncio de suspensão de tarifas"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Stablecoin USDC estampa camisa do Chelsea e ganha exposição a bilhões",
+   "url": "https://investnews.com.br/investimentos/stablecoin-usdc-patrocina-chelsea-e-ganha-exposicao-a-bilhoes-de-pessoas/",
+   "publicado": "2026-09-01T11:37:49+00:00",
+   "tickers": [],
+   "resumo": "É a primeira vez que uma empresa do setor cripto patrocina um time da Premier League"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Eduardo Oliveira assume como novo CEO da Qualicorp",
+   "url": "https://investnews.com.br/negocios/eduardo-oliveira-assume-como-novo-ceo-da-qualicorp/",
+   "publicado": "2026-09-01T11:34:04+00:00",
+   "tickers": [],
+   "resumo": "Oliveira, que era vice-presidente executivo, substituiu Maurício Lopes"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Suzano (SUZB3), Heringer (FHER3), Cemig (CMIG4), Eneva (ENEV3) e mais: Veja os destaques das empresas",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/09/01/suzano-suzb3-heringer-fher3-cemig-cmig4-eneva-enev3-e-mais-veja-os-destaques-das-empresas.ghtml",
+   "publicado": "2026-09-01T11:16:32+00:00",
+   "tickers": [
+    "CMIG4",
+    "ENEV3",
+    "FHER3",
+    "SUZB3"
+   ],
+   "resumo": "Suzano \nA Suzano anunciou um acordo assinado com o Grupo Imetame, para que a produtora de papel e celulose adquira participação de 10% na Imetame Logística Porto, sociedade responsável por um empreendimento portuário no Espírito Santo, que está em construção.\n\nFertilizantes Herin"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Investidores monitoram PIB do Brasil e dados de emprego nos EUA",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/01/investidores-monitoram-pib-do-brasil-e-dados-de-emprego-nos-eua.ghtml",
+   "publicado": "2026-09-01T10:33:09+00:00",
+   "tickers": [],
+   "resumo": "Os investidores monitoram o Produto Interno Bruto (PIB) do Brasil do segundo trimestre nesta terça-feira (1), que deve reforçar os sinais de que a economia está desacelerando e as apostas em corte de juros no país. No exterior, os números de vagas em aberto (Jolts, na sigla em in"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Depois de um exit de R$ 1 bi, ele agora aposta em AI, consumo – e ‘hungry dogs’",
+   "url": "https://braziljournal.com/depois-de-um-exit-de-r-1-bi-ele-agora-aposta-em-ai-consumo-e-hungry-dogs/",
+   "publicado": "2026-09-01T09:50:55+00:00",
+   "tickers": [],
+   "resumo": "Celso Ribeiro fez uma das maiores transações do mercado publicitário brasileiro no ano passado ao vender a BR Media para a Publicis, por um valor que o mercado estima em R$ 1 bilhão. Agora, o empreendedor – que tinha 30% da empresa – está colocando parte desse dinheiro para traba"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Um trem turístico entre as capitais do Nordeste?",
+   "url": "https://braziljournal.com/um-trem-turistico-entre-as-capitais-do-nordeste/",
+   "publicado": "2026-09-01T09:50:27+00:00",
+   "tickers": [],
+   "resumo": "BRASÍLIA – O Governo Federal pediu à Infra S.A estudos sobre a viabilidade de uma rede de trens de passageiros para ligar capitais de diversos Estados do Nordeste, com o objetivo de impulsionar o turismo na região. O projeto foi encomendado pelo Ministério dos Transportes e os tr"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Cautelares sem critério, credores sem isonomia: o jogo pesado das REs",
+   "url": "https://braziljournal.com/cautelares-sem-criterio-credores-sem-isonomia-o-jogo-pesado-das-res/",
+   "publicado": "2026-09-01T09:50:25+00:00",
+   "tickers": [],
+   "resumo": "Num Brasil cada vez mais hostil aos negócios, os sarcásticos têm dito que os processos de recuperação de empresas viraram “os novos IPOs” – dado o porte das companhias e a frequência desses pedidos. O foco hoje está nas recuperações extrajudiciais, o instrumento escolhido para re"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Como o El Niño mais forte em uma geração já causa estragos na economia global",
+   "url": "https://investnews.com.br/the-wall-street-journal/como-o-el-nino-mais-forte-em-uma-geracao-causa-estragos-na-economia-global/",
+   "publicado": "2026-09-01T09:04:00+00:00",
+   "tickers": [],
+   "resumo": "O fenômeno climático já está afetando setores que vão do transporte marítimo ao cobre e à alimentação de peixes"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "O brasileiro nunca nunca teve tanta dívida – e a conta vai pesar na economia em 2027",
+   "url": "https://investnews.com.br/economia/brasileiro-tanta-divida-conta-vai-pesar/",
+   "publicado": "2026-09-01T09:00:00+00:00",
+   "tickers": [],
+   "resumo": "Por que o peso dos empréstimos no orçamento das famílias e das empresas deve desacelerar a economia"
+  },
   {
    "fonte": "Suno Noticias",
    "titulo": "FII TRXF11 desiste de potencial compra de portfólio imobiliário da Cyrela",
@@ -163,14 +472,6 @@
    "resumo": "Depois de meses de desempenho morno e de uma alta modesta em julho, o Bitcoin (BTC) resolveu acordar em agosto. A principal representante do mercado de criptoativos encerra o mês com valorização próxima de 26%, na faixa dos US$ 79 mil, e registra seu melhor agosto desde 2017, qua"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "Bet já alcança 17% dos brasileiros e expõe armadilha da renda rápida",
-   "url": "https://www.suno.com.br/noticias/bet-apostas-online-renda-rapida-risco-vicio-anbima-mt/",
-   "publicado": "2026-08-31T20:45:04+00:00",
-   "tickers": [],
-   "resumo": "A promessa de ganhar dinheiro em poucos cliques está alcançando cada vez mais brasileiros. Segundo a 9ª edição do Raio X do Investidor Brasileiro, 17% da população economicamente ativa fez apostas online em 2025. O dado chama atenção não apenas pelo tamanho do público, mas pelo m"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Ibovespa sobrevive ao mês do 'desgosto'. E agora?",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/08/31/ibovespa-sobrevive-ao-mes-do-desgosto-e-agora.ghtml",
@@ -199,14 +500,6 @@
    "resumo": "André Dela Togna já foi sócio da consultoria Galeazzi, especializada em reestruturação de empresas"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "Renda fixa isenta oferece retorno de IPCA + 11%; entenda como funciona",
-   "url": "https://www.suno.com.br/noticias/renda-fixa-isenta-ipca-11-mt/",
-   "publicado": "2026-08-31T19:45:06+00:00",
-   "tickers": [],
-   "resumo": "Encontrar uma aplicação de renda fixa isenta pagando IPCA + 11% ao ano pode chamar a atenção do investidor, principalmente em um momento em que os próprios títulos públicos indexados à inflação negociam em patamares historicamente elevados. Mas taxas desse tamanho existem no merc"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Polymarket capta US$ 1 bilhão e alcança avaliação de US$ 21 bilhões",
    "url": "https://investnews.com.br/negocios/polymarket-capta-us-1-bilhao-e-alcanca-avaliacao-de-us-21-bilhoes/",
@@ -221,24 +514,6 @@
    "publicado": "2026-08-31T19:10:57+00:00",
    "tickers": [],
    "resumo": "Negócio prevê compra da produtora de terras raras em Goiás e amplia presença dos EUA na cadeia do mineral"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Natura (NATU3) dispara após anunciar troca de CEO e retorno de executivo",
-   "url": "https://www.suno.com.br/noticias/natu3-natura-alta-troca-ceo-carlucci-retorno-agosto-2026-go/",
-   "publicado": "2026-08-31T18:55:05+00:00",
-   "tickers": [
-    "NATU3"
-   ],
-   "resumo": "As ações da Natura (NATU3) estão operando em forte alta nesta segunda-feira (31), chegando a subir 8% na primeira meia hora de negociação, após a companhia divulgar, pela manhã, um fato relevante comunicando a troca do diretor-presidente. Por volta das 15h, os papéis operavam em "
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Electrolux recebe R$ 300 milhões do BNDES para apostar em IA",
-   "url": "https://www.suno.com.br/noticias/electrolux-bndes-300-milhoes-inteligencia-artificial-mt/",
-   "publicado": "2026-08-31T18:44:00+00:00",
-   "tickers": [],
-   "resumo": "Electrolux recebe R$ 300 milhões do BNDES para apostar em IAO Banco Nacional de Desenvolvimento Econômico e Social (BNDES) aprovou o financiamento de R$ 300 milhões para o plano de pesquisa, desenvolvimento e inovação de tecnologias da Electrolux por meio do programa BNDES Mais I"
   },
   {
    "fonte": "Valor Investe",
@@ -478,14 +753,6 @@
    "resumo": "Sem teses diretamente ligadas à inteligência artificial, e sob a sombra do quadro fiscal e da indefinição eleitoral, o Brasil continua esquecido pelos investidores globais.  Para David Beker, chefe de economia para o Brasil e de estratégia para América Latina do Bank of America, "
   },
   {
-   "fonte": "Brazil Journal",
-   "titulo": "Nunca antes neste País… o brasileiro afogou tanto em dívidas",
-   "url": "https://braziljournal.com/nunca-antes-neste-pais-o-brasileiro-afogou-tanto-em-dividas/",
-   "publicado": "2026-08-31T09:50:04+00:00",
-   "tickers": [],
-   "resumo": "Não são só as empresas. As famílias brasileiras também estão afogadas em dívidas, que já consomem R$ 3 de cada R$ 10 da renda disponível.  Há quatro anos, na largada da campanha eleitoral de 2022, uma das principais promessas do então candidato Lula era justamente tirar o peso da"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Lula vai ressuscitar sua criatura fiscal",
    "url": "https://valorinveste.globo.com/blogs/alexandre-espirito-santo/coluna/lula-vai-ressuscitar-sua-criatura-fiscal.ghtml",
@@ -526,22 +793,6 @@
    "resumo": "O brasileiro que aposta em “bets” corre atrás do sonho de ficar rico de um dia para outro, conseguir um dinheiro extra para complementar a renda, se divertir com fortes emoções e traçar estratégias para lidar com a sorte. Os achados fazem parte de uma pesquisa conduzida pela Asso"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Intercidades: a fórmula chinesa para ressuscitar os trens de passageiros no Brasil",
-   "url": "https://investnews.com.br/negocios/intercidades-china-trens-brasil/",
-   "publicado": "2026-08-31T09:00:00+00:00",
-   "tickers": [],
-   "resumo": "Estatal da China é ao mesmo tempo sócia e fornecedora na linha São Paulo-Campinas, prevista para 2031. Entenda a lógica que move o projeto"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Por que a safra de soja no Brasil pode aumentar o preço do diesel no mundo inteiro",
-   "url": "https://investnews.com.br/economia/por-que-a-safra-de-soja-no-brasil-pode-aumentar-o-preco-do-diesel-no-mundo-inteiro/",
-   "publicado": "2026-08-30T18:40:49+00:00",
-   "tickers": [],
-   "resumo": "Segundo maior importador do diesel, o Brasil entra no pico do consumo agrícola com oferta global reduzida"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Ninguém acerta as seis dezenas da Mega-Sena 3051 e prêmio acumula em R$ 36 milhões; veja números sorteados",
    "url": "https://valorinveste.globo.com/loterias/noticia/2026/08/30/resultado-da-mega-sena-3051-hoje-divulgado-veja-numeros-sorteados.ghtml",
@@ -550,76 +801,12 @@
    "resumo": "O resultado da Mega-Sena 3051 com prêmio de R$ 29,3 milhões foi divulgado neste domingo (30), em São Paulo, e ninguém acertou as seis dezenas. Com isso, o prêmio acumulou em R$ 36 milhões para o próximo sorteio que vai ser realizado na terça-feira (1º). \nOs números sorteados fora"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Guerra familiar ameaça império de óculos que reúne Ray-Ban e Oakley",
-   "url": "https://investnews.com.br/negocios/guerra-familiar-ameaca-imperio-de-oculos-que-reune-ray-ban-e-oakley/",
-   "publicado": "2026-08-30T12:55:30+00:00",
-   "tickers": [],
-   "resumo": "Saída de um dos filhos de Leonardo Del Vecchio expõe a disputa familiar e aumenta a pressão sobre a EssilorLuxottica"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "OPINIÃO. AI é para ‘automation’ ou ‘augmentation’?  O que aprendi em Stanford",
-   "url": "https://braziljournal.com/opiniao-ai-e-para-automation-ou-augmentation-o-que-aprendi-em-stanford/",
-   "publicado": "2026-08-30T09:50:53+00:00",
-   "tickers": [],
-   "resumo": "Passei seis semanas na escola de negócios de Stanford. Entre as muitas coisas que aprendi, poucas ficaram tanto na minha cabeça quanto uma aula do professor Rob Reich sobre inteligência artificial e o futuro do trabalho. Reich ocupa uma interseção rara até para os padrões de Stan"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "A nova biografia de Lacerda, o político genial que atraiu admiração e repulsa",
-   "url": "https://braziljournal.com/a-nova-biografia-de-lacerda-o-politico-genial-que-atraiu-admiracao-e-repulsa/",
-   "publicado": "2026-08-30T09:50:33+00:00",
-   "tickers": [],
-   "resumo": "​O destino me proporcionou, com apenas 25 anos, conhecer Carlos Lacerda, uma das figuras mais brilhantes da história do século XX no Brasil.  Estive com Lacerda em diversos momentos, ora levado pelo senador Gilberto Marinho, ora pelo jornalista Helio Fernandes. Eram conversas fas"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Acredite: talvez você esteja bebendo água demais",
-   "url": "https://investnews.com.br/the-wall-street-journal/livre-se-da-garrafa-de-agua-de-12-litro-voce-provavelmente-ja-esta-bem-hidratado/",
-   "publicado": "2026-08-30T09:00:00+00:00",
-   "tickers": [],
-   "resumo": "Você não precisa transformar o consumo de água em um trabalho de meio período, já que beber água em excesso não traz nenhum benefício real à saúde"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Dolly Parton disse não a Elvis — e construiu um império de US$ 450 milhões",
-   "url": "https://investnews.com.br/the-wall-street-journal/dolly-parton-disse-nao-a-elvis-e-construiu-um-imperio-de-us-450-milhoes/",
-   "publicado": "2026-08-30T09:00:00+00:00",
-   "tickers": [],
-   "resumo": "Cantora, que morreu aos 80 anos, protegeu seus direitos autorais e levou sua marca de Nashville a parques, livros e produtos"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Rio tem seguro de carro mais caro do Brasil; veja quanto custa proteger os 10 mais vendidos",
    "url": "https://valorinveste.globo.com/objetivo/organize-as-contas/noticia/2026/08/30/rio-tem-seguro-de-carro-mais-caro-do-brasil-veja-quanto-custa-proteger-os-10-mais-vendidos.ghtml",
    "publicado": "2026-08-30T06:39:31+00:00",
    "tickers": [],
    "resumo": "O Rio de Janeiro tem o seguro de carro mais caro entre as capitais brasileiras analisadas pela Creditas Seguros. Em julho, a cidade registrou as maiores cotações para todos os dez veículos que compõem o ranking dos carros mais vendidos do país, tanto para homens quanto para mulhe"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Depois da revolução das canetas emagrecedoras, vem aí a corrida contra a calvície",
-   "url": "https://investnews.com.br/negocios/depois-da-revolucao-das-canetas-emagrecedoras-vem-ai-a-corrida-contra-a-calvicie/",
-   "publicado": "2026-08-29T14:48:06+00:00",
-   "tickers": [],
-   "resumo": "Novos tratamentos contra a calvície fazem ações subir quase 500% e alimentam a expectativa de repetir o sucesso dos medicamentos GLP-1"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Como a Rússia está preparando suas crianças para lutar as guerras do futuro",
-   "url": "https://investnews.com.br/economia/como-a-russia-esta-preparando-suas-criancas-para-lutar-as-guerras-do-futuro/",
-   "publicado": "2026-08-29T13:10:08+00:00",
-   "tickers": [],
-   "resumo": "Aulas obrigatórias abordam metralhadoras, granadas, minas, armas antitanque, sobrevivência e primeiros socorros em combate"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "A cartada de Trump para controlar o petróleo da Venezuela pelos próximos 100 anos",
-   "url": "https://investnews.com.br/economia/a-cartada-de-trump-para-controlar-o-petroleo-da-venezuela-pelos-proximos-100-anos/",
-   "publicado": "2026-08-29T12:59:58+00:00",
-   "tickers": [],
-   "resumo": "Pacto com Delcy Rodríguez amplia o domínio dos EUA no hemisfério e já provoca acusações de entrega da riqueza venezuelana"
   },
   {
    "fonte": "Valor Investe",
@@ -648,36 +835,12 @@
    "resumo": "A Mega-Sena 3051 sorteia um prêmio estimado em R$ 30 milhões neste domingo (30), a partir das 11h (horário de Brasília), em São Paulo.\nVEJA TAMBÉM: \n- Os números mais sorteados na história Mega-Sena\nPara os sorteios realizados aos domingos, as apostas podem ser feitas até às 22h "
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Como o LinkedIn foi além do networking e se tornou também um site de relacionamentos",
-   "url": "https://investnews.com.br/the-wall-street-journal/linkedin-virou-acidentalmente-um-site-de-relacionamentos-apesar-das-regras-contra-romance/",
-   "publicado": "2026-08-29T09:00:00+00:00",
-   "tickers": [],
-   "resumo": "Com fotos de perfil produzidas e muitos detalhes sobre a trajetória dos usuários, rede tem sido usada para fim pessoal"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Conta de luz terá bandeira amarela pelo quinto mês seguido em setembro",
    "url": "https://valorinveste.globo.com/objetivo/organize-as-contas/noticia/2026/08/28/conta-de-luz-tera-bandeira-amarela-pelo-quinto-mes-seguido-em-setembro.ghtml",
    "publicado": "2026-08-28T22:51:17+00:00",
    "tickers": [],
    "resumo": "A conta de luz continuará com cobrança adicional em setembro. A Agência Nacional de Energia Elétrica (ANEEL) informou nesta sexta-feira (28) que manterá a bandeira tarifária amarela pelo quinto mês consecutivo, repetindo o patamar adotado desde maio.\nCom a bandeira amarela, os co"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Samsung e Apple divergem em plano para atrair consumidor de smartphones mais avançados (e menos caros)",
-   "url": "https://investnews.com.br/tecnologia/samsung-apple-smartphones-mais-baratos/",
-   "publicado": "2026-08-28T22:42:14+00:00",
-   "tickers": [],
-   "resumo": "Samsung lança Galaxy S26 FE com novos recursos, enquanto Apple deve adiar para 2027 tanto o iPhone 18 como o 18e"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Usucapião na herança: quais os direitos dos herdeiros no imóvel da família?",
-   "url": "https://investnews.com.br/financas/herdeiro-usucapiao/",
-   "publicado": "2026-08-28T20:52:03+00:00",
-   "tickers": [],
-   "resumo": "Decisão recente define que morar por décadas na casa dos pais não garante ao herdeiro a propriedade via usucapião"
   },
   {
    "fonte": "Valor Investe",
@@ -729,59 +892,6 @@
     "PETR4"
    ],
    "resumo": "O Ibovespa, principal índice de ações brasileiras, se descolou das bolsas de Nova York, a poucos minutos do fechamento, e encerrou o pregão desta sexta-feira (28) em alta. Após o presidente do Federal Reserve (Fed, o banco central dos Estados Unidos), Kevin Warsh, adotar um tom m"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Demanda por criptoativos cai 58%  após exigência de governança nas plataformas",
-   "url": "https://valorinveste.globo.com/mercados/cripto/noticia/2026/08/28/demanda-por-criptoativos-cai-58percent-apos-exigencia-de-governanca-das-plataformas.ghtml",
-   "publicado": "2026-08-28T11:36:56+00:00",
-   "tickers": [],
-   "resumo": "O Banco Central (BC) divulgou nesta quinta-feira (27) que a demanda por criptoativos recuou 58,4% em julho em comparação com o mesmo mês do ano passado. Os investimentos nestes ativos somaram US$ 572 milhões no mês passado, ante US$ 1,373 bilhão em julho de 2025.\n\nO levantamento "
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "IGP-M, a 'inflação do aluguel', aponta deflação em agosto, mas aumenta em 12 meses",
-   "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/08/28/igp-m-a-inflacao-do-aluguel-aponta-deflacao-em-agosto-mas-aumenta-em-12-meses.ghtml",
-   "publicado": "2026-08-28T11:29:28+00:00",
-   "tickers": [],
-   "resumo": "O Índice Geral de Preços – Mercado (IGP-M), a \"inflação do aluguel\", caiu 0,22% em agosto, depois de ter recuado 1,16% em julho, segundo o Instituto Brasileiro de Economia da Fundação Getulio Vargas (FGV Ibre). O resultado ficou acima da mediana de -0,30% das estimativas dos econ"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Volume investido por fundos de 'private equity' desaba no 1º semestre",
-   "url": "https://valorinveste.globo.com/produtos/fundos/noticia/2026/08/28/volume-investido-por-fundos-de-private-equity-desaba-no-1o-semestre.ghtml",
-   "publicado": "2026-08-28T11:22:18+00:00",
-   "tickers": [],
-   "resumo": "O volume divulgado de investimentos de fundos de “private equity”, que são aqueles que compram participação em empresas, no Brasil caiu 94% no primeiro semestre, para cerca de R$ 900 milhões, ante R$ 13,9 bilhões no mesmo período de 2025. Foi o menor montante para os seis primeir"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Pão de Açúcar (PCAR3), Natura (NATU3), Multiplan (MULT3), Heringer (FHER3) e mais: Veja os destaques das empresas",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/08/28/pao-de-acucar-pcar3-natura-natu3-multiplan-mult3-heringer-fher3-e-mais-veja-os-destaques-das-empresas.ghtml",
-   "publicado": "2026-08-28T11:14:19+00:00",
-   "tickers": [
-    "FHER3",
-    "MULT3",
-    "NATU3",
-    "PCAR3"
-   ],
-   "resumo": "GPA\nO GPA, varejista controlador de redes como Pão de Açúcar e Extra Mercado, peticionou a sua defesa ao posicionamento do Ministério Público de São Paulo (MPSP) contrário à homologação do plano de recuperação extrajudicial da empresa.\n\nNo processo, a empresa questiona o argument"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Mercado se volta para presidente do Fed em Jackson Hole",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/08/28/mercado-se-volta-para-presidente-do-fed-em-jackson-hole.ghtml",
-   "publicado": "2026-08-28T10:42:10+00:00",
-   "tickers": [],
-   "resumo": "Os investidores se voltam para o simpósio anual do Federal Reserve (Fed, o banco central dos Estados Unidos) em Jackson Hole nesta sexta-feira (28). A conferência econômica internacional terá o principal discurso hoje, de Kevin Warsh, presidente da autoridade, após o índice de pr"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "IBS, CBS e setor financeiro: por que a reforma exige regras próprias",
-   "url": "https://valorinveste.globo.com/blogs/alexandre-evaristo-pinto/coluna/ibs-cbs-e-setor-financeiro-por-que-a-reforma-exige-regras-proprias.ghtml",
-   "publicado": "2026-08-28T09:30:15+00:00",
-   "tickers": [],
-   "resumo": "Na semana passada, tive a honra de participar, no Instituto Brasileiro de Direito Tributário (IBDT), do Seminário Direito Tributário e Mercado Financeiro e de Capitais, realizado em homenagem aos 65 anos do Professor Roberto Quiroga Mosquera.\nO evento, ocorrido em 20 de agosto, t"
   }
  ]
 }
