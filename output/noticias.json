@@ -3,6 +3,202 @@
  "itens": 100,
  "dados": [
   {
+   "fonte": "Money Times",
+   "titulo": "Bolsas da Europa começam setembro no vermelho com inflação e disparada nos juros dos títulos públicos",
+   "url": "https://www.moneytimes.com.br/europa-1-9-26-lils/",
+   "publicado": "2026-09-01T18:01:44+00:00",
+   "tickers": [],
+   "resumo": "Os índices europeus terminaram o pregão em queda, pressionados pela alta nos rendimentos dos títulos públicos, dados de inflação e escalada das tensões no Oriente Médio com barril do petróleo acima de US$ 90. Nesta terça-feira (1º), o índice pan-europeu Stoxx 600 encerrou as nego"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Quais FIIs comprar em setembro? Veja a carteira recomendada pelo BB",
+   "url": "https://www.moneytimes.com.br/quais-fiis-comprar-em-setembro-veja-a-carteira-recomendada-pelo-bb/",
+   "publicado": "2026-09-01T18:01:33+00:00",
+   "tickers": [],
+   "resumo": "O BB Investimentos decidiu seguir com a mesma carteira recomendada de fundos imobiliários de agosto em setembro, não realizando nenhuma troca. Ao todo, a instituição selecionou 16 FIIs, divididos igualmente entre uma estratégia voltada à geração de renda e outra focada no potenci"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Ações recomendadas: Petrobras (PETR4) domina setembro; veja quem corre por fora",
+   "url": "https://www.suno.com.br/noticias/acoes-recomendadas-setembro-2026-petrobras-petr4-mt/",
+   "publicado": "2026-09-01T17:55:06+00:00",
+   "tickers": [
+    "PETR4"
+   ],
+   "resumo": "Setembro chega à Bolsa com eleição presidencial cada vez mais perto, juros ainda elevados e tensões externas ajudando a embaralhar as expectativas. Em meio a esse cenário, as principais casas de análise atualizaram suas ações recomendadas para o mês e, mesmo com estratégias difer"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Governo de SP autoriza abertura de 5 mil vagas para professores; veja o que se sabe sobre o concurso da Seduc-SP",
+   "url": "https://www.moneytimes.com.br/novo-concurso-aprovado-rede-estadual-professores-isca/",
+   "publicado": "2026-09-01T17:52:25+00:00",
+   "tickers": [],
+   "resumo": "O Governo do Estado de São Paulo autorizou no fim de agosto a abertura de um novo concurso para professores efetivos do Ensino Fundamental e Médio da rede pública estadual. Publicada no Diário Oficial do Estado e assinada pelo governador Tarcísio de Freitas, a decisão prevê 5 mil"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Juros dos títulos globais disparam com temor de inflação após nova escalada no Oriente Médio",
+   "url": "https://valorinveste.globo.com/mercados/moedas-e-juros/noticia/2026/09/01/juros-dos-titulos-globais-disparam-com-temor-de-inflacao-apos-nova-escalada-no-oriente-medio.ghtml",
+   "publicado": "2026-09-01T17:46:50+00:00",
+   "tickers": [],
+   "resumo": "Os rendimentos dos títulos públicos disparam nos principais mercados globais nesta terça-feira (1º), com os custos de financiamento no Japão e no Reino Unido atingindo máximas de várias décadas. Nos Estados Unidos, o rendimento da Treasury de 10 anos chegou ao maior nível em 20 m"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "O novo mantra da Minerva (BEEF3), segundo o BTG; é hora de comprar ou vender?",
+   "url": "https://www.moneytimes.com.br/o-novo-mantra-da-minerva-beef3-segundo-o-btg-e-hora-de-comprar-ou-vender/",
+   "publicado": "2026-09-01T17:44:23+00:00",
+   "tickers": [
+    "BEEF3"
+   ],
+   "resumo": "A desalavancagem se tornou o “novo mantra” da Minerva Foods (BEEF3), segundo o BTG Pactual. Apesar de reconhecer os avanços esperados no balanço e calcular potencial de valorização de 76,3% para as ações em relação a última cotação, o banco ainda prefere observar a tese de fora. "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Saída do gringo pesa, e Ibovespa em dólar fica à frente apenas da bolsa argentina em agosto",
+   "url": "https://www.moneytimes.com.br/saida-do-gringo-pesa-e-ibovespa-em-dolar-fica-a-frente-apenas-da-bolsa-argentina-em-agosto-apsa/",
+   "publicado": "2026-09-01T17:38:17+00:00",
+   "tickers": [],
+   "resumo": "O Ibovespa (IBOV), principal índice da bolsa brasileira, recuou 0,33% em reais em agosto. No entanto, levantamento da consultoria Elos Ayta mostra que o IBOV chegou a cair 2,33% ao fazer a conversão para o dólar. Isso acontece devido à valorização de 2,05% da Ptax no período, col"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "‘Kimchi prize’: Bitcoin (BTC) com ‘desconto’ reaparece na Coreia do Sul e anima mercado; saiba o que significa",
+   "url": "https://www.moneytimes.com.br/kimchi-prize-bitcoin-btc-com-desconto-reaparece-na-coreia-do-sul-e-anima-mercado-saiba-o-que-significa-rens/",
+   "publicado": "2026-09-01T17:38:02+00:00",
+   "tickers": [],
+   "resumo": "O bitcoin (BTC) voltou a ser negociado com um &#8220;prêmio&#8221; na Coreia do Sul após a forte alta recente de preços. No mês de agosto, a maior criptomoeda do mundo avançou 25%, sendo um dos melhores investimentos do período. O preço do bitcoin em won (moeda sul-coreana) na Up"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "De olho nos dividendos: Petrobras (PETR4), Itaú (ITUB3) e outras ações para investir, segundo a Genial",
+   "url": "https://www.moneytimes.com.br/de-olho-nos-dividendos-petrobras-petr4-itau-itub3-e-outras-acoes-para-investir-segundo-a-genial/",
+   "publicado": "2026-09-01T17:38:00+00:00",
+   "tickers": [
+    "BBSE3",
+    "CXSE3",
+    "ITUB3",
+    "JHSF3",
+    "PETR4"
+   ],
+   "resumo": "A Genial Investimentos realizou duas mudanças em sua carteira recomendada de dividendos para setembro. Saíram as ações de Caixa Seguridade (CXSE3) e JHSF (JHSF3), enquanto BB Seguridade (BBSE3) e Petrobras (PETR4) passaram a integrar o portfólio. Segundo a casa, as alterações bus"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Zema chama Moraes de ‘projetinho de ditador’ e pede cadeia para ministro do STF",
+   "url": "https://www.moneytimes.com.br/zema-chama-moraes-de-projetinho-de-ditador-e-pede-cadeia-para-ministro-do-stf-gaep/",
+   "publicado": "2026-09-01T17:34:49+00:00",
+   "tickers": [],
+   "resumo": "O candidato do Novo à Presidência, Romeu Zema, comentou nesta terça-feira (1º) a revelação feita pelo Estadão de que o ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes foi responsável por editar a última versão do contrato de R$ 131 milhões em serviços advocatícios "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Cury quer dobrar produção de 700 milhões de grãos do Brasil em 10 anos e construir 100 usinas; ‘Podemos controlar os preços’",
+   "url": "https://www.moneytimes.com.br/cury-quer-dobrar-producao-de-700-milhoes-de-graos-do-brasil-em-10-anos-e-construcao-de-100-usinas-podemos-controlar-os-precos-pads/",
+   "publicado": "2026-09-01T17:23:36+00:00",
+   "tickers": [],
+   "resumo": "O candidato à Presidência pelo Avante, Augusto Cury, afirmou que quer que o Brasil possa dobrar a produção de grãos em dez anos dos atuais 350 milhões de toneladas para 700 milhões de toneladas. A declaração foi feita na Expointer, feira agropecuária realizada em Esteio, na Regiã"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Tarcísio diz ser ‘grave’ revelação sobre Moraes e defende investigação rigorosa",
+   "url": "https://www.moneytimes.com.br/tarcisio-diz-ser-grave-revelacao-sobre-moraes-e-defende-investigacao-rigorosa-gaep/",
+   "publicado": "2026-09-01T17:15:47+00:00",
+   "tickers": [],
+   "resumo": "O governador de São Paulo e candidato à reeleição, Tarcísio de Freitas (Republicanos), classificou nesta terça-feira (1º) como &#8220;grave&#8221; a revelação do Estadão/Broadcast de que o ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), editou a última versão de "
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Nova regra do Pix amplia prazo para contestar por golpe. Veja o que muda",
+   "url": "https://investnews.com.br/financas/nova-regra-pix-prazo-golpe/",
+   "publicado": "2026-09-01T17:08:58+00:00",
+   "tickers": [],
+   "resumo": "Mudança no Pix mira golpes como os que usam o mecanismo de devolução contra pequenos negócios"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Mega-Sena 3052 sorteia prêmio de R$ 36 milhões hoje; veja como apostar e fazer bolão",
+   "url": "https://valorinveste.globo.com/loterias/noticia/2026/09/01/mega-sena-3052-sorteio-hoje-como-apostar-e-fazer-bolao.ghtml",
+   "publicado": "2026-09-01T17:08:16+00:00",
+   "tickers": [],
+   "resumo": "A Mega-Sena 3052 sorteia um prêmio estimado em R$ 30 milhões nesta terça-feira (1º), a partir das 21h (horário de Brasília), em São Paulo.\nVEJA TAMBÉM: \n- Os números mais sorteados na história Mega-Sena\nNos concursos realizados às terças e quintas-feiras, as apostas podem ser fei"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Shein cai até 10% na estreia em Hong Kong, mas fecha o dia estável",
+   "url": "https://www.suno.com.br/noticias/shein-estreia-hong-kong-ipo-acoes-go/",
+   "publicado": "2026-09-01T17:05:09+00:00",
+   "tickers": [],
+   "resumo": "A Shein viveu uma estreia tensa na Bolsa de Hong Kong nesta terça-feira (1). Após abrir em queda de até 10%, a ação passou o pregão se recuperando e terminou o dia praticamente no zero a zero. Os papéis fecharam a HK$ 48,50, apenas 0,1% abaixo do preço fixado no IPO, de HK$ 48,56"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Brasil negocia redução das tarifas dos EUA; veja produtos já livres e os que podem ficar de fora",
+   "url": "https://www.suno.com.br/noticias/brasil-negocia-reducao-tarifas-eua-produtos-isentos-mt/",
+   "publicado": "2026-09-01T16:55:04+00:00",
+   "tickers": [],
+   "resumo": "Brasil e Estados Unidos reabriram as negociações comerciais nesta segunda-feira (31), mas a primeira reunião terminou sem avanço concreto. O governo brasileiro tenta reduzir as tarifas dos EUA e ampliar a lista de produtos protegidos das sobretaxas, enquanto Washington sinaliza d"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Nova regra do Pix começa a valer hoje; entenda o que muda",
+   "url": "https://valorinveste.globo.com/produtos/servicos-financeiros/noticia/2026/09/01/nova-regra-do-pix-comeca-a-valer-hoje-entenda-o-que-muda.ghtml",
+   "publicado": "2026-09-01T16:17:55+00:00",
+   "tickers": [],
+   "resumo": "O Pix passa a funcionar de forma diferente a partir desta terça-feira (1º). O prazo para contestar uma devolução feita pelo Mecanismo Especial de Devolução (MED), a ferramenta de segurança do Banco Central, subiu de 30 para 80 dias.\nA ampliação não vale para a vítima do golpe. Qu"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Água gratuita, meia-entrada e reembolso de taxas. Conheça as novas regras para a venda de ingressos",
+   "url": "https://investnews.com.br/economia/agua-gratuita-meia-entrada-e-reembolso-de-taxas-conheca-as-novas-regras-para-a-venda-de-ingressos/",
+   "publicado": "2026-09-01T15:43:24+00:00",
+   "tickers": [],
+   "resumo": "Decreto também cria regras para combater compras em massa, organizar filas virtuais e ampliar a transparência na venda"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Bitso deixa varejo cripto no Brasil e clientes passam para o Mercado Bitcoin",
+   "url": "https://valorinveste.globo.com/mercados/cripto/noticia/2026/09/01/bitso-deixa-varejo-cripto-no-brasil-e-clientes-passam-para-o-mercado-bitcoin.ghtml",
+   "publicado": "2026-09-01T15:13:08+00:00",
+   "tickers": [],
+   "resumo": "A Bitso vai deixar de atender diretamente os clientes pessoa física que negociam criptoativos no Brasil, que passarão a investir pelo Mercado Bitcoin (MB). O movimento faz parte de uma parceria anunciada pelas duas empresas nesta terça-feira (1º), que também prevê a união de suas"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Shein perde janela e tem estreia modesta em Hong Kong",
+   "url": "https://braziljournal.com/shein-perde-janela-e-tem-estreia-modesta-na-bolsa-de-hong-kong/",
+   "publicado": "2026-09-01T15:11:53+00:00",
+   "tickers": [],
+   "resumo": "A Shein, a gigante chinesa de fast fashion que conquistou o mundo com suas blusinhas a preço de banana e já chegou a ser avaliada em quase US$ 100 bilhões, teve uma estreia frustrante hoje na Bolsa de Hong Kong. O papel mergulhou 10% no início das negociações mas fechou praticame"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "EDITORIAL. Uma liberdade de cada vez",
+   "url": "https://braziljournal.com/editorial-uma-liberdade-de-cada-vez/",
+   "publicado": "2026-09-01T15:09:18+00:00",
+   "tickers": [],
+   "resumo": "Quando a sociedade achava que o Supremo já havia ultrapassado todos os limites do razoável, ele insiste em inovar. No fim de semana, o ministro Dias Toffoli, atuando pelo TSE, suspendeu parte substancial da campanha de Renan Santos à Presidência. O candidato não pode fazer propag"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "VISC11 anuncia novo pagamento de dividendos; veja quem recebe",
+   "url": "https://www.suno.com.br/noticias/dividendos-do-visc11-r-0-84/",
+   "publicado": "2026-09-01T14:25:09+00:00",
+   "tickers": [
+    "VISC11"
+   ],
+   "resumo": "Os dividendos do VISC11 foram definidos em R$ 0,84 por cota, valor que o fundo mantém de forma estável e recorrente desde fevereiro deste ano. O anúncio desta segunda-feira (31) toma como base o desempenho de agosto, ainda não divulgado pelo fundo. O pagamento ocorrerá em 15 de s"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "PIB do Brasil cresce 0,5% no segundo trimestre de 2026 e supera projeção do mercado",
+   "url": "https://www.suno.com.br/noticias/pib-2t26-cresce-05-acima-esperado-go/",
+   "publicado": "2026-09-01T14:20:00+00:00",
+   "tickers": [],
+   "resumo": "PIB do Brasil cresce 0,5% no segundo trimestre de 2026 e supera projeção do mercadoO Instituto Brasileiro de Geografia e Estatística (IBGE) divulgou nesta terça-feira (1º) o resultado do Produto Interno Bruto (PIB) brasileiro referente ao segundo trimestre de 2026. Na comparação "
+  },
+  {
    "fonte": "Suno Noticias",
    "titulo": "Sai o rendimento do HSML11; saiba quem entra no pagamento",
    "url": "https://www.suno.com.br/noticias/dividendos-do-hsml11-agosto-2026/",
@@ -11,17 +207,6 @@
     "HSML11"
    ],
    "resumo": "O fundo imobiliário HSML11 (HSML11) comunicou a distribuição de R$ 0,75 por cota em proventos referentes a agosto. O valor será pago em 8 de setembro de 2026 aos investidores posicionados ao fim do pregão de 31 de agosto, data de corte definida pelo FII. Os dividendos do HSML11 s"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Retorno de até 7,3%: 5 small caps para investir em setembro, segundo a Ágora",
-   "url": "https://www.moneytimes.com.br/retorno-de-ate-73-5-small-caps-para-investir-em-setembro-segundo-a-agora/",
-   "publicado": "2026-09-01T13:43:16+00:00",
-   "tickers": [
-    "CURY3",
-    "CYRE3"
-   ],
-   "resumo": "A Ágora Investimentos realizou uma única mudança em sua carteira recomendada de small caps para setembro. A corretora retirou as ações da Cury (CURY3) e incluiu os papéis da Cyrela (CYRE3), mantendo os demais ativos inalterados. Segundo a instituição, a substituição foi motivada "
   },
   {
    "fonte": "InvestNews",
@@ -40,16 +225,6 @@
    "resumo": "Os rendimentos dos títulos do Tesouro Direto registram alta firme nesta terça-feira (1). No caso dos atrelados à inflação, os Tesouro IPCA+, ela é mais intensa, quando comparada a dos prefixados. Os últimos, porém, caíram menos ao longo de agosto, quando aumentaram a distância em"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Mini índice do Ibovespa mira 182 mil pontos enquanto mini dólar testa região de 5.230; veja suportes e resistências",
-   "url": "https://www.moneytimes.com.br/mini-indice-do-ibovespa-mira-182-mil-pontos-enquanto-mini-dolar-testa-regiao-de-5-230-veja-suportes-e-resistencias-ceci/",
-   "publicado": "2026-09-01T13:26:14+00:00",
-   "tickers": [
-    "WINV26"
-   ],
-   "resumo": "O mini índice do Ibovespa (WINV26) avançou 1,35% no pregão e encerrou aos 180.045 pontos, renovando as máximas recentes do movimento de recuperação. Segundo a análise técnica do BTG Pactual, o gráfico de 60 minutos mantém uma estrutura de &#8220;topos e fundos mais altos&#8220;, "
-  },
-  {
    "fonte": "Suno Noticias",
    "titulo": "HGLG11 divulga novos dividendos para setembro; veja o valor",
    "url": "https://www.suno.com.br/noticias/dividendos-do-hglg11-setembro-2026/",
@@ -58,22 +233,6 @@
     "HGLG11"
    ],
    "resumo": "Os dividendos do HGLG11 para setembro foram confirmados em R$ 1,17 por cota, valor idêntico ao distribuído no período anterior. O anúncio mantém a trajetória de estabilidade do rendimento mensal do fundo imobiliário. O pagamento ocorrerá em 15 de setembro de 2026, para os investi"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Orçamento de 2027 não traz alívio fiscal e possui ‘metas ousadas’, avaliam economistas",
-   "url": "https://www.moneytimes.com.br/orcamento-de-2027-nao-traz-alivio-fiscal-e-possui-metas-ousadas-avaliam-economistas-jcav/",
-   "publicado": "2026-09-01T13:11:18+00:00",
-   "tickers": [],
-   "resumo": "O Projeto de Lei Orçamentária Anual (PLOA) de 2027, apresentado pelo governo na segunda-feira (31), não deve trazer o alívio esperado para as contas públicas. Na avaliação do Inter, a proposta continua apostando no crescimento da arrecadação para financiar uma nova expansão das d"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Ibovespa avança e destoa do exterior com petróleo e PIB; 5 coisas para saber antes de investir hoje (1º)",
-   "url": "https://www.moneytimes.com.br/ibovespa-5-coisas-1-9-26-lils/",
-   "publicado": "2026-09-01T13:11:06+00:00",
-   "tickers": [],
-   "resumo": "O Ibovespa (IBOV) começa o primeiro pregão de setembro em alta, em meio à escalada das tensões no Oriente Médio e preços do petróleo a US$ 90 o barril. Por volta de 10h10 (horário de Brasília), o principal índice da bolsa brasileira operava em com alta de 0,40%, aos 178.124,12 po"
   },
   {
    "fonte": "InvestNews",
@@ -85,11 +244,11 @@
   },
   {
    "fonte": "InvestNews",
-   "titulo": "Sob gestão de Tim Cook, Apple dispara 2.275% e deixa desafio para Ternus",
+   "titulo": "Sob gestão de Tim Cook, ação da Apple disparou 2.275%. O desafio agora é do novo CEO",
    "url": "https://investnews.com.br/negocios/sob-gestao-de-tim-cook-apple-dispara-2-275-e-deixa-desafio-para-ternus/",
    "publicado": "2026-09-01T13:06:36+00:00",
    "tickers": [],
-   "resumo": "Cook assumiu a Apple avaliada em menos de US$ 350 bilhões e deixa uma gigante de US$ 4,6 trilhões"
+   "resumo": "John Ternus substitui Cook, que assumiu a Apple avaliada em menos de US$ 350 bilhões. Hoje vale US$ 4,6 trilhões"
   },
   {
    "fonte": "Suno Noticias",
@@ -100,70 +259,6 @@
     "KNCR11"
    ],
    "resumo": "O fundo imobiliário KNCR11 confirmou o pagamento de R$ 1,15 por cota em setembro, valor inferior ao distribuído no mês anterior. O cronograma informa que o crédito ocorrerá em 14 de setembro de 2026 aos investidores com posição até o fim do pregão de 31 de agosto de 2026, data de"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Porto (PSSA3), Itaú (ITUB4) e mais: 8 ações para ter na carteira de dividendos em setembro",
-   "url": "https://www.moneytimes.com.br/porto-pssa3-itau-itub4-e-mais-8-acoes-para-ter-na-carteira-de-dividendos-em-setembro-lmrs/",
-   "publicado": "2026-09-01T13:03:57+00:00",
-   "tickers": [
-    "AXIA3",
-    "DIRR3",
-    "ITUB4",
-    "MULT3",
-    "PETR4",
-    "PSSA3",
-    "VIVT3"
-   ],
-   "resumo": "A Empiricus Research realizou uma alteração na carteira recomendada de dividendos para o mês de setembro, retirando as ações da Telefônica Brasil (VIVT3), dona da Vivo, e abrindo espaço para a entrada da Porto (PSSA3). Completam o portfólio as ações da Axia Energia (AXIA3), B3 (B"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "10 ações para apostar em setembro e bater o Ibovespa, segundo BB Investimentos",
-   "url": "https://www.moneytimes.com.br/10-acoes-para-apostar-em-setembro-e-bater-o-ibovespa-segundo-bb-investimentos/",
-   "publicado": "2026-09-01T12:56:39+00:00",
-   "tickers": [
-    "DIRR3",
-    "RENT3"
-   ],
-   "resumo": "O BB Investimentos promoveu apenas uma mudança em sua carteira recomendada para setembro de 2026. A casa retirou as ações da Localiza (RENT3) e incluiu os papéis da Direcional (DIRR3), mantendo os demais ativos inalterados. Segundo o banco, a alteração tem como objetivo ampliar a"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Day trade: Compre Prio (PRIO3) e venda Metalúrgica Gerdau (GOAU4) para ganhar até 1,46% hoje (1), segundo a Ágora",
-   "url": "https://www.moneytimes.com.br/day-trade-compre-prio-prio3-e-venda-gerdau-ggbr4-para-ganhar-ate-146-hoje-1o-segundo-a-agora-ceci/",
-   "publicado": "2026-09-01T12:56:17+00:00",
-   "tickers": [
-    "GOAU4",
-    "PRIO3"
-   ],
-   "resumo": "A Prio (PRIO3) é uma das recomendações de compra em day trade da Ágora Investimentos para esta terça-feira (1). As ações da empresa fecharam a sessão da última segunda-feira (31) cotadas a R$ 62,68. O potencial de ganho é de 1,46% e o stop sugerido é de R$ 62,39. Recomendações de"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Shein tem estreia sem brilho na bolsa de Hong Kong, investidores se preocupam com riscos regulatórios",
-   "url": "https://www.moneytimes.com.br/shein-tem-estreia-sem-brilho-na-bolsa-de-hong-kong-investidores-se-preocupam-com-riscos-regulatorios/",
-   "publicado": "2026-09-01T12:40:50+00:00",
-   "tickers": [],
-   "resumo": "As ações da varejista online de fast-fashion Shein encerraram o dia estáveis em sua estreia na bolsa de Hong Kong nesta terça-feira (1), sem conseguir registrar o típico salto de valor do primeiro dia de negociações, em meio a preocupações com contratempos que minaram sua vantage"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Fundo imobiliário da Kinea dará tchau à B3 antes da hora; Ifix avança",
-   "url": "https://www.moneytimes.com.br/fundo-imobiliario-da-kinea-dara-tchau-a-b3-antes-da-hora-ifix-avanca-jcav/",
-   "publicado": "2026-09-01T12:32:45+00:00",
-   "tickers": [
-    "KNPR11"
-   ],
-   "resumo": "O Kinea Premium Properties (KNPR11) informou que suas cotas deixarão de ser negociadas no mercado secundário da B3 a partir de 21 de setembro de 2026. A medida faz parte do processo de encerramento do fundo imobiliário, constituído com prazo de duração de quatro anos. O venciment"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Lista da Forbes: quem é Ricardo Faria, o “Rei do Ovo” e um dos dez maiores bilionários do Brasil",
-   "url": "https://www.moneytimes.com.br/rei-do-ovo-ricardo-faria-novo-bilionario-lista-forbes-isca/",
-   "publicado": "2026-09-01T12:32:27+00:00",
-   "tickers": [],
-   "resumo": "Na lista da Forbes dos dez maiores bilionários do Brasil em 2026, divulgada na última sexta-feira (28), há um estreante no ranking: Ricardo Castellar de Faria. Engenheiro agrônomo pela UFRGS, o empresário detém um patrimônio estimado em R$ 35,1 bilhões. Aos 51 anos, Faria ocupa a"
   },
   {
    "fonte": "Suno Noticias",
@@ -186,13 +281,14 @@
   },
   {
    "fonte": "Valor Investe",
-   "titulo": "Ibovespa avança com apoio de Petrobras (PETR4), na contramão de NY; dólar fica estável",
+   "titulo": "Ibovespa tem forte alta com bancos e Petrobras (PETR4), na contramão de NY; dólar recua",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/01/ibovespa-e-dolar-hoje-1-de-setembro-de-2026.ghtml",
    "publicado": "2026-09-01T12:24:31+00:00",
    "tickers": [
+    "PETR3",
     "PETR4"
    ],
-   "resumo": "O Ibovespa, principal índice de ações brasileiras, começa o dia em alta nesta terça-feira (1), sustentado pela valorização do petróleo no mercado internacional. As ações ligadas a petróleo e gás respondem por quase 20% do índice e ajudam a impulsioná-lo apesar de um movimento de "
+   "resumo": "O Ibovespa, principal índice de ações brasileiras, opera em forte alta nesta terça-feira (1), em contraste com as bolsas de Nova York, que recuam desde o início do dia. As ações preferenciais da Petrobras (PETR3) registram valorização acima de 3% -  o grupo de ações ligadas a pet"
   },
   {
    "fonte": "Valor Investe",
@@ -232,7 +328,7 @@
    "url": "https://investnews.com.br/the-wall-street-journal/como-joesley-batista-da-jbs-influenciou-trump-sobre-o-preco-da-carne-nos-estados-unidos/",
    "publicado": "2026-09-01T11:40:32+00:00",
    "tickers": [],
-   "resumo": "Controlador da JBS se reuniu com presidente americano um dia antes de anúncio de suspensão de tarifas"
+   "resumo": "Controlador da JBS se reuniu com presidente americano um dia antes de anúncio de redução de tarifas"
   },
   {
    "fonte": "InvestNews",
@@ -305,7 +401,7 @@
   },
   {
    "fonte": "InvestNews",
-   "titulo": "O brasileiro nunca nunca teve tanta dívida – e a conta vai pesar na economia em 2027",
+   "titulo": "O brasileiro nunca teve tanta dívida – e a conta vai pesar na economia em 2027",
    "url": "https://investnews.com.br/economia/brasileiro-tanta-divida-conta-vai-pesar/",
    "publicado": "2026-09-01T09:00:00+00:00",
    "tickers": [],
@@ -322,16 +418,6 @@
    "resumo": "O fundo imobiliário TRXF11 (TRX Real Estate) comunicou nesta segunda-feira (31) que não seguirá com a aquisição de um portfólio de ativos pertencentes à Cyrela e a fundos ligados ao grupo. A decisão foi atribuída a mudanças nas condições de mercado observadas recentemente, segund"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "SNFZ11: milho sobe quase 6% em agosto; o que a alta do grão tem a ver com o Fiagro",
-   "url": "https://www.suno.com.br/noticias/snfz11-milho-sobe-quase-6-em-agosto-o-que-a-alta-do-grao-tem-a-ver-com-o-fiagro/",
-   "publicado": "2026-08-31T23:05:03+00:00",
-   "tickers": [
-    "SNFZ11"
-   ],
-   "resumo": "Os preços do milho seguem em alta no mercado brasileiro, mesmo com a segunda safra perto do fim e projeções de colheita recorde. A oferta segue contida, pois produtores evitam vender à vista e aguardam valores mais atrativos, enquanto compradores buscam recompor estoques no curto"
-  },
-  {
    "fonte": "Brazil Journal",
    "titulo": "ArcelorMittal desafia a ‘crise do aço’ com projeto de até R$ 5 bi no País",
    "url": "https://braziljournal.com/arcelormittal-desafia-a-crise-do-aco-com-projeto-de-ate-r-5-bi-no-pais/",
@@ -346,16 +432,6 @@
    "publicado": "2026-08-31T22:25:50+00:00",
    "tickers": [],
    "resumo": "Ele passou meses adormecido, tentando recuperar as perdas acumuladas desde sua máxima histórica e com poucas oscilações em meio a um cenário de forte volatilidade para os ativos de risco. Em agosto, porém, o Bitcoin finalmente acordou: a principal representante do mercado de crip"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Fundo imobiliário XPLG11 anuncia novos dividendos para setembro; veja valor",
-   "url": "https://www.suno.com.br/noticias/fundo-imobiliario-xplg11-anuncia-novos-dividendos-para-setembro-veja-valor/",
-   "publicado": "2026-08-31T22:15:04+00:00",
-   "tickers": [
-    "XPLG11"
-   ],
-   "resumo": "Os cotistas do fundo imobiliário XPLG11 vão receber R$ 0,82 por cota referentes ao rendimento de agosto, valor que permanece no mesmo patamar desde fevereiro de 2025. Considerando a cotação de R$ 91,74, os dividendos do XPLG11 equivalem a um dividend yield mensal aproximado de 0,"
   },
   {
    "fonte": "Valor Investe",
@@ -380,14 +456,6 @@
    "publicado": "2026-08-31T21:58:52+00:00",
    "tickers": [],
    "resumo": "Héctor Núñez retorna à rede de brinquedos após a BluSun Capital Partners comprar a varejista da SPX Capital"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "IFIX avança 0,59% no pregão, mas encerra no vermelho pelo quarto mês consecutivo",
-   "url": "https://www.suno.com.br/noticias/ifix-avanca-059-no-pregao-mas-encerra-no-vermelho-pelo-quarto-mes-consecutivo/",
-   "publicado": "2026-08-31T21:45:04+00:00",
-   "tickers": [],
-   "resumo": "O IFIX encerrou a sessão desta segunda-feira (31) aos 3.762,79 pontos, em alta de 0,59%. O desempenho representou avanço de 22,07 pontos frente ao fechamento anterior, de 3.740,72 pontos. Ao longo do pregão, o índice de fundos imobiliários marcou mínima em 3.740,89 pontos e máxim"
   },
   {
    "fonte": "Brazil Journal",
@@ -433,27 +501,6 @@
     "TRXF11"
    ],
    "resumo": "Agosto foi de recuperação para parte das empresas que compõem a lista das dez maiores altas do índice Ibovespa. Após liderar nas maiores quedas em julho, os setores cíclicos - como construção civil e agronegócio - ocuparam a maior parte das posições entre os melhores desempenhos "
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Fundo imobiliário MXRF11 divulga novo pagamento de dividendos; saiba valor",
-   "url": "https://www.suno.com.br/noticias/fundo-imobiliario-mxrf11-divulga-novo-pagamento-de-dividendos-saiba-valor/",
-   "publicado": "2026-08-31T21:25:18+00:00",
-   "tickers": [
-    "MXRF11"
-   ],
-   "resumo": "O fundo imobiliário MXRF11 confirmou o rendimento de setembro em R$ 0,10 por cota, valor mantido desde maio. O pagamento ocorrerá em 15 de setembro de 2026 aos investidores com posição até o fechamento do pregão de 31 de agosto de 2026, data de corte da apuração. Na cotação de R$"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Ibovespa dispara 1% e engata 9ª alta seguida com Petrobras (PETR4)",
-   "url": "https://www.suno.com.br/noticias/ibovespa-hoje-31-agosto-petrobras-petr4-mt/",
-   "publicado": "2026-08-31T21:25:08+00:00",
-   "tickers": [
-    "PETR3",
-    "PETR4"
-   ],
-   "resumo": "O Ibovespa encerrou agosto com fôlego e emendou o nono pregão consecutivo de alta nesta segunda-feira (31). O principal índice da B3 avançou 1,00%, aos 177.418,78 pontos, impulsionado principalmente pela disparada da Petrobras (PETR3; PETR4), pelos bancos e pelo cenário eleitoral"
   },
   {
    "fonte": "Brazil Journal",
@@ -721,36 +768,12 @@
    "resumo": "Os indicadores futuros de ações americanos caíam no começo desta segunda-feira (31), após os confrontos entre os Estados Unidos e o Irã serem retomados pela primeira vez em um mês no domingo. A cotação do petróleo saltava após as hostilidades serem retomadas, pressionando a infla"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "ChatGPT: 4 funções pouco conhecidas para otimizar o uso",
-   "url": "https://investnews.com.br/videos/chatgpt-4-funcoes-pouco-conhecidas-para-otimizar-o-uso/",
-   "publicado": "2026-08-31T10:25:00+00:00",
-   "tickers": [],
-   "resumo": "Pedro Burgos apresenta ferramentas úteis do ChatGPT, da edição de fotos ao raciocínio da IA. Veja como aproveitar a tecnologia no seu dia a dia."
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Você tem prazer em comprar ou precisa comprar para ter prazer?",
    "url": "https://valorinveste.globo.com/blogs/ana-leoni/coluna/voce-tem-prazer-em-comprar-ou-precisa-comprar-para-ter-prazer.ghtml",
    "publicado": "2026-08-31T10:01:45+00:00",
    "tickers": [],
    "resumo": "Como qualquer mortal – ou ao menos para uma parte deles – adoro comprar. Consumir, em especial roupas e acessórios, é algo que gosto de fazer. Não me considero metida a entendedora do mundo fashion, mas acho que a maneira como nos vestimos diz muito sobre nós. Apesar desse meu go"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "As duas obsessões da Minerva: diversificar e desalavancar",
-   "url": "https://braziljournal.com/as-duas-obsessoes-da-minerva-diversificar-e-desalavancar/",
-   "publicado": "2026-08-31T09:50:58+00:00",
-   "tickers": [],
-   "resumo": "BARRETOS – Assim como todos os executivos do setor frigorífico, Fernando Queiroz, o CEO da Minerva Foods e membro da família controladora, foi surpreendido por uma postagem de Donald Trump nos últimos dias. Nela, o presidente americano anunciava a suspensão temporária por 90 dias"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "“Emergente sem AI” (e ainda sem reformas), Brasil continua sem fluxo",
-   "url": "https://braziljournal.com/emergente-sem-ai-e-ainda-sem-reformas-brasil-continua-sem-fluxo/",
-   "publicado": "2026-08-31T09:50:48+00:00",
-   "tickers": [],
-   "resumo": "Sem teses diretamente ligadas à inteligência artificial, e sob a sombra do quadro fiscal e da indefinição eleitoral, o Brasil continua esquecido pelos investidores globais.  Para David Beker, chefe de economia para o Brasil e de estratégia para América Latina do Bank of America, "
   },
   {
    "fonte": "Valor Investe",
@@ -775,14 +798,6 @@
    "publicado": "2026-08-31T09:10:15+00:00",
    "tickers": [],
    "resumo": "As ações da Oncoclínicas saltaram 133% neste mês, o que chama bastante a atenção para uma companhia que está em processo de recuperação extrajudicial e para papéis que caem 48% no ano. Os investidores viram uma oportunidade de ganhar dinheiro com a oferta pública de ações (OPA) d"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Lembra da Gap? A marca dos moletons voltou à moda — e animou os investidores",
-   "url": "https://investnews.com.br/the-wall-street-journal/gap-esta-de-volta-investidores-comecam-a-acreditar/",
-   "publicado": "2026-08-31T09:06:00+00:00",
-   "tickers": [],
-   "resumo": "Marca que ditou o estilo americano durante boa parte dos anos 1990 e início dos anos 2000 passa por um renascimento"
   },
   {
    "fonte": "Valor Investe",
@@ -857,41 +872,6 @@
    "publicado": "2026-08-28T19:52:13+00:00",
    "tickers": [],
    "resumo": "A plataforma de negociação de criptomoedas NovaDax, que anunciou em junho o encerramento de suas operações no Brasil, informou que alterou os prazos para a realização de saques e encerramento de contas.\nDesde 15 de junho, a plataforma encerrou as ordens de compra no livro de ofer"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Preço do ouro despenca quase 3% com discurso duro de presidente do BC dos EUA sobre inflação",
-   "url": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/08/28/preco-do-ouro-despenca-quase-3percent-com-discurso-duro-de-presidente-do-bc-dos-eua-sobre-inflacao.ghtml",
-   "publicado": "2026-08-28T18:33:24+00:00",
-   "tickers": [],
-   "resumo": "O discurso mais “hawkish” (propenso aos juros mais altos) do presidente do Federal Reserve (Fed), Kevin Warsh, levou os contratos futuros de ouro a despencarem nesta sexta-feira. As declarações causaram uma reprecificação conservadora nas apostas para o rumo da política monetária"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Forbes divulga lista com os dez maiores bilionários do Brasil; veja quem são",
-   "url": "https://valorinveste.globo.com/objetivo/empreenda-se/noticia/2026/08/28/forbes-divulga-lista-com-os-dez-maiores-bilionarios-do-brasil-veja-quem-sao.ghtml",
-   "publicado": "2026-08-28T16:26:38+00:00",
-   "tickers": [],
-   "resumo": "A Forbes divulgou a lista dos dez brasileiros com as maiores fortunas, nesta sexta-feira (28). Eduardo Saverin, cofundador do Facebook, lidera pelo quarto ano seguido a lista dos maiores bilionários do Brasil, mesmo tendo perdido patrimônio no período. O Brasil tem 255 bilionário"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Tesouro Direto: taxas dos prefixados sobem de olho em provável alta dos juros nos EUA",
-   "url": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/08/28/tesouro-direto-taxas-dos-prefixados-sobem-de-olho-em-provavel-alta-dos-juros-nos-eua.ghtml",
-   "publicado": "2026-08-28T15:56:41+00:00",
-   "tickers": [],
-   "resumo": "Os rendimentos dos títulos do Tesouro Direto têm comportamentos distintos nesta sexta-feira (28). Nos prefixados, o dia é de alta, ainda que eles estejam longe das máximas vistas em agosto e julho. Nos atrelados à inflação (o Tesouro IPCA+), as taxas ficam praticamente estáveis.\n"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Ibovespa descola de NY e fecha em alta, após presidente do Fed endurecer tom sobre inflação",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/08/28/dolar-e-ibovespa-hoje-28-de-agosto-de-2026.ghtml",
-   "publicado": "2026-08-28T12:14:50+00:00",
-   "tickers": [
-    "BBAS3",
-    "PETR4"
-   ],
-   "resumo": "O Ibovespa, principal índice de ações brasileiras, se descolou das bolsas de Nova York, a poucos minutos do fechamento, e encerrou o pregão desta sexta-feira (28) em alta. Após o presidente do Federal Reserve (Fed, o banco central dos Estados Unidos), Kevin Warsh, adotar um tom m"
   }
  ]
 }

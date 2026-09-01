@@ -1365,19 +1365,19 @@
  },
  "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1300035&cvm=true": {
   "primeiro": "2026-08-25",
-  "ultimo": "2026-08-31"
+  "ultimo": "2026-09-01"
  },
  "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1300025&cvm=true": {
   "primeiro": "2026-08-25",
-  "ultimo": "2026-08-31"
+  "ultimo": "2026-09-01"
  },
  "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1300010&cvm=true": {
   "primeiro": "2026-08-25",
-  "ultimo": "2026-08-31"
+  "ultimo": "2026-09-01"
  },
  "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1299875&cvm=true": {
   "primeiro": "2026-08-25",
-  "ultimo": "2026-08-31"
+  "ultimo": "2026-09-01"
  },
  "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1300350&cvm=true": {
   "primeiro": "2026-08-26",
@@ -1784,6 +1784,10 @@
   "ultimo": "2026-09-01"
  },
  "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1305289&cvm=true": {
+  "primeiro": "2026-09-01",
+  "ultimo": "2026-09-01"
+ },
+ "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1306586&cvm=true": {
   "primeiro": "2026-09-01",
   "ultimo": "2026-09-01"
  }
