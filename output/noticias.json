@@ -1,38 +1,290 @@
 {
  "fonte": "noticias",
- "itens": 100,
+ "itens": 90,
  "dados": [
   {
-   "fonte": "Money Times",
-   "titulo": "Bruno Dantas oficializa saída do TCU, e Pacheco é favorito para vaga",
-   "url": "https://www.moneytimes.com.br/bruno-dantas-oficializa-saida-do-tcu-e-pacheco-e-favorito-para-vaga/",
-   "publicado": "2026-08-31T16:37:55+00:00",
-   "tickers": [],
-   "resumo": "O ministro do Tribunal de Contas da União (TCU) Bruno Dantas oficializou nesta segunda-feira, 31, sua saída do cargo, que ocupa desde 2014. Com a decisão, comunicada em ofício enviado à presidência do órgão, o Senado poderá indicar um substituto para a vaga. O senador Rodrigo Pac"
+   "fonte": "Suno Noticias",
+   "titulo": "FII TRXF11 desiste de potencial compra de portfólio imobiliário da Cyrela",
+   "url": "https://www.suno.com.br/noticias/fii-trxf11-desiste-de-potencial-compra-de-portfolio-imobiliario-da-cyrela/",
+   "publicado": "2026-08-31T23:35:04+00:00",
+   "tickers": [
+    "TRXF11"
+   ],
+   "resumo": "O fundo imobiliário TRXF11 (TRX Real Estate) comunicou nesta segunda-feira (31) que não seguirá com a aquisição de um portfólio de ativos pertencentes à Cyrela e a fundos ligados ao grupo. A decisão foi atribuída a mudanças nas condições de mercado observadas recentemente, segund"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Durigan promete ajuste fiscal sem novos impostos e corte de gastos obrigatórios para abrir espaço no Orçamento",
-   "url": "https://www.moneytimes.com.br/durigan-promete-ajuste-fiscal-sem-novos-impostos-e-corte-de-gastos-obrigatorios-para-abrir-espaco-no-orcamento/",
-   "publicado": "2026-08-31T16:31:34+00:00",
-   "tickers": [],
-   "resumo": "O governo Luiz Inácio Lula da Silva pretende fazer o ajuste das contas públicas nos próximos anos sem recorrer a uma nova rodada de aumento de impostos. A estratégia apresentada pelo ministro da Fazenda, Dario Durigan, passa principalmente pela redução do ritmo de crescimento das"
+   "fonte": "Suno Noticias",
+   "titulo": "SNFZ11: milho sobe quase 6% em agosto; o que a alta do grão tem a ver com o Fiagro",
+   "url": "https://www.suno.com.br/noticias/snfz11-milho-sobe-quase-6-em-agosto-o-que-a-alta-do-grao-tem-a-ver-com-o-fiagro/",
+   "publicado": "2026-08-31T23:05:03+00:00",
+   "tickers": [
+    "SNFZ11"
+   ],
+   "resumo": "Os preços do milho seguem em alta no mercado brasileiro, mesmo com a segunda safra perto do fim e projeções de colheita recorde. A oferta segue contida, pois produtores evitam vender à vista e aguardam valores mais atrativos, enquanto compradores buscam recompor estoques no curto"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Taxas têm variações contidas sob influência de pesquisas eleitorais e Treasuries",
-   "url": "https://www.moneytimes.com.br/taxas-tem-variacoes-contidas-sob-influencia-de-pesquisas-eleitorais-e-treasuries/",
-   "publicado": "2026-08-31T15:48:20+00:00",
+   "fonte": "Brazil Journal",
+   "titulo": "ArcelorMittal desafia a ‘crise do aço’ com projeto de até R$ 5 bi no País",
+   "url": "https://braziljournal.com/arcelormittal-desafia-a-crise-do-aco-com-projeto-de-ate-r-5-bi-no-pais/",
+   "publicado": "2026-08-31T22:28:33+00:00",
    "tickers": [],
-   "resumo": "As taxas dos DIs exibem variações contidas nesta manhã de segunda-feira (31), ponderando por um lado as novas pesquisas eleitorais no Brasil e por outro o avanço dos rendimentos dos Treasuries de longo prazo, após novos ataques militares de EUA e Irã no Oriente Médio. Às 10h, a t"
+   "resumo": "O grupo ArcelorMittal aprovou um novo investimento de entre R$ 4 bilhões e R$ 5 bilhões em sua unidade de Tubarão, no Espírito Santo – um anúncio que surpreendeu o mercado devido ao momento desafiador da indústria siderúrgica nacional.  A companhia vai instalar em sua usina capix"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Shopper investe R$ 25 milhões em primeiro centro de distribuição fora de SP",
-   "url": "https://www.moneytimes.com.br/shopper-investe-r-25-milhoes-em-primeiro-centro-de-distribuicao-fora-de-sp/",
-   "publicado": "2026-08-31T15:29:57+00:00",
+   "fonte": "Valor Investe",
+   "titulo": "Qual investimento deixou o desgosto de agosto para trás e teve o melhor rendimento? Spoiler: tem surpresa",
+   "url": "https://valorinveste.globo.com/mercados/noticia/2026/08/31/qual-investimento-deixou-o-desgosto-de-agosto-para-tras-e-teve-o-melhor-rendimento-spoiler-tem-surpresa.ghtml",
+   "publicado": "2026-08-31T22:25:50+00:00",
    "tickers": [],
-   "resumo": "A Shopper inaugura na terça-feira, 1º de setembro, seu primeiro centro de distribuição fora do Estado de São Paulo, marcando a entrada da empresa na região Centro-Oeste. Localizada em Brasília, a unidade recebeu investimento de R$ 25 milhões e atenderá também aos pedidos de Goiân"
+   "resumo": "Ele passou meses adormecido, tentando recuperar as perdas acumuladas desde sua máxima histórica e com poucas oscilações em meio a um cenário de forte volatilidade para os ativos de risco. Em agosto, porém, o Bitcoin finalmente acordou: a principal representante do mercado de crip"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Fundo imobiliário XPLG11 anuncia novos dividendos para setembro; veja valor",
+   "url": "https://www.suno.com.br/noticias/fundo-imobiliario-xplg11-anuncia-novos-dividendos-para-setembro-veja-valor/",
+   "publicado": "2026-08-31T22:15:04+00:00",
+   "tickers": [
+    "XPLG11"
+   ],
+   "resumo": "Os cotistas do fundo imobiliário XPLG11 vão receber R$ 0,82 por cota referentes ao rendimento de agosto, valor que permanece no mesmo patamar desde fevereiro de 2025. Considerando a cotação de R$ 91,74, os dividendos do XPLG11 equivalem a um dividend yield mensal aproximado de 0,"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Febraban troca de comando: Leandro Vilain vai substituir Isaac Sidney na presidência",
+   "url": "https://valorinveste.globo.com/mercados/noticia/2026/08/31/febraban-troca-de-comando-leandro-vilain-vai-substituir-isaac-sidney-na-presidencia.ghtml",
+   "publicado": "2026-08-31T22:10:53+00:00",
+   "tickers": [],
+   "resumo": "A Federação Brasileira de Bancos (Febraban) terá um novo presidente-executivo. O conselho diretor da entidade aprovou nesta segunda-feira (31) a indicação de Leandro Vilain, atual presidente da Associação Brasileira de Bancos (ABBC), para substituir Isaac Sidney. \nA mudança será "
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Como depenar um avião. A Emirates e o economics do A380",
+   "url": "https://braziljournal.com/como-depenar-um-aviao-a-emirates-e-o-economics-do-a380/",
+   "publicado": "2026-08-31T22:09:41+00:00",
+   "tickers": [],
+   "resumo": "A Emirates comprou em seu último ano fiscal 29 aviões A380 que estavam sendo usados em contratos de leasing. Mas muitas dessas aeronaves nunca voarão novamente: serão só “canibalizadas” para fornecer peças. A decisão faz parte da estratégia da companhia em utilizar os A380 até pe"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Ri Happy e PBKids trocam de dono – e gestora traz ex-CEO de volta ao comando",
+   "url": "https://investnews.com.br/negocios/blusun-compra-ri-happy-ex-ceo-volta/",
+   "publicado": "2026-08-31T21:58:52+00:00",
+   "tickers": [],
+   "resumo": "Héctor Núñez retorna à rede de brinquedos após a BluSun Capital Partners comprar a varejista da SPX Capital"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "IFIX avança 0,59% no pregão, mas encerra no vermelho pelo quarto mês consecutivo",
+   "url": "https://www.suno.com.br/noticias/ifix-avanca-059-no-pregao-mas-encerra-no-vermelho-pelo-quarto-mes-consecutivo/",
+   "publicado": "2026-08-31T21:45:04+00:00",
+   "tickers": [],
+   "resumo": "O IFIX encerrou a sessão desta segunda-feira (31) aos 3.762,79 pontos, em alta de 0,59%. O desempenho representou avanço de 22,07 pontos frente ao fechamento anterior, de 3.740,72 pontos. Ao longo do pregão, o índice de fundos imobiliários marcou mínima em 3.740,89 pontos e máxim"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "A China é a fábrica do mundo. Agora quer ser também a fazenda",
+   "url": "https://braziljournal.com/a-china-e-a-fabrica-do-mundo-agora-quer-ser-tambem-a-fazenda/",
+   "publicado": "2026-08-31T21:40:07+00:00",
+   "tickers": [],
+   "resumo": "Da mesma maneira que assumiu o domínio das cadeias de produção de produtos como veículos elétricos, aparelhos eletrônicos e painéis solares, a China agora tem planos de não apenas reconquistar a autossuficiência na produção de alimentos como também controlar segmentos do supply c"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Veja as maiores quedas do Ibovespa em agosto",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/08/31/veja-as-maiores-quedas-do-ibovespa-em-agosto.ghtml",
+   "publicado": "2026-08-31T21:39:40+00:00",
+   "tickers": [
+    "CSMG3",
+    "HAPV3",
+    "LREN3",
+    "POMO4",
+    "SMFT3"
+   ],
+   "resumo": "Agosto é o mês do desgosto, diz o ditado. Foi o caso para as empresas que lideram as dez maiores quedas do Ibovespa, na maioria impactadas pelo desempenho na temporada de balanços recém-encerrada. Para o conjunto do principal índice de ações brasileiras, nada disso – o Ibovespa a"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Ouro sobe quase 10% em agosto e tem melhor mês desde janeiro",
+   "url": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/08/31/ouro-sobe-quase-10percent-em-agosto-e-tem-melhor-mes-desde-janeiro.ghtml",
+   "publicado": "2026-08-31T21:36:03+00:00",
+   "tickers": [],
+   "resumo": "Nem mesmo a forte queda dos últimos pregões foi suficiente para apagar o brilho do ouro em agosto. O metal precioso acumulou alta de cerca de 10% no mês e registrou seu melhor desempenho mensal desde janeiro.\nNesta segunda-feira (31), porém, o movimento foi na direção contrária. "
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Veja as maiores altas do Ibovespa em agosto",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/08/31/veja-as-maiores-altas-do-ibovespa-em-agosto.ghtml",
+   "publicado": "2026-08-31T21:29:54+00:00",
+   "tickers": [
+    "CYRE3",
+    "FLRY3",
+    "MRVE3",
+    "SLCE3",
+    "TOTS3",
+    "TRXF11"
+   ],
+   "resumo": "Agosto foi de recuperação para parte das empresas que compõem a lista das dez maiores altas do índice Ibovespa. Após liderar nas maiores quedas em julho, os setores cíclicos - como construção civil e agronegócio - ocuparam a maior parte das posições entre os melhores desempenhos "
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Fundo imobiliário MXRF11 divulga novo pagamento de dividendos; saiba valor",
+   "url": "https://www.suno.com.br/noticias/fundo-imobiliario-mxrf11-divulga-novo-pagamento-de-dividendos-saiba-valor/",
+   "publicado": "2026-08-31T21:25:18+00:00",
+   "tickers": [
+    "MXRF11"
+   ],
+   "resumo": "O fundo imobiliário MXRF11 confirmou o rendimento de setembro em R$ 0,10 por cota, valor mantido desde maio. O pagamento ocorrerá em 15 de setembro de 2026 aos investidores com posição até o fechamento do pregão de 31 de agosto de 2026, data de corte da apuração. Na cotação de R$"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Ibovespa dispara 1% e engata 9ª alta seguida com Petrobras (PETR4)",
+   "url": "https://www.suno.com.br/noticias/ibovespa-hoje-31-agosto-petrobras-petr4-mt/",
+   "publicado": "2026-08-31T21:25:08+00:00",
+   "tickers": [
+    "PETR3",
+    "PETR4"
+   ],
+   "resumo": "O Ibovespa encerrou agosto com fôlego e emendou o nono pregão consecutivo de alta nesta segunda-feira (31). O principal índice da B3 avançou 1,00%, aos 177.418,78 pontos, impulsionado principalmente pela disparada da Petrobras (PETR3; PETR4), pelos bancos e pelo cenário eleitoral"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Terras raras: projeto em MG atrai capital global às vésperas de marco legal",
+   "url": "https://braziljournal.com/terras-raras-projeto-em-mg-atrai-capital-global-as-vesperas-de-marco-legal/",
+   "publicado": "2026-08-31T21:18:33+00:00",
+   "tickers": [],
+   "resumo": "O projeto de terras raras Colosso, em Poços de Caldas, está se tornando um exemplo vivo do apetite global pela nascente (e já bilionária) indústria de terras raras do Brasil – bem como dos interesses e dos riscos políticos em jogo no setor.   O empreendimento atraiu um aporte de "
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Bitcoin sai do marasmo, surpreende e tem melhor agosto desde 2017",
+   "url": "https://valorinveste.globo.com/mercados/cripto/noticia/2026/08/31/bitcoin-sai-do-marasmo-surpreende-e-tem-melhor-agosto-desde-2017.ghtml",
+   "publicado": "2026-08-31T20:59:38+00:00",
+   "tickers": [],
+   "resumo": "Depois de meses de desempenho morno e de uma alta modesta em julho, o Bitcoin (BTC) resolveu acordar em agosto. A principal representante do mercado de criptoativos encerra o mês com valorização próxima de 26%, na faixa dos US$ 79 mil, e registra seu melhor agosto desde 2017, qua"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Bet já alcança 17% dos brasileiros e expõe armadilha da renda rápida",
+   "url": "https://www.suno.com.br/noticias/bet-apostas-online-renda-rapida-risco-vicio-anbima-mt/",
+   "publicado": "2026-08-31T20:45:04+00:00",
+   "tickers": [],
+   "resumo": "A promessa de ganhar dinheiro em poucos cliques está alcançando cada vez mais brasileiros. Segundo a 9ª edição do Raio X do Investidor Brasileiro, 17% da população economicamente ativa fez apostas online em 2025. O dado chama atenção não apenas pelo tamanho do público, mas pelo m"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Ibovespa sobrevive ao mês do 'desgosto'. E agora?",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/08/31/ibovespa-sobrevive-ao-mes-do-desgosto-e-agora.ghtml",
+   "publicado": "2026-08-31T20:43:06+00:00",
+   "tickers": [],
+   "resumo": "Agosto começou com cara de mês do desgosto para o Ibovespa. Em meio à pressão dos juros americanos, à alta do petróleo e à cautela com o cenário externo, o principal índice da bolsa brasileira chegou a acumular queda mensal de 6,5% no dia 18, antes de iniciar uma recuperação que "
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Maiores pagadoras de dividendos de 2026: veja as ações que lideram o ranking até julho",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/noticia/2026/08/31/maiores-pagadoras-de-dividendos-de-2026-veja-as-acoes-que-lideram-o-ranking-ate-julho.ghtml",
+   "publicado": "2026-08-31T19:58:05+00:00",
+   "tickers": [
+    "LOGG3",
+    "RECV3",
+    "TAEE11"
+   ],
+   "resumo": "A PetroReconcavo (RECV3) lidera o ranking das ações com maior dividend yield (retorno) em 2026, considerando os pagamentos feitos até julho. O retorno em proventos da companhia chegou a 12,1% no ano, segundo levantamento da Comdinheiro/Nelogica.\nMas atenção: isso não significa qu"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Caito Maia recruta ‘co-CEO’ para lidar com a crise da Chilli Beans",
+   "url": "https://investnews.com.br/negocios/caito-maia-coceo-crise-chilli-beans/",
+   "publicado": "2026-08-31T19:51:19+00:00",
+   "tickers": [],
+   "resumo": "André Dela Togna já foi sócio da consultoria Galeazzi, especializada em reestruturação de empresas"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Renda fixa isenta oferece retorno de IPCA + 11%; entenda como funciona",
+   "url": "https://www.suno.com.br/noticias/renda-fixa-isenta-ipca-11-mt/",
+   "publicado": "2026-08-31T19:45:06+00:00",
+   "tickers": [],
+   "resumo": "Encontrar uma aplicação de renda fixa isenta pagando IPCA + 11% ao ano pode chamar a atenção do investidor, principalmente em um momento em que os próprios títulos públicos indexados à inflação negociam em patamares historicamente elevados. Mas taxas desse tamanho existem no merc"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Polymarket capta US$ 1 bilhão e alcança avaliação de US$ 21 bilhões",
+   "url": "https://investnews.com.br/negocios/polymarket-capta-us-1-bilhao-e-alcanca-avaliacao-de-us-21-bilhoes/",
+   "publicado": "2026-08-31T19:35:39+00:00",
+   "tickers": [],
+   "resumo": "Polymarket se beneficia do avanço dos mercados de previsão, que permitem apostas sobre eventos como esportes e eleições"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Acionistas da USA Rare Earth aprovam capital para comprar Serra Verde por R$ 14,5 bilhões",
+   "url": "https://investnews.com.br/negocios/acionistas-da-usa-rare-earth-aprovam-capital-para-comprar-serra-verde-por-r-145-bilhoes/",
+   "publicado": "2026-08-31T19:10:57+00:00",
+   "tickers": [],
+   "resumo": "Negócio prevê compra da produtora de terras raras em Goiás e amplia presença dos EUA na cadeia do mineral"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Natura (NATU3) dispara após anunciar troca de CEO e retorno de executivo",
+   "url": "https://www.suno.com.br/noticias/natu3-natura-alta-troca-ceo-carlucci-retorno-agosto-2026-go/",
+   "publicado": "2026-08-31T18:55:05+00:00",
+   "tickers": [
+    "NATU3"
+   ],
+   "resumo": "As ações da Natura (NATU3) estão operando em forte alta nesta segunda-feira (31), chegando a subir 8% na primeira meia hora de negociação, após a companhia divulgar, pela manhã, um fato relevante comunicando a troca do diretor-presidente. Por volta das 15h, os papéis operavam em "
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Electrolux recebe R$ 300 milhões do BNDES para apostar em IA",
+   "url": "https://www.suno.com.br/noticias/electrolux-bndes-300-milhoes-inteligencia-artificial-mt/",
+   "publicado": "2026-08-31T18:44:00+00:00",
+   "tickers": [],
+   "resumo": "Electrolux recebe R$ 300 milhões do BNDES para apostar em IAO Banco Nacional de Desenvolvimento Econômico e Social (BNDES) aprovou o financiamento de R$ 300 milhões para o plano de pesquisa, desenvolvimento e inovação de tecnologias da Electrolux por meio do programa BNDES Mais I"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Petrobras (PETR4) e ‘juniores’ disparam com petróleo; ainda vale comprar? Maior banco dos EUA aposta que sim",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/08/31/petrobras-petr4-e-juniores-disparam-com-petroleo-ainda-vale-comprar-maior-banco-dos-eua-aposta-que-sim.ghtml",
+   "publicado": "2026-08-31T18:40:26+00:00",
+   "tickers": [
+    "BRAV3",
+    "PETR3",
+    "PETR4",
+    "PRIO3",
+    "RECV3"
+   ],
+   "resumo": "As ações de Petrobras e das produtoras independentes de petróleo tiveram forte valorização nesta segunda-feira (31) e ajudaram o Ibovespa a fechar na contramão das bolsas internacionais, beneficiadas pela disparada da commodity após a retomada dos ataques entre Estados Unidos e I"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Aposentadoria de Messi: craque deixa seleção argentina após 22 anos",
+   "url": "https://investnews.com.br/off-work/aposentadoria-de-messi-selecao-argentina/",
+   "publicado": "2026-08-31T18:21:37+00:00",
+   "tickers": [],
+   "resumo": "Lionel Messi anunciou sua aposentadoria da seleção argentina nesta segunda-feira (31), depois de mais de duas décadas defendendo o país em campo. O camisa 10, de 39 anos, comunicou a decisão após a derrota da Argentina para a Espanha na final da Copa do Mundo de 2026. A despedida"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Apple divulga novidade importante (e não é lançamento de um novo iPhone)",
+   "url": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/08/31/apple-divulga-novidade-importante-e-nao-e-lancamento-de-um-novo-iphone.ghtml",
+   "publicado": "2026-08-31T18:13:18+00:00",
+   "tickers": [],
+   "resumo": "É o fim de uma era na Apple, mas, desta vez, a novidade não está dentro de uma caixa. Tim Cook encerra nesta segunda-feira (31) seus 15 anos como CEO da fabricante do iPhone. A partir desta terça-feira (1º), o comando da companhia passa para John Ternus, até então responsável pel"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "‘Sentirei falta do trabalho’, diz Cook em carta de despedida à equipe da Apple",
+   "url": "https://investnews.com.br/negocios/sentirei-falta-do-trabalho-diz-cook-em-carta-de-despedida-a-equipe-da-apple/",
+   "publicado": "2026-08-31T17:26:00+00:00",
+   "tickers": [],
+   "resumo": "Após 15 anos no comando, Cook deixa o cargo de CEO e passa a presidência executiva da Apple a John Ternus"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "De volta à liderança da Natura, Alessandro Carlucci tem o desafio de repetir o sucesso do passado",
+   "url": "https://investnews.com.br/negocios/natura-desafios-carlucci-novo-ceo/",
+   "publicado": "2026-08-31T16:48:52+00:00",
+   "tickers": [],
+   "resumo": "Com receita em queda de 14,8% no trimestre, novo-antigo CEO tem à frente reconstrução do canal direto e da relação com consultoras"
   },
   {
    "fonte": "InvestNews",
@@ -43,41 +295,6 @@
    "resumo": "A Receita paga hoje o quarto e último lote de 2026; veja por que a restituição pode não ter caído na sua conta"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Compre Santander (SANB11), Vibra (VBBR3) e outras 3 ações para ganhar mais de 6% nesta semana, segundo Itaú BBA",
-   "url": "https://www.moneytimes.com.br/day-trade-itau-bba-31-8-26-apsa/",
-   "publicado": "2026-08-31T15:27:12+00:00",
-   "tickers": [
-    "SANB11",
-    "VBBR3"
-   ],
-   "resumo": "A ação do Santander (SANB11) é uma das recomendações de compra em day trade do Íon Itaú/Itaú BBA para esta semana. As ações da empresa fecharam a sessão da última sexta-feira (28) cotadas a R$ 30,01. O potencial de ganho no objetivo um é de 6,53% e o stop sugerido é de R$ 28,36. "
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "No dia da apresentação do Orçamento, ministro do Planejamento reforça compromisso com regra fiscal: ‘resultado primário de R$ 19 bilhões’",
-   "url": "https://www.moneytimes.com.br/no-dia-da-apresentacao-do-orcamento-ministro-do-planejamento-reforca-compromisso-com-regra-fiscal-resultado-primario-de-r-19-bilhoes-rens/",
-   "publicado": "2026-08-31T15:25:25+00:00",
-   "tickers": [],
-   "resumo": "O ministro do Planejamento e Orçamento, Bruno Moretti, reforçou o compromisso do governo federal com um superávit das contas públicas em 2027. &#8220;Vamos entregar um orçamento com resultado primário superavitário, equilibrado, isto é, receitas primárias maiores que despesas pri"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Superado por Augusto Cury nas pesquisas, Renan Santos inclui adversário em lista de ataques",
-   "url": "https://www.moneytimes.com.br/renan-santos-diz-que-lula-e-amigo-e-flavio-bolsonaro-e-aliado-do-crime-organizado-gaep/",
-   "publicado": "2026-08-31T15:23:25+00:00",
-   "tickers": [],
-   "resumo": "O candidato à Presidência da República pelo Missão, Renan Santos, incluiu um novo adversário em sua lista de ataques. Além dos alvos recorrentes Flávio Bolsonaro (PL) e Luiz Inácio Lula da Silva (PT), agora é a vez de Augusto Cury (Avante), que o superou nas duas pesquisas eleito"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Lista da Forbes: herdeira brasileira é a bilionária mais jovem do mundo pelo segundo ano seguido",
-   "url": "https://www.moneytimes.com.br/bilionaria-mais-jovem-brasil-weg-amelie-voigt-trejes-isca/",
-   "publicado": "2026-08-31T15:15:51+00:00",
-   "tickers": [],
-   "resumo": "Amelie Voigt Trejes, de 21 anos, é a bilionária mais jovem do Brasil e do mundo pelo segundo ano consecutivo, segundo ranking divulgado pela Forbes na última sexta-feira (28). Amelie é neta de Werner Ricardo Voigt, um dos fundadores da WEG — multinacional brasileira e uma das mai"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "‘Se a Petrobras quisesse mesmo comprar Mataripe, já teria feito’, diz CEO da Acelen",
    "url": "https://investnews.com.br/negocios/mataripe-acelen-petrobras-mubadala/",
@@ -86,50 +303,14 @@
    "resumo": "Petrobras é fornecedora, concorrente e potencial compradora da refinaria baiana, privatizada em 2021"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Marinho promete nova âncora fiscal e reforma administrativa no primeiro ano de eventual governo Flávio Bolsonaro",
-   "url": "https://www.moneytimes.com.br/marinho-promete-nova-regra-fiscal-e-reforma-administrativa-no-primeiro-ano-de-eventual-governo-flavio/",
-   "publicado": "2026-08-31T15:10:48+00:00",
-   "tickers": [],
-   "resumo": "O senador Rogério Marinho, coordenador da campanha de Flávio Bolsonaro à Presidência, afirmou nesta segunda-feira (31) que, caso Flávio vença às eleições, substituirá o atual arcabouço fiscal e apresentará uma reforma administrativa já no primeiro ano de mandato. Durante o Macro "
-  },
-  {
    "fonte": "Valor Investe",
-   "titulo": "Ações da Casas Bahia (BHIA3) sobem mais de 40% após antecipação de efeitos de RJ",
+   "titulo": "Ações da Casas Bahia (BHIA3) sobem mais de 60% após antecipação de efeitos de RJ",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/08/31/acoes-da-casas-bahia-bhia3-sobem-mais-de-40percent-apos-antecipacao-de-efeitos-de-rj.ghtml",
    "publicado": "2026-08-31T15:08:00+00:00",
    "tickers": [
     "BHIA3"
    ],
-   "resumo": "As ações do Grupo Casas Bahia subiam com força no início desta segunda-feira (31). Mais cedo, a varejista confirmou ter obtido a suspensão de todas as cobranças contra si, em uma antecipação dos efeitos da recuperação judicial pedida há pouco mais 15 dias. A informação foi anteci"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Minerva (BEEF3): Potencial de 40% não basta — o que o Itaú BBA quer ver para ficar mais otimista?",
-   "url": "https://www.moneytimes.com.br/minerva-beef3-potencial-de-40-nao-basta-o-que-o-itau-bba-quer-ver-para-ficar-mais-otimista/",
-   "publicado": "2026-08-31T15:07:31+00:00",
-   "tickers": [
-    "BEEF3"
-   ],
-   "resumo": "O Itaú BBA enxerga um cenário estruturalmente favorável para a Minerva Foods (BEEF3) e calcula potencial de valorização de 40,7% para as ações. Ainda assim, esse espaço para alta não basta para afastar a cautela dos investidores. Após uma reunião com o CEO da companhia, Fernando "
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "RBRX11 eleva resultado em 18% e gira carteira de crédito; entenda",
-   "url": "https://www.suno.com.br/noticias/rbrx11-resultado-julho-2026-distribuicao/",
-   "publicado": "2026-08-31T14:35:07+00:00",
-   "tickers": [
-    "RBRX11"
-   ],
-   "resumo": "O fundo imobiliário RBRX11 apurou resultado de R$ 15,017 milhões em julho de 2026, alta de 18,24% ante o mês anterior. O desempenho decorreu de receitas imobiliárias de R$ 14,090 milhões frente a despesas de R$ 1,332 milhão no período. Por cota, o resultado somou R$ 0,103. Desse "
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Correios fecham 1º semestre de 2026 com prejuízo recorde de R$ 5,55 bilhões",
-   "url": "https://www.suno.com.br/noticias/correios-resultado-1s26-prejuizo-recorde-5-55-bilhoes-go/",
-   "publicado": "2026-08-31T14:15:00+00:00",
-   "tickers": [],
-   "resumo": "Correios fecham 1º semestre de 2026 com prejuízo recorde de R$ 5,55 bilhõesOs Correios fecham o primeiro semestre de 2026 com prejuízo líquido de R$ 5,55 bilhões, resultado 30,4% pior do que os R$ 4,26 bilhões registrados no mesmo período de 2025. Os números foram divulgados pela"
+   "resumo": "As ações do Grupo Casas Bahia subiram com força no pregão desta segunda-feira (31). Pela manhã, a varejista confirmou ter obtido a suspensão de todas as cobranças contra si, em uma antecipação dos efeitos da recuperação judicial pedida há pouco mais 15 dias. A informação foi ante"
   },
   {
    "fonte": "Valor Investe",
@@ -156,16 +337,6 @@
    "resumo": "Oferta-base de R$ 10 bilhões supera o volume emitido por todos os Fiagros no primeiro semestre deste ano"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "PCIP11: FII lança nova emissão bilionária; saiba o valor",
-   "url": "https://www.suno.com.br/noticias/pcip11-nona-emissao-cotas-4-bi/",
-   "publicado": "2026-08-31T13:35:05+00:00",
-   "tickers": [
-    "PCIP11"
-   ],
-   "resumo": "O fundo imobiliário PCIP11 aprovou a nona emissão de cotas, com potencial de captação de até R$ 4 bilhões. A oferta prevê a distribuição de até 43.266.631 novas cotas, ao preço de R$ 92,45 por cota, sem considerar a taxa de distribuição primária. Sobre cada nova cota incide taxa "
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "iFood denuncia Meituan ao Cade e acusa Keeta de concorrência desleal",
    "url": "https://investnews.com.br/negocios/ifood-denuncia-meituan-ao-cade-e-acusa-keeta-de-concorrencia-desleal/",
@@ -182,23 +353,18 @@
    "resumo": "Para levar a Apple a novos patamares, Ternus terá de ir além do domínio da cadeia de suprimentos Cook, que transformou a companhia em um colosso de US$ 5 trilhões"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "Mais de 170 FIIs devem anunciar dividendos nesta segunda (31); veja quais",
-   "url": "https://www.suno.com.br/noticias/dividendos-fiis-anuncios-ultimo-pregao/",
-   "publicado": "2026-08-31T12:35:04+00:00",
-   "tickers": [],
-   "resumo": "O último pregão de agosto deve trazer uma agenda intensa de dividendos. Nesta segunda-feira (31), 175 FIIs podem comunicar novos rendimentos aos cotistas, com base no calendário de divulgações do mês anterior. A relação reúne os fundos imobiliários que anunciaram proventos no últ"
-  },
-  {
    "fonte": "Valor Investe",
-   "titulo": "Ibovespa sobe firme com alta do petróleo e eleições no radar; dólar cai",
+   "titulo": "Ibovespa fecha em alta firme com Petrobras (PETR4) e descola das bolsas no exterior; dólar cai",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/08/31/dolar-e-ibovespa-hoje-31-de-agosto-de-2026.ghtml",
    "publicado": "2026-08-31T12:24:55+00:00",
    "tickers": [
+    "BRAV3",
     "PETR3",
-    "PETR4"
+    "PETR4",
+    "PRIO3",
+    "RECV3"
    ],
-   "resumo": "Principal índice de ações brasileiras, o Ibovespa opera em alta firme nesta segunda-feira (31), enquanto o dólar recua. A disparada de 2,5% no preço do petróleo e as eleições presidenciais mais acirradas estão no radar dos investidores brasileiros. \nEstados Unidos e Irã trocaram "
+   "resumo": "O Ibovespa, principal índice de ações brasileiras, encerrou o último pregão de agosto (31) com alta firme, descolado do clima de aversão a risco nos mercados internacionais, que derrubou as bolsas asiáticas e europeias e pressionou Wall Street. A disparada do petróleo após a reto"
   },
   {
    "fonte": "InvestNews",
@@ -226,24 +392,13 @@
   },
   {
    "fonte": "InvestNews",
-   "titulo": "Cyrela desiste de venda de portfólio imobiliário para fundo TRXF11",
+   "titulo": "Fundo TRXF11 desiste de comprar R$ 2 bilhões em portfólio de imóveis da Cyrela",
    "url": "https://investnews.com.br/negocios/cyrela-desiste-de-venda-de-portfolio-imobiliario-para-fundo-trxf11/",
    "publicado": "2026-08-31T12:05:50+00:00",
    "tickers": [
     "TRXF11"
    ],
    "resumo": "Operação previa aquisição de imóveis da Cyrela e de suas controladas pelo fundo imobiliário"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Itaú Unibanco (ITUB4) e Locaweb (LWSA3) pagam dividendos hoje; veja detalhes",
-   "url": "https://www.suno.com.br/noticias/o-itau-unibanco-itub4-agenda-dividendos-31082026/",
-   "publicado": "2026-08-31T11:55:00+00:00",
-   "tickers": [
-    "ITUB4",
-    "LWSA3"
-   ],
-   "resumo": "Itaú Unibanco (ITUB4) e Locaweb (LWSA3) pagam dividendos hoje; veja detalhesHoje é um dos dias aguardados pelos investidores que seguem uma estratégia de investimentos focada em dividendos: o Itaú Unibanco (ITUB4) e a Locaweb (LWSA3) vão pagar rendimentos aos seus acionistas. Jun"
   },
   {
    "fonte": "InvestNews",
@@ -395,17 +550,6 @@
    "resumo": "O resultado da Mega-Sena 3051 com prêmio de R$ 29,3 milhões foi divulgado neste domingo (30), em São Paulo, e ninguém acertou as seis dezenas. Com isso, o prêmio acumulou em R$ 36 milhões para o próximo sorteio que vai ser realizado na terça-feira (1º). \nOs números sorteados fora"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "Vale (VALE3) e Bradesco (BBDC4): Veja quem paga dividendos na semana",
-   "url": "https://www.suno.com.br/noticias/a-vale-vale3-o-bradesco-bbdc4-agenda-dividendos-28082026/",
-   "publicado": "2026-08-30T13:00:00+00:00",
-   "tickers": [
-    "BBDC4",
-    "VALE3"
-   ],
-   "resumo": "Vale (VALE3) e Bradesco (BBDC4): Veja quem paga dividendos na semanaA Vale (VALE3) será o grande destaque da agenda desta semana para os investidores que focam no recebimento de dividendos para construção de patrimônio. Eles receberão R$ 1,5687 por ação em dividendos, que serão p"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Guerra familiar ameaça império de óculos que reúne Ray-Ban e Oakley",
    "url": "https://investnews.com.br/negocios/guerra-familiar-ameaca-imperio-de-oculos-que-reune-ray-ban-e-oakley/",
@@ -430,22 +574,6 @@
    "resumo": "​O destino me proporcionou, com apenas 25 anos, conhecer Carlos Lacerda, uma das figuras mais brilhantes da história do século XX no Brasil.  Estive com Lacerda em diversos momentos, ora levado pelo senador Gilberto Marinho, ora pelo jornalista Helio Fernandes. Eram conversas fas"
   },
   {
-   "fonte": "Brazil Journal",
-   "titulo": "OPINIÃO. Para mudar a política, reclamar não é uma estratégia",
-   "url": "https://braziljournal.com/opiniao-para-mudar-a-politica-reclamar-nao-e-uma-estrategia/",
-   "publicado": "2026-08-30T09:50:22+00:00",
-   "tickers": [],
-   "resumo": "Há duas semanas, sentado numa mesa de jantar em São Paulo, ouvi uma frase que já escutei umas cem vezes, em diferentes versões: “eu desisti da política brasileira.” Quem disse isso não é uma pessoa desinformada nem alienada. É alguém que dirige uma empresa com milhares de funcion"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "OPINIÃO. Os limites éticos da AI – de Platão e Goethe a Sam Altman",
-   "url": "https://braziljournal.com/opiniao-os-limites-eticos-da-ai-de-platao-e-goethe-a-sam-altman/",
-   "publicado": "2026-08-30T09:50:11+00:00",
-   "tickers": [],
-   "resumo": "Quando a máquina se tornar mais inteligente que o homem, não haverá mais como retroceder. Para entrar nesta nova era, e estabelecer seus limites éticos, vale recorrer a reflexões antigas. Ao longo da história, filósofos e pensadores se valeram do mito de Giges para tratar exatame"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Acredite: talvez você esteja bebendo água demais",
    "url": "https://investnews.com.br/the-wall-street-journal/livre-se-da-garrafa-de-agua-de-12-litro-voce-provavelmente-ja-esta-bem-hidratado/",
@@ -468,14 +596,6 @@
    "publicado": "2026-08-30T06:39:31+00:00",
    "tickers": [],
    "resumo": "O Rio de Janeiro tem o seguro de carro mais caro entre as capitais brasileiras analisadas pela Creditas Seguros. Em julho, a cidade registrou as maiores cotações para todos os dez veículos que compõem o ranking dos carros mais vendidos do país, tanto para homens quanto para mulhe"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "Hoje eu vou sortear 5 pessoas  — by Pedro Vinicio",
-   "url": "https://braziljournal.com/hoje-eu-vou-sortear-5-pessoas-by-pedro-vinicio/",
-   "publicado": "2026-08-29T16:00:15+00:00",
-   "tickers": [],
-   "resumo": "Ver o último.\nThe post Hoje eu vou sortear 5 pessoas  — by Pedro Vinicio appeared first on Brazil Journal."
   },
   {
    "fonte": "InvestNews",
@@ -536,16 +656,6 @@
    "resumo": "Com fotos de perfil produzidas e muitos detalhes sobre a trajetória dos usuários, rede tem sido usada para fim pessoal"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "Fundo imobiliário HGRE11 lança emissão de até R$ 700 milhões",
-   "url": "https://www.suno.com.br/noticias/fundo-imobiliario-hgre11-lanca-emissao-de-ate-r-700-milhoes/",
-   "publicado": "2026-08-29T00:55:03+00:00",
-   "tickers": [
-    "HGRE11"
-   ],
-   "resumo": "O Pátria Edifícios Corporativos – fundo imobiliário (HGRE11) divulgou nesta sexta-feira (28) as condições de sua 10ª emissão de cotas, com potencial de captação de até R$ 699,999 milhões. A oferta, destinada exclusivamente a investidores profissionais, prevê a emissão de até 4.77"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Conta de luz terá bandeira amarela pelo quinto mês seguido em setembro",
    "url": "https://valorinveste.globo.com/objetivo/organize-as-contas/noticia/2026/08/28/conta-de-luz-tera-bandeira-amarela-pelo-quinto-mes-seguido-em-setembro.ghtml",
@@ -560,32 +670,6 @@
    "publicado": "2026-08-28T22:42:14+00:00",
    "tickers": [],
    "resumo": "Samsung lança Galaxy S26 FE com novos recursos, enquanto Apple deve adiar para 2027 tanto o iPhone 18 como o 18e"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "IFIX fecha pregão em alta de 0,6%; semana tem avanço de 1,59%",
-   "url": "https://www.suno.com.br/noticias/ifix-fecha-pregao-em-alta-de-06-semana-tem-avanco-de-159/",
-   "publicado": "2026-08-28T21:45:04+00:00",
-   "tickers": [],
-   "resumo": "O IFIX encerrou o pregão desta sexta-feira (28) aos 3.740,72 pontos, alta de 0,6%. O avanço corresponde a 22,25 pontos frente ao fechamento anterior, de 3.718,47 pontos, consolidando ganho no último pregão da semana. Ao longo da sessão, o índice de fundos imobiliários oscilou ent"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Ibovespa dribla pressão de Jackson Hole e fecha semana com alta de 2,71%",
-   "url": "https://www.suno.com.br/noticias/ibovespa-hoje-fechamento-jackson-hole-semana-mt/",
-   "publicado": "2026-08-28T21:35:06+00:00",
-   "tickers": [],
-   "resumo": "O Ibovespa conseguiu reagir na reta final desta sexta-feira (28) e encerrou o pregão em alta de 0,30%, aos 175.664,62 pontos, garantindo a oitava valorização consecutiva. O índice oscilou entre 173.893,63 e 176.420,61 pontos ao longo da sessão, marcada pela volatilidade após o di"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "CCME11 tem resultado de R$ 6,8 milhões; FII aposta em novas oportunidades de crédito",
-   "url": "https://www.suno.com.br/noticias/ccme11-tem-resultado-de-r-68-milhoes-fii-aposta-em-novas-oportunidades-de-credito/",
-   "publicado": "2026-08-28T21:15:04+00:00",
-   "tickers": [
-    "CCME11"
-   ],
-   "resumo": "O fundo imobiliário (FII) CCME11 apurou em julho resultado gerencial de R$ 6,8 milhões, equivalente a R$ 0,101 por cota. O desempenho refletiu o pagamento trimestral de juros de parte dos CRIs que compõem a carteira, segundo a administradora. Em 17 de agosto, o fundo distribuiu R"
   },
   {
    "fonte": "InvestNews",
@@ -604,14 +688,6 @@
    "resumo": "Os olhares dos investidores apontavam para apenas uma direção nesta sexta-feira (28): Jackson Hole. Era lá, no tradicional simpósio anual do Federal Reserve (Fed, o banco central americano), que Kevin Warsh faria sua estreia num palco carregado de expectativa. \nDesde que assumiu "
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Quem é Luana Lopes Lara, a bilionária self-made mais jovem do Brasil e fundadora da Kalshi?",
-   "url": "https://investnews.com.br/financas/luana-lopes-lara-bilionaria-kalshi/",
-   "publicado": "2026-08-28T20:16:20+00:00",
-   "tickers": [],
-   "resumo": "Luana fez fortuna com seu próprio negócio; a mais jovem da lista é Amélie Voigt Trejes, 21 anos, herdeira da WEG"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Plataforma cripto NovaDax estende prazo para saques e encerramento de contas; confira novas datas",
    "url": "https://valorinveste.globo.com/mercados/cripto/noticia/2026/08/28/plataforma-cripto-novadax-estende-prazo-para-saques-e-encerramento-de-contas-confira-novas-datas.ghtml",
@@ -620,36 +696,12 @@
    "resumo": "A plataforma de negociação de criptomoedas NovaDax, que anunciou em junho o encerramento de suas operações no Brasil, informou que alterou os prazos para a realização de saques e encerramento de contas.\nDesde 15 de junho, a plataforma encerrou as ordens de compra no livro de ofer"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Shein, que fez fama com fast fashion sem grife, agora busca marcas mais conhecidas",
-   "url": "https://investnews.com.br/negocios/a-shein-fez-sua-fama-com-o-fast-fashion-sem-grife-agora-busca-marcas-conhecidas-para-retomar-as-vendas/",
-   "publicado": "2026-08-28T19:01:52+00:00",
-   "tickers": [],
-   "resumo": "Gigante do varejo de moda online, Shein quer incorporar mais marcas à sua cadeia de suprimentos depois do IPO"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Preço do ouro despenca quase 3% com discurso duro de presidente do BC dos EUA sobre inflação",
    "url": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/08/28/preco-do-ouro-despenca-quase-3percent-com-discurso-duro-de-presidente-do-bc-dos-eua-sobre-inflacao.ghtml",
    "publicado": "2026-08-28T18:33:24+00:00",
    "tickers": [],
    "resumo": "O discurso mais “hawkish” (propenso aos juros mais altos) do presidente do Federal Reserve (Fed), Kevin Warsh, levou os contratos futuros de ouro a despencarem nesta sexta-feira. As declarações causaram uma reprecificação conservadora nas apostas para o rumo da política monetária"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Como um remédio para emagrecer engordou o PIB da Dinamarca",
-   "url": "https://investnews.com.br/economia/como-um-remedio-para-emagrecer-engordou-o-pib-da-dinamarca/",
-   "publicado": "2026-08-28T17:24:23+00:00",
-   "tickers": [],
-   "resumo": "Governo da Dinamarca eleva pela quarta vez a estimativa para o PIB, impulsionado pelas exportações de medicamentos da Novo Nordisk"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "O dólar vai subir? Cenário indica bom momento para compra da moeda",
-   "url": "https://investnews.com.br/investimentos/chegou-a-hora-de-o-dolar-subir-cenario-indica-um-bom-momento-para-a-compra/",
-   "publicado": "2026-08-28T16:31:22+00:00",
-   "tickers": [],
-   "resumo": "Juros com tendência de alta nos EUA e de baixa no Brasil, mais as eleições, criam um momento favorável para uma alta da moeda americana"
   },
   {
    "fonte": "Valor Investe",
@@ -666,38 +718,6 @@
    "publicado": "2026-08-28T15:56:41+00:00",
    "tickers": [],
    "resumo": "Os rendimentos dos títulos do Tesouro Direto têm comportamentos distintos nesta sexta-feira (28). Nos prefixados, o dia é de alta, ainda que eles estejam longe das máximas vistas em agosto e julho. Nos atrelados à inflação (o Tesouro IPCA+), as taxas ficam praticamente estáveis.\n"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Chevron negocia expansão na Venezuela com 2 novos campos de petróleo",
-   "url": "https://investnews.com.br/negocios/chevron-negocia-expansao-na-venezuela-com-2-novos-campos-de-petroleo/",
-   "publicado": "2026-08-28T15:55:43+00:00",
-   "tickers": [],
-   "resumo": "Empresa é a única grande petroleira americana atualmente em operação no país"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Novo presidente do banco central dos EUA deixa porta aberta para alta de juros diante da inflação",
-   "url": "https://investnews.com.br/economia/alta-de-juros-fed-mais-discreto-e-inflacao-os-principais-recados-de-warsh-em-jackson-hole/",
-   "publicado": "2026-08-28T15:26:17+00:00",
-   "tickers": [],
-   "resumo": "Presidente do Fed diz que inflação ainda não melhorou o suficiente e faz mercado elevar chance de alta dos juros"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Dona da Centauro renova contrato de exclusividade com a Nike no Brasil até 2034",
-   "url": "https://investnews.com.br/negocios/dona-da-centauro-renova-contrato-de-exclusividade-com-a-nike-no-brasil-ate-2034/",
-   "publicado": "2026-08-28T14:48:47+00:00",
-   "tickers": [],
-   "resumo": "Varejista, subsidiária do Grupo SBF, assinou aditamento que estendeu acordo de distribuição exclusiva de produtos Nike no Brasil, com previsibilidade de sete anos"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "Grupo SBF estende contrato com a Nike, reduzindo seu maior risco",
-   "url": "https://braziljournal.com/grupo-sbf-estende-contrato-com-a-nike-reduzindo-seu-maior-risco/",
-   "publicado": "2026-08-28T14:36:41+00:00",
-   "tickers": [],
-   "resumo": "O Grupo SBF estendeu seu contrato com a Nike e alterou a dinâmica das renovações futuras – um movimento aplaudido pelo mercado por reduzir os riscos de longo prazo de um negócio que já responde por mais de 60% da receita da dona da Centauro.  A ação do Grupo SBF sobe 3,7% no fina"
   },
   {
    "fonte": "Valor Investe",
@@ -762,92 +782,6 @@
    "publicado": "2026-08-28T09:30:15+00:00",
    "tickers": [],
    "resumo": "Na semana passada, tive a honra de participar, no Instituto Brasileiro de Direito Tributário (IBDT), do Seminário Direito Tributário e Mercado Financeiro e de Capitais, realizado em homenagem aos 65 anos do Professor Roberto Quiroga Mosquera.\nO evento, ocorrido em 20 de agosto, t"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Últimos dias: prazo para renegociar dívidas pelo Desenrola 2.0 termina segunda-feira",
-   "url": "https://valorinveste.globo.com/objetivo/organize-as-contas/noticia/2026/08/28/ultimos-dias-prazo-para-renegociar-dividas-pelo-desenrola-20-termina-segunda-feira.ghtml",
-   "publicado": "2026-08-28T09:20:15+00:00",
-   "tickers": [],
-   "resumo": "Quem ainda pretende renegociar dívidas pelo Novo Desenrola Brasil entrou nos últimos dias para aproveitar as condições oferecidas pelo programa. O prazo para adesão termina na próxima segunda-feira, 31 de agosto.\nAté lá, consumidores que se enquadram nas regras ainda podem buscar"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Criptomoeda, criptoativo, ativo virtual: afinal, do que estamos falando?",
-   "url": "https://valorinveste.globo.com/mercados/cripto/noticia/2026/08/28/criptomoeda-criptoativo-ativo-virtual-afinal-do-que-estamos-falando.ghtml",
-   "publicado": "2026-08-28T09:10:15+00:00",
-   "tickers": [],
-   "resumo": "Diante do avanço da regulamentação do “universo cripto”, uma dúvida tem surgido: o Bitcoin, por exemplo, é criptomoeda, criptoativo ou ativo virtual? Na prática, os termos funcionam quase sempre como sinônimos: são nomes diferentes usados para falar do mesmo universo de investime"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Negociação de debêntures incentivadas cresce 24% no ano",
-   "url": "https://valorinveste.globo.com/credito-privado/noticia/2026/08/28/negociacao-de-debentures-incentivadas-cresce-24percent-no-ano.ghtml",
-   "publicado": "2026-08-28T09:00:19+00:00",
-   "tickers": [],
-   "resumo": "As emissões de debêntures incentivadas (títulos de crédito privado com isenção de imposto de renda desde que financiem setores específicos, como infraestrutura) voltaram a crescer em julho, depois do recuo de junho. Mas foi na negociação dos papéis já emitidos, o chamado mercado "
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Ninguém acerta as seis dezenas da Mega-Sena 3050, e prêmio vai a R$ 30 milhões; veja números sorteados",
-   "url": "https://valorinveste.globo.com/loterias/noticia/2026/08/27/resultado-da-mega-sena-3050-hoje-divulgado-veja-numeros-sorteados.ghtml",
-   "publicado": "2026-08-28T00:01:42+00:00",
-   "tickers": [],
-   "resumo": "O resultado da Mega-Sena 3050 com prêmio de R$ 23,3 milhões foi divulgado nesta quinta-feira (27), em São Paulo. Os números sorteados hoje foram: 11 - 14 - 30 - 38 - 49 - 55\nVEJA TAMBÉM: \n- Os números mais sorteados na história Mega-Sena\n26 apostas acertaram cinco dezenas R$ 55,5"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Sem CEP no Vale do Silício, Ibovespa fica fora da festa da IA",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/08/27/sem-cep-no-vale-do-silicio-ibovespa-fica-de-fora-da-festa-da-ia.ghtml",
-   "publicado": "2026-08-27T20:36:04+00:00",
-   "tickers": [],
-   "resumo": "Imagina duas festas acontecendo ao mesmo tempo, em cidades diferentes, com convidados completamente diferentes. Uma delas é em Nova York, e a pauta da noite é inteligência artificial. A outra é aqui, no Brasil, e o assunto é commodities.\nFoi mais ou menos essa a sensação do merca"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Com dívida de R$ 265 milhões, Habib’s tem pedido de recuperação judicial aceito pela Justiça",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/08/27/com-divida-de-r-265-milhoes-habibs-tem-pedido-de-recuperacao-judicial-aceito-pela-justica.ghtml",
-   "publicado": "2026-08-27T20:24:55+00:00",
-   "tickers": [],
-   "resumo": "O Grupo Gennius, dono das marcas Habib’s, Ragazzo e Tendal, entrou em recuperação judicial com uma dívida declarada de R$ 265,2 milhões. O processamento do pedido foi deferido pela 1ª Vara de Falências e Recuperações Judiciais de São Paulo.\n\nA recuperação foi ajuizada na segunda-"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Banco ou cerveja: quais são as marcas brasileiras mais valiosas de 2026?",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/08/27/banco-ou-cerveja-quais-sao-as-marcas-brasileiras-mais-valiosas-de-2026.ghtml",
-   "publicado": "2026-08-27T18:44:47+00:00",
-   "tickers": [
-    "ABEV3",
-    "BBDC4",
-    "ITUB4",
-    "ROXO34",
-    "VIVT3"
-   ],
-   "resumo": "Qual é a marca brasileira mais valiosa? Em uma disputa que reúne bancos, cervejas, operadoras de telefonia e até uma locadora de carros, o Itaú (ITUB4) manteve a liderança em 2026, seguido de perto pelo Nubank (ROXO34). O banco aparece no topo do ranking Kantar BrandZ, com valor "
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Aplicativo Caixa Tem registra  instabilidade pelo segundo dia seguido",
-   "url": "https://valorinveste.globo.com/produtos/servicos-financeiros/noticia/2026/08/27/aplicativo-caixa-tem-registra-instabilidade-pelo-segundo-dia-seguido.ghtml",
-   "publicado": "2026-08-27T18:20:55+00:00",
-   "tickers": [],
-   "resumo": "Pelo segundo dia consecutivo, usuários relataram instabilidade no aplicativo Caixa Tem, da Caixa, que funciona como uma conta digital para movimentar dinheiro e receber benefícios sociais. \n\nDe acordo com o site DownDetector, que monitora falhas em serviços on-line, um pico de re"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "CVM permite que empresas voltem atrás na adesão a padrão de sustentabilidade",
-   "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/08/27/cvm-permite-que-empresas-voltem-atrs-na-adeso-a-padro-de-sustentabilidade.ghtml",
-   "publicado": "2026-08-27T16:14:29+00:00",
-   "tickers": [],
-   "resumo": "Companhias abertas que haviam aderido voluntariamente ao padrão internacional de divulgação de informações financeiras de sustentabilidade antes da mudança das regras promovida pela Comissão de Valores Mobiliários (CVM), em maio, poderão desistir da publicação sem cumprir o perío"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Tesouro Direto: taxas têm leve queda com desemprego dentro do esperado",
-   "url": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/08/27/tesouro-direto-taxas-tem-leve-queda-com-desemprego-dentro-do-esperado.ghtml",
-   "publicado": "2026-08-27T14:45:57+00:00",
-   "tickers": [],
-   "resumo": "O rendimento dos títulos do Tesouro Direto abriram a sessão desta quinta-feira (27) com queda nos atrelados à inflação, após a Pnad Contínua mostrar uma queda da taxa de desemprego do Brasil, de 5,4% a 5,3%, em linha com a projeção do mercado. \nApós a divulgação do IPCA-15 de ago"
   }
  ]
 }

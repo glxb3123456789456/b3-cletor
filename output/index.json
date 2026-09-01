@@ -1,10 +1,10 @@
 {
- "gerado_em": "2026-08-31T16:39:02.229241+00:00",
+ "gerado_em": "2026-09-01T00:57:11.068857+00:00",
  "fontes": {
   "noticias": {
    "arquivo": "noticias.json",
    "status": "ok",
-   "itens": 100
+   "itens": 90
   },
   "fii_pvp": {
    "arquivo": "fii_pvp.json",
@@ -14,17 +14,17 @@
   "fatos_raw": {
    "arquivo": "fatos_raw.json",
    "status": "ok",
-   "itens": 120
+   "itens": 118
   },
   "fatos_fundos_raw": {
    "arquivo": "fatos_fundos_raw.json",
    "status": "ok",
-   "itens": 81
+   "itens": 90
   },
   "fatos_fidc_raw": {
    "arquivo": "fatos_fidc_raw.json",
    "status": "ok",
-   "itens": 62
+   "itens": 46
   }
  }
 }
