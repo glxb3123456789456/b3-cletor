@@ -1,10 +1,10 @@
 {
- "gerado_em": "2026-09-02T18:22:35.586667+00:00",
+ "gerado_em": "2026-09-02T23:47:52.826652+00:00",
  "fontes": {
   "noticias": {
    "arquivo": "noticias.json",
    "status": "ok",
-   "itens": 100
+   "itens": 90
   },
   "fii_pvp": {
    "arquivo": "fii_pvp.json",
@@ -24,7 +24,7 @@
   "fatos_fidc_raw": {
    "arquivo": "fatos_fidc_raw.json",
    "status": "ok",
-   "itens": 65
+   "itens": 90
   }
  }
 }
