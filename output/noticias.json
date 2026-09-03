@@ -1,7 +1,265 @@
 {
  "fonte": "noticias",
- "itens": 90,
+ "itens": 100,
  "dados": [
+  {
+   "fonte": "Money Times",
+   "titulo": "Nvidia comprará plataforma Hugging Face por quase US$13 bi em aposta em modelos abertos de IA",
+   "url": "https://www.moneytimes.com.br/nvidia-comprara-plataforma-hugging-face-por-quase-us13-bi-em-aposta-em-modelos-abertos-de-ia-2/",
+   "publicado": "2026-09-03T13:01:23+00:00",
+   "tickers": [],
+   "resumo": "A Nvidia vai comprar a popular plataforma para desenvolvedores Hugging Face por US$12,93 bilhões, apostando que o apoio a modelos abertos de inteligência artificial impulsionará a demanda futura, mesmo enquanto seus maiores clientes desenvolvem seus próprios chips para reduzir a "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "‘Foi a decisão certa vender bitcoin’: CEO da Strategy defende estratégia que recomprou criptomoeda 30% mais cara",
+   "url": "https://www.moneytimes.com.br/foi-a-decisao-certa-vender-bitcoin-ceo-da-strategy-defende-estrategia-que-recomprou-criptomoeda-30-mais-cara-rens/",
+   "publicado": "2026-09-03T12:54:12+00:00",
+   "tickers": [],
+   "resumo": "O CEO da Strategy, Phong Le, não se arrepende de ter vendido bitcoin (BTC) perto de US$ 60 mil — apenas para recomprar a criptomoeda a um preço cerca de 30% mais alto algumas semanas depois. Em entrevista à Bloomberg Crypto na quarta-feira (2), Le afirmou que a aparente operação "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Day trade: Compre PetroReconcavo (RECV3) e venda MRV&Co (MRVE3) para ganhar até 1,47% hoje (3), segundo a Ágora",
+   "url": "https://www.moneytimes.com.br/day-trade-compre-petroreconcavo-recv3-e-venda-mrvco-mrve3-para-ganhar-ate-147-hoje-3-segundo-a-agora-ceci/",
+   "publicado": "2026-09-03T12:52:52+00:00",
+   "tickers": [
+    "MRVE3",
+    "RECV3"
+   ],
+   "resumo": "A PetroReconcavo (RECV3) é uma das recomendações de compra em day trade da Ágora Investimentos para esta quinta-feira (3). As ações da empresa fecharam a sessão da última quarta-feira (2) cotadas a R$ 11,54. O potencial de ganho é de 1,47% e o stop sugerido é de R$ 11,48. Empresa"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "3corações conclui compra da Yoki e Kitano por R$ 800 milhões",
+   "url": "https://investnews.com.br/negocios/3coracoes-conclui-compra-da-yoki-e-kitano-por-r-800-milhoes/",
+   "publicado": "2026-09-03T12:49:55+00:00",
+   "tickers": [],
+   "resumo": "Aquisição das marcas da General Mills amplia portfólio e leva grupo a 15 fábricas no Brasil"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Pesquisa Atlas: ACM Neto tem 48,8% e Jerônimo Rodrigues soma 47,5% na Bahia",
+   "url": "https://www.moneytimes.com.br/pesquisa-atlas-acm-neto-tem-488-e-jeronimo-rodrigues-soma-475-na-bahia-gaep/",
+   "publicado": "2026-09-03T12:43:48+00:00",
+   "tickers": [],
+   "resumo": "Pesquisa Atlas entre os candidatos ao governo da Bahia mostra uma disputa acirrada entre o ex-prefeito de Salvador, ACM Neto (União Brasil) e o governador Jerônimo Rodrigues (PT). Os dois estão tecnicamente empatados com vantagem numérica para ACM, segundo o levantamento realizad"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "C6 Bank entra no mercado de benefícios com aquisição da Alymente",
+   "url": "https://www.moneytimes.com.br/c6-bank-entra-no-mercado-de-beneficios-com-aquisicao-da-alymente/",
+   "publicado": "2026-09-03T12:41:23+00:00",
+   "tickers": [],
+   "resumo": "O C6 Bank anunciou nesta quinta-feira (3) acordo para comprar a startup Alymente, movimento que marca a entrada do banco no mercado de benefícios corporativos, em linha com a estratégia de ampliar a sua atuação no segmento de pessoas jurídicas. Criada em 2017, a Alymente oferece "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Em áudio, Nikolas Ferreira chama Vorcaro de ‘lindão’ e cobra liberação de ativo, diz site",
+   "url": "https://www.moneytimes.com.br/em-audio-nikolas-ferreira-chama-vorcaro-de-lindao-e-cobra-liberacao-de-ativo-diz-site-gaep/",
+   "publicado": "2026-09-03T12:33:50+00:00",
+   "tickers": [],
+   "resumo": "O deputado federal Nikolas Ferreira (PL-MG) pediu ajuda ao ex-dono do Banco Master, Daniel Vorcaro, para a liberação de um ativo minerário e afirmou querer &#8220;ter mais proximidade&#8221; com ele. As declarações estão em áudios divulgados pelo site ICL Notícias. Procurada, a a"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "CSN (CSNA3), Axia Energia (AXIA3), Nestlé e outros destaques desta quinta-feira (3)",
+   "url": "https://www.moneytimes.com.br/csn-csna3-axia-energia-axia3-nestle-e-outros-destaques-desta-quinta-feira-mlem/",
+   "publicado": "2026-09-03T12:32:28+00:00",
+   "tickers": [
+    "AXIA3",
+    "CSNA3"
+   ],
+   "resumo": "Novo CEO da CSN (CSNA3), resgate de R$ 6,2 bilhões da Axia Energia (AXIA3) e investimento bilionário da Nestlé no Brasil são alguns dos destaques corporativos desta quinta-feira (3). Após 24 anos, CSN (CSNA3) terá novo CEO com saída de Steinbruch; veja quem entra A CSN (CSNA3) te"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Ibovespa futuro avança com ‘trade eleitoral’ e encosta nos 190 mil pontos; dólar cai para o nível abaixo de R$ 5,10",
+   "url": "https://www.moneytimes.com.br/ibovespa-futuro-3-9-26-lils/",
+   "publicado": "2026-09-03T12:06:30+00:00",
+   "tickers": [],
+   "resumo": "O &#8216;trade eleitoral&#8217; segue dando fôlego ao mercado doméstico nesta quinta-feira (3). O Ibovespa futuro (INDFUT) iniciou o pregão com alta de 0,80%, aos 189.400 pontos. O dólar à vista abriu a R$ 5,0830, com queda de 0,44%, na esteira do movimento do DXY. O índice, que "
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Ibovespa futuro avança e dólar cai, continuando o forte rali antes da eleição",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/03/ibovespa-e-dolar-hoje-3-de-setembro-de-2026.ghtml",
+   "publicado": "2026-09-03T12:05:11+00:00",
+   "tickers": [],
+   "resumo": "O Ibovespa futuro abriu em alta nesta quinta-feira (3), enquanto o dólar abriu em baixa. Os ativos continuam o forte rali antes da eleição, apoiado pelo estreitamento da vantagem do presidente Luiz Inácio Lula da Silva (PT) em relação ao senador Flávio Bolsonaro (PL). Os investid"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Banco Central decreta liquidação extrajudicial de duas distribuidoras ligadas ao caso Master",
+   "url": "https://investnews.com.br/financas/banco-central-decreta-liquidacao-extrajudicial-de-duas-distribuidoras-ligadas-ao-caso-master/",
+   "publicado": "2026-09-03T12:00:27+00:00",
+   "tickers": [],
+   "resumo": "As distribuidoras de títulos e valores mobiliários tiveram graves violações às normas legais, segundo o BC"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Banco Central decreta liquidação extrajudicial de duas distribuidoras em São Paulo",
+   "url": "https://www.moneytimes.com.br/banco-central-decreta-liquidacao-extrajudicial-das-distribuidoras-trustee-e-banvox-jcav/",
+   "publicado": "2026-09-03T11:58:39+00:00",
+   "tickers": [],
+   "resumo": "O Banco Central decretou nesta quinta-feira (3) a liquidação extrajudicial da Trustee Distribuidora de Títulos e Valores Mobiliários e da Banvox Distribuidora de Títulos e Valores Mobiliários. O ato foi assinado pelo diretor de Fiscalização, Ailton de Aquino, que está como substi"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "PT pede à PGR para tirar Mendonça da relatoria do caso Master no STF",
+   "url": "https://www.moneytimes.com.br/pt-pede-a-pgr-para-tirar-mendonca-da-relatoria-do-caso-master-no-stf/",
+   "publicado": "2026-09-03T11:56:47+00:00",
+   "tickers": [],
+   "resumo": "Deputados federais do PT, do PCdoB, do PSol e da Rede pedem para a Procuradoria-Geral da República (PGR) requisitar a suspeição do ministro do Supremo Tribunal Federal (STF) André Mendonça na relatoria do caso do Banco Master na Corte. O entendimento deles é de que o magistrado n"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Banco Central decreta liquidação extrajudicial da Banvox e da Trustee",
+   "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/09/03/banco-central-decreta-liquidacao-extrajudicial-da-banvox-e-da-trustee.ghtml",
+   "publicado": "2026-09-03T11:22:11+00:00",
+   "tickers": [],
+   "resumo": "O Banco Central decretou nesta quinta-feira (3) a liquidação extrajudicial da Trustee Distribuidora de Títulos e Valores Mobiliários Ltda. e da Banvox Distribuidora de Títulos e Valores Mobiliários Ltda., ambas com sede em São Paulo (SP). Segundo o BC, as distribuidoras integram "
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Brasileiros movimentam R$ 1,5 bilhão em criptomoedas por dia, mostra Receita Federal",
+   "url": "https://investnews.com.br/investimentos/brasileiros-movimentam-r-15-bilhao-em-criptomoedas-por-dia-mostra-receita-federal/",
+   "publicado": "2026-09-03T11:14:53+00:00",
+   "tickers": [],
+   "resumo": "Entre janeiro e junho deste ano, as operações com criptoativos somaram R$ 283 bilhões, uma alta de 21% em relação ao mesmo período de 2025"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "CSN (CSNA3), Energisa (ENGI11), Prio (PRIO3) e GPS (GGPS3): Veja os destaques das empresas",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/09/03/csn-csna3-energisa-engi11-prio-prio3-e-gps-ggps3-veja-os-destaques-das-empresas.ghtml",
+   "publicado": "2026-09-03T11:13:08+00:00",
+   "tickers": [
+    "CSNA3",
+    "ENGI11",
+    "GGPS3",
+    "PRIO3"
+   ],
+   "resumo": "CSN\nBenjamin Steinbruch, CEO e controlador da Companhia Siderúrgica Nacional (CSN), está deixando a presidência do negócio. Quem assume o cargo, já a partir desta quinta-feira, é Fabio Schvartsman, que foi presidente da Vale entre 2017 e 2019.\n\nEnergisa\nA Matrix, empresa controla"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Pesquisa nova do Datafolha e discursos de dirigentes do Fed estão no radar",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/03/pesquisa-nova-do-datafolha-e-discursos-de-dirigentes-do-fed-estao-no-radar.ghtml",
+   "publicado": "2026-09-03T10:56:45+00:00",
+   "tickers": [],
+   "resumo": "Os investidores monitoram nesta quinta-feira (3) uma pesquisa nova do Datafolha sobre as intenções de voto para a presidência na eleição, que será divulgada hoje. O levantamento vem após um forte rali antes da eleição fazer o Ibovespa saltar 3% e o dólar ser negociado novamente p"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Rumo: COFCO e Bunge negociam governança",
+   "url": "https://braziljournal.com/rumo-cofco-e-bunge-negociam-governanca/",
+   "publicado": "2026-09-03T09:50:48+00:00",
+   "tickers": [],
+   "resumo": "A Cosan está em conversas avançadas com um consórcio formado pela COFCO e a Bunge para vender uma fatia de 15% na Rumo, fontes a par do assunto disseram ao Brazil Journal. A proposta em discussão é “substancialmente acima do preço de tela”, mas não há garantias de que as partes c"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "A Iguá já botou R$ 1 bi para ‘reformar’ a velha Cedae. Os jacarés estão voltando",
+   "url": "https://braziljournal.com/a-igua-ja-botou-r-1-bi-para-reformar-a-velha-cedae-os-jacares-estao-voltando/",
+   "publicado": "2026-09-03T09:50:41+00:00",
+   "tickers": [],
+   "resumo": "RIO DE JANEIRO – Na Estação de Tratamento de Esgoto da Barra da Tijuca, fotos espalhadas pelas instalações mostram o ‘antes e depois’ da unidade que até 2022 pertencia à estatal fluminense Cedae.  Quando a Iguá Saneamento assumiu as operações, após vencer o leilão do Bloco 2 da C"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Vítima de golpe",
+   "url": "https://valorinveste.globo.com/blogs/vera-rita-de-mello-ferreira/coluna/vitima-de-golpe.ghtml",
+   "publicado": "2026-09-03T09:50:15+00:00",
+   "tickers": [],
+   "resumo": "- por que tanta gente cai em golpes? \n- vou falar, aqui, dos financeiros...\n- e mais - vou falar da responsabilidade psicológica de muitas vítimas...\n- claro que não se aplica a  todos!!!\n- mas vale conhecer alguns dos mecanismos psicológicos que podem estar presentes em alguns c"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Stelleo Tolda e Jean-Marc Etlin vão para o board da Endeavor Brasil",
+   "url": "https://braziljournal.com/stelleo-tolda-e-jean-marc-etlin-vao-para-o-board-da-endeavor-brasil/",
+   "publicado": "2026-09-03T09:50:00+00:00",
+   "tickers": [],
+   "resumo": "A Endeavor Brasil trouxe para o seu conselho Stelleo Tolda e Jean-Marc Etlin, num movimento que busca aproximar a entidade de segmentos para além do venture capital. Stelleo, um dos fundadores do Mercado Livre, e Etlin, o veterano banqueiro e hoje o managing director da Bluebird,"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Esquece o bitcoin",
+   "url": "https://valorinveste.globo.com/blogs/gustavo-cunha/coluna/esquece-o-bitcoin.ghtml",
+   "publicado": "2026-09-03T09:40:15+00:00",
+   "tickers": [],
+   "resumo": "Bitcoin hoje tem mais de 15 anos, tech e lugar consolidados e vol menor do que nvidia. Para investimentos ficou boring. Chato. Pode até subir, mas dificilmente fará 3x no curto prazo. E se fizer outras então que estão por aí farão muito mais. \nDurante anos, investir em cripto foi"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "IBGC abre bolsas em curso para indígenas e negros atuarem em conselhos de empresas",
+   "url": "https://valorinveste.globo.com/objetivo/empreenda-se/noticia/2026/09/03/ibgc-abre-bolsas-em-curso-para-indigenas-e-negros-atuarem-em-conselhos-de-empresas.ghtml",
+   "publicado": "2026-09-03T09:30:15+00:00",
+   "tickers": [],
+   "resumo": "O Instituto Brasileiro de Governança Corporativa (IBGC) abriu inscrição para pessoas que se autodeclaram indígenas, pardas e pretas participarem de uma formação para atuar em conselhos de empresas. O Programa Diversidade em Conselho Raízes (PDeC Raízes) oferece bolsas integrais e"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Fundos imobiliários: por que os galpões logísticos estão resistindo melhor à pressão do mercado?",
+   "url": "https://valorinveste.globo.com/produtos/fundos-imobiliarios/noticia/2026/09/03/fundos-imobiliarios-por-que-os-galpoes-logisticos-estao-resistindo-melhor-a-pressao-do-mercado.ghtml",
+   "publicado": "2026-09-03T09:20:15+00:00",
+   "tickers": [
+    "BRCO11",
+    "BTLG11",
+    "CPLG11",
+    "GGRC11",
+    "TRXF11",
+    "XPLG11"
+   ],
+   "resumo": "Mesmo em um cenário de juros altos e queda generalizada das cotas dos fundos imobiliários na bolsa, o setor de galpões vem trazendo uma combinação de vacância no menor nível da história, aluguéis em alta e competitividade por novos imóveis que têm despertado o interesse dos inves"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Para onde foram os bilhões de reais do vencimento de títulos do Tesouro?",
+   "url": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/09/03/para-onde-foram-os-bilhoes-de-reais-do-vencimento-de-titulos-do-tesouro.ghtml",
+   "publicado": "2026-09-03T09:10:15+00:00",
+   "tickers": [],
+   "resumo": "O vencimento de cerca de R$ 258 bilhões em títulos atrelados à inflação, o maior de indexados em anos, despejou uma montanha de dinheiro no mercado recentemente. No entanto, o fluxo desse montante deixou poucos rastros no mercado. Não houve movimentos atípicos de preços, e as lei"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Em batalha pela sobrevivência, Volkswagen enfrenta concorrência chinesa e o próprio conselho",
+   "url": "https://investnews.com.br/the-wall-street-journal/em-batalha-pela-sobrevivencia-volkswagen-enfrenta-concorrencia-chinesa-e-o-proprio-conselho/",
+   "publicado": "2026-09-03T09:02:00+00:00",
+   "tickers": [],
+   "resumo": "Plano do CEO para tornar a empresa menor e menos alemã provoca reação de sindicatos e políticos; “Detroitização” vira novo termo em alta"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "As criptomoedas dispararam em agosto. E agora? Veja as apostas para setembro",
+   "url": "https://valorinveste.globo.com/mercados/cripto/noticia/2026/09/03/as-criptomoedas-dispararam-em-agosto-e-agora-veja-as-apostas-para-setembro.ghtml",
+   "publicado": "2026-09-03T09:00:16+00:00",
+   "tickers": [],
+   "resumo": "Depois de um agosto de forte recuperação para o mercado de criptoativos, Bitcoin (BTC) e Solana (SOL) chegam a setembro empatados na liderança das apostas dos especialistas consultados pelo Valor Investe. O HYPE, token da plataforma Hyperliquid, completa o Top 3 e retorna aos des"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Como a Hitachi fez dos dados o seu negócio mais rentável. E o Brasil ganhou atenção por data centers",
+   "url": "https://investnews.com.br/negocios/hitachi-estrategia-brasil-data-centers/",
+   "publicado": "2026-09-03T09:00:00+00:00",
+   "tickers": [],
+   "resumo": "Grupo japonês faturou US$ 70 bilhões no último ano e amplia negócio de armazenamento e gestão de dados por meio da Hitachi Vantara"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "MEMÓRIA. Milton Afonso sempre estendia a mão",
+   "url": "https://braziljournal.com/memoria-milton-afonso-sempre-estendia-a-mao/",
+   "publicado": "2026-09-03T04:09:30+00:00",
+   "tickers": [],
+   "resumo": "Bem-aventurado aquele que, entre nós, partir desta vida deixando no mundo o legado de generosidade e desprendimento de Milton Afonso, o menino pobre que vendia doces com seis anos de idade, ergueu um império na saúde, e depois passou décadas compartilhando essa riqueza – numa obr"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Mega-Sena 3053 sorteia prêmio de R$ 41 milhões hoje; veja como apostar e fazer bolão",
+   "url": "https://valorinveste.globo.com/loterias/noticia/2026/09/03/mega-sena-3053-sorteia-premio-de-r-41-milhoes-hoje-veja-como-apostar-e-fazer-bolao.ghtml",
+   "publicado": "2026-09-03T03:01:14+00:00",
+   "tickers": [],
+   "resumo": "A Mega-Sena 3053 sorteia um prêmio estimado em R$ 41 milhões nesta quinta-feira (3), a partir das 21h (horário de Brasília), em São Paulo.\nVEJA TAMBÉM: \n- Os números mais sorteados na história Mega-Sena\nNos concursos realizados às terças e quintas-feiras, as apostas podem ser fei"
+  },
   {
    "fonte": "Valor Investe",
    "titulo": "Steinbruch deixa presidência da CSN (CSNA3) e Fabio Schvartsman, ex-Vale, assume o cargo",
@@ -499,44 +757,12 @@
    "resumo": "Crise e recuperações judiciais de grandes empresas elevam as taxas de juros até de papéis considerados mais seguros"
   },
   {
-   "fonte": "Brazil Journal",
-   "titulo": "O jantar do PIB com Lula",
-   "url": "https://braziljournal.com/o-jantar-do-pib-com-lula/",
-   "publicado": "2026-09-02T03:18:03+00:00",
-   "tickers": [],
-   "resumo": "Todos foram pontuais – exceto André Esteves, que chegou um pouco depois.  Os 16 empresários chegaram ao Palácio da Alvorada às 19h30 de segunda-feira. Lula e Janja desceram a escada por volta de 19h40. Ela cumprimentou todos cordialmente, mas não ficou para o jantar.  O President"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Ninguém acerta as seis dezenas da Mega-Sena 3052, e prêmio acumula em R$ 41 milhões; veja números sorteados",
    "url": "https://valorinveste.globo.com/loterias/noticia/2026/09/01/resultado-da-mega-sena-3052-hoje-divulgado-veja-numeros-sorteados.ghtml",
    "publicado": "2026-09-02T00:02:00+00:00",
    "tickers": [],
    "resumo": "O resultado da Mega-Sena 3052 com prêmio de R$ 34,5 milhões foi divulgado nesta terça-feira (1º), em São Paulo. Os números sorteados hoje foram: 16 - 30 - 40 - 47 - 48 - 60\nVEJA TAMBÉM: \n- Os números mais sorteados na história Mega-Sena\n21 apostas acertaram cinco dezenas e vão re"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "No Brasil faccionado, a Pax quer ser o ChatGPT da polícia",
-   "url": "https://braziljournal.com/no-brasil-faccionado-a-pax-quer-ser-o-chatgpt-da-policia/",
-   "publicado": "2026-09-01T22:23:25+00:00",
-   "tickers": [],
-   "resumo": "Todo mundo sente na pele – mas é difícil dimensionar o problema da violência no Brasil.   O País sequer possui uma estatística nacional padronizada que mostre quantos crimes são solucionados. Nos homicídios, onde há dados mais confiáveis, o retrato é preocupante: menos de quatro "
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "Por que os aeroportos querem imposto zero nas blusinhas",
-   "url": "https://braziljournal.com/por-que-os-aeroportos-querem-imposto-zero-nas-blusinhas/",
-   "publicado": "2026-09-01T21:42:29+00:00",
-   "tickers": [],
-   "resumo": "A Medida Provisória que acaba com a ‘taxa das blusinhas’ – ainda não votada no Congresso e perto de expirar – ganhou novos aliados: operadores de aeroportos e empresas de transporte internacional de cargas. Publicada em 12 de maio, a MP zerando o imposto de importação sobre compr"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "Moura se alia à China nas baterias e vê leilão maior que esperado",
-   "url": "https://braziljournal.com/moura-se-alia-a-china-para-o-leilao-de-baterias-que-pode-ser-maior-do-se-pensa/",
-   "publicado": "2026-09-01T21:36:56+00:00",
-   "tickers": [],
-   "resumo": "O Grupo Moura se aliou à chinesa CATL para produzir sistemas de armazenamento de energia em seu complexo fabril de Belo Jardim, Pernambuco, onde a empresa hoje fabrica baterias para veículos. A parceria entre a líder em baterias automotivas da América do Sul com a maior do mundo "
   },
   {
    "fonte": "InvestNews",
@@ -595,22 +821,6 @@
    "resumo": "As chances de um corte de 0,25 ponto percentual na taxa básica de juros (a Selic) na reunião do Comitê de Política Monetária (Copom) do Banco Central (BC) de 4 de novembro subiram de 50% para 59%, nesta terça-feira (1º), de acordo com os contratos de opção de Copom negociados pel"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Anthropic, dona do Claude, lança IA mais barata para tarefas complexas",
-   "url": "https://investnews.com.br/negocios/anthropic-dona-do-claude-lanca-ia-mais-barata-para-tarefas-complexas/",
-   "publicado": "2026-09-01T18:57:50+00:00",
-   "tickers": [],
-   "resumo": "Segundo a Anthropic, nova versão é mais eficiente em tarefas complexas de programação e também traz melhorias para trabalhos científicos"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Antecipação de herança: como funciona e em que cenários vale a pena",
-   "url": "https://investnews.com.br/financas/antecipacao-de-heranca/",
-   "publicado": "2026-09-01T18:29:34+00:00",
-   "tickers": [],
-   "resumo": "Doar em vida simplifica a sucessão da família, mas tem regras específicas e um cálculo que muita gente esquece"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Petróleo dispara após novos ataques dos EUA contra Irã e bate máxima desde julho",
    "url": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/09/01/petroleo-dispara-apos-novos-ataques-dos-eua-contra-ira-e-bate-maxima-desde-julho.ghtml",
@@ -625,14 +835,6 @@
    "publicado": "2026-09-01T17:46:50+00:00",
    "tickers": [],
    "resumo": "Os rendimentos dos títulos públicos disparam nos principais mercados globais nesta terça-feira (1º), com os custos de financiamento no Japão e no Reino Unido atingindo máximas de várias décadas. Nos Estados Unidos, o rendimento da Treasury de 10 anos chegou ao maior nível em 20 m"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Nova regra do Pix amplia prazo para contestar por golpe. Veja o que muda",
-   "url": "https://investnews.com.br/financas/nova-regra-pix-prazo-golpe/",
-   "publicado": "2026-09-01T17:08:58+00:00",
-   "tickers": [],
-   "resumo": "Mudança no Pix mira golpes como os que usam o mecanismo de devolução contra pequenos negócios"
   },
   {
    "fonte": "Valor Investe",
@@ -651,14 +853,6 @@
    "resumo": "O Pix passa a funcionar de forma diferente a partir desta terça-feira (1º). O prazo para contestar uma devolução feita pelo Mecanismo Especial de Devolução (MED), a ferramenta de segurança do Banco Central, subiu de 30 para 80 dias.\nA ampliação não vale para a vítima do golpe. Qu"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Água gratuita, meia-entrada e reembolso de taxas. Conheça as novas regras para a venda de ingressos",
-   "url": "https://investnews.com.br/economia/agua-gratuita-meia-entrada-e-reembolso-de-taxas-conheca-as-novas-regras-para-a-venda-de-ingressos/",
-   "publicado": "2026-09-01T15:43:24+00:00",
-   "tickers": [],
-   "resumo": "Decreto também cria regras para combater compras em massa, organizar filas virtuais e ampliar a transparência na venda"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Bitso deixa varejo cripto no Brasil e clientes passam para o Mercado Bitcoin",
    "url": "https://valorinveste.globo.com/mercados/cripto/noticia/2026/09/01/bitso-deixa-varejo-cripto-no-brasil-e-clientes-passam-para-o-mercado-bitcoin.ghtml",
@@ -667,129 +861,12 @@
    "resumo": "A Bitso vai deixar de atender diretamente os clientes pessoa física que negociam criptoativos no Brasil, que passarão a investir pelo Mercado Bitcoin (MB). O movimento faz parte de uma parceria anunciada pelas duas empresas nesta terça-feira (1º), que também prevê a união de suas"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Crédito mais caro: temor global de inflação e dívida faz investidores venderem títulos",
-   "url": "https://investnews.com.br/economia/credito-mais-caro-temor-global-de-inflacao-e-divida-faz-investidores-venderem-titulos/",
-   "publicado": "2026-09-01T13:40:53+00:00",
-   "tickers": [],
-   "resumo": "Petróleo mais caro eleva temor de inflação e reforça expectativas de alta dos juros nas principais economias"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Tesouro Direto: taxas passam a cair após divulgação do PIB; onde investir?",
    "url": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/09/01/tesouro-direto-taxas-voltam-a-subir-nos-juros-de-longo-prazo-onde-investir.ghtml",
    "publicado": "2026-09-01T13:35:06+00:00",
    "tickers": [],
    "resumo": "Os rendimentos dos títulos do Tesouro Direto começaram o dia em alta, nesta terça-feira (1), mas passaram a cair, com exceção do Tesouro IPCA+ 2050, durante a tarde. O movimento ocorreu em seguida à divulgação do Produto Interno Bruto (PIB) do Brasil, cujo avanço de 0,5% no segun"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Ibovespa fecha em forte alta com bancos e Petrobras (PETR4), na contramão do mundo; dólar recua",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/01/ibovespa-e-dolar-hoje-1-de-setembro-de-2026.ghtml",
-   "publicado": "2026-09-01T12:24:31+00:00",
-   "tickers": [
-    "PETR3",
-    "PETR4"
-   ],
-   "resumo": "O Ibovespa, principal índice de ações brasileiras, operou em forte alta durante todo o pregão desta terça-feira (1), na B3, em contraste com as bolsas globais, que tiveram recuou acentuado desde o início do dia. Em mais um dia de disparada do preço do petróleo, as ações preferenc"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Brasil cai para 13º lugar entre economias que mais cresceram em 2026 entre as maiores do mundo",
-   "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/09/01/brasil-cai-para-13o-lugar-entre-economias-que-mais-cresceram-em-2026-ano-entre-as-maiores-do-mundo.ghtml",
-   "publicado": "2026-09-01T12:24:01+00:00",
-   "tickers": [],
-   "resumo": "Depois do crescimento de 0,5% do Produto Interno Bruto (PIB) no segundo trimestre de 2026 divulgado nesta terça-feira (1º) pelo Instituto Brasileiro de Geografia e Estatística (IBGE), o Brasil acumula um crescimento de 1.9% em 12 meses e aparece como a 13ª economia que mais cresc"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "PIB do Brasil desacelera e sobe 0,5% no 2º trimestre. Como afeta o seu bolso?",
-   "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/09/01/pib-do-brasil-desacelera-e-sobe-05percent-no-2o-trimestre-como-afeta-o-seu-bolso.ghtml",
-   "publicado": "2026-09-01T12:02:33+00:00",
-   "tickers": [],
-   "resumo": "O Produto Interno Bruto (PIB) brasileiro, indicador mais importante do avanço da economia do país, cresceu 0,5% no segundo trimestre de 2026, apontou o Instituto Brasileiro de Greografia e Estatística (IBGE) nesta terça-feira (1). O dado desacelerou em relação ao trimestre anteri"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Suzano (SUZB3), Heringer (FHER3), Cemig (CMIG4), Eneva (ENEV3) e mais: Veja os destaques das empresas",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/09/01/suzano-suzb3-heringer-fher3-cemig-cmig4-eneva-enev3-e-mais-veja-os-destaques-das-empresas.ghtml",
-   "publicado": "2026-09-01T11:16:32+00:00",
-   "tickers": [
-    "CMIG4",
-    "ENEV3",
-    "FHER3",
-    "SUZB3"
-   ],
-   "resumo": "Suzano \nA Suzano anunciou um acordo assinado com o Grupo Imetame, para que a produtora de papel e celulose adquira participação de 10% na Imetame Logística Porto, sociedade responsável por um empreendimento portuário no Espírito Santo, que está em construção.\n\nFertilizantes Herin"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Investidores monitoram PIB do Brasil e dados de emprego nos EUA",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/01/investidores-monitoram-pib-do-brasil-e-dados-de-emprego-nos-eua.ghtml",
-   "publicado": "2026-09-01T10:33:09+00:00",
-   "tickers": [],
-   "resumo": "Os investidores monitoram o Produto Interno Bruto (PIB) do Brasil do segundo trimestre nesta terça-feira (1), que deve reforçar os sinais de que a economia está desacelerando e as apostas em corte de juros no país. No exterior, os números de vagas em aberto (Jolts, na sigla em in"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Qual investimento deixou o desgosto de agosto para trás e teve o melhor rendimento? Spoiler: tem surpresa",
-   "url": "https://valorinveste.globo.com/mercados/noticia/2026/08/31/qual-investimento-deixou-o-desgosto-de-agosto-para-tras-e-teve-o-melhor-rendimento-spoiler-tem-surpresa.ghtml",
-   "publicado": "2026-08-31T22:25:50+00:00",
-   "tickers": [],
-   "resumo": "Ele passou meses adormecido, tentando recuperar as perdas acumuladas desde sua máxima histórica e com poucas oscilações em meio a um cenário de forte volatilidade para os ativos de risco. Em agosto, porém, o Bitcoin finalmente acordou: a principal representante do mercado de crip"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Febraban troca de comando: Leandro Vilain vai substituir Isaac Sidney na presidência",
-   "url": "https://valorinveste.globo.com/mercados/noticia/2026/08/31/febraban-troca-de-comando-leandro-vilain-vai-substituir-isaac-sidney-na-presidencia.ghtml",
-   "publicado": "2026-08-31T22:10:53+00:00",
-   "tickers": [],
-   "resumo": "A Federação Brasileira de Bancos (Febraban) terá um novo presidente-executivo. O conselho diretor da entidade aprovou nesta segunda-feira (31) a indicação de Leandro Vilain, atual presidente da Associação Brasileira de Bancos (ABBC), para substituir Isaac Sidney. \nA mudança será "
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Veja as maiores quedas do Ibovespa em agosto",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/08/31/veja-as-maiores-quedas-do-ibovespa-em-agosto.ghtml",
-   "publicado": "2026-08-31T21:39:40+00:00",
-   "tickers": [
-    "CSMG3",
-    "HAPV3",
-    "LREN3",
-    "POMO4",
-    "SMFT3"
-   ],
-   "resumo": "Agosto é o mês do desgosto, diz o ditado. Foi o caso para as empresas que lideram as dez maiores quedas do Ibovespa, na maioria impactadas pelo desempenho na temporada de balanços recém-encerrada. Para o conjunto do principal índice de ações brasileiras, nada disso – o Ibovespa a"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Ouro sobe quase 10% em agosto e tem melhor mês desde janeiro",
-   "url": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/08/31/ouro-sobe-quase-10percent-em-agosto-e-tem-melhor-mes-desde-janeiro.ghtml",
-   "publicado": "2026-08-31T21:36:03+00:00",
-   "tickers": [],
-   "resumo": "Nem mesmo a forte queda dos últimos pregões foi suficiente para apagar o brilho do ouro em agosto. O metal precioso acumulou alta de cerca de 10% no mês e registrou seu melhor desempenho mensal desde janeiro.\nNesta segunda-feira (31), porém, o movimento foi na direção contrária. "
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Veja as maiores altas do Ibovespa em agosto",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/08/31/veja-as-maiores-altas-do-ibovespa-em-agosto.ghtml",
-   "publicado": "2026-08-31T21:29:54+00:00",
-   "tickers": [
-    "CYRE3",
-    "FLRY3",
-    "MRVE3",
-    "SLCE3",
-    "TOTS3",
-    "TRXF11"
-   ],
-   "resumo": "Agosto foi de recuperação para parte das empresas que compõem a lista das dez maiores altas do índice Ibovespa. Após liderar nas maiores quedas em julho, os setores cíclicos - como construção civil e agronegócio - ocuparam a maior parte das posições entre os melhores desempenhos "
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Bitcoin sai do marasmo, surpreende e tem melhor agosto desde 2017",
-   "url": "https://valorinveste.globo.com/mercados/cripto/noticia/2026/08/31/bitcoin-sai-do-marasmo-surpreende-e-tem-melhor-agosto-desde-2017.ghtml",
-   "publicado": "2026-08-31T20:59:38+00:00",
-   "tickers": [],
-   "resumo": "Depois de meses de desempenho morno e de uma alta modesta em julho, o Bitcoin (BTC) resolveu acordar em agosto. A principal representante do mercado de criptoativos encerra o mês com valorização próxima de 26%, na faixa dos US$ 79 mil, e registra seu melhor agosto desde 2017, qua"
   }
  ]
 }
