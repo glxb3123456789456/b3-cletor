@@ -3,20 +3,120 @@
  "itens": 100,
  "dados": [
   {
-   "fonte": "Money Times",
-   "titulo": "Lula, Flávio Bolsonaro, Augusto Cury… seu patrimônio está preparado para o resultado das Eleições 2026?",
-   "url": "https://www.moneytimes.com.br/lula-flavio-bolsonaro-augusto-cury-seu-patrimonio-esta-preparado-para-o-resultado-das-eleicoes-2026-lbrdjr254/",
-   "publicado": "2026-09-05T12:00:00+00:00",
+   "fonte": "InvestNews",
+   "titulo": "Jaguar Land Rover prepara corte de 4 mil vagas em meio a queda de vendas",
+   "url": "https://investnews.com.br/negocios/jaguar-land-rover-corte-4-mil-vagas/",
+   "publicado": "2026-09-05T15:59:54+00:00",
    "tickers": [],
-   "resumo": "Cada um dos cenários possíveis nas urnas pede uma estratégia diferente de investimento; veja como se posicionar"
+   "resumo": "Segundo jornal Times, montadora controlada pela Tata busca economizar 1,7 bilhão de libras em dois anos, após lucro recuar 69% e tarifas dos EUA elevarem a pressão sobre o negócio"
   },
   {
    "fonte": "Money Times",
-   "titulo": "Caiado volta a defender PEC de Emergência Fiscal e cita medidas ‘austeras’ para crises",
-   "url": "https://www.moneytimes.com.br/caiado-volta-a-defender-pec-de-emergencia-fiscal-e-cita-medidas-austeras-para-crises-jcav/",
-   "publicado": "2026-09-05T11:53:49+00:00",
+   "titulo": "Fábrica de milionários? Lotofácil da Independência oferece prêmio recorde e pode criar dezenas de novos ricos de uma só vez",
+   "url": "https://www.moneytimes.com.br/fabrica-de-milionarios-lotofacil-da-independencia-oferece-premio-recorde-rsgp/",
+   "publicado": "2026-09-05T15:49:00+00:00",
    "tickers": [],
-   "resumo": "O candidato à Presidência Ronaldo Caiado (PSD) voltou a dizer que, caso eleito, irá encaminhar ao Congresso Nacional uma Proposta de Emenda à Constituição (PEC) da Emergência Fiscal. Em sabatina da Veja nesta sexta-feira, 4, o presidenciável afirmou que essa proposta deve definir"
+   "resumo": "Com a promessa de pagar o valor histórico de R$ 300 milhões, a 15ª edição da Lotofácil da Independência já movimenta apostadores por todo o país. O sorteio especial, agendado para o dia 15 de setembro, carrega a forte tendência de dividir sua premiação máxima entre diversos ganha"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Bitcoin (BTC) ronda os US$ 80 mil e acumula alta de 2,6% na semana; veja cotações deste sábado (5)",
+   "url": "https://www.moneytimes.com.br/bitcoin-btc-ronda-os-us-80-mil-e-acumula-alta-de-26-na-semana-veja-cotacoes-deste-sabado-5-jcav/",
+   "publicado": "2026-09-05T15:23:15+00:00",
+   "tickers": [],
+   "resumo": "O bitcoin (BTC) opera em alta neste sábado (5) e volta a se aproximar da marca de US$ 80 mil, após uma sessão negativa para as bolsas dos Estados Unidos. Por volta das 11h30 (horário de Brasília), o maior criptoativo do mundo era negociado a US$ 79.754,09, com valorização de 0,5%"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "IPCA + 9,52% ou 120% do CDI? Veja os títulos de crédito privado escolhidos pelo Itaú BBA",
+   "url": "https://www.moneytimes.com.br/ipca-952-ou-120-do-cdi-veja-os-titulos-de-credito-privado-escolhidos-pelo-itau-bba-jcav/",
+   "publicado": "2026-09-05T14:58:57+00:00",
+   "tickers": [],
+   "resumo": "O Itaú BBA selecionou sete títulos de crédito privado para investir em setembro, divididos entre papéis atrelados à inflação, prefixados e indexados ao CDI. A carteira contempla debêntures incentivadas, Certificados de Recebíveis Imobiliários (CRIs) e do Agronegócio (CRAs), que o"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Itaú (ITUB4), WEG (WEGE3) e 8 ações para ter na carteira em setembro, segundo a Terra Investimentos",
+   "url": "https://www.moneytimes.com.br/itau-itub4-weg-wege3-e-8-acoes-para-ter-na-carteira-em-setembro-segundo-a-terra-investimentos-lmrs/",
+   "publicado": "2026-09-05T14:50:00+00:00",
+   "tickers": [
+    "ASAI3",
+    "CURY3",
+    "CYRE3",
+    "EMBJ3",
+    "ITUB4",
+    "POMO4",
+    "RDOR3",
+    "WEGE3"
+   ],
+   "resumo": "A Terra Investimentos ajustou a carteira recomendada de ações para o mês de setembro. Deixam o portfólio as ações da Embraer (EMBJ3), Cury (CURY3), Marcopolo (POMO4) e Assaí (ASAI3) para dar lugar aos papéis do Itaú (ITUB4), Cyrela (CYRE3), WEG (WEGE3) e Rede D&#8217;or (RDOR3). "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Potencial de alta de até 41%: Itaú BBA troca 3 ações da carteira e adota postura defensiva para setembro",
+   "url": "https://www.moneytimes.com.br/potencial-de-alta-de-ate-41-itau-bba-troca-3-acoes-da-carteira-e-adota-postura-defensiva-para-setembro-jcav/",
+   "publicado": "2026-09-05T14:20:53+00:00",
+   "tickers": [
+    "BBDC4",
+    "BPAC11",
+    "ENEV3",
+    "ROXO34",
+    "SBSP3",
+    "SUZB3"
+   ],
+   "resumo": "O Itaú BBA promoveu três mudanças em sua carteira recomendada de ações para setembro, em uma tentativa de proteger o portfólio de um cenário mais adverso para a Bolsa brasileira. Nubank (ROXO34), Sabesp (SBSP3) e Bradesco (BBDC4) deixaram a seleção. Em seus lugares, entraram BTG "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Shein: fim da ‘taxa das blusinhas’ é vitória para consumidor brasileiro",
+   "url": "https://www.moneytimes.com.br/shein-fim-da-taxa-das-blusinhas-e-vitoria-para-consumidor-brasileiro-jcav/",
+   "publicado": "2026-09-05T14:02:32+00:00",
+   "tickers": [],
+   "resumo": "A Shein classificou como uma vitória para o consumidor brasileiro a aprovação, pelo Congresso, do fim da chamada &#8220;taxa das blusinhas&#8221;. A medida elimina o Imposto de Importação de 20% sobre compras internacionais de até US$ 50 e, segundo a varejista, deve beneficiar so"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Fórum Empreendedor: BTG Pactual Empresas realiza encontro para responsáveis por decisões nos negócios",
+   "url": "https://www.moneytimes.com.br/forum-empreendedor-btg-pactual-empresas-realiza-encontro-para-responsaveis-por-decisoes-nos-negocios-lbrdbb103/",
+   "publicado": "2026-09-05T14:00:00+00:00",
+   "tickers": [],
+   "resumo": "A primeira edição do evento chega com grandes executivos e ex-atletas entre os participantes; evento será online e gratuito, mas tem vagas limitadas"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "XP corta projeção do PIB e vê Selic a 13,25% no fim de 2026",
+   "url": "https://www.moneytimes.com.br/xp-corta-projecao-do-pib-e-ve-selic-a-1325-no-fim-de-2026-jcav/",
+   "publicado": "2026-09-05T13:48:58+00:00",
+   "tickers": [],
+   "resumo": "A economia brasileira deve perder força mais rapidamente do que o esperado, abrindo espaço para a continuidade dos cortes na taxa Selic. A avaliação é da XP, que reduziu de 2,0% para 1,7% a projeção de crescimento do Produto Interno Bruto (PIB) em 2026. A revisão reflete o enfraq"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "KNCR11, BTLG11 e as principais recomendações de FIIs para setembro, segundo 13 analistas",
+   "url": "https://www.moneytimes.com.br/kncr11-btlg11-e-as-principais-recomendacoes-de-fiis-para-setembro-segundo-13-analistas-jcav/",
+   "publicado": "2026-09-05T13:24:31+00:00",
+   "tickers": [
+    "BTLG11",
+    "KNCR11",
+    "XPML11"
+   ],
+   "resumo": "O Kinea Rendimentos Imobiliários (KNCR11) é o fundo imobiliário mais recomendado para setembro, segundo levantamento do Money Times com carteiras elaboradas por bancos, corretoras e casas de análise. O FII recebeu nove indicações no mês. Na sequência aparecem o BTG Pactual Logíst"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Eleições 2026: de qual política pública o agronegócio precisa?",
+   "url": "https://www.moneytimes.com.br/eleicoes-2026-de-qual-politica-publica-o-agronegocio-precisa-pads/",
+   "publicado": "2026-09-05T13:03:00+00:00",
+   "tickers": [],
+   "resumo": "Estamos em ano de eleições gerais no Brasil. Neste mês de agosto, as disputas pelos cargos majoritários esquentaram de vez — e surge a dúvida deste colunista: quais propostas e políticas realmente importam para o agronegócio? Antes de tudo, é importante distinguir as políticas de"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Segundo dia: o que pode levar, o que não pode e como proteger celular e cartão no Rock in Rio",
+   "url": "https://valorinveste.globo.com/objetivo/gastar-bem/noticia/2026/09/05/segundo-dia-o-que-pode-levar-o-que-nao-pode-e-como-proteger-celular-e-cartao-no-rock-in-rio.ghtml",
+   "publicado": "2026-09-05T12:13:50+00:00",
+   "tickers": [],
+   "resumo": "Quem vai ao segundo dia do Rock in Rio 2026 já preparar o ingresso, escolhe o look — e deve dar uma conferida a mochila antes de sair de casa. A lista de itens proibidos na Cidade do Rock inclui alguns objetos óbvios, mas também outros capazes de pegar o público de surpresa, como"
   },
   {
    "fonte": "Valor Investe",
@@ -35,38 +135,12 @@
    "resumo": "A B3, a bolsa do Brasil, abriu as inscrições para a terceira edição do B3 Career Summit 2026. O evento gratuito de carreira e desenvolvimento será realizado, em formato híbrido, no dia 26 de setembro e é voltado a estudantes, jovens profissionais e pessoas em início ou transição "
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Magalu (MGLU3) dispara e apenas 4 ações fecham no vermelho na semana; confira os destaques do Ibovespa",
-   "url": "https://www.moneytimes.com.br/ibovespa-destaques-da-semana-36-lils/",
-   "publicado": "2026-09-05T11:30:00+00:00",
-   "tickers": [
-    "MGLU3"
-   ],
-   "resumo": "O Ibovespa (IBOV) engatou a segunda semana consecutiva de ganhos com entrada de fluxo estrangeiro e eleições começando a fazer preço no mercado doméstico. O principal índice da bolsa brasileira acumulou valorização de 5,4% na semana e encerrou a última sessão aos 185.147,15 ponto"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Em 7 de setembro, Lula mandará recado aos EUA e citará petróleo na Margem Equatorial",
-   "url": "https://www.moneytimes.com.br/em-7-de-setembro-lula-mandara-recado-aos-eua-e-citara-petroleo-na-margem-equatorial-jcav/",
-   "publicado": "2026-09-05T11:28:44+00:00",
-   "tickers": [],
-   "resumo": "O presidente Luiz Inácio Lula da Silva (PT) vai citar a defesa dos minerais críticos e a descoberta de petróleo na Margem Equatorial no discurso que fará em 7 de Setembro. Segundo apurou a reportagem, o presidente também fará uma defesa do livre comércio e dirá que nenhum país po"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "CVC renegocia dívida, corta juros e empurra vencimentos para 2029",
    "url": "https://investnews.com.br/negocios/cvc-renegocia-divida-corta-juros-2029/",
    "publicado": "2026-09-05T11:19:55+00:00",
    "tickers": [],
    "resumo": "Companhia estima reduzir em R$ 110 milhões as saídas de caixa nos próximos 12 meses; operação alivia a pressão imediata, mas depende da adesão de credores que concentram cerca de metade do passivo"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Copa BTG Trader 2026: Inscrições para competição de trading terminam amanhã (6)",
-   "url": "https://www.moneytimes.com.br/copa-btg-trader-2026-inscricoes-para-a-maior-competicao-de-trading-do-brasil-encerram-amanha-mlem/",
-   "publicado": "2026-09-05T11:00:00+00:00",
-   "tickers": [],
-   "resumo": "Terminam neste domingo (6) as inscrições para a Copa BTG Trader 2026. O campeonato de trading simulado do BTG Pactual vai dar R$ 1 milhão ao vencedor, além de premiar os 100 melhores participantes da competição. Na primeira edição, que aconteceu no ano passado, o banco recebeu ma"
   },
   {
    "fonte": "Brazil Journal",
@@ -93,43 +167,6 @@
    "resumo": "Lideranças como Sam Altman disseram que o novo modelo é um estágio inicial da era da AGI, ou Artificial General Intelligence"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Juros futuros recuam com fatores domésticos no radar",
-   "url": "https://www.moneytimes.com.br/juros-futuros-4-9-26-apsa/",
-   "publicado": "2026-09-04T21:55:11+00:00",
-   "tickers": [],
-   "resumo": "A curva de juros futuros recuou em todos os vencimentos nesta sexta-feira (4), destoando dos títulos do Tesouro norte-americano, os Treasuries, durante maior parte do pregão. A taxa do contrato de Depósito Interfinanceiro (DI) para janeiro de 2027, de curtíssimo prazo, encerrou a"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Trigo cai novamente em Chicago, com negociações sobre a guerra na Ucrânia em destaque",
-   "url": "https://www.moneytimes.com.br/trigo-cai-novamente-em-chicago-com-negociacoes-sobre-a-guerra-na-ucrania-em-destaque/",
-   "publicado": "2026-09-04T21:38:29+00:00",
-   "tickers": [],
-   "resumo": "Os futuros do trigo em Chicago caíram nesta sexta-feira (4), dando continuidade a uma retração em relação à máxima de três anos e meio registrada no início da semana, com os operadores atentos para ver se os esforços diplomáticos para pôr fim à guerra da Rússia contra a Ucrânia a"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Itaú BBA substitui varejo pelo agro nas small caps; confira as três modificações",
-   "url": "https://www.moneytimes.com.br/itau-bba-substitui-varejo-pelo-agro-nas-small-caps-confira-apsa/",
-   "publicado": "2026-09-04T21:30:00+00:00",
-   "tickers": [
-    "CEAB3",
-    "RANI3",
-    "SBFG3",
-    "SLCE3"
-   ],
-   "resumo": "A carteira de small caps do Itaú BBA para setembro de 2026 abriu os braços para três novas ações. O BBA incluiu a SLC Agrícola (SLCE3) e a Irani (RANI3), substituindo a C&#38;A (CEAB3) e o Grupo SBF (SBFG3). As mudanças refletem ajustes estratégicos diante do cenário econômico e "
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Verde aumenta aposta em bolsa de olho em Lula vs. Flávio",
-   "url": "https://www.moneytimes.com.br/verde-aumenta-aposta-em-bolsa-de-olho-em-lula-vs-flavio-rnda/",
-   "publicado": "2026-09-04T21:27:57+00:00",
-   "tickers": [],
-   "resumo": "A Verde Asset aumentou a exposição à renda variável no Brasil em meados de agosto, em meio à percepção de que a eleição presidencial de 2026 ficou mais competitiva e pode abrir espaço para uma reprecificação dos ativos locais. No relatório de gestão de agosto, a gestora afirma qu"
-  },
-  {
    "fonte": "Suno Noticias",
    "titulo": "Ibovespa segura pressão do payroll e fecha semana com alta de 5,40%",
    "url": "https://www.suno.com.br/noticias/ibovespa-hoje-4-setembro-payroll-vale-mt/",
@@ -144,14 +181,6 @@
    "publicado": "2026-09-04T21:04:17+00:00",
    "tickers": [],
    "resumo": "A Comissão de Valores Mobiliários (CVM) pretende acelerar a adoção de IA na supervisão do mercado de capitais, afirmou o presidente da autarquia, Otto Lobo, nesta quinta-feira (3), durante o Token Summit, em São Paulo.\n\n“Na nossa nova forma de supervisionar o mercado, não podemos"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Deputada Duda Salabert relata tentativa de homicídio ao fiscalizar denúncia de mineração",
-   "url": "https://www.moneytimes.com.br/duda-salabert-relata-tentativa-de-homicidio-ao-fiscalizar-denuncia-de-mineracao-na-grande-bh-gaep/",
-   "publicado": "2026-09-04T21:00:11+00:00",
-   "tickers": [],
-   "resumo": "A deputada federal Duda Salabert (PSOL-MG), candidata à reeleição, afirmou nesta sexta-feira (4) ter sido alvo de uma tentativa de homicídio na noite de quinta-feira (3), enquanto fiscalizava, ao lado do candidato a deputado estadual pelo PSOL Felipe Gomes, uma denúncia de extraç"
   },
   {
    "fonte": "Valor Investe",
@@ -755,14 +784,6 @@
    "resumo": "As taxas dos títulos do Tesouro Direto têm mais um dia de forte queda nesta quinta-feira (3) em todos os vencimentos. A perspectiva de uma eleição presidencial mais acirrada deu forte impulso aos ativos brasileiros nesta semana, com queda dos juros futuros, valorização do real fr"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "3corações conclui compra da Yoki e Kitano por R$ 800 milhões",
-   "url": "https://investnews.com.br/negocios/3coracoes-conclui-compra-da-yoki-e-kitano-por-r-800-milhoes/",
-   "publicado": "2026-09-03T12:49:55+00:00",
-   "tickers": [],
-   "resumo": "Aquisição das marcas da General Mills amplia portfólio e leva grupo a 15 fábricas no Brasil"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Ibovespa fecha no zero a zero, mesmo com realização de lucros após 11 pregões de ganhos",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/03/ibovespa-e-dolar-hoje-3-de-setembro-de-2026.ghtml",
@@ -858,14 +879,6 @@
     "XPLG11"
    ],
    "resumo": "Mesmo em um cenário de juros altos e queda generalizada das cotas dos fundos imobiliários na bolsa, o setor de galpões vem trazendo uma combinação de vacância no menor nível da história, aluguéis em alta e competitividade por novos imóveis que têm despertado o interesse dos inves"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Para onde foram os bilhões de reais do vencimento de títulos do Tesouro?",
-   "url": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/09/03/para-onde-foram-os-bilhoes-de-reais-do-vencimento-de-titulos-do-tesouro.ghtml",
-   "publicado": "2026-09-03T09:10:15+00:00",
-   "tickers": [],
-   "resumo": "O vencimento de cerca de R$ 258 bilhões em títulos atrelados à inflação, o maior de indexados em anos, despejou uma montanha de dinheiro no mercado recentemente. No entanto, o fluxo desse montante deixou poucos rastros no mercado. Não houve movimentos atípicos de preços, e as lei"
   }
  ]
 }
