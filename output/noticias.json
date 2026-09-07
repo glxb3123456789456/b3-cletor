@@ -3,6 +3,157 @@
  "itens": 100,
  "dados": [
   {
+   "fonte": "Money Times",
+   "titulo": "Na China, reservas cambiais sobem e compras de ouro crescem no ritmo mais forte em 3 anos",
+   "url": "https://www.moneytimes.com.br/na-china-reservas-cambiais-sobem-e-compras-de-ouro-crescem-no-ritmo-mais-forte-em-3-anos-lmrs/",
+   "publicado": "2026-09-07T14:32:40+00:00",
+   "tickers": [],
+   "resumo": "As reservas internacionais da China em moeda estrangeira tiveram alta em agosto, impulsionadas pela desvalorização do dólar e pelo forte aumento do superávit comercial, o que reacendeu preocupações sobre a valorização do yuan. No período, o país também ampliou as reservas oficiai"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "SUZB3 entra, CMIG4 sai: Veja as mudanças da carteira do Andbank com as eleições no radar",
+   "url": "https://www.moneytimes.com.br/suzb3-entra-cmig4-sai-veja-as-mudancas-da-carteira-do-andbank-em-setembro-com-as-eleicoes-no-radar-apsa/",
+   "publicado": "2026-09-07T14:30:00+00:00",
+   "tickers": [
+    "CMIG4",
+    "SUZB3"
+   ],
+   "resumo": "A carteira recomendada de ações do Andbank de setembro contou com a retirada da Cemig (CMIG4) e a inclusão da Suzano (SUZB3), refletindo o cenário de volatilidade nos mercados diante da proximidade das eleições presidenciais no Brasil e das decisões econômicas internacionais. O b"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Volkswagen converte fábrica de carros na Alemanha para a indústria de defesa",
+   "url": "https://investnews.com.br/negocios/volkswagen-fabrica-industria-defesa/",
+   "publicado": "2026-09-07T14:29:05+00:00",
+   "tickers": [],
+   "resumo": "Acordo com grupo israelense prevê produção de equipamentos militares em Osnabrück, unidade que deixará de fabricar veículos em 2027"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Azzas 2154 (AZZA3): S&P corta nota nacional e acende sinal amarelo após anúncio do ‘divórcio’",
+   "url": "https://www.moneytimes.com.br/azzas-2154-azza3-sp-corta-nota-nacional-e-acende-sinal-amarelo-apos-anuncio-do-divorcio-lmrs/",
+   "publicado": "2026-09-07T14:25:29+00:00",
+   "tickers": [
+    "AZZA3"
+   ],
+   "resumo": "A agência classificadora de riscos S&#38;P National Ratings cortou a nota de crédito nacional da Azzas 2154 (AZZA3) de &#8220;brAA+&#8221; para &#8220;brAA&#8221; e a colocou em observação negativa. O movimento ocorre após o anúncio do &#8220;divórcio&#8221; que propõe a cisão da"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Dona do TikTok, ByteDance prepara IA para criar mundos virtuais em tempo real",
+   "url": "https://investnews.com.br/negocios/tiktok-byte-dance-ia-mundos-virtuais/",
+   "publicado": "2026-09-07T14:12:09+00:00",
+   "tickers": [],
+   "resumo": "Modelo deve disputar espaço com Meta e Google em aplicações para robótica, games e realidade virtual"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Hospitais entram na mira: projeto aprovado prevê multa diária de R$ 5 mil e sanções de até R$ 500 mil",
+   "url": "https://www.moneytimes.com.br/hospitais-entram-na-mira-projeto-aprovado-preve-multa-diaria-de-r-5-mil-e-sancoes-de-ate-r-500-mil/",
+   "publicado": "2026-09-07T14:00:00+00:00",
+   "tickers": [],
+   "resumo": "Multas de R$ 5 mil por dia e sanções que podem chegar a R$ 500 mil passam a fazer parte da realidade de hospitais públicos e privados de todo o país após a aprovação final do Projeto de Lei 287/24 pela Câmara dos Deputados. O texto segue agora para sanção presidencial. A proposta"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Empiricus mantém ‘estratégia 60/25/15’ para setembro — carteira com 12 ativos busca gerar renda passiva",
+   "url": "https://www.moneytimes.com.br/empiricus-mantem-estrategia-60-25-15-para-setembro-carteira-com-12-ativos-busca-gerar-renda-passiva-lbrdml127/",
+   "publicado": "2026-09-07T14:00:00+00:00",
+   "tickers": [],
+   "resumo": "Agosto chegou ao fim com uma mensagem clara para os investidores: em um ambiente de juros elevados, atributos como qualidade, solidez do balanço e geração de caixa seguem sendo fundamentais para buscar rentabilidade na carteira de investimentos. Com as Eleições 2026 no radar, a p"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "BDRs: 10 ações internacionais para investir em setembro, segundo a Terra Investimentos",
+   "url": "https://www.moneytimes.com.br/bdrs-10-acoes-internacionais-para-investir-em-setembro-segundo-a-terra-investimentos-lmrs/",
+   "publicado": "2026-09-07T13:52:12+00:00",
+   "tickers": [],
+   "resumo": "A Terra Investimentos anunciou as mudanças na sua carteira recomendada de BDRs para setembro de 2026, mantendo a estratégia de 10 ativos com peso igual de 10% cada. Os BDRs, ou Brazilian Depositary Receipts, são certificados de valores mobiliários emitidos e negociados no Brasil,"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Aluguel sobe acima da inflação e condomínio vira o “segundo aluguel”",
+   "url": "https://www.suno.com.br/noticias/aluguel-condominio-segundo-aluguel-custos-mt/",
+   "publicado": "2026-09-07T13:40:00+00:00",
+   "tickers": [],
+   "resumo": "Aluguel e condomínio pressionam o orçamento dos moradores. Foto: Thomas Hobbs/CC/FlickrO aluguel residencial ficou mais caro no Brasil e, para muitos moradores, a despesa não termina na mensalidade paga ao proprietário. O condomínio passou a pesar cada vez mais no orçamento, espe"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "O ‘investidor inteligente’ é estoico; veja como a filosofia influenciou Benjamin Graham, professor de Warren Buffet",
+   "url": "https://www.moneytimes.com.br/benjamin-graham-value-investing-estoico-warren-bufett-rsgp/",
+   "publicado": "2026-09-07T13:18:00+00:00",
+   "tickers": [],
+   "resumo": "Considerado o “pai do value investing”, Benjamin Graham inspirou legiões de investidores, teve entre seus alunos Warren Buffett e deixou um legado duradouro para o mercado financeiro. Em sua autobiografia, publicada postumamente, Graham revisitou sua infância, formação e carreira"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Anatel autoriza venda da telefonia fixa da Oi",
+   "url": "https://www.moneytimes.com.br/anatel-autoriza-venda-da-telefonia-fixa-da-oi-lmrs/",
+   "publicado": "2026-09-07T13:12:19+00:00",
+   "tickers": [],
+   "resumo": "O conselho diretor da Agência Nacional de Telecomunicações (Anatel) autorizou a transferência do controle da Oi Serviços Telefônicos para a Método Telecomunicações, mas impôs condições para a conclusão do negócio. O tema foi discutido em reunião extraordinária na última quinta-fe"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Cury diz que privatizaria Correios se estatal não for recuperável",
+   "url": "https://www.moneytimes.com.br/cury-diz-que-privatizaria-correios-se-estatal-nao-for-recuperavel-lmrs/",
+   "publicado": "2026-09-07T13:07:02+00:00",
+   "tickers": [],
+   "resumo": "O candidato à Presidência Augusto Cury (Avante) afirmou nesta segunda-feira (7) que pretende privatizar todas estatais que considerar ineficientes e citou os Correios entre as empresas que poderiam ser vendidas caso não seja possível recuperar sua situação financeira. &#8220;Toda"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Dividendos: 11 ações para ter na carteira de setembro, segundo a XP Investimentos",
+   "url": "https://www.moneytimes.com.br/dividendos-11-acoes-para-ter-na-carteira-de-setembro-segundo-a-xp-investimentos-lmrs/",
+   "publicado": "2026-09-07T12:59:17+00:00",
+   "tickers": [
+    "PETR4"
+   ],
+   "resumo": "A XP Investimentos realizou alguns ajustes na carteira recomendada de dividendos para o mês de setembro. Entre as mudanças, os analistas da casa optaram por elevar o peso de Petrobras (PETR4) de 10% para 12,5%, com o intuito de aumentar a exposição ao setor de Óleo &#38; Gás e re"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Banco central da China faz maior compra de ouro desde 2023, apesar da alta dos preços",
+   "url": "https://investnews.com.br/economia/banco-central-china-maior-compra-ouro/",
+   "publicado": "2026-09-07T12:02:20+00:00",
+   "tickers": [],
+   "resumo": "Compras do Banco Popular da China somam 22 meses seguidos, em meio à busca global por proteção contra inflação e fraqueza do dólar"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Casa própria começa pela calculadora: o que mudou na busca do brasileiro por imóvel",
+   "url": "https://valorinveste.globo.com/produtos/imoveis/noticia/2026/09/07/casa-propria-comeca-pela-calculadora-o-que-mudou-na-busca-do-brasileiro-por-imovel.ghtml",
+   "publicado": "2026-09-07T09:10:00+00:00",
+   "tickers": [],
+   "resumo": "Antes de escolher o bairro, o tamanho da sala ou contar quantos quartos cabem no sonho da casa própria, o brasileiro está fazendo outra conta: quanto consegue financiar. Em um cenário de juros ainda elevados, o crédito passou a aparecer cada vez mais cedo na decisão de compra de "
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Na era da IA, grandes fundos buscam ativos da vida real: de esportes e viagens até cassinos",
+   "url": "https://investnews.com.br/the-wall-street-journal/a-busca-por-ativos-a-prova-de-ia-leva-investidores-a-esportes-cassinos-e-viagens/",
+   "publicado": "2026-09-07T09:03:00+00:00",
+   "tickers": [],
+   "resumo": "Investidores de venture capital enxergam potencial valor em negócios com experiências ao vivo, à prova do impacto da IA"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Renda fixa volta a puxar aportes dos fundos, após quatro meses de resgates na classe",
+   "url": "https://valorinveste.globo.com/produtos/fundos/noticia/2026/09/07/renda-fixa-volta-a-puxar-aportes-dos-fundos-apos-quatro-meses-de-resgates-na-classe.ghtml",
+   "publicado": "2026-09-07T09:00:00+00:00",
+   "tickers": [],
+   "resumo": "Os cotistas dos fundos de investimentos aplicaram R$ 33,9 bilhões em agosto, descontando os resgates, apontam os dados divulgados no site da Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais (Anbima). Foi o primeiro mês de aportes após dois consecutivos de"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Que País É Este",
+   "url": "https://braziljournal.com/que-pais-e-este/",
+   "publicado": "2026-09-07T01:25:46+00:00",
+   "tickers": [],
+   "resumo": "Nas favelas, no Senado Sujeira pra todo lado Ninguém respeita a constituição Mas todos acreditam no futuro da nação Que país é esse? Que país é esse? Que país é esse? No Amazonas, no Araguaia-ia-ia Na Baixada Fluminense Mato Grosso, Minas Gerais E no nordeste tudo em paz Na morte"
+  },
+  {
    "fonte": "InvestNews",
    "titulo": "Cobertor curto: 7 ações do Ibovespa mais expostas ao impacto dos juros altos em seus resultados",
    "url": "https://investnews.com.br/investimentos/acoes-b3-mais-expostas-juros-altos/",
@@ -19,38 +170,6 @@
    "resumo": "Fabricante identificou centenas de milhões de dólares em obrigações adicionais após concluir a compra da fornecedora de fuselagens"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Raimundos voltam aos holofotes após documentário e rumores de reencontro",
-   "url": "https://www.moneytimes.com.br/raimundos-documentario-rumores-rodolfo-digao-reencontro-rsgp/",
-   "publicado": "2026-09-06T16:49:07+00:00",
-   "tickers": [],
-   "resumo": "Quase 25 anos após a saída de Rodolfo Abrantes, os Raimundos voltaram a ocupar espaço no noticiário cultural brasileiro. O lançamento do documentário Andar na Pedra: A História do Raimundos, no Globoplay, trouxe novos detalhes sobre a trajetória do grupo, revisitou momentos decis"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Bitcoin avança para perto dos US$ 80 mil; confira os preços das criptomoedas neste domingo (6)",
-   "url": "https://www.moneytimes.com.br/bitcoin-6-9-26-apsa/",
-   "publicado": "2026-09-06T15:10:38+00:00",
-   "tickers": [],
-   "resumo": "O bitcoin (BTC) é negociado perto da faixa dos US$ 80 mil na manhã deste domingo (6), com ganho de 0,1% nas últimas 24 horas, segundo dados da plataforma Coingecko. No acumulado da semana, a principal criptomoeda do mundo acumula alta de 1,3%, enquanto, em 30 dias, registra avanç"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "IPCA, inflação nos EUA e decisão de juros do BCE movimentam a semana; confira os indicadores",
-   "url": "https://www.moneytimes.com.br/ipca-inflacao-nos-eua-e-decisao-de-juros-do-bce-movimentam-a-semana-confira-os-indicadores-jcav/",
-   "publicado": "2026-09-06T14:50:00+00:00",
-   "tickers": [],
-   "resumo": "Nem só de feriado respira a próxima semana. A agenda econômica da semana de 7 a 11 de setembro será marcada por dados de inflação no Brasil, nos Estados Unidos e na China, além da decisão de juros do Banco Central Europeu (BCE). No Brasil, o principal destaque será o IPCA de agos"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Em meio à crise no STF, Michelle Bolsonaro defende atuação de Mendonça",
-   "url": "https://www.moneytimes.com.br/em-meio-a-crise-no-stf-michelle-bolsonaro-defende-mendonca-apsa/",
-   "publicado": "2026-09-06T14:45:15+00:00",
-   "tickers": [],
-   "resumo": "Em meio a uma crise envolvendo ministros do Supremo Tribunal Federal (STF), a ex-primeira-dama e candidata ao Senado, Michelle Bolsonaro (PL), saiu em defesa do ministro André Mendonça. &#8220;Você é um grande e verdadeiro homem de Deus&#8221;, disse Michelle em uma postagem no I"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Opep+ mantém plano de deixar cotas de produção de petróleo inalteradas",
    "url": "https://investnews.com.br/economia/opep-cotas-petroleo-inalteradas/",
@@ -59,69 +178,12 @@
    "resumo": "Decisão mantém cotas estáveis em outubro, enquanto a guerra no Irã reduz exportações pelo Estreito de Hormuz e embaralha o equilíbrio do mercado"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Aprovação de Trump cai para 33%, menor nível da pesquisa do Financial Times",
-   "url": "https://www.moneytimes.com.br/no-menor-nivel-do-levantamento-aprovacao-de-trump-cai-a-33-apsa/",
-   "publicado": "2026-09-06T14:25:56+00:00",
-   "tickers": [],
-   "resumo": "A aprovação do presidente dos Estados Unidos, Donald Trump, caiu para o menor nível registrado em levantamento do Financial Times, em meio ao desgaste com a economia e o custo de vida a menos de dois meses das eleições de meio de mandato (midterms, em inglês), informou o jornal. "
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Ninguém acerta a Mega-Sena 3054 e prêmio acumula em R$ 70 milhões; veja números sorteados",
    "url": "https://valorinveste.globo.com/loterias/noticia/2026/09/06/resultado-da-mega-sena-3054-com-premio-de-r-474-milhoes-e-divulgado-veja-numeros-sorteados.ghtml",
    "publicado": "2026-09-06T14:20:28+00:00",
    "tickers": [],
    "resumo": "Ninguém acertou os seis números da  Mega-Sena 3054 com prêmio de R$ 47,4 milhões. Com isso, o prêmio acumulou e, para o próximo sorteio, poderá ser de R$ 70 milhões.\n78 apostas acertaram cinco dezenas e vão receber  R$ 30.145,38. Outras 5.268 marcaram quatro números corretos e vã"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Preferência entre os seniores? Parcela que investe em FIIs salta para 60% em 6 anos, mostra pesquisa",
-   "url": "https://www.moneytimes.com.br/preferencia-entre-os-seniores-parcela-que-investe-em-fiis-salta-para-60-em-6-anos-mostra-pesquisa-apsa/",
-   "publicado": "2026-09-06T14:15:37+00:00",
-   "tickers": [],
-   "resumo": "A maturidade do investidor brasileiro de Fundos Imobiliários (FIIs) avançou de forma expressiva nos últimos anos e ajudou a sustentar a classe de ativos mesmo em um ambiente predominantemente de juros elevados. A pesquisa de Perfil do Investidor de Fundos Imobiliários, conduzida "
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Vale (VALE3) e Itaú (ITUB4): Confira as ações para maximizar os ganhos com dividendos, segundo o Andbank",
-   "url": "https://www.moneytimes.com.br/vale-vale3-e-itau-itub4-confira-as-acoes-para-maximizar-os-ganhos-com-dividendos-segundo-o-andbank-apsa/",
-   "publicado": "2026-09-06T14:07:29+00:00",
-   "tickers": [
-    "AXIA3",
-    "BBDC4",
-    "BBSE3",
-    "CMIG4",
-    "CPFE3",
-    "CPLE3",
-    "ITUB4",
-    "VALE3"
-   ],
-   "resumo": "O Andbank revisou sua carteira recomendada de dividendos, mantendo o foco em empresas com resultados sólidos e geração consistente de caixa, especialmente nos setores de energia e financeiro. Entre as principais mudanças, destacam-se a manutenção de posições em empresas como Axia"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "A operação pouco ortodoxa da Strategy com o bitcoin (BTC) e outros destaques da semana do Crypto Times",
-   "url": "https://www.moneytimes.com.br/a-operacao-pouco-ortodoxa-da-strategy-com-o-bitcoin-btc-e-outros-destaques-da-semana-do-crypto-times-rens/",
-   "publicado": "2026-09-06T14:00:00+00:00",
-   "tickers": [],
-   "resumo": "Olá, investidor e investidora de cripto! Sejam muito bem-vindos a mais uma edição da nossa coluna semanal do Crypto Times, a editoria de bitcoin (BTC) e criptomoedas do Money Times. Para se inscrever e receber em primeira mão em todas as manhãs de sábado, basta se inscrever no bo"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Dólar deixou o CDI ‘comendo poeira’ nos últimos 10 anos; entenda",
-   "url": "https://www.moneytimes.com.br/dolar-deixou-o-cdi-comendo-poeira-nos-ultimos-10-anos-entenda-lbrdis613/",
-   "publicado": "2026-09-06T14:00:00+00:00",
-   "tickers": [],
-   "resumo": "O conforto dos juros de dois dígitos pode esconder um custo: ficar de fora das oportunidades disponíveis no mercado global. Veja como dolarizar parte da sua carteira"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Empresa que saltou 180% no Nasdaq em um dia entra na carteira de BDRs da Genial; veja",
-   "url": "https://www.moneytimes.com.br/empresa-que-saltou-180-no-nasdaq-em-um-dia-e-incluida-na-carteira-de-bdrs-da-genial-veja-apsa/",
-   "publicado": "2026-09-06T13:32:45+00:00",
-   "tickers": [],
-   "resumo": "Ao longo de 2026, a carteira de Brazilian Depositary Receipts (BDRs) da Genial Investimentos esteve fortemente posicionada em tecnologia americana, gerando um resultado acumulado expressivo, impulsionado também pela valorização do dólar. Em agosto, a carteira BDR 5+ teve alta de "
   },
   {
    "fonte": "Valor Investe",
@@ -424,17 +486,6 @@
    "resumo": "As LCI e LCA prefixadas encontradas em setembro oferecem taxas líquidas de até 14,76% ao ano para investimentos mantidos por aproximadamente três anos. Como esses títulos são isentos de Imposto de Renda para pessoas físicas, a remuneração equivale a até 17,36% ao ano em uma aplic"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "FII RELG11 será liquidado após amortização total das cotas",
-   "url": "https://www.suno.com.br/noticias/relg11-amortizacao-integral-liquidacao-encerramento/",
-   "publicado": "2026-09-04T15:30:52+00:00",
-   "tickers": [
-    "RECM11",
-    "RELG11"
-   ],
-   "resumo": "O fundo imobiliário RELG11 comunicou a amortização integral de suas cotas, operação que combina a entrega de cotas do REC Multiestratégia (RECM11) e o pagamento de uma parcela em dinheiro. Concluída a operação e quitadas as obrigações, o veículo será liquidado e, na sequência, en"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Portugal negocia venda da TAP com Lufthansa e Air France-KLM",
    "url": "https://investnews.com.br/negocios/portugal-negocia-venda-da-tap-com-lufthansa-e-air-france-klm/",
@@ -709,22 +760,6 @@
    "resumo": "Holding que controla a empresa de alimentos usará recursos para pagar dividendos e devolver capital aos sócios"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Blindados: a indústria bilionária que cresce de carona no medo de assaltos",
-   "url": "https://investnews.com.br/negocios/blindados-a-industria-de-r-35-bilhoes-que-cresce-de-carona-no-medo-de-assaltos-dos-brasileiros/",
-   "publicado": "2026-09-03T21:12:23+00:00",
-   "tickers": [],
-   "resumo": "Brasil lidera o mercado mundial de blindagem civil, em que empresas disputam homologações e investem em novas fábricas"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Como o juro alto lá fora faz você perder dinheiro aqui no Brasil",
-   "url": "https://investnews.com.br/investimentos/como-o-juro-alto-la-fora-faz-voce-perder-dinheiro-aqui-no-brasil/",
-   "publicado": "2026-09-03T20:49:34+00:00",
-   "tickers": [],
-   "resumo": "A tendência global de alta de juros faz subir as taxas daqui. E prejudica o rendimento de quem tem IPCA+ e prefixado na carteira"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "CVM libera oferta de FIDC da NTZ após correção de irregularidades",
    "url": "https://valorinveste.globo.com/mercados/noticia/2026/09/03/cvm-libera-oferta-de-fidc-da-ntz-apos-correcao-de-irregularidades.ghtml",
@@ -749,14 +784,6 @@
    "resumo": "A Associação Brasileira dos Assessores de Investimentos (Abai) pediu ao Ministério da Fazenda a criação de uma regulamentação específica para a oferta de Forex e contratos por diferença (CFDs) a investidores brasileiros, conforme apurado por reportagem do Valor Econômico. A entid"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Volkswagen corta 50 mil empregos e pode reduzir modelos de carros pela metade",
-   "url": "https://investnews.com.br/negocios/volkswagen-corta-50-mil-empregos-e-pode-reduzir-modelos-de-carros-pela-metade/",
-   "publicado": "2026-09-03T20:25:54+00:00",
-   "tickers": [],
-   "resumo": "Plano prevê menos modelos e avalia futuro de quatro fábricas alemãs diante da pressão de custos e da concorrência chinesa"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "CVM e Anbima ampliam parceria para fiscalização de fundos de investimento",
    "url": "https://valorinveste.globo.com/mercados/noticia/2026/09/03/cvm-e-anbima-ampliam-parceria-para-fiscalizacao-de-fundos-de-investimento.ghtml",
@@ -771,14 +798,6 @@
    "publicado": "2026-09-03T18:28:32+00:00",
    "tickers": [],
    "resumo": "A Comissão de Valores Mobiliários (CVM) suspendeu a oferta pública de Certificados de Recebíveis Imobiliários (CRIs) da 554ª emissão da Opea Securitizadora após identificar irregularidades na documentação da operação.\nA oferta, de até duas séries, havia sido registrada na CVM em "
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Liquidação da Trustee DTVM: fundos ficam congelados para saques até escolha de novo administrador",
-   "url": "https://investnews.com.br/investimentos/liquidacao-dtvm-como-ficam-fundos/",
-   "publicado": "2026-09-03T15:31:49+00:00",
-   "tickers": [],
-   "resumo": "Banco Central decretou liquidação de duas distribuidoras nesta quinta-feira (3), com efeitos sobre certos fundos"
   },
   {
    "fonte": "Valor Investe",
@@ -824,41 +843,12 @@
    "resumo": "As taxas dos títulos do Tesouro Direto têm mais um dia de forte queda nesta quinta-feira (3) em todos os vencimentos. A perspectiva de uma eleição presidencial mais acirrada deu forte impulso aos ativos brasileiros nesta semana, com queda dos juros futuros, valorização do real fr"
   },
   {
-   "fonte": "Valor Investe",
-   "titulo": "Ibovespa fecha no zero a zero, mesmo com realização de lucros após 11 pregões de ganhos",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/03/ibovespa-e-dolar-hoje-3-de-setembro-de-2026.ghtml",
-   "publicado": "2026-09-03T12:05:11+00:00",
-   "tickers": [
-    "CSNA3",
-    "ITUB4",
-    "PETR4",
-    "VALE3"
-   ],
-   "resumo": "Após abrir em alta significativa e tomar o caminho oposto, no início da tarde desta quinta-feira (3), o Ibovespa, principal índice da bolsa brasileira, encerrou o pregão no zero a zero. Após uma sequência de 11 pregões de fortes ganhos, investidores embolsaram parte dos lucros, m"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Banco Central decreta liquidação extrajudicial da Banvox e da Trustee",
-   "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/09/03/banco-central-decreta-liquidacao-extrajudicial-da-banvox-e-da-trustee.ghtml",
-   "publicado": "2026-09-03T11:22:11+00:00",
-   "tickers": [],
-   "resumo": "O Banco Central decretou nesta quinta-feira (3) a liquidação extrajudicial da Trustee Distribuidora de Títulos e Valores Mobiliários Ltda. e da Banvox Distribuidora de Títulos e Valores Mobiliários Ltda., ambas com sede em São Paulo (SP). Segundo o BC, as distribuidoras integram "
-  },
-  {
    "fonte": "Brazil Journal",
    "titulo": "Rumo: COFCO e Bunge negociam governança",
    "url": "https://braziljournal.com/rumo-cofco-e-bunge-negociam-governanca/",
    "publicado": "2026-09-03T09:50:48+00:00",
    "tickers": [],
    "resumo": "A Cosan está em conversas avançadas com um consórcio formado pela COFCO e a Bunge para vender uma fatia de 15% na Rumo, fontes a par do assunto disseram ao Brazil Journal. A proposta em discussão é “substancialmente acima do preço de tela”, mas não há garantias de que as partes c"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "A Iguá já botou R$ 1 bi para ‘reformar’ a velha Cedae. Os jacarés estão voltando",
-   "url": "https://braziljournal.com/a-igua-ja-botou-r-1-bi-para-reformar-a-velha-cedae-os-jacares-estao-voltando/",
-   "publicado": "2026-09-03T09:50:41+00:00",
-   "tickers": [],
-   "resumo": "RIO DE JANEIRO – Na Estação de Tratamento de Esgoto da Barra da Tijuca, fotos espalhadas pelas instalações mostram o ‘antes e depois’ da unidade que até 2022 pertencia à estatal fluminense Cedae.  Quando a Iguá Saneamento assumiu as operações, após vencer o leilão do Bloco 2 da C"
   }
  ]
 }
