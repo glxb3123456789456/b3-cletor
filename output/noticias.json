@@ -3,6 +3,86 @@
  "itens": 100,
  "dados": [
   {
+   "fonte": "InvestNews",
+   "titulo": "Eleições 2026: Flávio Bolsonaro e Lula empatam no segundo turno, aponta nova pesquisa da Quaest",
+   "url": "https://investnews.com.br/economia/eleicoes2026-quaest-flavio-lula-empate/",
+   "publicado": "2026-09-07T23:17:37+00:00",
+   "tickers": [],
+   "resumo": "Evolução do senador se deu após revelações envolvendo o STF e Daniel Vorcaro e a cerca de um mês do primeiro turno"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Em ato na Paulista, Flávio busca vincular Lula a Moraes e promete recuperar credibilidade do Judiciário",
+   "url": "https://www.moneytimes.com.br/em-ato-na-paulista-flavio-busca-vincular-lula-a-moraes-e-promete-recuperar-credibilidade-do-judiciario/",
+   "publicado": "2026-09-07T22:00:27+00:00",
+   "tickers": [],
+   "resumo": "O senador e candidato à Presidência Flávio Bolsonaro (PL) buscou vincular o presidente Luiz Inácio Lula da Silva (PT) ao ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), durante discurso em ato na Avenida Paulista, em São Paulo, pelo Dia da Independência e promete"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Entregas de aeronaves da Airbus aumentam 9% no ano até agosto",
+   "url": "https://www.moneytimes.com.br/entregas-de-aeronaves-da-airbus-aumentam-9-no-ano-ate-agosto/",
+   "publicado": "2026-09-07T21:52:04+00:00",
+   "tickers": [],
+   "resumo": "As entregas de jatos da Airbus aumentaram 9% nos primeiros oito meses de 2026, mantendo a fabricante europeia de aeronaves no caminho certo para cumprir sua meta anual, embora a empresa ainda precise recuperar parte do atraso nas entregas do modelo A330 após um problema na produç"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Quaest: Lula tem 36% e Flávio Bolsonaro 29% no primeiro turno; disputa segue acirrada no segundo turno",
+   "url": "https://www.moneytimes.com.br/quaest-lula-tem-36-e-flavio-bolsonaro-29-no-primeiro-turno-disputa-segue-acirrada-no-segundo-turno/",
+   "publicado": "2026-09-07T21:29:16+00:00",
+   "tickers": [],
+   "resumo": "Pesquisa Quaest divulgada nesta segunda-feira (7) aponta o presidente Luiz Inácio Lula da Silva (PT) com 36% e o senador Flávio Bolsonaro (PL) com 29% das intenções de voto no principal cenário de primeiro turno. Lula recuou1 ponto porcentual, ante os 37% da pesquisa passada, div"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Moedas Globais: dólar opera em queda com força do iene em sessão limitada por feriado nos EUA",
+   "url": "https://www.moneytimes.com.br/moedas-globais-dolar-opera-em-queda-com-forca-do-iene-em-sessao-limitada-por-feriado-nos-eua/",
+   "publicado": "2026-09-07T20:41:29+00:00",
+   "tickers": [],
+   "resumo": "O dólar operou em queda nesta segunda-feira, 07, estendendo sua desvalorização frente ao iene, numa sessão de baixa liquidez devido ao feriado de Dia do Trabalho nos Estados Unidos. Por volta das 16h50 (de Brasília), o dólar recuava a 154,38 ienes, enquanto o euro tinha alta a US"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Tarcísio diz que ninguém está acima da Constituição e que STF deve se unir para apurar",
+   "url": "https://www.moneytimes.com.br/tarcisio-diz-que-ninguem-esta-acima-da-constituicao-e-que-stf-deve-se-unir-para-apurar/",
+   "publicado": "2026-09-07T20:20:00+00:00",
+   "tickers": [],
+   "resumo": "O governador de São Paulo, Tarcísio de Freitas (Republicanos), disse nesta segunda-feira, 07, que ninguém está acima da Constituição e que o Supremo Tribunal Federal (STF) não deve se unir para a defesa da Corte, mas para a apuração de eventuais irregularidades. A declaração do g"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Na escalada da disputa comercial entre EUA e Canadá, Embraer pode se beneficiar em jatos executivos",
+   "url": "https://investnews.com.br/negocios/disputa-comercial-eua-canada-embraer/",
+   "publicado": "2026-09-07T20:15:19+00:00",
+   "tickers": [],
+   "resumo": "Trump ameaça barrar venda da Bombardier no país, o que pode abrir espaço jatos médios e super-médios como o Praetor 600"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Quaest: 79% dizem que opinião política de liderança religiosa não influencia em voto",
+   "url": "https://www.moneytimes.com.br/quaest-79-dizem-que-opiniao-politica-de-lideranca-religiosa-nao-influencia-em-voto/",
+   "publicado": "2026-09-07T20:12:59+00:00",
+   "tickers": [],
+   "resumo": "Pesquisa Quaest encomendada pela TV Globo e O Globo indica que oito em cada dez eleitores afirmam que o líder religioso &#8220;não influencia&#8221; sua decisão de voto para presidente. Segundo o levantamento, 79% dos entrevistados disseram que a opinião política &#8220;de uma li"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Bitcoin cai e volta a rondar os US$ 80 mil; confira os preços das criptomoedas nesta segunda-feira (7)",
+   "url": "https://www.moneytimes.com.br/bitcoin-cai-e-volta-a-rondar-os-us-80-mil-confira-os-precos-das-criptomoedas-nesta-segunda-feira-7/",
+   "publicado": "2026-09-07T19:33:33+00:00",
+   "tickers": [],
+   "resumo": "O bitcoin (BTC) é negociado pouco abaixo da faixa dos US$ 80 mil nesta segunda-feira (7), com perda de 0,7% nas últimas 24 horas, segundo dados da plataforma Coingecko. No acumulado da semana, a principal criptomoeda do mundo acumula alta de 0,4%, enquanto, em 30 dias, registra a"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Augusto Cury afirma que manterá o Pix, mas com ‘algumas adaptações’",
+   "url": "https://www.moneytimes.com.br/augusto-cury-afirma-que-mantera-o-pix-mas-com-algumas-adaptacoes/",
+   "publicado": "2026-09-07T19:14:03+00:00",
+   "tickers": [],
+   "resumo": "O candidato do Avante à Presidência da República, Augusto Cury, disse nesta segunda-feira, 7, que, se eleito, manterá o Pix, mas com &#8220;algumas adaptações&#8221;, sem dar detalhes. O mecanismo de pagamentos brasileiro é alvo de investigação pelo governo norte-americano. De ac"
+  },
+  {
    "fonte": "Money Times",
    "titulo": "Petróleo encosta nos US$ 100 com novo fator de risco no Oriente Médio; entenda",
    "url": "https://www.moneytimes.com.br/petroleo-encosta-nos-us-100-com-novo-fator-de-risco-no-oriente-medio-entenda/",
@@ -61,14 +141,6 @@
    "resumo": "Com os mercados dos Estados Unidos fechados nesta segunda-feira (7) pelo feriado do Dia do Trabalho, os negócios globais tiveram liquidez reduzida, mas não faltaram motivos para os investidores acompanharem o noticiário. As bolsas asiáticas fecharam majoritariamente em alta, a Eu"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Antes de ato na Paulista, Flávio pede “espada da Justiça” de Deus na Praça dos Três Poderes",
-   "url": "https://www.moneytimes.com.br/antes-de-ato-na-paulista-flavio-pede-espada-da-justica-de-deus-na-praca-dos-tres-poderes/",
-   "publicado": "2026-09-07T17:43:17+00:00",
-   "tickers": [],
-   "resumo": "O senador e candidato à Presidência, Flávio Bolsonaro (PL-RJ), pediu nesta segunda-feira que Deus atue com sua &#8220;espada da justiça&#8221; na Praça dos Três Poderes, antes de um ato pelo Dia da Independência na Avenida Paulista, que deve ser marcado pelo embate com o ministro"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "China retoma compras de petróleo e reforça cenário favorável para Petrobras e junior oils",
    "url": "https://investnews.com.br/negocios/china-retoma-compras-de-petroleo-petrobras/",
@@ -77,49 +149,12 @@
    "resumo": "A retomada das compras de petróleo pela China está elevando os preços de barris em regiões produtoras tão distantes como a África, o Canadá e o Brasil, à medida que novas interrupções no Estreito de Ormuz levam refinarias a buscar alternativas mais distantes. O contrato do barril"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Dividendos: Rico cita riscos e tira Vale (VALE3) e Itaú (ITUB4) da carteira; veja quem entrou",
-   "url": "https://www.moneytimes.com.br/dividendos-rico-cita-riscos-e-tira-vale-vale3-e-itau-itub4-da-carteira-veja-quem-entrou/",
-   "publicado": "2026-09-07T17:02:06+00:00",
-   "tickers": [
-    "IGTI11",
-    "ITUB4",
-    "RENT3",
-    "VALE3"
-   ],
-   "resumo": "A Rico promoveu duas mudanças em sua carteira recomendada de dividendos para setembro. A corretora retirou Vale (VALE3) e Itaú Unibanco (ITUB4) do portfólio e incluiu Iguatemi (IGTI11) e Localiza (RENT3). Segundo a Rico, as alterações refletem principalmente a redução do dividend"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Vale (VALE3), Axia (Axia3) e outros 11 papéis recomendados pela Monte Bravo para investir em setembro",
-   "url": "https://www.moneytimes.com.br/vale-vale3-axia-energia-axia3-e-outras-11-acoes-recomendadas-pela-monte-bravo-para-investir-em-setembro-mlem/",
-   "publicado": "2026-09-07T17:00:00+00:00",
-   "tickers": [
-    "AURA33",
-    "AXIA3",
-    "GOGL34",
-    "IVVB11",
-    "NVDC34",
-    "SUZB3",
-    "VALE3"
-   ],
-   "resumo": "Para setembro, a Monte Bravo zerou as posições em Aura Minerals (AURA33), Nvidia (NVDC34) e Alphabet (GOGL34), que somavam 17,5% de sua carteira recomendada. As mudanças abriram espaço para a inclusão da IVVB11, um ETF que replica o índice S&#38;P 500. Além disso, houve aumento d"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Iene dispara ao maior nível em sete meses; entenda por que isso importa para o Brasil",
    "url": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/09/07/iene-dispara-ao-maior-nivel-em-sete-meses-entenda-por-que-isso-importa-para-o-brasil.ghtml",
    "publicado": "2026-09-07T16:17:12+00:00",
    "tickers": [],
    "resumo": "O iene disparou nesta segunda-feira (7) e atingiu o maior valor em sete meses frente ao dólar. Pode parecer um movimento distante da vida do investidor brasileiro, mas a valorização da moeda japonesa tem potencial para mexer com bolsas, câmbio e juros ao redor do mundo — e o Bras"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Zema critica Dino, chama Moraes de ‘bandido’ e diz confiar em Cármen",
-   "url": "https://www.moneytimes.com.br/zema-critica-dino-chama-moraes-de-bandido-e-diz-confiar-em-carmen/",
-   "publicado": "2026-09-07T16:08:52+00:00",
-   "tickers": [],
-   "resumo": "O candidato à Presidência Romeu Zema (Novo) criticou o ministro Flávio Dino, do Supremo Tribunal Federal (STF), nesta segunda-feira, 7, e afirmou confiar no voto da ministra Cármen Lúcia, tido como decisivo no desenrolar da crise no Tribunal. No domingo, 6, Dino criticou quem &#8"
   },
   {
    "fonte": "Valor Investe",
@@ -140,14 +175,6 @@
    "resumo": "O fundo imobiliário RECT11 decidiu não prosseguir com a venda de um imóvel localizado na Avenida Europa, em São Paulo. O compromisso de compra e venda, celebrado em 26 de dezembro de 2025, com uma pessoa física que também ocupa o imóvel como locatária, foi encerrado em razão do d"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Lotofácil da Independência 2026: veja quanto os R$ 300 milhões rendem por mês",
-   "url": "https://www.moneytimes.com.br/lotofacil-da-independencia-2026-veja-quanto-300-milhoes-rendem-por-mes-rsgp/",
-   "publicado": "2026-09-07T15:34:00+00:00",
-   "tickers": [],
-   "resumo": "A Lotofácil é tida como a &#8220;menos difícil&#8221; das loterias da Caixa Econômica Federal. Isso não significa que ela seja tão fácil quanto sugere o nome. Com uma aposta simples, a chance de acerto é de 1 em mais de 3 milhões. Ao mesmo tempo, ela está longe de ser difícil com"
-  },
-  {
    "fonte": "Suno Noticias",
    "titulo": "Veja os FIIs que vão pagar dividendos nesta semana",
    "url": "https://www.suno.com.br/noticias/dividendos-fiis-setembro-57-pagamentos/",
@@ -166,38 +193,12 @@
    "resumo": "Quem aplicou R$ 10 mil no TRXF11 (TRX Real Estate FII) há 12 meses teria acumulado R$ 1.321,60 em dividendos, considerando apenas os rendimentos com direito após a compra. Desse total, R$ 1.217,44 já teriam sido pagos até 6 de setembro de 2026, enquanto R$ 104,16 correspondem ao "
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Carteiras de criptomoedas para setembro: Bitcoin  (BTC) é unanimidade entre especialistas, que também recomendam investimentos temáticos",
-   "url": "https://www.moneytimes.com.br/carteiras-de-criptomoedas-para-setembro-bitcoin-btc-e-unanimidade-entre-especialistas-que-tambem-recomendam-investimentos-tematicos-rens/",
-   "publicado": "2026-09-07T15:00:00+00:00",
-   "tickers": [],
-   "resumo": "A recuperação do mercado de criptomoedas observada em agosto colocou o setor novamente no radar dos investidores. Para setembro, as carteiras divulgadas por Marcelo Person, da Foxbit, Felipe Mendes, da Vault Capital, Pedro Fontes, do Mercado Bitcoin (MB), e Julain Colombo, analis"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Pequenas e poderosas: 14 small caps para investir em setembro, segundo a XP Investimentos",
-   "url": "https://www.moneytimes.com.br/pequenas-e-poderosas-14-small-caps-para-investir-em-setembro-segundo-a-xp-investimentos-lmrs/",
-   "publicado": "2026-09-07T14:57:20+00:00",
-   "tickers": [
-    "DIRR3"
-   ],
-   "resumo": "A XP Investimentos realizou algumas mudanças na carteira recomendada de small caps para o mês de setembro, entre elas está a adição da Direcional (DIRR3) com 5% de peso, apoiados sobretudo pelo múltiplo atrativo e pela exposição à melhora das perspectivas do Minha Cava Minha Vida"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Tragédia com avião da Amazon recoloca segurança da aviação de carga em debate",
    "url": "https://investnews.com.br/negocios/tragedia-aviao-amazon-seguranca-debate/",
    "publicado": "2026-09-07T14:55:04+00:00",
    "tickers": [],
    "resumo": "A queda, que deixou cinco mortos, pode se tornar o pior acidente da aviação de carga desde 2025; autoridades americanas abriram investigação"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Desfile de 7 de Setembro em Brasília termina e tem Lula, Fachin e presidentes do Congresso",
-   "url": "https://www.moneytimes.com.br/desfile-de-7-de-setembro-em-brasilia-termina-e-tem-lula-fachin-e-presidentes-do-congresso-lmrs/",
-   "publicado": "2026-09-07T14:54:11+00:00",
-   "tickers": [],
-   "resumo": "O presidente da República, Luiz Inácio Lula da Silva (PT), participou do tradicional desfile de 7 de Setembro, em Brasília, na manhã desta segunda-feira. O evento foi marcado pelo clima de campanha a partir de gritos de apoiadores que ocuparam as arquibancadas montadas pela Espla"
   },
   {
    "fonte": "InvestNews",
@@ -738,28 +739,12 @@
    "resumo": "O banco BTG Pactual convocou uma assembleia para os cotistas votarem se aceitam que o fundo taxa zero “Empiricus Selic Simples” seja incorporado pelo fundo taxa zero “BTG Pactual Digital Tesouro Selic Simples”. Assim, o da Empiricus não existiria mais. \nCada um desses fundos tem "
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Trump quer o petróleo da Venezuela para aliviar o preço da gasolina nos EUA. Não vai ser tão simples",
-   "url": "https://investnews.com.br/the-wall-street-journal/por-que-o-petroleo-da-venezuela-nao-deve-aliviar-a-gasolina-cara-nos-estados-unidos-tao-cedo/",
-   "publicado": "2026-09-04T09:02:00+00:00",
-   "tickers": [],
-   "resumo": "Plano envolve uma série de incertezas e não está claro se ele traria alívio aos preços elevados nos postos"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Banco agêntico vem aí: o que muda quando seu banco passa a investir por você?",
    "url": "https://valorinveste.globo.com/produtos/servicos-financeiros/noticia/2026/09/04/banco-agentico-vem-ai-o-que-muda-quando-seu-banco-passa-a-investir-por-voce.ghtml",
    "publicado": "2026-09-04T09:00:02+00:00",
    "tickers": [],
    "resumo": "O banco que hoje recomenda um investimento poderá, em um futuro bem próximo, fazer a aplicação direto pelo cliente, acompanhar os resultados e até mudar o dinheiro de lugar para cumprir uma meta definida previamente. É essa a ideia por trás do chamado banco agêntico, modelo basea"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Com custo 1/3 menor no Paraguai, Lupo avança em estratégia de internacionalização",
-   "url": "https://investnews.com.br/negocios/paraguai-portugal-lupo-internacional/",
-   "publicado": "2026-09-04T09:00:00+00:00",
-   "tickers": [],
-   "resumo": "Carlos Alberto Mazzeu, primeiro CEO fora da família fundadora, conta os planos de expansão internacional"
   },
   {
    "fonte": "Valor Investe",
