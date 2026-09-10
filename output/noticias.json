@@ -3,6 +3,282 @@
  "itens": 100,
  "dados": [
   {
+   "fonte": "Suno Noticias",
+   "titulo": "BRB (BSLI4) troca comando digital em meio à busca por R$ 6,6 bi; entenda",
+   "url": "https://www.suno.com.br/noticias/brb-nomeia-diretora-digital-emprestimo-66-bilhoes/",
+   "publicado": "2026-09-10T13:15:06+00:00",
+   "tickers": [
+    "BSLI4"
+   ],
+   "resumo": "O BRB anunciou a nomeação de Marianna Marques Garnier para o cargo de Diretora Executiva de Negócios Digitais (DINED). A posse ocorreu em 9 de setembro, após a conclusão dos procedimentos de governança e das exigências regulatórias, segundo fato relevante publicado pelo RI do BRB"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Day trade: Compre Embraer (EMBJ3) e venda Jalles Machado (JALL3) para ganhar até 1,50% hoje (10), segundo a Ágora",
+   "url": "https://www.moneytimes.com.br/day-trade-compre-embraer-embj3-e-venda-jalles-machado-jall3-para-ganhar-ate-150-hoje-10-segundo-a-agora-ceci/",
+   "publicado": "2026-09-10T13:11:21+00:00",
+   "tickers": [
+    "EMBJ3",
+    "JALL3"
+   ],
+   "resumo": "A Embraer (EMBJ3) é uma das recomendações de compra em day trade da Ágora Investimentos para esta quinta-feira (10). As ações da empresa fecharam a sessão da última quarta-feira (9) cotadas a R$ 95,27. O potencial de ganho é de 1,40% e o stop sugerido é de R$ 94,76. Recomendações"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Ibovespa cai com aversão a risco externa e Brent a US$ 105; 5 coisas para saber antes de investir hoje (10)",
+   "url": "https://www.moneytimes.com.br/ibovespa-5-coisas-10-9-26-lils/",
+   "publicado": "2026-09-10T13:09:56+00:00",
+   "tickers": [],
+   "resumo": "O Ibovespa (IBOV) começa o pregão desta quinta-feira (10) em queda, estendendo as perdas da véspera e acompanhando a aversão a risco externa com a disparada dos preços do petróleo. Pesquisas eleitorais para a Presidência da República também ficam no radar. Por volta de 10h10 (hor"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Para o ‘Rei da Soja’, Bolsonaro errou ao enfrentar China, cita grande perigo para o agronegócio brasileiro e chama Trump de ‘doidão’",
+   "url": "https://www.moneytimes.com.br/para-o-rei-da-soja-bolsonaro-errou-ao-enfrentar-china-cita-grande-perigo-para-o-agronegocio-brasileiro-e-chama-trump-de-doidao-pads/",
+   "publicado": "2026-09-10T13:07:19+00:00",
+   "tickers": [],
+   "resumo": "O ex-presidente Jair Bolsonaro errou ao confrontar a China na tentativa de agradar aos Estados Unidos, colocando em risco a posição pragmática que o Brasil deveria preservar diante da disputa entre as duas potências. A avaliação é de Blairo Maggi, acionista do Grupo Amaggi e ex-m"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Alexandre de Moraes cancela pronunciamento que havia marcado para 11h",
+   "url": "https://www.moneytimes.com.br/alexandre-de-moraes-cancela-pronunciamento-que-havia-marcado-para-11h-gaep/",
+   "publicado": "2026-09-10T12:56:22+00:00",
+   "tickers": [],
+   "resumo": "O ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes cancelou pronunciamento que havia convocado para esta quinta-feira (10), às 11h. O cancelamento veio 56 minutos após o anúncio da fala pública. &#8220;O pronunciamento do ministro Alexandre e de Moraes está cancelad"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Riachuelo (RIAA3) ganha mais um ano para se adequar ao free float mínimo exigido pela B3",
+   "url": "https://www.moneytimes.com.br/riachuelo-riaa3-ganha-mais-um-ano-para-se-adequar-ao-free-float-minimo-exigido-pela-b3-lmrs/",
+   "publicado": "2026-09-10T12:56:07+00:00",
+   "tickers": [
+    "RIAA3"
+   ],
+   "resumo": "A Guararapes (RIAA3), dona da Riachuelo, informou ao mercado que a B3 estendeu o prazo para o enquadramento da companhia ao percentual mínimo de ações em circulação no mercado (free float) de 31 de dezembro de 2026 para 31 de dezembro de 2027, dando um fôlego de um ano para a var"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "O que uma alta dos juros pelo Fed significa para a economia e a inflação dos EUA",
+   "url": "https://investnews.com.br/economia/o-que-uma-alta-dos-juros-pelo-fed-significa-para-a-economia-e-a-inflacao-dos-eua/",
+   "publicado": "2026-09-10T12:48:04+00:00",
+   "tickers": [],
+   "resumo": "Inflação persistente pode levar banco central americano a elevar a taxa de juros no país"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "BCE eleva juros em meio a temores com a inflação por guerra no Irã",
+   "url": "https://www.moneytimes.com.br/bce-eleva-juros-em-meio-a-temores-com-a-inflacao-por-guerra-no-ira-jcav/",
+   "publicado": "2026-09-10T12:45:22+00:00",
+   "tickers": [],
+   "resumo": "O Banco Central Europeu elevou as taxas de juros na quinta-feira (10) pela segunda vez neste ano, buscando conter um aumento da inflação impulsionado pelos preços da energia e desencadeado pela guerra no Irã. Os ataques de ambos os lados desde o final de agosto romperam um mês de"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "André Mendonça, o ministro ‘terrivelmente evangélico’ do STF que molda a eleição no Brasil",
+   "url": "https://www.moneytimes.com.br/andre-mendonca-o-ministro-terrivelmente-evangelico-do-supremo-que-molda-a-eleicao-no-brasil-gaep/",
+   "publicado": "2026-09-10T12:42:47+00:00",
+   "tickers": [],
+   "resumo": "Milhares de brasileiros se reuniram em São Paulo na segunda (7) para apoiar o candidato presidencial de direita Flávio Bolsonaro, a poucas semanas das eleições de 4 de outubro, mas o aspirante ao Palácio do Planalto pode não ter sido a figura mais importante ali. Dominando a mult"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Marcopolo vê potencial de retomada do mercado argentino em 2027",
+   "url": "https://www.moneytimes.com.br/marcopolo-ve-potencial-de-retomada-do-mercado-argentino-em-2027/",
+   "publicado": "2026-09-10T12:42:30+00:00",
+   "tickers": [],
+   "resumo": "A Marcopolo espera ver uma retomada da demanda no mercado argentino em 2027 devido à necessidade de renovação da frota apoiada pela transição do diesel para o gás, disse o presidente executivo, André Armaganijan, durante apresentação da empresa a investidores nesta quarta-feira. "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Petrobras (PETR4) volta atrás e cancela reajuste da gasolina horas após anúncio",
+   "url": "https://www.moneytimes.com.br/petrobras-petr4-volta-atras-e-cancela-reajuste-da-gasolina-horas-apos-anuncio-lmrs/",
+   "publicado": "2026-09-10T12:39:20+00:00",
+   "tickers": [
+    "PETR4"
+   ],
+   "resumo": "A Petrobras (PETR4) voltou atrás na madrugada desta quinta-feira (10) e cancelou o reajuste de R$ 0,19 por litro no preço de venda da gasolina para as distribuidoras. O aumento havia sido anunciado na noite de quarta-feirã (9), quando a estatal afirmou que deixaria de aplicar um "
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Brasileiros resgatam R$ 11 bilhões da poupança em agosto, a maior retirada em quatro anos",
+   "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/09/10/brasileiros-resgatam-r-11-bilhoes-da-poupanca-em-agosto-a-maior-retirada-em-quatro-anos.ghtml",
+   "publicado": "2026-09-10T12:37:28+00:00",
+   "tickers": [],
+   "resumo": "Os saques em caderneta de poupança superaram os depósitos em R$ 10,572 bilhões em agosto, como divulgado nesta quinta-feira (10) pelo Banco Central (BC). Essa foi o maior resgate líquido de recursos para o mês desde 2022, quando somou R$ 22,015 bilhões. No acumulado de 2026, a sa"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Setor de serviços do Brasil decepciona e fica estável em julho",
+   "url": "https://www.moneytimes.com.br/setor-de-servicos-do-brasil-decepciona-e-fica-estavel-em-julho/",
+   "publicado": "2026-09-10T12:36:13+00:00",
+   "tickers": [],
+   "resumo": "O volume de serviços no Brasil ficou estável em julho na comparação com junho e iniciou o terceiro trimestre com um desempenho abaixo do esperado, em mais um sinal de desaceleração da atividade econômica. Em julho, o volume de serviços teve ainda avanço de 0,9% em relação ao mesm"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Volkswagen vê SUVs e picapes como saída para recuperar mercado nos Estados Unidos",
+   "url": "https://investnews.com.br/negocios/volkswagen-ve-suvs-e-picapes-como-saida-para-recuperar-mercado-nos-estados-unidos/",
+   "publicado": "2026-09-10T12:26:06+00:00",
+   "tickers": [],
+   "resumo": "Volkswagen avalia novos modelos mais robustos, produzidos nos EUA, para ampliar margens e reduzir exposição a tarifas"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Ibovespa futuro cai com petróleo a US$ 105 e aversão global a risco",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/10/dolar-e-ibovespa-hoje-10-de-setembro-de-2026.ghtml",
+   "publicado": "2026-09-10T12:08:37+00:00",
+   "tickers": [],
+   "resumo": "O Ibovespa futuro opera em queda no início dos negócios nesta quinta-feira (10), enquanto o dólar sobe. A tensão elevada a cada dia na guerra entre os Estados Unidos e o Irã leva o preço do petróleo para a faixa dos US$ 105 e aumenta a percepção de risco nos mercados. O barril ne"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Memecoin de Hunter Biden despenca 99,5%: lição para o investidor?",
+   "url": "https://investnews.com.br/investimentos/memecoin-de-hunter-biden-despenca-995-licao-para-o-investidor/",
+   "publicado": "2026-09-10T11:35:03+00:00",
+   "tickers": [],
+   "resumo": "A empresa de análise de blockchain Bubblemaps chamou o lançamento de “banho de sangue” e apontou que cerca de 80% dos traders perderam dinheiro"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Petrobras (PETR4), Light (LIGT3), Motiva (MOTV3), Axia (AXIA3) e mais: Veja os destaques das empresas",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/09/10/petrobras-petr4-light-ligt3-motiva-motv3-axia-axia3-e-mais-veja-os-destaques-das-empresas.ghtml",
+   "publicado": "2026-09-10T11:25:16+00:00",
+   "tickers": [
+    "AXIA3",
+    "LIGT3",
+    "MOTV3",
+    "PETR4"
+   ],
+   "resumo": "Petrobras\nA Petrobras anunciou redução de R$ 0,19 por litro sobre o preço da gasolina. A a partir desta quinta-feira (10), para R$ 3,05 por litro. A decisão da estatal foi tomada após o anúncio do governo federal de uma nova subvenção de R$ 0,63 por litro sobre o combustível.\n\nSe"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Petróleo, inflação, decisão do BCE e deliberações de Fachin estão no foco do investidor",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/10/petroleo-inflacao-decisao-do-bce-e-deliberacoes-de-fachin-estao-no-foco-do-investidor.ghtml",
+   "publicado": "2026-09-10T11:13:36+00:00",
+   "tickers": [],
+   "resumo": "O preço do petróleo continuava em alta no começo desta quinta-feira (10), para além da marca de US$ 100, em meio a preocupações com a escalada do conflito entre os Estados Unidos e o Irã e o seu impacto no abastecimento de energia. Os investidores aguardam dados de inflação no pa"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Como remunerar o assessor de investimentos",
+   "url": "https://valorinveste.globo.com/blogs/marcelo-dagosto/post/2026/09/como-remunerar-o-assessor-de-investimentos.ghtml",
+   "publicado": "2026-09-10T11:10:04+00:00",
+   "tickers": [],
+   "resumo": "Existe uma discussão pouco conclusiva sobre a forma mais eficiente de um cliente remunerar a assessoria financeira profissional que recebe para administrar os seus investimentos.\nQuando uma pessoa abre uma conta numa instituição financeira, ela tem imediatamente à disposição uma "
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Como escolher?",
+   "url": "https://valorinveste.globo.com/blogs/vera-rita-de-mello-ferreira/coluna/como-escolher.ghtml",
+   "publicado": "2026-09-10T09:50:00+00:00",
+   "tickers": [],
+   "resumo": "- tomar decisões e fazer escolhas costuma não ser fácil...\n- escolher onde investir seu dinheiro, idem...\n- são tantos produtos financeiros no mercado, que quase dá vontade de desencanar...\n- e quando tem que pensar em prazos para os investimentos, então??\n- pronto, aí que muita "
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Quando o gestor vende para ele mesmo",
+   "url": "https://valorinveste.globo.com/blogs/marina-procknor/coluna/quando-o-gestor-vende-para-ele-mesmo.ghtml",
+   "publicado": "2026-09-10T09:40:00+00:00",
+   "tickers": [],
+   "resumo": "Na coluna anterior descrevi a arquitetura contratual de um fundo de private equity, os fundos que compram participação em empresas de capital fechado, trabalham nelas por anos e as vendem depois. Tratei do que o gestor pode e não pode fazer com o dinheiro, de como o resultado se "
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Apenas 39% das grandes empresas da bolsa têm maioria independente no conselho; entenda",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/09/10/apenas-39percent-das-grandes-empresas-da-bolsa-tem-maioria-independente-no-conselho-entenda.ghtml",
+   "publicado": "2026-09-10T09:30:00+00:00",
+   "tickers": [],
+   "resumo": "Só 39% das maiores companhias da bolsa têm conselhos de administração com maioria independente, enquanto o restante conta com conselhos em que a maior parte dos assentos é ocupada por membros indicados pelo acionista controlador. O dado levanta um alerta sobre a supervisão efetiv"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Como montar uma aposta com small caps para capturar eventuais ganhos do rali eleitoral?",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/10/como-montar-uma-aposta-com-small-caps-para-capturar-eventuais-ganhos-do-rali-eleitoral.ghtml",
+   "publicado": "2026-09-10T09:20:00+00:00",
+   "tickers": [
+    "SMAL11"
+   ],
+   "resumo": "As empresas de menor capitalização (conhecidas como small caps) ficaram para trás na forte alta da bolsa do início do ano, mas não no mais recente rali eleitoral. Na semana passada, o índice SMLL da B3 registrou alta de 5,9%, acima do Ibovespa, que registrou 5,4% no mesmo período"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "CDB mantém liderança entre investimentos mais buscados, mas ativos de risco despontam na lista",
+   "url": "https://valorinveste.globo.com/objetivo/hora-de-investir/noticia/2026/09/10/cdb-mantem-lideranca-entre-investimentos-mais-buscados-mas-ativos-de-risco-despontam-na-lista.ghtml",
+   "publicado": "2026-09-10T09:10:00+00:00",
+   "tickers": [],
+   "resumo": "Os ativos de menor risco continuaram entre os mais buscados pelos investidores brasileiros em agosto. Motivos não faltam: da guerra no Oriente Médio, que já se prolonga por seis meses, às eleições presidenciais que ficam mais incertas a cada pesquisa. A novidade é que, mesmo em m"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Milionários da IA têm mais dinheiro do que imaginavam — e nenhuma ideia de como gastá-lo",
+   "url": "https://investnews.com.br/the-wall-street-journal/milionarios-da-ia-tem-mais-dinheiro-do-que-imaginavam-e-nenhuma-ideia-de-como-gasta-lo/",
+   "publicado": "2026-09-10T09:04:00+00:00",
+   "tickers": [],
+   "resumo": "A venda de ações de OpenAI e Anthropic transformou centenas de funcionários em milionários"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Aposta em ETF de Brasil em NY dispara 86% em duas semanas: por que isso importa para você?",
+   "url": "https://valorinveste.globo.com/produtos/investimento-no-exterior/noticia/2026/09/10/aposta-em-etf-de-brasil-em-ny-dispara-86percent-em-duas-semanas-por-que-isso-importa-para-voce.ghtml",
+   "publicado": "2026-09-10T09:00:00+00:00",
+   "tickers": [
+    "ITUB4",
+    "PETR4",
+    "VALE3"
+   ],
+   "resumo": "O volume de opções de compra do EWZ, principal fundo de índice (ETF) de ações brasileiras negociado em Nova York, saltou cerca de 86% em menos de duas semanas, de 2,8 milhões de contratos em 24 de agosto para 5,2 milhões na última sexta-feira. É o maior patamar desde 2007, segund"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Outsider dos trilhos: como a família Constantino entrou na disputa pelo transporte em trens e metrôs",
+   "url": "https://investnews.com.br/negocios/grupocomporte-familia-constantino-trens/",
+   "publicado": "2026-09-10T09:00:00+00:00",
+   "tickers": [],
+   "resumo": "Grupo Comporte cresceu em concessões ferroviárias nos últimos anos e agora enfrenta seu maior desafio com a operação em SP"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "O México abriu sua economia. Por que não ficou rico?",
+   "url": "https://braziljournal.com/o-mexico-abriu-sua-economia-por-que-nao-ficou-rico/",
+   "publicado": "2026-09-10T03:45:59+00:00",
+   "tickers": [],
+   "resumo": "Do ponto de vista de liberalização do comércio, os anos 1990 marcam um período épico na história. A partir do início dos anos 1990, Estados Unidos, México e Canadá aprofundam sua integração comercial, num processo que desembocaria no NAFTA em 1994. Do outro lado do Atlântico, tam"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Sanepar luta pelo precatório, descarta privatização e quer ir além do Paraná",
+   "url": "https://braziljournal.com/sanepar-luta-pelo-precatorio-descarta-privatizacao-e-quer-ir-alem-do-parana/",
+   "publicado": "2026-09-10T03:40:56+00:00",
+   "tickers": [],
+   "resumo": "A Sanepar venceu uma disputa judicial de mais de 30 anos – mas não levou. Agora, entrou na Justiça novamente. O CEO Wilson Bley disse ao Brazil Journal que vai brigar até o fim para que a empresa embolse ao menos parte dos R$ 4 bilhões de um precatório recebido no ano passado, qu"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "OPINIÃO. A eleição do tudo ou nada. Por que não podemos errar de novo",
+   "url": "https://braziljournal.com/opiniao-a-eleicao-do-tudo-ou-nada-por-que-nao-podemos-errar-de-novo/",
+   "publicado": "2026-09-10T03:40:31+00:00",
+   "tickers": [],
+   "resumo": "Não chamem o Lula de mentiroso. Ele nunca prometeu ser fiscalmente responsável. Quem prometeu foram os outros. Em 6 de outubro de 2022, Armínio Fraga, Pedro Malan, Edmar Bacha e Persio Arida assinaram uma nota sucinta: “Votaremos em Lula no segundo turno; nossa expectativa é de c"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Mega-Sena 3056 sorteia prêmio de R$ 76 milhões hoje; veja como apostar e fazer bolão",
+   "url": "https://valorinveste.globo.com/loterias/noticia/2026/09/10/mega-sena-3056-sorteia-premio-de-r-76-milhoes-hoje-veja-como-apostar-e-fazer-bolao.ghtml",
+   "publicado": "2026-09-10T03:00:00+00:00",
+   "tickers": [],
+   "resumo": "A Mega-Sena 3056 sorteia um prêmio estimado em R$ 76 milhões nesta quinta-feira (10), a partir das 21h (horário de Brasília), em São Paulo.\nVEJA TAMBÉM: \n- Os números mais sorteados na história Mega-Sena\nNos concursos realizados às terças e quintas-feiras, as apostas podem ser fe"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Justiça encerra recuperação judicial da Light",
+   "url": "https://investnews.com.br/negocios/justica-encerra-recuperacao-judicial-da-light/",
+   "publicado": "2026-09-10T01:00:57+00:00",
+   "tickers": [],
+   "resumo": "Distribuidora encerrou processo iniciado em 2023 após renegociar dívidas e receber aporte de R$ 300 milhões"
+  },
+  {
    "fonte": "Valor Investe",
    "titulo": "TCU fará auditoria na CVM para avaliar gestão orçamentária, após STF turbinar orçamento da autarquia",
    "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/09/09/tcu-fara-auditoria-na-cvm-para-avaliar-gestao-orcamentaria-apos-stf-turbinar-orcamento-da-autarquia.ghtml",
@@ -19,48 +295,12 @@
    "resumo": "O Mercado Livre levantou US$ 1 bilhão com a emissão de um bond de 10 anos na tarde de hoje. O papel, com vencimento em 2036, saiu com spread de 130 pontos-base acima do Treasury de mesmo prazo, fontes a par do assunto disseram ao Brazil Journal. A demanda chegou a US$ 2,1 bilhões"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Juros futuros avançam com petróleo acima de US$ 101 e subvenção estendida",
-   "url": "https://www.moneytimes.com.br/juros-futuros-9-9-26-apsa/",
-   "publicado": "2026-09-09T22:35:05+00:00",
-   "tickers": [],
-   "resumo": "A curva de juros futuros ganhou força nesta quarta-feira (9), diante da pressão do petróleo e do avanço dos títulos do Tesouro norte-americano, os Treasuries. O cenário doméstico também pesou contra. A taxa do contrato de Depósito Interfinanceiro (DI) para janeiro de 2027, de cur"
-  },
-  {
    "fonte": "Brazil Journal",
    "titulo": "Nubank, XP e JBS devem entrar no Ibovespa em 2027",
    "url": "https://braziljournal.com/nubank-xp-e-jbs-devem-entrar-no-ibovespa-em-2027/",
    "publicado": "2026-09-09T22:34:45+00:00",
    "tickers": [],
    "resumo": "Os BDRs de empresas brasileiras poderão compor a carteira do Ibovespa no primeiro semestre de 2027, em data ainda a ser definida, anunciou a B3. O ingresso estará condicionado aos critérios do índice, que são focados em liquidez e não devem mudar.  A B3 vinha mantendo há meses co"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Gasolina mais barata: Governo calcula tamanho do impacto nas contas públicas",
-   "url": "https://www.moneytimes.com.br/gasolina-mais-barata-governo-calcula-tamanho-do-impacto-nas-contas-publicas/",
-   "publicado": "2026-09-09T22:09:42+00:00",
-   "tickers": [],
-   "resumo": "O ministro do Planejamento e Orçamento, Bruno Moretti, informou nesta quarta-feira, 9, o impacto somado de R$ 7 bilhões, aproximadamente, com as novas medidas para aliviar os preços dos combustíveis diante da guerra no Oriente Médio. Estão sendo detalhados em coletiva de imprensa"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Fitch eleva rating da Embraer (EMBJ3) de IDR para BBB, com perspectiva estável",
-   "url": "https://www.moneytimes.com.br/fitch-eleva-rating-da-embraer-de-idr-para-bbb-com-perspectiva-estavel/",
-   "publicado": "2026-09-09T22:08:32+00:00",
-   "tickers": [
-    "EMBJ3"
-   ],
-   "resumo": "A Fitch elevou a classificação de risco da Embraer (EMBJ3), com o rating de IDR passando para BBB e perspectiva estável, citando principalmente a posição de liquidez considerada robusta. Segundo a agência, a companhia combina histórico de geração positiva de fluxo de caixa livre "
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Squadra vende ações do Inter (INBR32); confira",
-   "url": "https://www.moneytimes.com.br/squadra-reduz-participacao-no-inter-inbr32-confira-apsa/",
-   "publicado": "2026-09-09T21:55:48+00:00",
-   "tickers": [
-    "INBR32"
-   ],
-   "resumo": "A Squadra Investimentos reduziu sua participação acionária no Inter (INBR32) para 4,93%, mostra documento enviado ao mercado nesta quarta-feira (9). Segundo comunicado, a gestora passou a deter 16 milhões valores mobiliários. De acordo com a gestora, a participação não tem como o"
   },
   {
    "fonte": "Suno Noticias",
@@ -93,56 +333,6 @@
    "publicado": "2026-09-09T21:36:46+00:00",
    "tickers": [],
    "resumo": "Pesquisas eleitorais devem adicionar volatilidade ao mercado, enquanto preços ainda atrativos das ações abrem espaço para novas altas"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "BR Partners (BRBI11) faz aumento de capital de R$ 30 mi; veja para onde vai dinheiro",
-   "url": "https://www.moneytimes.com.br/br-partners-bpac11-faz-aumento-de-capital-de-r-30-mi-veja-para-onde-vai-dinheiro/",
-   "publicado": "2026-09-09T21:25:30+00:00",
-   "tickers": [
-    "BRBI11"
-   ],
-   "resumo": "A BR Partners (BRBI11) vai fazer um aporte de R$ 30 milhões no Banco BR Partners, sua subsidiária, mostra comunicado ao mercado enviado ao mercado nesta quarta-feira (9). Segundo o banco, o valor será utilizado para &#8220;reforçar a estrutura de capital do Banco BR Partners e su"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Fachin tira inquérito das fake news de Alexandre de Moraes",
-   "url": "https://www.moneytimes.com.br/fachin-tira-inquerito-das-fake-news-de-alexandre-de-moraes-gaep/",
-   "publicado": "2026-09-09T21:17:27+00:00",
-   "tickers": [],
-   "resumo": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, retirou o ministro Alexandre de Moraes da condução do chamado inquérito das fake news a partir desta quarta-feira (9). Instaurado em 2019, o inquérito visava investigar ataques ao STF e acabou ampliando as atribuições "
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Radar das Eleições: Brasil caminha para ambiente de atrito institucional e agenda econômica ficará em segundo plano",
-   "url": "https://www.moneytimes.com.br/radar-das-eleicoes-brasil-caminha-para-ambiente-de-atrito-institucional-e-agenda-economica-ficara-em-segundo-plano-gaep/",
-   "publicado": "2026-09-09T21:03:04+00:00",
-   "tickers": [],
-   "resumo": "O Brasil caminha para um ambiente de atrito institucional entre os poderes Executivo, Legislativo e Judiciário, independentemente e quem será o presidente da República em 2027. Com isso, reformas econômicas e marcos regulatórios para atrair investimentos externos devem ser deixad"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "TSE investiga suposto abuso de poder econômico em ato de Flávio Bolsonaro na Festa do Peão de Barretos",
-   "url": "https://www.moneytimes.com.br/tse-abre-investigacao-sobre-suposto-abuso-de-poder-economico-em-ato-de-flavio-em-barretos-gaep/",
-   "publicado": "2026-09-09T20:57:50+00:00",
-   "tickers": [],
-   "resumo": "O Tribunal Superior Eleitoral (TSE) determinou o prosseguimento de uma Ação de Investigação Judicial Eleitoral (AIJE) contra Flávio Bolsonaro (PL), candidato à Presidência da República, e Alfredo Gaspar , candidato a vice-presidente, por suposto abuso de poder econômico durante a"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Fachin anula tudo e cassa liminares de Mendonça e Dino; diretor-geral da PF segue no cargo",
-   "url": "https://www.moneytimes.com.br/fachin-anula-tudo-e-cassa-liminares-de-mendonca-e-dino-diretor-geral-da-pf-segue-no-cargo-rnda/",
-   "publicado": "2026-09-09T20:51:56+00:00",
-   "tickers": [],
-   "resumo": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, cassou as decisões liminares concedidas anteriormente pelos colegas André Mendonça e Flávio Dino que discutiam a permanência ou não do diretor-geral da Polícia Federal, Andrei Rodrigues, no cargo, segundo decisão torna"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Dino exige criação de código único para fiscalização de emendas parlamentares",
-   "url": "https://www.moneytimes.com.br/dino-exige-criacao-de-codigo-unico-para-fiscalizacao-de-emendas-parlamentares-gaep/",
-   "publicado": "2026-09-09T20:46:55+00:00",
-   "tickers": [],
-   "resumo": "O ministro Flávio Dino, do Supremo Tribunal Federal (STF), determinou que o governo federal e o Congresso Nacional apresentem, até 30 de novembro de 2026, uma proposta conjunta para criar um identificador único para emendas parlamentares. A medida deverá vir acompanhada de um cro"
   },
   {
    "fonte": "Suno Noticias",
@@ -265,11 +455,11 @@
   },
   {
    "fonte": "InvestNews",
-   "titulo": "Tesouro dos Estados Unidos triplica recompra de títulos para US$ 6 bilhões",
-   "url": "https://investnews.com.br/economia/tesouro-dos-estados-unidos-triplica-recompra-de-titulos-para-us-6-bilhoes/",
+   "titulo": "Recompra de títulos dos EUA decepciona mercado e juros futuros voltam a subir",
+   "url": "https://investnews.com.br/economia/recompra-de-titulos-dos-eua-decepciona/",
    "publicado": "2026-09-09T17:39:06+00:00",
    "tickers": [],
-   "resumo": "O novo valor anunciado pelo Tesouro americano é três vezes superior aos US$ 2 bilhões inicialmente comunicados aos investidores"
+   "resumo": "Decisão não convenceu o mercado, que empurrou os rendimentos ao maior patamar desde 2023, com reflexos por aqui"
   },
   {
    "fonte": "Suno Noticias",
@@ -300,16 +490,6 @@
     "ENJU3"
    ],
    "resumo": "A Enjoei (ENJU3) aprovou em Assembleia Geral Extraordinária realizada nesta terça-feira (8) o grupamento de suas ações na proporção de 10 para 1. A medida foi aprovada em segunda convocação e responde a uma notificação formal da B3 sobre o risco de enquadramento dos papéis na cat"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "DIVD11 anuncia dividendos para setembro; veja valor por cota",
-   "url": "https://www.suno.com.br/noticias/divd11-dividendos-setembro-2026-gss/",
-   "publicado": "2026-09-09T16:24:27+00:00",
-   "tickers": [
-    "DIVD11"
-   ],
-   "resumo": "Dividendos do DIVD11. Foto: UnsplashO ETF DIVD11, da Itaú Asset, anunciou uma nova distribuição de rendimentos aos seus cotistas. Segundo comunicado divulgado ao mercado, o pagamento será de R$ 0,7983 por cota, tendo como base a posição dos investidores em 4 de setembro de 2026. "
   },
   {
    "fonte": "InvestNews",
@@ -596,14 +776,6 @@
    "resumo": "O resultado da Mega-Sena 3055 com prêmio de R$ 70 milhões foi divulgado nesta terça-feira (8), em São Paulo, e ninguém acertou as seis dezenas. Com isso, o prêmio acumulou em R$ 76 milhões para o próximo sorteio na quinta-feira (10).\nOs números sorteados hoje foram: 01 - 11 - 36 "
   },
   {
-   "fonte": "Brazil Journal",
-   "titulo": "A OpenAI pode estar fazendo história na matemática",
-   "url": "https://braziljournal.com/a-openai-pode-estar-fazendo-historia-na-matematica/",
-   "publicado": "2026-09-08T23:31:26+00:00",
-   "tickers": [],
-   "resumo": "A OpenAI acaba de anunciar que uma inteligência artificial pode ter resolvido um dos sete Problemas do Milênio – alguns dos problemas matemáticos mais difíceis ainda em aberto. Se a demonstração resistir ao escrutínio da comunidade matemática, este será apenas o segundo problema "
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "CVM condena Master, Vorcaro e familiares por fraude em fundo imobiliário",
    "url": "https://valorinveste.globo.com/produtos/fundos-imobiliarios/noticia/2026/09/08/cvm-condena-master-vorcaro-e-familiares-por-fraude-em-fundo-imobiliario.ghtml",
@@ -612,36 +784,12 @@
    "resumo": "A Comissão de Valores Mobiliários (CVM) condenou 16 acusados, incluindo o Banco Master, Daniel Vorcaro e familiares, por prática de operação fraudulenta, na negociação de cotas do fundo de investimento imobiliário (FII) Brazil Realty. As multas variam de R$ 5 milhões e R$ 24 milh"
   },
   {
-   "fonte": "Brazil Journal",
-   "titulo": "Quanto vale a Foz do Amazonas para a Petrobras? As contas do Scotiabank",
-   "url": "https://braziljournal.com/quanto-vale-a-foz-do-amazonas-para-a-petrobras-as-contas-do-scotiabank/",
-   "publicado": "2026-09-08T20:43:43+00:00",
-   "tickers": [],
-   "resumo": "Eleições? Para a Petrobras, as definições sobre a exploração da Foz do Amazonas serão bem mais importantes do que o resultado das urnas neste ano.  Esta é a visão dos analistas do ScotiaBank, Jorge Gabrich e Pedro Nascimento, que se debruçaram sobre as perspectivas para essa nova"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Após rali eleitoral, Ibovespa ainda tem espaço para subir 7% até o fim do ano",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/08/apos-rali-eleitoral-ibovespa-ainda-tem-espaco-para-subir-7percent-ate-o-fim-do-ano.ghtml",
    "publicado": "2026-09-08T20:43:10+00:00",
    "tickers": [],
    "resumo": "O Ibovespa subiu bastante nas últimas semanas, mas ainda tem uma caminhada até chegar ao pico. A equipe de análise da XP mantém em 200 mil pontos o valor justo do índice para o fim do ano,um potencial de alta de quase 7% em relação aos níveis atuais.\nA conta chama atenção porque "
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "IRB: novas regras estimulam mercado de seguros e resseguros",
-   "url": "https://braziljournal.com/irb-novas-regras-estimulam-mercado-de-seguros-e-resseguros/",
-   "publicado": "2026-09-08T20:33:37+00:00",
-   "tickers": [],
-   "resumo": "O Senado aprovou na semana passada dois projetos de lei com potencial transformacional para o mercado de seguros e resseguros do País – em particular para os negócios do IRB.     Algumas mudanças de regras já eram esperadas, mas uma delas, referente ao agronegócio, não estava no "
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Avianca levanta US$ 300 milhões para fazer manutenção de aviões no Brasil",
-   "url": "https://investnews.com.br/negocios/avianca-consegue-us-300-milhoes-em-meio-a-alta-demanda-por-manutencao-de-avioes/",
-   "publicado": "2026-09-08T19:54:17+00:00",
-   "tickers": [],
-   "resumo": "A operação ocorre em um momento de forte demanda das companhias aéreas por serviços de manutenção de motores"
   },
   {
    "fonte": "Valor Investe",
@@ -669,14 +817,6 @@
    "resumo": "A Mega-Sena 3054 sorteia um prêmio estimado em R$ 48 milhões nesta terça-feira (8), a partir das 21h (horário de Brasília), em São Paulo.\nVEJA TAMBÉM: \n- Os números mais sorteados na história Mega-Sena\nNos concursos realizados às terças e quintas-feiras, as apostas podem ser feit"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Empresa do Simples podem ter desconto de 60% em multas: entenda como funciona",
-   "url": "https://investnews.com.br/negocios/multa-do-simples-desconto/",
-   "publicado": "2026-09-08T19:11:57+00:00",
-   "tickers": [],
-   "resumo": "Desconto vale para multa do Simples por atraso ou erro no envio de declarações e outras obrigações acessórias"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "'Dinheiro esquecido': mais de 23 milhões de brasileiros ainda têm valores a receber",
    "url": "https://valorinveste.globo.com/produtos/servicos-financeiros/noticia/2026/09/08/dinheiro-esquecido-mais-de-23-milhoes-de-brasileiros-ainda-tem-valores-a-receber.ghtml",
@@ -693,28 +833,12 @@
    "resumo": "Uma nova modalidade de fraude tem alterado de forma imperceptível o QR Code do Pix em páginas de pagamento de lojas virtuais. Até o momento, a empresa de cibersegurança Kapersky detectou 90 comércios online de pequeno e médio porte infectados no Brasil. O programa malicioso, desc"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Varejo de luxo: JHSF vê mercado para loja de departamentos no Cidade Jardim",
-   "url": "https://investnews.com.br/negocios/jhsf-loja-departamento-cidade-jardim/",
-   "publicado": "2026-09-08T15:34:02+00:00",
-   "tickers": [],
-   "resumo": "CJ Fashion ocupa três andares, reúne cerca de 150 marcas e amplia a atuação do grupo em serviços e experiências para a alta renda"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "CVM julga hoje processo sobre suposta fraude em fundo imobiliário com Vorcaro, pai e primo entre acusados",
    "url": "https://valorinveste.globo.com/produtos/fundos-imobiliarios/noticia/2026/09/08/cvm-julga-hoje-processo-sobre-suposta-fraude-em-fundo-imobilirio-com-vorcaro-pai-e-primo-entre-acusados.ghtml",
    "publicado": "2026-09-08T15:00:49+00:00",
    "tickers": [],
    "resumo": "A Comissão de Valores Mobiliários (CVM) julga nesta terça-feira (8) dois processos administrativos sancionadores relacionados ao fundo de investimento imobiliário (FII) Brazil Realty, que tem entre os principais acusados a Sefer Investimentos, seu controlador, Benjamim Botelho de"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Mineradora canadense anuncia parceria com Japão para explorar terras raras no Brasil",
-   "url": "https://investnews.com.br/negocios/mineradora-canadense-anuncia-parceria-com-japao-para-explorar-terras-raras-no-brasil/",
-   "publicado": "2026-09-08T14:59:16+00:00",
-   "tickers": [],
-   "resumo": "Organização japonesa bancará exploração de terras raras por três anos e poderá ficar com 30% de um projeto da Aclara"
   },
   {
    "fonte": "Valor Investe",
@@ -731,28 +855,12 @@
    "resumo": "O preço do petróleo voltou a subir nesta terça-feira (8) e deu forte impulso às ações de empresas produtoras de petróleo. O destaque foram os papéis ordinários da Prio (PRIO3), que avançaram 3%, a R$ 62. Ações da Petrobras (PETR3, PETR4) e da Brava Energia (BRAV3) subiram mais de"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Eleições 2026: como a disputa eleitoral afeta bolsa, juros e câmbio?",
-   "url": "https://investnews.com.br/economia/eleicoes-2026-afeta-mercado-economia/",
-   "publicado": "2026-09-08T13:55:19+00:00",
-   "tickers": [],
-   "resumo": "Pesquisas eleitorais e mudanças na disputa podem mexer com mercado antes mesmo dos resultados das eleições 2026"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Taxas do Tesouro Direto caem ao menor nível desde maio; onde investir?",
    "url": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/09/08/taxas-do-tesouro-direto-caem-ao-menor-nivel-desde-maio-onde-investir.ghtml",
    "publicado": "2026-09-08T13:06:47+00:00",
    "tickers": [],
    "resumo": "As taxas dos títulos do Tesouro Direto começam a semana em forte queda nesta terça-feira (8) e recuam a níveis não vistos desde maio deste ano. A pesquisa eleitoral Quaest divulgada ontem mostrou empate numérico entre Flávio Bolsonaro (PL) e Luiz Inácio Lula da Silva (PT), ambos "
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "iPhone dobrável da Apple levou uma década para ser desenvolvido. Veja o que esperar",
-   "url": "https://investnews.com.br/negocios/iphone-dobravel-da-apple-levou-uma-decada-para-ser-desenvolvido/",
-   "publicado": "2026-09-08T12:38:38+00:00",
-   "tickers": [],
-   "resumo": "A insistência em um iPhone dobrável ajudou a impulsionar um dos projetos de hardware mais complexos da história da Apple"
   },
   {
    "fonte": "Valor Investe",
@@ -776,106 +884,6 @@
    "publicado": "2026-09-08T11:50:28+00:00",
    "tickers": [],
    "resumo": "A Vale disse não há estudos em andamento nem decisões tomadas por sua administração ou pela governança da Vale Base Metals a respeito de uma potencial abertura de capital ou transação estrutural em sua unidade de metais básicos.\n\nRespondendo a ofícios enviados pela Comissão de Va"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Boletim Focus: Expectativa para inflação em 2027 sobe pela quarta semana seguida",
-   "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/09/08/boletim-focus-expectativa-para-inflacao-em-2027-sobe-pela-quarta-semana-seguida.ghtml",
-   "publicado": "2026-09-08T11:32:55+00:00",
-   "tickers": [],
-   "resumo": "A expectativa dos economistas para a inflação em 2026 caiu pela segunda semana consecutiva, enquanto a estimativa para 2027 subiu pela quarta semana seguida. Já a previsão para 2028 foi mantida pela sexta semana consecutiva, apontou o Boletim Focus divulgado pelo Banco Central ne"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "EPR, Viveo (VVEO3), CVC (CVCB3), GPS (GGPS3) e mais: Veja os destaques das empresas",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/09/08/epr-viveo-vveo3-cvc-cvcb3-gps-ggps3-e-mais-veja-os-destaques-das-empresas.ghtml",
-   "publicado": "2026-09-08T11:08:37+00:00",
-   "tickers": [
-    "CVCB3",
-    "GGPS3",
-    "VVEO3"
-   ],
-   "resumo": "EPR\nA Equipav e a Perfin planejam vender uma fatia da operadora de rodovias EPR, segundo fontes. A ideia é atrair um novo sócio, provavelmente minoritário. A companhia, nos últimos anos, conquistou concessões com R$ 60 bilhões em investimentos previstos e busca seguir em expansão"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Investidor retorna dos feriados no Brasil e nos EUA de olho em salto do petróleo e pesquisa Quaest",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/08/investidor-retorna-dos-feriados-no-brasil-e-nos-eua-de-olho-em-salto-do-petroleo-e-pesquisa-quaest.ghtml",
-   "publicado": "2026-09-08T10:53:59+00:00",
-   "tickers": [],
-   "resumo": "Os investidores retornam dos feriados no Brasil e nos Estados Unidos para uma semana de negociações mais curta, acompanhando o conflito entre os EUA e o Irã e o salto no preço do petróleo para perto de US$ 100 o barril. Além disso, o mercado repercute a nova pesquisa Quaest de on"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "A crise do STF e o Poder Judiciário",
-   "url": "https://valorinveste.globo.com/blogs/marcelo-trindade/coluna/a-crise-do-stf-e-o-poder-judiciario.ghtml",
-   "publicado": "2026-09-08T09:30:00+00:00",
-   "tickers": [],
-   "resumo": "Na semana passada estourou o que tem potencial para se tornar a mais grave crise da história do Supremo Tribunal Federal (STF). Nada que abalasse o Ibovespa, que subiu mais de 5%. Indício de que as pesquisas e perspectivas eleitorais têm mais impacto no apetite dos investidores d"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "ESG no Valor 1000: destaques e desafios",
-   "url": "https://valorinveste.globo.com/blogs/sonia-consiglio/coluna/esg-no-valor-1000-destaques-e-desafios-1.ghtml",
-   "publicado": "2026-09-08T09:20:00+00:00",
-   "tickers": [],
-   "resumo": "O maior desafio da agenda ESG é a sua real incorporação ao negócio. Empresas com visão estratégica já entenderam que os fatores ambientais, sociais e de governança mitigam riscos e geram oportunidades, como novos mercados, maior competitividade, atração de talentos e investidores"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Ações defensivas viram refúgio dos investidores de bolsa; descubra quais são as favoritas",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/noticia/2026/09/08/acoes-defensivas-viram-refugio-dos-investidores-de-bolsa-descubra-quais-sao-as-favoritas.ghtml",
-   "publicado": "2026-09-08T09:10:00+00:00",
-   "tickers": [],
-   "resumo": "O investidor que quiser montar uma carteira de ações capaz de atravessar os próximos meses, marcado por ruído fiscal, eleição no horizonte e juros reais altos, deveria concentrar as apostas em setores que não dependem do ciclo econômico e pagam bons dividendos. É uma leitura que "
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Quais são as melhores gestoras de fundos do Brasil? Ranking aponta os líderes",
-   "url": "https://valorinveste.globo.com/produtos/fundos/noticia/2026/09/08/quais-sao-as-melhores-gestoras-de-fundos-do-brasil-ranking-aponta-os-lideres.ghtml",
-   "publicado": "2026-09-08T09:00:00+00:00",
-   "tickers": [],
-   "resumo": "Escolher uma gestora de fundos olhando apenas para quem entregou a maior rentabilidade pode esconder uma parte importante da história: quanto risco foi necessário correr para chegar àquele resultado. Um ranking elaborado pela unidade brasileira da agência de classificação de risc"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Sem Wall Street, petróleo volta ao centro das atenções e pressiona mercados globais",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/07/sem-wall-street-petroleo-volta-ao-centro-das-atencoes-e-pressiona-mercados-globais.ghtml",
-   "publicado": "2026-09-07T18:26:03+00:00",
-   "tickers": [],
-   "resumo": "Com os mercados dos Estados Unidos fechados nesta segunda-feira (7) pelo feriado do Dia do Trabalho, os negócios globais tiveram liquidez reduzida, mas não faltaram motivos para os investidores acompanharem o noticiário. As bolsas asiáticas fecharam majoritariamente em alta, a Eu"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Iene dispara ao maior nível em sete meses; entenda por que isso importa para o Brasil",
-   "url": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/09/07/iene-dispara-ao-maior-nivel-em-sete-meses-entenda-por-que-isso-importa-para-o-brasil.ghtml",
-   "publicado": "2026-09-07T16:17:12+00:00",
-   "tickers": [],
-   "resumo": "O iene disparou nesta segunda-feira (7) e atingiu o maior valor em sete meses frente ao dólar. Pode parecer um movimento distante da vida do investidor brasileiro, mas a valorização da moeda japonesa tem potencial para mexer com bolsas, câmbio e juros ao redor do mundo — e o Bras"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Trump posta imagem ‘comprando’ Intel a US$ 20 e diz ter ganhado bilhões para os EUA",
-   "url": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/09/07/trump-posta-imagem-comprando-intel-a-us-20-e-diz-ter-ganhado-bilhoes-para-os-eua.ghtml",
-   "publicado": "2026-09-07T15:49:52+00:00",
-   "tickers": [],
-   "resumo": "O presidente dos Estados Unidos, Donald Trump, publicou neste domingo (6), em sua rede Truth Social, uma imagem gerada por inteligência artificial (IA) em que aparece diante de telas de negociação comemorando uma valorização das ações da Intel de US$ 20 para US$ 95. Na mesma publ"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Casa própria começa pela calculadora: o que mudou na busca do brasileiro por imóvel",
-   "url": "https://valorinveste.globo.com/produtos/imoveis/noticia/2026/09/07/casa-propria-comeca-pela-calculadora-o-que-mudou-na-busca-do-brasileiro-por-imovel.ghtml",
-   "publicado": "2026-09-07T09:10:00+00:00",
-   "tickers": [],
-   "resumo": "Antes de escolher o bairro, o tamanho da sala ou contar quantos quartos cabem no sonho da casa própria, o brasileiro está fazendo outra conta: quanto consegue financiar. Em um cenário de juros ainda elevados, o crédito passou a aparecer cada vez mais cedo na decisão de compra de "
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Renda fixa volta a puxar aportes dos fundos, após quatro meses de resgates na classe",
-   "url": "https://valorinveste.globo.com/produtos/fundos/noticia/2026/09/07/renda-fixa-volta-a-puxar-aportes-dos-fundos-apos-quatro-meses-de-resgates-na-classe.ghtml",
-   "publicado": "2026-09-07T09:00:00+00:00",
-   "tickers": [],
-   "resumo": "Os cotistas dos fundos de investimentos aplicaram R$ 33,9 bilhões em agosto, descontando os resgates, apontam os dados divulgados no site da Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais (Anbima). Foi o primeiro mês de aportes após dois consecutivos de"
   }
  ]
 }
