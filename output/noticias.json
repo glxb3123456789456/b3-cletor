@@ -3,6 +3,231 @@
  "itens": 100,
  "dados": [
   {
+   "fonte": "Valor Investe",
+   "titulo": "TCU fará auditoria na CVM para avaliar gestão orçamentária, após STF turbinar orçamento da autarquia",
+   "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/09/09/tcu-fara-auditoria-na-cvm-para-avaliar-gestao-orcamentaria-apos-stf-turbinar-orcamento-da-autarquia.ghtml",
+   "publicado": "2026-09-09T23:23:17+00:00",
+   "tickers": [],
+   "resumo": "O Tribunal de Contas da União (TCU) vai realizar uma auditoria para avaliar a gestão orçamentária e financeira da Comissão de Valores Mobiliários (CVM), diante da decisão do Supremo Tribunal Federal (STF) que turbinou o orçamento da autarquia.\n\nO STF determinou que pelo menos 70%"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "MELI levanta US$ 1 bi com bond de 10 anos",
+   "url": "https://braziljournal.com/meli-levanta-us-1-bi-com-bond-de-10-anos/",
+   "publicado": "2026-09-09T22:51:59+00:00",
+   "tickers": [],
+   "resumo": "O Mercado Livre levantou US$ 1 bilhão com a emissão de um bond de 10 anos na tarde de hoje. O papel, com vencimento em 2036, saiu com spread de 130 pontos-base acima do Treasury de mesmo prazo, fontes a par do assunto disseram ao Brazil Journal. A demanda chegou a US$ 2,1 bilhões"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Juros futuros avançam com petróleo acima de US$ 101 e subvenção estendida",
+   "url": "https://www.moneytimes.com.br/juros-futuros-9-9-26-apsa/",
+   "publicado": "2026-09-09T22:35:05+00:00",
+   "tickers": [],
+   "resumo": "A curva de juros futuros ganhou força nesta quarta-feira (9), diante da pressão do petróleo e do avanço dos títulos do Tesouro norte-americano, os Treasuries. O cenário doméstico também pesou contra. A taxa do contrato de Depósito Interfinanceiro (DI) para janeiro de 2027, de cur"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Nubank, XP e JBS devem entrar no Ibovespa em 2027",
+   "url": "https://braziljournal.com/nubank-xp-e-jbs-devem-entrar-no-ibovespa-em-2027/",
+   "publicado": "2026-09-09T22:34:45+00:00",
+   "tickers": [],
+   "resumo": "Os BDRs de empresas brasileiras poderão compor a carteira do Ibovespa no primeiro semestre de 2027, em data ainda a ser definida, anunciou a B3. O ingresso estará condicionado aos critérios do índice, que são focados em liquidez e não devem mudar.  A B3 vinha mantendo há meses co"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Gasolina mais barata: Governo calcula tamanho do impacto nas contas públicas",
+   "url": "https://www.moneytimes.com.br/gasolina-mais-barata-governo-calcula-tamanho-do-impacto-nas-contas-publicas/",
+   "publicado": "2026-09-09T22:09:42+00:00",
+   "tickers": [],
+   "resumo": "O ministro do Planejamento e Orçamento, Bruno Moretti, informou nesta quarta-feira, 9, o impacto somado de R$ 7 bilhões, aproximadamente, com as novas medidas para aliviar os preços dos combustíveis diante da guerra no Oriente Médio. Estão sendo detalhados em coletiva de imprensa"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Fitch eleva rating da Embraer (EMBJ3) de IDR para BBB, com perspectiva estável",
+   "url": "https://www.moneytimes.com.br/fitch-eleva-rating-da-embraer-de-idr-para-bbb-com-perspectiva-estavel/",
+   "publicado": "2026-09-09T22:08:32+00:00",
+   "tickers": [
+    "EMBJ3"
+   ],
+   "resumo": "A Fitch elevou a classificação de risco da Embraer (EMBJ3), com o rating de IDR passando para BBB e perspectiva estável, citando principalmente a posição de liquidez considerada robusta. Segundo a agência, a companhia combina histórico de geração positiva de fluxo de caixa livre "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Squadra vende ações do Inter (INBR32); confira",
+   "url": "https://www.moneytimes.com.br/squadra-reduz-participacao-no-inter-inbr32-confira-apsa/",
+   "publicado": "2026-09-09T21:55:48+00:00",
+   "tickers": [
+    "INBR32"
+   ],
+   "resumo": "A Squadra Investimentos reduziu sua participação acionária no Inter (INBR32) para 4,93%, mostra documento enviado ao mercado nesta quarta-feira (9). Segundo comunicado, a gestora passou a deter 16 milhões valores mobiliários. De acordo com a gestora, a participação não tem como o"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Ibovespa cai 0,93% com petróleo acima de US$ 100 e interrompe fôlego do ‘trade eleitoral’",
+   "url": "https://www.suno.com.br/noticias/ibovespa-hoje-9-setembro-petroleo-ira-mt/",
+   "publicado": "2026-09-09T21:55:05+00:00",
+   "tickers": [],
+   "resumo": "O Ibovespa fechou em queda de 0,93% nesta quarta-feira (9), aos 185.629,04 pontos, pressionado pela aversão ao risco no exterior após uma nova escalada das tensões entre Estados Unidos e Irã. O índice oscilou entre 184.810,27 pontos e 187.362,44 pontos, com giro financeiro de R$ "
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Renato Ejnisman é o novo sócio da Laplace",
+   "url": "https://braziljournal.com/renato-ejnisman-e-o-novo-socio-da-laplace/",
+   "publicado": "2026-09-09T21:43:58+00:00",
+   "tickers": [],
+   "resumo": "Renato Ejnisman – o ex-chefe do IB do Santander – é o novo sócio da Laplace, a boutique de M&#38;A de Renato Carvalho, Allan Libman, Daniel Assa e Guilherme Rocha.   “Achei que estava na hora de deixar de ser executivo e passar a ser sócio,” Ejnisman disse ao Brazil Journal. “A L"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "CVM rejeita acordo com QI Corretora em caso que envolve liquidez de fundo",
+   "url": "https://valorinveste.globo.com/mercados/noticia/2026/09/09/cvm-rejeita-acordo-com-qi-corretora-em-caso-que-envolve-liquidez-de-fundo.ghtml",
+   "publicado": "2026-09-09T21:38:31+00:00",
+   "tickers": [],
+   "resumo": "A Comissão de Valores Mobiliários (CVM) rejeitou uma proposta de acordo apresentada pela QI Corretora para encerrar uma investigação que apura possíveis irregularidades relacionadas à liquidez e à prestação de informações do fundo Everest Summit. \nEm outra decisão, o regulador ac"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Ibovespa sobe 12% desde a mínima de agosto: até que ponto deve se estender o rali?",
+   "url": "https://investnews.com.br/investimentos/ibovespa-sobe-12-ate-onde-vai-rali/",
+   "publicado": "2026-09-09T21:36:46+00:00",
+   "tickers": [],
+   "resumo": "Pesquisas eleitorais devem adicionar volatilidade ao mercado, enquanto preços ainda atrativos das ações abrem espaço para novas altas"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "BR Partners (BRBI11) faz aumento de capital de R$ 30 mi; veja para onde vai dinheiro",
+   "url": "https://www.moneytimes.com.br/br-partners-bpac11-faz-aumento-de-capital-de-r-30-mi-veja-para-onde-vai-dinheiro/",
+   "publicado": "2026-09-09T21:25:30+00:00",
+   "tickers": [
+    "BRBI11"
+   ],
+   "resumo": "A BR Partners (BRBI11) vai fazer um aporte de R$ 30 milhões no Banco BR Partners, sua subsidiária, mostra comunicado ao mercado enviado ao mercado nesta quarta-feira (9). Segundo o banco, o valor será utilizado para &#8220;reforçar a estrutura de capital do Banco BR Partners e su"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Fachin tira inquérito das fake news de Alexandre de Moraes",
+   "url": "https://www.moneytimes.com.br/fachin-tira-inquerito-das-fake-news-de-alexandre-de-moraes-gaep/",
+   "publicado": "2026-09-09T21:17:27+00:00",
+   "tickers": [],
+   "resumo": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, retirou o ministro Alexandre de Moraes da condução do chamado inquérito das fake news a partir desta quarta-feira (9). Instaurado em 2019, o inquérito visava investigar ataques ao STF e acabou ampliando as atribuições "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Radar das Eleições: Brasil caminha para ambiente de atrito institucional e agenda econômica ficará em segundo plano",
+   "url": "https://www.moneytimes.com.br/radar-das-eleicoes-brasil-caminha-para-ambiente-de-atrito-institucional-e-agenda-economica-ficara-em-segundo-plano-gaep/",
+   "publicado": "2026-09-09T21:03:04+00:00",
+   "tickers": [],
+   "resumo": "O Brasil caminha para um ambiente de atrito institucional entre os poderes Executivo, Legislativo e Judiciário, independentemente e quem será o presidente da República em 2027. Com isso, reformas econômicas e marcos regulatórios para atrair investimentos externos devem ser deixad"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "TSE investiga suposto abuso de poder econômico em ato de Flávio Bolsonaro na Festa do Peão de Barretos",
+   "url": "https://www.moneytimes.com.br/tse-abre-investigacao-sobre-suposto-abuso-de-poder-economico-em-ato-de-flavio-em-barretos-gaep/",
+   "publicado": "2026-09-09T20:57:50+00:00",
+   "tickers": [],
+   "resumo": "O Tribunal Superior Eleitoral (TSE) determinou o prosseguimento de uma Ação de Investigação Judicial Eleitoral (AIJE) contra Flávio Bolsonaro (PL), candidato à Presidência da República, e Alfredo Gaspar , candidato a vice-presidente, por suposto abuso de poder econômico durante a"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Fachin anula tudo e cassa liminares de Mendonça e Dino; diretor-geral da PF segue no cargo",
+   "url": "https://www.moneytimes.com.br/fachin-anula-tudo-e-cassa-liminares-de-mendonca-e-dino-diretor-geral-da-pf-segue-no-cargo-rnda/",
+   "publicado": "2026-09-09T20:51:56+00:00",
+   "tickers": [],
+   "resumo": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, cassou as decisões liminares concedidas anteriormente pelos colegas André Mendonça e Flávio Dino que discutiam a permanência ou não do diretor-geral da Polícia Federal, Andrei Rodrigues, no cargo, segundo decisão torna"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Dino exige criação de código único para fiscalização de emendas parlamentares",
+   "url": "https://www.moneytimes.com.br/dino-exige-criacao-de-codigo-unico-para-fiscalizacao-de-emendas-parlamentares-gaep/",
+   "publicado": "2026-09-09T20:46:55+00:00",
+   "tickers": [],
+   "resumo": "O ministro Flávio Dino, do Supremo Tribunal Federal (STF), determinou que o governo federal e o Congresso Nacional apresentem, até 30 de novembro de 2026, uma proposta conjunta para criar um identificador único para emendas parlamentares. A medida deverá vir acompanhada de um cro"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "A virada nas carteiras de setembro: alocação de investimentos aposta em prefixados e ações dos EUA",
+   "url": "https://www.suno.com.br/noticias/alocacao-de-investimentos-prefixados-carteiras-setembro-mt/",
+   "publicado": "2026-09-09T20:40:00+00:00",
+   "tickers": [],
+   "resumo": "A virada nas carteiras de setembro: alocação de investimentos aposta em prefixados e ações dos EUAO relatório mensal de alocação da XP para setembro aponta uma mudança importante na alocação de investimentos: a renda fixa doméstica continua como principal base das carteiras, mas "
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Aversão ao risco global coloca ‘trade eleitoral’ à prova na bolsa brasileira",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/09/aversao-ao-risco-global-coloca-trade-eleitoral-a-prova-na-bolsa-brasileira.ghtml",
+   "publicado": "2026-09-09T20:39:58+00:00",
+   "tickers": [
+    "MGLU3",
+    "PETR3",
+    "PETR4",
+    "PRIO3",
+    "TEND3",
+    "UGPA3",
+    "VAMO3",
+    "VBBR3"
+   ],
+   "resumo": "O rali eleitoral que vinha sustentando a bolsa brasileira deu lugar ao “trade global” nesta quarta-feira (9). Novas tensões entre Estados Unidos e Irã levaram o petróleo ao maior preço desde maio, enquanto o anúncio de recompra de títulos do Tesouro americano provocou um efeito c"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Trump diz que guerra contra Irã terminará após eleições nos EUA em novembro",
+   "url": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/09/09/trump-diz-que-guerra-contra-ira-terminara-apos-eleicoes-nos-eua-em-novembro.ghtml",
+   "publicado": "2026-09-09T19:56:36+00:00",
+   "tickers": [],
+   "resumo": "O presidente norte-americano, Donald Trump, afirmou, hoje, que a guerra contra o Irã vai terminar “imediatamente após” as eleições legislativas dos EUA em novembro. Segundo ele, o Irã estaria tentando influenciar a votação, mas não vai conseguir resistir por mais tempo, diante da"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Apple (AAPL) lança iPhone 18 e modelo dobrável; veja quanto custa",
+   "url": "https://www.suno.com.br/noticias/iphone-18-precos-novos-modelos-apple-aapl-mt/",
+   "publicado": "2026-09-09T19:45:05+00:00",
+   "tickers": [],
+   "resumo": "A Apple (AAPL) apresentou os novos iPhone 18 Pro e iPhone 18 Pro Max, além do iPhone Duo, primeiro celular dobrável da marca. No Brasil, os preços começam em R$ 11.999 para o iPhone 18 Pro e chegam a R$ 21.999 no modelo dobrável. iPhone 18 Pro começa em R$ 11.999 O iPhone 18 Pro "
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "AI “could kill us all’’. Quem aperta o botão do pânico?",
+   "url": "https://braziljournal.com/ai-could-kill-us-all-quem-aperta-o-botao-do-panico/",
+   "publicado": "2026-09-09T19:40:43+00:00",
+   "tickers": [],
+   "resumo": "Jacob Coxon, um pesquisador de AI, trocou a OpenAI pela Anthropic no início do ano, acreditando que a empresa de Dario Amodei era mais responsável que a de Sam Altman no desenvolvimento de seus modelos.  Nove meses depois, ele anunciou no X que está deixando a indústria. Em um te"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Após 8 anos, Huawei vai a julgamento nos EUA por fraude e roubo de tecnologia",
+   "url": "https://investnews.com.br/negocios/apos-8-anos-huawei-vai-a-julgamento-nos-eua-por-fraude-e-roubo-de-tecnologia/",
+   "publicado": "2026-09-09T19:09:27+00:00",
+   "tickers": [],
+   "resumo": "Huawei é acusada de violar sanções dos EUA e roubar segredos comerciais de companhias americanas"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Dividendos do BTHF11 terão retorno de 1,15% em setembro",
+   "url": "https://www.suno.com.br/noticias/dividendos-do-bthf11-agosto-carteira/",
+   "publicado": "2026-09-09T19:05:07+00:00",
+   "tickers": [
+    "BTHF11"
+   ],
+   "resumo": "O fundo imobiliário BTHF11 definiu o rendimento de agosto em R$ 0,101 por cota, mantendo o mesmo valor praticado nos meses anteriores. A distribuição será efetuada em 15 de setembro de 2026. Com a cotação de R$ 8,80, os dividendos do BTHF11 correspondem a cerca de 1,15% no mês. A"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Nike é retirada do S&P 100 após quase 18 anos. Ações caem 40% em 2026",
+   "url": "https://investnews.com.br/negocios/nike-e-retirada-do-sp-100-apos-quase-18-anos-acoes-caem-40-em-2026/",
+   "publicado": "2026-09-09T18:50:26+00:00",
+   "tickers": [],
+   "resumo": "Os papéis da Nike acumulam queda de mais de 40% em 2026 e caminham para o quinto ano consecutivo de baixa"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Vale pode emitir ‘Panda Bonds’ na China ainda em 2026",
+   "url": "https://investnews.com.br/negocios/vale-pode-emitir-panda-bonds-na-china-ainda-em-2026/",
+   "publicado": "2026-09-09T18:20:30+00:00",
+   "tickers": [],
+   "resumo": "A Vale avalia acessar o mercado chinês no mesmo momento em que o governo brasileiro trabalha para captar cerca de 10 bilhões de yuans"
+  },
+  {
    "fonte": "Suno Noticias",
    "titulo": "Saída da NYSE: Cosan (CSAN3) define data para deixar Bolsa de Nova York",
    "url": "https://www.suno.com.br/noticias/saida-da-nyse-cosan-csan3-ultimo-dia-ads-mt/",
@@ -31,14 +256,6 @@
    "resumo": "Mark Zuckerberg: o agente Muse será integrado ao WhatsApp e ao Instagram e poderá executar tarefas como comprar ingressos"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Xinbi Guarantee: Tesouro dos EUA sanciona plataforma da China sob alegação de crime cibernético",
-   "url": "https://www.moneytimes.com.br/tesouro-dos-eua-sanciona-empresas-da-china-sob-alegacao-de-crime-cibernetico-rens/",
-   "publicado": "2026-09-09T17:49:36+00:00",
-   "tickers": [],
-   "resumo": "O Escritório de Controle de Ativos Estrangeiros (OFAC, em inglês) do Departamento do Tesouro dos EUA sancionou nesta quarta-feira (9) a intitulada &#8220;Organização Criminosa Transnacional&#8221; Xinbi Guarantee. A plataforma da China, segundo o Tesouro, é amplamente utilizada p"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Dinheiro esquecido: R$ 5,65 bilhões ainda podem ser resgatados. Veja como consultar",
    "url": "https://investnews.com.br/financas/dinheiro-esquecido-como-consultar/",
@@ -55,14 +272,6 @@
    "resumo": "O novo valor anunciado pelo Tesouro americano é três vezes superior aos US$ 2 bilhões inicialmente comunicados aos investidores"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "China reage a alerta cibernético dos EUA sobre IA e diz que acusações são ‘infundadas’",
-   "url": "https://www.moneytimes.com.br/china-reage-a-alerta-cibernetico-dos-eua-sobre-ia-e-diz-que-acusacoes-sao-infundadas/",
-   "publicado": "2026-09-09T17:38:54+00:00",
-   "tickers": [],
-   "resumo": "O Ministério do Comércio da China afirmou nesta quarta-feira, 9, que &#8220;se opõe firmemente&#8221; às acusações feitas pelos Estados Unidos contra empresas chinesas de inteligência artificial (IA), após órgãos americanos de segurança e ciberdefesa divulgarem um comunicado conj"
-  },
-  {
    "fonte": "Suno Noticias",
    "titulo": "BTCI11 anuncia novos dividendos com retorno de 1,12%",
    "url": "https://www.suno.com.br/noticias/dividendos-btci11-rendimento-agosto-2026/",
@@ -71,22 +280,6 @@
     "BTCI11"
    ],
    "resumo": "O fundo imobiliário BTCI11 confirmou o rendimento de agosto em R$ 0,101 por cota, apurado com base nos resultados do mês. Terá direito ao provento quem mantiver o papel em carteira até o fim do pregão de 8 de setembro de 2026, data de corte da distribuição. O pagamento está progr"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Tarcísio: STF está ‘batendo cabeça’ e não está conseguindo garantir segurança jurídica",
-   "url": "https://www.moneytimes.com.br/tarcisio-stf-esta-batendo-cabeca-e-nao-esta-conseguindo-garantir-seguranca-juridica-gaep/",
-   "publicado": "2026-09-09T17:26:35+00:00",
-   "tickers": [],
-   "resumo": "O governador de São Paulo e candidato à reeleição, Tarcísio de Freitas (Republicanos), disse nesta quarta (9), que o Supremo Tribunal Federal (STF) está &#8220;batendo cabeça&#8221; e que a Corte não está conseguindo garantir segurança jurídica ao País. As declarações foram feita"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Veja os principais pontos e ‘recados’ da decisão de Dino para reintegrar Andrei à direção da Polícia Federal",
-   "url": "https://www.moneytimes.com.br/veja-os-principais-pontos-e-recados-da-decisao-de-dino-para-reintegrar-andrei-a-direcao-da-pf-gaep/",
-   "publicado": "2026-09-09T17:16:04+00:00",
-   "tickers": [],
-   "resumo": "A decisão do ministro do Supremo Tribunal Federal (STF) Flávio Dino de reintegrar Andrei Rodrigues ao cargo de diretor-geral da Polícia Federal (PF), um dia após seu afastamento cautelar determinado pelo ministro André Mendonça, trouxe duras críticas à decisão do colega de toga. "
   },
   {
    "fonte": "Suno Noticias",
@@ -99,14 +292,6 @@
    "resumo": "A BlackRock reduziu sua participação na Axia Energia (AXIA3) após alienar ações ordinárias e preferenciais classe C em operações realizadas no mercado. Depois das vendas, a gestora passou a deter 115,7 milhões de ações ordinárias, equivalentes a 4,929% dessa classe, e 24,18 milhõ"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Nas redes sociais, 73% discordam do afastamento do diretor da PF por Mendonça, mostra pesquisa",
-   "url": "https://www.moneytimes.com.br/nas-redes-sociais-73-discordam-do-afastamento-do-diretor-da-pf-por-mendonca-mostra-pesquisa-gaep/",
-   "publicado": "2026-09-09T17:03:19+00:00",
-   "tickers": [],
-   "resumo": "O afastamento do diretor-geral da Polícia Federal, Andrei Rodrigues, pelo ministro do Supremo Tribunal Federal André Mendonça, sob acusação de monitoramento ilegal, gerou intensa repercussão nas redes sociais na terça-feira (8). Levantamento da Palver, empresa de inteligência e a"
-  },
-  {
    "fonte": "Suno Noticias",
    "titulo": "Enjoei (ENJU3) aprova grupamento 10 para 1 para sair de penny stock",
    "url": "https://www.suno.com.br/noticias/enjoei-enju3-grupamento-10-para-1-penny-stock-b3-go/",
@@ -115,40 +300,6 @@
     "ENJU3"
    ],
    "resumo": "A Enjoei (ENJU3) aprovou em Assembleia Geral Extraordinária realizada nesta terça-feira (8) o grupamento de suas ações na proporção de 10 para 1. A medida foi aprovada em segunda convocação e responde a uma notificação formal da B3 sobre o risco de enquadramento dos papéis na cat"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Tenda (TEND3) despenca quase 6% e amarga maior baixa do Ibovespa nesta quarta (9); o que está por trás da queda?",
-   "url": "https://www.moneytimes.com.br/tenda-tend3-despenca-quase-6-e-amarga-maior-baixa-do-ibovespa-nesta-quarta-9-o-que-esta-por-tras-da-queda-igdl/",
-   "publicado": "2026-09-09T16:54:47+00:00",
-   "tickers": [
-    "TEND3"
-   ],
-   "resumo": "As ações da construtora e incorporadora Tenda (TEND3), voltada ao segmento de baixa renda, operam em forte queda nesta quarta-feira (9) e lideram as perdas do Ibovespa (IBOV), o principal índice da bolsa brasileira. Por volta das 13h20 (horário de Brasília), os papéis da companhi"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Estrangeiro não saiu do Brasil por eleição, mas para rebalancear carteira, diz gestora da Fator",
-   "url": "https://www.moneytimes.com.br/estrangeiro-nao-saiu-do-brasil-por-eleicao-mas-para-rebalancear-carteira-diz-fator-lils/",
-   "publicado": "2026-09-09T16:29:58+00:00",
-   "tickers": [],
-   "resumo": "A forte saída de capital estrangeiro em agosto pode estar mais relacionada a um rebalanceamento das carteiras globais do que a uma mudança na percepção sobre os ativos brasileiros, na visão de Isabel Lemos, gestora de renda variável da Fator. Em agosto, o fluxo de saída atingiu o"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Petróleo em US$ 100 por barril: ‘É muito difícil voltar aos patamares pré-conflito’, diz analista",
-   "url": "https://www.moneytimes.com.br/petroleo-em-us-100-por-barril-alta-deve-continuar-diz-analista-entenda-os-impactos-nos-juros-mundialmente-mlem/",
-   "publicado": "2026-09-09T16:28:40+00:00",
-   "tickers": [],
-   "resumo": "Com a escalada das tensões entre Estados Unidos e Irã, o petróleo alcançou a marca de US$ 100 por barril. Na visão de Josias Bento, especialista de investimentos e sócio da GT Capital, esse conflito não deve acabar em breve e isso deve impactar os juros pelo mundo. Em entrevista "
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "De volta às máximas históricas: Título do Tesouro dos EUA atinge maior nível desde novembro de 2023",
-   "url": "https://www.moneytimes.com.br/de-volta-as-maximas-historicas-titulo-do-tesouro-dos-eua-atinge-maior-nivel-desde-novembro-2023-lils/",
-   "publicado": "2026-09-09T16:24:42+00:00",
-   "tickers": [],
-   "resumo": "Os rendimentos dos títulos do Tesouro dos Estados Unidos, os Treasuries, bateram novas máximas históricas nesta quarta-feira (9). Em destaque, o rendimento (yield) do título de 10 anos — referência para empréstimos imobiliários, financiamento de veículos e dívidas de cartão de cr"
   },
   {
    "fonte": "Suno Noticias",
@@ -177,20 +328,12 @@
    "resumo": "Volta dos BCs às compras ajudaram na retomada do ouro. Além disso, nunca foi tão simples investir no metal."
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Por que o Ibovespa cai mais de 1% nesta quarta-feira (9)?",
-   "url": "https://www.moneytimes.com.br/ibovespa-intradia-9-9-26-apsa/",
-   "publicado": "2026-09-09T16:11:26+00:00",
-   "tickers": [],
-   "resumo": "O Ibovespa (IBOV) acompanha a cautela no exterior, com os mercados internacionais em queda e o barril do petróleo Brent acima dos US$ 101, reacendendo temores inflacionários globais. Na mínima, o principal índice da bolsa brasileira recuou 1,36%, aos 184.810,27 pontos. Por volta "
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Petróleo supera US$ 101 com escalada da guerra entre EUA e Irã. Navios-tanque são atacados",
    "url": "https://investnews.com.br/economia/petroleo-supera-us-101-com-escalada-da-guerra-entre-eua-e-ira-navios-tanque-sao-atacados/",
    "publicado": "2026-09-09T15:54:11+00:00",
    "tickers": [],
-   "resumo": "O petróleo Brent superou US$ 101 por barril pela primeira vez desde julho, enquanto a escalada dos ataques no Oriente Médio aumentou as preocupações com novas interrupções no fluxo de energia para fora da região, rica em petróleo. A referência global do petróleo subiu mais de 3% "
+   "resumo": "O principal indicador global do petróleo fechou em alta de mais de 3% em Nova York"
   },
   {
    "fonte": "InvestNews",
@@ -199,14 +342,6 @@
    "publicado": "2026-09-09T15:40:08+00:00",
    "tickers": [],
    "resumo": "Nos próximos dois anos, o Google construirá três novos data centers e ampliará uma instalação já existente na cidade de Hamina, no sudeste do país"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Petróleo Brent ultrapassa US$ 100 pela primeira vez desde julho",
-   "url": "https://www.suno.com.br/noticias/petroleo-brent-100-dolares-confronto-eua-ira-estreito-ormuz-go/",
-   "publicado": "2026-09-09T15:30:09+00:00",
-   "tickers": [],
-   "resumo": "Mercado de petróleo - Foto: FreepikO petróleo tipo Brent ultrapassou US$ 100 o barril nesta quarta-feira (9), pela primeira vez desde julho, após navios de guerra dos Estados Unidos e do Irã trocarem tiros no Estreito de Ormuz na véspera, em uma escalada de tensões geopolíticas q"
   },
   {
    "fonte": "Valor Investe",
@@ -238,15 +373,15 @@
     "SCLE3",
     "TEND3"
    ],
-   "resumo": "As ações da Construtora Tenda (TEND3) caíam 5,52%, a R$ 33,21, por volta das 12 horas desta quarta-feira (9) e lideravam as perdas do índice Ibovespa. O dia é de recuo acentuado entre ações de consumo cíclico, mais sensíveis aos juros. Após sessões seguidas na contramão do exteri"
+   "resumo": "As ações da Construtora Tenda (TEND3) caíram 6%, a R$ 33,04, no pregão desta quarta-feira (9) e lideraram as perdas do índice Ibovespa. O dia é de recuo acentuado entre ações de consumo cíclico, mais sensíveis aos juros. Após sessões seguidas na contramão do exterior, os juros lo"
   },
   {
    "fonte": "InvestNews",
-   "titulo": "Pesquisador da Anthropic deixa empresa por temores de IA ‘fora de controle’",
+   "titulo": "Pesquisador da Anthropic deixa empresa e cita temor de IA ‘fora de controle’ que destrua a humanidade",
    "url": "https://investnews.com.br/the-wall-street-journal/pesquisador-da-anthropic-deixa-empresa-por-temores-de-ia-fora-de-controle/",
    "publicado": "2026-09-09T14:57:31+00:00",
    "tickers": [],
-   "resumo": "Preocupação cresce em laboratórios de IA com corrida por modelos que podem sair do controle humano"
+   "resumo": "Preocupação cresce em laboratórios de IA com corrida por modelos tão avançados que podem agir sem controle humano"
   },
   {
    "fonte": "InvestNews",
@@ -255,16 +390,6 @@
    "publicado": "2026-09-09T14:48:16+00:00",
    "tickers": [],
    "resumo": "Justiça sul-coreana determinou que fundador da Smilegate transfira 35% da empresa à ex-mulher"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "TVRI11: fundo imobiliário detalha nova oferta com quase R$ 500 milhões em cotas",
-   "url": "https://www.suno.com.br/noticias/tvri11-emissao-cotas-500-milhoes-2/",
-   "publicado": "2026-09-09T14:35:08+00:00",
-   "tickers": [
-    "TVRI11"
-   ],
-   "resumo": "O TVRI11 detalhou os termos de sua 2ª emissão de cotas, com volume inicial estimado em cerca de R$ 500 milhões. A oferta prevê a colocação de 4.970.178 novas cotas, ao valor de emissão de R$ 100,60 por cota. A operação foi aprovada pelos cotistas em maio de 2026 e admite encerram"
   },
   {
    "fonte": "InvestNews",
@@ -299,16 +424,6 @@
    "resumo": "As taxas dos títulos do Tesouro Direto operam em direções distintas nesta quarta-feira (9), e apresentaram sinais de melhora no início dessa tarde. Na maioria dos vencimentos os títulos interrompem, hoje, a sequência de quedas no que parte do mercado atribuiu a um \"rali eleitoral"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "Fundo imobiliário do Itaú mira até R$ 625 milhões em nova oferta de cotas",
-   "url": "https://www.suno.com.br/noticias/icdi11-terceira-emissao-cotas-oferta/",
-   "publicado": "2026-09-09T13:05:10+00:00",
-   "tickers": [
-    "ICDI11"
-   ],
-   "resumo": "O fundo imobiliário ICDI11 (Itaú Crédito Imobiliário CDI) aprovou a realização de uma nova emissão de cotas com volume inicial de até R$ 500 milhões. Trata-se da 3ª emissão do FII, que prevê a colocação inicial de até 5.002.001 novas cotas no mercado, conforme fato relevante. O v"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Lionel Messi se aproxima de acordo para comprar outro clube na Espanha",
    "url": "https://investnews.com.br/negocios/lionel-messi-se-aproxima-de-acordo-para-comprar-outro-clube-na-espanha/",
@@ -322,7 +437,7 @@
    "url": "https://investnews.com.br/negocios/iphone-dobravel-caro-demais-preco-vira-teste-para-a-apple-em-wall-street/",
    "publicado": "2026-09-09T12:25:13+00:00",
    "tickers": [],
-   "resumo": "Nos Estados Unidos, o iPhone dobrável deve chegar por cerca de US$ 2 mil. No Brasil, o preço pode chegar a aproximadamente R$ 21 mil"
+   "resumo": "A Apple anunciou o iPhone dobrável  a partir de US$ 2 mil. No Brasil, deve começar em R$ 21 mil"
   },
   {
    "fonte": "Valor Investe",
@@ -333,28 +448,17 @@
    "resumo": "Com uma alta de juros pelo Banco Central Europeu (BCE) dada como certa pelo mercado na reunião desta semana, o centro das atenções estará nas pistas sobre os passos seguintes da autoridade monetária. Diante da incerteza causada pelo conflito no Oriente Médio, boa parte dos grande"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "Petrobras (PETR4) volta a perfurar na Margem Equatorial na próxima semana",
-   "url": "https://www.suno.com.br/noticias/petrobras-petr4-retoma-perfuracao-margem-equatorial-foz-amazonas-mt/",
-   "publicado": "2026-09-09T12:10:00+00:00",
-   "tickers": [
-    "PETR4"
-   ],
-   "resumo": "Petrobras (PETR4) volta a perfurar na Margem Equatorial na próxima semanaA Petrobras (PETR4) vai retomar a perfuração no poço de Morpho, na bacia Foz do Amazonas, na Margem Equatorial brasileira, no início da próxima semana, segundo apurou o Broadcast (sistema de notícias em temp"
-  },
-  {
    "fonte": "Valor Investe",
-   "titulo": "Ibovespa recua com petróleo a US$ 100 e alta dos juros",
+   "titulo": "Ibovespa e bolsas de NY fecham em queda com petróleo a US$ 100, maior valor desde maio; dólar sobe",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/09/dolar-e-ibovespa-hoje-9-de-setembro-de-2026.ghtml",
    "publicado": "2026-09-09T12:09:25+00:00",
    "tickers": [
-    "CMIN3",
-    "EMBJ3",
+    "BBAS3",
+    "BBDC4",
     "ITUB4",
-    "PETR4",
-    "TEND3"
+    "PETR4"
    ],
-   "resumo": "O Ibovespa, principal índice de ações brasileira, recua no início dos negócios nesta quarta-feira (9), enquanto o dólar sobe. A bolsa começa o dia pressionada pela escalada do preço do petróleo e pela alta dos juros futuros. A guerra entre os Estados Unidos e o Irã atravessa um d"
+   "resumo": "O Ibovespa, principal índice de ações brasileira, encerrou o pregão desta quarta-feira (9) em queda firme, desta vez acompanhando o movimento negativo das bolsas globais. O gatilho foi o salto do preço do petróleo, para acima dos US$ 100, maior valor desde maio. \nA aversão a risc"
   },
   {
    "fonte": "Valor Investe",
@@ -581,14 +685,6 @@
    "resumo": "O Banco Central (BC) atualizou hoje (8) os números do Sistema de Valores a Receber (SVR), conhecido como \"dinheiro esquecido\", e ainda há R$ 5,6 bilhões à espera de resgate em bancos, administradoras de consórcio, cooperativas e outras instituições financeiras.\nDo total, R$ 4,2 b"
   },
   {
-   "fonte": "Brazil Journal",
-   "titulo": "Bets vão continuar crescendo, diz o Bradesco BBI",
-   "url": "https://braziljournal.com/bets-vao-continuar-crescendo-diz-o-bradesco-bbi/",
-   "publicado": "2026-09-08T17:56:25+00:00",
-   "tickers": [],
-   "resumo": "A regulação do mercado de bets online, que entrou em vigor no início de 2025, foi um dos fatores que impulsionaram o boom do setor no Brasil, e a tendência nos próximos anos é de crescimento sustentado em dois dígitos, segundo o Bradesco BBI, que mapeou o mercado de bets na Améri"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Novo golpe do Pix mira pequenas e médias lojas virtuais; veja como se proteger",
    "url": "https://valorinveste.globo.com/educacao-financeira/noticia/2026/09/08/novo-golpe-do-pix-mira-pequenas-e-medias-lojas-virtuais-veja-como-se-proteger.ghtml",
@@ -635,14 +731,6 @@
    "resumo": "O preço do petróleo voltou a subir nesta terça-feira (8) e deu forte impulso às ações de empresas produtoras de petróleo. O destaque foram os papéis ordinários da Prio (PRIO3), que avançaram 3%, a R$ 62. Ações da Petrobras (PETR3, PETR4) e da Brava Energia (BRAV3) subiram mais de"
   },
   {
-   "fonte": "Brazil Journal",
-   "titulo": "CVC renegocia debênture de R$ 400 mi, melhorando custo e prazos",
-   "url": "https://braziljournal.com/cvc-renegocia-debenture-de-r-400-mi-melhorando-custo-e-prazos/",
-   "publicado": "2026-09-08T14:06:11+00:00",
-   "tickers": [],
-   "resumo": "A CVC Corp vai renegociar os termos de uma debênture de R$ 400 milhões, reduzindo a taxa do título e alongando alguns prazos de pagamento.  Na operação, estruturada como uma exchange offer, a CVC está oferecendo aos debenturistas atuais a possibilidade de aportar as debêntures da"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Eleições 2026: como a disputa eleitoral afeta bolsa, juros e câmbio?",
    "url": "https://investnews.com.br/economia/eleicoes-2026-afeta-mercado-economia/",
@@ -682,28 +770,12 @@
    "resumo": "Depois do feriado no Estados Unidos e no Brasil, que manteve os mercados fechados, o Ibovespa, principal índice de ações brasileiras, encerrou o pregão desta terça-feira (8) em alta firme, descolado das bolsas globais. O chamado 'rali eleitoral' alimentou a força compradora, prin"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Petróleo Brent se aproxima de US$ 100 após novos ataques na Arábia Saudita",
-   "url": "https://investnews.com.br/economia/petroleo-brent-se-aproxima-de-us-100-apos-novos-ataques-na-arabia-saudita/",
-   "publicado": "2026-09-08T12:04:16+00:00",
-   "tickers": [],
-   "resumo": "Ataques a instalações de energia na Arábia Saudita aumentam temor de interrupções no fornecimento global de petróleo"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Vale diz que não estuda abrir capital da Vale Base Metals",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/09/08/vale-diz-que-nao-estuda-abrir-capital-da-vale-base-metals.ghtml",
    "publicado": "2026-09-08T11:50:28+00:00",
    "tickers": [],
    "resumo": "A Vale disse não há estudos em andamento nem decisões tomadas por sua administração ou pela governança da Vale Base Metals a respeito de uma potencial abertura de capital ou transação estrutural em sua unidade de metais básicos.\n\nRespondendo a ofícios enviados pela Comissão de Va"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "BNDES entra na corrida de terras raras com crédito para projeto de mineradora australiana",
-   "url": "https://investnews.com.br/negocios/bndes-financia-projeto-de-terras-raras-da-mineradora-australiana-viridis-com-r-775-milhoes/",
-   "publicado": "2026-09-08T11:47:26+00:00",
-   "tickers": [],
-   "resumo": "Recursos do BNDES serão usados em centro de pesquisa e planta de demonstração do projeto Colossus, em Minas Gerais"
   },
   {
    "fonte": "Valor Investe",
@@ -726,36 +798,12 @@
    "resumo": "EPR\nA Equipav e a Perfin planejam vender uma fatia da operadora de rodovias EPR, segundo fontes. A ideia é atrair um novo sócio, provavelmente minoritário. A companhia, nos últimos anos, conquistou concessões com R$ 60 bilhões em investimentos previstos e busca seguir em expansão"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "USDT e USDC: qual stablecoin escolher para ter dólar em cripto?",
-   "url": "https://investnews.com.br/investimentos/usdt-e-usdc-qual-stablecoin-escolher-para-ter-dolar-em-cripto/",
-   "publicado": "2026-09-08T11:06:42+00:00",
-   "tickers": [],
-   "resumo": "As duas maiores criptos de dólar são parecidas, mas têm algumas particularidades. Veja quais"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Investidor retorna dos feriados no Brasil e nos EUA de olho em salto do petróleo e pesquisa Quaest",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/08/investidor-retorna-dos-feriados-no-brasil-e-nos-eua-de-olho-em-salto-do-petroleo-e-pesquisa-quaest.ghtml",
    "publicado": "2026-09-08T10:53:59+00:00",
    "tickers": [],
    "resumo": "Os investidores retornam dos feriados no Brasil e nos Estados Unidos para uma semana de negociações mais curta, acompanhando o conflito entre os EUA e o Irã e o salto no preço do petróleo para perto de US$ 100 o barril. Além disso, o mercado repercute a nova pesquisa Quaest de on"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "OPINIÃO. Quando o Leão quer tributar um dinheiro que não existe",
-   "url": "https://braziljournal.com/opiniao-mais-uma-inovacao-da-fazenda-tributar-um-dinheiro-que-nao-existe/",
-   "publicado": "2026-09-08T09:50:06+00:00",
-   "tickers": [],
-   "resumo": "“Não há crise. Você que nos assiste, que às vezes vê uma loja sendo fechada, vai seguir tendo opções para comprar os seus produtos, seja em outras lojas concorrentes, seja pelo mercado digital” – Dario Durigan, ministro da Fazenda.   Apesar da peculiar visão do Ministro, a crise "
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "Quem vai pagar a conta do leilão de baterias?",
-   "url": "https://braziljournal.com/quem-vai-pagar-a-conta-do-leilao-de-baterias/",
-   "publicado": "2026-09-08T09:50:06+00:00",
-   "tickers": [],
-   "resumo": "O leilão para projetos de armazenamento de energia agendado pelo Governo para dezembro é praticamente uma unanimidade no setor elétrico: todos defendem sua realização como um avanço necessário.  O problema: ninguém quer pagar a conta. A divisão dos custos da contratação desses si"
   },
   {
    "fonte": "Valor Investe",
@@ -780,14 +828,6 @@
    "publicado": "2026-09-08T09:10:00+00:00",
    "tickers": [],
    "resumo": "O investidor que quiser montar uma carteira de ações capaz de atravessar os próximos meses, marcado por ruído fiscal, eleição no horizonte e juros reais altos, deveria concentrar as apostas em setores que não dependem do ciclo econômico e pagam bons dividendos. É uma leitura que "
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Na Oktoberfest em Munique, a tradição da cerveja foi parar no banco dos réus sob acusação de cartel",
-   "url": "https://investnews.com.br/the-wall-street-journal/tradicao-cerveja-cartel-oktoberfest/",
-   "publicado": "2026-09-08T09:05:00+00:00",
-   "tickers": [],
-   "resumo": "Disputa se desenha desde sobre quem pode vender cerveja até administrar tendas e vai parar na justiça"
   },
   {
    "fonte": "Valor Investe",
@@ -836,38 +876,6 @@
    "publicado": "2026-09-07T09:00:00+00:00",
    "tickers": [],
    "resumo": "Os cotistas dos fundos de investimentos aplicaram R$ 33,9 bilhões em agosto, descontando os resgates, apontam os dados divulgados no site da Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais (Anbima). Foi o primeiro mês de aportes após dois consecutivos de"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Ninguém acerta a Mega-Sena 3054 e prêmio acumula em R$ 70 milhões; veja números sorteados",
-   "url": "https://valorinveste.globo.com/loterias/noticia/2026/09/06/resultado-da-mega-sena-3054-com-premio-de-r-474-milhoes-e-divulgado-veja-numeros-sorteados.ghtml",
-   "publicado": "2026-09-06T14:20:28+00:00",
-   "tickers": [],
-   "resumo": "Ninguém acertou os seis números da  Mega-Sena 3054 com prêmio de R$ 47,4 milhões. Com isso, o prêmio acumulou e, para o próximo sorteio, poderá ser de R$ 70 milhões.\n78 apostas acertaram cinco dezenas e vão receber  R$ 30.145,38. Outras 5.268 marcaram quatro números corretos e vã"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Lotofácil da Independência 2026 vai ser sorteada em 15 de setembro e prêmio de R$ 300 milhões não acumula",
-   "url": "https://valorinveste.globo.com/loterias/noticia/2026/09/06/lotofacil-da-independencia-2026-vai-ser-sorteada-em-15-de-setembro-e-premio-de-300-milhoes-nao-acumula.ghtml",
-   "publicado": "2026-09-06T13:12:00+00:00",
-   "tickers": [],
-   "resumo": "A Lotofácil da Independência 2026 vai sortear um prêmio estimando em R$ 300 milhões e que não acumula em 15 de setembro, a partir das 11h (horário de Brasília). Tradicionalmente, o sorteio é feito no fim de semana do feriado de 7 de setembro, mas neste ano a Caixa Econômica Feder"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Itaú BBA, Gerdau, Alpargatas e mais: confira vagas de trabalho e cursos gratuitos de qualificação",
-   "url": "https://valorinveste.globo.com/educacao-financeira/comecar/noticia/2026/09/06/itau-bba-gerdau-alpargatas-e-mais-confira-vagas-de-trabalho-e-cursos-gratuitos-de-qualificacao.ghtml",
-   "publicado": "2026-09-06T11:32:46+00:00",
-   "tickers": [],
-   "resumo": "O mercado de trabalho está aquecido neste segundo semestre e há vagas em boas empresas para profissionais de diferentes perfis. O Valor Investe reuniu um compilado de postos de trabalho abertos, em grandes até pequenas empresas.\nSão mais de 5,4 mil posições nas modalidades presen"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Rematrícula escolar começa em setembro: veja os cuidados com mensalidade, reajuste e contrato",
-   "url": "https://valorinveste.globo.com/objetivo/organize-as-contas/noticia/2026/09/06/rematricula-escolar-comeca-em-setembro-veja-os-cuidados-com-mensalidade-reajuste-e-contrato.ghtml",
-   "publicado": "2026-09-06T11:31:22+00:00",
-   "tickers": [],
-   "resumo": "Setembro marca o início da temporada de rematrículas em muitas escolas particulares e, também, a hora dos pais começarem a organizar uma das principais despesas do orçamento familiar. Além de conferir o novo valor da mensalidade, é importante entender o reajuste aplicado, as cond"
   }
  ]
 }
