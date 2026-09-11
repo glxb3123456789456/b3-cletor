@@ -3,76 +3,221 @@
  "itens": 100,
  "dados": [
   {
-   "fonte": "Money Times",
-   "titulo": "Quem toma as decisões sobre IA no Brasil são os homens; só 4,7% dos líderes do setor são mulheres, aponta pesquisa",
-   "url": "https://www.moneytimes.com.br/quem-toma-as-decisoes-sobre-ia-no-brasil-sao-os-homens-so-47-dos-lideres-do-setor-sao-mulheres-aponta-pesquisa/",
-   "publicado": "2026-09-10T17:58:16+00:00",
+   "fonte": "Suno Noticias",
+   "titulo": "IFIX: índice fecha pregão em ligeira alta de 0,06%",
+   "url": "https://www.suno.com.br/noticias/ifix-indice-fecha-pregao-em-ligeira-alta-de-006/",
+   "publicado": "2026-09-10T23:35:05+00:00",
    "tickers": [],
-   "resumo": "Apenas 4,7% das posições executivas de inteligência artificial no Brasil estão sob gestão feminina, revelando um estrangulamento de liderança no setor tecnológico nacional frente à média internacional, de 13,3%. O dado faz parte de um mapeamento do LinkedIn conduzido em 27 países"
+   "resumo": "O IFIX encerrou o pregão desta quinta-feira (10) em 3.746,97 pontos, alta de 0,06%. O desempenho representa acréscimo de 2,22 pontos ante o fechamento anterior, de 3.744,75 pontos, mantendo o índice de fundos imobiliários próximo do patamar da véspera. Ao longo do dia, o índice d"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "TRXF11: fundo imobiliário negocia venda de imóvel por R$ 77 milhões",
+   "url": "https://www.suno.com.br/noticias/trxf11-fundo-imobiliario-negocia-venda-de-imovel-por-r-77-milhoes/",
+   "publicado": "2026-09-10T22:55:05+00:00",
+   "tickers": [
+    "TRXF11"
+   ],
+   "resumo": "O TRXF11 (TRX Real Estate Fundo de Investimento Imobiliário) assinou um Memorando de Entendimentos (MOU) para vender por R$ 77 milhões um imóvel na Vila Mariana, em São Paulo, hoje locado à Diagnósticos da América (Dasa), por meio da marca Delboni Auriemo. Se confirmada, a operaç"
   },
   {
    "fonte": "Money Times",
-   "titulo": "Renda fixa turbinada: títulos isentos de IR pagam até IPCA + 8,1%; veja as escolhas do BB para setembro",
-   "url": "https://www.moneytimes.com.br/renda-fixa-turbinada-titulos-isentos-de-ir-pagam-ate-ipca-81-veja-as-escolhas-do-bb-para-setembro-jcav/",
-   "publicado": "2026-09-10T17:57:41+00:00",
+   "titulo": "Itaú Unibanco (ITUB4) emite R$ 5 bi em letras financeiras",
+   "url": "https://www.moneytimes.com.br/itau-unibanco-itub4-emite-r-5-bi-em-letras-financeiras/",
+   "publicado": "2026-09-10T22:27:30+00:00",
+   "tickers": [
+    "ITUB4"
+   ],
+   "resumo": "O Itaú Unibanco (ITUB4) anunciou nesta quinta-feira que emitiu um total de R$ 5 bilhões em letras financeiras com vencimentos em 2036 e 2037, segundo comunicado divulgado ao mercado. As letras têm opção de recompra a partir de 2031 e terão impacto de 0,3 ponto percentual no índic"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "S&P rebaixa 3tentos (TTEN3) de olho na rentabilidade e novo corte de rating pode vir pela frente; ‘piorou mais do que esperávamos’",
+   "url": "https://www.moneytimes.com.br/sp-rebaixa-3tentos-tten3-de-olho-na-rentabilidade-e-novo-corte-de-rating-pode-vir-pela-frente-piorou-mais-do-que-esperavamos/",
+   "publicado": "2026-09-10T21:43:33+00:00",
+   "tickers": [
+    "TTEN3"
+   ],
+   "resumo": "A agência de classificação de risco S&#38;P Ratings rebaixou a nota de crédito da 3tentos (TTEN3) de “brAA” para “brA+” na escala nacional brasileira e alterou a perspectiva do rating de estável para negativa. A decisão reflete a deterioração da rentabilidade da companhia, o aume"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "IPCA deve registrar deflação em agosto, mas alívio pode ser temporário; veja o que esperar",
+   "url": "https://www.moneytimes.com.br/ipca-deve-registrar-deflacao-em-agosto-mas-alivio-pode-ser-temporario-veja-o-que-esperar-jcav/",
+   "publicado": "2026-09-10T21:35:00+00:00",
    "tickers": [],
-   "resumo": "A rentabilidade de até IPCA + 8,1% ao ano, com isenção de Imposto de Renda para pessoas físicas, colocou os títulos de crédito privado novamente no radar dos investidores em setembro. Em relatório, o BB Investimentos selecionou cinco debêntures incentivadas que, na avaliação dos "
+   "resumo": "O Índice Nacional de Preços ao Consumidor Amplo (IPCA) deve registrar deflação em agosto, puxado principalmente pela queda nas contas de luz. Apesar do alívio no índice cheio, a inflação de serviços e a perspectiva de uma retomada dos preços dos alimentos ainda exigem atenção. O "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Juros futuros têm forte queda com eleições em foco",
+   "url": "https://www.moneytimes.com.br/juros-futuros-recuam-com-eleicoes-em-foco-lils/",
+   "publicado": "2026-09-10T21:20:56+00:00",
+   "tickers": [],
+   "resumo": "A curva de juros futuros cedeu em todos os vencimentos com o cenário eleitoral em foco. A taxa do contrato de Depósito Interfinanceiro (DI) para janeiro de 2027, de curtíssimo prazo, foi a única exceção, subiu 1 ponto-base e fechou próximo da estabilidade a 13,595% ante 13,580% d"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Fachin conversa com Moraes, Mendonça e Gonet sobre sessão da próxima semana",
+   "url": "https://www.moneytimes.com.br/fachin-conversa-com-moraes-mendonca-e-gonet-sobre-sessao-da-proxima-semana-gaep/",
+   "publicado": "2026-09-10T21:14:19+00:00",
+   "tickers": [],
+   "resumo": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, conversou nesta quinta-feira (10) com ministros da Corte e com o procurador-geral da República, Paulo Gonet, sobre a sessão agendada para a próxima terça-feira (15). Está na pauta de julgamentos o pedido feito por Andr"
   },
   {
    "fonte": "InvestNews",
-   "titulo": "Moonshot usou Claude secretamente para treinar sua IA, diz Anthropic",
+   "titulo": "Barril do petróleo supera US$ 107 e reforça perspectiva de alta dos juros nos EUA, com efeitos no Brasil",
+   "url": "https://investnews.com.br/economia/petroleo-supera-us-107-reforca-alta-juros/",
+   "publicado": "2026-09-10T21:11:59+00:00",
+   "tickers": [],
+   "resumo": "Uma nova alta dos preços do petróleo provocou perdas em ações e títulos no mercado americano, com os dados mais recentes de inflação reforçando as apostas de que o Federal Reserve elevará os juros em breve, em meio às pressões dos custos mais altos de energia. O salto do barril d"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Ibovespa dispara 1,42% com ‘trade eleitoral’ e bancos; Vale (VALE3) recua",
+   "url": "https://www.suno.com.br/noticias/ibovespa-hoje-10-setembro-eleicoes-bancos-mt/",
+   "publicado": "2026-09-10T21:05:09+00:00",
+   "tickers": [
+    "VALE3"
+   ],
+   "resumo": "O Ibovespa virou para o campo positivo nesta quinta-feira (10) e fechou em alta de 1,42%, aos 188.268,59 pontos, com ganho de 2.639,55 pontos. Depois de começar o dia pressionado pelo exterior, o índice ganhou força com novas pesquisas eleitorais e o avanço das apostas em um cená"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "2x o valor do Nubank: CEO da Revolut diz em que as fintechs são diferentes e como quer ganhar espaço no Brasil",
+   "url": "https://www.moneytimes.com.br/2x-o-valor-do-nubank-ceo-da-revolut-diz-em-que-as-fintechs-sao-diferentes-e-como-quer-ganhar-espaco-no-brasil/",
+   "publicado": "2026-09-10T21:02:12+00:00",
+   "tickers": [],
+   "resumo": "É quase impossível não comparar Revolut e Nubank. As fintechs britânica e brasileira surgiram praticamente na mesma época, apoiadas em uma base tecnológica forte, oferecendo serviços inovadores e mirando quebrar a barreira de incumbentes tradicionais, tanto na Europa como no Bras"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Pronunciamento de Moraes deve ser feito na próxima segunda-feira, véspera da sessão do Supremo",
+   "url": "https://www.moneytimes.com.br/pronunciamento-de-moraes-deve-ser-feito-na-segunda-feira-vespera-da-sessao-do-stf-gaep/",
+   "publicado": "2026-09-10T20:56:53+00:00",
+   "tickers": [],
+   "resumo": "O ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes deve fazer na próxima segunda-feira (14) um pronunciamento a respeito da sua situação atual na Corte &#8211; em especial, em relação ao inquérito das fakes news, cuja relatoria foi assumida nesta quarta-feira (9), p"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Bolsa brasileira volta a ser a bola da vez entre os emergentes. E não é só a eleição",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/10/bolsa-brasileira-volta-a-ser-a-bola-da-vez-entre-os-emergentes-e-nao-e-so-a-eleicao.ghtml",
+   "publicado": "2026-09-10T20:49:32+00:00",
+   "tickers": [],
+   "resumo": "Há algo de diferente acontecendo com o Brasil na carteira dos investidores estrangeiros. O dinheiro que havia deixado a bolsa em agosto voltou com força em setembro, e o movimento não parece ser só uma recuperação do que foi perdido no mês anterior.\nO EWZ, ETF que reúne ações bra"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Flávio Bolsonaro chama operação da PF sobre emendas para Dark Horse de ‘interferência política’",
+   "url": "https://www.moneytimes.com.br/flavio-bolsonaro-chama-operacao-da-pf-sobre-emendas-para-filme-de-interferencia-politica-gaep/",
+   "publicado": "2026-09-10T20:48:04+00:00",
+   "tickers": [],
+   "resumo": "Em agenda de campanha em Boa Vista (RR), Flávio Bolsonaro (PL) criticou o ministro Flávio Dino e classificou como &#8220;interferência política&#8221; a ação da Polícia Federal, deflagrada nesta quinta-feira (10) para rastrear emendas destinadas ao financiamento do filme &#8220;D"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Vai pingar: Copasa (CSMG3) pagará JCPs; veja valores",
+   "url": "https://www.moneytimes.com.br/vai-pingar-copasa-csmg3-pagara-jcps-veja-valores/",
+   "publicado": "2026-09-10T20:42:23+00:00",
+   "tickers": [
+    "CSMG3"
+   ],
+   "resumo": "A Copasa (CSMG3) aprovou o pagamento de R$ 96,9 milhões em juros sobre o capital próprio (JCP) referentes ao terceiro trimestre de 2026. O valor corresponde a R$ 0,2556463313 por ação. Terão direito aos proventos os acionistas que estiverem posicionados nas ações da companhia em "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Ibovespa avança 1% e volta aos 188 mil pontos com eleições no radar; dólar cai a R$ 5,10",
+   "url": "https://www.moneytimes.com.br/ibovespa-10-9-26-lils/",
+   "publicado": "2026-09-10T20:13:36+00:00",
+   "tickers": [],
+   "resumo": "O Ibovespa (IBOV) devolveu as perdas da véspera com as pesquisas eleitorais em foco. Nesta quinta-feira (10), o principal índice da bolsa brasileira terminou as negociações com alta de 1,42%, aos 188.268,59 pontos. Já o dólar à vista encerrou as negociações a R$ 5,1027, com queda"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "O economics do Nubank nos EUA",
+   "url": "https://braziljournal.com/o-economics-do-nubank-nos-eua/",
+   "publicado": "2026-09-10T20:02:33+00:00",
+   "tickers": [],
+   "resumo": "MIAMI – O Nubank anunciou hoje o início de sua operação nos EUA, mirando um mercado potencial de 100 a 150 milhões de desbancarizados, ou underbanked.  Segundo o CEO David Vélez, ainda que o segmento “natural num primeiro momento” seja o de latino-americanos que já conhecem o ban"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Nova regra pode afetar empresas do Simples que vendem a prazo. Saiba como se preparar",
+   "url": "https://investnews.com.br/negocios/regime-caixa-competencia-simples-muda/",
+   "publicado": "2026-09-10T19:53:48+00:00",
+   "tickers": [],
+   "resumo": "Regime de competência passa a ser obrigatório, enquanto o regime de caixa deixar de existir no Simples e muda forma de recolher tributos"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "O Dia do Fico do ‘Júnior da Amil’",
+   "url": "https://braziljournal.com/o-dia-do-fico-do-junior-da-amil/",
+   "publicado": "2026-09-10T19:52:15+00:00",
+   "tickers": [],
+   "resumo": "No final da manhã, os quase 24 mil funcionários da Amil receberam um email do dono da empresa, José Seripieri Filho. No comunicado, o “Júnior da Amil” informava haver encerrado as negociações para vender a companhia e que seguirá à frente do negócio – hoje o terceiro maior operad"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Petróleo já sobe 77% no ano: por que a disparada está assustando os mercados?",
+   "url": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/09/10/petroleo-ja-sobe-77percent-no-ano-por-que-a-disparada-esta-assustando-os-mercados.ghtml",
+   "publicado": "2026-09-10T19:47:13+00:00",
+   "tickers": [
+    "PETR3",
+    "PETR4"
+   ],
+   "resumo": "O petróleo disparou mais de 6% nesta quinta-feira (10), levando o tipo Brent a US$ 107,63 por barril e ampliando para cerca de 77% a alta acumulada no ano. A nova arrancada acendeu ainda mais o alerta dos mercados para os efeitos da guerra com o Irã sobre a oferta global de energ"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Empresa saiu da recuperação judicial: o que acontece quando o processo termina?",
+   "url": "https://investnews.com.br/financas/recuperacao-judicial-empresas-dividas/",
+   "publicado": "2026-09-10T19:40:08+00:00",
+   "tickers": [],
+   "resumo": "Encerramento da recuperação judicial não significa, necessariamente, quitação total junto a credores"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Preço da gasolina cai? Petrobras (PETR4) reduz R$ 0,19 e fixa novo valor",
+   "url": "https://www.suno.com.br/noticias/preco-da-gasolina-petrobras-petr4-reducao-r-019-mt/",
+   "publicado": "2026-09-10T19:15:05+00:00",
+   "tickers": [
+    "PETR4"
+   ],
+   "resumo": "O preço da gasolina vendida pela Petrobras (PETR4) às distribuidoras terá redução líquida de R$ 0,19 por litro a partir desta quinta-feira (10). Com a mudança, o valor médio do combustível passa a R$ 3,05 por litro, segundo comunicado retificado pela companhia. A decisão veio dep"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Nubank lança operação nos EUA e mira mercado entre 100 e 150 milhões de clientes",
+   "url": "https://valorinveste.globo.com/produtos/servicos-financeiros/noticia/2026/09/10/nubank-lanca-operacao-nos-eua-e-mira-mercado-entre-100-e-150-milhoes-de-clientes.ghtml",
+   "publicado": "2026-09-10T18:46:42+00:00",
+   "tickers": [],
+   "resumo": "O Nubank anunciou nesta quinta-feira (10) o lançamento da sua operação nos Estados Unidos. A fintech anunciou o início da operação usando o Lead Bank, um banco parceiro, já que ainda não tem licença para operar naquele país. \n\nO pedido de licença foi feito em setembro do ano pass"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Trump promete US$ 5 mil a americanos se republicanos vencerem eleição; isso é legal?",
+   "url": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/09/10/trump-promete-us-5-mil-a-americanos-se-republicanos-vencerem-eleicao-isso-e-legal.ghtml",
+   "publicado": "2026-09-10T18:20:08+00:00",
+   "tickers": [],
+   "resumo": "O presidente dos Estados Unidos, Donald Trump, prometeu pagar US$ 5 mil — cerca de R$ 25 mil ao câmbio de hoje  — a cada cidadão americano adulto caso o Partido Republicano mantenha o controle da Câmara dos Representantes e do Senado nas eleições legislativas de 3 de novembro.\n“S"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Chinesa Moonshot usou Claude secretamente para treinar sua IA, diz Anthropic",
    "url": "https://investnews.com.br/negocios/moonshot-usou-claude-secretamente-para-treinar-sua-ia-diz-anthropic/",
    "publicado": "2026-09-10T17:51:37+00:00",
    "tickers": [],
    "resumo": "A Anthropic acusou a Moonshot AI, uma das principais empresas chinesas de inteligência artificial, de encaminhar secretamente milhares de pedidos de usuários para os modelos Claude, da companhia americana, e apresentar as respostas como se fossem produzidas por sua própria tecnol"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "De R$ 10 bi a R$ 50 bi: Mercado de canetas para emagrecer engorda o bolso das varejistas farmacêuticas",
-   "url": "https://www.moneytimes.com.br/de-r-10-bi-a-r-50-bi-mercado-de-canetas-para-emagrecer-engorda-o-bolso-das-varejistas-farmaceuticas/",
-   "publicado": "2026-09-10T17:45:30+00:00",
-   "tickers": [],
-   "resumo": "O uso de remédios para emagrecer deixou de ser apenas uma conversa de consultório para se transformar no principal catalisador financeiro do varejo farmacêutico brasileiro nos últimos anos. Entre 2021 e 2025, o mercado das chamadas &#8220;canetas emagrecedoras&#8221; movimentou R"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Bolsas da Europa recuam com petróleo e alta nos juros pelo BCE",
-   "url": "https://www.moneytimes.com.br/europa-10-9-26-apsa/",
-   "publicado": "2026-09-10T17:40:44+00:00",
-   "tickers": [],
-   "resumo": "As bolsas europeias fecharam majoritariamente em queda nesta quinta-feira (10), pressionadas pelas tensões geopolíticas no Oriente Médio, que elevava os preços do petróleo, e a decisão do Banco Central Europeu (BCE) de elevar os juros em meio à inflação acima da meta. O índice pa"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Em 24h, criptomoeda do filho de Joe Biden perde 99% do valor e mostra realidade das ‘memecoins’",
-   "url": "https://www.moneytimes.com.br/em-24h-criptomoeda-do-filho-de-joe-biden-perde-99-do-valor-e-mostra-realidade-das-memecoins-rens/",
-   "publicado": "2026-09-10T17:38:02+00:00",
-   "tickers": [],
-   "resumo": "O lançamento da memecoin Hunter Biden&#8217;s Laptop (LAPTOP) de Hunter Biden, filho do ex-presidente dos Estados Unidos Joe Biden, na última quarta-feira (9) era amplamente esperado pelo mercado. A criptomoeda chegou a tocar os US$ 190,81 nos primeiros minutos de negociação — ma"
-  },
-  {
    "fonte": "Suno Noticias",
-   "titulo": "Nubank (NU) chega aos EUA com conta em dólar, cashback e criptomoedas",
+   "titulo": "Nubank (ROXO34) chega aos EUA com conta em dólar, cashback e criptomoedas",
    "url": "https://www.suno.com.br/noticias/nubank-nu-operacoes-estados-unidos-conta-multimoeda-mt/",
    "publicado": "2026-09-10T17:25:12+00:00",
-   "tickers": [],
+   "tickers": [
+    "ROXO34"
+   ],
    "resumo": "O Nubank, controlado pela Nu Holdings (NYSE: NU), iniciou nesta quinta-feira, 10 de setembro de 2026, suas operações nos Estados Unidos. A companhia lançou uma linha completa de produtos financeiros e apresentou o Nu Global, uma conta digital multimoeda voltada para transferência"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Do papel ao pixel: Brasil cria regras para uso da biometria facial em todos os aeroportos, portos e hidrovias do país",
-   "url": "https://www.moneytimes.com.br/do-papel-ao-pixel-brasil-cria-regras-para-uso-da-biometria-facial-em-todos-os-aeroportos-portos-e-hidrovias-do-pais/",
-   "publicado": "2026-09-10T17:19:17+00:00",
-   "tickers": [],
-   "resumo": "Os sistemas de transporte do país iniciam uma transição decisiva para a digitalização total da jornada do passageiro. O Ministério dos Portos e Aeroportos (MPor) oficializou a criação da Política Nacional Setorial de Identificação Biométrica, uma nova diretriz que busca unificar "
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "BTG Pactual abre inscrições gratuitas para o Curso Previdência Privada; participe",
-   "url": "https://www.moneytimes.com.br/btg-pactual-abre-inscricoes-gratuitas-para-o-curso-previdencia-privada-participe-lbrdjm037/",
-   "publicado": "2026-09-10T17:16:07+00:00",
-   "tickers": [],
-   "resumo": "Saiba como se inscrever em curso que ensina como funciona a previdência privada e como decidir a melhor estratégia para o seu futuro"
   },
   {
    "fonte": "Suno Noticias",
@@ -83,34 +228,6 @@
     "RBRP11"
    ],
    "resumo": "O fundo imobiliário RBRP11 anunciou o pagamento de dividendos do RBRP11 no valor de R$ 0,35 por cota, referentes aos resultados de agosto de 2026. A data de pagamento informada pela gestão é 15 de setembro. Terão direito aos proventos os investidores posicionados ao fim do pregão"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Smart Fit (SMFT3): História de crescimento não atingiu o teto e Santander calcula potencial de 98% para a ação",
-   "url": "https://www.moneytimes.com.br/smart-fit-smft3-historia-de-crescimento-nao-atingiu-o-teto-e-santander-calcula-potencial-de-98-para-a-acao-lmrs/",
-   "publicado": "2026-09-10T17:03:01+00:00",
-   "tickers": [
-    "SMFT3"
-   ],
-   "resumo": "Na contramão dos temores de investidores, o Santander não vê um ritmo mais lento de abertura de academia sinalizando fim da história de crescimento da Smart Fit (SMFT3). O banco avalia que os resultados da rede de academias são muito menos sensíveis às aberturas do que se imagina"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Petróleo em US$ 104: Petrobras (PETR4) poderia estar capturando ‘muito mais’ a alta da commodity, diz analista",
-   "url": "https://www.moneytimes.com.br/petroleo-em-us-104-petrobras-petr4-poderia-estar-capturando-muito-mais-a-alta-da-commodity-diz-analista-mlem/",
-   "publicado": "2026-09-10T16:34:27+00:00",
-   "tickers": [
-    "PETR4"
-   ],
-   "resumo": "Em uma sequência de alta, o petróleo alcança a casa dos US$ 104 nesta quinta-feira (10). Ao mesmo tempo, as ações da Petrobras (PETR4) avançam. Apesar de já ser uma boa movimentação para o Ibovespa, Augusto Parente, sócio-fundador e especialista em investimetos da AW Capital, acr"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Conselho do FGTS aprova aumento de R$ 500 milhões no orçamento de subsídios; entenda",
-   "url": "https://www.moneytimes.com.br/conselho-do-fgts-aprova-aumento-de-r-500-milhoes-no-orcamento-de-subsidios-do-fundo-igdl/",
-   "publicado": "2026-09-10T16:29:00+00:00",
-   "tickers": [],
-   "resumo": "O Conselho Curador do Fundo de Garantia do Tempo de Serviço (FGTS) aprovou nesta quinta-feira (10) o aumento de R$ 500 milhões no orçamento de subsídios do fundo para 2026, saindo de R$ 12,5 bilhões para R$ 13 bilhões. O previsto para as áreas de saneamento, habitação e infraestr"
   },
   {
    "fonte": "Suno Noticias",
@@ -195,28 +312,12 @@
    "resumo": "O fundo imobiliário MAXR11 informou a distribuição de R$ 0,40 por cota, no patamar mais alto em 7 meses. Os proventos serão creditados em 15 de setembro de 2026 aos investidores com direito na data-base definida. Têm direito ao recebimento os cotistas posicionados ao final do pre"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "Investir R$ 1 milhão em FIIs: saiba quanto rende por mês",
-   "url": "https://www.suno.com.br/noticias/fundos-imobiliarios-quanto-rende-milhao/",
-   "publicado": "2026-09-10T14:25:11+00:00",
-   "tickers": [],
-   "resumo": "Os fundos imobiliários são uma alternativa para quem busca construir uma fonte recorrente de renda a partir dos dividendos distribuídos pelos FIIs. A geração mensal depende de fatores como preço das cotas e histórico de pagamentos, o que influencia o retorno de cada carteira. Dia"
-  },
-  {
    "fonte": "Brazil Journal",
    "titulo": "A tal da luz no fim do túnel: o plano da Light com o fim da RJ",
    "url": "https://braziljournal.com/a-tal-da-luz-no-fim-do-tunel-o-plano-da-light-com-o-fim-da-rj/",
    "publicado": "2026-09-10T14:08:55+00:00",
    "tickers": [],
    "resumo": "Depois de mais de três anos, a Light saiu da recuperação judicial ontem à noite. Para a empresa, a decisão da Justiça foi quase uma formalidade: as principais condições do plano já haviam sido cumpridas, incluindo um aumento de capital de R$ 1,5 bilhão e a conversão de cerca de R"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Celulose ensaia recuperação, mas China pode colocar freio; veja ações favoritas",
-   "url": "https://www.suno.com.br/noticias/celulose-recuperacao-china-acoes-suzano-klabin-irani-mt/",
-   "publicado": "2026-09-10T13:45:05+00:00",
-   "tickers": [],
-   "resumo": "A celulose começou setembro com sinais de recuperação, mas ainda enfrenta obstáculos para sustentar uma alta mais forte. Essa é a leitura da análise da XP Research, assinada por Lucas Laghi, Guilherme Nippes e Fernanda Urbano. Segundo o relatório, o preço da celulose de fibra cur"
   },
   {
    "fonte": "Valor Investe",
@@ -238,16 +339,6 @@
     "VBBR3"
    ],
    "resumo": "O pacote de desonerações e subsídios anunciado pelo governo para conter o repasse da alta internacional do petróleo aos combustíveis foi lido pelas casas de análise de investimentos como algo entre neutro e bastante positivo para a Petrobras (PETR3; PETR4). O ponto comum é que as"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "BRB (BSLI4) troca comando digital em meio à busca por R$ 6,6 bi; entenda",
-   "url": "https://www.suno.com.br/noticias/brb-nomeia-diretora-digital-emprestimo-66-bilhoes/",
-   "publicado": "2026-09-10T13:15:06+00:00",
-   "tickers": [
-    "BSLI4"
-   ],
-   "resumo": "O BRB anunciou a nomeação de Marianna Marques Garnier para o cargo de Diretora Executiva de Negócios Digitais (DINED). A posse ocorreu em 9 de setembro, após a conclusão dos procedimentos de governança e das exigências regulatórias, segundo fato relevante publicado pelo RI do BRB"
   },
   {
    "fonte": "InvestNews",
@@ -275,26 +366,17 @@
   },
   {
    "fonte": "Valor Investe",
-   "titulo": "Ibovespa sobe firme com apoio de Petrobras (PETR4) e bancos, na contramão de NY",
+   "titulo": "Ibovespa fecha no maior nível desde abril, com apoio de Petrobras (PETR4) e bancos",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/10/dolar-e-ibovespa-hoje-10-de-setembro-de-2026.ghtml",
    "publicado": "2026-09-10T12:08:37+00:00",
    "tickers": [
     "BBDC4",
     "ITUB4",
     "PETR3",
-    "PETR4"
+    "PETR4",
+    "VALE3"
    ],
-   "resumo": "O preço do petróleo, principal commodity de energia no mundo, segue ditando os rumos dos mercados globais, nesta quinta-feira (10). Após superar os US$ 105, o barril, as bolsas passaram a registrar queda acentuada, com investidores em alerta sobre o impacto generalizado na inflaç"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Elektro (EKTR4) paga dividendos nesta quinta-feira; veja detalhes",
-   "url": "https://www.suno.com.br/noticias/a-elektro-ektr4-agenda-dividendos-10092026/",
-   "publicado": "2026-09-10T11:55:00+00:00",
-   "tickers": [
-    "EKTR4"
-   ],
-   "resumo": "Elektro (EKTR4) paga dividendos nesta quinta-feira; veja detalhesA Elektro (EKTR4) é um dos destaques corporativos desta quinta-feira, pois a companhia vai pagar dividendos aos seus acionistas. Os dividendos da Elektro correspondem a R$ 0,1383 por ação e caem na conta dos acionis"
+   "resumo": "O preço do petróleo, principal commodity de energia no mundo, seguiu ditando os rumos dos mercados globais, nesta quinta-feira (10). Após superar os US$ 107, o barril, as bolsas passaram a registrar queda acentuada, com investidores em alerta sobre o impacto generalizado na infla"
   },
   {
    "fonte": "InvestNews",
@@ -669,36 +751,12 @@
    "resumo": "O Mercado Livre vem aumentando os investimentos em logística e no Mercado Pago"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Fed, banco central americano, avalia reduzir número de reuniões anuais",
-   "url": "https://investnews.com.br/economia/fed-banco-central-americano-avalia-reduzir-numero-de-reunioes-anuais/",
-   "publicado": "2026-09-09T14:02:14+00:00",
-   "tickers": [],
-   "resumo": "A redução do número de reuniões  do Fed representaria uma mudança significativa na forma de funcionamento do banco central dos EUA"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Tesouro Direto: IPCA+ 2032 passa a cair, mas prefixados sustentam alta",
    "url": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/09/09/tesouro-direto-hoje-taxas-juros-rendimento-ipca-selic-prefixado-9-setembro-2026.ghtml",
    "publicado": "2026-09-09T13:30:16+00:00",
    "tickers": [],
    "resumo": "As taxas dos títulos do Tesouro Direto operam em direções distintas nesta quarta-feira (9), e apresentaram sinais de melhora no início dessa tarde. Na maioria dos vencimentos os títulos interrompem, hoje, a sequência de quedas no que parte do mercado atribuiu a um \"rali eleitoral"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Lionel Messi se aproxima de acordo para comprar outro clube na Espanha",
-   "url": "https://investnews.com.br/negocios/lionel-messi-se-aproxima-de-acordo-para-comprar-outro-clube-na-espanha/",
-   "publicado": "2026-09-09T12:48:37+00:00",
-   "tickers": [],
-   "resumo": "Messi deve adquirir participação majoritária no Eldense, da segunda divisão espanhola; negócio ainda depende de análise das contas do clube"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "iPhone dobrável caro demais? Preço vira teste para a Apple em Wall Street",
-   "url": "https://investnews.com.br/negocios/iphone-dobravel-caro-demais-preco-vira-teste-para-a-apple-em-wall-street/",
-   "publicado": "2026-09-09T12:25:13+00:00",
-   "tickers": [],
-   "resumo": "A Apple anunciou o iPhone dobrável  a partir de US$ 2 mil. No Brasil, deve começar em R$ 21 mil"
   },
   {
    "fonte": "Valor Investe",
@@ -785,22 +843,6 @@
    "resumo": "Agosto reforçou o interesse dos brasileiros por investimentos ligados à inteligência artificial nos Estados Unidos, mas também mostrou uma busca crescente por diversificação. Nvidia liderou as ações mais negociadas nas corretoras Avenue e Nomad e também ficou no topo entre as açõ"
   },
   {
-   "fonte": "Brazil Journal",
-   "titulo": "Com “desglobalização”, Wellington vê mais valor na Europa que nos EUA",
-   "url": "https://braziljournal.com/com-desglobalizacao-wellington-ve-mais-valor-na-europa-que-nos-eua/",
-   "publicado": "2026-09-09T03:30:35+00:00",
-   "tickers": [],
-   "resumo": "Num momento em que instabilidades macro e os impactos da AI fazem preço nos mercados, o melhor é diversificar e se concentrar nos fundamentos das empresas, diz Laura Howenstine, diretora da Wellington Management, gestora americana com US$ 1,2 trilhão em AUM. Howenstine é responsá"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "O dono de jornal que está vocalizando o Brasil",
-   "url": "https://braziljournal.com/o-dono-de-jornal-que-esta-vocalizando-o-brasil/",
-   "publicado": "2026-09-09T03:30:32+00:00",
-   "tickers": [],
-   "resumo": "A Gazeta do Povo deixou há tempos de ser apenas o tradicional jornal de Curitiba.  Sob o comando de Guilherme Cunha Pereira, o veículo abandonou o impresso, buscou uma audiência nacional no campo conservador e hoje tem a maior parte de seus 140 mil assinantes fora do Paraná. Esta"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Ninguém acerta as seis dezenas, e prêmio da Mega-Sena acumula em R$ 76 milhões; veja números sorteados",
    "url": "https://valorinveste.globo.com/loterias/noticia/2026/09/08/resultado-da-mega-sena-3055-com-premio-de-r-70-milhoes-e-divulgado-veja-numeros-sorteados.ghtml",
@@ -848,44 +890,6 @@
    "publicado": "2026-09-08T19:20:03+00:00",
    "tickers": [],
    "resumo": "A Mega-Sena 3054 sorteia um prêmio estimado em R$ 48 milhões nesta terça-feira (8), a partir das 21h (horário de Brasília), em São Paulo.\nVEJA TAMBÉM: \n- Os números mais sorteados na história Mega-Sena\nNos concursos realizados às terças e quintas-feiras, as apostas podem ser feit"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "'Dinheiro esquecido': mais de 23 milhões de brasileiros ainda têm valores a receber",
-   "url": "https://valorinveste.globo.com/produtos/servicos-financeiros/noticia/2026/09/08/dinheiro-esquecido-mais-de-23-milhoes-de-brasileiros-ainda-tem-valores-a-receber.ghtml",
-   "publicado": "2026-09-08T18:39:22+00:00",
-   "tickers": [],
-   "resumo": "O Banco Central (BC) atualizou hoje (8) os números do Sistema de Valores a Receber (SVR), conhecido como \"dinheiro esquecido\", e ainda há R$ 5,6 bilhões à espera de resgate em bancos, administradoras de consórcio, cooperativas e outras instituições financeiras.\nDo total, R$ 4,2 b"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Novo golpe do Pix mira pequenas e médias lojas virtuais; veja como se proteger",
-   "url": "https://valorinveste.globo.com/educacao-financeira/noticia/2026/09/08/novo-golpe-do-pix-mira-pequenas-e-medias-lojas-virtuais-veja-como-se-proteger.ghtml",
-   "publicado": "2026-09-08T16:49:20+00:00",
-   "tickers": [],
-   "resumo": "Uma nova modalidade de fraude tem alterado de forma imperceptível o QR Code do Pix em páginas de pagamento de lojas virtuais. Até o momento, a empresa de cibersegurança Kapersky detectou 90 comércios online de pequeno e médio porte infectados no Brasil. O programa malicioso, desc"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "CVM julga hoje processo sobre suposta fraude em fundo imobiliário com Vorcaro, pai e primo entre acusados",
-   "url": "https://valorinveste.globo.com/produtos/fundos-imobiliarios/noticia/2026/09/08/cvm-julga-hoje-processo-sobre-suposta-fraude-em-fundo-imobilirio-com-vorcaro-pai-e-primo-entre-acusados.ghtml",
-   "publicado": "2026-09-08T15:00:49+00:00",
-   "tickers": [],
-   "resumo": "A Comissão de Valores Mobiliários (CVM) julga nesta terça-feira (8) dois processos administrativos sancionadores relacionados ao fundo de investimento imobiliário (FII) Brazil Realty, que tem entre os principais acusados a Sefer Investimentos, seu controlador, Benjamim Botelho de"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Ações da Prio (PRIO3) disparam e se destacam em dia de alta de petroleiras",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/09/08/acoes-da-prio-prio3-disparam-e-se-destacam-entre-petroleiras.ghtml",
-   "publicado": "2026-09-08T14:47:46+00:00",
-   "tickers": [
-    "BRAV3",
-    "PETR3",
-    "PETR4",
-    "PRIO3",
-    "RECV3"
-   ],
-   "resumo": "O preço do petróleo voltou a subir nesta terça-feira (8) e deu forte impulso às ações de empresas produtoras de petróleo. O destaque foram os papéis ordinários da Prio (PRIO3), que avançaram 3%, a R$ 62. Ações da Petrobras (PETR3, PETR4) e da Brava Energia (BRAV3) subiram mais de"
   }
  ]
 }
