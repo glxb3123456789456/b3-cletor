@@ -3,6 +3,270 @@
  "itens": 100,
  "dados": [
   {
+   "fonte": "Money Times",
+   "titulo": "Swing trade: BB Investimentos recomenda a compra de Eneva (ENEV3) nesta sexta (11)",
+   "url": "https://www.moneytimes.com.br/swing-trade-bb-investimentos-recomenda-a-compra-de-eneva-enev3-nesta-sexta-11-ceci/",
+   "publicado": "2026-09-11T13:00:19+00:00",
+   "tickers": [
+    "ENEV3"
+   ],
+   "resumo": "Nesta sexta-feira (11), o BB Investimentos recomenda a compra de Eneva (ENEV3). O relatório de análise técnica aponta a “expectativa da captura de possível movimento de alta rastreado pelo algoritmo”. A orientação é que a compra aconteça na abertura do mercado, com preço limite d"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Grupo Toky (TOKY3): Acionistas pedem assembleia para discutir conselho e ação contra administradores",
+   "url": "https://www.moneytimes.com.br/grupo-toky-toky3-acionistas-pedem-assembleia-para-discutir-conselho-e-acao-contra-administradores/",
+   "publicado": "2026-09-11T12:55:24+00:00",
+   "tickers": [
+    "TOKY3"
+   ],
+   "resumo": "O Grupo Toky (TOKY3) informou ao mercado, na noite de quinta-feira (10), o recebimento de uma correspondência de determinados acionistas pessoas físicas, que afirmam deter 6,11% do capital social da companhia, solicitando a convocação de uma Assembleia Geral Extraordinária (AGE) "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Day trade: Compre Itaú Unibanco (ITUB4) e venda Direcional (DIRR3) para ganhar até 1,47% hoje (11), segundo a Ágora",
+   "url": "https://www.moneytimes.com.br/day-trade-compre-itau-unibanco-itub4-e-venda-direcional-dirr3-para-ganhar-ate-147-hoje-11-segundo-a-agora-ceci/",
+   "publicado": "2026-09-11T12:50:53+00:00",
+   "tickers": [
+    "DIRR3",
+    "ITUB4"
+   ],
+   "resumo": "A Itaú Unibanco (ITUB4) é uma das recomendações de compra em day trade da Ágora Investimentos para esta sexta-feira (11). As ações da empresa fecharam a sessão da última quinta-feira (10) cotadas a R$ 42,35. O potencial de ganho é de 1,46% e o stop sugerido é de R$ 42,11. Recomen"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Flávio Bolsonaro é investigado por corrupção, lavagem de dinheiro e evasão em inquérito do caso “Dark Horse”",
+   "url": "https://www.moneytimes.com.br/mendonca-abriu-inquerito-contra-flavio-por-corrupcao-lavagem-de-dinheiro-e-evasao-em-caso-dark-horse-gaep/",
+   "publicado": "2026-09-11T12:43:33+00:00",
+   "tickers": [],
+   "resumo": "O ministro André Mendonça, do Supremo Tribunal Federal (STF), determinou em julho a abertura de inquérito contra o candidato a presidente e senador Flávio Bolsonaro (PL) pelos crimes de corrupção, lavagem de dinheiro e evasão de divisas no caso dos repasses feitos pelo banqueiro "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "CPI: Inflação dos EUA sobe 0,4% em agosto e acumula alta anual de 3,4%",
+   "url": "https://www.moneytimes.com.br/cpi-inflacao-dos-eua-sobe-01-em-agosto-e-acumula-alta-anual-de-34-jcav/",
+   "publicado": "2026-09-11T12:40:56+00:00",
+   "tickers": [],
+   "resumo": "O índice de preços ao consumidor (CPI, na sigla em inglês) dos Estados Unidos (EUA) avançou 0,4% no mês de agosto, informou o Departamento do Trabalho nesta sexta-feira (11). Para comparação, em julho, o índice havia subido 0,1%. A inflação norte-americana no acumulado dos último"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Como fabricantes chinesas de chips criam bilionários mesmo sem dar lucro",
+   "url": "https://investnews.com.br/negocios/como-fabricantes-chinesas-de-chips-criam-bilionarios-mesmo-sem-dar-lucro/",
+   "publicado": "2026-09-11T12:25:54+00:00",
+   "tickers": [],
+   "resumo": "Aberturas de capital ligadas à inteligência artificial impulsionam fortunas, apesar dos prejuízos das empresas"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Oncoclínicas (ONCO3) é informada sobre arbitragem envolvendo disputa societária",
+   "url": "https://www.moneytimes.com.br/oncoclinicas-onco3-e-informada-sobre-arbitragem-envolvendo-disputa-societaria-e-possivel-opa-estatutaria-lmrs/",
+   "publicado": "2026-09-11T12:19:35+00:00",
+   "tickers": [
+    "ONCO3"
+   ],
+   "resumo": "A Oncoclínicas (ONCO3) informou nesta quinta-feira (11) que recebeu, em 9 de setembro de 2026, comunicação do fundo Josephina III Fundo de Investimento em Participações sobre a instauração de procedimento arbitral na Câmara de Arbitragem do Mercado (CAM). A arbitragem foi aberta "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Ibovespa futuro cai com IPCA e eleições em foco; dólar sobe",
+   "url": "https://www.moneytimes.com.br/ibovespa-futuro-11-9-26-lils/",
+   "publicado": "2026-09-11T12:17:44+00:00",
+   "tickers": [],
+   "resumo": "O Ibovespa futuro (INDFUT) opera em queda no início do pregão desta sexta-feira (10). Após a abertura positiva, o índice virou e passou a recuar 0,19%, aos 189.800 pontos. Já o dólar à vista abriu a R$ 5,1084 (+0,11%), em sintonia com o movimento do DXY. O índice, que compara o d"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Lula: Pesquisas não me abalam, são reflexo para saber o que fazer dali para frente",
+   "url": "https://www.moneytimes.com.br/lula-pesquisas-nao-me-abalam-sao-reflexo-para-saber-o-que-fazer-dali-para-frente-gaep/",
+   "publicado": "2026-09-11T12:16:46+00:00",
+   "tickers": [],
+   "resumo": "O presidente Luiz Inácio Lula da Silva (PT) afirmou nesta quinta-feira (10), em entrevista ao SBT News, que não se sente abalado com as mais recentes pesquisas de intenção de voto, que mostram a aproximação do senador Flávio Bolsonaro (PL-RJ) da liderança. Em alguns levantamentos"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Itaú (ITUB4), Americanas (AMER3), 3tentos (TTEN3) e outros destaques desta sexta-feira (11)",
+   "url": "https://www.moneytimes.com.br/itau-itub4-americanas-amer3-3tentos-tten3-e-outros-destaques-desta-sexta-feira-mlem/",
+   "publicado": "2026-09-11T12:09:44+00:00",
+   "tickers": [
+    "AMER3",
+    "ITUB4",
+    "TTEN3"
+   ],
+   "resumo": "Os R$ 5 bilhões em letras financeiras do Itaú Unibanco (ITUB4), o futuro da Americanas (AMER3) e rebaixamento da 3tentos (TTEN3) pela S&#38;P Ratings são alguns dos destaques corporativos desta sexta-feira (11). Confira o Radar do Mercado Itaú Unibanco (ITUB4) emite R$ 5 bi em le"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Bilionário Bernard Arnault, da LVMH, deixa lista dos 10 mais ricos do mundo",
+   "url": "https://investnews.com.br/negocios/bilionario-bernard-arnault-da-lvmh-deixa-lista-dos-10-mais-ricos-do-mundo/",
+   "publicado": "2026-09-11T12:07:58+00:00",
+   "tickers": [],
+   "resumo": "A fortuna de Arnault caiu para US$ 143 bilhões"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Ibovespa futuro e dólar recuam com dados de inflação no Brasil e EUA",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/11/dolar-e-ibovespa-hoje-11-de-setembro-de-2026.ghtml",
+   "publicado": "2026-09-11T12:06:44+00:00",
+   "tickers": [],
+   "resumo": "O Ibovespa futuro opera em queda no início dos negócios nesta nesta sexta-feira (11). Os investidores repercutem a última divulgação de dados de inflação ao consumidor no Brasil e nos Estados Unidos antes da semana que vem, quando os bancos centrais dos dois países vão decidir so"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "IPCA registra deflação de 0,32% em agosto e fica dentro do teto da meta em 12 meses",
+   "url": "https://www.moneytimes.com.br/ipca-registra-deflacao-de-032-em-agosto-e-fica-dentro-do-teto-da-meta-em-12-meses-jcav/",
+   "publicado": "2026-09-11T12:05:59+00:00",
+   "tickers": [],
+   "resumo": "O Índice Nacional de Preços ao Consumidor Amplo (IPCA) desacelerou no comparativo mensal. A inflação oficial do Brasil recuou 0,32% em agosto, segundo dados divulgados pelo Instituto Brasileiro de Geografia e Estatística (IBGE) nesta sexta-feira (11). Em julho, o índice de preços"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "IPCA desacelera e aponta deflação em agosto. Como afeta o bolso?",
+   "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/09/11/ipca-desacelera-e-aponta-deflacao-em-agosto-como-afeta-o-bolso.ghtml",
+   "publicado": "2026-09-11T12:03:09+00:00",
+   "tickers": [],
+   "resumo": "O Índice Nacional de Preços ao Consumidor Amplo (IPCA), indicador de inflação oficial usado pelo Banco Central para decidir os juros, caiu 0,32% em agosto, divulgou o Instituto Brasileiro de Geografia e Estatística (IBGE) nesta sexta-feira (11). Assim, o dado desacelerou em relaç"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Briga familiar na Ray-Ban se intensifica. Executivos defendem CEO após queda de 50% nas ações",
+   "url": "https://investnews.com.br/negocios/briga-familiar-na-ray-ban-se-intensifica-executivos-defendem-ceo-apos-queda-de-50-nas-acoes/",
+   "publicado": "2026-09-11T12:00:09+00:00",
+   "tickers": [],
+   "resumo": "Filho do fundador deixou cargo na companhia e passou a questionar a gestão do novo CEO"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Petrobras (PETR4), Copasa (CSMG3), Toky (TOKY3), Âmbar Energia e mais: Veja os destaques das empresas",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/09/11/petrobras-petr4-copasa-csmg3-toky-toky3-ambar-energia-e-mais-veja-os-destaques-das-empresas.ghtml",
+   "publicado": "2026-09-11T11:21:11+00:00",
+   "tickers": [
+    "CSMG3",
+    "PETR4",
+    "TOKY3"
+   ],
+   "resumo": "Petrobras\nA Petrobras busca realizar um aumento de cerca de R$ 1 por litro no preço do diesel vendido em refinarias, mas aguarda a publicação de medidas do governo federal que evitariam impactos para os consumidores, disseram duas fontes com conhecimento das discussões à Reuters."
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "CEO da Coinbase vê bitcoin a R$ 2 milhões por unidade até 2030. Entenda os motivos",
+   "url": "https://investnews.com.br/investimentos/ceo-da-coinbase-ve-bitcoin-a-r-2-milhoes-por-unidade-ate-2030-entenda-os-motivos/",
+   "publicado": "2026-09-11T11:17:35+00:00",
+   "tickers": [],
+   "resumo": "Se isso realmente acontecesse, seria uma alta de cerca de 420% em relação ao preço registrado na manhã desta sexta-feira (11)"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Inflação no Brasil e nos EUA e nova pesquisa Datafolha chamam atenção dos investidores",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/11/inflacao-no-brasil-e-nos-eua-e-nova-pesquisa-datafolha-chamam-atencao-dos-investidores.ghtml",
+   "publicado": "2026-09-11T10:57:37+00:00",
+   "tickers": [],
+   "resumo": "Os números de inflação ao consumidor no Brasil e nos Estados Unidos devem ser acompanhados com atenção pelos investidores nesta sexta-feira (11). No Brasil, é dia de divulgação do Índice Nacional de Preços ao Consumidor Amplo (IPCA) de agosto, enquanto nos EUA, o índice de preços"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "OPINIÃO. Tributação de robôs, AI e dados: existe um caminho?",
+   "url": "https://braziljournal.com/opiniao-tributacao-de-robos-ai-e-dados-existe-um-caminho/",
+   "publicado": "2026-09-11T09:50:52+00:00",
+   "tickers": [],
+   "resumo": "Bill Gates voltou a defender uma ideia que parecia excêntrica quando ele a lançou, quase dez anos atrás: tributar os robôs. Agora, com a inteligência artificial avançando sobre tarefas intelectuais e físicas, Gates ampliou a proposta: ele defende também a tributação do uso da AI,"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Sobra energia para os data centers. O gargalo pode ser a transmissão",
+   "url": "https://braziljournal.com/sobra-energia-para-os-data-centers-o-gargalo-pode-ser-a-transmissao/",
+   "publicado": "2026-09-11T09:50:33+00:00",
+   "tickers": [],
+   "resumo": "Diversas empresas de data centers se animaram para avançar com projetos após a aprovação do Redata no Congresso, mas o movimento já levanta uma dúvida entre os investidores e técnicos da indústria de energia. Vai ter espaço pra todo mundo na rede elétrica? Os data centers, princi"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Amora Mautner: na era da AI, quem tem repertório faz a diferença",
+   "url": "https://braziljournal.com/amora-mautner-na-era-da-ai-quem-tem-repertorio-faz-a-diferenca/",
+   "publicado": "2026-09-11T09:50:20+00:00",
+   "tickers": [],
+   "resumo": "A diretora de televisão Amora Mautner acredita que, com a ascensão da AI, o valor humano estará cada vez menos na execução – e mais na abstração, na curadoria e na originalidade.  “O repertório, junto com a tua unicidade, é algo seu,” Amora disse a Nilton Bonder neste episódio de"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "A Porto está transformando os corretores em influenciadores (para ir além do seguro)",
+   "url": "https://braziljournal.com/a-porto-esta-transformando-os-corretores-em-influenciadores-para-ir-alem-do-seguro/",
+   "publicado": "2026-09-11T09:50:10+00:00",
+   "tickers": [],
+   "resumo": "A Porto quer transformar seus corretores em influenciadores da própria marca. A companhia está investindo na formação de creators dentro de sua base de corretores para ampliar sua divulgação no País. Com mais de 44 mil corretores, a Porto lançou o projeto Porto Academia para trei"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Regulação financeira pós-moderna, uma história de crises",
+   "url": "https://valorinveste.globo.com/blogs/eduardo-salomao/coluna/regulacao-financeira-pos-moderna-uma-historia-de-crises.ghtml",
+   "publicado": "2026-09-11T09:20:00+00:00",
+   "tickers": [],
+   "resumo": "A relação entre regulação financeira e investimentos não é sempre óbvia, mas é muito presente. Quanto maior a qualidade regulatória das instituições financeiras, maior a segurança dos investimentos feitos em um país.\nE isso por uma básica razão: as instituições financeiras são in"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Balanço no vermelho, ação em alta: resultados e reações nem sempre andam juntos",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/09/11/balanco-no-vermelho-acao-em-alta-resultados-e-reacoes-nem-sempre-andam-juntos.ghtml",
+   "publicado": "2026-09-11T09:10:00+00:00",
+   "tickers": [
+    "ALPA4",
+    "ARML3",
+    "AUAU3",
+    "BEEF3",
+    "BLAU3",
+    "FLRY3",
+    "HAPV3",
+    "INTB3",
+    "LREN3",
+    "MRVE3",
+    "MULT3",
+    "NATU3",
+    "SUZB3",
+    "VBBR3"
+   ],
+   "resumo": "A MRV (MRVE3) fechou o 2º trimestre com prejuízo de R$ 627 milhões e, no pregão seguinte à divulgação, a ação subiu 14,3%, a maior alta diária do ano para o papel. O aparente contrassenso ilustra a leitura da Eleven Financial em levantamento divulgado com exclusividade ao Valor I"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "O mundo não se cansa desse tênis japonês. E as vendas não param de crescer",
+   "url": "https://investnews.com.br/the-wall-street-journal/o-mundo-nao-se-cansa-desse-tenis-japones/",
+   "publicado": "2026-09-11T09:05:00+00:00",
+   "tickers": [],
+   "resumo": "Modelos da Onitsuka Tigers têm um momento de alta: iene fraco e visual clássico atraem fãs da marca"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Como a IA poderia realmente acabar com a humanidade? Entenda os riscos",
+   "url": "https://investnews.com.br/the-wall-street-journal/como-a-ia-poderia-realmente-acabar-com-a-humanidade-o-que-saber-sobre-o-debate-em-torno-do-fim-do-mundo/",
+   "publicado": "2026-09-11T09:02:00+00:00",
+   "tickers": [],
+   "resumo": "Cada vez mais pesquisadores de IA, entre os quais de Anthropic e OpenAI, afirmam os riscos aos humanos são altos"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Menos de 10% das empresas de cripto devem conseguir licença de funcionamento do BC",
+   "url": "https://valorinveste.globo.com/mercados/cripto/noticia/2026/09/11/menos-de-10percent-das-empresas-de-cripto-devem-conseguir-licenca-de-funcionamento-do-bc.ghtml",
+   "publicado": "2026-09-11T09:00:00+00:00",
+   "tickers": [],
+   "resumo": "Menos de 10% das empresas que operam atualmente no mercado de criptoativos no Brasil devem apresentar ao Banco Central (BC) pedido de autorização para continuar atuando dentro das normas estabelecidas pelo regulador, segundo estimativas de fontes ouvidas pelo Valor Investe que ac"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Na era do consumidor mais saudável, a nova corrida da indústria de alimentos acontece nos ingredientes",
+   "url": "https://investnews.com.br/negocios/corrida-industria-alimentos-ingrediente/",
+   "publicado": "2026-09-11T09:00:00+00:00",
+   "tickers": [],
+   "resumo": "Sob pressão de mudanças no consumo e avanço dos medicamentos GLP-1, fabricantes recorrem a proteínas, fibras, aromas e enzimas"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Ninguém acerta as seis dezenas Mega-Sena 3056, e prêmio acumula em R$ 85 milhões; veja números sorteados",
+   "url": "https://valorinveste.globo.com/loterias/noticia/2026/09/10/resultado-da-mega-sena-3056-hoje-numeros-sorteados.ghtml",
+   "publicado": "2026-09-11T02:10:18+00:00",
+   "tickers": [],
+   "resumo": "O resultado da Mega-Sena 3056 com prêmio de R$ 76 milhões foi divulgado nesta quinta-feira (10), em São Paulo. Os números sorteados hoje foram: 14 - 21 - 25 - 40 - 51 - 56\nVEJA TAMBÉM: \n- Os números mais sorteados na história Mega-Sena\n50 apostas que acertaram cinco dezenas vão r"
+  },
+  {
    "fonte": "Suno Noticias",
    "titulo": "IFIX: índice fecha pregão em ligeira alta de 0,06%",
    "url": "https://www.suno.com.br/noticias/ifix-indice-fecha-pregao-em-ligeira-alta-de-006/",
@@ -19,50 +283,6 @@
     "TRXF11"
    ],
    "resumo": "O TRXF11 (TRX Real Estate Fundo de Investimento Imobiliário) assinou um Memorando de Entendimentos (MOU) para vender por R$ 77 milhões um imóvel na Vila Mariana, em São Paulo, hoje locado à Diagnósticos da América (Dasa), por meio da marca Delboni Auriemo. Se confirmada, a operaç"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Itaú Unibanco (ITUB4) emite R$ 5 bi em letras financeiras",
-   "url": "https://www.moneytimes.com.br/itau-unibanco-itub4-emite-r-5-bi-em-letras-financeiras/",
-   "publicado": "2026-09-10T22:27:30+00:00",
-   "tickers": [
-    "ITUB4"
-   ],
-   "resumo": "O Itaú Unibanco (ITUB4) anunciou nesta quinta-feira que emitiu um total de R$ 5 bilhões em letras financeiras com vencimentos em 2036 e 2037, segundo comunicado divulgado ao mercado. As letras têm opção de recompra a partir de 2031 e terão impacto de 0,3 ponto percentual no índic"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "S&P rebaixa 3tentos (TTEN3) de olho na rentabilidade e novo corte de rating pode vir pela frente; ‘piorou mais do que esperávamos’",
-   "url": "https://www.moneytimes.com.br/sp-rebaixa-3tentos-tten3-de-olho-na-rentabilidade-e-novo-corte-de-rating-pode-vir-pela-frente-piorou-mais-do-que-esperavamos/",
-   "publicado": "2026-09-10T21:43:33+00:00",
-   "tickers": [
-    "TTEN3"
-   ],
-   "resumo": "A agência de classificação de risco S&#38;P Ratings rebaixou a nota de crédito da 3tentos (TTEN3) de “brAA” para “brA+” na escala nacional brasileira e alterou a perspectiva do rating de estável para negativa. A decisão reflete a deterioração da rentabilidade da companhia, o aume"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "IPCA deve registrar deflação em agosto, mas alívio pode ser temporário; veja o que esperar",
-   "url": "https://www.moneytimes.com.br/ipca-deve-registrar-deflacao-em-agosto-mas-alivio-pode-ser-temporario-veja-o-que-esperar-jcav/",
-   "publicado": "2026-09-10T21:35:00+00:00",
-   "tickers": [],
-   "resumo": "O Índice Nacional de Preços ao Consumidor Amplo (IPCA) deve registrar deflação em agosto, puxado principalmente pela queda nas contas de luz. Apesar do alívio no índice cheio, a inflação de serviços e a perspectiva de uma retomada dos preços dos alimentos ainda exigem atenção. O "
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Juros futuros têm forte queda com eleições em foco",
-   "url": "https://www.moneytimes.com.br/juros-futuros-recuam-com-eleicoes-em-foco-lils/",
-   "publicado": "2026-09-10T21:20:56+00:00",
-   "tickers": [],
-   "resumo": "A curva de juros futuros cedeu em todos os vencimentos com o cenário eleitoral em foco. A taxa do contrato de Depósito Interfinanceiro (DI) para janeiro de 2027, de curtíssimo prazo, foi a única exceção, subiu 1 ponto-base e fechou próximo da estabilidade a 13,595% ante 13,580% d"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Fachin conversa com Moraes, Mendonça e Gonet sobre sessão da próxima semana",
-   "url": "https://www.moneytimes.com.br/fachin-conversa-com-moraes-mendonca-e-gonet-sobre-sessao-da-proxima-semana-gaep/",
-   "publicado": "2026-09-10T21:14:19+00:00",
-   "tickers": [],
-   "resumo": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, conversou nesta quinta-feira (10) com ministros da Corte e com o procurador-geral da República, Paulo Gonet, sobre a sessão agendada para a próxima terça-feira (15). Está na pauta de julgamentos o pedido feito por Andr"
   },
   {
    "fonte": "InvestNews",
@@ -83,54 +303,12 @@
    "resumo": "O Ibovespa virou para o campo positivo nesta quinta-feira (10) e fechou em alta de 1,42%, aos 188.268,59 pontos, com ganho de 2.639,55 pontos. Depois de começar o dia pressionado pelo exterior, o índice ganhou força com novas pesquisas eleitorais e o avanço das apostas em um cená"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "2x o valor do Nubank: CEO da Revolut diz em que as fintechs são diferentes e como quer ganhar espaço no Brasil",
-   "url": "https://www.moneytimes.com.br/2x-o-valor-do-nubank-ceo-da-revolut-diz-em-que-as-fintechs-sao-diferentes-e-como-quer-ganhar-espaco-no-brasil/",
-   "publicado": "2026-09-10T21:02:12+00:00",
-   "tickers": [],
-   "resumo": "É quase impossível não comparar Revolut e Nubank. As fintechs britânica e brasileira surgiram praticamente na mesma época, apoiadas em uma base tecnológica forte, oferecendo serviços inovadores e mirando quebrar a barreira de incumbentes tradicionais, tanto na Europa como no Bras"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Pronunciamento de Moraes deve ser feito na próxima segunda-feira, véspera da sessão do Supremo",
-   "url": "https://www.moneytimes.com.br/pronunciamento-de-moraes-deve-ser-feito-na-segunda-feira-vespera-da-sessao-do-stf-gaep/",
-   "publicado": "2026-09-10T20:56:53+00:00",
-   "tickers": [],
-   "resumo": "O ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes deve fazer na próxima segunda-feira (14) um pronunciamento a respeito da sua situação atual na Corte &#8211; em especial, em relação ao inquérito das fakes news, cuja relatoria foi assumida nesta quarta-feira (9), p"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Bolsa brasileira volta a ser a bola da vez entre os emergentes. E não é só a eleição",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/10/bolsa-brasileira-volta-a-ser-a-bola-da-vez-entre-os-emergentes-e-nao-e-so-a-eleicao.ghtml",
    "publicado": "2026-09-10T20:49:32+00:00",
    "tickers": [],
    "resumo": "Há algo de diferente acontecendo com o Brasil na carteira dos investidores estrangeiros. O dinheiro que havia deixado a bolsa em agosto voltou com força em setembro, e o movimento não parece ser só uma recuperação do que foi perdido no mês anterior.\nO EWZ, ETF que reúne ações bra"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Flávio Bolsonaro chama operação da PF sobre emendas para Dark Horse de ‘interferência política’",
-   "url": "https://www.moneytimes.com.br/flavio-bolsonaro-chama-operacao-da-pf-sobre-emendas-para-filme-de-interferencia-politica-gaep/",
-   "publicado": "2026-09-10T20:48:04+00:00",
-   "tickers": [],
-   "resumo": "Em agenda de campanha em Boa Vista (RR), Flávio Bolsonaro (PL) criticou o ministro Flávio Dino e classificou como &#8220;interferência política&#8221; a ação da Polícia Federal, deflagrada nesta quinta-feira (10) para rastrear emendas destinadas ao financiamento do filme &#8220;D"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Vai pingar: Copasa (CSMG3) pagará JCPs; veja valores",
-   "url": "https://www.moneytimes.com.br/vai-pingar-copasa-csmg3-pagara-jcps-veja-valores/",
-   "publicado": "2026-09-10T20:42:23+00:00",
-   "tickers": [
-    "CSMG3"
-   ],
-   "resumo": "A Copasa (CSMG3) aprovou o pagamento de R$ 96,9 milhões em juros sobre o capital próprio (JCP) referentes ao terceiro trimestre de 2026. O valor corresponde a R$ 0,2556463313 por ação. Terão direito aos proventos os acionistas que estiverem posicionados nas ações da companhia em "
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Ibovespa avança 1% e volta aos 188 mil pontos com eleições no radar; dólar cai a R$ 5,10",
-   "url": "https://www.moneytimes.com.br/ibovespa-10-9-26-lils/",
-   "publicado": "2026-09-10T20:13:36+00:00",
-   "tickers": [],
-   "resumo": "O Ibovespa (IBOV) devolveu as perdas da véspera com as pesquisas eleitorais em foco. Nesta quinta-feira (10), o principal índice da bolsa brasileira terminou as negociações com alta de 1,42%, aos 188.268,59 pontos. Já o dólar à vista encerrou as negociações a R$ 5,1027, com queda"
   },
   {
    "fonte": "Brazil Journal",
@@ -479,7 +657,7 @@
   },
   {
    "fonte": "InvestNews",
-   "titulo": "Outsider dos trilhos: como a família Constantino entrou na disputa pelo transporte em trens e metrôs",
+   "titulo": "Outsider dos trilhos: como a família Constantino entrou na disputa pelo transporte de trens",
    "url": "https://investnews.com.br/negocios/grupocomporte-familia-constantino-trens/",
    "publicado": "2026-09-10T09:00:00+00:00",
    "tickers": [],
@@ -534,30 +712,6 @@
    "resumo": "O Tribunal de Contas da União (TCU) vai realizar uma auditoria para avaliar a gestão orçamentária e financeira da Comissão de Valores Mobiliários (CVM), diante da decisão do Supremo Tribunal Federal (STF) que turbinou o orçamento da autarquia.\n\nO STF determinou que pelo menos 70%"
   },
   {
-   "fonte": "Brazil Journal",
-   "titulo": "MELI levanta US$ 1 bi com bond de 10 anos",
-   "url": "https://braziljournal.com/meli-levanta-us-1-bi-com-bond-de-10-anos/",
-   "publicado": "2026-09-09T22:51:59+00:00",
-   "tickers": [],
-   "resumo": "O Mercado Livre levantou US$ 1 bilhão com a emissão de um bond de 10 anos na tarde de hoje. O papel, com vencimento em 2036, saiu com spread de 130 pontos-base acima do Treasury de mesmo prazo, fontes a par do assunto disseram ao Brazil Journal. A demanda chegou a US$ 2,1 bilhões"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "Nubank, XP e JBS devem entrar no Ibovespa em 2027",
-   "url": "https://braziljournal.com/nubank-xp-e-jbs-devem-entrar-no-ibovespa-em-2027/",
-   "publicado": "2026-09-09T22:34:45+00:00",
-   "tickers": [],
-   "resumo": "Os BDRs de empresas brasileiras poderão compor a carteira do Ibovespa no primeiro semestre de 2027, em data ainda a ser definida, anunciou a B3. O ingresso estará condicionado aos critérios do índice, que são focados em liquidez e não devem mudar.  A B3 vinha mantendo há meses co"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "Renato Ejnisman é o novo sócio da Laplace",
-   "url": "https://braziljournal.com/renato-ejnisman-e-o-novo-socio-da-laplace/",
-   "publicado": "2026-09-09T21:43:58+00:00",
-   "tickers": [],
-   "resumo": "Renato Ejnisman – o ex-chefe do IB do Santander – é o novo sócio da Laplace, a boutique de M&#38;A de Renato Carvalho, Allan Libman, Daniel Assa e Guilherme Rocha.   “Achei que estava na hora de deixar de ser executivo e passar a ser sócio,” Ejnisman disse ao Brazil Journal. “A L"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "CVM rejeita acordo com QI Corretora em caso que envolve liquidez de fundo",
    "url": "https://valorinveste.globo.com/mercados/noticia/2026/09/09/cvm-rejeita-acordo-com-qi-corretora-em-caso-que-envolve-liquidez-de-fundo.ghtml",
@@ -597,14 +751,6 @@
    "publicado": "2026-09-09T19:56:36+00:00",
    "tickers": [],
    "resumo": "O presidente norte-americano, Donald Trump, afirmou, hoje, que a guerra contra o Irã vai terminar “imediatamente após” as eleições legislativas dos EUA em novembro. Segundo ele, o Irã estaria tentando influenciar a votação, mas não vai conseguir resistir por mais tempo, diante da"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "AI “could kill us all’’. Quem aperta o botão do pânico?",
-   "url": "https://braziljournal.com/ai-could-kill-us-all-quem-aperta-o-botao-do-panico/",
-   "publicado": "2026-09-09T19:40:43+00:00",
-   "tickers": [],
-   "resumo": "Jacob Coxon, um pesquisador de AI, trocou a OpenAI pela Anthropic no início do ano, acreditando que a empresa de Dario Amodei era mais responsável que a de Sam Altman no desenvolvimento de seus modelos.  Nove meses depois, ele anunciou no X que está deixando a indústria. Em um te"
   },
   {
    "fonte": "InvestNews",
@@ -671,22 +817,6 @@
    "resumo": "Volta dos BCs às compras ajudaram na retomada do ouro. Além disso, nunca foi tão simples investir no metal."
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Petróleo supera US$ 101 com escalada da guerra entre EUA e Irã. Navios-tanque são atacados",
-   "url": "https://investnews.com.br/economia/petroleo-supera-us-101-com-escalada-da-guerra-entre-eua-e-ira-navios-tanque-sao-atacados/",
-   "publicado": "2026-09-09T15:54:11+00:00",
-   "tickers": [],
-   "resumo": "O principal indicador global do petróleo fechou em alta de mais de 3% em Nova York"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Por que o Google escolheu a Finlândia para seus data centers de IA",
-   "url": "https://investnews.com.br/negocios/por-que-o-google-escolheu-a-finlandia-para-seus-data-centers-de-ia/",
-   "publicado": "2026-09-09T15:40:08+00:00",
-   "tickers": [],
-   "resumo": "Nos próximos dois anos, o Google construirá três novos data centers e ampliará uma instalação já existente na cidade de Hamina, no sudeste do país"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "B3 vai incluir BDRs de empresas brasileiras no índice Ibovespa",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/09/b3-vai-incluir-bdrs-de-empresas-brasileiras-no-indice-ibovespa.ghtml",
@@ -699,14 +829,6 @@
    "resumo": "A B3, a bolsa do Brasil, comunicou ao mercado nesta terça-feira (8) que passará a incluir Brazilian Depositary Receipts (BDRs) de empresas brasileiras no universo elegível de ativos que podem compor o Ibovespa, o principal índice de ações da bolsa local. A participação total de B"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "OpenAI diz ter resolvido um dos maiores problemas da matemática",
-   "url": "https://investnews.com.br/the-wall-street-journal/openai-diz-ter-resolvido-um-dos-maiores-problemas-da-matematica/",
-   "publicado": "2026-09-09T15:24:40+00:00",
-   "tickers": [],
-   "resumo": "À medida que os principais laboratórios de IA disputam a liderança em matemática, a OpenAI gastou milhões de dólares e resolveu o problema de Navier-Stokes"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Construtora Tenda (TEND3) desaba na bolsa com juros futuros",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/09/09/construtora-tenda-tend3-despenca-com-juros-futuros.ghtml",
@@ -717,38 +839,6 @@
     "TEND3"
    ],
    "resumo": "As ações da Construtora Tenda (TEND3) caíram 6%, a R$ 33,04, no pregão desta quarta-feira (9) e lideraram as perdas do índice Ibovespa. O dia é de recuo acentuado entre ações de consumo cíclico, mais sensíveis aos juros. Após sessões seguidas na contramão do exterior, os juros lo"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Pesquisador da Anthropic deixa empresa e cita temor de IA ‘fora de controle’ que destrua a humanidade",
-   "url": "https://investnews.com.br/the-wall-street-journal/pesquisador-da-anthropic-deixa-empresa-por-temores-de-ia-fora-de-controle/",
-   "publicado": "2026-09-09T14:57:31+00:00",
-   "tickers": [],
-   "resumo": "Preocupação cresce em laboratórios de IA com corrida por modelos tão avançados que podem agir sem controle humano"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Magnata dos games terá de pagar US$ 1,9 bilhão em divórcio recorde",
-   "url": "https://investnews.com.br/negocios/magnata-dos-games-tera-de-pagar-us-19-bilhao-em-divorcio-recorde/",
-   "publicado": "2026-09-09T14:48:16+00:00",
-   "tickers": [],
-   "resumo": "Justiça sul-coreana determinou que fundador da Smilegate transfira 35% da empresa à ex-mulher"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "iPhone 18: quanto pode custar a nova geração da Apple no Brasil?",
-   "url": "https://investnews.com.br/negocios/iphone-18-preco-brasil/",
-   "publicado": "2026-09-09T14:23:26+00:00",
-   "tickers": [],
-   "resumo": "Apple apresenta novos modelos e estimativas apontam alta no iPhone 18 Pro e 18 Pro Max"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Mercado Livre volta ao mercado de dívida pela 3ª vez. Veja o motivo",
-   "url": "https://investnews.com.br/negocios/mercado-livre-volta-ao-mercado-de-divida-pela-3a-vez-veja-o-motivo/",
-   "publicado": "2026-09-09T14:21:25+00:00",
-   "tickers": [],
-   "resumo": "O Mercado Livre vem aumentando os investimentos em logística e no Mercado Pago"
   },
   {
    "fonte": "Valor Investe",
@@ -814,82 +904,6 @@
    "publicado": "2026-09-09T09:30:00+00:00",
    "tickers": [],
    "resumo": "A volatilidade parece que veio para ficar. Não sabemos se vai durar muito ou pouco, mas o fato é que ela vem se intensificando e se espalhando pelo mundo com certa rapidez.\nVolatilidade é um outro nome que damos para risco, que é uma forma de medir a incerteza presente no ambient"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "IA vira risco para empresas americanas: ficar para trás é o principal deles",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/09/09/ia-vira-risco-para-empresas-americanas-ficar-para-tras-e-o-principal-deles.ghtml",
-   "publicado": "2026-09-09T09:20:00+00:00",
-   "tickers": [],
-   "resumo": "A inteligência artificial deixou de ser promessa futurista para virar um fator de risco entre as maiores empresas dos Estados Unidos. Um levantamento da companhia de dados Context Analytics com 6.258 relatórios anuais (10-K) arquivados na SEC, o regulador do mercado americano, mo"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "ETFs de renda fixa ou títulos do Tesouro?",
-   "url": "https://valorinveste.globo.com/blogs/marcelo-dagosto/post/2026/09/etfs-de-renda-fixa-ou-titulos-do-tesouro.ghtml",
-   "publicado": "2026-09-09T09:10:00+00:00",
-   "tickers": [
-    "BOVA11",
-    "IVVB11"
-   ],
-   "resumo": "Perguntas e respostas sobre os seus investimentos e finanças pessoais\nAssuntos que originalmente foram abordados no boletim CBN Dinheiro, que vai ao ar de segunda a sexta-feira, nos programas Jornal da CBN e Ponto Final, na rádio CBN, enviadas para cbndinheiro@cbn.com.br\nPergunta"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "O que está na carteira dos brasileiros que investem nos EUA? Veja ranking",
-   "url": "https://valorinveste.globo.com/produtos/investimento-no-exterior/noticia/2026/09/09/o-que-esta-na-carteira-dos-brasileiros-que-investem-nos-eua-veja-ranking.ghtml",
-   "publicado": "2026-09-09T09:00:01+00:00",
-   "tickers": [],
-   "resumo": "Agosto reforçou o interesse dos brasileiros por investimentos ligados à inteligência artificial nos Estados Unidos, mas também mostrou uma busca crescente por diversificação. Nvidia liderou as ações mais negociadas nas corretoras Avenue e Nomad e também ficou no topo entre as açõ"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Ninguém acerta as seis dezenas, e prêmio da Mega-Sena acumula em R$ 76 milhões; veja números sorteados",
-   "url": "https://valorinveste.globo.com/loterias/noticia/2026/09/08/resultado-da-mega-sena-3055-com-premio-de-r-70-milhoes-e-divulgado-veja-numeros-sorteados.ghtml",
-   "publicado": "2026-09-09T00:02:19+00:00",
-   "tickers": [],
-   "resumo": "O resultado da Mega-Sena 3055 com prêmio de R$ 70 milhões foi divulgado nesta terça-feira (8), em São Paulo, e ninguém acertou as seis dezenas. Com isso, o prêmio acumulou em R$ 76 milhões para o próximo sorteio na quinta-feira (10).\nOs números sorteados hoje foram: 01 - 11 - 36 "
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "CVM condena Master, Vorcaro e familiares por fraude em fundo imobiliário",
-   "url": "https://valorinveste.globo.com/produtos/fundos-imobiliarios/noticia/2026/09/08/cvm-condena-master-vorcaro-e-familiares-por-fraude-em-fundo-imobiliario.ghtml",
-   "publicado": "2026-09-08T22:11:25+00:00",
-   "tickers": [],
-   "resumo": "A Comissão de Valores Mobiliários (CVM) condenou 16 acusados, incluindo o Banco Master, Daniel Vorcaro e familiares, por prática de operação fraudulenta, na negociação de cotas do fundo de investimento imobiliário (FII) Brazil Realty. As multas variam de R$ 5 milhões e R$ 24 milh"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Após rali eleitoral, Ibovespa ainda tem espaço para subir 7% até o fim do ano",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/08/apos-rali-eleitoral-ibovespa-ainda-tem-espaco-para-subir-7percent-ate-o-fim-do-ano.ghtml",
-   "publicado": "2026-09-08T20:43:10+00:00",
-   "tickers": [],
-   "resumo": "O Ibovespa subiu bastante nas últimas semanas, mas ainda tem uma caminhada até chegar ao pico. A equipe de análise da XP mantém em 200 mil pontos o valor justo do índice para o fim do ano,um potencial de alta de quase 7% em relação aos níveis atuais.\nA conta chama atenção porque "
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Ibovespa chega ao último trimestre do ano quase 20% menor que no recorde de 2022",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/08/ibovespa-chega-ao-ultimo-trimestre-do-ano-quase-20percent-menor-que-no-recorde-de-2022.ghtml",
-   "publicado": "2026-09-08T19:25:37+00:00",
-   "tickers": [
-    "AXIA3",
-    "ITUB4",
-    "PETR3",
-    "PETR4",
-    "RECV3",
-    "SLCE3",
-    "TEND3",
-    "VALE3"
-   ],
-   "resumo": "A nova carteira do Ibovespa, o principal índice da B3, que entrou em vigor nesta terça-feira (8), reúne 76 ações de 74 empresas, número de papéis 18,3% menor que o recorde de 93 ativos registrado no início de 2022.\nNa carteira que vigorou entre janeiro e abril de 2022, o Ibovespa"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Mega-Sena 3055 sorteia prêmio de R$ 70 milhões hoje; veja como apostar e fazer bolão",
-   "url": "https://valorinveste.globo.com/loterias/noticia/2026/09/08/mega-sena-3055-sorteia-premio-de-r-70-milhoes-hoje-veja-como-apostar-e-fazer-bolao.ghtml",
-   "publicado": "2026-09-08T19:20:03+00:00",
-   "tickers": [],
-   "resumo": "A Mega-Sena 3054 sorteia um prêmio estimado em R$ 48 milhões nesta terça-feira (8), a partir das 21h (horário de Brasília), em São Paulo.\nVEJA TAMBÉM: \n- Os números mais sorteados na história Mega-Sena\nNos concursos realizados às terças e quintas-feiras, as apostas podem ser feit"
   }
  ]
 }
