@@ -3,6 +3,99 @@
  "itens": 100,
  "dados": [
   {
+   "fonte": "Money Times",
+   "titulo": "Estes são os 10 fundos imobiliários (FIIs) que mais renderam em 12 meses; líder ganhou 25%",
+   "url": "https://www.moneytimes.com.br/estes-sao-os-10-fundos-imobiliarios-que-mais-renderam-em-12-meses-lider-ganhou-25-igdl/",
+   "publicado": "2026-09-12T12:30:00+00:00",
+   "tickers": [
+    "BPML11"
+   ],
+   "resumo": "O BTG Pactual Shoppings (BPML11) liderou o ranking de fundos imobiliários que compõem o IFIX com maior rentabilidade nos últimos 12 meses, segundo levantamento da Grana Smart, plataforma de inteligência artificial (IA) da Grana Capital. Entre o início de setembro de 2025 e o mesm"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Oxxo, Ultragaz e mais: confira milhares de vagas de trabalho e cursos gratuitos",
+   "url": "https://valorinveste.globo.com/educacao-financeira/comecar/noticia/2026/09/12/oxxo-ultragaz-e-mais-confira-milhares-de-vagas-de-trabalho-e-cursos-gratuitos.ghtml",
+   "publicado": "2026-09-12T12:12:08+00:00",
+   "tickers": [],
+   "resumo": "O mercado de trabalho está aquecido neste segundo semestre e há vagas em boas empresas para profissionais de diferentes perfis. O Valor Investe reuniu um compilado de postos de trabalho abertos, em grandes até pequenas empresas.\nSão mais de 4,7 mil posições nas modalidades presen"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "De Pix para cartão: busca por pontos muda a forma de pagar compras",
+   "url": "https://valorinveste.globo.com/objetivo/gastar-bem/noticia/2026/09/12/de-pix-para-cartao-busca-por-pontos-muda-a-forma-de-pagar-compras.ghtml",
+   "publicado": "2026-09-12T11:56:50+00:00",
+   "tickers": [],
+   "resumo": "Para boa parte dos brasileiros que participam de programas de fidelidade, os pontos acumulados já não são apenas um bônus para trocar por uma passagem aérea ou algum produto. Eles passaram a ser tratados quase como dinheiro: 87% dos usuários consideram os pontos uma forma de econ"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Lula sobre Vorcaro: Na época deles, bandido virou banqueiro, no meu mandato, virou prisioneiro",
+   "url": "https://www.moneytimes.com.br/lula-sobre-vorcaro-na-epoca-deles-bandido-virou-banqueiro-no-meu-mandato-virou-prisioneiro/",
+   "publicado": "2026-09-12T11:56:44+00:00",
+   "tickers": [],
+   "resumo": "O presidente Luiz Inácio Lula da Silva (PT) afirmou nesta sexta-feira, 11, que o banqueiro Daniel Vorcaro, dono do Banco Master, se tornou um presidiário no governo dele, enquanto que na gestão do ex-presidente Jair Bolsonaro (PL) ele havia sido transformado em banqueiro. A fala "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Início do período úmido anima setor elétrico, mas meteorologistas apontam cautela",
+   "url": "https://www.moneytimes.com.br/inicio-do-periodo-umido-anima-setor-eletrico-mas-meteorologistas-apontam-cautela/",
+   "publicado": "2026-09-12T11:51:27+00:00",
+   "tickers": [],
+   "resumo": "As chuvas registradas nas regiões Sudeste e Centro-Oeste nos primeiros 10 dias de setembro e aquelas previstas para até o fim do mês sinalizam que está se configurando o período úmido nesse submercado, considerado a caixa d&#8217;água do setor elétrico brasileiro. Do ponto de vis"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Existe uma estratégia infalível para ganhar na Lotofácil da Independência, mas ela tem uma armadilha",
+   "url": "https://www.moneytimes.com.br/lotofacil-da-independencia-estrategia-infalivel-rsgp/",
+   "publicado": "2026-09-12T11:48:00+00:00",
+   "tickers": [],
+   "resumo": "A Lotofácil da Independência vai pagar R$ 300 milhões em 2026. O sorteio está marcado para a manhã de terça-feira (15). Diante de um prêmio tão grandioso, surge uma pergunta inevitável: existe alguma forma de garantir os 15 acertos? A resposta é sim, existe um plano perfeito para"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Assaí (ASAI3) ganha força com alívio na curva de juros e Direcional (DIRR3) é a pior ação da semana; confira os destaques do Ibovespa",
+   "url": "https://www.moneytimes.com.br/ibovespa-destaques-da-semana-37-lils/",
+   "publicado": "2026-09-12T11:47:00+00:00",
+   "tickers": [
+    "ASAI3",
+    "DIRR3"
+   ],
+   "resumo": "O Ibovespa (IBOV) engatou a terceira semana consecutiva de ganhos com eleições em foco e os investidores ajustando posições para as próximas decisões de juros no Brasil e nos Estados Unidos. O principal índice da bolsa brasileira acumulou valorização de 1,11% na semana e encerrou"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Mendonça levanta sigilo de 39 processos no STF",
+   "url": "https://www.moneytimes.com.br/mendonca-levanta-sigilo-de-39-processos-no-stf/",
+   "publicado": "2026-09-12T11:46:50+00:00",
+   "tickers": [],
+   "resumo": "O ministro André Mendonça, do Supremo Tribunal Federal (STF), determinou na sexta-feira (11) o levantamento do sigilo de 39 processos que tramitam na Corte. A decisão atende, em parte, a pedido da Procuradoria Geral da República (PGR), que havia solicitado a abertura de 18 proces"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Ethereum (ETH) vai na contramão do Bitcoin (BTC) e sobe 3% na semana, com Fomc no radar; confira os preços das criptomoedas neste sábado (12)",
+   "url": "https://www.moneytimes.com.br/ethereum-eth-vai-na-contramao-do-bitcoin-btc-e-sobe-3-na-semana-com-fomc-no-radar-confira-os-precos-das-criptomoedas-neste-sabado-12-pads/",
+   "publicado": "2026-09-12T11:37:46+00:00",
+   "tickers": [],
+   "resumo": "O mercado de criptomoedas opera sem direção única neste sábado (12), enquanto os investidores ajustam as posições antes da decisão de juros do Federal Reserve (Fed, o banco central dos Estados Unidos). O Ethereum (ETH) é negociado a US$ 2.531,43, com valorização de 3,18% nas últi"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Revolut quer licença bancária no Brasil, mas diz que não tem pressa para virar banco",
+   "url": "https://www.moneytimes.com.br/revolut-quer-licenca-bancaria-no-brasil-mas-diz-que-nao-tem-pressa-para-virar-banco/",
+   "publicado": "2026-09-12T11:00:00+00:00",
+   "tickers": [],
+   "resumo": "A fintech britânica Revolut, avaliada em US$ 115 bilhões (quase o dobro do Nubank), quer obter uma licença bancária no Brasil, mas não considera esse um movimento imediato. Segundo Glauber Mota, CEO da Revolut no país, a companhia pretende se tornar banco em todos os mercados em "
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "McDonald’s e Burger King fazem grande mudança de rota no fast-food dos EUA — de volta aos humanos",
+   "url": "https://investnews.com.br/the-wall-street-journal/mcdonalds-e-burger-king-fazem-grande-mudanca-de-rota-no-fast-food-dos-eua-de-volta-aos-humanos/",
+   "publicado": "2026-09-12T09:00:00+00:00",
+   "tickers": [],
+   "resumo": "McDonald’s e Burger King reforçam treinamento para melhorar atendimento; ‘Nossos restaurantes parecem apressados, impessoais e estéreis’"
+  },
+  {
    "fonte": "Suno Noticias",
    "titulo": "Ibovespa cai 0,56% com cautela política, mas garante 4ª semana seguida de alta",
    "url": "https://www.suno.com.br/noticias/ibovespa-hoje-11-setembro-semana-alta-politica-mt/",
@@ -37,14 +130,6 @@
    "resumo": "A curva de juros futuros avançou em todos os vencimentos nesta sexta-feira (11), de olho nos desdobramentos do cenário eleitoral doméstico. Até o meio da tarde, as taxas recuavam em todos os vértices, sob influência do Índice Nacional de Preços ao Consumidor Amplo (IPCA) de agost"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Datafolha: Lula e Flávio Bolsonaro têm empate técnico nos dois turnos, mas presidente tem vantagem numérica",
-   "url": "https://www.moneytimes.com.br/pesquisa-datafolha-11-de-setembro-gaep/",
-   "publicado": "2026-09-11T22:10:04+00:00",
-   "tickers": [],
-   "resumo": "O presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL-RJ) aparecem empatados tecnicamente no primeiro e no segundo turnos das eleições presidenciais 2026, segundo pesquisa do Instituto Datafolha divulgada nesta sexta-feira (11). No entanto o presidente mant"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Novo Datafolha aponta que Lula tem 46% e Flávio 44% no segundo turno",
    "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/09/11/novo-datafolha-aponta-que-lula-tem-46percent-e-flavio-44percent-no-segundo-turno.ghtml",
@@ -61,68 +146,12 @@
    "resumo": "Lula tem 46% das intenções de voto para o segundo turno, contra 44% de Flávio Bolsonaro - mesmos percentuais de uma semana atrás"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Marina e Simone têm 13% para o Senado de São Paulo; André, 11%; Derrite, 10%, aponta Datafolha",
-   "url": "https://www.moneytimes.com.br/marina-e-simone-tem-13-para-o-senado-de-sao-paulo-andre-11-derrite-10-aponta-datafolha-gaep/",
-   "publicado": "2026-09-11T21:46:03+00:00",
-   "tickers": [],
-   "resumo": "Marina Silva (Rede) e Simone Tebet (PSB) têm 13% das intenções de voto na disputa pelas duas vagas ao Senado por São Paulo, segundo pesquisa Datafolha divulgada nesta sexta-feira (11). André do Prado (PL) aparece com 11% e Guilherme Derrite (PP), com 10%. Os quatro estão tecnicam"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Datafolha: No DF, Michelle Bolsonaro tem 21% para o Senado; Leila, 18%; Bia, 15%; Erika, 14%; Celina Leão lidera ao governo",
-   "url": "https://www.moneytimes.com.br/datafolha-no-df-michelle-tem-21-para-o-senado-leila-18-bia-15-erika-14-gaep/",
-   "publicado": "2026-09-11T21:39:49+00:00",
-   "tickers": [],
-   "resumo": "Michelle Bolsonaro (PL) tem 21% das intenções de voto na disputa ao Senado pelo Distrito Federal, segundo pesquisa Datafolha divulgada nesta sexta-feira (11). Leila do Vôlei (PDT) aparece com 18%, Bia Kicis (PL), com 15%, e Erika Kokay (PT), com 14%. A margem de erro do levantame"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "CVM barra repasse de taxa de performance de FIDCs a consultores",
    "url": "https://valorinveste.globo.com/mercados/noticia/2026/09/11/cvm-barra-repasse-de-taxa-de-performance-de-fidcs-a-consultores.ghtml",
    "publicado": "2026-09-11T21:29:17+00:00",
    "tickers": [],
    "resumo": "A Comissão de Valores Mobiliários (CVM) esclareceu nesta sexta-feira (11) que consultores especializados contratados por fundos de investimento em direitos creditórios (FIDCs) não podem receber parte da taxa de performance cobrada dos investidores.\nA orientação foi publicada pela"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Tarcísio pede transparência em investigação sobre Flávio Bolsonaro: ‘Tudo tem de ser passado a limpo’",
-   "url": "https://www.moneytimes.com.br/tarcisio-pede-transparencia-em-investigacao-sobre-flavio-bolsonaro-tudo-tem-de-ser-passado-a-limpo-gaep/",
-   "publicado": "2026-09-11T21:28:28+00:00",
-   "tickers": [],
-   "resumo": "O governador de São Paulo e candidato à reeleição, Tarcísio de Freitas (Republicanos), defendeu nesta sexta-feira (11) &#8220;transparência absoluta&#8221; ao comentar a investigação sobre o senador e candidato à Presidência Flávio Bolsonaro (PL) por suspeitas de irregularidades "
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "‘A Turma’ de Vorcaro tinha informações do MPF, da PF e até da Interpol",
-   "url": "https://www.moneytimes.com.br/a-turma-de-vorcaro-tinha-informacoes-do-mpf-da-pf-e-ate-da-interpol-pads/",
-   "publicado": "2026-09-11T21:21:32+00:00",
-   "tickers": [],
-   "resumo": "O grupo ligado ao então banqueiro Daniel Vorcaro, ex-dono do Banco Master, tinha acesso a informações sobre investigações contra ele no Ministério Público Federal (MPF), em sistema de acesso exclusivo a policiais federais e até da Organização Internacional de Polícia Criminal (In"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Em Minas Gerais, Cleitinho tem 37% em votos no 1º turno, Patrus soma 13% e Kalil, 11%, aponta Datafolha",
-   "url": "https://www.moneytimes.com.br/em-minas-gerais-cleitinho-tem-37-em-votos-no-1o-turno-patrus-soma-13-e-kalil-11-aponta-datafolha-gaep/",
-   "publicado": "2026-09-11T21:17:08+00:00",
-   "tickers": [],
-   "resumo": "Pesquisa Datafolha divulgada nesta sexta-feira (11) mostra que o senador Cleitinho Azevedo (Republicanos) lidera a disputa pelo governo de Minas Gerais, ampliando a distância para os demais candidatos. Cleitinho tem 37% das intenções de voto. Para efeito de comparação, ele tinha "
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Datafolha: Em empate técnico no PE, Raquel tem 47% dos votos no 1º turno e João Campos, 42%",
-   "url": "https://www.moneytimes.com.br/datafolha-em-empate-tecnico-no-pe-raquel-tem-47-dos-votos-no-1o-turno-e-joao-campos-42-rnda/",
-   "publicado": "2026-09-11T21:12:38+00:00",
-   "tickers": [],
-   "resumo": "Pesquisa Datafolha divulgada nesta sexta-feira, 11, mostra que a governadora de Pernambuco, Raquel Lyra (PSD), lidera a disputa pelo governo do Estado contra o ex-prefeito do Recife João Campos (PSB). Os dois, porém, estão empatados tecnicamente na margem de erro, que é de três p"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Datafolha: Em votos válidos no Rio, Paes soma 49% no 1º turno; Ruas tem 28% e Garotinho, 11%",
-   "url": "https://www.moneytimes.com.br/datafolha-em-votos-validos-no-rio-paes-soma-49-no-1o-turno-ruas-tem-28-e-garotinho-11-gaep/",
-   "publicado": "2026-09-11T21:10:40+00:00",
-   "tickers": [],
-   "resumo": "Pesquisa Datafolha divulgada nesta sexta-feira (11) mostra que o ex-prefeito do Rio de Janeiro Eduardo Paes (PSD) lidera as intenções de voto, mas vendo o deputado estadual Douglas Ruas (PL) se aproximando nas últimas semanas. Paes tem 43% das intenções de voto no primeiro turno."
   },
   {
    "fonte": "Valor Investe",
@@ -839,14 +868,6 @@
    "resumo": "O presidente norte-americano, Donald Trump, afirmou, hoje, que a guerra contra o Irã vai terminar “imediatamente após” as eleições legislativas dos EUA em novembro. Segundo ele, o Irã estaria tentando influenciar a votação, mas não vai conseguir resistir por mais tempo, diante da"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Após 8 anos, Huawei vai a julgamento nos EUA por fraude e roubo de tecnologia",
-   "url": "https://investnews.com.br/negocios/apos-8-anos-huawei-vai-a-julgamento-nos-eua-por-fraude-e-roubo-de-tecnologia/",
-   "publicado": "2026-09-09T19:09:27+00:00",
-   "tickers": [],
-   "resumo": "Huawei é acusada de violar sanções dos EUA e roubar segredos comerciais de companhias americanas"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "B3 vai incluir BDRs de empresas brasileiras no índice Ibovespa",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/09/b3-vai-incluir-bdrs-de-empresas-brasileiras-no-indice-ibovespa.ghtml",
@@ -857,26 +878,6 @@
     "ROXO34"
    ],
    "resumo": "A B3, a bolsa do Brasil, comunicou ao mercado nesta terça-feira (8) que passará a incluir Brazilian Depositary Receipts (BDRs) de empresas brasileiras no universo elegível de ativos que podem compor o Ibovespa, o principal índice de ações da bolsa local. A participação total de B"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Construtora Tenda (TEND3) desaba na bolsa com juros futuros",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/09/09/construtora-tenda-tend3-despenca-com-juros-futuros.ghtml",
-   "publicado": "2026-09-09T14:59:48+00:00",
-   "tickers": [
-    "RECV3",
-    "SCLE3",
-    "TEND3"
-   ],
-   "resumo": "As ações da Construtora Tenda (TEND3) caíram 6%, a R$ 33,04, no pregão desta quarta-feira (9) e lideraram as perdas do índice Ibovespa. O dia é de recuo acentuado entre ações de consumo cíclico, mais sensíveis aos juros. Após sessões seguidas na contramão do exterior, os juros lo"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Tesouro Direto: IPCA+ 2032 passa a cair, mas prefixados sustentam alta",
-   "url": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/09/09/tesouro-direto-hoje-taxas-juros-rendimento-ipca-selic-prefixado-9-setembro-2026.ghtml",
-   "publicado": "2026-09-09T13:30:16+00:00",
-   "tickers": [],
-   "resumo": "As taxas dos títulos do Tesouro Direto operam em direções distintas nesta quarta-feira (9), e apresentaram sinais de melhora no início dessa tarde. Na maioria dos vencimentos os títulos interrompem, hoje, a sequência de quedas no que parte do mercado atribuiu a um \"rali eleitoral"
   }
  ]
 }

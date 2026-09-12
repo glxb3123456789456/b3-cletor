@@ -1,13 +1,13 @@
 {
- "recordsTotal": 9073,
- "paginas_lidas": 35,
+ "recordsTotal": 9079,
+ "paginas_lidas": 34,
  "janela": [
-  "30/08/2026",
-  "11/09/2026"
+  "31/08/2026",
+  "12/09/2026"
  ],
- "docs_filtrados": 90,
- "docs_fundos": 43,
- "docs_fidc": 47,
+ "docs_filtrados": 85,
+ "docs_fundos": 44,
+ "docs_fidc": 41,
  "amostra_categorias": [
   "Assembleia",
   "Atos de Deliberação do Administrador",
@@ -34,17 +34,17 @@
    "cnpjAdministrador": null,
    "cnpjFundo": null,
    "codSegNegociacao": null,
-   "dataEntrega": "11/09/2026 20:45",
+   "dataEntrega": "11/09/2026 19:50",
    "dataReferencia": "08/2026",
    "dda": null,
-   "descricaoFundo": "TK 90 FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RL",
-   "descricaoModalidade": "Reapresentação Espontânea",
+   "descricaoFundo": "SOLIS ST FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+   "descricaoModalidade": "Apresentação",
    "descricaoStatus": "Ativo com visualização",
    "especieDocumento": "",
    "formatoDataReferencia": "2",
    "formatoEstruturaDocumento": null,
    "fundoOuClasse": "Classe",
-   "id": 1316935,
+   "id": 1316832,
    "idEntidadeGerenciadora": null,
    "idFundo": null,
    "idSelectItemConvenio": 0,
@@ -52,7 +52,7 @@
    "idTemplate": 0,
    "indicadorFundoAtivoB3": false,
    "informacoesAdicionais": ";",
-   "modalidade": "RE",
+   "modalidade": "AP",
    "nomeAdministrador": null,
    "nomePregao": "",
    "nomePrimeiraVisualizacao": null,
@@ -62,7 +62,7 @@
    "status": "AC",
    "tipoDocumento": "Composição da Carteira (CDA)",
    "tipoPedido": null,
-   "versao": 2
+   "versao": 1
   },
   {
    "altaPrioridade": false,
@@ -73,17 +73,17 @@
    "cnpjAdministrador": null,
    "cnpjFundo": null,
    "codSegNegociacao": null,
-   "dataEntrega": "11/09/2026 20:44",
+   "dataEntrega": "11/09/2026 19:50",
    "dataReferencia": "08/2026",
    "dda": null,
-   "descricaoFundo": "HOD MULTIPLICA 60 FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-   "descricaoModalidade": "Reapresentação Espontânea",
+   "descricaoFundo": "SOLIS SPECIALE FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+   "descricaoModalidade": "Apresentação",
    "descricaoStatus": "Ativo com visualização",
    "especieDocumento": "",
    "formatoDataReferencia": "2",
    "formatoEstruturaDocumento": null,
    "fundoOuClasse": "Classe",
-   "id": 1316934,
+   "id": 1316831,
    "idEntidadeGerenciadora": null,
    "idFundo": null,
    "idSelectItemConvenio": 0,
@@ -91,7 +91,7 @@
    "idTemplate": 0,
    "indicadorFundoAtivoB3": false,
    "informacoesAdicionais": ";",
-   "modalidade": "RE",
+   "modalidade": "AP",
    "nomeAdministrador": null,
    "nomePregao": "",
    "nomePrimeiraVisualizacao": null,
@@ -101,7 +101,7 @@
    "status": "AC",
    "tipoDocumento": "Composição da Carteira (CDA)",
    "tipoPedido": null,
-   "versao": 2
+   "versao": 1
   }
  ]
 }
