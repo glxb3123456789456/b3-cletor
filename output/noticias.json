@@ -3,39 +3,176 @@
  "itens": 100,
  "dados": [
   {
+   "fonte": "Suno Noticias",
+   "titulo": "Ibovespa cai 0,56% com cautela política, mas garante 4ª semana seguida de alta",
+   "url": "https://www.suno.com.br/noticias/ibovespa-hoje-11-setembro-semana-alta-politica-mt/",
+   "publicado": "2026-09-11T23:35:05+00:00",
+   "tickers": [],
+   "resumo": "O Ibovespa encerrou esta sexta-feira (11) em queda de 0,56%, aos 187.206,89 pontos, em uma sessão marcada pela busca por proteção antes do fim de semana, pelo noticiário político e pelos dados de inflação no Brasil e nos Estados Unidos. Apesar da baixa, o índice acumulou alta de "
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Oracle amplia gastos com demissões em US$ 700 milhões sob pressão para investir em IA",
+   "url": "https://investnews.com.br/negocios/oracle-amplia-em-us-700-mi-gastos-com-demissoes-sob-pressao-da-ia/",
+   "publicado": "2026-09-11T22:57:23+00:00",
+   "tickers": [],
+   "resumo": "Empresa busca preservar o caixa diante dos investimentos em data centers; custos com demissões devem chegar a US$ 2,8 bilhões"
+  },
+  {
    "fonte": "Money Times",
-   "titulo": "OranjeBTC (OBTC3) anuncia data de estreia do primeiro ETF de ‘Bitcoin Treasuries’ na B3; Itaú BBA será distribuir do ativo",
-   "url": "https://www.moneytimes.com.br/oranjebtc-obtc3-anuncia-data-de-estreia-do-primeiro-etf-de-bitcoin-treasuries-na-b3-itau-bba-sera-distribuir-do-ativo-mlem/",
-   "publicado": "2026-09-11T18:05:50+00:00",
+   "titulo": "SLC Agrícola (SLCE3) aprova emissão de R$ 515,5 milhões em títulos do agronegócio; veja para onde vai o dinheiro",
+   "url": "https://www.moneytimes.com.br/slc-agricola-slce3-aprova-emissao-de-r-5155-milhoes-em-titulos-do-agronegocio-pads/",
+   "publicado": "2026-09-11T22:34:54+00:00",
    "tickers": [
-    "DIGY11",
-    "OBTC3"
+    "SLCE3"
    ],
-   "resumo": "A OranjeBTC (OBTC3), a maior Bitcoin Treasury da América Latina, anunciou que o lançamento do Digital Yield ETF (DIGY11) está marcado para a próxima terça-feira (15), às 9h. Além disso, também foi informado que o Itaú BBA será o estruturador e distribuidor do ETF. O DIGY11 será o"
+   "resumo": "A SLC Agrícola (SLCE3) aprovou sua primeira emissão de Cédulas de Produto Rural com liquidação financeira (CPR-F), no valor total de R$ 515,48 milhões, informou a companhia nesta sexta-feira (11). Serão emitidos 515.480 títulos, com valor nominal unitário de R$ 1 mil e prazo de s"
   },
   {
    "fonte": "Money Times",
-   "titulo": "Alta de juros à vista? Inflação dos EUA aumenta pressão sobre o Fed",
-   "url": "https://www.moneytimes.com.br/alta-de-juros-a-vista-inflacao-dos-eua-aumenta-pressao-sobre-o-fed-jcav/",
-   "publicado": "2026-09-11T18:05:11+00:00",
+   "titulo": "Juros futuros avançam de olho no quadro eleitoral",
+   "url": "https://www.moneytimes.com.br/juros-futuros-recuam-com-eleicoes-em-foco-apsa/",
+   "publicado": "2026-09-11T22:12:08+00:00",
    "tickers": [],
-   "resumo": "A inflação ao consumidor dos Estados Unidos veio em linha com o esperado em agosto, mas a aceleração do núcleo reforçou as apostas de que o Federal Reserve elevará os juros na reunião da próxima semana. O índice de preços ao consumidor (CPI, na sigla em inglês) avançou 0,4% no mê"
+   "resumo": "A curva de juros futuros avançou em todos os vencimentos nesta sexta-feira (11), de olho nos desdobramentos do cenário eleitoral doméstico. Até o meio da tarde, as taxas recuavam em todos os vértices, sob influência do Índice Nacional de Preços ao Consumidor Amplo (IPCA) de agost"
   },
   {
    "fonte": "Money Times",
-   "titulo": "Presidente do STF dá 24 horas para Mendonça retirar mais sigilos do caso Master",
-   "url": "https://www.moneytimes.com.br/presidente-do-stf-determina-que-mendonca-retire-mais-sigilos-do-caso-master-gaep/",
-   "publicado": "2026-09-11T18:00:16+00:00",
+   "titulo": "Datafolha: Lula e Flávio Bolsonaro têm empate técnico nos dois turnos, mas presidente tem vantagem numérica",
+   "url": "https://www.moneytimes.com.br/pesquisa-datafolha-11-de-setembro-gaep/",
+   "publicado": "2026-09-11T22:10:04+00:00",
    "tickers": [],
-   "resumo": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, acatou pedido da Procuradoria-Geral da República e deu 24 horas para que o ministro André Mendonça, também do STF, retire o sigilo de todos os documentos das investigações sobre o caso do Banco Master. Fachin ressalvou"
+   "resumo": "O presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL-RJ) aparecem empatados tecnicamente no primeiro e no segundo turnos das eleições presidenciais 2026, segundo pesquisa do Instituto Datafolha divulgada nesta sexta-feira (11). No entanto o presidente mant"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Novo Datafolha aponta que Lula tem 46% e Flávio 44% no segundo turno",
+   "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/09/11/novo-datafolha-aponta-que-lula-tem-46percent-e-flavio-44percent-no-segundo-turno.ghtml",
+   "publicado": "2026-09-11T22:06:31+00:00",
+   "tickers": [],
+   "resumo": "O presidente Luiz Inácio Lula da Silva (PT) tem 46% das intenções de voto e o senador Flávio Bolsonaro (PL) registra 44% em eventual segundo turno entre os dois, segundo pesquisa Datafolha divulgada nesta sexta-feira (11). Há uma semana, os dois apareciam com os mesmos percentuai"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Eleições 2026: Lula e Flávio seguem em empate técnico no segundo turno, aponta Datafolha",
+   "url": "https://investnews.com.br/economia/eleicoes-2026-lula-flavio-empate-datafolha/",
+   "publicado": "2026-09-11T22:02:11+00:00",
+   "tickers": [],
+   "resumo": "Lula tem 46% das intenções de voto para o segundo turno, contra 44% de Flávio Bolsonaro - mesmos percentuais de uma semana atrás"
   },
   {
    "fonte": "Money Times",
-   "titulo": "BTG Pactual lança cartão com bandeira própria e inicia operação comercial de maquininha",
-   "url": "https://www.moneytimes.com.br/btg-pactual-lanca-cartao-com-bandeira-propria-e-inicia-operacao-comercial-de-maquininha-igdl/",
-   "publicado": "2026-09-11T17:55:21+00:00",
+   "titulo": "Marina e Simone têm 13% para o Senado de São Paulo; André, 11%; Derrite, 10%, aponta Datafolha",
+   "url": "https://www.moneytimes.com.br/marina-e-simone-tem-13-para-o-senado-de-sao-paulo-andre-11-derrite-10-aponta-datafolha-gaep/",
+   "publicado": "2026-09-11T21:46:03+00:00",
    "tickers": [],
-   "resumo": "O BTG Pactual iniciou, nesta sexta-feira (11), a operação comercial do BTG Pay, plataforma integrada de pagamentos voltada a empresas e que reúne gestão financeira, maquininha própria e cartão de crédito. Anunciado em outubro de 2025, o serviço vinha sendo disponibilizado inicial"
+   "resumo": "Marina Silva (Rede) e Simone Tebet (PSB) têm 13% das intenções de voto na disputa pelas duas vagas ao Senado por São Paulo, segundo pesquisa Datafolha divulgada nesta sexta-feira (11). André do Prado (PL) aparece com 11% e Guilherme Derrite (PP), com 10%. Os quatro estão tecnicam"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Datafolha: No DF, Michelle Bolsonaro tem 21% para o Senado; Leila, 18%; Bia, 15%; Erika, 14%; Celina Leão lidera ao governo",
+   "url": "https://www.moneytimes.com.br/datafolha-no-df-michelle-tem-21-para-o-senado-leila-18-bia-15-erika-14-gaep/",
+   "publicado": "2026-09-11T21:39:49+00:00",
+   "tickers": [],
+   "resumo": "Michelle Bolsonaro (PL) tem 21% das intenções de voto na disputa ao Senado pelo Distrito Federal, segundo pesquisa Datafolha divulgada nesta sexta-feira (11). Leila do Vôlei (PDT) aparece com 18%, Bia Kicis (PL), com 15%, e Erika Kokay (PT), com 14%. A margem de erro do levantame"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "CVM barra repasse de taxa de performance de FIDCs a consultores",
+   "url": "https://valorinveste.globo.com/mercados/noticia/2026/09/11/cvm-barra-repasse-de-taxa-de-performance-de-fidcs-a-consultores.ghtml",
+   "publicado": "2026-09-11T21:29:17+00:00",
+   "tickers": [],
+   "resumo": "A Comissão de Valores Mobiliários (CVM) esclareceu nesta sexta-feira (11) que consultores especializados contratados por fundos de investimento em direitos creditórios (FIDCs) não podem receber parte da taxa de performance cobrada dos investidores.\nA orientação foi publicada pela"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Tarcísio pede transparência em investigação sobre Flávio Bolsonaro: ‘Tudo tem de ser passado a limpo’",
+   "url": "https://www.moneytimes.com.br/tarcisio-pede-transparencia-em-investigacao-sobre-flavio-bolsonaro-tudo-tem-de-ser-passado-a-limpo-gaep/",
+   "publicado": "2026-09-11T21:28:28+00:00",
+   "tickers": [],
+   "resumo": "O governador de São Paulo e candidato à reeleição, Tarcísio de Freitas (Republicanos), defendeu nesta sexta-feira (11) &#8220;transparência absoluta&#8221; ao comentar a investigação sobre o senador e candidato à Presidência Flávio Bolsonaro (PL) por suspeitas de irregularidades "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "‘A Turma’ de Vorcaro tinha informações do MPF, da PF e até da Interpol",
+   "url": "https://www.moneytimes.com.br/a-turma-de-vorcaro-tinha-informacoes-do-mpf-da-pf-e-ate-da-interpol-pads/",
+   "publicado": "2026-09-11T21:21:32+00:00",
+   "tickers": [],
+   "resumo": "O grupo ligado ao então banqueiro Daniel Vorcaro, ex-dono do Banco Master, tinha acesso a informações sobre investigações contra ele no Ministério Público Federal (MPF), em sistema de acesso exclusivo a policiais federais e até da Organização Internacional de Polícia Criminal (In"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Em Minas Gerais, Cleitinho tem 37% em votos no 1º turno, Patrus soma 13% e Kalil, 11%, aponta Datafolha",
+   "url": "https://www.moneytimes.com.br/em-minas-gerais-cleitinho-tem-37-em-votos-no-1o-turno-patrus-soma-13-e-kalil-11-aponta-datafolha-gaep/",
+   "publicado": "2026-09-11T21:17:08+00:00",
+   "tickers": [],
+   "resumo": "Pesquisa Datafolha divulgada nesta sexta-feira (11) mostra que o senador Cleitinho Azevedo (Republicanos) lidera a disputa pelo governo de Minas Gerais, ampliando a distância para os demais candidatos. Cleitinho tem 37% das intenções de voto. Para efeito de comparação, ele tinha "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Datafolha: Em empate técnico no PE, Raquel tem 47% dos votos no 1º turno e João Campos, 42%",
+   "url": "https://www.moneytimes.com.br/datafolha-em-empate-tecnico-no-pe-raquel-tem-47-dos-votos-no-1o-turno-e-joao-campos-42-rnda/",
+   "publicado": "2026-09-11T21:12:38+00:00",
+   "tickers": [],
+   "resumo": "Pesquisa Datafolha divulgada nesta sexta-feira, 11, mostra que a governadora de Pernambuco, Raquel Lyra (PSD), lidera a disputa pelo governo do Estado contra o ex-prefeito do Recife João Campos (PSB). Os dois, porém, estão empatados tecnicamente na margem de erro, que é de três p"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Datafolha: Em votos válidos no Rio, Paes soma 49% no 1º turno; Ruas tem 28% e Garotinho, 11%",
+   "url": "https://www.moneytimes.com.br/datafolha-em-votos-validos-no-rio-paes-soma-49-no-1o-turno-ruas-tem-28-e-garotinho-11-gaep/",
+   "publicado": "2026-09-11T21:10:40+00:00",
+   "tickers": [],
+   "resumo": "Pesquisa Datafolha divulgada nesta sexta-feira (11) mostra que o ex-prefeito do Rio de Janeiro Eduardo Paes (PSD) lidera as intenções de voto, mas vendo o deputado estadual Douglas Ruas (PL) se aproximando nas últimas semanas. Paes tem 43% das intenções de voto no primeiro turno."
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Quebra de sigilo no caso Master ameaça rali eleitoral, mas bolsa sobe pela 4ª semana",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/11/caso-master-ameca-trade-eleitoral-mas-bolsa-defende-4a-semana-de-alta.ghtml",
+   "publicado": "2026-09-11T20:53:48+00:00",
+   "tickers": [],
+   "resumo": "O clima de alívio que embalava o mercado local ganhou um freio de expectativas nesta sexta-feira (11).\nA bolsa brasileira já rondava o terreno negativo por realizações de lucros, mas foi a quebra de sigilo do caso Banco Master pelo STF que azedou de vez o humor dos investidores e"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Marisa ganha mais um ano para cumprir regra de ações em circulação da B3",
+   "url": "https://investnews.com.br/negocios/marisa-ganha-mais-um-ano-para-cumprir-regra-de-acoes-em-circulacao-da-b3/",
+   "publicado": "2026-09-11T20:41:45+00:00",
+   "tickers": [],
+   "resumo": "Bolsa estendeu automaticamente o prazo para a varejista adequar o percentual mínimo de ações em circulação, citando o cenário macroeconômico"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "IPCA derruba preços em agosto: deflação de 0,32% abre espaço para novo corte da Selic?",
+   "url": "https://www.suno.com.br/noticias/ipca-deflacao-agosto-2026-efeito-selic-mt/",
+   "publicado": "2026-09-11T20:25:11+00:00",
+   "tickers": [],
+   "resumo": "O IPCA, índice oficial de inflação do país, registrou deflação de 0,32% em agosto. Foi a primeira queda mensal dos preços em 2026 e o resultado mais negativo desde agosto de 2022, quando o indicador recuou 0,36%. Em julho, o índice havia subido 0,33%. A leitura veio melhor do que"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "ONCO3: arbitragem pode mudar o futuro da OPA da Oncoclínicas",
+   "url": "https://www.suno.com.br/noticias/oncoclinicas-onco3-arbitragem-opa-disputa-mt/",
+   "publicado": "2026-09-11T19:35:08+00:00",
+   "tickers": [
+    "ONCO3"
+   ],
+   "resumo": "A Oncoclínicas (ONCO3) informou nesta quinta-feira (11) que foi comunicada sobre a abertura de um procedimento arbitral envolvendo a OPA da Oncoclínicas. A disputa foi iniciada pelo Josephina III Fundo de Investimento em Participações, ligado à gestora Centaurus. Quem participa d"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "FGC fecha primeiro semestre com patrimônio de R$ 125,1 bilhões após pagar R$ 50,4 bilhões em garantias",
+   "url": "https://www.suno.com.br/noticias/fgc-relatorio-semestral-2026-pagamento-garantias-mt/",
+   "publicado": "2026-09-11T18:45:05+00:00",
+   "tickers": [],
+   "resumo": "O Fundo Garantidor de Créditos (FGC) encerrou o primeiro semestre de 2026 com patrimônio líquido de R$ 125,1 bilhões e liquidez de R$ 115,9 bilhões, segundo o Relatório Semestral divulgado nesta quinta-feira (11). Entre janeiro e junho, o FGC pagou R$ 50,4 bilhões em garantias re"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Encaixotado durante meses, Bitcoin bate nos US$ 80 mil e volta: nova resistência pode barrar valorização?",
+   "url": "https://valorinveste.globo.com/mercados/cripto/noticia/2026/09/11/encaixotado-durante-meses-bitcoin-bate-nos-us-80-mil-e-volta-nova-resistencia-pode-barrar-valorizacao.ghtml",
+   "publicado": "2026-09-11T18:44:27+00:00",
+   "tickers": [],
+   "resumo": "Depois de passar quase três meses andando de lado na casa dos US$ 60 mil, o Bitcoin (BTC) mudou de patamar em agosto, mas encontrou uma nova barreira para continuar subindo. \nA principal representante do mercado de criptoativos chegou a US$ 81,2 mil, na semana passada (3 de setem"
   },
   {
    "fonte": "Suno Noticias",
@@ -44,54 +181,6 @@
    "publicado": "2026-09-11T17:55:06+00:00",
    "tickers": [],
    "resumo": "A B3 (B3SA3) começará a divulgar, em 14 de setembro, um indicador que converte o desempenho do Ibovespa para dólar. O Ibovespa em dólar permitirá acompanhar quanto a Bolsa brasileira valorizou ou perdeu quando o resultado é medido na moeda norte-americana. A iniciativa amplia a l"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Trabalhadores dos Correios entram em greve em todo o Brasil por tempo indeterminado",
-   "url": "https://www.moneytimes.com.br/trabalhadores-dos-correios-entram-em-greve-em-todo-o-brasil-por-tempo-indeterminado/",
-   "publicado": "2026-09-11T17:49:04+00:00",
-   "tickers": [],
-   "resumo": "Os trabalhadores dos Correios iniciaram uma greve nacional por tempo indeterminado nesta sexta-feira, 11, após o término das negociações da campanha salarial sem um acordo entre a empresa e a Federação Interestadual dos Empregados da Empresa Brasileira de Correios e Telégrafos (F"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "PF: ex-chefe de supervisão do BC recebeu R$ 500 mil mensais de Vorcaro",
-   "url": "https://www.moneytimes.com.br/pf-ex-chefe-de-supervisao-do-bc-recebeu-r-500-mil-mensais-de-vorcaro-ceci/",
-   "publicado": "2026-09-11T17:44:06+00:00",
-   "tickers": [],
-   "resumo": "A Polícia Federal (PF) apontou em relatório encaminhado ao Supremo Tribunal Federal (STF) que o ex-chefe do Departamento de Supervisão do Banco Central (BC) Belline Santana recebeu pagamentos recorrentes de R$ 500 mil em troca de repassar informações sigilosas para o ex-banqueiro"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Zema celebra quebra parcial de sigilo do Master; Caiado diz que medida ‘escancarou’ escândalo",
-   "url": "https://www.moneytimes.com.br/zema-celebra-quebra-parcial-de-sigilo-do-master-caiado-diz-que-medida-escancarou-escandalo-gaep/",
-   "publicado": "2026-09-11T17:41:59+00:00",
-   "tickers": [],
-   "resumo": "O candidato à Presidência Romeu Zema (Novo) comemorou nesta sexta-feira (11) a abertura parcial do sigilo de informações das investigações envolvendo o Banco Master e o banqueiro Daniel Vorcaro e defendeu a continuidade das apurações. Ronaldo Caiado (PSD), também candidato ao Pla"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "USDA reduz previsão de safra de milho dos EUA e eleva estimativa para soja",
-   "url": "https://www.moneytimes.com.br/usda-reduz-previsao-de-safra-de-milho-dos-eua-e-eleva-estimativa-para-soja-pads/",
-   "publicado": "2026-09-11T17:37:36+00:00",
-   "tickers": [],
-   "resumo": "O Departamento de Agricultura dos Estados Unidos (USDA) reduziu, nesta sexta-feira (11), sua estimativa para a safra de milho do país, depois que o calor do verão gerou preocupações com danos às plantações, mas elevou sua previsão para a produção de soja. Os agricultores colherão"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Flávio diz que Mendonça ‘está certo’ em investigação sobre ‘Dark Horse’ e pede abertura de sigilo",
-   "url": "https://www.moneytimes.com.br/flavio-diz-que-mendonca-esta-certo-em-investigacao-sobre-dark-horse-e-pede-abertura-de-sigilo-gaep/",
-   "publicado": "2026-09-11T17:33:43+00:00",
-   "tickers": [],
-   "resumo": "O candidato à Presidência Flávio Bolsonaro (PL) evitou responsabilizar o ministro do Supremo Tribunal Federal (STF) André Mendonça pela decisão que autorizou a abertura de investigação sobre sua relação com o financiamento do filme &#8220;Dark Horse&#8221;. O senador afirmou que "
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Durigan reforça que governo não fará desvinculação de benefícios do salário mínimo",
-   "url": "https://www.moneytimes.com.br/durigan-reforca-que-governo-nao-fara-desvinculacao-de-beneficios-do-salario-minimo-ceci/",
-   "publicado": "2026-09-11T17:32:10+00:00",
-   "tickers": [],
-   "resumo": "O ministro da Fazenda, Dario Durigan, reforçou nesta sexta-feira, 11, que se o atual governo se mantiver no poder, o pagamento de benefícios sociais e previdência não será desvinculado do salário mínimo. &#8220;Não será. A gente não está discutindo esse tema da desvinculação do s"
   },
   {
    "fonte": "Suno Noticias",
@@ -111,11 +200,11 @@
   },
   {
    "fonte": "InvestNews",
-   "titulo": "‘É como fevereiro de 2020’: gestor de um dos maiores fundos do mundo alerta para riscos da IA",
-   "url": "https://investnews.com.br/negocios/e-como-fevereiro-de-2020-gestor-de-um-dos-maiores-fundos-do-mundo-alerta-para-riscos-da-ia/",
+   "titulo": "‘É como em fevereiro de 2020’: gestor de um dos maiores fundos do mundo alerta para riscos da IA",
+   "url": "https://investnews.com.br/negocios/investidor-opeai-anthropic-ve-riscos-ia/",
    "publicado": "2026-09-11T16:32:15+00:00",
    "tickers": [],
-   "resumo": "Gestor que foi um dos primeiros investidores da OpenAI e da Anthropic defende medidas para conter os riscos do avanço da inteligência artificial"
+   "resumo": "Greg Jensen, da Bridgewater, foi um dos primeiros investidores da OpenAI e da Anthropic e defende medidas para conter os riscos da IA"
   },
   {
    "fonte": "InvestNews",
@@ -206,11 +295,15 @@
   },
   {
    "fonte": "Valor Investe",
-   "titulo": "Ibovespa cai e bolsas de NY sobem com alívio no petróleo e dados de inflação dentro do esperado",
+   "titulo": "Ibovespa fecha em queda com ruído político e commodities, mas marca quarta semana de alta",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/11/dolar-e-ibovespa-hoje-11-de-setembro-de-2026.ghtml",
    "publicado": "2026-09-11T12:06:44+00:00",
-   "tickers": [],
-   "resumo": "O Ibovespa opera em queda nesta nesta sexta-feira (11). Os investidores repercutem a última divulgação de dados de inflação ao consumidor no Brasil e nos Estados Unidos antes da decisão dos bancos centrais dos dois países sobre a trajetória das suas taxas básicas de juros. O IPCA"
+   "tickers": [
+    "PETR3",
+    "PETR4",
+    "VALE3"
+   ],
+   "resumo": "O Ibovespa, principal índice de ações brasileiras, fechou o pregão desta sexta-feira (11) em queda, na contramão das bolsas de Nova York e da Europa, com investidores mais cautelosos diante do noticiário político doméstico. A decisão do Judiciário de determinar a investigação de "
   },
   {
    "fonte": "Valor Investe",
@@ -226,18 +319,7 @@
    "url": "https://investnews.com.br/negocios/briga-familiar-na-ray-ban-se-intensifica-executivos-defendem-ceo-apos-queda-de-50-nas-acoes/",
    "publicado": "2026-09-11T12:00:09+00:00",
    "tickers": [],
-   "resumo": "Filho do fundador deixou cargo na companhia e passou a questionar a gestão do novo CEO"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Banco do Brasil (BBAS3) e Movida (MOVI3) pagam dividendos nesta sexta",
-   "url": "https://www.suno.com.br/noticias/o-banco-do-brasil-bbas3-agenda-dividendos-11092026/",
-   "publicado": "2026-09-11T11:50:00+00:00",
-   "tickers": [
-    "BBAS3",
-    "MOVI3"
-   ],
-   "resumo": "Banco do Brasil (BBAS3) e Movida (MOVI3) pagam dividendos nesta sextaOs acionistas do Banco do Brasil (BBAS3) e da Movida (MOVI3) receberão nesta sexta-feira os dividendos que serão distribuídos pelas companhias. O Banco do Brasil distribuirá rendimentos de R$ 0,0028 por ação, en"
+   "resumo": "Leonardo Maria Del Vecchio, filho do fundador, deixou cargo na companhia e passou a questionar a gestão do novo CEO"
   },
   {
    "fonte": "Valor Investe",
@@ -371,40 +453,12 @@
    "resumo": "O resultado da Mega-Sena 3056 com prêmio de R$ 76 milhões foi divulgado nesta quinta-feira (10), em São Paulo. Os números sorteados hoje foram: 14 - 21 - 25 - 40 - 51 - 56\nVEJA TAMBÉM: \n- Os números mais sorteados na história Mega-Sena\n50 apostas que acertaram cinco dezenas vão r"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "IFIX: índice fecha pregão em ligeira alta de 0,06%",
-   "url": "https://www.suno.com.br/noticias/ifix-indice-fecha-pregao-em-ligeira-alta-de-006/",
-   "publicado": "2026-09-10T23:35:05+00:00",
-   "tickers": [],
-   "resumo": "O IFIX encerrou o pregão desta quinta-feira (10) em 3.746,97 pontos, alta de 0,06%. O desempenho representa acréscimo de 2,22 pontos ante o fechamento anterior, de 3.744,75 pontos, mantendo o índice de fundos imobiliários próximo do patamar da véspera. Ao longo do dia, o índice d"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "TRXF11: fundo imobiliário negocia venda de imóvel por R$ 77 milhões",
-   "url": "https://www.suno.com.br/noticias/trxf11-fundo-imobiliario-negocia-venda-de-imovel-por-r-77-milhoes/",
-   "publicado": "2026-09-10T22:55:05+00:00",
-   "tickers": [
-    "TRXF11"
-   ],
-   "resumo": "O TRXF11 (TRX Real Estate Fundo de Investimento Imobiliário) assinou um Memorando de Entendimentos (MOU) para vender por R$ 77 milhões um imóvel na Vila Mariana, em São Paulo, hoje locado à Diagnósticos da América (Dasa), por meio da marca Delboni Auriemo. Se confirmada, a operaç"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Barril do petróleo supera US$ 107 e reforça perspectiva de alta dos juros nos EUA, com efeitos no Brasil",
    "url": "https://investnews.com.br/economia/petroleo-supera-us-107-reforca-alta-juros/",
    "publicado": "2026-09-10T21:11:59+00:00",
    "tickers": [],
    "resumo": "Uma nova alta dos preços do petróleo provocou perdas em ações e títulos no mercado americano, com os dados mais recentes de inflação reforçando as apostas de que o Federal Reserve elevará os juros em breve, em meio às pressões dos custos mais altos de energia. O salto do barril d"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Ibovespa dispara 1,42% com ‘trade eleitoral’ e bancos; Vale (VALE3) recua",
-   "url": "https://www.suno.com.br/noticias/ibovespa-hoje-10-setembro-eleicoes-bancos-mt/",
-   "publicado": "2026-09-10T21:05:09+00:00",
-   "tickers": [
-    "VALE3"
-   ],
-   "resumo": "O Ibovespa virou para o campo positivo nesta quinta-feira (10) e fechou em alta de 1,42%, aos 188.268,59 pontos, com ganho de 2.639,55 pontos. Depois de começar o dia pressionado pelo exterior, o índice ganhou força com novas pesquisas eleitorais e o avanço das apostas em um cená"
   },
   {
    "fonte": "Valor Investe",
@@ -793,30 +847,6 @@
    "resumo": "Huawei é acusada de violar sanções dos EUA e roubar segredos comerciais de companhias americanas"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Nike é retirada do S&P 100 após quase 18 anos. Ações caem 40% em 2026",
-   "url": "https://investnews.com.br/negocios/nike-e-retirada-do-sp-100-apos-quase-18-anos-acoes-caem-40-em-2026/",
-   "publicado": "2026-09-09T18:50:26+00:00",
-   "tickers": [],
-   "resumo": "Os papéis da Nike acumulam queda de mais de 40% em 2026 e caminham para o quinto ano consecutivo de baixa"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Vale pode emitir ‘Panda Bonds’ na China ainda em 2026",
-   "url": "https://investnews.com.br/negocios/vale-pode-emitir-panda-bonds-na-china-ainda-em-2026/",
-   "publicado": "2026-09-09T18:20:30+00:00",
-   "tickers": [],
-   "resumo": "A Vale avalia acessar o mercado chinês no mesmo momento em que o governo brasileiro trabalha para captar cerca de 10 bilhões de yuans"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Na corrida do ‘agente de IA para chamar de seu’, Meta lança versão que pode custar até US$ 100 por mês",
-   "url": "https://investnews.com.br/tecnologia/corrida-agente-ia-meta-muse-us-100/",
-   "publicado": "2026-09-09T17:55:36+00:00",
-   "tickers": [],
-   "resumo": "Mark Zuckerberg: o agente Muse será integrado ao WhatsApp e ao Instagram e poderá executar tarefas como comprar ingressos"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "B3 vai incluir BDRs de empresas brasileiras no índice Ibovespa",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/09/b3-vai-incluir-bdrs-de-empresas-brasileiras-no-indice-ibovespa.ghtml",
@@ -847,47 +877,6 @@
    "publicado": "2026-09-09T13:30:16+00:00",
    "tickers": [],
    "resumo": "As taxas dos títulos do Tesouro Direto operam em direções distintas nesta quarta-feira (9), e apresentaram sinais de melhora no início dessa tarde. Na maioria dos vencimentos os títulos interrompem, hoje, a sequência de quedas no que parte do mercado atribuiu a um \"rali eleitoral"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Banco Central Europeu tende a subir juros e deixar ‘porta aberta’",
-   "url": "https://valorinveste.globo.com/mercados/moedas-e-juros/noticia/2026/09/09/banco-central-europeu-tende-a-subir-juros-e-deixar-porta-aberta.ghtml",
-   "publicado": "2026-09-09T12:18:42+00:00",
-   "tickers": [],
-   "resumo": "Com uma alta de juros pelo Banco Central Europeu (BCE) dada como certa pelo mercado na reunião desta semana, o centro das atenções estará nas pistas sobre os passos seguintes da autoridade monetária. Diante da incerteza causada pelo conflito no Oriente Médio, boa parte dos grande"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Ibovespa e bolsas de NY fecham em queda com petróleo a US$ 100, maior valor desde maio; dólar sobe",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/09/dolar-e-ibovespa-hoje-9-de-setembro-de-2026.ghtml",
-   "publicado": "2026-09-09T12:09:25+00:00",
-   "tickers": [
-    "BBAS3",
-    "BBDC4",
-    "ITUB4",
-    "PETR4"
-   ],
-   "resumo": "O Ibovespa, principal índice de ações brasileira, encerrou o pregão desta quarta-feira (9) em queda firme, desta vez acompanhando o movimento negativo das bolsas globais. O gatilho foi o salto do preço do petróleo, para acima dos US$ 100, maior valor desde maio. \nA aversão a risc"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Aposta em alta da bolsa brasileira em Nova York alcança maior nível desde 2007",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/09/aposta-em-alta-da-bolsa-brasileira-em-nova-york-alcanca-maior-nivel-desde-2007.ghtml",
-   "publicado": "2026-09-09T12:00:49+00:00",
-   "tickers": [],
-   "resumo": "O otimismo do mercado com o acirramento da disputa presidencial visto nas últimas pesquisas eleitorais elevou as apostas de investidores em uma valorização da bolsa local após as eleições para um patamar recorde. Prova disso é que o número de contratos em aberto de opções de comp"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Master, Tenda (TEND3), Casas Bahia (BHIA3), PetroReconcavo (RECV3) e mais: Veja os destaques das empresas",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/09/09/master-tenda-tend3-casas-bahia-bhia3-petroreconcavo-recv3-e-mais-veja-os-destaques-das-empresas.ghtml",
-   "publicado": "2026-09-09T11:11:11+00:00",
-   "tickers": [
-    "BHIA3",
-    "RECV3",
-    "TEND3"
-   ],
-   "resumo": "Master\nO colegiado da Comissão de Valores Mobiliários (CVM) condenou por prática de operação fraudulenta, por unanimidade, 16 acusados no processo sancionador que investigou operações do Banco Master e da família Vorcaro por meio da negociação de cotas do fundo de investimento im"
   }
  ]
 }
