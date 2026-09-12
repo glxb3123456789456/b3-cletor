@@ -3,6 +3,78 @@
  "itens": 100,
  "dados": [
   {
+   "fonte": "Suno Noticias",
+   "titulo": "O melhor dia para investir em FIIs existe? Baroni explica o que realmente importa",
+   "url": "https://www.suno.com.br/noticias/melhor-dia-investir-em-fiis-mt/",
+   "publicado": "2026-09-12T21:15:06+00:00",
+   "tickers": [],
+   "resumo": "O investidor que espera o momento perfeito para comprar fundos imobiliários pode estar dando atenção demais a uma variável de pouco impacto no longo prazo. Essa foi uma das discussões do painel&#160;“O Método”, realizado durante o&#160;Suno Invest 2026, com participação de Tiago "
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Houtis dominam rotas no Mar Vermelho e criam novo problema ao comércio global",
+   "url": "https://investnews.com.br/economia/houtis-dominam-rotas-no-mar-vermelho-e-criam-novo-problema-ao-comercio-global/",
+   "publicado": "2026-09-12T20:37:32+00:00",
+   "tickers": [],
+   "resumo": "Bloqueio no Mar Vermelho pelos Houtis ameaçam 12% do comércio marítimo mundial"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Terra é o ativo que não deprecia? O que o investidor precisa entender sobre o crédito do agro",
+   "url": "https://www.suno.com.br/noticias/terra-como-ativo-riscos-oportunidades-credito-do-agro-mt/",
+   "publicado": "2026-09-12T20:15:06+00:00",
+   "tickers": [],
+   "resumo": "Quando o crédito aperta, a terra aparece como uma das principais âncoras do&#160;agro. O ativo rural não se resume à produção de uma safra: ele pode servir de lastro para operações de financiamento e ajudar a sustentar uma cadeia que movimenta produtores, fornecedores, empresas e"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "OpenAI planeja fazer o IPO só em 2027",
+   "url": "https://investnews.com.br/negocios/openai-planeja-fazer-o-ipo-so-em-2027/",
+   "publicado": "2026-09-12T20:06:50+00:00",
+   "tickers": [],
+   "resumo": "A criadora do ChatGPT fez o pedido de oferta inicial de ações em junho, sem citar o momento exato de listagem na bolsa"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Quando pode ocorrer a primeira emissão de ‘panda bonds’ pelo governo brasileiro? Janela pode abrir no fim do mês",
+   "url": "https://investnews.com.br/financas/quando-pode-ocorrer-a-primeira-emissao-de-panda-bonds-pelo-governo-brasileiro-janela-pode-abrir-no-fim-do-mes/",
+   "publicado": "2026-09-12T19:57:48+00:00",
+   "tickers": [],
+   "resumo": "Potencial janela de emissão para panda bonds foi confirmada pelo subsecretário da Dívida Pública"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "O mundo cabe na carteira: por que diversificar no exterior vai além do dólar",
+   "url": "https://www.suno.com.br/noticias/diversificacao-internacional-investir-no-exterior-alem-do-dolar-mt/",
+   "publicado": "2026-09-12T19:55:06+00:00",
+   "tickers": [],
+   "resumo": "A exposição internacional ganhou espaço nas discussões sobre investimentos durante o Suno Invest 2026. No painel sobre investimento internacional, Marcela Rocha, da Avenue, afirmou que enviar recursos para o exterior e comprar ações brasileiras negociadas em dólar não elimina a c"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Capex de IA muda o jogo? Onde estão as oportunidades em ações e renda fixa nos EUA",
+   "url": "https://www.suno.com.br/noticias/capex-de-ia-acoes-renda-fixa-eua-investimento-internacional/",
+   "publicado": "2026-09-12T18:55:02+00:00",
+   "tickers": [],
+   "resumo": "O avanço da inteligência artificial transformou o planejamento de investimentos das maiores empresas de tecnologia dos Estados Unidos. Durante o Suno Invest 2026, Marcela Rocha, da Avenue, afirmou que o debate deixou de ser apenas sobre a existência de uma bolha e passou a se con"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Fundador da Oracle cancela venda de US$ 7,5 bilhões de suas ações após críticas",
+   "url": "https://investnews.com.br/negocios/fundador-da-oracle-cancela-venda-de-us-75-bilhoes-de-suas-acoes-apos-criticas/",
+   "publicado": "2026-09-12T18:05:49+00:00",
+   "tickers": [],
+   "resumo": "Ellison pretendia vender até 50 milhões de ações da Oracle"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Tributação muda o jogo: dividendos, JCP e lucro das empresas entram na mira do investidor",
+   "url": "https://www.suno.com.br/noticias/tributacao-dividendos-lucro-jcp-investidor-mt/",
+   "publicado": "2026-09-12T18:05:03+00:00",
+   "tickers": [],
+   "resumo": "A&#160;tributação&#160;deixou de ser um detalhe restrito aos balanços e passou a afetar diretamente dividendos, juros sobre capital próprio (JCP), lucro e geração de caixa das empresas. O tema foi discutido por Marcio Frizzo, CEO da Certezza Consultoria, durante o Suno Invest 202"
+  },
+  {
    "fonte": "Valor Investe",
    "titulo": "Servidor do BC recebeu R$ 4 milhões de empresa ligada ao Master",
    "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/09/12/servidor-do-bc-recebeu-r-4-milhoes-de-empresa-ligada-ao-master.ghtml",
@@ -290,22 +362,6 @@
    "resumo": "Depois de passar quase três meses andando de lado na casa dos US$ 60 mil, o Bitcoin (BTC) mudou de patamar em agosto, mas encontrou uma nova barreira para continuar subindo. \nA principal representante do mercado de criptoativos chegou a US$ 81,2 mil, na semana passada (3 de setem"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "Ibovespa em dólar: novo índice da B3 revela quanto a Bolsa rende para investidores estrangeiros",
-   "url": "https://www.suno.com.br/noticias/ibovespa-em-dolar-novo-indice-da-b3-mt/",
-   "publicado": "2026-09-11T17:55:06+00:00",
-   "tickers": [],
-   "resumo": "A B3 (B3SA3) começará a divulgar, em 14 de setembro, um indicador que converte o desempenho do Ibovespa para dólar. O Ibovespa em dólar permitirá acompanhar quanto a Bolsa brasileira valorizou ou perdeu quando o resultado é medido na moeda norte-americana. A iniciativa amplia a l"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Oracle (ORCL) dispara após balanço, mas caixa negativo acende alerta para investidores",
-   "url": "https://www.suno.com.br/noticias/oracle-orcl-resultados-2t26-inteligencia-artificial-mt/",
-   "publicado": "2026-09-11T16:55:07+00:00",
-   "tickers": [],
-   "resumo": "As ações da Oracle (ORCL) subiram cerca de 4,3% após a divulgação dos resultados do segundo trimestre fiscal de 2026. O balanço superou as expectativas, mas também mostrou que o forte avanço da inteligência artificial exige investimentos cada vez maiores. As informações são de re"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Nubank, JBS, XP e Inter: esses BDRs podem entrar no Ibovespa – mas a fatia será limitada a 10% do índice",
    "url": "https://investnews.com.br/investimentos/nubank-jbs-xp-e-inter-esses-bdrs-podem-entrar-no-ibovespa-mas-a-fatia-sera-limitada-a-10-do-indice/",
@@ -346,43 +402,12 @@
    "resumo": "Fed e BC do Brasil vão decidir o rumo dos juros na superquarta da próxima semana. Chances de subida nos EUA e corte por aqui estão em 90%"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "GAME11: FII vai pagar dividendos de 1,23%; veja o valor",
-   "url": "https://www.suno.com.br/noticias/game11-dividendos-rendimento-setembro-2026/",
-   "publicado": "2026-09-11T14:45:06+00:00",
-   "tickers": [
-    "GAME11"
-   ],
-   "resumo": "O fundo imobiliário GAME11 informou a distribuição de R$ 0,10 por cota em dividendos aos cotistas. Terão direito aos proventos os investidores posicionados até 10 de setembro de 2026, e o pagamento está previsto para 22 de setembro. Com base no fechamento da cota em R$ 8,16 em ag"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "RBRR11 divulga novos dividendos para setembro; confira valor",
-   "url": "https://www.suno.com.br/noticias/dividendos-do-rbrr11-agosto-2026/",
-   "publicado": "2026-09-11T14:15:08+00:00",
-   "tickers": [
-    "RBRR11"
-   ],
-   "resumo": "Os novos dividendos do RBRR11 referentes a agosto de 2026 serão de R$ 0,90 por cota. Com base na cotação de R$ 74,01 registrada no fechamento de agosto, o valor implica um dividend yield mensal de aproximadamente 1,22%. A distribuição ocorrerá em 17 de setembro de 2026. Ter direi"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "CVM faz novo acordo para conseguir informações sobre o caso Americanas",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/09/11/cvm-faz-novo-acordo-para-conseguir-informacoes-sobre-o-caso-americanas.ghtml",
    "publicado": "2026-09-11T14:06:40+00:00",
    "tickers": [],
    "resumo": "A Comissão de Valores Mobiliários (CVM) comunicou na noite de ontem (10) que realizou um novo acordo administrativo em processo de supervisão do caso Americanas. Isso significa que o regulador fez um acordo com alguma companhia ou pessoa para ter informações e documentos que ajud"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Veja 11 FIIs que pagam dividendos aos cotistas nesta sexta (11)",
-   "url": "https://www.suno.com.br/noticias/dividendos-hoje-9-fiis-pagam/",
-   "publicado": "2026-09-11T14:05:09+00:00",
-   "tickers": [
-    "CXRI11",
-    "HABT11"
-   ],
-   "resumo": "Cotistas de 9 fundos imobiliários receberão rendimentos nesta sexta-feira, com destaque para HABT11 e CXRI11. O HABT11 pagará R$ 0,95 por cota, enquanto o CXRI11 distribuirá R$ 0,65. Os investidores que detêm FIIs que pagam dividendos hoje não precisam realizar qualquer ação: o c"
   },
   {
    "fonte": "InvestNews",
@@ -675,14 +700,6 @@
    "resumo": "Juros de longo prazo alcançam maior nível em quase 20 anos nos EUA e afetam retornos da renda fixa no Brasil"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Petróleo Brent chega a US$ 105 com temor sobre oferta de petróleo",
-   "url": "https://investnews.com.br/economia/petroleo-brent-chega-a-us-105-com-temor-sobre-oferta-de-petroleo/",
-   "publicado": "2026-09-10T14:51:31+00:00",
-   "tickers": [],
-   "resumo": "O petróleo Brent acumula alta de mais de 70% neste ano, embora permaneça bem abaixo do pico de US$ 126 o barril atingido em abril durante a guerra"
-  },
-  {
    "fonte": "Brazil Journal",
    "titulo": "A tal da luz no fim do túnel: o plano da Light com o fim da RJ",
    "url": "https://braziljournal.com/a-tal-da-luz-no-fim-do-tunel-o-plano-da-light-com-o-fim-da-rj/",
@@ -712,28 +729,12 @@
    "resumo": "O pacote de desonerações e subsídios anunciado pelo governo para conter o repasse da alta internacional do petróleo aos combustíveis foi lido pelas casas de análise de investimentos como algo entre neutro e bastante positivo para a Petrobras (PETR3; PETR4). O ponto comum é que as"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "O que uma alta dos juros pelo Fed significa para a economia e a inflação dos EUA",
-   "url": "https://investnews.com.br/economia/o-que-uma-alta-dos-juros-pelo-fed-significa-para-a-economia-e-a-inflacao-dos-eua/",
-   "publicado": "2026-09-10T12:48:04+00:00",
-   "tickers": [],
-   "resumo": "Inflação persistente pode levar banco central americano a elevar a taxa de juros no país"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Brasileiros resgatam R$ 11 bilhões da poupança em agosto, a maior retirada em quatro anos",
    "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/09/10/brasileiros-resgatam-r-11-bilhoes-da-poupanca-em-agosto-a-maior-retirada-em-quatro-anos.ghtml",
    "publicado": "2026-09-10T12:37:28+00:00",
    "tickers": [],
    "resumo": "Os saques em caderneta de poupança superaram os depósitos em R$ 10,572 bilhões em agosto, como divulgado nesta quinta-feira (10) pelo Banco Central (BC). Essa foi o maior resgate líquido de recursos para o mês desde 2022, quando somou R$ 22,015 bilhões. No acumulado de 2026, a sa"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Volkswagen vê SUVs e picapes como saída para recuperar mercado nos Estados Unidos",
-   "url": "https://investnews.com.br/negocios/volkswagen-ve-suvs-e-picapes-como-saida-para-recuperar-mercado-nos-estados-unidos/",
-   "publicado": "2026-09-10T12:26:06+00:00",
-   "tickers": [],
-   "resumo": "Volkswagen avalia novos modelos mais robustos, produzidos nos EUA, para ampliar margens e reduzir exposição a tarifas"
   },
   {
    "fonte": "Valor Investe",
@@ -748,14 +749,6 @@
     "VALE3"
    ],
    "resumo": "O preço do petróleo, principal commodity de energia no mundo, seguiu ditando os rumos dos mercados globais, nesta quinta-feira (10). Após superar os US$ 107, o barril, as bolsas passaram a registrar queda acentuada, com investidores em alerta sobre o impacto generalizado na infla"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Memecoin de Hunter Biden despenca 99,5%: lição para o investidor?",
-   "url": "https://investnews.com.br/investimentos/memecoin-de-hunter-biden-despenca-995-licao-para-o-investidor/",
-   "publicado": "2026-09-10T11:35:03+00:00",
-   "tickers": [],
-   "resumo": "A empresa de análise de blockchain Bubblemaps chamou o lançamento de “banho de sangue” e apontou que cerca de 80% dos traders perderam dinheiro"
   },
   {
    "fonte": "Valor Investe",
