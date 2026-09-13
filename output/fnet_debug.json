@@ -1,12 +1,12 @@
 {
- "recordsTotal": 9371,
- "paginas_lidas": 39,
+ "recordsTotal": 8349,
+ "paginas_lidas": 36,
  "janela": [
-  "31/08/2026",
-  "12/09/2026"
+  "01/09/2026",
+  "13/09/2026"
  ],
- "docs_filtrados": 92,
- "docs_fundos": 46,
+ "docs_filtrados": 89,
+ "docs_fundos": 43,
  "docs_fidc": 46,
  "amostra_categorias": [
   "Assembleia",
@@ -23,7 +23,7 @@
   "Regulamento",
   "Relatórios"
  ],
- "erro": "excecao: HTTPSConnectionPool(host='fnet.bmfbovespa.com.br', port=443): Read timed out. (read timeout=60)",
+ "erro": "excecao: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
  "amostra_registros": [
   {
    "altaPrioridade": false,
