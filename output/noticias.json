@@ -3,6 +3,22 @@
  "itens": 100,
  "dados": [
   {
+   "fonte": "Brazil Journal",
+   "titulo": "OPINIÃO. Carece de seriedade",
+   "url": "https://braziljournal.com/opiniao-carece-de-seriedade/",
+   "publicado": "2026-09-13T21:09:18+00:00",
+   "tickers": [],
+   "resumo": "Ficou engastado na memória forense o episódio em que o Ministro Aliomar Baleeiro, chamado a julgar a suspeição arguida contra o venerável Ministro Victor Nunes Leal, despachou em quatro palavras: “Rejeito, carece de seriedade.” O leitor de hoje talvez estranhe a economia. Baleeir"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Irã e países do Golfo adiam acordo para criar rota temporária no Estreito de Ormuz",
+   "url": "https://investnews.com.br/economia/ira-e-paises-do-golfo-adiam-acordo-para-criar-rota-temporaria-no-estreito-de-ormuz/",
+   "publicado": "2026-09-13T19:57:05+00:00",
+   "tickers": [],
+   "resumo": "Irã tenta estabelecer plano com países da região sem os Estados Unidos"
+  },
+  {
    "fonte": "Money Times",
    "titulo": "IBGE lança mapas-múndi invertidos e com o Brasil no centro; modelos questionam a visão tradicional do mundo",
    "url": "https://www.moneytimes.com.br/mapas-mundi-ibge-brasil-centro-hemisferio-sul-topo-isca/",
@@ -53,7 +69,7 @@
   {
    "fonte": "InvestNews",
    "titulo": "Trump volta a pressionar Fed por juros mais baixos antes de decisão do BC americano",
-   "url": "https://investnews.com.br/geral/trump-volta-a-pressionar-fed-por-juros-mais-baixos-antes-de-decisao-do-bc-americano/",
+   "url": "https://investnews.com.br/economia/trump-volta-a-pressionar-fed-por-juros-mais-baixos-antes-de-decisao-do-bc-americano/",
    "publicado": "2026-09-13T14:19:51+00:00",
    "tickers": [],
    "resumo": "Presidente dos EUA, Donald Trump, quer juros mais baixos e tem histórico de tentar influenciar o Fed, o BC americano"
@@ -656,14 +672,6 @@
    "resumo": "O resultado da Mega-Sena 3056 com prêmio de R$ 76 milhões foi divulgado nesta quinta-feira (10), em São Paulo. Os números sorteados hoje foram: 14 - 21 - 25 - 40 - 51 - 56\nVEJA TAMBÉM: \n- Os números mais sorteados na história Mega-Sena\n50 apostas que acertaram cinco dezenas vão r"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Barril do petróleo supera US$ 107 e reforça perspectiva de alta dos juros nos EUA, com efeitos no Brasil",
-   "url": "https://investnews.com.br/economia/petroleo-supera-us-107-reforca-alta-juros/",
-   "publicado": "2026-09-10T21:11:59+00:00",
-   "tickers": [],
-   "resumo": "Uma nova alta dos preços do petróleo provocou perdas em ações e títulos no mercado americano, com os dados mais recentes de inflação reforçando as apostas de que o Federal Reserve elevará os juros em breve, em meio às pressões dos custos mais altos de energia. O salto do barril d"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Bolsa brasileira volta a ser a bola da vez entre os emergentes. E não é só a eleição",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/10/bolsa-brasileira-volta-a-ser-a-bola-da-vez-entre-os-emergentes-e-nao-e-so-a-eleicao.ghtml",
@@ -843,14 +851,6 @@
    "publicado": "2026-09-10T09:10:00+00:00",
    "tickers": [],
    "resumo": "Os ativos de menor risco continuaram entre os mais buscados pelos investidores brasileiros em agosto. Motivos não faltam: da guerra no Oriente Médio, que já se prolonga por seis meses, às eleições presidenciais que ficam mais incertas a cada pesquisa. A novidade é que, mesmo em m"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "O México abriu sua economia. Por que não ficou rico?",
-   "url": "https://braziljournal.com/o-mexico-abriu-sua-economia-por-que-nao-ficou-rico/",
-   "publicado": "2026-09-10T03:45:59+00:00",
-   "tickers": [],
-   "resumo": "Do ponto de vista de liberalização do comércio, os anos 1990 marcam um período épico na história. A partir do início dos anos 1990, Estados Unidos, México e Canadá aprofundam sua integração comercial, num processo que desembocaria no NAFTA em 1994. Do outro lado do Atlântico, tam"
   }
  ]
 }
