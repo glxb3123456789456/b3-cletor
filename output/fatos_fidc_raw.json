@@ -1,7 +1,55 @@
 {
  "fonte": "fatos_fidc_raw",
- "itens": 32,
+ "itens": 14,
  "dados": [
+  {
+   "empresa": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS ALION CONSIGNADOS",
+   "cnpj": "",
+   "data": "2026-09-14",
+   "assunto": "",
+   "categoria": "Fato Relevante",
+   "pregao": "",
+   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1319371&cvm=true",
+   "_id": 1319371,
+   "texto": "",
+   "visto_em": "2026-09-15"
+  },
+  {
+   "empresa": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS ALION III CONSIGNADOS - RESPONSABILIDADE LIMITADA",
+   "cnpj": "",
+   "data": "2026-09-14",
+   "assunto": "",
+   "categoria": "Fato Relevante",
+   "pregao": "",
+   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1319370&cvm=true",
+   "_id": 1319370,
+   "texto": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS ALION III CONSIGNADOS – RESPONSABILIDADE LIMITADA CNPJ nº 49.220.648/0001-62 (“FUNDO”) FATO RELEVANTE A QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A., inscrita no CNPJ sob o nº 62.285.390/0001-40, com sede na Av. Rebouças, nº 2.942, 7º aos 12º andares – Parte I, Pinheiros, São Paulo, na qualidade de instituição administradora (“Administradora”) do Fundo, vem comunicar aos cotistas e ao mercado em geral que, conforme relatório de rating elaborado em 26 de agosto de 2026, a AUSTIN RATING rebaixou o rating das Cotas Seniores, das Cotas Subordinadas Mezanino B, das Cotas Subordinadas Mezanino A e das Cotas Subordinadas Júnior do Fundo, com atribuição de perspectiva negativa a todas as Cotas. A Cota Sênior teve seu rating rebaixado de “brAA- (sf)” para “brA+ (sf)”; a Cota Subordinada Mezanino B teve seu rating rebaixado de “brBBB+ (sf)” para “brBBB (sf)”; a Cota Subordinada Mezanino A teve seu rating rebaixado de “brBB+ (sf)” para “brBB (sf)”; e a Cota Subordinada Júnior teve seu rating rebaixado de “brB+ (sf)” para “brB- (sf)”. Comparativo de Ratings das Cotas (Anterior x Atual) Cota Rating Anterior (1T26) Rating Atual (2T26) Sênior brAA- (sf) — Estável brA+ (sf) — Negativa Subordinada Mezanino B brBBB+ (sf) — Estável brBBB (sf) — Negativa Subordinada Mezanino A brBB+ (sf) — Estável brBB (sf) — Negativa Subordinada Júnior brB+ (sf) — Estável brB- (sf) — Negativa Informações adicionais poderão ser obtidas junto à Administradora, pelo e-mail: monitoramento.fundos@qitech.com.br. São Paulo, 11 de setembro de 2026.",
+   "visto_em": "2026-09-15"
+  },
+  {
+   "empresa": "FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS ALION MZ",
+   "cnpj": "",
+   "data": "2026-09-14",
+   "assunto": "",
+   "categoria": "Fato Relevante",
+   "pregao": "",
+   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1319369&cvm=true",
+   "_id": 1319369,
+   "texto": "",
+   "visto_em": "2026-09-15"
+  },
+  {
+   "empresa": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS ALION II CONSIGNADOS",
+   "cnpj": "",
+   "data": "2026-09-14",
+   "assunto": "",
+   "categoria": "Fato Relevante",
+   "pregao": "",
+   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1319368&cvm=true",
+   "_id": 1319368,
+   "texto": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS ALION II CONSIGNADOS CNPJ nº 46.766.050/0001-85 (“FUNDO”) FATO RELEVANTE A QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A., inscrita no CNPJ sob o nº 62.285.390/0001-40, com sede na Av. Rebouças, nº 2.942, 7º aos 12º andares – Parte I, Pinheiros, São Paulo, na qualidade de instituição administradora (“Administradora”) do Fundo, vem comunicar aos cotistas e ao mercado em geral que, conforme relatório de rating elaborado em 26 de agosto de 2026, a AUSTIN RATING rebaixou o rating das Cotas Seniores, das Cotas Subordinadas Mezanino B, das Cotas Subordinadas Mezanino A e das Cotas Subordinadas Júnior do Fundo, com atribuição de perspectiva negativa a todas as Cotas. A Cota Sênior teve seu rating rebaixado de “brA+ (sf)” para “brA (sf)”; a Cota Subordinada Mezanino B teve seu rating rebaixado de “brBBB (sf)” para “brBBB- (sf)”; a Cota Subordinada Mezanino A teve seu rating rebaixado de “brBB (sf)” para “brBB- (sf)”; e a Cota Subordinada Júnior teve seu rating rebaixado de “brB (sf)” para “brCCC (sf)”. Comparativo de Ratings das Cotas (Anterior x Atual) Cota Rating Anterior (1T26) Rating Atual (2T26) Sênior brA+ (sf) — Estável brA (sf) — Negativa Subordinada Mezanino B brBBB (sf) — Estável brBBB- (sf) — Negativa Subordinada Mezanino A brBB (sf) — Estável brBB- (sf) — Negativa Subordinada Júnior brB (sf) — Estável brCCC (sf) — Negativa Informações adicionais poderão ser obtidas junto à Administradora, pelo e-mail: monitoramento.fundos@qitech.com.br. São Paulo, 11 de setembro de 2026.",
+   "visto_em": "2026-09-15"
+  },
   {
    "empresa": "CONTEA CAPITAL GENOVA D45 FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE  INVESTIMENTO EM DIREITOS CRED",
    "cnpj": "",
@@ -11,7 +59,7 @@
    "pregao": "",
    "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1319081&cvm=true",
    "_id": 1319081,
-   "texto": "",
+   "texto": "CONTEA CAPITAL GENOVA D45 FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CRED CNPJ/MF 47.444.058/0001-98 Fato Relevante A VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA, instituição com sede na Rua Gilberto Sabino, nº 215, 4º andar, cidade de São Paulo, Estado de São Paulo, inscrita no CNPJ/MF sob o nº 22.610.500/0001-88, autorizada a administrar carteiras de valores mobiliários pelo Ato Declaratório da Comissão de Valores Mobiliários (“CVM”) nº 14.820, de 8 de janeiro de 2016 (“Administradora”), na qualidade de administradora do CONTEA CAPITAL GENOVA D45 FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA, inscrito no CNPJ/MF sob o 47.444.058/0001-98 (“Fundo”), serve-se do presente para esclarecer sobre o fechamento da classe única do Fundo divulgado através de Fato Relevante no dia 12 de setembro de 2026. Para fins de clareza e sem prejuízo do conteúdo do Fato Relevante anteriormente divulgado, a Administradora esclarece que a decisão da Gestora de declarar o fechamento da classe única do Fundo para a realização de resgates foi tomada com efeitos a partir do fechamento do dia 11 de setembro de 2026, tendo a Administradora sido impossibilidade de divulgar o Fato Relevante em questão no fechamento do próprio dia 11 de setembro de 2026 devido à indisponibilidade temporária do sistema Fundos.NET, conforme divulgado no próprio endereço eletrônico naquela data: Dessa forma, cumpre esclarecer que todos os pedidos de resgate que estavam pendentes de conversão (cotização) quando do fechamento da classe foram cancelados, conforme determina o §2º, do Art. 44, da Parte Geral da Resolução CVM nº 175, divulgada em 23 de dezembro de 2022 e conforme alterada (“Resolução CVM nº 175”). A Administradora esclarece que seguirá monitorando as condições e evolução de liquidez do Fundo e, em sendo necessário, adotará prontamente o procedimento previsto no §3° do artigo 44 da Parte Geral da Resolução CVM nº 175, convocando Assembleia Geral de Cotistas para deliberar acerca das possibilidades previstas no regulamento do Fundo. A Vórtx reforça o seu compromisso de continuar desempenhando suas atividades de forma diligente e em estrita observância ao seu dever fiduciário, mantendo os Cotistas do Fundo e o mercado em geral informados. São Paulo, 14 de setembro de 2026. VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
    "visto_em": "2026-09-15"
   },
   {
@@ -35,7 +83,7 @@
    "pregao": "",
    "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1319012&cvm=true",
    "_id": 1319012,
-   "texto": "",
+   "texto": "1 CLASSE A DO MT CONSIGNADO PRIVADO II FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA CNPJ/MF Nº 58.458.416/0001-38 COMUNICADO AOS COTISTAS O BANCO DAYCOVAL S.A. , sociedade com sede na Cidade de São Paulo, Estado de São Paulo, na Avenida Paulista, 1.793, 9º andar, Bela Vista, São Paulo - SP, CEP 01311 -200, inscrita no CNPJ/ME sob o nº 62.232.889/0001-96, na qualidade de instituição administradora da CLASSE A DO MT CONSIGNADO PRIVADO II FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA, inscrita no CNPJ/MF sob o nº 58.458.416/0001-38 (“Administradora” e “Classe A”, respectivamente), vem, por meio desta, comunicar aos cotistas da Classe A (“ Cotistas”) que a Assembleia Especial de Cotistas realizada às 15h00 do dia 10 de setembro de 2026 manteve a suspensão deliberada na Assembleia Especial de Cotistas realizada em 31 de agosto de 2026, bem como o respectivo waiver, considerando que, por questões operacionais, as aquisições de determinadas Cotas Seniores pela Meu Tudo, por meio de seus veículos de investimento, não foram finalizadas. Caso as aquisições das Cotas Seniores pendentes não sejam concluídas até o dia 22 de setembro de 2026, a Assembleia Especial de Cotistas será retomada nessa mesma data, às 15h00, através da Plataforma Eletrônica pelo link https://teams.microsoft.com/meet/289790772844047?p=YdoXSv4jOmTQh8q4Gf (ID da Reunião: 289 790 772 844 047 / Senha: nH93zY7i), ficando os Cotistas da Classe A, desde já, convocados para a retomada da deliberação da Ordem do Dia e das demais medidas cabíveis em razão da não concretização das referidas aquisições, caso aplicável. Sendo o que nos cabia para o momento, colocamo -nos à disposição para eventuais esclarecimentos adicionais que se fizerem necessários através do seguinte e-mail:assembleias.dsf@bancodaycoval.com.br. São Paulo, 14 de setembro de 2026. BANCO DAYCOVAL S.A. Serviço de Atendimento ao Cotista: SAC: 0800 555 0500. Deficiente Auditivo ou de Fala: 0800 775 2005 Ouvidoria Daycoval: 0800 777 0900.",
    "visto_em": "2026-09-15"
   },
   {
@@ -59,7 +107,7 @@
    "pregao": "",
    "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1318857&cvm=true",
    "_id": 1318857,
-   "texto": "",
+   "texto": "FATO RELEVANTE WEG INTEGRADORES FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RECEBÍVEIS COMERCIAIS RESPONSABILIDADE LIMITADA CNPJ nº 48.967.968/0001-18 A VERT DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA. sociedade com sede na Cidade e Estado de São Paulo, na Rua Cardeal Arcoverde, nº 2.365, 11º andar, CEP 05407 003, inscrita no CNPJ sob o nº 48.967.968/0001 -18, autorizada pela Comissão de Valores Mobiliários (\"CVM\") para o exercício profissional de administração de carteiras de valores mobiliários conforme Ato Declaratório nº 21.369, de 20 de outubro de 2023 (\"Administradora”), na qualidade de instituição administradora do WEG INTEGRADORES FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RECEBÍVEIS COMERCIAIS RESPONSABILIDADE LIMITADA (“Fundo”), vem , por meio da presente, comunicar aos Cotistas e ao mercado em geral que, nesta data, foi constatado o desenquadramento do Índice Mínimo de Subordinação da Classe do Fundo, nos termos do Complemento I ao Anexo do Regulamento da Classe (“Regulamento”), o qual ficou abaixo do percentual mínimo de 1% (um por cento) do Patrimônio Líquido da Classe. Nos termos dos Artigos 53, §4º, item “i” e 101, alínea “h”, do Anexo do Regulamento da Classe, o referido desenquadramento caracteriza um Evento de Avaliação. Em razão do disposto acima, a Administradora adotará os procedimentos elencados no Artigo 102 do Anexo ao Regulamento e seguirá com a convocação da Assembleia Especial de Cotistas para deliberar sobre os desdobramentos do Evento de Avaliação, nos termos do Artigo 100 do Anexo ao Regulamento. Os termos iniciados em maiúscula e que não foram definidos neste comunicado possuem a respectiva definição prevista no Regulamento e nos demais documentos do Fundo. Sendo o que tínhamos para o momento, permanecemos à disposição. São Paulo, 11 de setembro de 2026 VERT DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
    "visto_em": "2026-09-15"
   },
   {
@@ -111,54 +159,6 @@
    "visto_em": "2026-09-12"
   },
   {
-   "empresa": "VOLPATO - FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
-   "cnpj": "",
-   "data": "2026-09-11",
-   "assunto": "Outros Comunicados Não Considerados Fatos Relevantes ",
-   "categoria": "Comunicado ao Mercado",
-   "pregao": "",
-   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1316496&cvm=true",
-   "_id": 1316496,
-   "texto": "São Paulo, 11 de setembro de 2026 COMUNICADO AO MERCADO Divulgação das demonstrações financeiras qualificadas referentes ao exercício encerrado em 30 de abril de 2026 Prezados Investidores, A Administradora do VOLPATO - FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA – CNPJ 33.736.744/0001-28, vem por meio deste, comunicar a divulgação das Demonstrações Financeiras referentes ao exercício encerrado em 30 de abril de 2026, as quais foram emitidas com qualificação por parte dos auditores independentes, ECOVIS WFA AUDITORES INDEPENDENTES S/S - CNPJ 40.221.974/0001-10. A qualificação decorre da ausência de elementos suficientes que permitisse aos auditores independentes concluir quanto à recuperabilidade de determinados ativos classificados como valores a receber, os quais representam 44,05% do patrimônio líquido do fundo em 30 de abril de 2026. Em linha com as melhores práticas de governança corporativa e com o compromisso de transparência para com os cotistas do Fundo e o mercado, foram adotadas uma série de medidas rigorosas para gerenciar os impactos desta qualificação e buscar a resolução dos problemas identificados. As principais ações de governança incluem: • Comunicado ao Gestor do Fundo: Após a identificação de potencial qualificação, foi informado ao gestor do fundo, solicitando planos de ação para o correto ajuste e regularização das demonstrações financeiras. • Análise e Aprovação da Qualificação em Comissão de Administração Fiduciária: A qualificação foi submetida a análise da Comissão de Administração Fiduciária que após deliberação cuidadosa aprovou a divulgação das demonstrações financeiras com qualificação, buscando a divulgação das informações mais recentes, mesmo que com possíveis distorções. • Melhores Esforços da Administração Junto aos Auditores para Reduzir os Impactos da Qualificação com Procedimentos Adicionais: A Administração empreendeu todos os esforços possíveis, em estreita colaboração com os auditores independentes e a gestão, para fornecer informações adicionais e buscar realizar procedimentos suplementares que pudessem, eventualmente, reverter ou minimizar a qualificação. Embora nem sempre seja possível a reversão, este processo assegura a diligência e o empenho em prol dos interesses dos cotistas. • Envio do Plano de Ação ao Gestor para Reversão de Qualificação: Foi sugerido plano de ação ao gestor do fundo, com o objetivo de endereçar as causas da qualificação e implementar as medidas corretivas necessárias para que futuras demonstrações financeiras possam ser emitidas sem qualificação. Reiteramos nosso compromisso e estamos à disposição para quaisquer esclarecimentos adicionais que se façam necessários. Atenciosamente, Vórtx Distribuidora de Títulos e Valores Mobiliários Ltda.",
-   "visto_em": "2026-09-12"
-  },
-  {
-   "empresa": "LEGAL ONE FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
-   "cnpj": "",
-   "data": "2026-09-11",
-   "assunto": "",
-   "categoria": "Fato Relevante",
-   "pregao": "",
-   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1315937&cvm=true",
-   "_id": 1315937,
-   "texto": "LEGAL ONE FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA CNPJ n° 59.843.866/0001-07 Série SUBORDINADA JUNIOR - 1 (“Fundo”) FATO RELEVANTE A QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. , inscrita no CNPJ sob o nº 62.285.390/0001-40, com sede na Avenida Rebouças, nº 2.942, 7º ao 12º andar, Parte I, cidade e Estado de São Paulo, instituição administradora (“Administradora”) do FUNDO, vem comunicar aos cotistas e ao mercado em geral que em razão da variação de ativos do FUNDO, o valor da cota SUBORDINADA JUNIOR - 1 apresentou variação negativa de 19,92% em 08 de Setembro de 2026. Esclarece-se que a variação no valor da cota ora informada desconsidera os efeitos de movimentações de passivo do FUNDO, tais como resgates, aplicações e amortizações. Informações adicionais poderão ser obtidas junto à Administradora, pelo e-mail: enquadramento@qitech.com.br. São Paulo, 09 de Setembro de 2026. QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. qitech.com.br Av. Rebouças, nº 2.942, 7º ao 12º andar, Parte I Jardim Paulistano - CEP 05402-500 SP - São Paulo",
-   "visto_em": "2026-09-12"
-  },
-  {
-   "empresa": "HBCJ FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
-   "cnpj": "",
-   "data": "2026-09-11",
-   "assunto": "",
-   "categoria": "Fato Relevante",
-   "pregao": "",
-   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1315933&cvm=true",
-   "_id": 1315933,
-   "texto": "HBCJ FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS – RESPONSABILIDADE LIMITADA CNPJ n° 57.127.130/0001-07 (“Fundo”) FATO RELEVANTE Data-base de monitoramento: 08 de Setembro de 2026 A QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. (“Administradora”), inscrita no CNPJ sob o nº 62.285.390/0001-40, com sede na Avenida Rebouças, nº 2.942, 7º ao 12º andar, Parte I, cidade e Estado de São Paulo, na qualidade de instituição administradora do FUNDO, vem, por meio deste, comunicar aos seus cotistas e demais interessados que na data base de monitoramento o fundo apresentou o desenquadramento tributário na alocação mínima em ativos elegíveis, nos termos da Lei nº 14.754/2023 em vigor, ficando sujeito às regras previstas na Seção II, Do Regime Geral dos Fundos, Art. 17 desta Lei. Informações adicionais poderão ser obtidas junto à Administradora, pelo e-mail: enquadramento@qitech.com.br. São Paulo, 09 de Setembro de 2026. QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. qitech.com.br Av. Rebouças, nº 2.942, 7º ao 12º andar, Parte I Jardim Paulistano - CEP 05402-500 SP - São Paulo",
-   "visto_em": "2026-09-12"
-  },
-  {
-   "empresa": "GRUPO K FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-   "cnpj": "",
-   "data": "2026-09-11",
-   "assunto": "",
-   "categoria": "Fato Relevante",
-   "pregao": "",
-   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1315930&cvm=true",
-   "_id": 1315930,
-   "texto": "GRUPO K FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS CNPJ n° 63.212.782/0001-42 Série UNICA - 1 (“Fundo”) FATO RELEVANTE A QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. , inscrita no CNPJ sob o nº 62.285.390/0001-40, com sede na Avenida Rebouças, nº 2.942, 7º ao 12º andar, Parte I, cidade e Estado de São Paulo, instituição administradora (“Administradora”) do FUNDO, vem comunicar aos cotistas e ao mercado em geral que em razão do aumento no provisionamento para devedores duvidosos (PDD) do FUNDO, o valor da cota UNICA - 1 apresentou variação negativa de 7,73% em 03 de Setembro de 2026. Esclarece-se que a variação no valor da cota ora informada desconsidera os efeitos de movimentações de passivo do FUNDO, tais como resgates, aplicações e amortizações. Informações adicionais poderão ser obtidas junto à Administradora, pelo e-mail: enquadramento@qitech.com.br. São Paulo, 09 de Setembro de 2026. QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. qitech.com.br Av. Rebouças, nº 2.942, 7º ao 12º andar, Parte I Jardim Paulistano - CEP 05402-500 SP - São Paulo",
-   "visto_em": "2026-09-12"
-  },
-  {
    "empresa": "VHE FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO FINANCEIRO",
    "cnpj": "",
    "data": "2026-09-11",
@@ -169,222 +169,6 @@
    "_id": 1315699,
    "texto": "VHE FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO FINANCEIRO CNPJ nº 13.963.456/0001-07 COMUNICADO AOS COTISTAS A FINAXIS CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A., instituição financeira devidamente autorizada pela CVM para o exercício profissional de administração de carteiras de valores mobiliários, na categoria de administrador fiduciário, nos termos do Ato Declaratório CVM nº 6.547, de 18 de outubro de 2001, co m sede na cidade de São Paulo, Estado de São Paulo, na Avenida Paulista, nº 1.842, Torre Norte, térreo, Loja 08, Bela Vista, CEP 01310 -923, inscrita no CNPJ sob o nº 03.317.692/0001 -94, na qualidade de instituição administradora (\"Administradora\") do VHE FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO FINANCEIRO , inscrito no CNPJ/MF sob o nº 13.963.456/0001-07 (“Fundo”), vem comunicar aos cotistas que as cotas da Subclasse Subordinada do Fundo apresentaram uma alta de 14,38% em sua rentabilidade diária, observando a carteira do dia 31 de agosto de 2026, em comparação com a carteira do dia 30 de agosto de 2026, decorrente do reconhecimento contábil do imóvel recebido em dação em pagamento da liquidação da CCB vinculada a devedora. Adicionalmente, informamos que a Administradora se encontra à disposição para prestar os esclarecimentos adicionais. São Paulo, 10 de setembro de 2026. FINAXIS CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
    "visto_em": "2026-09-12"
-  },
-  {
-   "empresa": "BEMOL CRÉDITO PESSOAL FIDC FINANCEIROS DE RESPONSABILIDADE LIMITADA",
-   "cnpj": "",
-   "data": "2026-09-10",
-   "assunto": "Outros Comunicados Não Considerados Fatos Relevantes ",
-   "categoria": "Comunicado ao Mercado",
-   "pregao": "",
-   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1315085&cvm=true",
-   "_id": 1315085,
-   "texto": "",
-   "visto_em": "2026-09-11"
-  },
-  {
-   "empresa": "VK MASTER FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
-   "cnpj": "",
-   "data": "2026-09-10",
-   "assunto": "Outros Comunicados Não Considerados Fatos Relevantes ",
-   "categoria": "Comunicado ao Mercado",
-   "pregao": "",
-   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1314891&cvm=true",
-   "_id": 1314891,
-   "texto": "Rio de Janeiro, 08 de setembro de 2026. Prezados Senhores, A BTG Pactual Serviços Financeiros S.A. DTVM , instituição financeira com sede na Cidade e Estado do Rio de Janeiro, localizada à Praia de Botafogo, nº 501, 5º Andar (Parte), Torre Corcovado, Botafogo, e inscrita no CNPJ/MF sob o número 59.281.253/0001- 23, devidamente credenciada na CVM como administradora de carteira, de acordo com o Ato Declaratório CVM n.º 8695, de 20 de março de 2006 (“ Administradora”), na qualidade de administradora da CLASSE ÚNICA DO VK MASTER FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA , inscrito no CNPJ sob o número 54.955.983/0001-49 (“Classe”), serve-se da presente para informar aos senhores cotistas do cancelamento da assembleia convocada em 03 de agosto de 2026 e programada para ocorrer no dia 02 de setembro de 2026, considerando que até o presente momento não foi identificado qualquer pronunciamento dos cotistas da Classe. Assim, ficam suspendidas as deliberações abaixo: 1. Aprovar das Demonstrações Financeiras Auditadas relativa ao exercício social encerrado em 30 de abril de 2026. Colocamo-nos à disposição para prestar quaisquer esclarecimentos que se façam necessários. Atenciosamente, BTG PACTUAL SERVIÇOS FINANCEIROS S.A. DTVM - Administradora - BTG Pactual Praia de Botafogo, 501 - 6º Andar | Torre Corcovado - Botafogo | 22250-040 | Rio de Janeiro - RJ - Brasil SAC: 0800 772 2827 | Ouvidoria: 0800 722 0048 | btgpactual.com",
-   "visto_em": "2026-09-11"
-  },
-  {
-   "empresa": "VINLAND CRÉDITO ESTRUTURADO MASTER FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESP LIMITADA",
-   "cnpj": "",
-   "data": "2026-09-10",
-   "assunto": "Outros Comunicados Não Considerados Fatos Relevantes ",
-   "categoria": "Comunicado ao Mercado",
-   "pregao": "",
-   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1314884&cvm=true",
-   "_id": 1314884,
-   "texto": "Rio de Janeiro, 08 de setembro de 2026. Prezados Senhores, A BTG Pactual Serviços Financeiros S.A. DTVM , instituição financeira com sede na Cidade e Estado do Rio de Janeiro, localizada à Praia de Botafogo, nº 501, 5º Andar (Parte), Torre Corcovado, Botafogo, e inscrita no CNPJ/MF sob o número 59.281.253/0001- 23, devidamente credenciada na CVM como administradora de carteira, de acordo com o Ato Declaratório CVM n.º 8695, de 20 de março de 2006 (“ Administradora”), na qualidade de administradora da CLASSE ÚNICA DO VINLAND CREDITO ESTRUTURADO MASTER FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RESP LIMITADA , inscrito no CNPJ sob o número 61.987.722/0001-76 (“Classe”), serve-se da presente para informar aos senhores cotistas do cancelamento da assembleia convocada em 03 de agosto de 2026 e programada para ocorrer no dia 02 de setembro de 2026, considerando que até o presente momento não foi identificado qualquer pronunciamento dos cotistas da Classe. Assim, ficam suspendidas as deliberações abaixo: 1. Aprovar das Demonstrações Financeiras Auditadas relativa ao exercício social encerrado em 30 de abril de 2026. Colocamo-nos à disposição para prestar quaisquer esclarecimentos que se façam necessários. Atenciosamente, BTG PACTUAL SERVIÇOS FINANCEIROS S.A. DTVM - Administradora - BTG Pactual Praia de Botafogo, 501 - 6º Andar | Torre Corcovado - Botafogo | 22250-040 | Rio de Janeiro - RJ - Brasil SAC: 0800 772 2827 | Ouvidoria: 0800 722 0048 | btgpactual.com",
-   "visto_em": "2026-09-11"
-  },
-  {
-   "empresa": "SPECIALE FI EM COTAS DE FUNDOS DE INVESTIMENTOS EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
-   "cnpj": "",
-   "data": "2026-09-10",
-   "assunto": "Outros Comunicados Não Considerados Fatos Relevantes ",
-   "categoria": "Comunicado ao Mercado",
-   "pregao": "",
-   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1314874&cvm=true",
-   "_id": 1314874,
-   "texto": "Rio de Janeiro, 08 de setembro de 2026. Prezados Senhores, A BTG Pactual Serviços Financeiros S.A. DTVM , instituição financeira com sede na Cidade e Estado do Rio de Janeiro, localizada à Praia de Botafogo, nº 501, 5º Andar (Parte), Torre Corcovado, Botafogo, e inscrita no CNPJ/MF sob o número 59.281.253/0001- 23, devidamente credenciada na CVM como administradora de carteira, de acordo com o Ato Declaratório CVM n.º 8695, de 20 de março de 2006 (“ Administradora”), na qualidade de administradora da CLASSE ÚNICA DO SPECIALE FI EM COTAS DE FUNDOS DE INVESTIMENTOS EM DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA , inscrito no CNPJ sob o número 55.682.228/0001-09 (“Classe”), serve-se da presente para informar aos senhores cotistas do cancelamento da assembleia convocada em 03 de agosto de 2026 e programada para ocorrer no dia 02 de setembro de 2026, considerando que até o presente momento não foi identificado qualquer pronunciamento dos cotistas da Classe. Assim, ficam suspendidas as deliberações abaixo: 1. Aprovar das Demonstrações Financeiras Auditadas relativa ao exercício social encerrado em 30 de abril de 2026. Colocamo-nos à disposição para prestar quaisquer esclarecimentos que se façam necessários. Atenciosamente, BTG PACTUAL SERVIÇOS FINANCEIROS S.A. DTVM - Administradora - BTG Pactual Praia de Botafogo, 501 - 6º Andar | Torre Corcovado - Botafogo | 22250-040 | Rio de Janeiro - RJ - Brasil SAC: 0800 772 2827 | Ouvidoria: 0800 722 0048 | btgpactual.com",
-   "visto_em": "2026-09-11"
-  },
-  {
-   "empresa": "SPECIALE BRAVE FI EM COTAS DE FUNDOS DE INVESTIMENTO EM  DIREITOS CREDITÓRIOS RESP LIMITADA",
-   "cnpj": "",
-   "data": "2026-09-10",
-   "assunto": "Outros Comunicados Não Considerados Fatos Relevantes ",
-   "categoria": "Comunicado ao Mercado",
-   "pregao": "",
-   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1314872&cvm=true",
-   "_id": 1314872,
-   "texto": "Rio de Janeiro, 08 de setembro de 2026. Prezados Senhores, A BTG Pactual Serviços Financeiros S.A. DTVM , instituição financeira com sede na Cidade e Estado do Rio de Janeiro, localizada à Praia de Botafogo, nº 501, 5º Andar (Parte), Torre Corcovado, Botafogo, e inscrita no CNPJ/MF sob o número 59.281.253/0001- 23, devidamente credenciada na CVM como administradora de carteira, de acordo com o Ato Declaratório CVM n.º 8695, de 20 de março de 2006 (“ Administradora”), na qualidade de administradora da CLASSE ÚNICA DO SPECIALE BRAVE FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO MULTIMERCADO CREDITO PRIVADO, inscrito no CNPJ sob o número 36.013.900/0001-10 (“Classe”), serve-se da presente para informar aos senhores cotistas do cancelamento da assembleia convocada em 03 de agosto de 2026 e programada para ocorrer no dia 02 de setembro de 2026, considerando que até o presente momento não foi identificado qualquer pronunciamento dos cotistas da Classe. Assim, ficam suspendidas as deliberações abaixo: 1. Aprovar das Demonstrações Financeiras Auditadas relativa ao exercício social encerrado em 30 de abril de 2026. Colocamo-nos à disposição para prestar quaisquer esclarecimentos que se façam necessários. Atenciosamente, BTG PACTUAL SERVIÇOS FINANCEIROS S.A. DTVM - Administradora - BTG Pactual Praia de Botafogo, 501 - 6º Andar | Torre Corcovado - Botafogo | 22250-040 | Rio de Janeiro - RJ - Brasil SAC: 0800 772 2827 | Ouvidoria: 0800 722 0048 | btgpactual.com",
-   "visto_em": "2026-09-11"
-  },
-  {
-   "empresa": "SPECIALE BRAVE HIGH YIELD FI EM COTAS DE FUNDOS DE INVESTIMENTOS EM DIREITOS CRED RESPON LIMITADA",
-   "cnpj": "",
-   "data": "2026-09-10",
-   "assunto": "Outros Comunicados Não Considerados Fatos Relevantes ",
-   "categoria": "Comunicado ao Mercado",
-   "pregao": "",
-   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1314869&cvm=true",
-   "_id": 1314869,
-   "texto": "",
-   "visto_em": "2026-09-11"
-  },
-  {
-   "empresa": "SORACHI FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-   "cnpj": "",
-   "data": "2026-09-10",
-   "assunto": "Outros Comunicados Não Considerados Fatos Relevantes ",
-   "categoria": "Comunicado ao Mercado",
-   "pregao": "",
-   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1314858&cvm=true",
-   "_id": 1314858,
-   "texto": "",
-   "visto_em": "2026-09-11"
-  },
-  {
-   "empresa": "SIGNAL SPECIAL OPPORTUNITIES FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-   "cnpj": "",
-   "data": "2026-09-10",
-   "assunto": "Outros Comunicados Não Considerados Fatos Relevantes ",
-   "categoria": "Comunicado ao Mercado",
-   "pregao": "",
-   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1314854&cvm=true",
-   "_id": 1314854,
-   "texto": "Rio de Janeiro, 08 de setembro de 2026. Prezados Senhores, A BTG Pactual Serviços Financeiros S.A. DTVM , instituição financeira com sede na Cidade e Estado do Rio de Janeiro, localizada à Praia de Botafogo, nº 501, 5º Andar (Parte), Torre Corcovado, Botafogo, e inscrita no CNPJ/MF sob o número 59.281.253/0001- 23, devidamente credenciada na CVM como administradora de carteira, de acordo com o Ato Declaratório CVM n.º 8695, de 20 de março de 2006 (“ Administradora”), na qualidade de administradora da CLASSE ÚNICA DO SIGNAL SPECIAL OPPORTUNITIES FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS , inscrito no CNPJ sob o número 50.355.218/0001-37 (“Classe”), serve-se da presente para informar aos senhores cotistas do cancelamento da assembleia convocada em 03 de agosto de 2026 e programada para ocorrer no dia 02 de setembro de 2026, considerando que até o presente momento não foi identificado qualquer pronunciamento dos cotistas da Classe. Assim, ficam suspendidas as deliberações abaixo: 1. Aprovar das Demonstrações Financeiras Auditadas relativa ao exercício social encerrado em 30 de abril de 2026. Colocamo-nos à disposição para prestar quaisquer esclarecimentos que se façam necessários. Atenciosamente, BTG PACTUAL SERVIÇOS FINANCEIROS S.A. DTVM - Administradora - BTG Pactual Praia de Botafogo, 501 - 6º Andar | Torre Corcovado - Botafogo | 22250-040 | Rio de Janeiro - RJ - Brasil SAC: 0800 772 2827 | Ouvidoria: 0800 722 0048 | btgpactual.com",
-   "visto_em": "2026-09-11"
-  },
-  {
-   "empresa": "PORTFOLIO 22 FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-   "cnpj": "",
-   "data": "2026-09-10",
-   "assunto": "Outros Comunicados Não Considerados Fatos Relevantes ",
-   "categoria": "Comunicado ao Mercado",
-   "pregao": "",
-   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1314850&cvm=true",
-   "_id": 1314850,
-   "texto": "",
-   "visto_em": "2026-09-11"
-  },
-  {
-   "empresa": "VHE FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO FINANCEIRO",
-   "cnpj": "",
-   "data": "2026-09-10",
-   "assunto": "Outros Comunicados Não Considerados Fatos Relevantes ",
-   "categoria": "Comunicado ao Mercado",
-   "pregao": "",
-   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1314849&cvm=true",
-   "_id": 1314849,
-   "texto": "VHE FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO FINANCEIRO CNPJ nº 13.963.456/0001-07 COMUNICADO AOS COTISTAS A FINAXIS CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A., instituição financeira devidamente autorizada pela CVM para o exercício profissional de administração de carteiras de valores mobiliários, na categoria de administrador fiduciário, nos termos do Ato Declaratório CVM nº 6.547, de 18 de outubro de 2001, co m sede na cidade de São Paulo, Estado de São Paulo, na Avenida Paulista, nº 1.842, Torre Norte, térreo, Loja 08, Bela Vista, CEP 01310 -923, inscrita no CNPJ sob o nº 03.317.692/0001 -94, na qualidade de instituição administradora (\"Administradora\") do VHE FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO FINANCEIRO , inscrito no CNPJ/MF sob o nº 13.963.456/0001-07 (“Fundo”), vem comunicar aos cotistas que as cotas da Subclasse Subordinada do Fundo apresentaram uma alta de 14,38% em sua rentabilidade diária, observando a carteira do dia 31 de agosto de 2026, em comparação com a carteira do dia 30 de agosto de 2026, decorrente do reconhecimento contábil do imóvel recebido em dação em pagamento da liquidação da CCB vinculada a devedora MMZ ADMINISTRACAO PATRIMONIAL E PARTICIPACOES LTDA. Adicionalmente, informamos que a Administradora se encontra à disposição para prestar os esclarecimentos adicionais. São Paulo, 10 de setembro de 2026. FINAXIS CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-   "visto_em": "2026-09-11"
-  },
-  {
-   "empresa": "VGR IMOBILIÁRIO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
-   "cnpj": "",
-   "data": "2026-09-10",
-   "assunto": "",
-   "categoria": "Fato Relevante",
-   "pregao": "",
-   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1314843&cvm=true",
-   "_id": 1314843,
-   "texto": "Av. Água Verde, 1413 - Sala 801 | Curitiba - CEP: 80620-200 | Tel. +55 (41) 3122 - 7300 I e -mail: atendimento@hemeradtvm.com.br I Ouvidoria: Tel. 0800 326 0953 / ouvidoria@hemeradtvm.com.br h e m e r a d t v m . c o m . b r FATO RELEVANTE A HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA . (“ADMINISTRADORA”), com sede na cidade Curitiba, e Estado do Paraná, na Av. Água Verde, nº 1413, Loja 801, 8º andar, Cond. Podolan, Água Verde, CEP 80620200, inscrita no CNPJ/MF sob o nº 39.669.186/0001-01, devidamente habilitada pela CVM para prestar os serviços de administrador de carteira de valores mobiliários, por meio do Ato Declaratório nº 19.131, de 1º de outubro de 2021 neste ato, representada na forma do seu Contrato Social , na qualidade de Administradora do VGR IMOBILIÁRIO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA, inscrito no CNPJ /MF sob nº 61.621.939/0001-68 (“Fundo”), vem, em atendimento ao disposto no art. 64, da Resolução CVM 175/2022, conforme alterada, divulgar Fato Relevante aos cotistas do Fundo e ao mercado em geral, para informar o seguinte: Conforme Ato do Administrador do Fundo , datado de 10 de setembro de 2026, foi realizada a 1ª Emissão de Cotas Subordinadas Mezanino A da classe única do Fundo (“Cotas Subordinadas Mezanino A”), nos termos do seu Regulamento e de acordo com as características constantes no respectivo suplemento de emissão, na forma de Anexo I do referido Ato do Administrador do Fundo. Sem mais para o momento, colocamo-nos à disposição para quaisquer esclarecimentos adicionais. Curitiba, 10 de setembro de 2026. HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-   "visto_em": "2026-09-11"
-  },
-  {
-   "empresa": "PB FRV MIP FIC DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
-   "cnpj": "",
-   "data": "2026-09-10",
-   "assunto": "Outros Comunicados Não Considerados Fatos Relevantes ",
-   "categoria": "Comunicado ao Mercado",
-   "pregao": "",
-   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1314824&cvm=true",
-   "_id": 1314824,
-   "texto": "Rio de Janeiro, 08 de setembro de 2026. Prezados Senhores, A BTG Pactual Serviços Financeiros S.A. DTVM , instituição financeira com sede na Cidade e Estado do Rio de Janeiro, localizada à Praia de Botafogo, nº 501, 5º Andar (Parte), Torre Corcovado, Botafogo, e inscrita no CNPJ/MF sob o número 59.281.253/0001- 23, devidamente credenciada na CVM como administradora de carteira, de acordo com o Ato Declaratório CVM n.º 8695, de 20 de março de 2006 (“ Administradora”), na qualidade de administradora da CLASSE ÚNICA DO PB FRV MIP FUNDO DE INVESTIMENTO MULTIMERCADO CREDITO PRIVADO INVESTIMENTO NO EXTERIOR, inscrito no CNPJ sob o número 24.290.451/0001-79 (“Classe”), serve-se da presente para informar aos senhores cotistas do cancelamento da assembleia convocada em 03 de agosto de 2026 e programada para ocorrer no dia 02 de setembro de 2026, considerando que até o presente momento não foi identificado qualquer pronunciamento dos cotistas da Classe. Assim, ficam suspendidas as deliberações abaixo: 1. Aprovar das Demonstrações Financeiras Auditadas relativa ao exercício social encerrado em 30 de abril de 2026. Colocamo-nos à disposição para prestar quaisquer esclarecimentos que se façam necessários. Atenciosamente, BTG PACTUAL SERVIÇOS FINANCEIROS S.A. DTVM - Administradora - BTG Pactual Praia de Botafogo, 501 - 6º Andar | Torre Corcovado - Botafogo | 22250-040 | Rio de Janeiro - RJ - Brasil SAC: 0800 772 2827 | Ouvidoria: 0800 722 0048 | btgpactual.com",
-   "visto_em": "2026-09-11"
-  },
-  {
-   "empresa": "IRON FUND II TWC FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-   "cnpj": "",
-   "data": "2026-09-10",
-   "assunto": "Outros Comunicados Não Considerados Fatos Relevantes ",
-   "categoria": "Comunicado ao Mercado",
-   "pregao": "",
-   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1314811&cvm=true",
-   "_id": 1314811,
-   "texto": "Rio de Janeiro, 08 de setembro de 2026. Prezado Cotista, A BTG Pactual Serviços Financeiros S.A. DTVM, instituição financeira, com sede na Cidade e Estado do Rio de Janeiro, localizada à Praia de Botafogo, 501, 5º Andar (Parte), Torre Corcovado, Botafogo, CEP 22250-040, e inscrita no CNPJ/MF sob o número 59.281.253/0001-23, devidamente credenciada na CVM como administradora de carteira, de acordo com o Ato Declaratório CVM n.º 8.695, de 20 de março de 2006 (“Administradora”), serve-se da presente, na qualidade de administradora do IRON FUND 2 TWC FUNDO DE INVESTIMENTO RENDA FIXA CREDITO PRIVADO (“Fundo”), inscrito no CNPJ sob o nº 13.401.155/0001-81, para comunicar que na assembleia geral de cotistas realizada em 02 de setembro de 2026 foram aprovadas as contas anuais do Fundo referente ao exercício encerrado em 30 de abril de 2026. Colocamo-nos à disposição para prestar quaisquer esclarecimentos que se façam necessários. Atenciosamente, BTG PACTUAL SERVIÇOS FINANCEIROS S.A. DTVM - Administradora -",
-   "visto_em": "2026-09-11"
-  },
-  {
-   "empresa": "HANA FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-   "cnpj": "",
-   "data": "2026-09-10",
-   "assunto": "Outros Comunicados Não Considerados Fatos Relevantes ",
-   "categoria": "Comunicado ao Mercado",
-   "pregao": "",
-   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1314802&cvm=true",
-   "_id": 1314802,
-   "texto": "Rio de Janeiro, 08 de setembro de 2026. Prezados Senhores, A BTG Pactual Serviços Financeiros S.A. DTVM , instituição financeira com sede na Cidade e Estado do Rio de Janeiro, localizada à Praia de Botafogo, nº 501, 5º Andar (Parte), Torre Corcovado, Botafogo, e inscrita no CNPJ/MF sob o número 59.281.253/0001- 23, devidamente credenciada na CVM como administradora de carteira, de acordo com o Ato Declaratório CVM n.º 8695, de 20 de março de 2006 (“ Administradora”), na qualidade de administradora da CLASSE ÚNICA DO HANA FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITORIOS , inscrito no CNPJ sob o número 58.019.438/0001-00 (“Classe”), serve-se da presente para informar aos senhores cotistas do cancelamento da assembleia convocada em 03 de agosto de 2026 e programada para ocorrer no dia 02 de setembro de 2026, considerando que até o presente momento não foi identificado qualquer pronunciamento dos cotistas da Classe. Assim, ficam suspendidas as deliberações abaixo: 1. Aprovar das Demonstrações Financeiras Auditadas relativa ao exercício social encerrado em 30 de abril de 2026. Colocamo-nos à disposição para prestar quaisquer esclarecimentos que se façam necessários. Atenciosamente, BTG PACTUAL SERVIÇOS FINANCEIROS S.A. DTVM - Administradora - BTG Pactual Praia de Botafogo, 501 - 6º Andar | Torre Corcovado - Botafogo | 22250-040 | Rio de Janeiro - RJ - Brasil SAC: 0800 772 2827 | Ouvidoria: 0800 722 0048 | btgpactual.com",
-   "visto_em": "2026-09-11"
-  },
-  {
-   "empresa": "G5 FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS S.O",
-   "cnpj": "",
-   "data": "2026-09-10",
-   "assunto": "Outros Comunicados Não Considerados Fatos Relevantes ",
-   "categoria": "Comunicado ao Mercado",
-   "pregao": "",
-   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1314795&cvm=true",
-   "_id": 1314795,
-   "texto": "Rio de Janeiro, 08 de setembro de 2026. Prezado Cotista, A BTG Pactual Serviços Financeiros S.A. DTVM, instituição financeira, com sede na Cidade e Estado do Rio de Janeiro, localizada à Praia de Botafogo, 501, 5º Andar (Parte), Torre Corcovado, Botafogo, CEP 22250-040, e inscrita no CNPJ/MF sob o número 59.281.253/0001-23, devidamente credenciada na CVM como administradora de carteira, de acordo com o Ato Declaratório CVM n.º 8.695, de 20 de março de 2006 (“Administradora”), serve-se da presente, na qualidade de administradora do G5 FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS S.O (“Fundo”), inscrito no CNPJ sob o nº 61.373.414/0001-50, para comunicar que na assembleia geral de cotistas realizada em 02 de setembro de 2026 foram aprovadas as contas anuais do Fundo referente ao exercício encerrado em 30 de abril de 2026. Colocamo-nos à disposição para prestar quaisquer esclarecimentos que se façam necessários. Atenciosamente, BTG PACTUAL SERVIÇOS FINANCEIROS S.A. DTVM - Administradora -",
-   "visto_em": "2026-09-11"
-  },
-  {
-   "empresa": "VINLAND CRÉDITO ESTRUTURADO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
-   "cnpj": "",
-   "data": "2026-09-10",
-   "assunto": "Outros Comunicados Não Considerados Fatos Relevantes ",
-   "categoria": "Comunicado ao Mercado",
-   "pregao": "",
-   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1314789&cvm=true",
-   "_id": 1314789,
-   "texto": "",
-   "visto_em": "2026-09-11"
-  },
-  {
-   "empresa": "BUCKS FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-   "cnpj": "",
-   "data": "2026-09-10",
-   "assunto": "Outros Comunicados Não Considerados Fatos Relevantes ",
-   "categoria": "Comunicado ao Mercado",
-   "pregao": "",
-   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1314778&cvm=true",
-   "_id": 1314778,
-   "texto": "",
-   "visto_em": "2026-09-11"
-  },
-  {
-   "empresa": "ARTESANAL CDI+ FI EM COTAS DE FI EM DIREITOS CREDITÓRIOS I - RESPONSABILIDADE LIMITADA",
-   "cnpj": "",
-   "data": "2026-09-10",
-   "assunto": "Outros Comunicados Não Considerados Fatos Relevantes ",
-   "categoria": "Comunicado ao Mercado",
-   "pregao": "",
-   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1314774&cvm=true",
-   "_id": 1314774,
-   "texto": "",
-   "visto_em": "2026-09-11"
   }
  ]
 }
