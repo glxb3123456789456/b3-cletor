@@ -3,20 +3,299 @@
  "itens": 100,
  "dados": [
   {
-   "fonte": "Money Times",
-   "titulo": "Trump alerta para falha na atuação do governo brasileiro contra o PCC e CV",
-   "url": "https://www.moneytimes.com.br/trump-faz-alerta-sobre-falha-na-atuacao-do-governo-do-brasil-contra-pcc-e-cv-apsa/",
-   "publicado": "2026-09-16T18:20:18+00:00",
+   "fonte": "Brazil Journal",
+   "titulo": "OPINIÃO. Advogados na era da AI: obsoletos ou mais poderosos?",
+   "url": "https://braziljournal.com/opiniao-advogados-na-era-da-ai-obsoletos-ou-mais-poderosos/",
+   "publicado": "2026-09-16T23:30:53+00:00",
    "tickers": [],
-   "resumo": "O governo dos Estados Unidos, sob comando de Donald Trump, afirmou que o Brasil tem falhado no enfrentamento ao Primeiro Comando da Capital (PCC) e ao Comando Vermelho (CV), classificados por Washington como organizações terroristas estrangeiras, e cobrou medidas mais agressivas "
+   "resumo": "Na trilogia De Volta para o Futuro, os protagonistas viajam para o futuro – 2015 – e, ao chegarem, Marty McFly fica surpreso com a rapidez da condenação de seu filho, apenas poucas horas após o incidente no qual se envolvera. A explicação: o sistema de justiça havia se tornado ma"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "“O desconto não está nas ações, está nos juros,” diz a Kinea",
+   "url": "https://braziljournal.com/o-desconto-nao-esta-nas-acoes-esta-nos-juros-diz-a-kinea/",
+   "publicado": "2026-09-16T23:12:22+00:00",
+   "tickers": [],
+   "resumo": "A Bolsa brasileira parece barata em quase toda métrica conhecida – mas está assim há tanto tempo que a constatação perdeu o sentido, diz a Kinea. Num novo relatório, a gestora lembra que o prêmio de risco do mercado local – o retorno adicional das ações em cima dos títulos públic"
   },
   {
    "fonte": "Money Times",
-   "titulo": "Anbima: ofertas somam R$ 48,8 bi em agosto, queda de 16% ante mesmo mês em 2025",
-   "url": "https://www.moneytimes.com.br/anbima-ofertas-somam-r-488-bi-em-agosto-queda-de-16-ante-mesmo-mes-em-2025/",
-   "publicado": "2026-09-16T18:17:09+00:00",
+   "titulo": "Selic a 13,75%: Como o Ibovespa, os juros futuros e o dólar devem reagir ao Copom",
+   "url": "https://www.moneytimes.com.br/selic-a-1375-como-o-ibovespa-os-juros-futuros-e-o-dolar-devem-reagir-ao-copom-lils/",
+   "publicado": "2026-09-16T23:09:27+00:00",
    "tickers": [],
-   "resumo": "O mercado de capitais movimentou R$ 48,8 bilhões em ofertas encerradas em agosto, queda de 16% em relação aos R$ 58 bilhões do mesmo mês de 2025, segundo dados divulgados pela Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais (Anbima). No acumulado do ano,"
+   "resumo": "Com a decisão do Comitê de Política Monetária (Copom) de reduzir a Selic em 0,25 ponto percentual, de 14% para 13,74% ao ano, já assimilada pelos mercados, os investidores tentam antecipar como o Ibovespa deve se comportar no pregão desta quinta-feira (17). Lá fora, o índice EWZ "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Bradesco (BBDC4) abre etapa de sobras em aumento de capital; veja quanto acionistas poderão subscrever",
+   "url": "https://www.moneytimes.com.br/bradesco-bbdc4-abre-etapa-de-sobras-em-aumento-de-capital-veja-quanto-acionistas-poderao-subscrever/",
+   "publicado": "2026-09-16T23:06:55+00:00",
+   "tickers": [
+    "BBDC3",
+    "BBDC4"
+   ],
+   "resumo": "O Bradesco (BBDC3; BBDC4) encerrou a primeira etapa de seu aumento de capital com a subscrição de 402,47 milhões de novas ações, de um total de 604,85 milhões de papéis que poderiam ser emitidos. Com isso, 202,38 milhões de ações ficaram disponíveis para a etapa de sobras. A oper"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Copom deixa porta aberta para um novo corte na Selic em novembro, diz economista-chefe do Bmg",
+   "url": "https://www.moneytimes.com.br/copom-deixa-porta-aberta-para-um-novo-corte-na-selic-em-novembro-diz-economista-chefe-do-bmg/",
+   "publicado": "2026-09-16T22:55:39+00:00",
+   "tickers": [],
+   "resumo": "Como esperado pelo mercado, o Comitê de Política Monetária (Copom) reduziu a taxa básica de juros de 14% para 13,75% ao ano e, na avaliação do economista-chefe do Banco Bmg, Flávio Serrano, o colegiado repertiu a estratégia de manter o comunicado mais enxuto. &#8220;Tivemos a mes"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Selic a 13,75% é o fim da linha? Decisão do Copom deixa próximo corte em aberto",
+   "url": "https://www.moneytimes.com.br/selic-a-1375-e-o-fim-da-linha-decisao-do-copom-deixa-proximo-corte-em-aberto-jcav/",
+   "publicado": "2026-09-16T22:44:58+00:00",
+   "tickers": [],
+   "resumo": "O Comitê de Política Monetária (Copom) reduziu a Selic em 0,25 ponto percentual, de 14% para 13,75% ao ano, nesta quarta-feira (16), em decisão unânime e amplamente esperada pelo mercado. Se o corte não trouxe surpresa, a comunicação do Banco Central deixou uma pergunta no ar: o "
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Como consultar zona eleitoral e seção de votação nas eleições 2026",
+   "url": "https://investnews.com.br/economia/como-consultar-zona-eleitoral-e-secao/",
+   "publicado": "2026-09-16T22:38:00+00:00",
+   "tickers": [],
+   "resumo": "Veja como descobrir o local de votação, checar a situação do título e se organizar para o primeiro turno"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Taesa (TAEE11) elege executiva que já foi uma das mulheres mais poderosas do mundo para presidência do conselho",
+   "url": "https://www.moneytimes.com.br/taesa-taee11-elege-executiva-que-ja-foi-uma-das-mulheres-mais-poderosas-do-mundo-para-presidencia-do-conselho/",
+   "publicado": "2026-09-16T22:37:50+00:00",
+   "tickers": [
+    "PETR4",
+    "TAEE11"
+   ],
+   "resumo": "A Taesa (TAEE11) contará com Andrea Marques de Almeida como nova presidente do conselho de administração, mostra documento enviado ao mercado nesta quarta-feira (16). Não é qualquer nome. Pouco tempo após se tornar CFO da Petrobras (PETR4), a executiva se surpreendeu ao entrar pa"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Copom corta Selic para 13,75%, mas evita prometer novas quedas",
+   "url": "https://www.suno.com.br/noticias/copom-corta-selic-1375-proximos-passos/",
+   "publicado": "2026-09-16T22:27:00+00:00",
+   "tickers": [],
+   "resumo": "Copom corta Selic para 13,75%, mas evita prometer novas quedasO Copom (Comitê de Política Monetária) reduziu a taxa Selic em 0,25 ponto percentual nesta quarta-feira (16), de 14% para 13,75% ao ano. A decisão foi unânime e marcou o quinto corte consecutivo de mesma magnitude, mas"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "IFIX fecha quarta-feira em ligeira queda de 0,06%, aos 3.742,57 pontos",
+   "url": "https://www.suno.com.br/noticias/ifix-fecha-quarta-feira-em-ligeira-queda-de-006-aos-3-74257-pontos/",
+   "publicado": "2026-09-16T22:25:09+00:00",
+   "tickers": [],
+   "resumo": "O IFIX encerrou o pregão desta quarta-feira (16) aos 3.742,57 pontos, em baixa de 0,06%. O recuo corresponde a 2,32 pontos frente ao fechamento anterior, de 3.744,89 pontos, e confirmou a leve queda do índice no dia. Ao longo da sessão, o índice de fundos imobiliários oscilou ent"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Ibovespa vai disparar? EWZ salta 1% após Copom confirmar corte da Selic",
+   "url": "https://www.moneytimes.com.br/ewz-tem-leve-alta-apos-copom-confirmar-corte-da-selic-lils/",
+   "publicado": "2026-09-16T22:03:03+00:00",
+   "tickers": [],
+   "resumo": "O iShares MSCI Brazil (EWZ), que é um fundo de índice (ETF, na sigla em inglês) negociado na Bolsa de Nova York (NYSE) que replica o desempenho do mercado acionário brasileiro &#8212; e que também opera influenciado por fatores externos &#8211;, subia 1,39%, a US$ 38, por volta d"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Casas Bahia (BHIA3) leva enquadra da B3 para ações; varejista também esclarece notícia sobre ‘fundo inflado’",
+   "url": "https://www.moneytimes.com.br/casas-bahia-bhia3-leva-enquadra-da-b3-para-acoes-varejista-tambem-esclarece-noticia-sobre-fundo-inflado/",
+   "publicado": "2026-09-16T22:02:33+00:00",
+   "tickers": [
+    "BHIA3"
+   ],
+   "resumo": "A B3 enquadrou a Casas Bahia (BHIA3) para que divulgue um cronograma para o reenquadramento da cotação das ações, cuja regularização deverá ocorrer até 01 de março de 2027. Desde 21 de julho, as ações da varejista operam abaixo de R$ 1. Norma da bolsa proíbe que os papéis, as cha"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Selic em 13,75%: Quanto rendem R$ 10 mil na poupança, CDB, LCA, LCI e Tesouro?",
+   "url": "https://www.moneytimes.com.br/selic-em-1375-quanto-rendem-r-10-mil-na-poupanca-cdb-lca-lci-e-tesouro-jcav/",
+   "publicado": "2026-09-16T21:56:45+00:00",
+   "tickers": [],
+   "resumo": "O Comitê de Política Monetária (Copom) anunciou, nesta quarta-feira (16), mais um corte de 0,25 ponto percentual na taxa básica de juros. Os diretores do Banco Central optaram mais uma vez por ajustar a taxas Selic, ficando agora em 13,75% ao ano. A pedido do Money Times, Jeff Pa"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Ibovespa cai 0,51% com Petrobras (PETR4) e Fed mais duro; eleição limita perdas",
+   "url": "https://www.suno.com.br/noticias/ibovespa-hoje-16-setembro-petrobras-fed-juros/",
+   "publicado": "2026-09-16T21:51:22+00:00",
+   "tickers": [
+    "PETR4",
+    "VALE3"
+   ],
+   "resumo": "Ibovespa cai 0,51% com Petrobras (PETR4) e Fed mais duro; eleição limita perdasO Ibovespa fechou esta quarta-feira (16) em queda de 0,51%, aos 185.547,66 pontos, pressionado principalmente pela Petrobras (PETR4), Vale (VALE3) e pela piora de Wall Street após a decisão de juros no"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Selic a 13,75%: 4 pontos para entender por que o Copom reduziu os juros em 0,25 p.p.",
+   "url": "https://www.moneytimes.com.br/selic-4-pontos-copom-setembro-26-lils/",
+   "publicado": "2026-09-16T21:49:35+00:00",
+   "tickers": [],
+   "resumo": "O Comitê de Política Monetária (Copom) cortou a taxa Selic em 0,25 ponto percentual, de 14% para 13,75% ao ano, nesta quarta-feira (16). Esta foi a quinta redução dos juros seguida e, mais uma vez, a decisão foi unânime. O corte também veio em linha com o esperado pelo mercado. N"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Lula sanciona lei que institui política nacional de minerais críticos sem vetos",
+   "url": "https://www.moneytimes.com.br/lula-sanciona-lei-que-institui-politica-nacional-de-minerais-criticos-sem-vetos/",
+   "publicado": "2026-09-16T21:38:23+00:00",
+   "tickers": [],
+   "resumo": "O presidente da República, Luiz Inácio Lula da Silva (PT), sancionou nesta quarta-feira, 16, a lei que institui a política nacional de minerais críticos, estratégicos e terras raras. A aprovação da proposta no Congresso neste mês foi fruto de um acordo do petista com o presidente"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Copom corta juros pela quinta vez seguida, para 13,75% ao ano – na última reunião antes das eleições",
+   "url": "https://investnews.com.br/financas/banco-central-corta-juros-1375-copom/",
+   "publicado": "2026-09-16T21:37:37+00:00",
+   "tickers": [],
+   "resumo": "Diretores do Banco Central dizem enxergar uma desaceleração econômica, mas que ainda há riscos para a inflação"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Veja como investir após corte da Selic para 13,75%",
+   "url": "https://valorinveste.globo.com/objetivo/hora-de-investir/noticia/2026/09/16/veja-como-investir-apos-corte-da-selic-para-1375percent.ghtml",
+   "publicado": "2026-09-16T21:34:27+00:00",
+   "tickers": [],
+   "resumo": "Apesar de o Banco Central cortar os juros pela quinta vez seguida e de uma parte do mercado aguardar baixas novas, após o desempenho de indicadores de atividade econômica e inflação, a recomendação dos especialistas é continuar conservador nas aplicações financeiras. Os papéis qu"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Quanto rende R$ 1 mil em poupança, Tesouro Direto e CDB após corte da Selic para 13,75%",
+   "url": "https://valorinveste.globo.com/produtos/renda-fixa/noticia/2026/09/16/quanto-rende-r-1-mil-em-poupanca-tesouro-direto-e-cdb-apos-corte-da-selic-para-1375percent.ghtml",
+   "publicado": "2026-09-16T21:34:22+00:00",
+   "tickers": [],
+   "resumo": "Nesta quarta-feira (16), o Comitê de Política Monetária (Copom) do Banco Central cortou os juros de referência, a taxa Selic, em 0,25 ponto percentual, de 14% para 13,75% ao ano. É a quinta redução consecutiva, do mesmo tamanho, e a decisão impacta de maneira prática a vida dos b"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Copom corta Selic em 0,25 ponto, a 13,75% ao ano",
+   "url": "https://valorinveste.globo.com/mercados/moedas-e-juros/noticia/2026/09/16/copom-corta-selic-em-025-ponto-a-1375percent-ao-ano.ghtml",
+   "publicado": "2026-09-16T21:32:17+00:00",
+   "tickers": [],
+   "resumo": "O Comitê de Política Monetária (Copom) do Banco Central reduziu a taxa básica de juros, a Selic, em 0,25 ponto percentual nesta quarta-feira (16), para 13,75% ao ano, em um momento de perda de força da atividade econômica e de melhora recente da inflação.\n\nA decisão acontece em m"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "CVM finaliza proposta de piloto para testar tokenização no mercado de capitais",
+   "url": "https://valorinveste.globo.com/objetivo/hora-de-investir/noticia/2026/09/16/cvm-finaliza-proposta-de-piloto-para-testar-tokenizao-no-mercado-de-capitais.ghtml",
+   "publicado": "2026-09-16T21:25:38+00:00",
+   "tickers": [],
+   "resumo": "A Comissão de Valores Mobiliários (CVM) prepara um ambiente experimental para testar a emissão e a negociação de ações, debêntures, certificados de recebíveis e cotas de fundos por meio de redes de tecnologia de registro distribuído (DLT), usada na tokenização de ativos. \n\nA inic"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Presidente do Fed explica por que o juro voltou a subir e mercado passa a prever nova alta neste ano",
+   "url": "https://investnews.com.br/investimentos/presidente-fed-explica-juro-subiu/",
+   "publicado": "2026-09-16T21:17:07+00:00",
+   "tickers": [],
+   "resumo": "Kevin Warsh deu entrevista depois da decisão de alta das taxas e isso levou investidores a prever uma nova elevação neste ano"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "‘Superquarta’ coloca rali da bolsa brasileira em uma encruzilhada",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/16/super-quarta-coloca-rali-da-bolsa-brasileira-em-uma-encruzilhada.ghtml",
+   "publicado": "2026-09-16T20:42:10+00:00",
+   "tickers": [],
+   "resumo": "A bolsa brasileira parecia ter finalmente encontrado uma luz no fim do túnel. Juros caindo no horizonte, eleição mais disputada, estrangeiro voltando a comprar e Petrobras surfando o rali do petróleo. \nNesta quarta-feira (16), contudo, o Federal Reserve (Fed, o banco central amer"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "O que a alta dos juros nos EUA significa para o dólar e as bolsas no Brasil e no mundo",
+   "url": "https://investnews.com.br/investimentos/alta-de-juros-eua-significa-bolsas/",
+   "publicado": "2026-09-16T20:33:35+00:00",
+   "tickers": [],
+   "resumo": "O que a mudança de rumo do Fed pode desencadear vai depender do impacto da IA na economia dos EUA"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Axia Energia (AXIA3) conclui resgate de PNCs e cancela 41,6 milhões de ações",
+   "url": "https://www.suno.com.br/noticias/axia-energia-axia3-resgate-conversao-pncs-mt/",
+   "publicado": "2026-09-16T20:25:14+00:00",
+   "tickers": [
+    "AXIA3"
+   ],
+   "resumo": "A Axia Energia (AXIA3) concluiu a terceira etapa do programa de conversão e resgate de ações preferenciais classe C, conhecidas como PNCs. A operação envolveu a conversão de 69.886.551 PNCs em ações ordinárias, na proporção de uma para uma, além do resgate e cancelamento de 41.64"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "BC já tem estimativa de quantas empresas cripto vão pedir autorização, mas não revela número",
+   "url": "https://valorinveste.globo.com/mercados/noticia/2026/09/16/bc-ja-tem-estimativa-de-quantas-empresas-cripto-vao-pedir-autorizacao-mas-nao-revela-numero.ghtml",
+   "publicado": "2026-09-16T20:03:22+00:00",
+   "tickers": [],
+   "resumo": "O Banco Central (BC) buscou criar a regulamentação do mercado de criptoativos sem “comprimir” os diferentes modelos de negócio existentes no setor e está preparado para receber tanto um número grande quanto pequeno de pedidos de autorização quando as novas regras entrarem em vigo"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "O que acontece com seu dinheiro se a gestora do fundo pedir recuperação judicial",
+   "url": "https://investnews.com.br/investimentos/gestora-do-fundo-rj/",
+   "publicado": "2026-09-16T19:52:35+00:00",
+   "tickers": [],
+   "resumo": "O impacto no seu dinheiro depende dos ativos do fundo, e não da dívida da gestora. Entenda"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "JPMorgan corta preço-alvo do Banco do Brasil (BBAS3) para R$ 22 e reduz projeções de lucro",
+   "url": "https://www.suno.com.br/noticias/jpmorgan-reduz-preco-alvo-banco-do-brasil-bbas3-mt/",
+   "publicado": "2026-09-16T19:45:06+00:00",
+   "tickers": [
+    "BBAS3"
+   ],
+   "resumo": "O JPMorgan revisou para baixo as estimativas para o Banco do Brasil (BBAS3) e reduziu o preço-alvo da ação de R$ 24 para R$ 22, considerando dezembro de 2027. A recomendação para o papel, no entanto, foi mantida como neutra. As informações foram divulgadas em uma nota da Reuters,"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "CVM quer usar tokenização para detectar irregularidades no mercado em tempo real",
+   "url": "https://valorinveste.globo.com/mercados/noticia/2026/09/16/cvm-quer-usar-tokenizacao-para-detectar-irregularidades-no-mercado-em-tempo-real.ghtml",
+   "publicado": "2026-09-16T19:40:40+00:00",
+   "tickers": [],
+   "resumo": "A Comissão de Valores Mobiliários (CVM) pretende usar a tokenização não apenas para modernizar a negociação de ativos, mas também para mudar a forma como fiscaliza o mercado de capitais. A intenção é que a nova infraestrutura permita à autarquia acompanhar operações de forma mais"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "A partir de quantos anos pode votar no Brasil? Veja quando o voto é obrigatório",
+   "url": "https://investnews.com.br/economia/a-partir-de-quantos-anos-pode-votar/",
+   "publicado": "2026-09-16T19:32:46+00:00",
+   "tickers": [],
+   "resumo": "O alistamento é permitido a partir dos 16 anos, mas a obrigatoriedade só passa a valer aos 18 e termina aos 70"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Selic a 13,75%: quais setores podem ganhar força na Bolsa, segundo analistas?",
+   "url": "https://www.suno.com.br/noticias/selic-1375-setores-beneficiados-varejo-construcao-small-caps-mt/",
+   "publicado": "2026-09-16T19:05:08+00:00",
+   "tickers": [],
+   "resumo": "A possível redução da Selic para 13,75% ao ano coloca setores mais dependentes de crédito e da atividade doméstica no radar dos analistas. Entre os segmentos citados em estudos recentes estão varejo, construção civil, small caps, infraestrutura, logística e agronegócio. O corte d"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Todo brasileiro deveria ter ETF de títulos públicos atrelados à Selic, diz Investo",
+   "url": "https://valorinveste.globo.com/produtos/fundos/noticia/2026/09/16/todo-brasileiro-deveria-ter-etf-de-titulos-publicos-atrelados-a-selic-diz-investo.ghtml",
+   "publicado": "2026-09-16T18:59:18+00:00",
+   "tickers": [],
+   "resumo": "A democratização dos fundos negociados em bolsa (ETF, na sigla em inglês) esbarra na dificuldade em comunicar aos investidores os primeiros passos em um meio a uma gama enorme de opções, siglas e regras. Nesse sentido, não há nada melhor do que começar com os títulos públicos pós"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Fed sobe juros dos Estados Unidos pela 1ª vez em mais de três anos",
+   "url": "https://www.suno.com.br/noticias/fed-juros-eua-alta-16092026-kevin-warsh-go/",
+   "publicado": "2026-09-16T18:45:07+00:00",
+   "tickers": [],
+   "resumo": "O Fed (Federal Reserve, banco central dos Estados Unidos) elevou nesta quarta-feira (16) os juros dos EUA pela primeira vez em mais de três anos. A decisão integra uma nova etapa da luta contra a inflação, que voltou a subir desde o início do ano por conta da guerra com o Irã. Os"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Energisa quer ser ‘multi-utility’ – e vê gatilhos para crescer no gás",
+   "url": "https://braziljournal.com/energisa-quer-ser-multi-utility-e-ve-gatilhos-para-crescer-no-gas/",
+   "publicado": "2026-09-16T18:45:04+00:00",
+   "tickers": [],
+   "resumo": "Cerca de três anos depois de entrar no mercado de gás natural, a Energisa está vendo seus negócios no setor ganharem um impulso adicional. A avaliação da companhia é de que novas tendências, como a construção de mais termelétricas para garantir a segurança do sistema elétrico e n"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Por que o Itaú quer um banco completo nos EUA",
+   "url": "https://braziljournal.com/por-que-o-itau-quer-um-banco-completo-nos-eua/",
+   "publicado": "2026-09-16T18:39:24+00:00",
+   "tickers": [],
+   "resumo": "O Itaú obteve em agosto uma aprovação condicional do regulador americano para ter um banco nacional nos EUA – o primeiro passo para montar uma operação que busca atender uma demanda crescente da América Latina por serviços bancários naquele país.  É um clube cada vez mais crowded"
   },
   {
    "fonte": "InvestNews",
@@ -27,20 +306,12 @@
    "resumo": "Com autonomia para definir impostos, as 26 unidades federativas suíças disputam empresas, empregos e moradores ricos"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Fed eleva a taxa de juros nos EUA para 3,75% e 4% e vê juros ainda mais altos no ano",
-   "url": "https://www.moneytimes.com.br/fed-eleva-a-taxa-de-juros-nos-eua-para-375-e-4-em-decisao-unanime-jcav/",
-   "publicado": "2026-09-16T18:06:34+00:00",
-   "tickers": [],
-   "resumo": "O Comitê Federal de Mercado Aberto (Fomc, na sigla em inglês) subiu em 0,25 p.p, nesta quarta-feira (16), os juros de referência dos Estados Unidos (EUA), para o intervalo de 3,75% a 4% ao ano. A decisão foi unânime. A decisão era a aposta majoritária para a reunião de setembro, "
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Fed ‘ignora’ pressão de Trump e sobe os juros nos EUA pela primeira vez desde 2023",
    "url": "https://investnews.com.br/economia/fed-banco-central-americano-eleva-juros-pela-primeira-vez-desde-2023/",
    "publicado": "2026-09-16T18:05:54+00:00",
    "tickers": [],
-   "resumo": "Fed elevou os juros em 0,25 ponto percentual, para 3,75% a 4%, e indicou que pode voltar a aumentar a taxa ainda neste ano"
+   "resumo": "Fed elevou os juros em 0,25 ponto percentual, para o intervalo entre 3,75% e 4%, e indicou que pode voltar a aumentar a taxa neste ano"
   },
   {
    "fonte": "Suno Noticias",
@@ -51,25 +322,6 @@
    "resumo": "A maioria dos gestores de fundos multimercados espera um novo corte de juros no Brasil, mas o posicionamento das carteiras mostra cautela com o câmbio e com a economia doméstica. Pesquisa realizada com 20 gestoras aponta que 95% aguardam uma redução de 0,25 ponto percentual na Se"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Anvisa determina recolhimento de todos os lotes de marca de bebida proteica; veja",
-   "url": "https://www.moneytimes.com.br/anvisa-determina-recolhimento-de-todos-os-lotes-de-marca-de-bebida-proteica-mlem/",
-   "publicado": "2026-09-16T18:01:24+00:00",
-   "tickers": [],
-   "resumo": "A Agência Nacional de Vigilância Sanitária (Anvisa) determinou o recolhimento de quatro sabores do produto NotShake Protein, fabricado pela NotCo Brasil, nesta quarta-feira (16). A medida abrange todos os lotes dos seguintes produtos: Segundo a agência, os produtos não foram noti"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Banco do Brasil (BBSA3): JPMorgan não vê solução no curto prazo e cita até BB Seguridade (BBSE3); hora de vender?",
-   "url": "https://www.moneytimes.com.br/banco-do-brasil-bbsa3-jpmorgan-nao-ve-solucao-no-curto-prazo-e-cita-ate-bb-seguridade-bbse3-hora-de-vender/",
-   "publicado": "2026-09-16T17:57:22+00:00",
-   "tickers": [
-    "BBSA3",
-    "BBSE3"
-   ],
-   "resumo": "O JPMorgan entrou da fila das casas que revisaram a ação do Banco do Brasil (BBSA3), após Bank of America e XP na semana passada e Itaú BBA nesta quarta-feira (16) terem feito o mesmo. E, como os outros analistas, a notícia não é animadora: o banco continuará &#8216;andando de la"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Juros dos EUA sobem pela 1ª vez em três anos",
    "url": "https://valorinveste.globo.com/mercados/moedas-e-juros/noticia/2026/09/16/juros-dos-eua-sobem-pela-1a-vez-em-tres-anos.ghtml",
@@ -78,54 +330,12 @@
    "resumo": "O banco central dos Estados Unidos (Federal Reserve, o Fed) aumentou seus juros em 0,25 ponto percentual nesta quarta-feira (16). A alta da taxa básica para a faixa entre 3,75% e 4,00% ao ano foi a primeira desde julho de 2023.\nNão é de hoje que a autoridade monetária está temero"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Lula diz a pastores que vermelho do PT é ‘sangue de Cristo’, barba é alusão a Jesus e Trump é ‘amigo’",
-   "url": "https://www.moneytimes.com.br/lula-diz-a-pastores-que-vermelho-do-pt-e-sangue-de-cristo-e-barba-e-alusao-a-jesus-gaep/",
-   "publicado": "2026-09-16T17:49:54+00:00",
-   "tickers": [],
-   "resumo": "O presidente Luiz Inácio Lula da Silva (PT) disse a pastores evangélicos brasileiros e dos Estados Unidos que a cor vermelha do PT é uma alusão ao sangue de Jesus Cristo, enquanto que a barba que ele utiliza também é uma referência ao Filho de Deus. A reunião com os líderes relig"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "KDIF11: desconto pouco comum abre janela para investir em fundo da Kinea",
-   "url": "https://www.moneytimes.com.br/kdif11-desconto-pouco-comum-abre-janela-para-investir-em-fundo-da-kinea/",
-   "publicado": "2026-09-16T17:43:02+00:00",
-   "tickers": [
-    "KDIF11"
-   ],
-   "resumo": "O KDIF11 é um daqueles fundos que raramente costuma aparecer barato. Historicamente, a estratégia passou boa parte do tempo negociando próxima ou acima da cota patrimonial. Hoje, porém, está com deságio próximo de 3%. Para um fundo que continua com a tese preservada, essa mudança"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Bolsas da Europa avançam com moderação do petróleo e espera pelo Fed",
-   "url": "https://www.moneytimes.com.br/europa-16-9-26-apsa/",
-   "publicado": "2026-09-16T17:33:46+00:00",
-   "tickers": [],
-   "resumo": "Os índices europeus encerram o pregão desta quarta-feira (16) em alta, diante do alívio nos preços do petróleo no mercado internacional, além da espera pela divulgação da decisão de política monetária do Federal Reserve (Fed, o banco central dos Estados Unidos). O índice pan-euro"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Ministros envolvidos no escândalo do Master precisam ser afastados e presos, diz Renan Santos",
-   "url": "https://www.moneytimes.com.br/ministros-envolvidos-no-escandalo-do-master-precisam-ser-afastados-e-presos-diz-renan-santos-gaep/",
-   "publicado": "2026-09-16T17:12:42+00:00",
-   "tickers": [],
-   "resumo": "O candidato do Missão à Presidência, Renan Santos, defendeu nesta quarta-feira (16), que todos os ministros do Supremo Tribunal Federal (STF) que estejam envolvidos no escândalo do Banco Master sejam &#8220;afastados e presos&#8221;. A declaração foi feita durante encontro com ap"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "União Europeia convida Canadá a se tornar o primeiro ‘membro associado’ do bloco",
    "url": "https://investnews.com.br/economia/uniao-europeia-convida-canada-a-se-tornar-o-primeiro-membro-associado-do-bloco/",
    "publicado": "2026-09-16T17:08:33+00:00",
    "tickers": [],
    "resumo": "Proposta cria uma nova categoria de associação e pode abrir caminho para o aprofundamento dos laços com o bloco"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Papa Johns: os planos da maior concorrente da Pizza Hut e da Domino’s para entrar no Brasil",
-   "url": "https://www.moneytimes.com.br/papa-johns-os-planos-da-maior-concorrente-da-pizza-hut-dominos-no-brasil-mlem/",
-   "publicado": "2026-09-16T17:08:06+00:00",
-   "tickers": [],
-   "resumo": "A Papa Johns, pizzaria “queridinha” dos gringos, está com planos de virar a mais nova concorrente da Pizza Hut e da Domino’s no Brasil. A franquia norte-americana é considerada a terceira maior empresa de delivery de pizzas do mundo. Inclusive, a Papa Johns já está presente em ou"
   },
   {
    "fonte": "Suno Noticias",
@@ -204,38 +414,12 @@
    "resumo": "O volume de ofertas no mercado de capitais encolheu 16% em agosto, na comparação anual, para R$ 48,8 bilhões, segundo dados divulgados hoje pela Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais (Anbima). Ante julho, houve queda de 28%. \nNo acumulado do an"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "Guerra no Irã custou US$ 38 bilhões aos EUA nos primeiros 5 meses; entenda",
-   "url": "https://www.suno.com.br/noticias/guerra-do-ira-custou-us-38-bi-aos-eua-nos-primeiros-5-meses-go/",
-   "publicado": "2026-09-16T14:20:00+00:00",
-   "tickers": [],
-   "resumo": "Guerra no Irã custou US$ 38 bilhões aos EUA nos primeiros 5 meses; entendaA guerra no Irã, que já dura mais de seis meses, custou até agora US$ 38 bilhões aos cofres públicos dos Estados Unidos, e esse valor deve aumentar em US$ 3 bilhões por mês, informou o Escritório de Orçamen"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "CPTS11 confirma pagamento de dividendos; descubra valor",
-   "url": "https://www.suno.com.br/noticias/cpts11-dividendos-22-setembro-pagamento/",
-   "publicado": "2026-09-16T13:35:08+00:00",
-   "tickers": [
-    "CPTS11"
-   ],
-   "resumo": "O CPTS11 (Capitânia Securities II Fundo de Investimento Imobiliário Responsabilidade Limitada) comunicou nova distribuição de dividendos de R$ 0,09 por cota, referente aos resultados de agosto. O pagamento ocorrerá em 22 de setembro. Para ter direito ao provento, o investidor pre"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Urna eleitoral: entenda como é feito o teste de integridade a cada votação",
    "url": "https://investnews.com.br/economia/teste-de-integridade-urna-eletronica/",
    "publicado": "2026-09-16T13:16:25+00:00",
    "tickers": [],
    "resumo": "Entenda como o TSE cruza cédulas de papel com o resultado eletrônico para provar que nenhum voto é alterado"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "iFood anuncia investimento recorde de R$ 24 bi em meio a disputas na justiça e no Cade",
-   "url": "https://www.suno.com.br/noticias/ifood-anuncia-investimento-recorde-de-r-24-bi-go/",
-   "publicado": "2026-09-16T12:50:00+00:00",
-   "tickers": [],
-   "resumo": "iFood anuncia investimento recorde de R$ 24 bi em meio a disputas na justiça e no CadeO iFood anuncia nesta quarta-feira (16) que vai destinar R$ 24 bilhões em investimentos no ano fiscal de abril de 2026 a março de 2027, crescimento de 41% em relação ao ciclo anterior. O anúncio"
   },
   {
    "fonte": "InvestNews",
@@ -270,25 +454,14 @@
    "resumo": "Do total, R$ 2 bilhões vão para tecnologia e IA, enquanto o iFood Benefícios receberá R$ 1 bilhão"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "Dividendos hoje: 6 FIIs fazem pagamentos nesta quarta-feira",
-   "url": "https://www.suno.com.br/noticias/dividendos-hoje-6-fiis-pagam/",
-   "publicado": "2026-09-16T12:05:04+00:00",
-   "tickers": [
-    "BLCA11",
-    "CCME11"
-   ],
-   "resumo": "Seis fundos imobiliários têm pagamentos programados nesta quarta-feira, com destaque para BLCA11 e CCME11. O BLCA11 pagará hoje R$ 0,55 por cota aos investidores, enquanto o CCME11 vai pagar R$ 0,09. Ao todo, 6 FIIs anunciaram distribuição de rendimentos aos cotistas na data. Inv"
-  },
-  {
    "fonte": "Valor Investe",
-   "titulo": "Ibovespa opera estável após Fed subir juros pela 1ª vez desde 2023; Copom vem aí",
+   "titulo": "Ibovespa passa a cair após Fed subir juros pela 1ª vez desde 2023; Copom vem aí",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/16/dolar-e-ibovespa-hoje-16-de-setembro-de-2026.ghtml",
    "publicado": "2026-09-16T12:04:16+00:00",
    "tickers": [
     "PETR4"
    ],
-   "resumo": "O Ibovespa opera estável na tarde desta quarta-feira (16), depois que o Federal Reserve (Fed, o banco central americano) elevou os juros dos Estados Unidos em 0,25 ponto, para a faixa de 3,75% a 4% ao ano, na primeira alta desde julho de 2023. \nPor volta de 15h, o Ibovespa tinha "
+   "resumo": "O Ibovespa passou a cair na reta final do pregão desta quarta-feira (16), depois que o Federal Reserve (Fed, o banco central americano) elevou os juros dos Estados Unidos em 0,25 ponto, para a faixa de 3,75% a 4% ao ano, na primeira alta desde julho de 2023. \nO principal índice d"
   },
   {
    "fonte": "InvestNews",
@@ -466,16 +639,6 @@
    "resumo": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, encerrou por volta das 18h20 a sessão plenária sobre a relação do ex-banqueiro do Master, Daniel Vorcaro, e o ministro Alexandre de Moraes. \nOs ministros não chegaram a analisar o mérito do caso, apenas votaram uma que"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "Fundo imobiliário RBVA11 recebe avaliação positiva de agência internacional",
-   "url": "https://www.suno.com.br/noticias/fundo-imobiliario-rbva11-recebe-avaliacao-positiva-de-agencia-internacional/",
-   "publicado": "2026-09-15T22:45:07+00:00",
-   "tickers": [
-    "RBVA11"
-   ],
-   "resumo": "A Moody&#8217;s Local Brasil atribuiu a avaliação REF-2.br ao fundo imobiliário RBVA11 na última sexta-feira (11). Segundo a agência, a nota sinaliza que o fundo da Rio Bravo apresenta características acima da média dentro do seu segmento. É a primeira vez que o fundo recebe esse"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Senado dos EUA barra Clarity Act, em revés inesperado para empresas de cripto",
    "url": "https://investnews.com.br/investimentos/senado-eua-clarity-act-cripto/",
@@ -500,14 +663,6 @@
    "resumo": "Sob o risco de se decepcionar (de novo), o mercado trabalha com o cenário-base de que o próximo governo, independente de qual for, fará algum ajuste fiscal.  O assunto foi debatido num painel que reuniu Christian Egan, CEO da B3, e os economistas-chefes do Bradesco, Fernando Hono"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "IFIX avança 0,36% e fecha pregão de terça-feira aos 3.744,89 pontos",
-   "url": "https://www.suno.com.br/noticias/ifix-avanca-036-e-fecha-pregao-de-terca-feira-aos-3-74489-pontos/",
-   "publicado": "2026-09-15T21:15:07+00:00",
-   "tickers": [],
-   "resumo": "O IFIX encerrou o pregão desta terça-feira (15) aos 3.744,89 pontos, alta de 0,36%. O desempenho representa avanço de 13,27 pontos frente ao fechamento anterior, de 3.731,62 pontos, mantendo a trajetória positiva do índice de fundos imobiliários no dia. Durante a sessão, o índice"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "JBS acerta acordo para unir operações de couro com Viva Holding e criar nova empresa",
    "url": "https://investnews.com.br/negocios/jbs-couros-acordo-viva-holding/",
@@ -522,16 +677,6 @@
    "publicado": "2026-09-15T20:57:27+00:00",
    "tickers": [],
    "resumo": "Ferramentas gratuitas permitem comparar cenários, estimar mudanças na carga tributária e entender como a transição afeta o negócio"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Ibovespa sobe 0,54% com Petrobras (PETR4) antes da Super Quarta; Vale recua",
-   "url": "https://www.suno.com.br/noticias/ibovespa-hoje-15-setembro-petrobras-super-quarta-mt/",
-   "publicado": "2026-09-15T20:55:15+00:00",
-   "tickers": [
-    "PETR4"
-   ],
-   "resumo": "O Ibovespa recuperou parte das perdas da véspera e fechou esta terça-feira (15) em alta de 0,54%, aos 186.502,64 pontos, com ganho de 1.001,76 pontos. Em uma sessão de liquidez mais baixa, investidores evitaram grandes movimentos antes das decisões de juros do Federal Reserve e d"
   },
   {
    "fonte": "Valor Investe",
@@ -675,60 +820,12 @@
    "resumo": "Queda do juro real valorizou os títulos longos do Tesouro Direto desde o fim de julho, mas a volatilidade deve seguir em alta até outubro"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Fim do ‘efeito seminovo’: por que o preço dos carros usados cai?",
-   "url": "https://investnews.com.br/videos/fim-do-efeito-seminovo-por-que-o-preco-dos-carros-usados-cai/",
-   "publicado": "2026-09-15T14:14:34+00:00",
-   "tickers": [],
-   "resumo": "Após anos de alta atípica, os preços dos carros usados começaram a ceder. Entenda os impactos para o setor automotivo e assista ao vídeo!"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Por que Tesla e SpaceX são empresas separadas? Musk responde",
-   "url": "https://investnews.com.br/negocios/por-que-tesla-e-spacex-sao-empresas-separadas-musk-responde/",
-   "publicado": "2026-09-15T13:54:42+00:00",
-   "tickers": [],
-   "resumo": "As especulações aumentaram neste ano sobre uma possível fusão entre SpaceX e Tesla"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Taxas do Tesouro Direto passam a subir com alta do petróleo e sessão do STF no radar",
    "url": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/09/15/taxas-do-tesouro-direto-praticamente-nao-se-mexem-em-dia-de-stf-varejo-fraco-e-pressao-externa.ghtml",
    "publicado": "2026-09-15T13:53:55+00:00",
    "tickers": [],
    "resumo": "Os rendimentos dos títulos do Tesouro Direto passaram a subir no início da tarde desta terça-feira (15), com pressão externa dos juros americanos e em meio a relatos de participantes do mercado de que há uma reação dos investidores locais à sessão do STF que julga a relação entre"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Como justificar o voto nas Eleições 2026? Veja as regras para o dia da votação",
-   "url": "https://investnews.com.br/economia/justificar-o-voto-eleicoes-2026-regras/",
-   "publicado": "2026-09-15T13:33:36+00:00",
-   "tickers": [],
-   "resumo": "Para justificar o voto no dia da eleição, eleitor deve estar fora do município onde vota; pedido pode ser feito pelo e-Título ou presencialmente"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "LVMH deixa ranking das 10 maiores empresas da Europa",
-   "url": "https://investnews.com.br/negocios/lvmh-deixa-ranking-das-10-maiores-empresas-da-europa/",
-   "publicado": "2026-09-15T13:25:57+00:00",
-   "tickers": [],
-   "resumo": "A queda de 2,5% levou o valor de mercado da companhia a US$ 232 bilhões, abaixo da L’Oréal e no menor patamar do ranking desde 2017"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Renner: por que investimentos não salvaram a ação na B3?",
-   "url": "https://investnews.com.br/videos/renner-por-que-investimentos-nao-salvaram-a-acao-na-b3/",
-   "publicado": "2026-09-15T13:05:00+00:00",
-   "tickers": [],
-   "resumo": "Com ações perto das mínimas em 10 anos, Renner enfrenta a concorrência asiática e desafios de execução. Entenda no Pulso do Mercado"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Rendimento do título de 10 anos dos EUA acima de 5,25% pode mudar relação entre ações e títulos. Entenda",
-   "url": "https://investnews.com.br/investimentos/rendimento-do-titulo-de-10-anos-dos-eua-acima-de-525-pode-mudar-relacao-entre-acoes-e-titulos-entenda/",
-   "publicado": "2026-09-15T13:01:37+00:00",
-   "tickers": [],
-   "resumo": "Nível de 5,25% pode fazer ações e títulos dos EUA caírem juntos e aumentar o risco no mercado de crédito"
   },
   {
    "fonte": "Valor Investe",
@@ -750,115 +847,12 @@
    "resumo": "O Ibovespa, principal índice de ações brasileiro, descolou do ambiente negativo das bolsas globais, impactadas por nova forte alta do preço do petróleo, e fechou em alta, justamente por conta desse elemento. As ações da Petrobras (PETR3, PETR4) foram favorecidas, registrando as m"
   },
   {
-   "fonte": "Valor Investe",
-   "titulo": "Índice brasileiro que mede percepção de risco do mercado alcança recorde",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/15/indice-brasileiro-que-mede-percepcao-de-risco-do-mercado-alcanca-recorde.ghtml",
-   "publicado": "2026-09-15T11:57:35+00:00",
-   "tickers": [],
-   "resumo": "O indicador de volatilidade S&amp;P/B3 Ibovespa Vix, o \"Vix brasileiro\", um termômetro que mede a expectativa dos investidores para oscilação dos preços dos ativos brasileiros nos próximos 30 dias, fechou ontem em 30,15 pontos, alta de 5,24% no dia e de 17,87% no mês. O nível é o"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Petrobras (PETR4), Telefônica (VIVT3), Multiplan (MULT3), CSN (CSNA3) e mais: Veja os destaques das empresas",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/09/15/petrobras-petr4-telefonica-vivt3-multiplan-mult3-csn-csna3-e-mais-veja-os-destaques-das-empresas.ghtml",
-   "publicado": "2026-09-15T11:10:26+00:00",
-   "tickers": [
-    "CSNA3",
-    "MULT3",
-    "PETR4",
-    "VIVT3"
-   ],
-   "resumo": "Petrobras\nA Petrobras assinou um contrato de compra e venda de Gás Natural Liquefeito (GNL) de longo prazo com a Sempra Infrastructure, companhia americana subsidiária da Sempra.\n\nTelefônica Brasil\nO conselho de administração da Telefônica Brasil aprovou a declaração de juros sob"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Investidor se volta para sessão histórica do STF às vésperas da superquarta",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/15/investidor-se-volta-para-sessao-historica-do-stf-as-vesperas-da-superquarta.ghtml",
-   "publicado": "2026-09-15T10:50:09+00:00",
-   "tickers": [],
-   "resumo": "Os investidores acompanham nesta terça-feira (15) uma sessão histórica no plenário do Supremo Tribunal Federal (STF), na mais grave crise da Corte. Começa hoje o julgamento do relatório da Polícia Federal que menciona mensagens enviadas por Daniel Vorcaro, ex-dono do Master, a Al"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "A CVM vai usar IA para fiscalizar o mercado. E você?",
-   "url": "https://valorinveste.globo.com/blogs/jose-brazuna/coluna/a-cvm-vai-usar-ia-para-fiscalizar-o-mercado-e-voce.ghtml",
-   "publicado": "2026-09-15T09:30:00+00:00",
-   "tickers": [],
-   "resumo": "Recentemente li, em reportagem no Valor, que a CVM pretende acelerar o uso de inteligência artificial na supervisão do mercado de capitais. Segundo o presidente da autarquia, Otto Lobo, a evolução tecnológica e o aumento da capacidade de processamento de dados exigem uma mudança "
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Não é 'a ETF'. É 'o ETF'. E agora isso importa",
-   "url": "https://valorinveste.globo.com/blogs/bruno-stein/coluna/nao-e-a-etf-e-o-etf-e-agora-isso-importa.ghtml",
-   "publicado": "2026-09-15T09:20:00+00:00",
-   "tickers": [],
-   "resumo": "O avanço dos ETFs de renda fixa tornou relevante uma distinção que, durante 20 anos, pareceu apenas uma preferência de linguagem. Depois de mais de 20 anos trabalhando com ETFs no Brasil, uma coisa sempre me incomodou: ouvir alguém se referir ao produto como “a ETF”.\nNunca corrig"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Bradesco lança novo ETF de inteligência artificial na bolsa brasileira",
-   "url": "https://valorinveste.globo.com/produtos/fundos/noticia/2026/09/15/bradesco-lanca-novo-etf-de-inteligencia-artificial-na-bolsa-brasileira.ghtml",
-   "publicado": "2026-09-15T09:10:00+00:00",
-   "tickers": [
-    "BRIA11"
-   ],
-   "resumo": "A Bradesco Asset, a gestora de fundos do banco, lançou um novo ETF, fundo negociado em bolsa que acompanha um indicador de mercado, na bolsa brasileira: o BRIA11, para acessar ações de companhias ligadas à inteligência artificial. O novo produto compra dois ETFs negociados em Nov"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Brasileiro deve ter pelo menos 16% do patrimônio no exterior, aponta estudo",
-   "url": "https://valorinveste.globo.com/produtos/investimento-no-exterior/noticia/2026/09/15/brasileiro-deve-ter-pelo-menos-16percent-do-patrimonio-no-exterior-aponta-estudo.ghtml",
-   "publicado": "2026-09-15T09:00:01+00:00",
-   "tickers": [],
-   "resumo": "A taxa Selic alta não protege totalmente o patrimônio dos brasileiros e aplicar o dinheiro no exterior é fundamental, mostra uma pesquisa realizada pelo Centro de Estudos em Finanças da Fundação Getulio Vargas (FGVcef). O estudo indica que os juros elevados mascaram o risco de in"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Lotofácil da Independência sorteia prêmio de R$ 300 milhões hoje; veja como e até que horas apostar",
-   "url": "https://valorinveste.globo.com/loterias/noticia/2026/09/15/lotofacil-da-independencia-sorteia-premio-de-300-milhoes-hoje-veja-como-e-ate-que-horas-apostar.ghtml",
-   "publicado": "2026-09-15T03:00:01+00:00",
-   "tickers": [],
-   "resumo": "A Lotofácil da Independência 2026 vai sortear um prêmio estimado em R$ 300 milhões e que não acumula nesta terça-feira, 15 de setembro, a partir das 21h (horário de Brasília). Se confirmado o valor, será o maior da história da modalidade.\nLEIA TAMBÉM: \n- Quanto rende o prêmio de "
-  },
-  {
    "fonte": "Brazil Journal",
    "titulo": "OPINIÃO. Precisamos atrair cérebros – e reter os que já estão aqui",
    "url": "https://braziljournal.com/opiniao-precisamos-atrair-cerebros-e-reter-os-que-ja-estao-aqui/",
    "publicado": "2026-09-14T23:25:02+00:00",
    "tickers": [],
    "resumo": "As Big Techs disputam uma corrida sem precedentes por talentos em inteligência artificial. Na Meta, Mark Zuckerberg passou a oferecer a pesquisadores pacotes de remuneração de até US$ 300 milhões em quatro anos, acirrando uma disputa que já mobilizava as principais empresas do se"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "A5X, a nova bolsa de derivativos e futuros, se diz pronta para operar",
-   "url": "https://braziljournal.com/a5x-a-nova-bolsa-de-derivativos-e-futuros-se-diz-pronta-para-operar/",
-   "publicado": "2026-09-14T23:10:34+00:00",
-   "tickers": [],
-   "resumo": "A A5X – a nova bolsa brasileira de derivativos e futuros – acaba de levantar R$ 360 milhões em uma Série D, a um valuation post-money de R$ 2,7 bilhões.  A rodada foi liderada por três novos investidores: Morgan Stanley, Goldman Sachs e Kaszek; e acompanhada pelos atuais acionist"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "Na bonança do Redata, lobby das renováveis tenta tirar o gás do jogo",
-   "url": "https://braziljournal.com/na-bonanca-do-redata-lobby-das-renovaveis-tenta-tirar-o-gas-do-jogo/",
-   "publicado": "2026-09-14T23:05:45+00:00",
-   "tickers": [],
-   "resumo": "O projeto do Governo para incentivos fiscais a data centers virou alvo de uma intensa disputa entre lobbies do setor elétrico em Brasília. Depois da aprovação do Redata no Congresso, o que está em jogo agora é quem vai ganhar com a colossal demanda por energia que deve vir por aí"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "O Brexit depois do Brexit: esses três países querem deixar o UK",
-   "url": "https://braziljournal.com/o-brexit-depois-do-brexit-esses-tres-paises-querem-deixar-o-uk/",
-   "publicado": "2026-09-14T22:28:48+00:00",
-   "tickers": [],
-   "resumo": "“Andy Burnham agora deve estar se acostumando com a ideia de que ele ficará na história como o último primeiro-ministro do Reino Unido,” disse o primeiro-ministro da Escócia, John Swinney, ao comentar a proposta de que seu país, a Irlanda do Norte e Gales se separem do Reino Unid"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "OPINIÃO. Carece de seriedade",
-   "url": "https://braziljournal.com/opiniao-carece-de-seriedade/",
-   "publicado": "2026-09-13T21:09:18+00:00",
-   "tickers": [],
-   "resumo": "Ficou engastado na memória forense o episódio em que o Ministro Aliomar Baleeiro, chamado a julgar a suspeição arguida contra o venerável Ministro Victor Nunes Leal, despachou em quatro palavras: “Rejeito, carece de seriedade.” O leitor de hoje talvez estranhe a economia. Baleeir"
   }
  ]
 }
