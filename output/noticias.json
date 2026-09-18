@@ -3,31 +3,297 @@
  "itens": 100,
  "dados": [
   {
-   "fonte": "Money Times",
-   "titulo": "Petrobras (PETR4): Ajuste no preço do diesel reduz defasagem para 22% e novos aumentos continuam no radar",
-   "url": "https://www.moneytimes.com.br/petrobras-petr4-ajuste-no-preco-do-diesel-reduz-defasagem-e-novos-aumentos-continuam-no-radar-lils/",
-   "publicado": "2026-09-17T18:29:24+00:00",
+   "fonte": "Suno Noticias",
+   "titulo": "Fundo imobiliário RBVA11 recebe avaliação da Moody’s e tem lucro de R$ 17,5 milhões",
+   "url": "https://www.suno.com.br/noticias/fundo-imobiliario-rbva11-recebe-avaliacao-da-moodys-e-tem-lucro-de-r-175-milhoes/",
+   "publicado": "2026-09-17T23:35:06+00:00",
    "tickers": [
-    "PETR3",
-    "PETR4"
+    "RBVA11"
    ],
-   "resumo": "O reajuste de R$ 1,00 no preço por litro do diesel, anunciado pela Petrobras (PETR3;PETR4) nesta quinta-feira (17) e que entra em vigor a partir de amanhã, não deve chegar às distribuidoras graças ao subsídio do governo. A medida também reduz a defasagem entre os preços da estata"
+   "resumo": "O fundo imobiliário registrou resultado de R$ 17,5 milhões em agosto, o que corresponde a R$ 0,10 por cota, de acordo com o relatório gerencial divulgado pela administração. No mesmo período, a distribuição foi mantida em R$ 0,09 por cota, em linha com o guidance estabelecido par"
   },
   {
    "fonte": "Money Times",
-   "titulo": "Reajuste do Bolsa Família difere radicalmente de ‘aumento’ e ‘ampliação’ vistos na gestão Bolsonaro, diz doutor da USP",
-   "url": "https://www.moneytimes.com.br/reajuste-do-bolsa-familia-difere-radicalmente-de-aumento-e-ampliacao-vistos-na-gestao-bolsonaro-diz-doutor-da-usp-gaep/",
-   "publicado": "2026-09-17T18:11:04+00:00",
+   "titulo": "Itaú (ITUB4) passa ‘cheque gordo’ e leva aluguel de torre da Eztec (EZTC3)",
+   "url": "https://www.moneytimes.com.br/itau-itub4-passa-cheque-gordo-e-leva-aluguel-de-torre-da-eztec/",
+   "publicado": "2026-09-17T23:26:33+00:00",
+   "tickers": [
+    "EZTC3",
+    "ITUB4"
+   ],
+   "resumo": "O Itaú Unibanco (ITUB4) fechou contrato de locação com a Eztec (EZTC3) para ocupar a integralidade do empreendimento Esther Towers, desenvolvido pela companhia. Apesar dos valores do aluguel não estarem claros, o acordo prevê receita de aproximadamente R$ 1,17 bilhão para a Eztec"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "51º estado ou 28º membro? Canadá quer aderir à Europa",
+   "url": "https://braziljournal.com/51o-estado-ou-28o-membro-canada-quer-aderir-a-europa/",
+   "publicado": "2026-09-17T23:07:42+00:00",
    "tickers": [],
-   "resumo": "O reajuste de 15% do Bolsa Família anunciado pelo governo nesta quinta-feira (17) é uma situação &#8220;radicalmente diferente&#8221; da ampliação de benefícios sociais autorizada em 2022 por emenda constitucional posteriormente invalidada pelo Supremo Tribunal Federal (STF), ava"
+   "resumo": "Pressionado por Trump a se tornar o 51º estado americano, o Canadá está tentando se tornar o 28º país-membro da União Europeia – ou pelo menos o 1º membro-associado do bloco. A aproximação entre o país e o bloco europeu começou durante o EU-Armenia Summit, em maio, quando o Prime"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Eleições 2026: Lula e Flávio seguem empatados no primeiro e no segundo turnos, mostra Datafolha",
+   "url": "https://investnews.com.br/economia/eleicoes-2026-lula-e-flavio-empatados/",
+   "publicado": "2026-09-17T23:04:19+00:00",
+   "tickers": [],
+   "resumo": "Levantamento feito sob o impacto da crise do STF não mudou o cenário em relação à pesquisa anterior, do dia 11"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "US$ 90 trilhões em jogo e “atos de liquidez”: o drama da sucessão nas famílias",
+   "url": "https://braziljournal.com/us-90-trilhoes-em-jogo-e-atos-de-liquidez-o-drama-da-sucessao-nas-familias/",
+   "publicado": "2026-09-17T23:02:34+00:00",
+   "tickers": [],
+   "resumo": "Cerca de US$ 90 trilhões acumulados pelos baby boomers e a Geração X vão virar herança nos próximos 20 a 30 anos – na maior transferência “pacífica” de riqueza já vista. Segundo o UBS, um quinto dos ativos globais hoje estão nas mãos de pessoas com mais de 75 anos. Parte desse pa"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Na recuperação extrajudicial do GPA, Casas Bahia vira pedra no caminho",
+   "url": "https://investnews.com.br/negocios/na-recuperacao-extrajudicial-do-gpa-casas-bahia-vira-pedra-no-caminho/",
+   "publicado": "2026-09-17T22:58:58+00:00",
+   "tickers": [],
+   "resumo": "Varejista igualmente em crise contesta plano que prevê o pagamento de seu crédito de R$ 231,7 milhões em debêntures"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Datafolha: No 2º turno, Lula mantém 46% e Flávio sustenta 44% das intenções de voto",
+   "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/09/17/datafolha-no-2o-turno-lula-mantem-46percent-e-flavio-sustenta-44percent-das-intencoes-de-voto.ghtml",
+   "publicado": "2026-09-17T22:58:25+00:00",
+   "tickers": [],
+   "resumo": "O presidente Luiz Inácio Lula da Silva (PT) tem 46% das intenções de voto e o senador Flávio Bolsonaro (PL) registra 44% em eventual segundo turno entre os dois, segundo pesquisa Datafolha divulgada nesta quinta-feira (17). O cenário de empate técnico repete os percentuais alcanç"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "HGRU11: FII mantém dividendo de R$ 0,95 mesmo com resultado menor do que o distribuído",
+   "url": "https://www.suno.com.br/noticias/hgru11-fii-mantem-dividendo-de-r-095-mesmo-com-resultado-menor-do-que-o-distribuido/",
+   "publicado": "2026-09-17T22:45:06+00:00",
+   "tickers": [
+    "HGRU11"
+   ],
+   "resumo": "O HGRU11 (Patria Renda Urbana FII) manteve o pagamento de R$ 0,95 por cota, mesmo após fechar agosto com resultado distribuível menor que o rendimento declarado aos cotistas. No mês, o fundo apurou resultado de R$ 0,88 por cota, a partir de uma receita total de R$ 1,10 por cota. "
   },
   {
    "fonte": "Money Times",
-   "titulo": "Tesouro Direto hoje: Taxas disparam após reajuste do Bolsa Família e títulos param de negociar; confira",
-   "url": "https://www.moneytimes.com.br/tesouro-direto-hoje-taxas-disparam-apos-reajuste-do-bolsa-familia-e-titulos-param-de-negociar-confira-jcav/",
-   "publicado": "2026-09-17T18:08:13+00:00",
+   "titulo": "Polícia Federal marca para 30 de setembro depoimentos de Daniel Vorcaro e do pai dele, Henrique Vorcaro",
+   "url": "https://www.moneytimes.com.br/pf-marca-para-30-de-setembro-depoimentos-de-daniel-vorcaro-e-do-pai-dele-henrique-vorcaro-gaep/",
+   "publicado": "2026-09-17T22:43:46+00:00",
    "tickers": [],
-   "resumo": "As taxas do Tesouro Direto dispararam nesta quinta-feira (17), após o governo anunciar um reajuste de aproximadamente 15% no Bolsa Família, elevando o piso do benefício de R$ 600 para R$ 691 por família. A medida aumentou a preocupação dos investidores com a trajetória das contas"
+   "resumo": "A Polícia Federal marcou para o dia 30 de setembro os depoimentos de Daniel Vorcaro, do Banco Master, e de seu pai, Henrique Vorcaro, no inquérito que investiga a atuação do grupo conhecido como &#8220;A Turma&#8221;. Os interrogatórios são apontados como a fase final da investig"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Braskem: credores rejeitam plano de dívida e cobram aporte da Petrobras",
+   "url": "https://investnews.com.br/negocios/braskem-credores-rejeitam-plano-de-divida/",
+   "publicado": "2026-09-17T22:42:26+00:00",
+   "tickers": [],
+   "resumo": "Detentores de títulos da petroquímica pressionam por aporte da estatal, e prazo  reacende risco de recuperação judicial"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Mendonça rejeita ação contra reajuste do Bolsa Família",
+   "url": "https://www.moneytimes.com.br/mendonca-rejeita-acao-contra-reajuste-do-bolsa-familia/",
+   "publicado": "2026-09-17T22:36:27+00:00",
+   "tickers": [],
+   "resumo": "O ministro André Mendonça, do Tribunal Superior Eleitoral (TSE), rejeitou nesta quinta-feira (17) ação protocolada pelo deputado Zé Trovão (PL-SC) questionando o reajuste para os benefícios do programa Bolsa Família. A ação foi rejeitada por motivos processuais. No entendimento d"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Escolas de elite cobram mensalidades de até R$ 15,7 mil e atraem de famílias ricas a investidores",
+   "url": "https://investnews.com.br/negocios/escolas-elite-mensalidades-ate-r-157-mil/",
+   "publicado": "2026-09-17T22:30:44+00:00",
+   "tickers": [],
+   "resumo": "Escolas atraem fundos de olho no potencial de negócio para atender crianças no maior mercado do país em São Paulo"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Lula e Flávio Bolsonaro mantêm empate técnico nos dois turnos, mostra pesquisa Datafolha",
+   "url": "https://www.moneytimes.com.br/pesquisa-datafolha-17-de-setembro-de-2026-gaep/",
+   "publicado": "2026-09-17T22:29:27+00:00",
+   "tickers": [],
+   "resumo": "O presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL-RJ) permanecem empatados tecnicamente no primeiro e no segundo turnos das eleições presidenciais 2026, segundo pesquisa do Instituto Datafolha divulgada nesta quinta-feira (17). No entanto o presidente m"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "OPINIÃO. Sua empresa vive do B2C? Prepare-se para os agentes pessoais de AI",
+   "url": "https://braziljournal.com/opiniao-sua-empresa-vive-do-b2c-prepare-se-para-os-agentes-pessoais-de-ai/",
+   "publicado": "2026-09-17T22:25:48+00:00",
+   "tickers": [],
+   "resumo": "Agentes pessoais de AI – inteligentes e incansáveis –  estão prestes a dificultar, e muito, a vida das empresas B2C. Bill Gates já previu em 2023 que “nos próximos cinco anos… você não terá que usar diferentes aplicativos para diferentes tarefas. Você vai simplesmente pedir ao se"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Lula promete canetas emagrecedoras gratuitamente para pacientes com obesidade",
+   "url": "https://www.moneytimes.com.br/lula-promete-canetas-emagrecedoras-gratuitamente-para-pacientes-com-obesidade-rnda/",
+   "publicado": "2026-09-17T22:25:07+00:00",
+   "tickers": [],
+   "resumo": "O presidente Luiz Inácio Lula da Silva (PT) anunciou nesta quinta-feira, 17, durante agenda em Montes Claros (MG), que canetas emagrecedoras serão distribuídas gratuitamente para pacientes com obesidade. Lula, porém, não indicou quando a iniciativa passará a valer, nem mesmo se s"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Cade decide aprofundar análise da compra da Medley pela EMS",
+   "url": "https://investnews.com.br/negocios/medley-ems-compra-cade-aprofunda/",
+   "publicado": "2026-09-17T22:20:44+00:00",
+   "tickers": [],
+   "resumo": "Autarquia pede mais informações às empresas, e conclusão do negócio de R$ 3,2 bilhões pode levar mais tempo"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "André Mendonça será relator no TSE de ação de Zé Trovão contra reajuste do Bolsa Família",
+   "url": "https://www.moneytimes.com.br/mendonca-sera-relator-de-acao-de-ze-trovao-contra-reajuste-do-bolsa-familia-gaep/",
+   "publicado": "2026-09-17T22:11:01+00:00",
+   "tickers": [],
+   "resumo": "O ministro André Mendonça foi sorteado relator no Tribunal Superior Eleitoral (TSE) de ação movida pelo deputado federal Zé Trovão (PL-SC) que questiona o reajuste de 15% do Bolsa Família anunciado pelo governo do presidente Luiz Inácio Lula da Silva (PT) nesta quinta-feira (17)."
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Lula diz que André Mendonça usa cargo no STF para ‘fazer política’",
+   "url": "https://www.moneytimes.com.br/lula-diz-que-andre-mendonca-usa-cargo-no-stf-para-fazer-politica-gaep/",
+   "publicado": "2026-09-17T22:03:42+00:00",
+   "tickers": [],
+   "resumo": "O presidente Luiz Inácio Lula da Silva (PT) afirmou em entrevista para a Radio Itatiaia que o ministro do Supremo Tribunal Federal (STF) André Mendonça está utilizando o cargo na Corte para &#8220;fazer política&#8220;. &#8220;O André Mendonça estava utilizando o cargo dele de re"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Juros futuros recuam com fatores técnicos e alívio no exterior",
+   "url": "https://www.moneytimes.com.br/juros-futuros-17-9-26-apsa/",
+   "publicado": "2026-09-17T22:02:34+00:00",
+   "tickers": [],
+   "resumo": "A curva de juros futuros encerrou o dia com redução dos prêmios em todos os vencimentos, após estresse inicial com o anúncio do reajuste de 15% no Bolsa Família, o que aumentou as preocupações fiscais do mercado. Segundo agentes, as taxas se alinharam ao ambiente externo mais ben"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Ibovespa vira e fecha em alta com Vale (VALE3); temor fiscal perde força",
+   "url": "https://www.suno.com.br/noticias/ibovespa-hoje-17-setembro-vale-dolar-mt/",
+   "publicado": "2026-09-17T21:55:06+00:00",
+   "tickers": [
+    "VALE3"
+   ],
+   "resumo": "O Ibovespa fechou esta quinta-feira (17) em alta de 0,24%, aos 185.992,03 pontos, após uma sessão de forte volatilidade. O índice chegou a cair 1,24% com a reação ao reajuste do Bolsa Família, mas recuperou as perdas à tarde, apoiado por Vale (VALE3), pelo alívio nos juros futuro"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "B3 (B3SA3) aprova R$ 1,128 bilhão em JCP; veja quem tem direito",
+   "url": "https://www.moneytimes.com.br/b3-b3sa3-aprova-r-1128-bilhao-em-jcp-veja-quem-tem-direito-pads/",
+   "publicado": "2026-09-17T21:53:15+00:00",
+   "tickers": [],
+   "resumo": "A B3 (B3SA3) aprovou nesta quinta-feira (17) o pagamento de R$ 1,128 bilhão em juros sobre capital próprio (JCP), somando distribuições regulares e extraordinárias. Os acionistas receberão os valores em 7 de outubro de 2026. O montante corresponde ao valor bruto estimado de R$ 0,"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Fed sobe juros: o que a história diz sobre as bolsas daqui para frente, segundo o Citi",
+   "url": "https://www.moneytimes.com.br/fed-sobe-juros-o-que-a-historia-diz-sobre-as-bolsas-daqui-para-frente-segundo-o-citi-lils/",
+   "publicado": "2026-09-17T21:37:35+00:00",
+   "tickers": [],
+   "resumo": "O Federal Reserve (Fed, o Banco Central dos Estados Unidos) elevou os juros pela primeira vez desde julho de 2023 na última quarta-feira (16), levando a taxa de juros para a faixa de 3,75% a 4,00% ao ano. A reação do mercado foi imediata: os índices de Wall Street fecharam o preg"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Ibovespa, juros e dólar vivem sessão volátil com reajuste do Bolsa Família, mas encerram o dia com ganho",
+   "url": "https://investnews.com.br/investimentos/ibovespa-juro-dolar-sessao-volatil/",
+   "publicado": "2026-09-17T21:27:47+00:00",
+   "tickers": [],
+   "resumo": "Aumento do Bolsa Família, que deve gerar gasto extra de R$ 22 bilhões, derrubou ativos. Mas sentimento negativo se dissolveu"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Fundo reorganiza sua fatia nos bilionários royalties do Porto Sudeste",
+   "url": "https://investnews.com.br/negocios/fundo-royalties-porto-sudeste-eike/",
+   "publicado": "2026-09-17T21:17:29+00:00",
+   "tickers": [],
+   "resumo": "Direitos comprados na falência da MMX de Eike dão acesso a um pedaço dos R$ 8,3 bilhões em royalties projetados até 2028"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "IFIX encerra pregão em alta de 0,13%, aos 3.747,47 pontos",
+   "url": "https://www.suno.com.br/noticias/ifix-encerra-pregao-em-alta-de-013-aos-3-74747-pontos/",
+   "publicado": "2026-09-17T21:15:05+00:00",
+   "tickers": [],
+   "resumo": "O IFIX encerrou o pregão desta quinta-feira (17) aos 3.747,47 pontos, em alta de 0,13%. O desempenho representou um avanço de 4,90 pontos frente ao fechamento anterior, de 3.742,57 pontos. O movimento manteve o índice de fundos imobiliários no campo positivo ao longo do dia, com "
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Mercado cripto encolhe: Lemon deixa o Brasil e Crypto.com encerra operações em reais",
+   "url": "https://valorinveste.globo.com/mercados/cripto/noticia/2026/09/17/mercado-cripto-encolhe-lemon-deixa-o-brasil-e-cryptocom-encerra-operacoes-em-reais.ghtml",
+   "publicado": "2026-09-17T20:55:55+00:00",
+   "tickers": [],
+   "resumo": "A reorganização do mercado brasileiro de criptoativos ganhou mais dois capítulos nesta semana. A Lemon, fintech argentina de criptos, anunciou que vai encerrar suas operações no Brasil, enquanto a Crypto.com, uma das maiores exchanges globais, decidiu acabar com sua conta em reai"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Por trás do reajuste do Bolsa Família, mercado vê um governo acuado",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/17/por-tras-do-reajuste-do-bolsa-familia-o-mercado-ve-um-governo-acuado.ghtml",
+   "publicado": "2026-09-17T20:39:42+00:00",
+   "tickers": [
+    "VALE3"
+   ],
+   "resumo": "A poucos dias do primeiro turno das eleições, o governo anunciou um aumento de 15% no valor do Bolsa Família. O benefício mínimo passa de R$ 600 para R$ 691, enquanto o pagamento médio sobe de R$ 675 para R$ 777. De imediato, a medida gerou dúvidas no mercado quanto à trajetória "
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "SEC abre caminho para ações tokenizadas nos EUA; entenda o que muda",
+   "url": "https://www.suno.com.br/noticias/acoes-tokenizadas-sec-isencao-estados-unidos/",
+   "publicado": "2026-09-17T20:25:09+00:00",
+   "tickers": [],
+   "resumo": "A Securities and Exchange Commission (SEC), órgão equivalente à CVM nos Estados Unidos, anunciou nesta quinta-feira (17) uma isenção regulatória temporária para facilitar a negociação de ações tokenizadas no mercado norte-americano. A autorização terá validade de cinco anos e seg"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Brasileiro investiu mais em crédito privado do que deveria, alertam especialistas",
+   "url": "https://valorinveste.globo.com/credito-privado/noticia/2026/09/17/brasileiro-investiu-mais-em-credito-privado-do-que-deveria-alertam-especialistas.ghtml",
+   "publicado": "2026-09-17T19:46:20+00:00",
+   "tickers": [],
+   "resumo": "As carteiras dos investidores estão com mais aplicações de crédito privado do que deveriam, alertaram analistas, distribuidores e gestores em um painel durante um congresso da Associação Brasileira do Planejamento Financeiro (Planejar), realizado nesta quinta-feira (17) em São Pa"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "No mercado de energia, risco maior movimenta derivativos, colateral e até bolsa",
+   "url": "https://braziljournal.com/no-mercado-de-energia-risco-maior-movimenta-derivativos-colateral-e-ate-bolsa/",
+   "publicado": "2026-09-17T19:44:51+00:00",
+   "tickers": [],
+   "resumo": "O mercado de comercialização de eletricidade ficou muito mais complexo – e arriscado.  Com a recente onda de recuperações judiciais de tradings de energia, o aumento na volatilidade de preços, a menor liquidez no mercado e problemas como cortes na geração de usinas renováveis, as"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Como investir R$ 1 milhão? Veja o que não pode faltar na estratégia",
+   "url": "https://www.suno.com.br/noticias/como-investir-r-1-milhao-estrategia-mt/",
+   "publicado": "2026-09-17T19:35:08+00:00",
+   "tickers": [],
+   "resumo": "Chegar ao primeiro milhão muda o tamanho das possibilidades, mas também amplia o custo dos erros. Para entender como investir R$ 1 milhão, o primeiro passo não é escolher a aplicação com a maior taxa, e sim organizar o patrimônio de acordo com objetivos, prazos, necessidade de li"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Pequena indústria que fatura milhões: veja a diferença de custo do Simples normal para o regime híbrido",
+   "url": "https://investnews.com.br/negocios/simulacao-simples-regime-hibrido/",
+   "publicado": "2026-09-17T19:28:57+00:00",
+   "tickers": [],
+   "resumo": "Faturamento, clientes, fornecedores e despesas entram na conta da empresa que precisa escolher entre os regimes"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Remuneração do assessor com taxa fixa pode ter cobranças escondidas também",
+   "url": "https://valorinveste.globo.com/objetivo/hora-de-investir/noticia/2026/09/17/remuneracao-do-assessor-com-taxa-fixa-pode-ter-cobrancas-escondidas-tambem.ghtml",
+   "publicado": "2026-09-17T18:48:02+00:00",
+   "tickers": [],
+   "resumo": "Nos últimos anos, ficou mais comum que os investidores possam decidir como desejam pagar pelos serviços de distribuição e assessoria de investimentos: comissões pagas pelos produtos vendidos ou uma taxa fixa anual paga sobre o valor total investido. O modelo da taxa fixa frequent"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Totvs (TOTS3) pode subir 37%? Ação está barata, aponta relatório",
+   "url": "https://www.suno.com.br/noticias/totvs-tots3-acoes-potencial-alta-inteligencia-artificial-mt/",
+   "publicado": "2026-09-17T18:45:06+00:00",
+   "tickers": [
+    "TOTS3"
+   ],
+   "resumo": "As ações da Totvs (TOTS3) podem avançar 37%, segundo relatório da XP Research divulgado nesta quinta-feira (17). A casa manteve a recomendação de compra para os papéis e estabeleceu preço-alvo de R$ 47 para o fim de 2027. O potencial foi calculado com base na cotação de R$ 34,20 "
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Aumento do Bolsa Família: qual o impacto na Selic?",
+   "url": "https://valorinveste.globo.com/mercados/moedas-e-juros/noticia/2026/09/17/aumento-do-bolsa-familia-qual-o-impacto-na-selic.ghtml",
+   "publicado": "2026-09-17T18:40:41+00:00",
+   "tickers": [],
+   "resumo": "O aumento de 15% do Bolsa Família coloca mais dinheiro no bolso de milhões de famílias e também adiciona uma nova variável às contas do Banco Central (BC) justamente quando o mercado começa a discutir até onde o Comitê de Política Monetária (Copom) poderá levar o atual ciclo de c"
   },
   {
    "fonte": "Suno Noticias",
@@ -38,14 +304,6 @@
    "resumo": "O IBC-Br recuou 0,2% em julho na comparação com junho, considerando a série com ajuste sazonal, informou o Banco Central. A queda foi maior que a esperada pelo mercado e marcou o segundo mês consecutivo de retração da atividade econômica. A mediana das projeções reunidas pela Reu"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Bolsas da Europa avançam de olho no petróleo; Londres acompanha decisão do BoE",
-   "url": "https://www.moneytimes.com.br/europa-17-9-26-apsa/",
-   "publicado": "2026-09-17T17:58:32+00:00",
-   "tickers": [],
-   "resumo": "Os índices europeus fecharam em alta nesta quinta-feira (17), impulsionados pela nova rodada de queda do petróleo e alívio nos juros soberanos, o que contribuiu para o desempenho das ações de tecnologia, automóveis e companhias mais sensíveis ao custo de energia. Em Londres, o me"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Putin coloca ativos da Nestlé sob controle temporário na Rússia",
    "url": "https://investnews.com.br/negocios/putin-coloca-ativos-da-nestle-sob-controle-temporario-na-russia/",
@@ -54,62 +312,12 @@
    "resumo": "Putin também determinou a transferência dos ativos da Auchan, rede francesa de supermercados, na Rússia"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "‘Medida eleitoreira, ilegal, populista e criminosa’: O que disseram Flávio Bolsonaro, Renan e Zema sobre reajuste do Bolsa Família",
-   "url": "https://www.moneytimes.com.br/flavio-bolsonaro-afirma-que-reajuste-do-bolsa-familia-durante-eleicoes-e-ilegal-e-proibido-gaep/",
-   "publicado": "2026-09-17T17:51:13+00:00",
-   "tickers": [],
-   "resumo": "Candidatos à Presidência da República reagiram com críticas pesadas ao reajuste de 15% do Bolsa Família anunciado pelo governo Luiz Inácio Lula da Silva (PT), que tenta seu quarto mandato. Principal adversário de Lula, Flávio Bolsonaro (PL) classificou o reajuste como &#8220;ileg"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Desconto e dividendos elevados: Este fundo imobiliário é compra para a XP e pode subir até 61% na bolsa",
-   "url": "https://www.moneytimes.com.br/desconto-e-dividendos-elevados-este-fundo-imobiliario-e-compra-para-a-xp-e-pode-subir-ate-61-na-bolsa-igdl/",
-   "publicado": "2026-09-17T17:49:37+00:00",
-   "tickers": [
-    "JSRE11"
-   ],
-   "resumo": "A XP Investimentos recomenda compra para o fundo imobiliário JS Real Estate Multigestão (JSRE11), com preço-alvo de R$ 97,48 para as cotas, o que representa um potencial de valorização (upside) de 61% frente ao valor atual, de R$ 60,49. Em relatório, os analistas Marx Gonçalves e"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Safra mantém recomendação de compra e vê TSMC subindo até 47% — mas cita temores para IA após falas de executivos; entenda",
-   "url": "https://www.moneytimes.com.br/safra-mantem-recomendacao-de-compra-e-ve-tsmc-subindo-ate-47-mas-cita-temores-para-ia-apos-falas-de-executivos-entenda-rens/",
-   "publicado": "2026-09-17T17:22:58+00:00",
-   "tickers": [],
-   "resumo": "O relatório de atualização de cobertura do banco Safra sobre a Taiwan Semiconductor Manufacturing Company (TSMC) mostra que os analistas do banco enxergam um potencial de valorização de 47% para as ações da fabricante de chips e semicondutores. O novo preço-alvo para os papéis sa"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "‘Salta aos olhos’: 12 das 22 empresas de transporte coletivo em SP são controladas pelo PCC",
-   "url": "https://www.moneytimes.com.br/salta-aos-olhos-12-das-22-empresas-de-transporte-coletivo-em-sp-sao-controladas-pelo-pcc-gaep/",
-   "publicado": "2026-09-17T17:22:29+00:00",
-   "tickers": [],
-   "resumo": "O desembargador Sérgio Ribas, da 8ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, afirmou, na decisão que autorizou a Operação Vectura Corrupta, que &#8220;salta aos olhos&#8221; o fato de as investigações do Ministério Público apontarem que 12 das 22 empresas q"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Avibras: Conheça a fabricante de mísseis e tecnologia aeroespacial comprada pelos irmãos Batista",
-   "url": "https://www.moneytimes.com.br/avibras-conheca-a-fabricante-de-misseis-e-tecnologia-aeroespacial-comprada-pelos-irmaos-batista/",
-   "publicado": "2026-09-17T17:16:57+00:00",
-   "tickers": [],
-   "resumo": "A Superintendência-Geral do Conselho Administrativo de Defesa Econômica (Cade) recomendou a aprovação, sem restrições, da compra da Avibras pela sociedade dos irmãos Joesley e Wesley Batista, donos da JBS. Se essa liberação for mesmo confirmada, deve marcar a virada de página de "
-  },
-  {
    "fonte": "Suno Noticias",
    "titulo": "ETFs encostam em 1 milhão de investidores e já somam R$ 142 bilhões",
    "url": "https://www.suno.com.br/noticias/etfs-1-milhao-investidores-b3-mt/",
    "publicado": "2026-09-17T17:15:06+00:00",
    "tickers": [],
    "resumo": "O mercado brasileiro de ETFs está próximo de alcançar a marca de 1 milhão de investidores. Em agosto, 929 mil pessoas possuíam aplicações nesses fundos, número 39% maior do que o registrado um ano antes, segundo dados apresentados pela B3 (B3SA3). O patrimônio total da indústria "
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "ACM Neto vê interferência eleitoral na divulgação de pedido de busca em operação da Polícia Federal",
-   "url": "https://www.moneytimes.com.br/acm-neto-ve-interferencia-eleitoral-na-divulgacao-de-pedido-de-busca-em-operacao-da-policia-federal-gaep/",
-   "publicado": "2026-09-17T17:09:07+00:00",
-   "tickers": [],
-   "resumo": "O candidato ao governo da Bahia ACM Neto (União Brasil) afirmou nesta quinta-feira (17) que a divulgação do pedido de busca e apreensão feito pela Polícia Federal contra ele no âmbito da Operação Overclean representa uma tentativa de interferência no processo eleitoral. O ex-pref"
   },
   {
    "fonte": "InvestNews",
@@ -138,17 +346,6 @@
    "resumo": "O Grupo Casas Bahia (BHIA3) recebeu um alerta formal da B3 por manter suas ações negociadas abaixo de R$ 1 e tem até 1º de março de 2027 para regularizar a cotação. A companhia divulgou fato relevante à Comissão de Valores Mobiliários (CVM) comunicando o recebimento do aviso e in"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "TRXF11: FII controlado vende imóvel por R$ 41 milhões; veja impacto",
-   "url": "https://www.suno.com.br/noticias/trxb11-vende-imovel-em-goiania/",
-   "publicado": "2026-09-17T15:26:01+00:00",
-   "tickers": [
-    "TRXB11",
-    "TRXF11"
-   ],
-   "resumo": "O fundo imobiliário TRXB11, controlado pelo TRXF11, concluiu a venda de um imóvel no Setor Bueno, em Goiânia, por R$ 41 milhões, dentro de um plano de desinvestimento na capital goiana. Como controlador e principal investidor do TRXB11, o TRXF11 deve absorver indiretamente os efe"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Reajuste do Bolsa Família: quando começa a valer e quem terá direito?",
    "url": "https://valorinveste.globo.com/educacao-financeira/noticia/2026/09/17/reajuste-do-bolsa-familia-quando-comeca-a-valer-e-quem-tera-direito.ghtml",
@@ -165,40 +362,12 @@
    "resumo": "Virada dos mercados coincidiu com anúncio de reajuste surpresa do Bolsa Família menos de três semanas para a eleição"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "Corte da Selic afeta dividendos dos fundos de papel? Entenda",
-   "url": "https://www.suno.com.br/noticias/fundos-de-papel-selic-efeitos/",
-   "publicado": "2026-09-17T14:35:08+00:00",
-   "tickers": [],
-   "resumo": "O corte de 0,25 ponto percentual da taxa Selic, para 13,75% ao ano, reacendeu dúvidas entre investidores de fundos de papel. Com o início de um ciclo de queda de juros, o que tende a mudar para essa classe de FIIs e faz sentido manter esses ativos no radar? A resposta passa, sobr"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Volvo lançará 13 modelos em maior ofensiva da história para recuperar crescimento",
    "url": "https://investnews.com.br/negocios/volvo-lancara-13-modelos-em-maior-ofensiva-da-historia-para-recuperar-crescimento/",
    "publicado": "2026-09-17T14:23:15+00:00",
    "tickers": [],
    "resumo": "Até 2030, a Volvo lançará sete novos carros para os mercados ocidentais e seis para a China"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "RBRR11 e mais fundos imobiliários pagam dividendos hoje (17); veja quais",
-   "url": "https://www.suno.com.br/noticias/dividendos-hoje-6-fiis-pagam-2/",
-   "publicado": "2026-09-17T14:15:05+00:00",
-   "tickers": [
-    "RBRR11"
-   ],
-   "resumo": "Seis fundos imobiliários vão distribuir proventos nesta quinta-feira. Entre eles, dois veículos da RBR repassarão R$ 0,90 e R$ 1,00 por cota aos cotistas. Os investidores dos FIIs que pagam dividendos hoje recebem os valores automaticamente na conta da corretora, sem necessidade "
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Petrobras (PETR4) assina Contratos de Partilha para oito blocos offshore na Costa do Marfim",
-   "url": "https://www.suno.com.br/noticias/petrobras-assina-contratos-de-partilha-para-oito-blocos-offshore-go/",
-   "publicado": "2026-09-17T13:48:00+00:00",
-   "tickers": [
-    "PETR4"
-   ],
-   "resumo": "Petrobras (PETR4) assina Contratos de Partilha para oito blocos offshore na Costa do MarfimA Petrobras (PETR4) informou nesta quinta-feira, 17, que sua subsidiária integral Petrobras Netherlands B.V. (PNBV) assinou Contratos de Partilha de Produção (PSCs, na sigla em inglês) para"
   },
   {
    "fonte": "Valor Investe",
@@ -250,24 +419,14 @@
   },
   {
    "fonte": "Valor Investe",
-   "titulo": "Ibovespa volta a subir com suporte de alta da Vale (VALE3)",
+   "titulo": "Ibovespa supera susto do Bolsa Família em fecha em alta com suporte da Vale (VALE3)",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/17/dolar-e-ibovespa-hoje-17-de-setembro-de-2026.ghtml",
    "publicado": "2026-09-17T12:05:13+00:00",
    "tickers": [
     "PETR4",
     "VALE3"
    ],
-   "resumo": "O Ibovespa registra forte vaivém nesta quinta-feira (17). Após abrir em alta, passou a cair firme em seguida à divulgação pelo governo federal de reajuste o Bolsa Família com aumento de 15% dos benefícios. Agora, volta a subir com apoio da Vale (VALE3), que opera em alta de 2% na"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Amazon (AMZO34) fecha acordo de US$ 2,4 bilhões com Generac para data centers",
-   "url": "https://www.suno.com.br/noticias/amazon-fecha-acordo-de-us-24-bilhoes-com-generac-go/",
-   "publicado": "2026-09-17T11:55:00+00:00",
-   "tickers": [
-    "AMZO34"
-   ],
-   "resumo": "Amazon (AMZO34) fecha acordo de US$ 2,4 bilhões com Generac para data centersA Amazon (AMZO34) fechou um acordo de US$ 2,4 bilhões com a Generac para o fornecimento de geradores de energia de reserva destinados a data centers, segundo documento apresentado pela fabricante norte-a"
+   "resumo": "O Ibovespa, principal índice de ações brasileiro, registrou forte volatilidade nesta quinta-feira (17), com a  divulgação pelo governo federal de reajuste o Bolsa Família. A forte valorização dos papéis da Vale (VALE3), no entanto, sustentaram os ganhos e o índice fechou o pregão"
   },
   {
    "fonte": "Valor Investe",
@@ -418,22 +577,6 @@
    "resumo": "Veja como descobrir o local de votação, checar a situação do título e se organizar para o primeiro turno"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "Copom corta Selic para 13,75%, mas evita prometer novas quedas",
-   "url": "https://www.suno.com.br/noticias/copom-corta-selic-1375-proximos-passos/",
-   "publicado": "2026-09-16T22:27:00+00:00",
-   "tickers": [],
-   "resumo": "Copom corta Selic para 13,75%, mas evita prometer novas quedasO Copom (Comitê de Política Monetária) reduziu a taxa Selic em 0,25 ponto percentual nesta quarta-feira (16), de 14% para 13,75% ao ano. A decisão foi unânime e marcou o quinto corte consecutivo de mesma magnitude, mas"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "IFIX fecha quarta-feira em ligeira queda de 0,06%, aos 3.742,57 pontos",
-   "url": "https://www.suno.com.br/noticias/ifix-fecha-quarta-feira-em-ligeira-queda-de-006-aos-3-74257-pontos/",
-   "publicado": "2026-09-16T22:25:09+00:00",
-   "tickers": [],
-   "resumo": "O IFIX encerrou o pregão desta quarta-feira (16) aos 3.742,57 pontos, em baixa de 0,06%. O recuo corresponde a 2,32 pontos frente ao fechamento anterior, de 3.744,89 pontos, e confirmou a leve queda do índice no dia. Ao longo da sessão, o índice de fundos imobiliários oscilou ent"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Copom corta juros pela quinta vez seguida, para 13,75% ao ano – na última reunião antes das eleições",
    "url": "https://investnews.com.br/financas/banco-central-corta-juros-1375-copom/",
@@ -578,14 +721,6 @@
    "resumo": "O banco central dos Estados Unidos (Federal Reserve, o Fed) aumentou seus juros em 0,25 ponto percentual nesta quarta-feira (16). A alta da taxa básica para a faixa entre 3,75% e 4,00% ao ano foi a primeira desde julho de 2023.\nNão é de hoje que a autoridade monetária está temero"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "União Europeia convida Canadá a se tornar o primeiro ‘membro associado’ do bloco",
-   "url": "https://investnews.com.br/economia/uniao-europeia-convida-canada-a-se-tornar-o-primeiro-membro-associado-do-bloco/",
-   "publicado": "2026-09-16T17:08:33+00:00",
-   "tickers": [],
-   "resumo": "Proposta cria uma nova categoria de associação e pode abrir caminho para o aprofundamento dos laços com o bloco"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "ETFs de renda fixa devem chegar a R$ 1 tri em até cinco anos, diz Galapagos",
    "url": "https://valorinveste.globo.com/produtos/fundos/noticia/2026/09/16/etfs-de-renda-fixa-devem-chegar-a-r-1-tri-em-ate-cinco-anos-diz-galapagos.ghtml",
@@ -612,28 +747,12 @@
    "resumo": "Os fundos negociados em bolsa (ETF, na sigla em inglês) são o produto da B3 que registrou o maior crescimento em número de investidores pessoas físicas no segundo trimestre de 2026, na comparação com o mesmo período do ano passado. Eram 639 mil investidores e passaram a ser 862 m"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Chefe de IA da Microsoft alerta que Claude, da Anthropic, pode ser arriscado",
-   "url": "https://investnews.com.br/negocios/chefe-de-ia-da-microsoft-alerta-que-claude-da-anthropic-pode-ser-arriscado/",
-   "publicado": "2026-09-16T15:02:09+00:00",
-   "tickers": [],
-   "resumo": "Executivo da Microsoft questiona riscos de treinar sistemas de IA para simular emoções e comportamentos humanos"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Taxas do Tesouro Direto recuam em dia de Copom anunciar nova Selic",
    "url": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/09/16/taxas-do-tesouro-direto-recuam-em-dia-de-copom-anunciar-nova-selic.ghtml",
    "publicado": "2026-09-16T14:58:37+00:00",
    "tickers": [],
    "resumo": "Os rendimentos dos títulos do Tesouro Direto recuam nesta superquarta (16) de juros no Brasil e nos Estados Unidos. O dia é também é marcado por queda na bolsa brasileira, com o Ibovespa em campo negativo, impactado pela queda no preço do petróleo.\nO mercado aguarda um corte de 0"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Donos bilionários do Dollywood planejam futuro sem Dolly Parton",
-   "url": "https://investnews.com.br/negocios/donos-bilionarios-do-dollywood-planejam-futuro-sem-dolly-parton/",
-   "publicado": "2026-09-16T14:41:24+00:00",
-   "tickers": [],
-   "resumo": "O legado do parque Dollywood, nos Estados Unidos, está nas mãos de uma discreta família bilionária"
   },
   {
    "fonte": "Valor Investe",
@@ -644,44 +763,12 @@
    "resumo": "O volume de ofertas no mercado de capitais encolheu 16% em agosto, na comparação anual, para R$ 48,8 bilhões, segundo dados divulgados hoje pela Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais (Anbima). Ante julho, houve queda de 28%. \nNo acumulado do an"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Urna eleitoral: entenda como é feito o teste de integridade a cada votação",
-   "url": "https://investnews.com.br/economia/teste-de-integridade-urna-eletronica/",
-   "publicado": "2026-09-16T13:16:25+00:00",
-   "tickers": [],
-   "resumo": "Entenda como o TSE cruza cédulas de papel com o resultado eletrônico para provar que nenhum voto é alterado"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Mulher mais rica da Rússia vê fortuna encolher após onda de ataques com drones",
-   "url": "https://investnews.com.br/negocios/mulher-mais-rica-da-russia-ve-fortuna-encolher-apos-onda-de-ataques-com-drones/",
-   "publicado": "2026-09-16T12:40:15+00:00",
-   "tickers": [],
-   "resumo": "Ataques destruíram US$ 6,4 bilhões em mercadorias da Wildberries, concorrente russa da Amazon, e atingiram mais de 20 instalações"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "McLaren abrirá nova fábrica de carros para produzir seu primeiro SUV",
-   "url": "https://investnews.com.br/negocios/mclaren-abrira-nova-fabrica-de-carros-para-produzir-seu-primeiro-suv/",
-   "publicado": "2026-09-16T12:26:25+00:00",
-   "tickers": [],
-   "resumo": "McLaren afirmou que criará 1.000 novos postos de trabalho até 2032 no Reino Unido"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "IBC-Br, a prévia do PIB, cai 0,2% em julho, em linha com o esperado pelo mercado",
    "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/09/16/ibc-br-a-previa-do-pib-cai-02percent-em-julho-em-linha-com-o-esperado-pelo-mercado.ghtml",
    "publicado": "2026-09-16T12:19:18+00:00",
    "tickers": [],
    "resumo": "O Índice de Atividade Econômica do Banco Central (IBC-Br), considerado uma prévia do Produto Interno Bruto (PIB), caiu 0,2% em julho na comparação com junho, conforme divulgou o Banco Central (BC) nesta quarta-feira (16). Em junho, o indicador teve queda de 0,88% (dado revisado a"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "iFood investe R$ 24 bilhões no Brasil para enfrentar concorrência no delivery",
-   "url": "https://investnews.com.br/negocios/ifood-investe-r-24-bilhoes-no-brasil-para-enfrentar-concorrencia-no-delivery/",
-   "publicado": "2026-09-16T12:13:56+00:00",
-   "tickers": [],
-   "resumo": "Do total, R$ 2 bilhões vão para tecnologia e IA, enquanto o iFood Benefícios receberá R$ 1 bilhão"
   },
   {
    "fonte": "Valor Investe",
@@ -692,14 +779,6 @@
     "PETR4"
    ],
    "resumo": "O Ibovespa passou a cair na reta final do pregão desta quarta-feira (16), depois que o Federal Reserve (Fed, o banco central americano) elevou os juros dos Estados Unidos em 0,25 ponto, para a faixa de 3,75% a 4% ao ano, na primeira alta desde julho de 2023. \nO principal índice d"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Com inflação em alta nos EUA, credibilidade do Fed é colocada em jogo nesta superquarta",
-   "url": "https://investnews.com.br/investimentos/credibilidade-do-fed-pode-estar-em-jogo-nesta-superquarta/",
-   "publicado": "2026-09-16T11:53:17+00:00",
-   "tickers": [],
-   "resumo": "Mais de 95% das apostas de mercado apontam para alta de taxas nos EUA e um corte aqui no Brasil"
   },
   {
    "fonte": "Valor Investe",
@@ -739,14 +818,6 @@
    "resumo": "Embraer\nO governo federal avalia usar títulos soberanos de Angola como garantia para viabilizar um financiamento de cerca de R$ 2 bilhões, ou US$ 400 milhões, para a compra de aeronaves militares da Embraer pelo país, apurou o Valor. A alternativa, que seria inédita, entrou em di"
   },
   {
-   "fonte": "Valor Investe",
-   "titulo": "Bancos centrais do Brasil e dos EUA decidem juros nesta superquarta",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/16/bancos-centrais-do-brasil-e-dos-eua-decidem-juros-nesta-superquarta.ghtml",
-   "publicado": "2026-09-16T10:43:39+00:00",
-   "tickers": [],
-   "resumo": "O Comitê de Política Monetária (Copom) do Banco Central do Brasil e o Federal Reserve (Fed, o banco central dos Estados Unidos) decidem os juros nesta superquarta, como é apelidado o dia em que os dois têm reuniões de política monetária. Os investidores acompanham as comunicações"
-  },
-  {
    "fonte": "Brazil Journal",
    "titulo": "EDITORIAL. Só a urna salva",
    "url": "https://braziljournal.com/editorial-so-a-urna-salva/",
@@ -755,94 +826,12 @@
    "resumo": "Com seus olhos de granito vendados e a espada no colo, a estátua da Justiça – este símbolo de temperança que nos legou Ceschiatti – sabe que esta crise do Supremo não é como as demais. Anos de convívio no ambiente rarefeito dos gabinetes, carros oficiais e escoltas fizeram os min"
   },
   {
-   "fonte": "Valor Investe",
-   "titulo": "Bets são percebidas como alternativa para tapar buracos no orçamento",
-   "url": "https://valorinveste.globo.com/blogs/hudson-bessa/coluna/bets-sao-percebidas-como-alternativa-para-tapar-buracos-no-orcamento.ghtml",
-   "publicado": "2026-09-16T09:30:01+00:00",
-   "tickers": [],
-   "resumo": "O assunto aposta online continua quente na imprensa. Já tínhamos tratado aqui neste espaço sobre estudos que apontam deslocamento de recursos do comércio varejista para as plataformas de jogos e sobre o aumento do endividamento para custear apostas. O assunto vem evoluindo e nos "
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "‘Cripto de dólar’ movimenta 15 vezes mais que Bitcoin no Brasil; entenda a virada",
-   "url": "https://valorinveste.globo.com/mercados/cripto/noticia/2026/09/16/cripto-de-dolar-movimenta-15-vezes-mais-que-bitcoin-no-brasil-entenda-a-virada.ghtml",
-   "publicado": "2026-09-16T09:20:01+00:00",
-   "tickers": [],
-   "resumo": "A relação dos brasileiros com as criptomoedas, ativos tradicionalmente especulativos e de alto risco, está mudando de natureza, conforme mostram os dados mais recentes da Receita Federal. Somente no primeiro semestre deste ano, a Tether (USDT), maior “cripto de dólar” do mercado "
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Onde os ricos investem? Veja os fundos, ações e títulos de renda fixa favoritos dos endinheirados",
-   "url": "https://valorinveste.globo.com/objetivo/hora-de-investir/noticia/2026/09/16/onde-os-ricos-investem-veja-os-fundos-acoes-e-titulos-de-renda-fixa-favoritos-dos-endinheirados.ghtml",
-   "publicado": "2026-09-16T09:10:01+00:00",
-   "tickers": [
-    "BBAS3",
-    "BBDC4",
-    "BBSE3",
-    "GOLD11",
-    "ITUB4",
-    "LFTB11",
-    "LIGT3",
-    "PETR4",
-    "VALE3"
-   ],
-   "resumo": "A renda fixa continua reinando nas carteiras dos investidores mais endinheirados. Em agosto, a classe respondia por 50,9% do portfólio médio desse público, segundo o levantamento mensal da SmartBrain. É uma fatia menor do que a de julho, quando a renda fixa ocupava 51,59%, mas a "
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Brasil com desconto? A matemática que colocou o EWZ à frente dos emergentes em setembro",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/16/brasil-com-desconto-a-matematica-que-colocou-o-ewz-a-frente-dos-emergentes-em-setembro.ghtml",
-   "publicado": "2026-09-16T09:00:00+00:00",
-   "tickers": [],
-   "resumo": "O Brasil está barato? A diferença de preço entre as ações brasileiras e os demais mercados emergentes ajuda a entender por que o país voltou ao radar dos investidores estrangeiros em setembro. O EWZ, principal ETF negociado em Nova York que serve de espelho para as ações brasilei"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "72 apostas dividem prêmio de R$ 323,1 milhões da Lotofácil da Independência 2026",
-   "url": "https://valorinveste.globo.com/loterias/noticia/2026/09/15/resultado-da-lotofacil-da-independencia-2026-veja-numeros-sorteados-e-ganhadores.ghtml",
-   "publicado": "2026-09-16T00:43:42+00:00",
-   "tickers": [],
-   "resumo": "resultado da Lotofácil da Independência 2026 com prêmio recorde de R$ 323,1 milhões foi divulgado nesta terça-feira (15), em São Paulo, e 72 apostas vão dividir a bolada. \nCada jogo que acertou as 15 dezenas vai receber R$ 4,4 milhões, entre bolões e apostas simples.\nOs números s"
-  },
-  {
    "fonte": "Brazil Journal",
    "titulo": "‘Metanol no more’. Diageo cria selo high-tech para garantir que o Johnnie é Walker",
    "url": "https://braziljournal.com/metanol-no-more-diageo-cria-selo-high-tech-para-garantir-que-o-johnnie-e-walker/",
    "publicado": "2026-09-15T23:39:36+00:00",
    "tickers": [],
    "resumo": "Numa nova trincheira da guerra contra os falsificadores, a Diageo Brasil decidiu criar um selo de autenticidade high tech para suas garrafas. A gigante de bebidas lançou o “Selo Drink Seguro”, um sistema antifraude que permite ao consumidor verificar pelo celular se uma garrafa d"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "O CDI é mesmo o ‘risk-free’ brasileiro?",
-   "url": "https://braziljournal.com/o-cdi-e-mesmo-o-risk-free-brasileiro/",
-   "publicado": "2026-09-15T23:05:21+00:00",
-   "tickers": [],
-   "resumo": "Ter boa parte do patrimônio indexada ao CDI – uma preferência nacional que ganhou ainda mais destaque com a Selic onde está – não é um problema apenas quando os juros caem.  É um risco – porque não tem sido suficiente para proteger o patrimônio da inflação, mostra um estudo feito"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "Na Venezuela, reconstruir o setor elétrico pode exigir até US$ 40 bilhões",
-   "url": "https://braziljournal.com/na-venezuela-reconstruir-o-setor-eletrico-pode-exigir-ate-us-40-bilhoes/",
-   "publicado": "2026-09-15T22:15:28+00:00",
-   "tickers": [],
-   "resumo": "Em meio à volta das petroleiras internacionais à Venezuela desde a derrubada de Nicolás Maduro, o país está entrando no radar também de investidores interessados em seu setor elétrico.  A própria retomada da indústria petrolífera vai demandar mais eletricidade, e ainda serão nece"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "Cenário-base do mercado é de ajuste fiscal pós-eleição. De novo?",
-   "url": "https://braziljournal.com/cenario-base-do-mercado-e-de-ajuste-fiscal-pos-eleicao-de-novo/",
-   "publicado": "2026-09-15T22:02:59+00:00",
-   "tickers": [],
-   "resumo": "Sob o risco de se decepcionar (de novo), o mercado trabalha com o cenário-base de que o próximo governo, independente de qual for, fará algum ajuste fiscal.  O assunto foi debatido num painel que reuniu Christian Egan, CEO da B3, e os economistas-chefes do Bradesco, Fernando Hono"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "OPINIÃO. Precisamos atrair cérebros – e reter os que já estão aqui",
-   "url": "https://braziljournal.com/opiniao-precisamos-atrair-cerebros-e-reter-os-que-ja-estao-aqui/",
-   "publicado": "2026-09-14T23:25:02+00:00",
-   "tickers": [],
-   "resumo": "As Big Techs disputam uma corrida sem precedentes por talentos em inteligência artificial. Na Meta, Mark Zuckerberg passou a oferecer a pesquisadores pacotes de remuneração de até US$ 300 milhões em quatro anos, acirrando uma disputa que já mobilizava as principais empresas do se"
   }
  ]
 }
