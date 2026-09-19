@@ -3,6 +3,282 @@
  "itens": 100,
  "dados": [
   {
+   "fonte": "Suno Noticias",
+   "titulo": "SNEL11: Na contramão do IFIX, FII sobe 0,25% após aquisição de 28 usinas solares",
+   "url": "https://www.suno.com.br/noticias/snel11-na-contramao-do-ifix-fii-sobe-025-apos-aquisicao-de-28-usinas-solares/",
+   "publicado": "2026-09-18T23:25:06+00:00",
+   "tickers": [
+    "SNEL11"
+   ],
+   "resumo": "O fundo imobiliário SNEL11 subiu 0,25%, cotado a R$ 7,95, no pregão desta sexta-feira (18), com volume de aproximadamente R$ 5,6 milhões. O avanço ocorre após a formalização de uma operação de R$ 565,04 milhões para aquisição de 28 empreendimentos de geração distribuída solar, qu"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "B3: Fiagros voltam a ganhar força; volume negociado dispara em agosto",
+   "url": "https://www.suno.com.br/noticias/b3-fiagros-voltam-a-ganhar-forca-volume-negociado-dispara-em-agosto/",
+   "publicado": "2026-09-18T23:05:04+00:00",
+   "tickers": [],
+   "resumo": "Os Fiagros retomaram a expansão da atividade na B3 em agosto de 2026. O total de negócios com fundos ligados às cadeias do agronegócio subiu de 24,9 milhões em julho para 41,6 milhões no mês passado, avanço de aproximadamente 67%, conforme o boletim mensal divulgado pela bolsa. O"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Estatal de correios italiana torna-se controladora indireta da TIM Brasil (TIMS3)",
+   "url": "https://www.moneytimes.com.br/estatal-de-correios-italiana-torna-se-controladora-indireta-da-tim-brasil-tims3/",
+   "publicado": "2026-09-18T22:50:25+00:00",
+   "tickers": [
+    "TIMS3"
+   ],
+   "resumo": "A TIM (TIMS3) anunciou nesta sexta-feira que a empresa estatal de correios da Itália Poste Italiane tornou-se controladora indireta do grupo brasileiro de telecomunicações como resultado de uma oferta pelas ações da Telecom Italia. A Poste Italiane, que já tinha 20% de participaç"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "TOTVS (TOTS3) aprova pagamento de JCP; veja valores",
+   "url": "https://www.moneytimes.com.br/totvs-tots3-aprova-pagamento-de-jcp-veja-valores/",
+   "publicado": "2026-09-18T22:46:44+00:00",
+   "tickers": [
+    "TOTS3"
+   ],
+   "resumo": "A TOTVS (TOTS3) aprovou o pagamento de juros sobre capital próprio (JCP) de R$ 0,15 por ação, conforme decisão do Conselho de Administração em reunião realizada nesta quinta-feira (18). O montante bruto total do provento será de aproximadamente R$ 85 milhões. Segundo a companhia,"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Juros futuros recuam de olho no quadro eleitoral",
+   "url": "https://www.moneytimes.com.br/juros-futuros-18-9-26-apsa/",
+   "publicado": "2026-09-18T22:39:30+00:00",
+   "tickers": [],
+   "resumo": "A curva de juros futuros encerrou o dia com redução dos prêmios em todos os vencimentos, após estresse inicial com o anúncio do reajuste de 15% no Bolsa Família, o que aumentou as preocupações fiscais do mercado. Agentes não viram um gatilho específico para a acomodação da curva "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Milho e soja caem em Chicago por realização de lucros",
+   "url": "https://www.moneytimes.com.br/milho-e-soja-caem-em-chicago-por-realizacao-de-lucros-pads/",
+   "publicado": "2026-09-18T22:33:57+00:00",
+   "tickers": [],
+   "resumo": "Os contratos futuros do milho e soja dos EUA caíram nesta sexta-feira, à medida que os operadores realizavam lucros após as recentes máximas em vários anos, os preços do petróleo recuavam e a colheita avançava no Meio-Oeste, apesar das chuvas esporádicas, segundo analistas. A ate"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "J&F, dos Batista, se prepara para virar companhia aberta e ampliar acesso ao mercado de dívida",
+   "url": "https://investnews.com.br/negocios/batista-jef-companhia-aberta/",
+   "publicado": "2026-09-18T22:23:19+00:00",
+   "tickers": [],
+   "resumo": "Grupo dos irmãos Batista pediu registro à CVM em modalidade que permite negociar debêntures e outros títulos de dívida no país"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Fundo imobiliário XPML11 negocia fatia do Shopping Cidade Jardim por R$ 454 milhões",
+   "url": "https://www.suno.com.br/noticias/fundo-imobiliario-xpml11-negocia-fatia-do-shopping-cidade-jardim-por-r-454-milhoes/",
+   "publicado": "2026-09-18T22:15:05+00:00",
+   "tickers": [
+    "XPML11"
+   ],
+   "resumo": "O XP Malls Fundo de Investimento Imobiliário – FII (/XPML11) firmou acordo para vender sua participação de 16,99% no Shopping Cidade Jardim, em São Paulo, por R$ 454 milhões. O comprador é o JHSF Capital SCJ Fundo de Investimento Imobiliário, conforme fato relevante divulgado nes"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Boa Safra (SOJA3) reelege CEO e renova diretoria por dois anos",
+   "url": "https://www.moneytimes.com.br/boa-safra-soja3-reelege-ceo-e-renova-diretoria-por-dois-anos-pads/",
+   "publicado": "2026-09-18T22:08:13+00:00",
+   "tickers": [
+    "SOJA3"
+   ],
+   "resumo": "O conselho de administração da Boa Safra (SOJA3) aprovou a reeleição de Marino Stefani Colpo como diretor-presidente da companhia para um novo mandato de dois anos. A decisão foi tomada por unanimidade em reunião realizada em 16 de setembro. A empresa também renovou, pelo mesmo p"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Fleury (FLRY3) antecipa pagamento de R$ 217,8 milhões em JCP; veja a nova data",
+   "url": "https://www.moneytimes.com.br/fleury-flry3-antecipa-pagamento-de-r-2178-milhoes-em-jcp-veja-a-nova-data-pads/",
+   "publicado": "2026-09-18T22:06:35+00:00",
+   "tickers": [
+    "FLRY3"
+   ],
+   "resumo": "O Fleury (FLRY3) antecipou para 28 de setembro o pagamento de R$ 217,8 milhões em juros sobre o capital próprio (JCP), informou a companhia nesta sexta-feira (18). Anteriormente, os proventos seriam pagos em 2 de outubro. A distribuição, aprovada em 6 de agosto, corresponde ao va"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Campeãs de queda: O que azedou o humor dos investidores com a CSN Mineração (CMIN3) e CSN (CSNA3) na semana?",
+   "url": "https://www.moneytimes.com.br/o-que-azedou-o-humor-dos-investidores-com-a-csn-mineracao-cmin3-e-csn-csna3-nesta-semana-apsa/",
+   "publicado": "2026-09-18T22:01:06+00:00",
+   "tickers": [
+    "CMIN3",
+    "CSNA3"
+   ],
+   "resumo": "A CSN Mineração (CMIN3) e a CSN (CSNA3) tiveram uma nova semana como destaque no Ibovespa (IBOV), mas liderando as maiores quedas do índice. Em cinco pregões, a CMIN3, em primeiro lugar, desabou 18,75%, enquanto a CSNA3, em terceiro lugar, teve perda de 12,16%. Uma junção de fato"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "IFIX fecha sexta-feira em ligeira alta e termina semana estável",
+   "url": "https://www.suno.com.br/noticias/ifix-fecha-sexta-feira-em-ligeira-alta-e-termina-semana-estavel/",
+   "publicado": "2026-09-18T21:55:08+00:00",
+   "tickers": [],
+   "resumo": "O IFIX terminou o pregão desta sexta-feira (18) aos 3.750,27 pontos, alta de 0,07%. O desempenho representa avanço de 2,8 pontos frente ao fechamento anterior, que havia sido de 3.747,47 pontos na sessão de quinta-feira. No acumulado semanal, o índice ficou praticamente estável, "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Por que essa gestora com R$ 5 bilhões na carteira vê derrota de Lula como quase certa",
+   "url": "https://www.moneytimes.com.br/por-que-essa-gestora-com-r-5-bilhoes-na-carteira-ve-derrota-de-lula-como-quase-certa/",
+   "publicado": "2026-09-18T21:52:01+00:00",
+   "tickers": [],
+   "resumo": "A eleição presidencial de 2026 ainda está longe de ser definida pelas urnas, mas uma gestora com cerca de R$ 5 bilhões sob gestão já trabalha com um cenário bastante claro: o presidente Luiz Inácio Lula da Silva (PT) chegaria ao segundo turno em desvantagem contra Flávio Bolsonar"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Ibovespa cai com Vale (VALE3) e Petrobras (PETR4) e interrompe sequência de ganhos",
+   "url": "https://www.suno.com.br/noticias/ibovespa-cai-vale-vale3-petrobras-petr4-fechamento-mt/",
+   "publicado": "2026-09-18T21:45:07+00:00",
+   "tickers": [
+    "PETR4",
+    "VALE3"
+   ],
+   "resumo": "O Ibovespa fechou em queda nesta sexta-feira (18), pressionado pelo ambiente de maior cautela no exterior e pelo desempenho negativo de pesos pesados da carteira, como Vale (VALE3) e Petrobras (PETR4). O principal índice da B3 recuou 0,41%, aos 185.229,17 pontos, após oscilar ent"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Fundos imobiliários chegam a 3,3 milhões de investidores na B3",
+   "url": "https://www.suno.com.br/noticias/fundos-imobiliarios-chegam-a-33-milhoes-de-investidores-na-b3/",
+   "publicado": "2026-09-18T21:35:08+00:00",
+   "tickers": [],
+   "resumo": "O mercado de fundos imobiliários fechou agosto de 2026 com 3,327 milhões de investidores com posição em custódia na B3, o maior patamar da série recente do boletim mensal. Em julho, eram 3,297 milhões — um incremento de cerca de 30 mil investidores em um mês. Em horizonte mais am"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Preocupação com ‘excessos’ em data centers cresce e alguns títulos já são enquadrados como junk bonds",
+   "url": "https://investnews.com.br/negocios/data-centers-titulos-ja-sao-junk-bonds/",
+   "publicado": "2026-09-18T21:33:52+00:00",
+   "tickers": [],
+   "resumo": "Nova emissão de US$ 2,3 bilhões é voltada para financiar equipamentos da Meta e ofereceu juros perto de 8,25%, segundo a Bloomberg"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Porto (PSSA3) aprova R$ 333,4 milhões em JCP; veja quem tem direito",
+   "url": "https://www.moneytimes.com.br/porto-seguro-pssa3-aprova-r-3334-milhoes-em-jcp-veja-quem-tem-direito-pads/",
+   "publicado": "2026-09-18T21:27:39+00:00",
+   "tickers": [
+    "PSSA3"
+   ],
+   "resumo": "O conselho de administração da Porto (PSSA3) aprovou nesta sexta-feira (18) a distribuição de R$ 333,43 milhões em juros sobre o capital próprio (JCP), referentes ao terceiro trimestre de 2026. O montante corresponde ao valor preliminar de R$ 0,52065720703 bruto por ação, ou R$ 0"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "A economia começou a perder fôlego e a eleição vai sentir",
+   "url": "https://www.moneytimes.com.br/a-economia-comecou-a-perder-folego-e-a-eleicao-vai-sentir/",
+   "publicado": "2026-09-18T21:24:23+00:00",
+   "tickers": [],
+   "resumo": "Há momentos em que o mercado muda antes de a economia mudar de verdade. Não porque os problemas tenham desaparecido, mas porque os preços começam a refletir uma distribuição diferente de riscos. Talvez seja exatamente isso que esteja acontecendo no Brasil. Agosto começou com uma "
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Dá para votar sem título de eleitor? Veja o que precisa levar no dia da votação",
+   "url": "https://investnews.com.br/economia/da-para-votar-sem-titulo-eleicoes-2026/",
+   "publicado": "2026-09-18T21:04:17+00:00",
+   "tickers": [],
+   "resumo": "O documento de papel não é mais obrigatório; saiba como votar sem título e checar se o seu cadastro está regular"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Desaceleração da economia ameaça reeleição de Milei na Argentina",
+   "url": "https://investnews.com.br/economia/desaceleracao-da-economia-ameaca-reeleicao-de-milei-na-argentina/",
+   "publicado": "2026-09-18T20:50:07+00:00",
+   "tickers": [],
+   "resumo": "Economia argentina encolhe pela primeira vez em dois anos, aumentando a pressão sobre Milei antes da eleição de 2027"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Ibovespa tem primeira queda semanal em pouco mais de um mês. O que mudou?",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/18/ibovespa-tem-primeira-queda-semanal-em-pouco-mais-de-um-mes-o-que-mudou.ghtml",
+   "publicado": "2026-09-18T20:48:59+00:00",
+   "tickers": [
+    "VALE3"
+   ],
+   "resumo": "Depois de quatro semanas seguidas de ganhos, embaladas pelo otimismo eleitoral e pela expectativa de juros mais baixos, o Ibovespa carimbou nesta sexta-feira (18) sua primeira semana no vermelho em pouco mais de um mês - a última havia sido em 14 de agosto. \nO principal índice da"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Um jovem Arnault no ‘board’ de uma Nike desesperada",
+   "url": "https://braziljournal.com/um-jovem-arnault-no-board-de-uma-nike-desesperada/",
+   "publicado": "2026-09-18T20:30:46+00:00",
+   "tickers": [],
+   "resumo": "Embrenhada em uma crise sem precedentes, a Nike anunciou que Alexandre Arnault – um dos filhos de Bernard, o controlador da LVMH, e número 2 da Moët Hennessy – vai ocupar uma cadeira no board da companhia. Segundo executivos da produtora de materiais esportivos, o francês de 34 a"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Bitcoin dispara 5%, supera US$ 81 mil e muda resultado da semana",
+   "url": "https://valorinveste.globo.com/mercados/cripto/noticia/2026/09/18/bitcoin-dispara-5percent-supera-us-81-mil-e-muda-resultado-da-semana.ghtml",
+   "publicado": "2026-09-18T20:27:01+00:00",
+   "tickers": [],
+   "resumo": "O Bitcoin (BTC) disparou mais de 5% na tarde desta sexta-feira (18) e voltou a ser negociado acima dos US$ 81 mil. Com o movimento, a principal criptomoeda do mercado passou a acumular ganho de pouco mais de 4% na semana, revertendo o desempenho dos dias anteriores.\nA arrancada c"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "BTG fecha acordo com WTorre e passa a controlar a operação do Nubank Parque",
+   "url": "https://investnews.com.br/negocios/btg-novo-controlador-nubank-parque/",
+   "publicado": "2026-09-18T19:56:36+00:00",
+   "tickers": [],
+   "resumo": "Banco liderado por André Esteves será acionista majoritário da arena do Palmeiras, enquanto WTorre seguirá como sócia relevante"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "O que a Faria Lima não vê? Estudo revela por que o brasileiro pensa nas dívidas antes de investir",
+   "url": "https://www.suno.com.br/noticias/onde-investir-brasileiro-dividas-estudo-mt/",
+   "publicado": "2026-09-18T19:35:00+00:00",
+   "tickers": [],
+   "resumo": "O que a Faria Lima não vê? Estudo revela por que o brasileiro pensa nas dívidas antes de investirAntes de descobrir onde investir, o brasileiro procura respostas para problemas mais imediatos, como pagar dívidas, enfrentar o aperto no orçamento, formar uma reserva e proteger a fa"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Lobo promete ‘nova CVM’ baseada em tecnologia: ‘Será um parto a fórceps’",
+   "url": "https://valorinveste.globo.com/mercados/noticia/2026/09/18/lobo-promete-nova-cvm-baseada-em-tecnologia-sera-um-parto-a-forceps.ghtml",
+   "publicado": "2026-09-18T19:31:00+00:00",
+   "tickers": [],
+   "resumo": "O presidente da Comissão de Valores Mobiliários (CVM), Otto Lobo, afirmou nesta sexta-feira (18) que a autarquia terá um novo modelo de infraestrutura baseada em tecnologia para detectar irregularidades e acompanhar de perto o mercado. \"Não vai ser um parto natural, será um parto"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Após falência, ações da Oi (OIBR3, OIBR4) serão excluídas da bolsa; entenda",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/09/18/apos-falencia-acoes-da-oi-oibr3-oibr4-serao-excluidas-da-bolsa-entenda.ghtml",
+   "publicado": "2026-09-18T19:12:50+00:00",
+   "tickers": [
+    "OIBR3",
+    "OIBR4"
+   ],
+   "resumo": "A Oi disse hoje que recebeu ofício da B3 informando que a operadora da bolsa decidiu pela deslistagem das ações ordinárias (OIBR3) e preferenciais (OIBR4) da companhia de telecomunicações em decorrência da decretação de sua falência.\n\nCom o cancelamento, as ações deixarão de ser "
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Eleições 2026: quais países usam urna eletrônica como o Brasil?",
+   "url": "https://investnews.com.br/economia/eleicoes-2026-paises-urna-eletronica/",
+   "publicado": "2026-09-18T18:54:53+00:00",
+   "tickers": [],
+   "resumo": "Brasil não é o único país a usar tecnologia da urna eletrônica na votação"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Pix: veja o que muda para quem paga boleto, recebe salário e tem transação suspeita de fraude",
+   "url": "https://valorinveste.globo.com/produtos/servicos-financeiros/noticia/2026/09/18/pix-veja-o-que-muda-para-quem-paga-boleto-recebe-salario-e-tem-transacao-suspeita-de-fraude.ghtml",
+   "publicado": "2026-09-18T18:35:22+00:00",
+   "tickers": [],
+   "resumo": "O Banco Central (BC) anunciou nesta sexta-feira (18) uma série de mudanças nas regras do Pix que terão efeitos diretos para os usuários. Entre as novidades estão novas proteções para quem tiver uma transação marcada por suspeita de fraude, mecanismos para evitar pagamentos em dup"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "B3 (B3SA3) aprova mais de R$ 1,1 bilhão em JCP; veja datas e valores",
+   "url": "https://www.suno.com.br/noticias/b3-b3sa3-jcp-datas-valores-pagamento/",
+   "publicado": "2026-09-18T18:35:00+00:00",
+   "tickers": [],
+   "resumo": "A B3 (B3SA3) aprovou o pagamento de R$ 1,128 bilhão em juros sobre capital próprio. O montante combina uma distribuição regular de R$ 378 milhões com outros R$ 750 milhões em proventos extraordinários. Os JCP da B3 serão pagos em 7 de outubro de 2026. Segundo o histórico de prove"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Acionistas da HBR Realty (HBRE3) aprovam oferta para assumir controle e fechar capital da Helbor (HBOR3)",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/09/18/acionistas-da-hbr-realty-hbre3-aprovam-oferta-para-assumir-controle-e-fechar-capital-da-helbor-hbor3.ghtml",
+   "publicado": "2026-09-18T18:22:08+00:00",
+   "tickers": [
+    "HBOR3",
+    "HBRE3"
+   ],
+   "resumo": "Os acionistas da HBR Realty (HBRE3) aprovaram hoje por maioria de votos a realização da oferta com o objetivo de aquirir o controle e promover o cancelamento do registro de companhia aberta da Helbor (HBOR3).\n\nSegundo ata divulgada pela companhia, 98,1% dos presentes na assemblei"
+  },
+  {
    "fonte": "Valor Investe",
    "titulo": "A pouco mais de um mês do final do prazo, só cinco empresas de cripto pediram licença ao BC",
    "url": "https://valorinveste.globo.com/mercados/cripto/noticia/2026/09/18/a-pouco-mais-de-um-mes-do-final-do-prazo-so-cinco-empresas-de-cripto-pediram-licenca-ao-bc.ghtml",
@@ -22,68 +298,12 @@
    "resumo": "EZTec (EZTC3) fecha contrato bilionário com Itaú (ITUB4); analistas veem dividendo de até 25%As ações da EZTec (EZTC3) subiram nesta sexta-feira (18) após a incorporadora anunciar um contrato de R$ 1,17 bilhão com o Itaú Unibanco (ITUB4) para a locação integral do Esther Towers, "
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Ministro da Defesa tem o celular clonado; golpista pede doação de R$ 5",
-   "url": "https://www.moneytimes.com.br/ministro-da-defesa-tem-o-celular-clonado-golpista-pede-doacao-de-r-5-gaep/",
-   "publicado": "2026-09-18T17:31:36+00:00",
-   "tickers": [],
-   "resumo": "O ministro da Defesa, José Múcio Monteiro, teve sua conta do aplicativo de mensagens WhatsApp clonada nesta sexta-feira (18). Criminosos utilizaram o perfil de Múcio para pedir transferências bancárias via Pix para pessoas da lista contato do ministro. Nas mensagens enviadas por "
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Bolsas da Europa recuam com pressão de títulos soberanos globais",
-   "url": "https://www.moneytimes.com.br/europa-18-9-26-apsa/",
-   "publicado": "2026-09-18T17:30:09+00:00",
-   "tickers": [],
-   "resumo": "Os índices europeus recuaram nesta sexta-feira (18) diante do avanço global dos rendimentos dos títulos soberanos, com pressão nas ações de telecomunicações e energia. O petróleo perdeu força após o alívio parcial das preocupações com oferta no Oriente Médio, mas a persistência d"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Carla Zambelli contrata novo advogado para contestar extradição e condenações no STF",
-   "url": "https://www.moneytimes.com.br/zambelli-contrata-novo-advogado-para-contestar-extradicao-e-condenacoes-no-stf-gaep/",
-   "publicado": "2026-09-18T17:25:37+00:00",
-   "tickers": [],
-   "resumo": "A ex-deputada federal Carla Zambelli contratou o advogado brasileiro Eduardo Maurício para reforçar sua defesa e contestar as condenações impostas a ela pela Justiça brasileira. O novo advogado passou a atuar no caso na quinta-feira (17) e trabalhará em conjunto com o italiano Pi"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Milton Leite não se entrega após 24h e Polícia vai até Sorocaba (SP) para tentar prender ex-vereador",
-   "url": "https://www.moneytimes.com.br/milton-leite-nao-se-entrega-apos-24h-e-policia-vai-ate-sorocaba-para-tentar-prender-ex-vereador-gaep/",
-   "publicado": "2026-09-18T17:18:22+00:00",
-   "tickers": [],
-   "resumo": "A Polícia Civil do Estado de São Paulo foi até Sorocaba, no interior paulista, na manhã desta sexta-feira ( 18), para tentar prender o ex-vereador Milton Leite (União Brasil), que presidiu a Câmara Municipal de São Paulo por seis anos. Leite é considerado foragido. Ele é alvo de "
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Mbappé deixa Nike e assina com a On, que está entrando no mercado do futebol",
-   "url": "https://www.moneytimes.com.br/mbappe-deixa-nike-e-assina-com-a-on-que-esta-entrando-no-mercado-do-futebol/",
-   "publicado": "2026-09-18T17:16:41+00:00",
-   "tickers": [],
-   "resumo": "O astro do futebol francês Kylian Mbappé encerrou sua parceria de duas décadas com a Nike e assinou contrato com a marca suíça de roupas esportivas On, o mais recente revés para a marca norte-americana, à medida que novos concorrentes ganham espaço no mercado de calçados esportiv"
-  },
-  {
    "fonte": "Suno Noticias",
    "titulo": "Investo lança fundo de previdência de renda fixa com 100% em ETFs locais e globais",
    "url": "https://www.suno.com.br/noticias/investo-lanca-fundo-previdencia-renda-fixa-100-etfs-locais-globais-vi/",
    "publicado": "2026-09-18T17:15:06+00:00",
    "tickers": [],
    "resumo": "A Investo anunciou o lançamento do Investo Renda Fixa Selic Global BRL, fundo de previdência de renda fixa cuja carteira é composta integralmente por ETFs com exposição aos mercados brasileiro e internacional. O produto combina 60% de renda fixa local e 40% de renda fixa global e"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Selic pode cair a 13%, mas eleições ameaçam ações brasileiras, diz executivo da EQI",
-   "url": "https://www.moneytimes.com.br/selic-pode-cair-a-13-mas-eleicoes-ameacam-acoes-brasileiras-diz-executivo-da-eqi-ceci/",
-   "publicado": "2026-09-18T16:59:48+00:00",
-   "tickers": [],
-   "resumo": "O cenário de maior volatilidade global, combinado às incertezas geopolíticas e eleitorais, tem levado investidores a repensar suas estratégias de alocação. Em entrevista ao Giro do Mercado, Alexandre Viotto, chefe de banking da EQI, afirmou que os Bancos Centrais têm recorrido ao"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "On Holding fecha contrato de 10 anos com Mbappé; ações da Nike caem",
-   "url": "https://www.suno.com.br/noticias/on-holding-onon-contrato-mbappe-10-anos-acionista-go/",
-   "publicado": "2026-09-18T16:43:57+00:00",
-   "tickers": [],
-   "resumo": "On Holding fecha contrato de 10 anos com Mbappé; ações da Nike caemO jogador do Real Madrid e atacante da seleção da França Kylian Mbappé encerrou nesta sexta-feira (18) sua parceria de duas décadas com a Nike para assinar um contrato de 10 anos com a On Holding (NYSE: ONON), mar"
   },
   {
    "fonte": "InvestNews",
@@ -94,77 +314,12 @@
    "resumo": "Com a projeção de lucro, as ações da Volkswagen registraram a maior queda em um ano"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "Accenture (ACN) e Google Cloud criam grupo com 1.000 engenheiros de IA; entenda o movimento",
-   "url": "https://www.suno.com.br/noticias/accenture-google-cloud-grupo-ia-gemini-enterprise-mt/",
-   "publicado": "2026-09-18T16:25:10+00:00",
-   "tickers": [],
-   "resumo": "A Accenture (ACN) e o Google Cloud, unidade da Alphabet (GOOGL; GOOG), ampliaram sua parceria com a criação de um grupo global voltado à implementação do Gemini Enterprise. A nova estrutura contará com uma força de trabalho formada por 1.000 engenheiros especializados em levar pr"
-  },
-  {
    "fonte": "Brazil Journal",
    "titulo": "MEMÓRIA. Rodrigo Cass, antes do tempo",
    "url": "https://braziljournal.com/memoria-rodrigo-cass-antes-do-tempo/",
    "publicado": "2026-09-18T16:23:52+00:00",
    "tickers": [],
    "resumo": "Quase de forma sagrada, Rodrigo Cass foi se revelando artista enquanto vivia num mosteiro, estudando para ser padre. Mesmo depois de sair de lá para abraçar sua carreira, continuava fazendo retiros a cada dois meses. Ontem, este ser humano extraordinariamente delicado nos deixou "
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "PMLL11 adquire participação em 5 shoppings; veja valor da operação",
-   "url": "https://www.suno.com.br/noticias/pmll11-compra-cinco-shoppings-257-mi/",
-   "publicado": "2026-09-18T16:15:07+00:00",
-   "tickers": [
-    "PMLL11"
-   ],
-   "resumo": "O fundo imobiliário PMLL11 avançou na expansão do portfólio ao adquirir participações em cinco shopping centers localizados em São Paulo, no Rio Grande do Norte e no Ceará. A operação totaliza R$ 257,06 milhões e conclui o pipeline de investimentos previsto para os recursos capta"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "O que está por trás da ‘bolha de lucros’ do S&P 500 e por que vale ficar de olho, segundo o Goldman Sachs",
-   "url": "https://www.moneytimes.com.br/o-que-esta-por-tras-da-bolha-de-lucros-do-sp-500-segundo-o-goldman-sachs-apsa/",
-   "publicado": "2026-09-18T16:05:19+00:00",
-   "tickers": [],
-   "resumo": "A recente força do crescimento dos lucros do S&#38;P 500 levantou preocupações entre investidores de que o mercado esteja em uma &#8220;bolha de lucros&#8221;. O Goldman Sachs estima um retorno de 14% do S&#38;P 500, atingindo os 8,700 pontos, devido à expectativa de continuidade"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Diesel bate recorde nos EUA e pressiona custos da safra e dos alimentos",
-   "url": "https://www.moneytimes.com.br/diesel-bate-recorde-nos-eua-e-pressiona-custos-da-safra-e-dos-alimentos-pads/",
-   "publicado": "2026-09-18T15:58:30+00:00",
-   "tickers": [],
-   "resumo": "No nordeste do Missouri, Addie Yoder, produtora de milho, soja e criadora de gado, opera duas colheitadeiras, três caminhões-reboque e vários tratores, de meados de setembro até o final de outubro, para colher e transportar suas safras. Com os preços do diesel em níveis recordes "
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Defesa cita pedido de vista de Dino no STF e pede revogação de prisão preventiva de Daniel Vorcaro",
-   "url": "https://www.moneytimes.com.br/defesa-cita-pedido-de-vista-de-dino-no-stf-e-pede-revogacao-de-prisao-preventiva-de-vorcaro-gaep/",
-   "publicado": "2026-09-18T15:52:08+00:00",
-   "tickers": [],
-   "resumo": "A defesa de Daniel Vorcaro pediu ao Supremo Tribunal Federal (STF) nesta sexta-feira (18) a revogação ou a substituição por medidas cautelares da prisão preventiva dele, decretada na Operação Compliance Zero, que apura crimes financeiros envolvendo o Banco Master. Preso desde 4 d"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Lula diz que governo terá PAC 4 e reserva de royalties do petróleo para investir em educação",
-   "url": "https://www.moneytimes.com.br/lula-diz-que-governo-tera-pac-4-e-reserva-de-royalties-do-petroleo-para-investir-em-educacao-gaep/",
-   "publicado": "2026-09-18T15:37:06+00:00",
-   "tickers": [],
-   "resumo": "O presidente Luiz Inácio Lula da Silva (PT) afirmou nesta sexta-feira (18) que o governo já prepara um novo Programa de Aceleração do Crescimento, o PAC 4, para definir novas obras de infraestrutura para investimento federal no país. Em entrevista à Rádio Tupi do Rio de Janeiro, "
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "6 FIIs comunicam rebalanceamento de índices internacionais; veja quais",
-   "url": "https://www.suno.com.br/noticias/rebalanceamento-de-indices-fundos-imobiliarios/",
-   "publicado": "2026-09-18T15:15:06+00:00",
-   "tickers": [
-    "ALZR11",
-    "GGRC11",
-    "HGLG11",
-    "HGRU11",
-    "PVBI11",
-    "TRXF11"
-   ],
-   "resumo": "Os investidores de fundos imobiliários têm um evento específico para monitorar nesta sexta-feira (18). GGRC11, ALZR11, TRXF11, HGLG11, HGRU11 e PVBI11 divulgaram comunicados ao mercado sobre um rebalanceamento de índices internacionais no fechamento do pregão, fator que pode gera"
   },
   {
    "fonte": "Brazil Journal",
@@ -189,14 +344,6 @@
    "publicado": "2026-09-18T14:13:35+00:00",
    "tickers": [],
    "resumo": "A democracia não depende da ausência de crises. Depende de instituições capazes de resolvê-las. Desde a Constituição de 1988, o Brasil atravessou crises políticas e éticas graves. Na maior parte delas, porém, uma ou mais instituições preservaram autoridade e legitimidade suficien"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Warren Buffett deixa presidência do Conselho de Administração da Berkshire Hathaway",
-   "url": "https://www.suno.com.br/noticias/warren-buffett-deixa-presidencia-berkshire-hathaway-go/",
-   "publicado": "2026-09-18T14:10:00+00:00",
-   "tickers": [],
-   "resumo": "Warren Buffett deixa presidência do Conselho de Administração da Berkshire HathawayO megainvestidor Warren Buffett deixou a presidência do Conselho de Administração da Berkshire Hathaway. No lugar dele assume o filho Howard G. Buffett, diretor desde 1993. Buffett, 96 anos, foi no"
   },
   {
    "fonte": "Valor Investe",
@@ -263,11 +410,11 @@
   },
   {
    "fonte": "Valor Investe",
-   "titulo": "Taxas do Tesouro Direto caem com alívio no petróleo e apoio externo",
+   "titulo": "Taxas do Tesouro Direto caem com alívio no petróleo, na contramão do exterior",
    "url": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/09/18/taxas-do-tesouro-direto-caem-com-alivio-no-petroleo-e-apoio-externo.ghtml",
    "publicado": "2026-09-18T13:09:16+00:00",
    "tickers": [],
-   "resumo": "Os rendimentos dos títulos do Tesouro Direto operam em queda nesta terça-feira (18) e caminham para encerrar a semana em torno da estabilidade. O queda do preço do petróleo, desde ontem, apagou a forte valorização observada no início da semana e dá alívio ao mercado de renda fixa"
+   "resumo": "Os rendimentos dos títulos do Tesouro Direto operam em queda nesta terça-feira (18) e caminham para encerrar a semana praticamente no mesmo nível do fechamento da semana anterior. O queda do preço do petróleo, desde ontem, apagou a forte valorização observada no início da semana "
   },
   {
    "fonte": "InvestNews",
@@ -276,17 +423,6 @@
    "publicado": "2026-09-18T12:55:15+00:00",
    "tickers": [],
    "resumo": "Segundo a Bloomberg, a Huaxin, Votorantim e Polimix fizeram propostas de cerca de R$ 11 bilhões cada"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Veja os FIIs que vão receber dividendos nesta sexta-feira (18)",
-   "url": "https://www.suno.com.br/noticias/dividendos-hoje-fiis-pagam-rendimentos-4/",
-   "publicado": "2026-09-18T12:45:06+00:00",
-   "tickers": [
-    "MCCI11",
-    "VGIP11"
-   ],
-   "resumo": "Quatro FIIs têm repasses nesta sexta-feira, com MCCI11 e VGIP11 entre os destaques. O MCCI11 pagará R$ 1,00 por cota aos investidores, enquanto o VGIP11 distribuirá R$ 0,88. Os cotistas recebem os valores de forma automática na conta da corretora vinculada à posição. Pela legisla"
   },
   {
    "fonte": "InvestNews",
@@ -306,15 +442,16 @@
   },
   {
    "fonte": "Valor Investe",
-   "titulo": "Ibovespa recua com queda do petróleo e eleições em foco; dólar sobe",
+   "titulo": "Ibovespa fecha em queda com recuo do petróleo e eleições em foco; dólar sobe",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/18/dolar-e-ibovespa-hoje-18-de-setembro-de-2026.ghtml",
    "publicado": "2026-09-18T12:07:12+00:00",
    "tickers": [
+    "AXIA3",
     "PETR3",
     "PETR4",
     "VALE3"
    ],
-   "resumo": "O Ibovespa opera queda nesta sexta-feira (18), enquanto o dólar sobe. A queda do preço do barril do petróleo retira o suporte das ações da Petrobras (PETR3, PETR4). As ações da Vale (VALE3) também recuam. Investidores acompanham os impactos das últimas pesquisas de intenção de vo"
+   "resumo": "O Ibovespa, principal índice de ações brasileiro, fechou em queda nesta sexta-feira (18), acompanhando o viés negativo dos mercados globais. Os juros dos títulos do Tesouro americano voltaram a subir, com o rendimento de dez anos novamente acima de 5%, em meio à cautela com a inf"
   },
   {
    "fonte": "Valor Investe",
@@ -326,11 +463,11 @@
   },
   {
    "fonte": "InvestNews",
-   "titulo": "Buffett deixa presidência do conselho da Berkshire",
+   "titulo": "Warren Buffett deixa presidência do conselho da Berkshire: ‘o tempo sempre vence’",
    "url": "https://investnews.com.br/negocios/buffett-deixa-presidencia-do-conselho-da-berkshire/",
    "publicado": "2026-09-18T12:00:01+00:00",
    "tickers": [],
-   "resumo": "Aos 96 anos, Buffett deixa a presidência do conselho após cerca de seis décadas à frente da companhia"
+   "resumo": "Aos 96 anos, lendário investidor deixa a presidência do conselho após cerca de seis décadas à frente da companhia"
   },
   {
    "fonte": "Valor Investe",
@@ -339,16 +476,6 @@
    "publicado": "2026-09-18T11:58:10+00:00",
    "tickers": [],
    "resumo": "À medida que os efeitos da política monetária se tornam mais visíveis e se refletem em uma desaceleração um pouco mais intensa da atividade econômica, o Bradesco acredita que o Banco Central terá espaço para continuar a reduzir a taxa básica de juros. A pausa no ciclo de flexibil"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Mitre (MTRE3) paga dividendos nesta sexta-feira; veja valores",
-   "url": "https://www.suno.com.br/noticias/a-mitre-mtre3-agenda-dividendos-18092026/",
-   "publicado": "2026-09-18T11:55:00+00:00",
-   "tickers": [
-    "MTRE3"
-   ],
-   "resumo": "Mitre (MTRE3) paga dividendos nesta sexta-feira; veja valoresA Mitre (MTRE3) vai pagar dividendos aos seus acionistas nesta sexta-feira (18). Os dividendos da Mitre que serão pagos hoje (18/09) somam R$ 0,0283 por ação. Para receber os dividendos da Mitre, os acionistas tinham qu"
   },
   {
    "fonte": "InvestNews",
@@ -448,16 +575,6 @@
    "publicado": "2026-09-18T01:02:39+00:00",
    "tickers": [],
    "resumo": "Operação de até R$ 80 milhões é o primeiro passo de um plano que pode levar combustíveis a mais de 100 lojas"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "FII CCME11 vê carteira de CRIs render até IPCA + 15,8% com desconto da cota",
-   "url": "https://www.suno.com.br/noticias/fii-ccme11-ve-carteira-de-cris-render-ate-ipca-158-com-desconto-da-cota/",
-   "publicado": "2026-09-18T00:15:04+00:00",
-   "tickers": [
-    "CCME11"
-   ],
-   "resumo": "O fundo imobiliário informou que o desconto das cotas no mercado secundário eleva a remuneração implícita de sua carteira de crédito. Segundo a gestão, ao considerar o preço de mercado e não apenas o valor patrimonial, os CRIs passam a embutir taxas de CDI + 12,5% ao ano e IPCA +"
   },
   {
    "fonte": "Valor Investe",
@@ -670,38 +787,6 @@
    "resumo": "O governo federal anunciou nesta quinta-feira (17) o reajuste do valor mínimo do programa Bolsa Família, a 17 dias das eleições e meio à piora nas intenções de voto ao presidente Luiz Inácio Lula da Silva (PT). O piso do benefício terá aumento de 15% e sairá de R$ 600 para R$ 691"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Sabesp finaliza incorporação da totalidade das ações da EMAE",
-   "url": "https://investnews.com.br/negocios/sabesp-finaliza-incorporacao-da-totalidade-das-acoes-da-emae/",
-   "publicado": "2026-09-17T13:21:38+00:00",
-   "tickers": [],
-   "resumo": "A Sabesp adquiriu o controle da EMAE em março e agora completa a operação de incorporar as ações restantes"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Petrobras amplia operação na África, com contratos de exploração de oito novos blocos",
-   "url": "https://investnews.com.br/negocios/petrobras-amplia-operacao-na-africa-com-contratos-de-exploracao-de-oito-novos-blocos/",
-   "publicado": "2026-09-17T13:06:41+00:00",
-   "tickers": [],
-   "resumo": "Petrobras terá 90% de participação operacional nos blocos, enquanto a PETROCI Holding ficará com 10%"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Tesouro Direto vira para alta após anúncio do Bolsa Família e apaga alívio do Copom",
-   "url": "https://investnews.com.br/investimentos/tesouro-direto-taxas-rendimento-hoje-apos-copom-selic-17092026/",
-   "publicado": "2026-09-17T12:52:09+00:00",
-   "tickers": [],
-   "resumo": "Queda foi puxada pelos prefixados longos, enquanto o IPCA+ mantém juro real acima de 7%. Confira as taxas de todos os títulos nesta quinta-feira (17)"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Azevedo & Travassos vende controle da Verde Alagoas Ambiental por R$ 21 milhões",
-   "url": "https://investnews.com.br/negocios/azevedo-travassos-vende-controle-da-verde-alagoas-ambiental-por-r-21-milhoes/",
-   "publicado": "2026-09-17T12:47:13+00:00",
-   "tickers": [],
-   "resumo": "Companhia de engenharia assinou contrato de venda"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Mega-Sena 3059 sorteia prêmio de R$ 102 milhões hoje; veja como apostar e fazer bolão",
    "url": "https://valorinveste.globo.com/loterias/noticia/2026/09/17/mega-sena-3059-sorteio-hoje-veja-como-apostar-e-fazer-bolao.ghtml",
@@ -729,14 +814,6 @@
    "resumo": "Existem duas questões envolvendo taxas de juros no Brasil que vêm motivando discussões entre economistas e agentes do mercado, em busca de explicações.\nA primeira delas é estrutural e tem a ver com o nível da taxa de juros no Brasil. A discussão não é apenas sobre a taxa básica S"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Lula e Flávio estão empatados em meio à crise no STF, diz Atlas",
-   "url": "https://investnews.com.br/economia/lula-e-flavio-estao-empatados-em-meio-a-crise-no-stf-diz-atlas/",
-   "publicado": "2026-09-17T11:34:25+00:00",
-   "tickers": [],
-   "resumo": "Lula e Flávio aparecem com 47% dos votos cada em eventual segundo turno"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Petrobras (PETR4), Bradesco (BBDC4), BradSaúde (SAUD3), OceanPact e mais: Veja os destaques das empresas",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/09/17/petrobras-petr4-bradesco-bbdc4-bradsaude-saud3-oceanpact-e-mais-veja-os-destaques-das-empresas.ghtml",
@@ -747,14 +824,6 @@
     "SAUD3"
    ],
    "resumo": "Petrobras\nA Petrobras implementará, a partir desta quinta-feira (17), um ajuste em seus preços de venda de óleo diesel A às distribuidoras. No entanto, na prática, os valores permanecem inalterados. Segundo a companhia, a partir de quinta será aplicado um aumento de R$ 1 por litr"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Como stablecoins se tornaram o caminho escolhido pelo Nubank em seu plano global",
-   "url": "https://investnews.com.br/investimentos/como-stablecoins-se-tornaram-o-caminho-escolhido-pelo-nubank-em-seu-plano-global/",
-   "publicado": "2026-09-17T11:00:46+00:00",
-   "tickers": [],
-   "resumo": "Em sua conta internacional, o Nubank está se valendo de duas delas: a USDC, a segunda maior stablecoin atrelada ao dólar, e a EURC, ligada ao euro"
   },
   {
    "fonte": "Valor Investe",
@@ -813,68 +882,12 @@
    "resumo": "O quadro macroeconômico mais favorável no curto prazo reduziu o rendimento dos títulos de renda fixa em agosto, em especial os de vencimento mais curto e atrelados ao CDI, mas há riscos inflacionários pela frente e pouco espaço para maiores compressões das taxas de crédito privad"
   },
   {
-   "fonte": "Brazil Journal",
-   "titulo": "OPINIÃO. Advogados na era da AI: obsoletos ou mais poderosos?",
-   "url": "https://braziljournal.com/opiniao-advogados-na-era-da-ai-obsoletos-ou-mais-poderosos/",
-   "publicado": "2026-09-16T23:30:53+00:00",
-   "tickers": [],
-   "resumo": "Na trilogia De Volta para o Futuro, os protagonistas viajam para o futuro – 2015 – e, ao chegarem, Marty McFly fica surpreso com a rapidez da condenação de seu filho, apenas poucas horas após o incidente no qual se envolvera. A explicação: o sistema de justiça havia se tornado ma"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Veja como investir após corte da Selic para 13,75%",
    "url": "https://valorinveste.globo.com/objetivo/hora-de-investir/noticia/2026/09/16/veja-como-investir-apos-corte-da-selic-para-1375percent.ghtml",
    "publicado": "2026-09-16T21:34:27+00:00",
    "tickers": [],
    "resumo": "Apesar de o Banco Central cortar os juros pela quinta vez seguida e de uma parte do mercado aguardar baixas novas, após o desempenho de indicadores de atividade econômica e inflação, a recomendação dos especialistas é continuar conservador nas aplicações financeiras. Os papéis qu"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Quanto rende R$ 1 mil em poupança, Tesouro Direto e CDB após corte da Selic para 13,75%",
-   "url": "https://valorinveste.globo.com/produtos/renda-fixa/noticia/2026/09/16/quanto-rende-r-1-mil-em-poupanca-tesouro-direto-e-cdb-apos-corte-da-selic-para-1375percent.ghtml",
-   "publicado": "2026-09-16T21:34:22+00:00",
-   "tickers": [],
-   "resumo": "Nesta quarta-feira (16), o Comitê de Política Monetária (Copom) do Banco Central cortou os juros de referência, a taxa Selic, em 0,25 ponto percentual, de 14% para 13,75% ao ano. É a quinta redução consecutiva, do mesmo tamanho, e a decisão impacta de maneira prática a vida dos b"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Copom corta Selic em 0,25 ponto, a 13,75% ao ano",
-   "url": "https://valorinveste.globo.com/mercados/moedas-e-juros/noticia/2026/09/16/copom-corta-selic-em-025-ponto-a-1375percent-ao-ano.ghtml",
-   "publicado": "2026-09-16T21:32:17+00:00",
-   "tickers": [],
-   "resumo": "O Comitê de Política Monetária (Copom) do Banco Central reduziu a taxa básica de juros, a Selic, em 0,25 ponto percentual nesta quarta-feira (16), para 13,75% ao ano, em um momento de perda de força da atividade econômica e de melhora recente da inflação.\n\nA decisão acontece em m"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "CVM finaliza proposta de piloto para testar tokenização no mercado de capitais",
-   "url": "https://valorinveste.globo.com/objetivo/hora-de-investir/noticia/2026/09/16/cvm-finaliza-proposta-de-piloto-para-testar-tokenizao-no-mercado-de-capitais.ghtml",
-   "publicado": "2026-09-16T21:25:38+00:00",
-   "tickers": [],
-   "resumo": "A Comissão de Valores Mobiliários (CVM) prepara um ambiente experimental para testar a emissão e a negociação de ações, debêntures, certificados de recebíveis e cotas de fundos por meio de redes de tecnologia de registro distribuído (DLT), usada na tokenização de ativos. \n\nA inic"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "‘Superquarta’ coloca rali da bolsa brasileira em uma encruzilhada",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/16/super-quarta-coloca-rali-da-bolsa-brasileira-em-uma-encruzilhada.ghtml",
-   "publicado": "2026-09-16T20:42:10+00:00",
-   "tickers": [],
-   "resumo": "A bolsa brasileira parecia ter finalmente encontrado uma luz no fim do túnel. Juros caindo no horizonte, eleição mais disputada, estrangeiro voltando a comprar e Petrobras surfando o rali do petróleo. \nNesta quarta-feira (16), contudo, o Federal Reserve (Fed, o banco central amer"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "BC já tem estimativa de quantas empresas cripto vão pedir autorização, mas não revela número",
-   "url": "https://valorinveste.globo.com/mercados/noticia/2026/09/16/bc-ja-tem-estimativa-de-quantas-empresas-cripto-vao-pedir-autorizacao-mas-nao-revela-numero.ghtml",
-   "publicado": "2026-09-16T20:03:22+00:00",
-   "tickers": [],
-   "resumo": "O Banco Central (BC) buscou criar a regulamentação do mercado de criptoativos sem “comprimir” os diferentes modelos de negócio existentes no setor e está preparado para receber tanto um número grande quanto pequeno de pedidos de autorização quando as novas regras entrarem em vigo"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "CVM quer usar tokenização para detectar irregularidades no mercado em tempo real",
-   "url": "https://valorinveste.globo.com/mercados/noticia/2026/09/16/cvm-quer-usar-tokenizacao-para-detectar-irregularidades-no-mercado-em-tempo-real.ghtml",
-   "publicado": "2026-09-16T19:40:40+00:00",
-   "tickers": [],
-   "resumo": "A Comissão de Valores Mobiliários (CVM) pretende usar a tokenização não apenas para modernizar a negociação de ativos, mas também para mudar a forma como fiscaliza o mercado de capitais. A intenção é que a nova infraestrutura permita à autarquia acompanhar operações de forma mais"
   }
  ]
 }
