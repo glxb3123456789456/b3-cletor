@@ -4,56 +4,137 @@
  "dados": [
   {
    "fonte": "Money Times",
-   "titulo": "Estes são os 10 fundos imobiliários (FIIs) com maiores retornos em 2026, segundo a Quantum Finance",
-   "url": "https://www.moneytimes.com.br/estes-sao-os-10-fiis-com-maiores-retornos-em-2026-segundo-a-quantum-finance-igdl/",
-   "publicado": "2026-09-19T12:30:00+00:00",
+   "titulo": "Volume de petróleo que passa por Ormuz está no nível mais alto em 6 meses",
+   "url": "https://www.moneytimes.com.br/volume-de-petroleo-que-passa-por-ormuz-esta-no-nivel-mais-alto-em-6-meses-lils/",
+   "publicado": "2026-09-19T15:35:43+00:00",
+   "tickers": [],
+   "resumo": "O volume de petróleo bruto, carga e gás natural liquefeito que passou pelo Estreito de Ormuz nas últimas duas semanas atingiu o nível mais alto em seis meses, segundo comunicado publicado neste sábado (19), pelo Comando Central dos Estados Unidos (Centcom), um dos comandos combat"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Bitcoin (BTC) avança aos US$ 81 mil; veja preços das criptomoedas neste sábado (19)",
+   "url": "https://www.moneytimes.com.br/bitcoin-btc-avanca-aos-us-81-mil-veja-precos-das-criptomoedas-neste-sabado-19/",
+   "publicado": "2026-09-19T15:33:45+00:00",
+   "tickers": [],
+   "resumo": "O bitcoin (BTC) opera em leve alta neste sábado (19), mantendo o patamar de US$ 81 mil, estendendo os ganhos da sessão anterior. Ao longo da semana, o bitcoin absorveu dois choques em 48 horas: a votação fracassada do Senado americano sobre o encerramento do debate do Clarity Act"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "O carro usado barato está desaparecendo nos Estados Unidos",
+   "url": "https://investnews.com.br/economia/o-carro-usado-barato-esta-desaparecendo-nos-estados-unidos/",
+   "publicado": "2026-09-19T15:28:50+00:00",
+   "tickers": [],
+   "resumo": "Juros, tarifas e energia cara pressionam preços e deixam compradores americanos  com carros mais antigos e sujeitos a reparos"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Na Alemanha, salário mínimo para pessoas com deficiência põe modelo de inclusão em xeque",
+   "url": "https://investnews.com.br/economia/na-alemanha-salario-minimo-para-pessoas-com-deficiencia-poe-modelo-de-inclusao-em-xeque/",
+   "publicado": "2026-09-19T15:15:27+00:00",
+   "tickers": [],
+   "resumo": "Sistema atende mais de 300 mil pessoas, mas remuneração média de €2 a €3 fica muito abaixo do piso de €13,90"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Dentro de mim existem dois lobos — by Pedro Vinicio",
+   "url": "https://braziljournal.com/dentro-de-mim-existem-dois-lobos-by-pedro-vinicio/",
+   "publicado": "2026-09-19T15:00:06+00:00",
+   "tickers": [],
+   "resumo": "Ver o último.\nThe post Dentro de mim existem dois lobos — by Pedro Vinicio appeared first on Brazil Journal."
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "EUA e Dinamarca chegam a acordo sobre Groenlândia, diz Trump",
+   "url": "https://www.moneytimes.com.br/eua-e-dinamarca-chegam-a-acordo-sobre-groenlandia-diz-trump/",
+   "publicado": "2026-09-19T14:55:38+00:00",
+   "tickers": [],
+   "resumo": "Estados Unidos, Dinamarca e Groenlândia firmaram um acordo para que os EUA estabeleçam uma presença militar significativa na Groenlândia, ao mesmo tempo em que proíbem os adversários dos EUA de construir suas próprias bases na ilha, afirmou Donald Trump nesta sexta-feira (18). Em"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Sai WEG (WEGE3): Terra escala novo nome em carteira semanal de ações; veja a seleção",
+   "url": "https://www.moneytimes.com.br/sai-weg-wege3-terra-escala-novo-nome-em-carteira-semanal-de-acoes-veja-a-selecao-lmrs/",
+   "publicado": "2026-09-19T14:50:00+00:00",
    "tickers": [
-    "RZAT11"
+    "RDOR3",
+    "WEGE3"
    ],
-   "resumo": "O Riza Arctium Real Estate (RZAT11) lidera o ranking dos fundos imobiliários com os maiores retornos acumulados em 2026, segundo levantamento da Quantum Finance ao qual o Money Times teve acesso. Do início de janeiro até o final de agosto, o veículo registrou rentabilidade de 15,"
+   "resumo": "A Terra Investimentos realizou uma troca na carteira recomendada de ações para o período de 18 a 25 de setembro. As ações da WEG (WEGE3) deixam o portfólio, abrindo espaço para a entrada de Rede D&#8217;or (RDOR3). O analista Régis Chinchila aponta que a WEG atingiu zona de resis"
   },
   {
    "fonte": "Money Times",
-   "titulo": "Reajuste do Bolsa Família não fere lei eleitoral, decide Gilmar Mendes, do STF",
-   "url": "https://www.moneytimes.com.br/reajuste-do-bolsa-familia-nao-fere-lei-eleitoral-decide-gilmar-mendes-do-stf-lils/",
-   "publicado": "2026-09-19T12:13:29+00:00",
+   "titulo": "Anthropic e Accenture investirão ao menos US$ 2 bi para avaliar segurança de IA",
+   "url": "https://www.moneytimes.com.br/anthropic-e-accenture-investirao-ao-menos-us-2-bi-para-avaliar-seguranca-de-ia/",
+   "publicado": "2026-09-19T14:48:20+00:00",
    "tickers": [],
-   "resumo": "O ministro Gilmar Mendes, do Supremo Tribunal Federal (STF), decidiu nesta sexta-feira (18) que o reajuste concedido pelo presidente Luiz Inácio Lula da Silva ao Bolsa Família a menos de 20 dias do primeiro turno da eleição presidencial é regular e não fere a legislação eleitoral"
+   "resumo": "A Accenture e a Anthropic anunciaram neste sábado (19), o investimento de pelo menos US$ 1 bilhão cada, ao longo de cinco anos, em segurança de inteligência artificial (IA). Segundo comunicado, as empresas firmaram uma parceria para formar uma equipe de avaliadores integrados, qu"
   },
   {
    "fonte": "Money Times",
-   "titulo": "Sua conta de luz pode mudar para sempre, mas a ausência de uma decisão da Aneel ainda trava a implementação da novidade",
-   "url": "https://www.moneytimes.com.br/open-energy-energia-aneel-rsgp/",
-   "publicado": "2026-09-19T12:09:00+00:00",
+   "titulo": "Presidente do PT diz que pedido de vista de Dino é um fato isolado; ‘não respinga na campanha de Lula’",
+   "url": "https://www.moneytimes.com.br/presidente-do-pt-diz-que-pedido-de-vista-de-dino-e-um-fato-isolado-nao-respinga-na-campanha-de-lula-lils/",
+   "publicado": "2026-09-19T14:44:03+00:00",
    "tickers": [],
-   "resumo": "Consumidores conectados em alta tensão podem escolher de qual comercializadora comprar energia desde janeiro de 2024. Isso significa que negociam preço, prazo e condições livremente com a empresa que os interessar, seja ela Enel, CPFL ou qualquer outra. Os usuários residenciais, "
+   "resumo": "O presidente nacional do PT, Edinho Silva, minimizou neste sábado (19), os efeitos eleitorais do pedido de vista do ministro do Supremo Tribunal Federal (STF) Flávio Dino no julgamento sobre o também ministro Alexandre de Moraes. Ao pedir vista do processo, Dino abre a possibilid"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Especialistas veem ‘modelo Milei’ de ajuste fiscal como incompatível para realidade brasileira",
-   "url": "https://www.moneytimes.com.br/especialistas-veem-modelo-milei-de-ajuste-fiscal-como-incompativel-para-realidade-brasileira/",
-   "publicado": "2026-09-19T12:08:47+00:00",
+   "fonte": "InvestNews",
+   "titulo": "A guerra da Tata: as 24 horas que detonaram a disputa pelo maior império empresarial da Índia",
+   "url": "https://investnews.com.br/negocios/a-guerra-da-tata-as-24-horas-que-detonaram-a-disputa-pelo-maior-imperio-empresarial-da-india/",
+   "publicado": "2026-09-19T14:36:35+00:00",
    "tickers": [],
-   "resumo": "A necessidade de se fazer um ajuste fiscal no Brasil é consenso, mas replicar a fórmula do presidente argentino Javier Milei seria incompatível com o País. Essa é a conclusão que especialistas ouvidos pelo Broadcast (sistema de notícias em tempo real do Grupo Estado) chegaram ao "
+   "resumo": "Dono de Air India e Jaguar Land Rover, grupo de 158 anos enfrenta disputa sobre comando e abertura de capital"
   },
   {
    "fonte": "Money Times",
-   "titulo": "Agentes de IA: Como a tecnologia pode ajudar empreendedores e profissionais autônomos a ganhar tempo e produtividade",
-   "url": "https://www.moneytimes.com.br/agentes-de-ia-como-a-tecnologia-pode-ajudar-empreendedores-e-profissionais-autonomos-a-ganhar-tempo-e-produtividade-lbrdgm092/",
-   "publicado": "2026-09-19T12:00:00+00:00",
+   "titulo": "STF rejeita recurso e mantém condenação de Eduardo Bolsonaro por coação",
+   "url": "https://www.moneytimes.com.br/stf-rejeita-recurso-e-mantem-condenacao-de-eduardo-bolsonaro-por-coacao-lils/",
+   "publicado": "2026-09-19T14:35:24+00:00",
    "tickers": [],
-   "resumo": "Entenda por que os agentes de IA estão atraindo empreendedores e conheça a iniciativa da Empiricus para mostrar como essa tecnologia funciona na prática"
+   "resumo": "A Primeira Turma do Supremo Tribunal Federal (STF) rejeitou nesta sexta-feira (18), por unanimidade, um recurso apresentado pela defesa do ex-deputado Eduardo Bolsonaro e manteve sua condenação por coação. O ex-parlamentar foi condenado em junho a quatro anos e dois meses em regi"
   },
   {
    "fonte": "Money Times",
-   "titulo": "Yduqs (YDUQ3) ganha força com alívio na curva de juros e CSN Mineração (CMIN3) é a pior ação da semana; confira os destaques do Ibovespa",
-   "url": "https://www.moneytimes.com.br/ibovespa-destaques-da-semana-38-lils/",
-   "publicado": "2026-09-19T11:56:42+00:00",
+   "titulo": "Custo da guerra no Irã sobe para US$ 43,6 bilhões, segundo nova estimativa do Exército dos EUA",
+   "url": "https://www.moneytimes.com.br/custo-da-guerra-no-ira-sobe-para-us-436-bilhoes-segundo-nova-estimativa-do-exercito-dos-eua-lils/",
+   "publicado": "2026-09-19T14:28:23+00:00",
+   "tickers": [],
+   "resumo": "O custo da guerra contra o Irã para as Forças Armadas dos Estados Unidos chegou a US$ 43,6 bilhões em 3 de setembro, de acordo com uma nova estimativa apresentada esta semana aos congressistas do país. O número divulgado pelo Comando Central dos EUA, que supervisiona as operações"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Bets na mira: governo Lula avalia restringir publicidade e design dos jogos, diz Durigan",
+   "url": "https://www.moneytimes.com.br/bets-na-mira-governo-lula-avalia-restringir-publicidade-e-design-dos-jogos-diz-durigan-lils/",
+   "publicado": "2026-09-19T14:09:14+00:00",
+   "tickers": [],
+   "resumo": "O ministro da Fazenda, Dario Durigan, afirmou que estão em análise restrições à publicidade e ao design dos jogos de apostas, conhecidos como bets. Segundo ele, as novas medidas podem ser anunciadas ainda este ano, &#8220;para que a gente siga protegendo as famílias de mais endiv"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "O mundo está ficando sem navios para transportar petróleo — e o frete disparou",
+   "url": "https://investnews.com.br/economia/o-mundo-esta-ficando-sem-navios-para-transportar-petroleo-e-o-frete-disparou/",
+   "publicado": "2026-09-19T14:03:05+00:00",
+   "tickers": [],
+   "resumo": "Cargas saídas do Brasil já são divididas entre dois navios menores diante da falta de petroleiros gigantes"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "BDRs: Entrada de novos nomes deve deixar Ibovespa mais pulverizado, diz BofA; Nubank (ROXO34) e Mercado Livre (MELI34) estão no radar",
+   "url": "https://www.moneytimes.com.br/bdrs-entrada-de-novos-nomes-deve-deixar-ibovespa-mais-pulverizado-diz-bofa-nubank-roxo34-e-mercado-livre-meli34-estao-no-radar-lils/",
+   "publicado": "2026-09-19T13:57:29+00:00",
    "tickers": [
-    "CMIN3",
-    "YDUQ3"
+    "MELI34",
+    "ROXO34"
    ],
-   "resumo": "O Ibovespa (IBOV) interrompeu a sequência de três ganhos semanais consecutivos e registrou a primeira queda em setembro com decisões de política monetária, aumento dos riscos institucional e fiscal em foco. O principal índice da bolsa brasileira acumulou queda de 1,06% na semana "
+   "resumo": "A inclusão de BDRs na carteira do Ibovespa (IBOV), prevista pela B3 para o primeiro semestre de 2027, deve ajudar a diversificar o índice, mas não necessariamente reduzir a concentração setorial, na avaliação do chefe de economia no Brasil do Bank of America (BofA), David Beker. "
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Mega-Sena 3060 sorteia prêmio de R$ 28 milhões neste domingo; veja como e até que horas pode apostar",
+   "url": "https://valorinveste.globo.com/loterias/noticia/2026/09/19/mega-sena-3060-sorteia-premio-de-r-28-milhoes-neste-domingo-veja-como-e-ate-que-horas-pode-apostar.ghtml",
+   "publicado": "2026-09-19T13:13:07+00:00",
+   "tickers": [],
+   "resumo": "A Mega-Sena 3060 vai sortear um prêmio estimado em R$ 28 milhões neste domingo (20), a partir das 11h (horário de Brasília), em São Paulo.\nVEJA TAMBÉM: \n- Os números mais sorteados na história Mega-Sena\nPara os sorteios realizados aos domingos, as apostas podem ser feitas até às "
   },
   {
    "fonte": "Valor Investe",
@@ -70,14 +151,6 @@
    "publicado": "2026-09-19T11:30:24+00:00",
    "tickers": [],
    "resumo": "Mal terminou a Copa do Mundo de 2026 e já tem motivo para começar a fazer as contas para a próxima. Com o Mundial de 2030 marcado para ocorrer entre 8 de junho e 21 de julho, especialistas em planejamento financeiro afirmam que os próximos quatro anos são uma oportunidade para qu"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Presos como Daniel Vorcaro e Jair Bolsonaro poderão votar? TSE e Lei Antifacção definem regras para 2026",
-   "url": "https://www.moneytimes.com.br/presos-como-daniel-vorcaro-e-jair-bolsonaro-poderao-votar-tse-e-lei-antifaccao-definem-regras-para-2026-gaep/",
-   "publicado": "2026-09-19T11:30:00+00:00",
-   "tickers": [],
-   "resumo": "Apesar da nova Lei Antifacção, de março deste ano, proibir o voto até de presos provisórios, o Tribunal Superior Eleitoral (TSE) decidiu, por unanimidade, suspender a aplicação dessas restrições nas eleições de 2026 para esses casos específicos. Detentos Daniel Vorcaro, do Banco "
   },
   {
    "fonte": "InvestNews",
@@ -115,34 +188,6 @@
    "publicado": "2026-09-18T23:05:04+00:00",
    "tickers": [],
    "resumo": "Os Fiagros retomaram a expansão da atividade na B3 em agosto de 2026. O total de negócios com fundos ligados às cadeias do agronegócio subiu de 24,9 milhões em julho para 41,6 milhões no mês passado, avanço de aproximadamente 67%, conforme o boletim mensal divulgado pela bolsa. O"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Estatal de correios italiana torna-se controladora indireta da TIM Brasil (TIMS3)",
-   "url": "https://www.moneytimes.com.br/estatal-de-correios-italiana-torna-se-controladora-indireta-da-tim-brasil-tims3/",
-   "publicado": "2026-09-18T22:50:25+00:00",
-   "tickers": [
-    "TIMS3"
-   ],
-   "resumo": "A TIM (TIMS3) anunciou nesta sexta-feira que a empresa estatal de correios da Itália Poste Italiane tornou-se controladora indireta do grupo brasileiro de telecomunicações como resultado de uma oferta pelas ações da Telecom Italia. A Poste Italiane, que já tinha 20% de participaç"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "TOTVS (TOTS3) aprova pagamento de JCP; veja valores",
-   "url": "https://www.moneytimes.com.br/totvs-tots3-aprova-pagamento-de-jcp-veja-valores/",
-   "publicado": "2026-09-18T22:46:44+00:00",
-   "tickers": [
-    "TOTS3"
-   ],
-   "resumo": "A TOTVS (TOTS3) aprovou o pagamento de juros sobre capital próprio (JCP) de R$ 0,15 por ação, conforme decisão do Conselho de Administração em reunião realizada nesta quinta-feira (18). O montante bruto total do provento será de aproximadamente R$ 85 milhões. Segundo a companhia,"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Juros futuros recuam de olho no quadro eleitoral",
-   "url": "https://www.moneytimes.com.br/juros-futuros-18-9-26-apsa/",
-   "publicado": "2026-09-18T22:39:30+00:00",
-   "tickers": [],
-   "resumo": "A curva de juros futuros encerrou o dia com redução dos prêmios em todos os vencimentos, após estresse inicial com o anúncio do reajuste de 15% no Bolsa Família, o que aumentou as preocupações fiscais do mercado. Agentes não viram um gatilho específico para a acomodação da curva "
   },
   {
    "fonte": "InvestNews",
@@ -722,22 +767,6 @@
    "resumo": "As carteiras dos investidores estão com mais aplicações de crédito privado do que deveriam, alertaram analistas, distribuidores e gestores em um painel durante um congresso da Associação Brasileira do Planejamento Financeiro (Planejar), realizado nesta quinta-feira (17) em São Pa"
   },
   {
-   "fonte": "Brazil Journal",
-   "titulo": "No mercado de energia, risco maior movimenta derivativos, colateral e até bolsa",
-   "url": "https://braziljournal.com/no-mercado-de-energia-risco-maior-movimenta-derivativos-colateral-e-ate-bolsa/",
-   "publicado": "2026-09-17T19:44:51+00:00",
-   "tickers": [],
-   "resumo": "O mercado de comercialização de eletricidade ficou muito mais complexo – e arriscado.  Com a recente onda de recuperações judiciais de tradings de energia, o aumento na volatilidade de preços, a menor liquidez no mercado e problemas como cortes na geração de usinas renováveis, as"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Pequena indústria que fatura milhões: veja a diferença de custo do Simples normal para o regime híbrido",
-   "url": "https://investnews.com.br/negocios/simulacao-simples-regime-hibrido/",
-   "publicado": "2026-09-17T19:28:57+00:00",
-   "tickers": [],
-   "resumo": "Faturamento, clientes, fornecedores e despesas entram na conta da empresa que precisa escolher entre os regimes"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Remuneração do assessor com taxa fixa pode ter cobranças escondidas também",
    "url": "https://valorinveste.globo.com/objetivo/hora-de-investir/noticia/2026/09/17/remuneracao-do-assessor-com-taxa-fixa-pode-ter-cobrancas-escondidas-tambem.ghtml",
@@ -754,22 +783,6 @@
    "resumo": "O aumento de 15% do Bolsa Família coloca mais dinheiro no bolso de milhões de famílias e também adiciona uma nova variável às contas do Banco Central (BC) justamente quando o mercado começa a discutir até onde o Comitê de Política Monetária (Copom) poderá levar o atual ciclo de c"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Putin coloca ativos da Nestlé sob controle temporário na Rússia",
-   "url": "https://investnews.com.br/negocios/putin-coloca-ativos-da-nestle-sob-controle-temporario-na-russia/",
-   "publicado": "2026-09-17T17:55:56+00:00",
-   "tickers": [],
-   "resumo": "Putin também determinou a transferência dos ativos da Auchan, rede francesa de supermercados, na Rússia"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Um ETF avançou mais de 3.600% neste ano com a guerra no Irã. E em dólar",
-   "url": "https://investnews.com.br/investimentos/etf-sobe-3600-guerra-no-ira/",
-   "publicado": "2026-09-17T16:42:21+00:00",
-   "tickers": [],
-   "resumo": "ETFs ligados a segmentos afetados pelo conflito têm forte valorização em 2026 e mostram versatilidade do produto para diferentes teses"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Taxas do Tesouro Direto têm leve alta após reajuste do Bolsa Família",
    "url": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/09/17/taxas-do-tesouro-direto-tem-leve-alta-apos-reajuste-do-bolsa-familia.ghtml",
@@ -784,14 +797,6 @@
    "publicado": "2026-09-17T14:47:35+00:00",
    "tickers": [],
    "resumo": "O governo federal anunciou nesta quinta-feira (17) um reajuste de 15% dos benefícios do programa Bolsa Família. Ele passa a valer já no próximo mês, com pagamentos a partir de 19 de outubro, após o primeiro turno das eleições presidenciais e antes do segundo, se houver.\nO piso do"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Após reajuste ‘surpresa’ do Bolsa Família, Ibovespa reverte alta, e dólar e juros passam a subir",
-   "url": "https://investnews.com.br/investimentos/apos-reajuste-do-bolsa-familia-ibovespa-reverte-alta-dolar-e-juros-passam-a-subir/",
-   "publicado": "2026-09-17T14:43:47+00:00",
-   "tickers": [],
-   "resumo": "Virada dos mercados coincidiu com anúncio de reajuste surpresa do Bolsa Família menos de três semanas para a eleição"
   },
   {
    "fonte": "Valor Investe",
@@ -879,14 +884,6 @@
    "publicado": "2026-09-17T09:20:00+00:00",
    "tickers": [],
    "resumo": "A enorme maioria (76%) das perguntas que os brasileiros fazem na internet sobre planejamento financeiro são sobre um objetivo ou uma situação, enquanto a minoria (15%) é sobre um produto financeiro específico, aponta um estudo  que a Associação Brasileira do Planejamento Financei"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Fundação Roberto Marinho abre formação gratuita para jovens criarem conteúdo de finanças",
-   "url": "https://valorinveste.globo.com/educacao-financeira/noticia/2026/09/17/fundacao-roberto-marinho-abre-formacao-gratuita-para-jovens-criarem-conteudo-de-financas.ghtml",
-   "publicado": "2026-09-17T09:10:00+00:00",
-   "tickers": [],
-   "resumo": "A Fundação Roberto Marinho —  por meio da Co.liga, escola digital de economia criativa, cultura e tecnologia — abriu inscrição para 1 mil jovens participarem gratuitamente de uma formação para criarem conteúdo digital sobre educação financeira. Chamado de “Conta que soma”, o edit"
   }
  ]
 }
