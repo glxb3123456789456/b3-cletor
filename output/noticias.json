@@ -3,6 +3,306 @@
  "itens": 100,
  "dados": [
   {
+   "fonte": "Brazil Journal",
+   "titulo": "O lobby de Tony Blair pela reversão do Brexit",
+   "url": "https://braziljournal.com/o-lobby-de-tony-blair-pela-reversao-do-brexit/",
+   "publicado": "2026-09-24T18:40:31+00:00",
+   "tickers": [],
+   "resumo": "O Reino Unido deveria perseguir um retorno à União Europeia como uma de suas metas centrais para a próxima década, Tony Blair defendeu hoje. Em um relatório publicado por seu think tank, o ex-primeiro-ministro sugeriu que o Partido Trabalhista tenha como “pedra angular” o retorno"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Cogna (COGN3) pode subir 35%, mas BBI pisa no freio e corta recomendação",
+   "url": "https://www.suno.com.br/noticias/cogna-cogn3-bbi-corta-recomendacao-preco-alvo-mt/",
+   "publicado": "2026-09-24T18:35:00+00:00",
+   "tickers": [
+    "COGN3"
+   ],
+   "resumo": "Cogna (COGN3) pode subir 35%, mas BBI pisa no freio e corta recomendaçãoUma ação pode ter potencial para subir e, ainda assim, perder a recomendação de compra. Foi exatamente o que aconteceu com a Cogna (COGN3): o Bradesco BBI rebaixou os papéis de compra para neutro e reduziu o "
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Diretor do BC avalia que inflação está tendo alívio temporário, que deve ser revertido nos próximos meses",
+   "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/09/24/picchetti-avalia-que-inflacao-esta-tendo-alivio-temporario-que-deve-ser-revertido-nos-proximos-meses.ghtml",
+   "publicado": "2026-09-24T18:26:49+00:00",
+   "tickers": [],
+   "resumo": "O diretor de assuntos internacionais e interino de política econômica do Banco Central (BC), Paulo Picchetti, disse nesta quinta-feira (24) que a inflação está tendo um \"alívio temporário\", tanto no resultado cheio quanto na média dos núcleos (que excluem itens voláteis), que caí"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Petróleo se afasta das máximas após notícias sobre negociação para reabrir Estreito de Ormuz",
+   "url": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/09/24/petroleo-se-afasta-das-maximas-apos-noticias-sobre-negociacao-para-reabrir-estreito-de-ormuz.ghtml",
+   "publicado": "2026-09-24T17:33:55+00:00",
+   "tickers": [],
+   "resumo": "Negociadores dos Estados Unidos e do Irã em Nova York discutem uma saída em etapas da guerra que envolveria a reabertura do Estreito de Ormuz por Teerã e o fim do bloqueio econômico americano contra a República Islâmica, disseram fontes próximas às negociações à agência Reuters. "
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Febre dos BDRs: mercado gira R$ 1 bilhão por dia com Tesla (TSLA34), Nvidia (NVDC34) e Amazon (AMZO34) no radar",
+   "url": "https://www.suno.com.br/noticias/bdr-negocia-mais-1-bilhao-por-dia-b3-mt/",
+   "publicado": "2026-09-24T17:25:11+00:00",
+   "tickers": [
+    "AMZO34",
+    "NVDC34",
+    "TSLA34"
+   ],
+   "resumo": "Comprar um pedacinho da Tesla sem abrir conta nos Estados Unidos, mandar dinheiro para o exterior ou preencher uma coleção de formulários deixou de ser algo reservado aos investidores mais experientes. Com um BDR, o brasileiro consegue acessar empresas estrangeiras diretamente pe"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Braskem chegará a acordo com credores, diz executivo da Petrobras",
+   "url": "https://investnews.com.br/negocios/braskem-chegara-a-acordo-com-credores-diz-executivo-da-petrobras/",
+   "publicado": "2026-09-24T17:01:29+00:00",
+   "tickers": [],
+   "resumo": "Petrobras espera acordo da Braskem com credores para reestruturar dívida de US$ 11 bilhões sem recuperação judicial"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Suzano (SUZB3) revela 388 mil hectares sensíveis: o que o investidor precisa saber",
+   "url": "https://www.suno.com.br/noticias/suzano-suzb3-relatorio-tnfd-riscos-natureza-mt/",
+   "publicado": "2026-09-24T16:45:05+00:00",
+   "tickers": [
+    "SUZB3"
+   ],
+   "resumo": "A Suzano (SUZB3) identificou 388.356 hectares de áreas florestais com alguma sensibilidade relacionada à natureza. O número aparece no primeiro relatório da companhia elaborado com base nas recomendações do TNFD, estrutura internacional que ajuda empresas a transformar questões c"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "BTRA11 confirma dividendos e retorno anualizado de 17%; veja as datas",
+   "url": "https://www.suno.com.br/noticias/dividendos-do-btra11-pagamento-setembro/",
+   "publicado": "2026-09-24T16:35:07+00:00",
+   "tickers": [
+    "BTRA11"
+   ],
+   "resumo": "O Fiagro comunicou que os dividendos do BTRA11 serão de R$ 1,00 por cota, referentes a agosto de 2026. O pagamento ocorrerá em 30 de setembro para investidores com posição no fundo ao término do pregão de 23 de setembro. A partir do dia útil seguinte ao corte, as cotas serão nego"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Flávio Bolsonaro é um ‘cara fraco’ para o longo prazo, diz Stuhlberger, da Verde",
+   "url": "https://valorinveste.globo.com/mercados/noticia/2026/09/24/stuhlberger-considera-razoavel-chance-de-60percent-de-vitoria-de-flavio-e-preve-porrada-na-bolsa.ghtml",
+   "publicado": "2026-09-24T16:21:28+00:00",
+   "tickers": [],
+   "resumo": "Luis Stuhlberger, CEO e chefe de investimentos da Verde Asset Management e um dos principais gestores de fundos multimercados do país, acha que existe entre os investidores uma euforia de curto prazo com a possibilidade do país ser governado por Flávio Bolsonaro (PL). Contudo, el"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Como ficam as ações da Yduqs (YDUQ3) após fusão com Afya para nova empresa de R$ 9 bilhões",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/09/24/como-ficam-as-acoes-da-yduqs-yduq3-apos-fusao-com-afya-para-nova-empresa-de-r-9-bilhoes.ghtml",
+   "publicado": "2026-09-24T15:56:46+00:00",
+   "tickers": [
+    "YDUQ3"
+   ],
+   "resumo": "A fusão entre Yduqs (YDUQ3) e Afya foi bem recebida pelos analistas, que veem ganhos estratégicos e financeiros na criação de uma gigante do ensino superior com forte presença em medicina. Para as ações da Yduqs, porém, o tamanho do potencial de valorização varia bastante: os pre"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Quem é amigo de um presidente é o povo, não o Vorcaro, diz Lula",
+   "url": "https://www.moneytimes.com.br/quem-e-amigo-de-um-presidente-e-o-povo-nao-o-vorcaro-diz-lula-gaep/",
+   "publicado": "2026-09-24T15:36:39+00:00",
+   "tickers": [],
+   "resumo": "Luiz Inácio Lula da Silva (PT) disse nesta quinta-feira (24) que o presidente da República tem que ser amigo do &#8220;povo, não do Daniel Vorcaro&#8221;, do Banco Master. Foi um ataque ao senador Flávio Bolsonaro (PL), seu principal adversário na disputa à reeleição. Em conversa"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Governo reduz em R$ 1,9 bi contenção do Orçamento em 2026; confira",
+   "url": "https://www.moneytimes.com.br/governo-reduz-em-r-19-bi-contencao-do-orcamento-em-2026-confira-apsa/",
+   "publicado": "2026-09-24T15:36:33+00:00",
+   "tickers": [],
+   "resumo": "O governo federal anunciou, no Relatório de Avaliação de Receitas e Despesas Primárias do quarto bimestre, divulgado nesta quinta-feira (24) pelos ministérios do Planejamento e da Fazenda, uma contenção total de R$ 16,1 bilhões, sendo R$ 2,4 bilhões em bloqueio e R$ 13,6 bilhões "
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Supermercados BH supera última barreira no Cade e avança para formar grupo de R$ 35 bilhões",
+   "url": "https://investnews.com.br/negocios/supermercados-bh-compra-dma-cade/",
+   "publicado": "2026-09-24T15:25:53+00:00",
+   "tickers": [],
+   "resumo": "Com aval para comprar mais 114 lojas da DMA, rede de Pedro Lourenço, o Pedrinho BH, se aproxima das 600 unidades previstas no acordo"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "TRXF11 tem movimentação bilionária com novas aquisições; confira",
+   "url": "https://www.suno.com.br/noticias/trxf11-movimentacoes-shopping-logistico-corporativo/",
+   "publicado": "2026-09-24T15:25:11+00:00",
+   "tickers": [
+    "TRXF11"
+   ],
+   "resumo": "O fundo imobiliário TRXF11 comunicou nesta quarta-feira (24) um conjunto de operações em diferentes segmentos do mercado imobiliário. Somadas, as três frentes anunciadas alcançam aproximadamente R$ 1,79 bilhão e envolvem participações em shopping centers, empreendimentos logístic"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Petrobras (PETR4) entende que haverá consenso com credores da Braskem (BRKM5), diz diretor",
+   "url": "https://www.moneytimes.com.br/petrobras-petr4-entende-que-havera-consenso-com-credores-da-braskem-brkm5-diz-diretor-lils/",
+   "publicado": "2026-09-24T15:24:29+00:00",
+   "tickers": [
+    "BRKM5",
+    "PETR4"
+   ],
+   "resumo": "A Petrobras (PETR4), como acionista da petroquímica Braskem (BRKM5), participa do processo de recuperação extrajudicial e entende que um consenso com os credores será alcançado, afirmou o diretor de Processos Industriais e Produtos da estatal, William França, nesta quinta-feira ("
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Governo deve prorrogar subvenção de R$ 2,12 por litro de diesel, diz ministro",
+   "url": "https://www.moneytimes.com.br/governo-deve-prorrogar-subvencao-de-r212-por-litro-de-diesel-diz-moretti/",
+   "publicado": "2026-09-24T15:21:16+00:00",
+   "tickers": [],
+   "resumo": "O ministro do Planejamento e Orçamento, Bruno Moretti, afirmou nesta quinta-feira que o governo tende a prorrogar a subvenção de R$ 2,12 por litro de diesel, que venceria nesta semana, mantendo o mesmo valor do benefício vigente hoje. Em entrevista coletiva para detalhar projeçõe"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Rio Tinto muda estratégia e começa a negociar metais de outras mineradoras",
+   "url": "https://investnews.com.br/negocios/rio-tinto-muda-estrategia-e-comeca-a-negociar-metais-de-outras-mineradoras/",
+   "publicado": "2026-09-24T15:20:28+00:00",
+   "tickers": [],
+   "resumo": "Nova estratégia busca gerar mais valor com ativos da companhia e ampliar a atuação no mercado de metais"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "HGRE11 atualiza cotistas com mudança em oferta de R$ 700 milhões; confira",
+   "url": "https://www.suno.com.br/noticias/hgre11-altera-integralizacao-decima-emissao/",
+   "publicado": "2026-09-24T15:15:06+00:00",
+   "tickers": [
+    "HGRE11"
+   ],
+   "resumo": "O fundo imobiliário HGRE11 atualizou as condições de sua 10ª emissão de cotas, que pode levantar até R$ 699,99 milhões. A mudança atinge a forma de integralização dos novos papéis e levou a administração a abrir um período para que investidores que já aderiram à oferta revisem ou"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Wall Street recua sob pressão dos Treasuries",
+   "url": "https://www.moneytimes.com.br/wall-street-recua-sob-pressao-dos-treasuries/",
+   "publicado": "2026-09-24T15:14:26+00:00",
+   "tickers": [],
+   "resumo": "Os principais índices de Wall Street recuam nesta quinta-feira (24) em meio à nova alta dos rendimentos dos Treasuries — os títulos do Tesouro dos Estados Unidos. O rendimento de 30 anos, considerado um termômetro para a política econômica global, alcançou o maior nível desde 200"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Casamento Yduqs (YDUQ3) e Afya (AFYA) agrada bancões, que apontam onde está o ganho — e o risco — da fusão",
+   "url": "https://www.moneytimes.com.br/casamento-yduqs-yduq3-e-afya-afya-agrada-bancoes-que-apontam-onde-esta-o-ganho-e-o-risco-da-fusao/",
+   "publicado": "2026-09-24T15:12:41+00:00",
+   "tickers": [
+    "YDUQ3"
+   ],
+   "resumo": "Como esperado pelo mercado, a Afya (AFYA) e a Yduqs (YDUQ3) anunciaram a fusão, resultando em uma gigante do ensino superior no Brasil. O consenso entre os analistas é de que a operação é favorável para a Yduqs ao olhar as sinergias, o ganho operacional e o potencial de distribui"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Selic a 13,75% e caindo: onde deixar a reserva de emergência agora",
+   "url": "https://www.suno.com.br/noticias/selic-caindo-onde-deixar-reserva-emergencia-gss/",
+   "publicado": "2026-09-24T15:07:33+00:00",
+   "tickers": [],
+   "resumo": "Foto: iStockA queda da Selic muda aos poucos a conta para quem mantém dinheiro em produtos de renda fixa. Com a taxa básica de juros em 13,75% ao ano, após o quinto corte consecutivo, e a expectativa de que ela chegue a 12% em 2027, investidores começam a reavaliar onde deixar a "
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Galípolo defende medidas contra endividamento e aponta para problemas no cartão rotativo",
+   "url": "https://valorinveste.globo.com/produtos/credito/noticia/2026/09/24/galipolo-defende-medidas-contra-endividamento-e-aponta-para-problemas-no-cartao-rotativo.ghtml",
+   "publicado": "2026-09-24T15:06:16+00:00",
+   "tickers": [],
+   "resumo": "O presidente do Banco Central (BC), Gabriel Galípolo, afirmou nesta quinta-feira (24) que a inadimplência do rotativo do cartão de crédito chega a 65% e que isso indica uma falha no próprio produto. \"Um produto com 65% de inadimplência tem problema de design\", disse, em entrevist"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Cogna (COGN3) é rebaixada pelo Bradesco BBI; confira o que fazer com a ação agora",
+   "url": "https://www.moneytimes.com.br/cogna-cogn3-e-rebaixada-pelo-bradesco-bbi-confira-o-que-fazer-com-a-acao-agora-lils/",
+   "publicado": "2026-09-24T15:00:38+00:00",
+   "tickers": [
+    "COGN3",
+    "YDUQ3"
+   ],
+   "resumo": "Em meio à formação de uma nova gigante do setor de educação com a fusão entre Afya (AFYA) e a Yduqs (YDUQ3), o Bradesco BBI rebaixou a recomendação das ações de Cogna (COGN3) de compra para neutra nesta quinta-feira (24). O banco também cortou o preço-alvo de R$ 3,80 para R$ 3,10"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Vale (VALE3) retoma parcialmente operações na Mina de Fábrica",
+   "url": "https://www.suno.com.br/noticias/vale-vale3-retoma-parcialmente-operacoes-na-mina-de-fabrica/",
+   "publicado": "2026-09-24T14:55:00+00:00",
+   "tickers": [
+    "VALE3"
+   ],
+   "resumo": "Vale (VALE3) retoma parcialmente operações na Mina de FábricaA Vale S.A. (VALE3) informou, em comunicado ao mercado divulgado em 23 de setembro de 2026, que iniciará a retomada parcial de operações na Mina de Fábrica, localizada em Ouro Preto, Minas Gerais. A medida foi autorizad"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Caso Master: TCDF bloqueia até R$ 2,7 bi de ex-dirigentes do BRB",
+   "url": "https://www.moneytimes.com.br/caso-master-tcdf-bloqueia-ate-r-27-bi-de-ex-dirigentes-do-brb-ceci/",
+   "publicado": "2026-09-24T14:46:29+00:00",
+   "tickers": [],
+   "resumo": "O Tribunal de Contas do Distrito Federal (TCDF) decidiu, nessa quarta-feira (23), de forma unânime, em sessão fechada, bloquear até R$ 2,7 bilhões em contas e bens de cinco ex-dirigentes do Banco Regional de Brasília (BRB), instituição pública controlada pelo governo do Distrito "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "ACM Neto e Jerônimo empatam na disputa ao governo da Bahia, aponta Paraná Pesquisas",
+   "url": "https://www.moneytimes.com.br/acm-neto-e-jeronimo-lideram-na-bahia-aponta-parana-pesquisas-gaep/",
+   "publicado": "2026-09-24T14:45:49+00:00",
+   "tickers": [],
+   "resumo": "O ex-prefeito de Salvador ACM Neto (União Brasil) passou de 48,5% para 46,7% das intenções de voto para o governo da Bahia, enquanto o governador Jerônimo Rodrigues (PT) foi de 40,1% para 42%, segundo levantamento da Paraná Pesquisas divulgada nesta quinta-feira (24). A comparaçã"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Politico, MS NOW e CNN são barrados na Casa Branca apesar de ordem judicial",
+   "url": "https://www.moneytimes.com.br/politico-ms-now-e-cnn-sao-barrados-na-casa-branca-apesar-de-ordem-judicial/",
+   "publicado": "2026-09-24T14:34:53+00:00",
+   "tickers": [],
+   "resumo": "Repórteres de Politico, MS NOW e CNN foram impedidos de entrar na Casa Branca nesta quinta-feira, poucas horas depois de um juiz ter considerado a proibição imposta pelo presidente Donald Trump aos três veículos de comunicação provavelmente inconstitucional e ter ordenado a resta"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Climate Journal: Há dinheiro para a transição energética. Falta alocar",
+   "url": "https://braziljournal.com/climate-journal-ha-dinheiro-para-a-transicao-energetica-falta-alocar/",
+   "publicado": "2026-09-24T14:31:18+00:00",
+   "tickers": [],
+   "resumo": "NOVA YORK – “Enquanto a agenda climática no mundo diminui, ela cresce no Brasil.” A frase de Mário Gouvêa, o Secretário do Tesouro Nacional, sintetiza as discussões ocorridas no encontro organizado pelo Brazil Journal ontem, durante a Climate Week. O evento reuniu membros do gove"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Fazenda vai revisar regras de fundos e atuação da CVM após operação contra lavagem de dinheiro",
+   "url": "https://valorinveste.globo.com/produtos/fundos/noticia/2026/09/24/fazenda-vai-revisar-regras-de-fundos-e-atuacao-da-cvm-apos-operacao-contra-lavagem-de-dinheiro.ghtml",
+   "publicado": "2026-09-24T14:30:33+00:00",
+   "tickers": [],
+   "resumo": "O Ministério da Fazenda vai coordenar com a Comissão de Valores Mobiliários (CVM) uma revisão das regras do mercado de fundos de investimento após investigações identificarem o uso dessas estruturas para ocultação de patrimônio e lavagem de dinheiro, afirmou nesta quinta-feira (2"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Tesouro Direto hoje: prefixados sobem e interrompem sequência de quedas antes do IPCA-15",
+   "url": "https://investnews.com.br/investimentos/tesouro-direto-hoje-prefixados-sobem-e-interrompem-sequencia-de-quedas-antes-do-ipca-15/",
+   "publicado": "2026-09-24T13:59:51+00:00",
+   "tickers": [],
+   "resumo": "A alta de 0,06 ponto atingiu todos os vencimentos e devolveu parte do ganho da semana. Simulamos o efeito em reais para quem tem R$ 10 mil aplicados"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Taxas do Tesouro Direto ficam estáveis apesar da alta dos juros globais",
+   "url": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/09/24/taxas-do-tesouro-direto-ficam-estaveis-apesar-da-alta-dos-juros-globais.ghtml",
+   "publicado": "2026-09-24T13:52:59+00:00",
+   "tickers": [],
+   "resumo": "Os rendimentos dos títulos do Tesouro Direto operam em torno da estabilidade nesta quinta-feira (24), com tendência de leve alta apenas entre os prefixados.\nOs papéis locais não acompanham a alta dos títulos do Tesouro americano. O \"Treasury\" com vencimento em 10 anos superou a t"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "PetroRecôncavo (RECV3) comunica saída de diretor após 26 anos",
+   "url": "https://www.suno.com.br/noticias/petroreconcavo-recv3-sucessao-diretor-troy-finney-go/",
+   "publicado": "2026-09-24T13:50:00+00:00",
+   "tickers": [
+    "RECV3"
+   ],
+   "resumo": "PetroRecôncavo (RECV3) comunica saída de diretor após 26 anosA PetroRecôncavo (B3: RECV3) informou, em fato relevante divulgado nesta quinta-feira (24), que o diretor Troy Patrick Finney comunicou ao Conselho de Administração sua decisão de concluir seu ciclo na função e iniciar "
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Fake news nas eleições 2026? Veja como identificar e denunciar ao TSE",
+   "url": "https://investnews.com.br/economia/fake-news-nas-eleicoes-2026/",
+   "publicado": "2026-09-24T13:46:31+00:00",
+   "tickers": [],
+   "resumo": "O Siade, do TSE, recebe alertas anônimos de fake news sobre urnas e voto. Questões sobre candidatos vão ao Pardal"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Pix pode ganhar conexão com sistema de pagamentos da Europa. Entenda",
+   "url": "https://investnews.com.br/financas/pix-pode-ganhar-conexao-com-sistema-de-pagamentos-da-europa-entenda/",
+   "publicado": "2026-09-24T13:35:46+00:00",
+   "tickers": [],
+   "resumo": "A conexão, se implementada, poderá permitir que pagamentos entre Brasil e Europa sejam feitos de forma mais rápida"
+  },
+  {
    "fonte": "Valor Investe",
    "titulo": "Pix pode ganhar conexão direta com sistema europeu de pagamentos instantâneos",
    "url": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/09/24/pix-pode-ganhar-conexao-direta-com-sistema-europeu-de-pagamentos-instantaneos.ghtml",
@@ -30,11 +330,14 @@
   },
   {
    "fonte": "Valor Investe",
-   "titulo": "Ibovespa cai em meio a escalada do petróleo e alta dos juros americanos",
+   "titulo": "Ibovespa cai em meio a escalada do petróleo e alta dos juros nos EUA; dólar sobe",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/24/ibovespa-futuro-cai-com-escalada-do-petroleo-e-alta-dos-juros-dolar-sobe.ghtml",
    "publicado": "2026-09-24T12:13:49+00:00",
-   "tickers": [],
-   "resumo": "O Ibovespa, principal índice de ações brasileiro, abriu em queda nesta quinta-feira (24), impactado pela alta do dólar e dos juros futuros nos Estados Unidos. Os mercados assimilam a nova alta do preço do petróleo após diálogos entre Estados Unidos e Irã não avançarem. O título d"
+   "tickers": [
+    "PETR3",
+    "PETR4"
+   ],
+   "resumo": "O Ibovespa, principal índice de ações brasileiro, opera em queda no pregão desta quinta-feira (24) e acompanha a aversão a risco global, com alta do dólar e dos rendimentos dos títulos do Tesouro dos Estados Unidos, em novas máximas. As bolsas de Nova York abriram em forte queda,"
   },
   {
    "fonte": "InvestNews",
@@ -194,14 +497,6 @@
    "resumo": "O lote residual do imposto de renda reúne mais de 412 mil restituições; pagamento sai no dia 30"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "IFIX recua 0,37% e fecha quarta-feira aos 3.732,49 pontos",
-   "url": "https://www.suno.com.br/noticias/ifix-recua-037-e-fecha-quarta-feira-aos-3-73249-pontos/",
-   "publicado": "2026-09-23T22:15:05+00:00",
-   "tickers": [],
-   "resumo": "O IFIX encerrou o pregão desta quarta-feira (23) aos 3.732,49 pontos, em queda de 0,37%. O recuo corresponde a 13,81 pontos frente ao fechamento anterior, de 3.746,30 pontos. Durante a sessão, o índice de fundos imobiliários marcou máxima de 3.746,41 pontos e mínima de 3.728,16 p"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "BC amplia controle sobre transferências de cripto para carteiras próprias; entenda",
    "url": "https://valorinveste.globo.com/mercados/cripto/noticia/2026/09/23/bc-amplia-controle-sobre-transferencias-de-cripto-para-carteiras-proprias-entenda.ghtml",
@@ -242,41 +537,12 @@
    "resumo": "Quem nunca ficou anos a fio pendurado em uma assinatura ou preso a um serviço pela simples falta de paciência ou tempo de procurar alternativas? Muitas empresas tiram boa parte de seus lucros de consumidores que são cativos pela inércia. Foi bom para elas – enquanto durou. Na era"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "Pessoa física compra R$ 198 milhões líquidos em FIIs em uma semana",
-   "url": "https://www.suno.com.br/noticias/pessoa-fisica-compra-r-198-milhoes-liquidos-em-fiis-em-uma-semana/",
-   "publicado": "2026-09-23T21:36:10+00:00",
-   "tickers": [],
-   "resumo": "A pessoa física encerrou a semana de 14 a 18 de setembro com R$ 198,1 milhões em compras líquidas de fundos imobiliários, enquanto os investidores institucionais locais foram vendedores líquidos de R$ 266,2 milhões. Os investidores estrangeiros também ficaram na ponta compradora,"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Ibovespa sucumbe ao salto do petróleo e à escalada dos juros nos EUA",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/23/ibovespa-sucumbe-ao-salto-do-petroleo-e-a-escalada-dos-juros-nos-eua.ghtml",
    "publicado": "2026-09-23T20:45:07+00:00",
    "tickers": [],
    "resumo": "A trégua que os mercados encontraram ontem durou pouco. Depois de uma sessão marcada pela expectativa de avanço nas negociações entre Estados Unidos e Irã, a quarta-feira (23) trouxe de volta a cautela. \nO petróleo retomou a alta, enquanto os juros americanos dispararam diante de"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Ibovespa cai 0,86% com bancos e Vale (VALE3); Petrobras (PETR4) escapa e sobe",
-   "url": "https://www.suno.com.br/noticias/ibovespa-hoje-23-setembro-bancos-vale-petrobras-mt/",
-   "publicado": "2026-09-23T20:45:00+00:00",
-   "tickers": [
-    "PETR4",
-    "VALE3"
-   ],
-   "resumo": "O Ibovespa fechou esta quarta-feira (23) em queda de 0,86%, aos 185.814,09 pontos, devolvendo parte dos ganhos das duas sessões anteriores. A piora do mercado externo, a pressão dos grandes bancos e da Vale (VALE3) e uma nova pesquisa eleitoral pesaram sobre o índice, enquanto Pe"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Localiza (RENT3) põe R$ 614,9 milhões na mesa; veja quem recebe",
-   "url": "https://www.suno.com.br/noticias/jcp-da-localiza-rent3-valor-data-pagamento-mt/",
-   "publicado": "2026-09-23T19:55:08+00:00",
-   "tickers": [
-    "RENT3"
-   ],
-   "resumo": "A Localiza (RENT3) aprovou o pagamento de R$ 614,9 milhões aos acionistas. O valor será distribuído por meio de JCP da Localiza, com pagamento bruto de R$ 0,556580414 por ação. O dinheiro será depositado em 18 de novembro de 2026. Entretanto, nem todo investidor que comprar ações"
   },
   {
    "fonte": "Valor Investe",
@@ -305,14 +571,6 @@
    "resumo": "Uma pesquisa eleitoral mostra intenções de voto em um momento específico, mas não prevê sozinha o resultado da eleição"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "Imposto de Renda: Receita libera R$ 1,26 bilhão; veja se você recebe",
-   "url": "https://www.suno.com.br/noticias/imposto-de-renda-consulta-restituicao-setembro-mt/",
-   "publicado": "2026-09-23T19:25:13+00:00",
-   "tickers": [],
-   "resumo": "A Receita Federal abriu nesta quarta-feira (23) a consulta a um novo lote de restituições do imposto de renda. Isso significa que milhares de pessoas que estavam esperando para receber dinheiro de volta já podem verificar se foram incluídas no pagamento de setembro. Ao todo, 412."
-  },
-  {
    "fonte": "Brazil Journal",
    "titulo": "Brasil é ‘clear buy’, diz a BlackRock. “Há muito pessimismo precificado”",
    "url": "https://braziljournal.com/brasil-e-clear-buy-diz-a-blackrock-ha-muito-pessimismo-precificado/",
@@ -335,16 +593,6 @@
    "publicado": "2026-09-23T19:06:32+00:00",
    "tickers": [],
    "resumo": "Alíquota projetada de 26,5% pode encarecer passagens e frear a expansão da aviação no Brasil, diz presidente de associação do setor"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Petrobras (PETR4) vai desembolsar US$ 1,09 bilhão nesta semana; entenda quem recebe",
-   "url": "https://www.suno.com.br/noticias/petrobras-petr4-resgate-titulos-globais-us-1-bilhao-mt/",
-   "publicado": "2026-09-23T18:36:06+00:00",
-   "tickers": [
-    "PETR4"
-   ],
-   "resumo": "A Petrobras (PETR4) informou que desembolsará US$ 1,092 bilhão para resgatar antecipadamente títulos de dívida emitidos no exterior. A liquidação financeira está marcada para sexta-feira, 25 de setembro de 2026, mais de um ano antes do vencimento original dos papéis. A operação s"
   },
   {
    "fonte": "InvestNews",
@@ -387,32 +635,12 @@
    "resumo": "Boeing diz que fornecedores precisam ampliar automação para acelerar produção de aviões"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "Santander (SANB11) prepara troca de ações por BDRs da matriz; veja quanto cada investidor pode receber",
-   "url": "https://www.suno.com.br/noticias/bdrs-santander-sanb11-oferta-permuta/",
-   "publicado": "2026-09-23T17:25:09+00:00",
-   "tickers": [
-    "SANB11"
-   ],
-   "resumo": "O Santander Brasil (SANB11) avançou nos preparativos para oferecer aos seus acionistas a possibilidade de trocar papéis do banco brasileiro por BDRs do Santander espanhol. A matriz solicitou os registros necessários para viabilizar a operação no mercado brasileiro. Entre os pedid"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Empresa dos EUA que comprou Serra Verde de olho em terras raras ainda precisa provar que consegue produzir",
    "url": "https://investnews.com.br/negocios/desafio-empresa-eua-comprou-serra-verde-terras-raras/",
    "publicado": "2026-09-23T17:14:08+00:00",
    "tickers": [],
    "resumo": "USA Rare Earth, que terá financiamento de US$ 1,6 bilhão do governo americano, não conseguiu ainda extrair em sua principal mina no Texas"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "TBIL39: ETF dolarizado pode elevar proventos a 0,3% ao mês, diz Eleven",
-   "url": "https://www.suno.com.br/noticias/tbil39-etf-renda-fixa-americana-proventos-mt/",
-   "publicado": "2026-09-23T16:55:07+00:00",
-   "tickers": [
-    "TBIL39"
-   ],
-   "resumo": "Dólar, juros americanos e pagamentos mensais em um único ativo. Essa é a proposta do TBIL39, BDR de ETF negociado na B3 que dá acesso a títulos públicos dos Estados Unidos com vencimentos entre um e três meses. Segundo relatório da Eleven Financial Research, o produto pode funcio"
   },
   {
    "fonte": "Brazil Journal",
@@ -431,94 +659,12 @@
    "resumo": "O discurso do presidente do Irã, Masoud Pezeshkian, frustrou as expectativas de que algum acordo diplomático entre o seu país e os Estados Unidos pudesse ser alcançado durante a Assembleia Geral da Organização das Nações Unidas (ONU), nesta semana. \nAs declarações fizeram o preço"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "Financiamento de veículos bate recorde para agosto em 15 anos",
-   "url": "https://www.suno.com.br/noticias/financiamento-veiculos-agosto-2026-recorde-15-anos-go/",
-   "publicado": "2026-09-23T16:05:53+00:00",
-   "tickers": [],
-   "resumo": "Financiamento de veículos bate recorde para agosto em 15 anosO financiamento de veículos manteve um ritmo acelerado em agosto no Brasil, mesmo com a taxa básica de juros ainda em níveis elevados. No mês, 683,9 mil veículos novos e usados foram financiados no país, o que represent"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "De E32 a E0: Em meio ao embate entre Lula e Flávio, Congresso discute gasolina sem etanol",
-   "url": "https://www.moneytimes.com.br/de-e32-a-e0-em-meio-ao-embate-entre-lula-e-flavio-congresso-discute-gasolina-sem-etanol-pads/",
-   "publicado": "2026-09-23T15:31:03+00:00",
-   "tickers": [],
-   "resumo": "O etanol ganhou espaço no debate político nas últimas semanas, após o aumento temporário da mistura obrigatória do biocombustível na gasolina de 30% para 32% colocar o presidente Luiz Inácio Lula da Silva (PT-SP) e o senador Flávio Bolsonaro (PL-RJ) em lados opostos da discussão."
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Flávio Bolsonaro diz que, se eleito, criará fundo para pagar parte da dívida pública",
-   "url": "https://www.moneytimes.com.br/flavio-bolsonaro-diz-que-se-eleito-criara-fundo-para-pagar-parte-da-divida-publica-gaep/",
-   "publicado": "2026-09-23T15:27:38+00:00",
-   "tickers": [],
-   "resumo": "O candidato à Presidência da República Flávio Bolsonaro (PL) afirmou nesta quarta-feira (23), que, se eleito, criará um fundo para pagar parte da dívida pública e para ajudar a reduzir a dívida das pessoas. Segundo ele, os recursos viriam de novas receitas, envolvendo petróleo, i"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "El Niño: governo abre crédito extraordinário de R$ 64 milhões para áreas afetadas",
-   "url": "https://www.moneytimes.com.br/el-nino-governo-abre-credito-extraordinario-de-r-64-milhoes-para-areas-afetadas-pads/",
-   "publicado": "2026-09-23T15:13:43+00:00",
-   "tickers": [],
-   "resumo": "O presidente da República em exercício, Geraldo Alckmin, assinou nesta terça-feira (22) uma Medida Provisória (MP) que libera crédito extraordinário de R$ 64 milhões para amenizar os efeitos do El Niño no Brasil. As comunidades que dependem da agricultura familiar e tiveram sua p"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Pesquisa AtlasIntel: No Rio Grande do Sul, Zucco tem 41,6% e Juliana Brizola, 36,1% no primeiro turno",
-   "url": "https://www.moneytimes.com.br/pesquisa-atlasintel-no-rio-grande-do-sul-zucco-tem-416-e-juliana-brizola-361-no-primeiro-turno/",
-   "publicado": "2026-09-23T15:05:00+00:00",
-   "tickers": [],
-   "resumo": "O deputado federal Zucco (PL) tem 41,6% das intenções de voto no primeiro turno para o governo do Rio Grande do Sul, de acordo com pesquisa AtlasIntel contratada pelo jornal O Estado de São Paulo, divulgada nesta quarta-feira (23). A ex-deputada Juliana Brizola (PDT) aparece com "
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Tarcísio tem 55,2% e Haddad, 41%, em São Paulo, aponta AtlasIntel",
-   "url": "https://www.moneytimes.com.br/tarcisio-tem-552-e-haddad-41-em-sao-paulo-aponta-atlasintel-gaep/",
-   "publicado": "2026-09-23T15:01:00+00:00",
-   "tickers": [],
-   "resumo": "O governador Tarcísio de Freitas (Republicanos) tem 55,2% das intenções de voto no primeiro turno para o governo de São Paulo, aponta pesquisa AtlasIntel contratada pelo jornal O Estado de São Paulo, divulgada nesta quarta-feira (23). O ex-ministro da Fazenda Fernando Haddad (PT)"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Pesquisa AtlasIntel: Cleitinho tem 39,3% e Patrus, 31%, em disputa polarizada no 1º turno em Minas Gerais; Lula lidera para presidente",
-   "url": "https://www.moneytimes.com.br/pesquisa-atlasintel-cleitinho-tem-393-e-patrus-31-em-disputa-polarizada-no-1o-turno-em-minas-gerais-lula-lidera-para-presidente-gaep/",
-   "publicado": "2026-09-23T15:00:00+00:00",
-   "tickers": [],
-   "resumo": "O senador Cletinho Azevedo (Republicanos) tem 39,3% das intenções de voto no primeiro turno para o governo de Minas Gerais, segundo pesquisa AtlasIntel contratada pelo jornal O Estado de São Paulo, divulgada nesta quarta-feira (23). O deputado federal Patrus Ananias (PT) aparece "
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Itaú (ITUB4) tem a ‘fórmula perfeita’?",
-   "url": "https://www.moneytimes.com.br/itau-itub4-tem-a-formula-perfeita/",
-   "publicado": "2026-09-23T14:57:55+00:00",
-   "tickers": [
-    "ITUB4"
-   ],
-   "resumo": "A menção ao Pix no discurso da ONU ontem nos lembrou de uma das transformações mais relevantes da economia brasileira na última década. Quando o sistema de pagamentos instantâneos foi lançado, muitos investidores enxergaram a novidade como uma ameaça direta aos grandes bancos. Af"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Tesouro Direto hoje: Taxas estendem altas e acompanham Treasuries no exterior; confira a cotação nesta quarta-feira (23)",
-   "url": "https://www.moneytimes.com.br/tesouro-direto-hoje-taxas-estendem-altas-e-acompanha-os-treasuries-no-exterior-confira-a-cotacao-nesta-quarta-feira-23-jcav/",
-   "publicado": "2026-09-23T14:56:50+00:00",
-   "tickers": [],
-   "resumo": "As taxas dos títulos do Tesouro Direto abriram esta quarta-feira (23) na sua maioria em alta, com avanço dos retornos oferecidos pelos papéis prefixados na comparação com o fechamento de terça-feira (22). O movimento acompanha o avanço dos rendimentos dos Treasuries e do petróleo"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Como funciona o Tesouro Prefixado",
    "url": "https://investnews.com.br/investimentos/como-funciona-o-tesouro-prefixado/",
    "publicado": "2026-09-23T14:56:02+00:00",
    "tickers": [],
    "resumo": "O título trava a taxa de juros no momento da compra, mas o resultado final depende de quando será o resgaste"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Flávio Bolsonaro diz que quer acabar com cassinos online, mas sinaliza manter bets",
-   "url": "https://www.moneytimes.com.br/flavio-bolsonaro-diz-que-quer-acabar-com-cassinos-online-mas-sinaliza-manter-bets-gaep/",
-   "publicado": "2026-09-23T14:55:35+00:00",
-   "tickers": [],
-   "resumo": "O candidato à Presidência Flávio Bolsonaro (PL) afirmou nesta quarta-feira (23), que, se eleito, proibirá os cassinos online, incluindo os conhecidos &#8220;jogos do tigrinho&#8221;. Ele sinalizou, no entanto, que deve manter as apostas esportivas de quota fixa, as bets, por tere"
   },
   {
    "fonte": "Valor Investe",
@@ -530,14 +676,6 @@
     "MGLU3"
    ],
    "resumo": "As ações da varejista Magazine Luiza (MGLU3) ficaram entre as maiores e poucas as altas do índice Ibovespa nesta quarta-feira (23). A empresa acumula valorização de 29% em setembro, sob impulso do anúncio da parceria com o Mercado Livre (MELI34) para comercialização de seus produ"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Nunes Marques manda Lula retirar do ar vídeo sobre Banco Master gravado no Alvorada",
-   "url": "https://www.moneytimes.com.br/nunes-marques-manda-lula-retirar-do-ar-video-sobre-banco-master-gravado-no-alvorada-gaep/",
-   "publicado": "2026-09-23T14:44:40+00:00",
-   "tickers": [],
-   "resumo": "O presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, determinou, em decisão publicada na terça-feira (22), que o presidente Luiz Inácio Lula da Silva (PT) remova de suas redes sociais, em até 24 horas, um vídeo gravado no Palácio da Alvorada em que o "
   },
   {
    "fonte": "InvestNews",
@@ -596,30 +734,6 @@
    "resumo": "Os rendimentos dos títulos do Tesouro Direto operam em direções distintas nesta quarta-feira (23). Pela manhã, era observada alta nos prazos intermediários e leve queda nos prazos longos. Agora, o movimento se inverteu e os juros longos apresentam os maiores aumentos.\nOs títulos "
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Nos EUA, McDonald’s destinará US$ 8,5 bilhões a franqueados para enfrentar concorrência",
-   "url": "https://investnews.com.br/negocios/mcdonalds-destinara-us-85-bilhoes-a-franqueados-para-enfrentar-concorrencia/",
-   "publicado": "2026-09-23T12:33:40+00:00",
-   "tickers": [],
-   "resumo": "Recursos serão usados até 2036 para modernizar restaurantes, ampliar o uso de tecnologia e melhorar a operação da rede nos Estados Unidos"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Bolsa chinesa pode lançar contratos futuros de hidróxido de lítio ainda este ano",
-   "url": "https://investnews.com.br/investimentos/bolsa-chinesa-pode-lancar-contratos-futuros-de-hidroxido-de-litio-ainda-este-ano/",
-   "publicado": "2026-09-23T12:23:32+00:00",
-   "tickers": [],
-   "resumo": "A medida busca dar mais transparência aos preços e criar uma ferramenta de proteção contra oscilações para a indústria de baterias"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Bilhões em dívida, escândalo do Master e disputa pelo controle: a dramática crise da Oncoclínicas",
-   "url": "https://investnews.com.br/negocios/oncoclinicas-divida-de-r-51-bi-disputa-com-goldman-e-elo-com-banco-master-expoem-crise/",
-   "publicado": "2026-09-23T12:14:35+00:00",
-   "tickers": [],
-   "resumo": "Após crescer rapidamente, empresa enfrenta crise financeira marcada por dívidas e recuperação extrajudicial de R$ 5,1 bilhões"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Ibovespa fecha em queda sob pressão juros e exterior; Petrobras (PETR4) amortece o tombo",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/23/dolar-e-ibovespa-hoje-23-de-setembro-de-2026.ghtml",
@@ -637,22 +751,6 @@
    "publicado": "2026-09-23T11:57:59+00:00",
    "tickers": [],
    "resumo": "Ainda que tenha mostrado poucas modificações em relação à divulgação anterior, a ata da reunião de semana passada do Comitê de Política Monetária (Copom) do Banco Central (BC) consolidou, no mercado, a sensação de que a autarquia está atenta ao processo de desaceleração da ativid"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Lula e Bolsonaro seguem empatados na corrida presidencial, diz pesquisa AtlasIntel",
-   "url": "https://investnews.com.br/economia/lula-e-bolsonaro-seguem-empatados-na-corrida-presidencial-diz-pesquisa-atlasintel/",
-   "publicado": "2026-09-23T11:51:58+00:00",
-   "tickers": [],
-   "resumo": "Lula teria 47,7% dos votos contra 47,4% de Bolsonaro em um cenário de segundo turno"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "“Clone” do bitcoin dispara 30% e rouba a cena no mercado cripto",
-   "url": "https://investnews.com.br/investimentos/clone-do-bitcoin-dispara-30-no-dia-e-rouba-a-cena-no-mercado-cripto/",
-   "publicado": "2026-09-23T11:13:39+00:00",
-   "tickers": [],
-   "resumo": "Bitcoin cash (BCH) foi impulsionado por anúncios do CME Group e da gestora Grayscale"
   },
   {
    "fonte": "Valor Investe",
@@ -674,22 +772,6 @@
    "publicado": "2026-09-23T11:01:24+00:00",
    "tickers": [],
    "resumo": "Os indicadores futuros de ações americanas operavam perto de zero no começo do dia, com dúvidas novas sobre o conflito entre os Estados Unidos e o Irã. O preço do petróleo passou a aumentar, após cair durante a madrugada. O presidente do Irã, Masoud Pezeshkian, discursa na Assemb"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "Marcelo Mindlin, o ‘rei do shale’ (e agora do cimento)",
-   "url": "https://braziljournal.com/marcelo-mindlin-o-rei-do-shale-e-agora-do-cimento/",
-   "publicado": "2026-09-23T09:50:39+00:00",
-   "tickers": [],
-   "resumo": "Marcelo Mindlin vive um novo momento histórico em sua arrojada trajetória empresarial. O fundador da Pampa Energía – o maior grupo integrado do setor de energia da Argentina – é conhecido por movimentos ousados em um país marcado pela instabilidade. Agora, está liderando um grupo"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "Por que a Vale investiu na Ligga Mineração",
-   "url": "https://braziljournal.com/por-que-a-vale-investiu-na-ligga-mineracao/",
-   "publicado": "2026-09-23T09:50:19+00:00",
-   "tickers": [],
-   "resumo": "A Vale comprou 30% da Ligga – uma mineradora na região de Carajás – por US$ 190 milhões – um aporte relativamente pequeno para a companhia, mas que dará à Vale acesso a um minério de alta qualidade e trará sinergias logísticas importantes já no curto prazo. A Ligga é dona da mina"
   },
   {
    "fonte": "Valor Investe",
@@ -714,14 +796,6 @@
    "publicado": "2026-09-23T09:10:01+00:00",
    "tickers": [],
    "resumo": "As três maiores plataformas de comércio eletrônico presentes no Brasil ficaram para trás na virada do ano. Enquanto o dinheiro do mercado corria para inteligência artificial e semicondutores, Mercado Livre, Amazon e Shopee entraram num novo ciclo de investimentos que espremeu res"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Como a Harley-Davidson se ‘acostumou’ a ser alvo preferencial das retaliações às tarifas dos EUA",
-   "url": "https://investnews.com.br/the-wall-street-journal/como-a-harley-davidson-virou-alvo-das-tarifas-de-trump/",
-   "publicado": "2026-09-23T09:07:00+00:00",
-   "tickers": [],
-   "resumo": "Perfil politicamente sensível da Harley-Davidson a mantém entre alvos de retaliações tarifárias aos EUA"
   },
   {
    "fonte": "Valor Investe",
@@ -786,66 +860,6 @@
     "PETR4"
    ],
    "resumo": "A Petrobras (PETR3, PETR4) deve começar a perfurar os três novos poços na Bacia da Foz do Amazonas em janeiro, segundo a diretora de engenharia da companhia, Renata Baruzzi. Após participar da ROG.e, convenção do setor de petróleo e gás organizado pelo IBP, a executiva disse a jo"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Petróleo fecha abaixo dos US$ 100, mesmo com ameaça econômica de Trump ao Irã",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/22/petroleo-volta-a-us-100-apos-trump-falar-em-isolamento-total-do-ira-e-afastar-negociacoes.ghtml",
-   "publicado": "2026-09-22T15:47:19+00:00",
-   "tickers": [],
-   "resumo": "O preço do petróleo acelerou o ritmo de queda visto no início desta terça-feira (22), com a sinalização do Irã com a possibilidade de retomar as negociações para pôr fim ao conflito pesando mais sobre os negócios do que as declarações do presidente dos EUA, Donald Trump, intensif"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Previsão de arrecadação com dividendos é alterada para R$ 10,5 bi, diz Receita Federal",
-   "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/09/22/previsao-de-arrecadacao-com-dividendos-e-alterada-para-r-105-bi-diz-receita-federal.ghtml",
-   "publicado": "2026-09-22T15:29:34+00:00",
-   "tickers": [],
-   "resumo": "A Receita Federal reduziu de R$ 17,2 bilhões para R$ 10,5 bilhões a projeção de arrecadação com dividendos em 2026. A revisão foi informada hoje pelo chefe do Centro de Estudos Tributários e Aduaneiros da Receita Federal, Claudemir Malaquias, durante coletiva sobre a arrecadação "
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "IA, tarifaço, minerais críticos e 6x1: veja o que Lula disse na ONU sobre a economia",
-   "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/09/22/tarifaco-minerais-criticos-6x1-e-pix-veja-o-que-lula-disse-na-onu-sobre-a-economia.ghtml",
-   "publicado": "2026-09-22T14:41:54+00:00",
-   "tickers": [
-    "PETR4"
-   ],
-   "resumo": "O discurso do presidente Luiz Inácio Lula da Silva (PT) na assembleia da Organização das Nações Unidas (ONU) recebeu os holofotes dos investidores nesta terça-feira (22). A política brasileira, às vésperas das eleições, e a economia global foram dois dos principais temas da sua f"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Ações da Petrobras (PETR4) têm potencial de alta de 33%, diz Itaú BBA; entenda por quê",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/09/22/petrobras-petr4-tem-potencial-de-alta-de-33percent-diz-itau-bba-entenda-por-que.ghtml",
-   "publicado": "2026-09-22T13:07:34+00:00",
-   "tickers": [
-    "PETR4"
-   ],
-   "resumo": "O Itaú BBA elevou o preço-alvo das ações preferenciais de Petrobras de R$ 63 para R$ 64, potencial de alta de 33,3% sobre o fechamento de ontem, reiterando recomendação de compra. Os analistas liderados por Monique Martins Greco Natal escrevem que o debate em torno da Petrobras m"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Tesouro Direto: taxas dos prefixados e IPCA+ apagam altas e ficam estáveis",
-   "url": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/09/22/tesouro-direto-ipca-de-longo-prazo-e-prefixados-sobem-em-correcao.ghtml",
-   "publicado": "2026-09-22T12:50:44+00:00",
-   "tickers": [],
-   "resumo": "Os rendimentos dos títulos do Tesouro Direto operam estáveis ou com leve queda, tanto nos atrelados à inflação quanto nos prefixados, nesta terça-feira (22). O movimento é contrário ao que ocorre no exterior, onde as taxas abriram em queda e passaram a ter leve alta. \nO movimento"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Disputa apertada entre Lula e Flávio faz bolsa brasileira romper padrão, aponta J.P. Morgan",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/22/disputa-apertada-entre-lula-e-flavio-faz-bolsa-brasileira-romper-padrao-aponta-jp-morgan.ghtml",
-   "publicado": "2026-09-22T12:20:56+00:00",
-   "tickers": [],
-   "resumo": "O acirramento da disputa presidencial entre Flávio Bolsonaro (PL) e o presidente Luiz Inácio Lula da Silva no Brasil (PT) levou o MSCI Brazil a adotar uma performance atípica para períodos eleitorais. Levando em conta dados disponíveis em plataformas de mercados preditivos, que s"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Pagamentos de R$ 1,5 trilhão testam mercado de crédito privado",
-   "url": "https://valorinveste.globo.com/credito-privado/noticia/2026/09/22/pagamentos-de-r-15-trilhao-testam-mercado-de-credito-privado.ghtml",
-   "publicado": "2026-09-22T12:14:45+00:00",
-   "tickers": [],
-   "resumo": "Pagamentos de R$ 1,48 trilhão em juros e amortizações  de títulos de crédito privado previstos de setembro deste ano até 2030 deverão testar a capacidade de absorção do mercado local de capitais e, sobretudo, o acesso ao crédito das empresas mais alavancadas. O fluxo alcança R$ 3"
   }
  ]
 }
