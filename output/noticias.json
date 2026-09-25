@@ -3,12 +3,131 @@
  "itens": 100,
  "dados": [
   {
+   "fonte": "Valor Investe",
+   "titulo": "Datafolha aponta Lula com 47% e Flávio 45%, com empate técnico, no segundo turno",
+   "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/09/24/datafolha-aponta-lula-com-47percent-e-flavio-45percent-com-empate-tecnico-no-segundo-turno.ghtml",
+   "publicado": "2026-09-24T23:05:57+00:00",
+   "tickers": [],
+   "resumo": "A dez dias do primeiro turno das eleições, o presidente e candidato à reeleição Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL-RJ) estão em empate técnico nos dois pleitos, segundo pesquisa Datafolha divulgada nesta quinta-feira (24). No primeiro turno, Lula tem "
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Lula e Flávio Bolsonaro mantêm empate técnico no segundo turno, aponta Datafolha",
+   "url": "https://investnews.com.br/economia/lula-e-flavio-datafolha-eleicoes-2026/",
+   "publicado": "2026-09-24T22:33:47+00:00",
+   "tickers": [],
+   "resumo": "A uma semana das eleições, pesquisa mostra o presidente com 40% das intenções de voto, e o senador, com 36% no primeiro turno"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Ibovespa cai quase 1% com Vale (VALE3) e bancos; dólar vai a R$ 5,19",
+   "url": "https://www.suno.com.br/noticias/ibovespa-hoje-24-setembro-vale-bancos-dolar-mt/",
+   "publicado": "2026-09-24T21:55:04+00:00",
+   "tickers": [
+    "PETR4",
+    "VALE3"
+   ],
+   "resumo": "O Ibovespa fechou esta quinta-feira (24) em queda de 0,99%, aos 183.965,91 pontos, com perda de 1.848,18 pontos. Foi a segunda baixa consecutiva do índice, pressionado por Vale (VALE3), Petrobras (PETR4) e grandes bancos, em uma sessão marcada pelo avanço dos juros nos Estados Un"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Banco Genial se ofereceu como estrutura financeira fraudulenta para mascarar ocultação de valores, diz MP-SP",
+   "url": "https://valorinveste.globo.com/mercados/noticia/2026/09/24/banco-genial-se-ofereceu-como-estrutura-financeira-fraudulenta-para-mascarar-ocultacao-de-valores-diz-mp-sp.ghtml",
+   "publicado": "2026-09-24T21:00:39+00:00",
+   "tickers": [],
+   "resumo": "O Ministério Público de São Paulo (MP-SP) afirma que o Banco Genial ofereceu seus serviços para uma operação que dissimulasse a atuação de dois empresários do setor de combustíveis, atualmente foragidos da Justiça, e a apontados como tendo ligações com a facção criminosa PCC.\n\nA "
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Drogarias desabam: MELI vai vender antibióticos e GLP-1",
+   "url": "https://braziljournal.com/drogarias-desabam-meli-vai-vender-antibioticos-e-glp-1/",
+   "publicado": "2026-09-24T20:47:23+00:00",
+   "tickers": [],
+   "resumo": "As ações das grandes redes de farmácias operaram sob forte pressão no pregão de hoje depois da notícia de que o Mercado Livre vai começar a vender medicamentos que necessitam de retenção da receita – incluindo as canetas emagrecedoras GLP-1 e antibióticos. A ação da RD Saúde, don"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Ibovespa cai 1% em meio aos temores de inflação global e ruído pré-eleitoral",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/24/ibovespa-cai-1percent-em-meio-aos-temores-de-inflacao-global-e-ruido-pre-eleitoral.ghtml",
+   "publicado": "2026-09-24T20:45:52+00:00",
+   "tickers": [
+    "PETR3",
+    "PETR4",
+    "VALE3"
+   ],
+   "resumo": "O mercado começou a quinta-feira (24) pressionado por uma nova rodada de tensão no Oriente Médio e pelos juros americanos em níveis não vistos há décadas. Por aqui, a divulgação de conversas entre o senador Flávio Bolsonaro e o ex-banqueiro Daniel Vorcaro acrescentou uma nova dos"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "S&P 500 pode chegar a 8.900 pontos? Lucros e IA sustentam alta de 15,5%",
+   "url": "https://www.suno.com.br/noticias/sp-500-alta-8900-pontos-lucros-inteligencia-artificial-mt/",
+   "publicado": "2026-09-24T20:35:05+00:00",
+   "tickers": [],
+   "resumo": "O S&#38;P 500 ainda tem fôlego para subir, mesmo depois de renovar máximas e enfrentar juros elevados, petróleo acima de US$ 100 e incertezas geopolíticas. Um novo relatório da XP Research projeta o índice aos 8.900 pontos no fim de 2027, o que representa uma valorização potencia"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Empresa perto do teto do Simples já vive regime ‘meio híbrido’. Vale migrar de vez?",
+   "url": "https://investnews.com.br/negocios/simples-regime-hibrido-sublimite/",
+   "publicado": "2026-09-24T19:59:58+00:00",
+   "tickers": [],
+   "resumo": "Veja os efeitos do regime híbrido para empresas que já passaram do chamado 'sublimite' de faturamento do Simples, de R$ 3,6 milhões por ano"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Mercado Livre terá entrega de remédios em uma hora em disputa com iFood e farmácias e venderá também GLP-1",
+   "url": "https://investnews.com.br/negocios/mercado-livre-envios-agora-estrategia/",
+   "publicado": "2026-09-24T19:54:32+00:00",
+   "tickers": [],
+   "resumo": "Empresa começa a trazer farmácias para seu marketplace em outubro; ações de redes como RD Saúde e Pague Menos caíram até 8%"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Pix na Europa? BC e BCE dão primeiro passo para conectar sistema brasileiro ao TIPS",
+   "url": "https://www.suno.com.br/noticias/pix-europa-bc-bce-conexao-tips-mt/",
+   "publicado": "2026-09-24T19:44:00+00:00",
+   "tickers": [],
+   "resumo": "Pix na Europa? BC e BCE dão primeiro passo para conectar sistema brasileiro ao TIPSPagar uma compra na Europa ou enviar dinheiro para alguém que vive no continente com a velocidade de uma transferência instantânea pode ficar mais perto da realidade. O Banco Central do Brasil (BCB"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Comício, boca de urna e mais: o que é proibido no dia da eleição",
+   "url": "https://investnews.com.br/economia/o-que-e-proibido-no-dia-da-eleicao/",
+   "publicado": "2026-09-24T19:37:37+00:00",
+   "tickers": [],
+   "resumo": "Pedir voto e distribuir santinhos são proibidos no dia 4; só vale  manifestação individual e silenciosa do eleitor"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Barcelona busca US$ 342 milhões para concluir reforma de estádio após atrasos",
+   "url": "https://investnews.com.br/negocios/barcelona-busca-us-342-milhoes-para-concluir-reforma-de-estadio-apos-atrasos/",
+   "publicado": "2026-09-24T19:25:40+00:00",
+   "tickers": [],
+   "resumo": "O Goldman Sachs está estruturando a operação de emissão de dívida para o Barcelona"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Aguardado pelo mercado, encontro entre Trump e Xi foi cordial, mas sem avanços concretos",
+   "url": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/09/24/aguardado-pelo-mercado-encontro-entre-trump-e-xi-foi-cordial-mas-sem-avancos-concretos.ghtml",
+   "publicado": "2026-09-24T18:55:04+00:00",
+   "tickers": [],
+   "resumo": "O presidente dos Estados Unidos, Donald Trump, recebeu o presidente da China, Xi Jinping, nesta quinta-feira (24), em Washington, em um encontro cercado de expectativa pelos mercados, mas que, até agora, produziu poucos avanços concretos, de acordo com a agência Reuters. Comércio"
+  },
+  {
    "fonte": "Brazil Journal",
    "titulo": "O lobby de Tony Blair pela reversão do Brexit",
    "url": "https://braziljournal.com/o-lobby-de-tony-blair-pela-reversao-do-brexit/",
    "publicado": "2026-09-24T18:40:31+00:00",
    "tickers": [],
    "resumo": "O Reino Unido deveria perseguir um retorno à União Europeia como uma de suas metas centrais para a próxima década, Tony Blair defendeu hoje. Em um relatório publicado por seu think tank, o ex-primeiro-ministro sugeriu que o Partido Trabalhista tenha como “pedra angular” o retorno"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Petrobras descarta aumento da participação na Braskem em meio a negociações sobre dívida",
+   "url": "https://investnews.com.br/negocios/petrobras-descarta-aumento-da-participacao-na-braskem-em-meio-a-negociacoes-sobre-divida/",
+   "publicado": "2026-09-24T18:38:39+00:00",
+   "tickers": [],
+   "resumo": "Petrobras descarta elevar fatia na Braskem e condiciona novo aporte a outros acionistas"
   },
   {
    "fonte": "Suno Noticias",
@@ -185,7 +304,7 @@
   },
   {
    "fonte": "Suno Noticias",
-   "titulo": "Selic a 13,75% e caindo: onde deixar a reserva de emergência agora",
+   "titulo": "Selic a 13,75% e caindo: onde deixar a reserva de liquidez agora",
    "url": "https://www.suno.com.br/noticias/selic-caindo-onde-deixar-reserva-emergencia-gss/",
    "publicado": "2026-09-24T15:07:33+00:00",
    "tickers": [],
@@ -209,16 +328,6 @@
     "YDUQ3"
    ],
    "resumo": "Em meio à formação de uma nova gigante do setor de educação com a fusão entre Afya (AFYA) e a Yduqs (YDUQ3), o Bradesco BBI rebaixou a recomendação das ações de Cogna (COGN3) de compra para neutra nesta quinta-feira (24). O banco também cortou o preço-alvo de R$ 3,80 para R$ 3,10"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Vale (VALE3) retoma parcialmente operações na Mina de Fábrica",
-   "url": "https://www.suno.com.br/noticias/vale-vale3-retoma-parcialmente-operacoes-na-mina-de-fabrica/",
-   "publicado": "2026-09-24T14:55:00+00:00",
-   "tickers": [
-    "VALE3"
-   ],
-   "resumo": "Vale (VALE3) retoma parcialmente operações na Mina de FábricaA Vale S.A. (VALE3) informou, em comunicado ao mercado divulgado em 23 de setembro de 2026, que iniciará a retomada parcial de operações na Mina de Fábrica, localizada em Ouro Preto, Minas Gerais. A medida foi autorizad"
   },
   {
    "fonte": "Money Times",
@@ -274,17 +383,7 @@
    "url": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/09/24/taxas-do-tesouro-direto-ficam-estaveis-apesar-da-alta-dos-juros-globais.ghtml",
    "publicado": "2026-09-24T13:52:59+00:00",
    "tickers": [],
-   "resumo": "Os rendimentos dos títulos do Tesouro Direto operam em torno da estabilidade nesta quinta-feira (24), com tendência de leve alta apenas entre os prefixados.\nOs papéis locais não acompanham a alta dos títulos do Tesouro americano. O \"Treasury\" com vencimento em 10 anos superou a t"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "PetroRecôncavo (RECV3) comunica saída de diretor após 26 anos",
-   "url": "https://www.suno.com.br/noticias/petroreconcavo-recv3-sucessao-diretor-troy-finney-go/",
-   "publicado": "2026-09-24T13:50:00+00:00",
-   "tickers": [
-    "RECV3"
-   ],
-   "resumo": "PetroRecôncavo (RECV3) comunica saída de diretor após 26 anosA PetroRecôncavo (B3: RECV3) informou, em fato relevante divulgado nesta quinta-feira (24), que o diretor Troy Patrick Finney comunicou ao Conselho de Administração sua decisão de concluir seu ciclo na função e iniciar "
+   "resumo": "Os rendimentos dos títulos do Tesouro Direto operam em torno da estabilidade nesta quinta-feira (24), com leve alta apenas entre os prefixados.\nOs papéis locais não acompanham a alta dos títulos do Tesouro americano. O \"Treasury\" com vencimento em 10 anos superou a taxa de 5,1% ("
   },
   {
    "fonte": "InvestNews",
@@ -319,25 +418,15 @@
    "resumo": "O Argentina LNG, que seria o maior projeto de infraestrutura da história do país, recebeu uma oferta do governo dos EUA"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "CPFL (CPFE3) paga dividendos nesta quinta-feira; veja detalhes",
-   "url": "https://www.suno.com.br/noticias/a-cpfl-cpfe3-agenda-dividendos-24092026/",
-   "publicado": "2026-09-24T12:40:00+00:00",
-   "tickers": [
-    "CPFE3"
-   ],
-   "resumo": "CPFL (CPFE3) paga dividendos nesta quinta-feira; veja detalhesA CPFL (CPFE3) é um dos destaques corporativos desta quinta-feira (24), pois a companhia vai pagar dividendos aos seus acionistas. O valor a ser pago aos investidores em dividendos da CPFL é de R$ 0,6075 por ação. Serã"
-  },
-  {
    "fonte": "Valor Investe",
-   "titulo": "Ibovespa cai em meio a escalada do petróleo e alta dos juros nos EUA; dólar sobe",
+   "titulo": "Ibovespa fecha em queda meio a escalada do petróleo e alta dos juros nos EUA; dólar sobe",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/24/ibovespa-futuro-cai-com-escalada-do-petroleo-e-alta-dos-juros-dolar-sobe.ghtml",
    "publicado": "2026-09-24T12:13:49+00:00",
    "tickers": [
     "PETR3",
     "PETR4"
    ],
-   "resumo": "O Ibovespa, principal índice de ações brasileiro, opera em queda no pregão desta quinta-feira (24) e acompanha a aversão a risco global, com alta do dólar e dos rendimentos dos títulos do Tesouro dos Estados Unidos, em novas máximas. As bolsas de Nova York abriram em forte queda,"
+   "resumo": "O Ibovespa, principal índice de ações brasileiro, fechou em queda no pregão desta quinta-feira (24), acompanhando a aversão a risco global, com a alta do preço do petróleo, do dólar e dos rendimentos dos títulos do Tesouro dos Estados Unidos, em novas máximas. As bolsas de Nova Y"
   },
   {
    "fonte": "InvestNews",
@@ -643,28 +732,12 @@
    "resumo": "USA Rare Earth, que terá financiamento de US$ 1,6 bilhão do governo americano, não conseguiu ainda extrair em sua principal mina no Texas"
   },
   {
-   "fonte": "Brazil Journal",
-   "titulo": "Por que o Fleury sobe 50% este ano? O BTG tem uma hipótese",
-   "url": "https://braziljournal.com/por-que-o-fleury-sobe-50-este-ano-o-btg-tem-uma-hipotese/",
-   "publicado": "2026-09-23T16:44:51+00:00",
-   "tickers": [],
-   "resumo": "A ação do Fleury subiu quase 50% desde o início do ano, 3x a valorização do Ibovespa e acima de outras empresas do setor de saúde – levando muitos investidores a questionar o motivo da disparada. O BTG Pactual se debruçou sobre o tema e chegou a duas conclusões: a maior parte da "
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Petróleo tem forte alta após presidente do Irã dizer que país não se renderá em discurso na ONU",
    "url": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/09/23/petroleo-acelera-alta-apos-presidente-do-ira-dizer-que-pais-nao-se-rendera-em-discurso-na-onu.ghtml",
    "publicado": "2026-09-23T16:09:27+00:00",
    "tickers": [],
    "resumo": "O discurso do presidente do Irã, Masoud Pezeshkian, frustrou as expectativas de que algum acordo diplomático entre o seu país e os Estados Unidos pudesse ser alcançado durante a Assembleia Geral da Organização das Nações Unidas (ONU), nesta semana. \nAs declarações fizeram o preço"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Como funciona o Tesouro Prefixado",
-   "url": "https://investnews.com.br/investimentos/como-funciona-o-tesouro-prefixado/",
-   "publicado": "2026-09-23T14:56:02+00:00",
-   "tickers": [],
-   "resumo": "O título trava a taxa de juros no momento da compra, mas o resultado final depende de quando será o resgaste"
   },
   {
    "fonte": "Valor Investe",
@@ -676,46 +749,6 @@
     "MGLU3"
    ],
    "resumo": "As ações da varejista Magazine Luiza (MGLU3) ficaram entre as maiores e poucas as altas do índice Ibovespa nesta quarta-feira (23). A empresa acumula valorização de 29% em setembro, sob impulso do anúncio da parceria com o Mercado Livre (MELI34) para comercialização de seus produ"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Red Bull eleva gastos com atletas a US$ 1,7 bilhão e lucro cresce 12% em 2025",
-   "url": "https://investnews.com.br/negocios/red-bull-eleva-gastos-com-atletas-a-us-17-bilhao-e-lucro-cresce-12-em-2025/",
-   "publicado": "2026-09-23T14:09:49+00:00",
-   "tickers": [],
-   "resumo": "A Red Bull ampliou os investimentos em esportes nos últimos anos, diversificando seus negócios para além do foco em futebol e automobilismo"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Taxa dos prefixados cai ao menor nível em duas semanas após ata do Copom",
-   "url": "https://investnews.com.br/investimentos/tesouro-direto-taxas-rendimento-hoje-ata-copom-23092026/",
-   "publicado": "2026-09-23T14:07:19+00:00",
-   "tickers": [],
-   "resumo": "O papel de 2032 acumula recuo de 0,26 ponto desde quinta e a inflação implícita embutida nele rompeu a barreira dos 6%"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Para competir com a BYD, Geely apresenta recarga de carro elétrico em 4 minutos",
-   "url": "https://investnews.com.br/negocios/para-competir-com-a-byd-geely-apresenta-recarga-de-carro-eletrico-em-4-minutos/",
-   "publicado": "2026-09-23T13:41:22+00:00",
-   "tickers": [],
-   "resumo": "Geely diz ter desenvolvido recarga que leva bateria de 10% a 70% em menos de cinco  minutos"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Eleições 2026: quem não votar no 1º turno pode votar no 2º?",
-   "url": "https://investnews.com.br/economia/eleicoes-2026-nao-votar-1o-turno-2o-turno/",
-   "publicado": "2026-09-23T13:24:17+00:00",
-   "tickers": [],
-   "resumo": "Quem não votar no 1º turno das Eleições 2026 deve ter atenção na ausência e regularização"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "ETFs no Brasil já atraem quase 1 milhão de pessoas físicas",
-   "url": "https://investnews.com.br/investimentos/etfs-no-brasil-ja-atraem-quase-1-milhao-de-pessoas-fisicas/",
-   "publicado": "2026-09-23T13:20:21+00:00",
-   "tickers": [],
-   "resumo": "Os ETFs de renda fixa têm sido os preferidos dos investidores no último ano, com os juros permanecendo acima de 10%"
   },
   {
    "fonte": "Valor Investe",
@@ -820,46 +853,6 @@
    "publicado": "2026-09-22T22:02:43+00:00",
    "tickers": [],
    "resumo": "A revista Fintech Magazine divulgou seu ranking de 2026 dos 100 maiores líderes globais e a lista inclui executivos de cinco empresas brasileiras do setor: David Vélez, CEO do Nubank (em 5º lugar); Pedro Franceschi, CEO da Brex (29º); Marcelo Kalim, CEO do C6 (34º); Pedro Arnt, C"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "De ameaça de guerra a sinal de paz: aceno de Trump para o Irã derruba petróleo e puxa alta do Ibovespa",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/22/de-ameaca-de-guerra-a-sinal-de-paz-aceno-de-trump-para-o-ira-derruba-petroleo-e-puxa-alta-do-ibovespa.ghtml",
-   "publicado": "2026-09-22T20:29:34+00:00",
-   "tickers": [
-    "BBDC3",
-    "PETR3",
-    "PETR4",
-    "VALE3"
-   ],
-   "resumo": "Uma possível saída diplomática para o conflito entre Estados Unidos e Irã mudou o rumo dos mercados nesta terça-feira (22). À medida que a perspectiva de um acordo ganhou força, o petróleo aprofundou a queda e voltou a ficar abaixo dos US$ 100 por barril, enquanto a bolsa brasile"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Brasil já tem mais de R$ 10 bilhões em ativos tokenizados; onde está esse dinheiro?",
-   "url": "https://valorinveste.globo.com/credito-privado/noticia/2026/09/22/brasil-ja-tem-mais-de-r-10-bilhoes-em-ativos-tokenizados-onde-esta-esse-dinheiro.ghtml",
-   "publicado": "2026-09-22T20:00:00+00:00",
-   "tickers": [],
-   "resumo": "O mercado de ativos tokenizados cresceu cerca de dez vezes em apenas um ano no Brasil e superou R$ 10 bilhões em agosto de 2026, ante pouco mais de R$ 1 bilhão no mesmo período do ano passado. O avanço, porém, está fortemente concentrado no crédito: 88% do valor tokenizado no paí"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Financiamento de carros dispara e tem maior volume em 15 anos, apesar de juros altos",
-   "url": "https://valorinveste.globo.com/objetivo/gastar-bem/noticia/2026/09/22/financiamento-de-carros-dispara-agosto-tem-maior-volume-em-15-anos-apesar-de-juros-altos.ghtml",
-   "publicado": "2026-09-22T18:58:25+00:00",
-   "tickers": [],
-   "resumo": "O mercado brasileiro de veículos acelerou em agosto mesmo com os juros ainda elevados. Foram financiados 683,9 mil veículos novos e usados no mês, alta de 10,4% em relação a agosto de 2025 e o maior volume para o período em 15 anos, segundo dados da Trillia, unidade de dados e in"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Petrobras (PETR4) deve começar perfuração de novos poços na Foz do Amazonas em janeiro",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/09/22/petrobras-petr4-deve-comecar-perfuracao-de-novos-pocos-na-foz-do-amazonas-em-janeiro.ghtml",
-   "publicado": "2026-09-22T18:08:48+00:00",
-   "tickers": [
-    "PETR3",
-    "PETR4"
-   ],
-   "resumo": "A Petrobras (PETR3, PETR4) deve começar a perfurar os três novos poços na Bacia da Foz do Amazonas em janeiro, segundo a diretora de engenharia da companhia, Renata Baruzzi. Após participar da ROG.e, convenção do setor de petróleo e gás organizado pelo IBP, a executiva disse a jo"
   }
  ]
 }
