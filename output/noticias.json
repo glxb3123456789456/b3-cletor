@@ -3,6 +3,143 @@
  "itens": 100,
  "dados": [
   {
+   "fonte": "Brazil Journal",
+   "titulo": "Minha memória é tão ruim — by Pedro Vinicio",
+   "url": "https://braziljournal.com/minha-memoria-e-tao-ruim-by-pedro-vinicio/",
+   "publicado": "2026-09-26T17:00:09+00:00",
+   "tickers": [],
+   "resumo": "Ver o último.\nThe post Minha memória é tão ruim — by Pedro Vinicio appeared first on Brazil Journal."
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "BREAKING. Nubank vai atrás do Nubank britânico",
+   "url": "https://braziljournal.com/breaking-nubank-vai-atras-do-nubank-britanico/",
+   "publicado": "2026-09-26T15:57:34+00:00",
+   "tickers": [],
+   "resumo": "O Nubank está em conversas preliminares para adquirir o Monzo, um banco digital britânico com 16 milhões de clientes. A notícia saiu primeiro na Sky News e foi confirmada pelo Financial Times e pelo Brazil Journal. Se concluída, a operação deve envolver dinheiro e ações, e pode a"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "BofA vê mercado precificando cenário otimista para o Ibovespa antes das eleições, mas faz alerta",
+   "url": "https://www.moneytimes.com.br/mercado-adota-cenario-mais-otimista-para-ibovespa-antes-das-eleicoes-diz-bofa-apsa/",
+   "publicado": "2026-09-26T15:28:10+00:00",
+   "tickers": [],
+   "resumo": "A apenas 8 dias das eleições presidenciais, o Bank of America (BofA) avalia que o mercado brasileiro já incorporou parte de um cenário mais otimista para os ativos locais. Segundo o banco, o nível atual do Ibovespa (IBOV), em torno de 183 mil pontos, sugere que os investidores at"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Ouro disparou, diamante despencou: por que dois símbolos de riqueza seguiram caminhos tão diferentes",
+   "url": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/09/26/ouro-disparou-diamante-despencou-por-que-dois-simbolos-de-riqueza-seguiram-caminhos-tao-diferentes.ghtml",
+   "publicado": "2026-09-26T15:20:17+00:00",
+   "tickers": [],
+   "resumo": "\"Diamonds are a girl's best friend!\" Ainda será? \nRealizar o sonho de comprar um anel de diamante para o noivado ficou bem mais barato nos últimos anos. Um diamante natural de 1 quilate custa hoje, em média, US$ 3.898, queda de 51% ante os US$ 8.007 de 2021, segundo dados da plat"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Boato sobre Flávio Bolsonaro e Nossa Senhora Aparecida viraliza e gera 181 mil comentários em 20 horas",
+   "url": "https://www.moneytimes.com.br/boato-sobre-flavio-bolsonaro-e-nossa-senhora-aparecida-viraliza-e-gera-181-mil-comentarios-em-20-horas-apsa/",
+   "publicado": "2026-09-26T15:01:51+00:00",
+   "tickers": [],
+   "resumo": "O boato de que o candidato à Presidência pelo PL, senador Flávio Bolsonaro, apoiaria proposta de retirar Nossa Senhora Aparecida da condição de padroeira do Brasil gerou 180.857 comentários em 20 horas, revela levantamento da Vox Radar, empresa de monitoramento de redes sociais. "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "UBS vê dificuldades já precificadas para Hapvida (HAPV3) — mas recuperação operacional segue incerta",
+   "url": "https://www.moneytimes.com.br/ubs-ve-dificuldades-ja-precificadas-para-hapvida-hapv3-mas-recuperacao-operacional-segue-incerta-apsa/",
+   "publicado": "2026-09-26T14:50:55+00:00",
+   "tickers": [
+    "HAPV3"
+   ],
+   "resumo": "O UBS BB iniciou a cobertura de Hapvida (HAPV3) com recomendação neutra e preço-alvo de R$ 7,80 por ação. Na visão do banco, embora grande parte das dificuldades enfrentadas pela operadora de saúde já pareça refletida nos preços, ainda faltam evidências concretas de que a recuper"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Carteira recomendada: 5 ações para bater o desempenho do Ibovespa (IBOV) no curto prazo, segundo Terra",
+   "url": "https://www.moneytimes.com.br/carteira-recomendada-5-acoes-para-bater-o-desempenho-do-ibovespa-ibov-no-curto-prazo-segundo-terra-lmrs/",
+   "publicado": "2026-09-26T14:50:00+00:00",
+   "tickers": [
+    "HYPE3",
+    "RENT3"
+   ],
+   "resumo": "A Terra Investimentos promoveu uma mudança na carteira recomendada de ações para o período entre 25 de setembro e 2 de outubro, removendo Hypera (HYPE3) para dar lugar a Localiza (RENT3). De acordo com o analistas Régis Chinchila, que assina a carteira, Hypera atingiu zona de obj"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "EUA e China fecham acordo para reduzir tarifas e abrem diálogo sobre inteligência artificial",
+   "url": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/09/26/eua-e-china-fecham-acordo-para-reduzir-tarifas-e-abrem-dialogo-sobre-inteligencia-artificial.ghtml",
+   "publicado": "2026-09-26T14:46:33+00:00",
+   "tickers": [],
+   "resumo": "Estados Unidos e China chegaram a um acordo para reduzir tarifas de forma recíproca sobre US$ 30 bilhões em produtos e abrir um diálogo sobre inteligência artificial (IA), segundo reportado pela rede CNBC. As medidas fazem parte de um consenso de oito pontos alcançado durante a v"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "‘Estabilidade fiscal é coisa obrigatória’, diz Lula em evento com empresários em SP",
+   "url": "https://www.moneytimes.com.br/estabilidade-fiscal-e-coisa-obrigatoria-diz-lula-em-evento-com-empresarios-em-sp/",
+   "publicado": "2026-09-26T14:29:03+00:00",
+   "tickers": [],
+   "resumo": "O atual presidente e candidato à reeleição, Luiz Inácio Lula da Silva (PT), disse na noite desta sexta-feira (25) que não é respeitoso um país que não sabe tomar conta de suas próprias contas públicas. Ele reforçou que não é recomendável fazer dívidas que não se pode assumir e di"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Governo prorroga por 30 dias subvenção ao diesel; veja valor",
+   "url": "https://www.moneytimes.com.br/governo-prorroga-por-30-dias-subvencao-ao-diesel-em-r-212-por-litro-apsa/",
+   "publicado": "2026-09-26T14:14:04+00:00",
+   "tickers": [],
+   "resumo": "O governo federal prorrogou por 30 dias a subvenção ao óleo diesel em R$ 2,12 por litro. A medida consta em portaria do Ministério da Fazenda publicada em edição extra do Diário Oficial da União na noite de sexta-feira (25). A portaria entra em vigor neste domingo, 27 de setembro"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Trump e Xi abrem caminho para baixar tarifas sobre US$ 60 bilhões em produtos",
+   "url": "https://investnews.com.br/economia/eua-china-tarifas-60bi-trump-xi/",
+   "publicado": "2026-09-26T14:07:54+00:00",
+   "tickers": [],
+   "resumo": "São US$ 30 bilhões em produtos de cada lado; os países ainda precisam definir as novas tarifas e quando passarão a valer"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Calote em FII e disputa de R$ 103 bi no STF: Veja as matérias mais lidas da semana no Money Times",
+   "url": "https://www.moneytimes.com.br/calote-em-fii-e-disputa-de-r-103-bi-no-stf-veja-as-materias-mais-lidas-da-semana-no-money-times/",
+   "publicado": "2026-09-26T14:05:05+00:00",
+   "tickers": [],
+   "resumo": "As matérias mais lidas da semana no Money Times refletiram o interesse dos leitores pelo calote levado por um fundo imobiliário, os R$ 103 bilhões que a União pode ter que pagar ao setor sucroalcooleiro em julgamento do Supremo Tribunal Federal (STF) e as recomendações para o set"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Ainda vale embarcar em Embraer (EMBJ3) depois da valorização de 30%? XP enxerga mais potencial de alta",
+   "url": "https://www.moneytimes.com.br/ainda-vale-embarcar-em-embraer-embj3-depois-da-valorizacao-de-30-xp-enxerga-mais-potencial-de-alta/",
+   "publicado": "2026-09-26T13:46:12+00:00",
+   "tickers": [
+    "EMBJ3"
+   ],
+   "resumo": "A XP Investimentos atualizou suas projeções para a Embraer (EMBJ3) e manteve a recomendação de compra para as ações da fabricante de aeronaves. A corretora passou a adotar um preço-alvo de US$ 90 por American Depositary Receipt (ADR), equivalente a R$ 116 por ação ao final de 202"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Redução de juros no Brasil depende do fiscal, mas também de questões estruturais, diz Durigan",
+   "url": "https://www.moneytimes.com.br/reducao-de-juros-no-brasil-depende-do-fiscal-mas-tambem-de-questoes-estruturais-diz-durigan-apsa/",
+   "publicado": "2026-09-26T13:25:05+00:00",
+   "tickers": [],
+   "resumo": "O ministro da Fazenda, Dario Durigan, afirmou nesta sexta-feira (25) que a redução dos juros no Brasil depende de uma melhora das contas públicas, mas também exige enfrentar questões estruturais. Segundo ele, taxas mais baixas devem ser um legado de um eventual novo governo do pr"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Por que o Citi não considera a OPA da Braskem (BRKM5) atrativa?",
+   "url": "https://www.moneytimes.com.br/por-que-o-citi-nao-considera-a-opa-da-braskem-brkm5-atrativa-apsa/",
+   "publicado": "2026-09-26T13:12:45+00:00",
+   "tickers": [
+    "BRKM5"
+   ],
+   "resumo": "A Braskem (BRKM5) divulgou os detalhes da oferta pública de aquisição de ações (OPA) ligada ao processo de mudança de controle da companhia. Na avaliação do Citi, porém, a operação não apresenta uma proposta atrativa para os acionistas minoritários, o que deve limitar a adesão à "
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Guerra no Irã faz aluguel de superpetroleiros subir mais de seis vezes em nove meses",
+   "url": "https://investnews.com.br/economia/ira-ormuz-petroleiros-diaria-dispara/",
+   "publicado": "2026-09-26T12:38:00+00:00",
+   "tickers": [],
+   "resumo": "Mesmo com menos petróleo saindo do Golfo, desvios e transferências de carga ocupam navios por mais tempo e encarecem o transporte no mundo"
+  },
+  {
    "fonte": "Valor Investe",
    "titulo": "99, Obramax e mais: confira vagas de emprego, estágio e trainee abertas",
    "url": "https://valorinveste.globo.com/educacao-financeira/comecar/noticia/2026/09/26/99-obramax-e-mais-confira-vagas-de-emprego-estagio-e-trainee-abertas.ghtml",
@@ -218,22 +355,6 @@
    "resumo": "As novas regras sobre FIDCs anunciadas ontem têm o potencial de acabar com a indústria de legal claims no Brasil e causaram consternação nesse mercado. “Nem dormi esta noite,” resumiu um gestor. “Já recebi sei lá mais de mil mensagens de gestores preocupados com o que vai ser,” d"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "No vermelho: Ibovespa perde quase 2 mil pontos e dólar supera R$ 5,20",
-   "url": "https://www.moneytimes.com.br/ibovespa-intradia-25-6-26-lils/",
-   "publicado": "2026-09-25T15:39:02+00:00",
-   "tickers": [],
-   "resumo": "O Ibovespa (IBOV) perdeu mais de 1 mil pontos nas primeiras horas do pregão nesta sexta-feira (25), com pressão das blue chips e ajuste técnico. Por volta de 11h (horário de Brasília), o principal índice da bolsa brasileira bateu a mínima intradia, aos 182.151,01 pontos, com qued"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Wall Street avança com otimismo no setor tech",
-   "url": "https://www.moneytimes.com.br/wall-street-abertura-25-9-26-apsa/",
-   "publicado": "2026-09-25T15:31:34+00:00",
-   "tickers": [],
-   "resumo": "Os principais índices de Wall Street avançam nesta sexta-feira (25) operavam em alta, em um pregão ainda marcado pelo otimismo com a inteligência artificial (IA), ainda que a atenção dos investidores siga dividida com o mercado de títulos dos Estados Unidos, os Treasuries, e o pe"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Bill Gates alerta que IA é poderosa o suficiente para provocar ‘1 bilhão de mortes’",
    "url": "https://investnews.com.br/negocios/bill-gates-alerta-que-ia-e-poderosa-o-suficiente-para-provocar-1-bilhao-de-mortes/",
@@ -250,14 +371,6 @@
    "resumo": "Grupo francês mantinha 26 supermercados no Brasil até junho; Pereira vai pagar R$ 360 milhões por pacote que inclui nove drogarias e três postos"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "‘Próximo passo para a Selic parece claro, mas o ponto final não’, avalia Santander que ajusta projeções",
-   "url": "https://www.moneytimes.com.br/proximo-passo-para-a-selic-parece-claro-mas-o-ponto-final-nao-avalia-santander-que-ajusta-projecoes-jcav/",
-   "publicado": "2026-09-25T15:20:40+00:00",
-   "tickers": [],
-   "resumo": "O Santander passou a prever mais um corte de 0,25 ponto percentual na Selic em novembro, o que levaria a taxa dos atuais 13,75% para 13,50% ao ano. Antes, o banco esperava que o ciclo de redução dos juros terminasse em setembro. A mudança vem de sinais mais claros de desaceleraçã"
-  },
-  {
    "fonte": "Suno Noticias",
    "titulo": "WEG (WEGE3) amplia investimento na fábrica de baterias em Itajaí",
    "url": "https://www.suno.com.br/noticias/fabrica-de-baterias-da-weg-wege3-go/",
@@ -266,69 +379,6 @@
     "WEGE3"
    ],
    "resumo": "WEG (WEGE3) amplia investimento na fábrica de baterias em ItajaíA WEG S.A. (B3: WEGE3 / OTC: WEGZY) comunicou ao mercado, nesta sexta-feira (25), a ampliação do projeto da fábrica de baterias da empresa, unidade de sistemas de armazenamento de energia em baterias (BESS) atualment"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Campanha de Lula questiona Meta por conta desabilitada no Facebook",
-   "url": "https://www.moneytimes.com.br/campanha-de-lula-questiona-meta-por-pagina-de-anuncio-desabilitada-gaep/",
-   "publicado": "2026-09-25T15:08:55+00:00",
-   "tickers": [],
-   "resumo": "O PT e a campanha à reeleição do presidente Luiz Inácio Lula da Silva (PT) entraram com recurso contra a Meta, responsável pelo Facebook, Instagram e WhatsApp para que a empresa explique a desabilitação da conta do candidato no Facebook, nesta quinta-feira (24). A página foi rest"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Lula empata com Flávio Bolsonaro e Augusto Cury em possível segundo turno: o que isso diz sobre um ajuste fiscal no Brasil?",
-   "url": "https://www.moneytimes.com.br/lula-empata-com-flavio-bolsonaro-e-augusto-cury-em-possivel-segundo-turno-o-que-isso-diz-sobre-um-ajuste-fiscal-no-brasil-lbrdbb104/",
-   "publicado": "2026-09-25T15:00:00+00:00",
-   "tickers": [],
-   "resumo": "Divulgada na última segunda-feira (21), a 15ª rodada da pesquisa BTG Pactual/Nexus aponta cenários de empate técnico entre candidatos à Presidência da República, tanto no primeiro quanto no segundo turno. Os resultados ampliam as possibilidades de mudança no cenário político, e a"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Greve da Caixa: TST determina mínimo de 60% dos funcionários em serviço",
-   "url": "https://www.moneytimes.com.br/greve-da-caixa-tst-determina-minimo-de-60-dos-funcionarios-em-servico-igdl/",
-   "publicado": "2026-09-25T14:57:02+00:00",
-   "tickers": [],
-   "resumo": "Decisão liminar do ministro do Tribunal Superior do Trabalho (TST), Mauricio Godinho Delgado, determinou a manutenção do percentual mínimo de 60% dos empregados da Caixa Econômica Federal em serviço, durante greve decretada no dia 10 de setembro. A medida ocorre após a Caixa ajui"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Sachsida diz que vinculação entre salário mínimo e Previdência será mantida em eventual vitória de Flávio Bolsonaro",
-   "url": "https://www.moneytimes.com.br/campanha-de-flavio-bolsonaro-diz-que-vinculacao-entre-salario-minimo-e-previdencia-sera-mantida-em-eventual-vitoria-eleitoral-gaep/",
-   "publicado": "2026-09-25T14:55:23+00:00",
-   "tickers": [],
-   "resumo": "A equipe de campanha do senador Flávio Bolsonaro (PL) à presidência da República preparou medidas que garantem a continuidade da vinculação entre salário mínimo e benefícios previdenciários, disse nesta sexta-feira o ex-ministro Adolfo Sachsida, que participa da coordenação do pl"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "IPCA-15 avança com três novos vilões no radar dos economistas — e projeção para 2026 pode subir",
-   "url": "https://www.moneytimes.com.br/ipca-15-sobe-com-tres-novos-viloes-no-radar-dos-economistas-e-projecao-para-2026-pode-subir-apsa/",
-   "publicado": "2026-09-25T14:48:12+00:00",
-   "tickers": [],
-   "resumo": "A prévia da inflação, o Índice Nacional de Preços ao Consumidor Amplo &#8211; 15 (IPCA-15), surpreendeu o mercado com um número acima do esperado, subindo 0,70% em setembro, após uma deflação de 0,40% em agosto. Mas a surpresa não veio só no headline. O qualitativo também piorou,"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Suzano (SUZB3) e Klabin (KLBN11): XP contraria BTG e BBI, recomenda as duas — mas tem uma favorita",
-   "url": "https://www.moneytimes.com.br/suzano-suzb3-e-klabin-klbn11-xp-contraria-btg-e-bbi-recomenda-as-duas-mas-tem-uma-favorita-pads/",
-   "publicado": "2026-09-25T14:46:45+00:00",
-   "tickers": [
-    "KLBN11",
-    "SUZB3"
-   ],
-   "resumo": "A XP Investimentos destoou de outras casas nas recomendações para Suzano (SUZB3) e Klabin (KLBN11). Embora também tenha uma preferência entre as duas, a corretora vê espaço para ambas aproveitarem o momento mais favorável dos preços da celulose no curto prazo e reiterou recomenda"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "RD Saúde (RADL3) e Pague Menos (PGMN3): Qual o tamanho do impacto do Mercado Livre nas farmacêuticas, segundo o JP Morgan",
-   "url": "https://www.moneytimes.com.br/rd-saude-radl3-e-pague-menos-pgmn3-qual-o-tamanho-do-impacto-mercado-livre-nas-farmaceuticas-segundo-jp-morgan-lmrs/",
-   "publicado": "2026-09-25T14:43:22+00:00",
-   "tickers": [
-    "MELI34",
-    "PGMN3",
-    "RADL3"
-   ],
-   "resumo": "As ações da RD Saúde (RADL3) e da Pague Menos (PGMN3) enfrentaram um final de pregão amargo na quinta-feira (24), após o Mercado Livre (MELI34) ter anunciado que, a partir de hoje, passará a vender medicamentos com prescrição e retenção de receitas &#8211; incluindo antibióticos "
   },
   {
    "fonte": "Valor Investe",
@@ -766,22 +816,6 @@
    "resumo": "Os rendimentos dos títulos do Tesouro Direto operam em torno da estabilidade nesta quinta-feira (24), com leve alta apenas entre os prefixados.\nOs papéis locais não acompanham a alta dos títulos do Tesouro americano. O \"Treasury\" com vencimento em 10 anos superou a taxa de 5,1% ("
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Fake news nas eleições 2026? Veja como identificar e denunciar ao TSE",
-   "url": "https://investnews.com.br/economia/fake-news-nas-eleicoes-2026/",
-   "publicado": "2026-09-24T13:46:31+00:00",
-   "tickers": [],
-   "resumo": "O Siade, do TSE, recebe alertas anônimos de fake news sobre urnas e voto. Questões sobre candidatos vão ao Pardal"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Pix pode ganhar conexão com sistema de pagamentos da Europa. Entenda",
-   "url": "https://investnews.com.br/financas/pix-pode-ganhar-conexao-com-sistema-de-pagamentos-da-europa-entenda/",
-   "publicado": "2026-09-24T13:35:46+00:00",
-   "tickers": [],
-   "resumo": "A conexão, se implementada, poderá permitir que pagamentos entre Brasil e Europa sejam feitos de forma mais rápida"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Pix pode ganhar conexão direta com sistema europeu de pagamentos instantâneos",
    "url": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/09/24/pix-pode-ganhar-conexao-direta-com-sistema-europeu-de-pagamentos-instantaneos.ghtml",
@@ -812,38 +846,6 @@
     "YDUQ3"
    ],
    "resumo": "A Afya e Yduqs assinaram um acordo de fusão criando uma companhia com receita de cerca de R$ 9 bilhões. A nova companhia de educação terá a Afya com 69% e a Yduqs com 31%, sendo que o grupo carioca terá direito a R$ 750 milhões em dividendos. \nCom a transação, o grupo alemão Bert"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Encontro entre Trump e Xi Jinping, petróleo, disputa eleitoral e nova operação da Receita marcam o dia",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/24/encontro-entre-trump-e-xi-jinping-petroleo-disputa-eleitoral-e-nova-operacao-da-pf-marcam-o-dia.ghtml",
-   "publicado": "2026-09-24T11:19:19+00:00",
-   "tickers": [],
-   "resumo": "Assunto não falta nas mesas de operação dos mercados nesta quinta-feira (24). O dia começou com escalada do petróleo após o discurso do presidente do Irã na Assembleia Geral da ONU, que deu sinais que EUA e Irã estão longe de avanços diplomáticos. Com isso, os preços do petróleo "
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Diretor do Banco Genial e executivo ligado ao Master são alvos de 3ª fase da Operação Carbono Oculto",
-   "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/09/24/credito-oculto-pf-faz-nova-operacao-contra-lavagem-de-dinheiro-em-sete-estados.ghtml",
-   "publicado": "2026-09-24T10:55:50+00:00",
-   "tickers": [],
-   "resumo": "A Receita Federal, o Grupo de Atuação Especial de Combate ao Crime Organizado (Gaeco), a Secretaria da Fazenda do Estado de São Paulo, a Procuradoria Geral do Estado de São Paulo, a Polícia Militar e a Polícia Civil deflagraram nesta quinta-feira (24) a Operação Crédito Oculto, u"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "Brasil precisa de alianças para evitar “G2” de EUA e China, diz diplomata americano",
-   "url": "https://braziljournal.com/brasil-precisa-de-aliancas-para-evitar-g2-de-eua-e-china-diz-diplomata-americano/",
-   "publicado": "2026-09-24T09:50:26+00:00",
-   "tickers": [],
-   "resumo": "Em um mundo cada vez mais fragmentado, Brasil e EUA experimentam sua pior relação diplomática em décadas – e estão jogando fora a possibilidade de criar uma aliança poderosa entre as maiores democracias ocidentais. É o que pensa o diplomata e professor em Harvard Nicholas Burns, "
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "Taste Labs: a startup que ensina os LLMs a ter bom gosto",
-   "url": "https://braziljournal.com/taste-labs-a-startup-que-ensina-os-llms-a-ter-bom-gosto/",
-   "publicado": "2026-09-24T09:50:03+00:00",
-   "tickers": [],
-   "resumo": "Os modelos de LLM estão cada vez mais avançados em questões objetivas – resolvendo problemas complexos de matemática, escrevendo códigos abrangentes e executando tarefas com múltiplas etapas. Mas quando eles precisam lidar com temas subjetivos, que têm nuances e demandam criativi"
   }
  ]
 }
