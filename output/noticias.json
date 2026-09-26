@@ -3,6 +3,46 @@
  "itens": 100,
  "dados": [
   {
+   "fonte": "Valor Investe",
+   "titulo": "99, Obramax e mais: confira vagas de emprego, estágio e trainee abertas",
+   "url": "https://valorinveste.globo.com/educacao-financeira/comecar/noticia/2026/09/26/99-obramax-e-mais-confira-vagas-de-emprego-estagio-e-trainee-abertas.ghtml",
+   "publicado": "2026-09-26T11:16:04+00:00",
+   "tickers": [],
+   "resumo": "Procura uma oportunidade de recolocação, de crescer na carreira ou de começar em uma empresa? O Valor Investe reuniu vagas abertas para ajudar quem está em busca de novos desafios.\nSão mais de 190 posições nas modalidades presencial, híbrida e remota, em setores como tecnologia e"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "‘Seus pontos vão expirar’: entenda o golpe que usa milhas como isca",
+   "url": "https://valorinveste.globo.com/objetivo/organize-as-contas/noticia/2026/09/26/seus-pontos-vao-expirar-entenda-o-golpe-que-usa-milhas-como-isca.ghtml",
+   "publicado": "2026-09-26T11:13:28+00:00",
+   "tickers": [],
+   "resumo": "Uma mensagem no Whatsapp avisa que seus pontos ou milhas estão prestes a expirar e oferece uma última oportunidade para resgatá-los. A aparente vantagem, porém, pode esconder um golpe para roubar senhas, dados pessoais e informações de cartões.\nO chamado “golpe do programa de pon"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Mantiqueira, que tem JBS como sócia, vai atrás de meio bilhão para bancar plano de investimentos",
+   "url": "https://investnews.com.br/negocios/mantiqueira-jbs-500mi-emissao-cprf/",
+   "publicado": "2026-09-26T10:39:55+00:00",
+   "tickers": [],
+   "resumo": "Oferta vem semanas após produtora de ovos anunciar R$ 565 milhões em investimentos para ampliar sua capacidade no Brasil"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "A jornada para levar a famosa manteiga francesa na bagagem de Paris para casa",
+   "url": "https://investnews.com.br/the-wall-street-journal/a-arriscada-missao-de-levar-manteiga-contrabandeada-de-paris-para-casa/",
+   "publicado": "2026-09-26T09:00:00+00:00",
+   "tickers": [],
+   "resumo": "A manteiga artesanal virou o souvenir da França, mas conseguir levá-la inteira para casa pode ser uma operação de alto risco"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Mega-Sena 3064 sorteia prêmio de R$ 45 milhões neste domingo; veja como e até que horas pode apostar",
+   "url": "https://valorinveste.globo.com/loterias/noticia/2026/09/26/mega-sena-3064-sorteia-premio-de-r-45-milhoes-neste-domingo-veja-como-e-ate-que-horas-pode-apostar.ghtml",
+   "publicado": "2026-09-26T03:00:00+00:00",
+   "tickers": [],
+   "resumo": "A Mega-Sena 3063 vai sortear um prêmio estimado em R$ 45 milhões neste domingo (27), a partir das 11h (horário de Brasília), em São Paulo.\nVEJA TAMBÉM: \n- Os números mais sorteados na história Mega-Sena\nPara os sorteios realizados aos domingos, as apostas podem ser feitas até às "
+  },
+  {
    "fonte": "InvestNews",
    "titulo": "Presidente do conselho da You,inc renuncia em meio à crise financeira e atrasos em obras",
    "url": "https://investnews.com.br/negocios/presidente-do-conselho-youinc-renuncia/",
@@ -750,14 +790,6 @@
    "resumo": "O Banco Central do Brasil (BC) e o Banco Central Europeu (BCE) iniciaram nesta quinta-feira (24) uma fase de avaliação sobre a viabilidade de interligar o Pix ao TARGET Instant Payment Settlement (TIPS), o sistema de pagamentos instantâneos operado pelo Eurosistema, o conjunto fo"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "EUA oferecem financiamento de até US$ 6 bi para projeto de gás da Argentina",
-   "url": "https://investnews.com.br/economia/eua-oferecem-financiamento-de-ate-us-6-bi-para-projeto-de-gas-da-argentina/",
-   "publicado": "2026-09-24T13:05:10+00:00",
-   "tickers": [],
-   "resumo": "O Argentina LNG, que seria o maior projeto de infraestrutura da história do país, recebeu uma oferta do governo dos EUA"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Ibovespa fecha em queda meio a escalada do petróleo e alta dos juros nos EUA; dólar sobe",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/24/ibovespa-futuro-cai-com-escalada-do-petroleo-e-alta-dos-juros-dolar-sobe.ghtml",
@@ -767,14 +799,6 @@
     "PETR4"
    ],
    "resumo": "O Ibovespa, principal índice de ações brasileiro, fechou em queda no pregão desta quinta-feira (24), acompanhando a aversão a risco global, com a alta do preço do petróleo, do dólar e dos rendimentos dos títulos do Tesouro dos Estados Unidos, em novas máximas. As bolsas de Nova Y"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Qual é o horário de funcionamento do Tesouro Direto",
-   "url": "https://investnews.com.br/investimentos/horario-de-funcionamento-do-tesouro-direto/",
-   "publicado": "2026-09-24T12:11:14+00:00",
-   "tickers": [],
-   "resumo": "A maioria dos títulos opera das 9h30 às 18h em dias úteis, mas existe uma exceção que funciona 24 horas por dia"
   },
   {
    "fonte": "Valor Investe",
@@ -820,30 +844,6 @@
    "publicado": "2026-09-24T09:50:03+00:00",
    "tickers": [],
    "resumo": "Os modelos de LLM estão cada vez mais avançados em questões objetivas – resolvendo problemas complexos de matemática, escrevendo códigos abrangentes e executando tarefas com múltiplas etapas. Mas quando eles precisam lidar com temas subjetivos, que têm nuances e demandam criativi"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Preparando sem 13º",
-   "url": "https://valorinveste.globo.com/blogs/vera-rita-de-mello-ferreira/coluna/preparando-sem-13o.ghtml",
-   "publicado": "2026-09-24T09:30:00+00:00",
-   "tickers": [],
-   "resumo": "- também conforme prometido na semana passada... - como se preparar para tudo que você gasta a mais na virada do ano?\n- claro que não vai ter nenhuma novidade no que eu vou dizer, certo?\n- mas... como a gente nunca sabe como ou quando uma ficha vai cair - e gente vai, de fato, fa"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Precisamos acabar com os títulos pós-fixados no Brasil",
-   "url": "https://valorinveste.globo.com/blogs/claudio-de-moraes/coluna/precisamos-acabar-com-os-titulos-pos-fixados-no-brasil.ghtml",
-   "publicado": "2026-09-24T09:20:01+00:00",
-   "tickers": [],
-   "resumo": "Antes tarde do que nunca. Nas últimas semanas, jornais de negócios e economistas começaram a dedicar mais atenção à composição da dívida pública brasileira. É uma boa notícia. Durante muito tempo discutimos o tamanho da dívida, o déficit público, o resultado primário e a taxa de "
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Debênture das Casas Bahia perde 91,5% do valor após recuperação judicial",
-   "url": "https://valorinveste.globo.com/produtos/renda-fixa/debentures-e-divida-privada/noticia/2026/09/24/debenture-das-casas-bahia-perde-915percent-do-valor-apos-recuperacao-judicial.ghtml",
-   "publicado": "2026-09-24T09:10:00+00:00",
-   "tickers": [],
-   "resumo": "Os títulos de dívida das Casas Bahia perderam quase todo o seu valor depois que a companhia entrou com pedido de recuperação judicial. O movimento chama atenção para o impacto que uma crise financeira pode ter sobre o investidor que compra debêntures, títulos de dívida usados pel"
   }
  ]
 }
