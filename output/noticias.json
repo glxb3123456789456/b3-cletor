@@ -3,6 +3,107 @@
  "itens": 100,
  "dados": [
   {
+   "fonte": "Valor Investe",
+   "titulo": "Caixa antecipa sorteios das loterias, e Mega-Sena 3066 pode pagar prêmio acumulado em R$ 82 milhões hoje",
+   "url": "https://valorinveste.globo.com/loterias/noticia/2026/10/03/mega-sena-3066-sorteio-hoje.ghtml",
+   "publicado": "2026-10-03T18:18:08+00:00",
+   "tickers": [],
+   "resumo": "A Mega-Sena 3066 vai sortear um prêmio estimado em R$ 82 milhões neste sábado (3), a partir das 21h (horário de Brasília), em São Paulo. A Caixa Econômica Federal antecipou os sorteios das loterias previstos para domingo (4) por conta do primeiro turno das eleições.\nVEJA TAMBÉM: "
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Como votar nas eleições 2026 sem o título de eleitor",
+   "url": "https://investnews.com.br/economia/votar-eleicoes-2026-sem-titulo-eleitor/",
+   "publicado": "2026-10-03T16:42:20+00:00",
+   "tickers": [],
+   "resumo": "Perder o documento físico não impede o voto nas eleições 2026"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "OPINIÃO. Uma resposta a João Moreira Salles",
+   "url": "https://braziljournal.com/opiniao-uma-resposta-a-joao-moreira-salles/",
+   "publicado": "2026-10-03T15:38:19+00:00",
+   "tickers": [],
+   "resumo": "Eu li o longo artigo que João Moreira Salles publicou na revista piauí, intitulado O que esses brasileiros sabem, e resolvi escrever este porque aquele artigo é muito mais do que uma crítica a Flávio Bolsonaro. A tese de Salles é simples. Existe uma elite empresarial e financeira"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Ato de Lula na Paulista tem confusão após PM pedir retirada de caminhões",
+   "url": "https://www.moneytimes.com.br/ato-de-lula-na-paulista-tem-confusao-apos-pm-pedir-retirada-de-caminhoes-lmrs/",
+   "publicado": "2026-10-03T15:16:10+00:00",
+   "tickers": [],
+   "resumo": "O último ato de campanha do presidente Luiz Inácio Lula da Silva (PT) e do candidato ao governo de São Paulo, Fernando Haddad (PT), antes do primeiro turno teve um princípio de confusão na manhã deste sábado (3), na região da rua Augusta, em São Paulo, após policiais militares pe"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "As 10 ações recomendadas pelo Safra para outubro diante da volatilidade eleitoral",
+   "url": "https://www.moneytimes.com.br/as-10-acoes-recomendadas-pelo-safra-para-outubro-diante-da-volatilidade-eleitoral-lmrs/",
+   "publicado": "2026-10-03T15:11:45+00:00",
+   "tickers": [
+    "BPAC11"
+   ],
+   "resumo": "O Safra realizou três trocas na carteira recomendada de ações para o mês de outubro, na busca por equilíbrio para o portfólio diante da expectativa de aumento da volatilidade em função do período eleitoral. Nesse contexto, os analistas optaram por retirar BTG Pactual (BPAC11) do "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "BTG Pactual procura profissionais para apoiar atendimento a assessores de alta renda",
+   "url": "https://www.moneytimes.com.br/btg-pactual-procura-profissionais-para-apoiar-atendimento-a-assessores-de-alta-renda-lbrdbb106/",
+   "publicado": "2026-10-03T15:00:00+00:00",
+   "tickers": [],
+   "resumo": "O BTG Pactual acaba de lançar a primeira edição do programa Geração Atendimento ao Assessor, um processo seletivo que vai contratar profissionais para atuar no atendimento a agentes autônomos dedicados ao público de alta renda. Entre os requisitos da vaga, é pedido que o profissi"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Caiado nega desistir de candidatura para apoiar Flávio: ‘Sequer foi cogitado’",
+   "url": "https://www.moneytimes.com.br/caiado-nega-desistir-de-candidatura-para-apoiar-flavio-sequer-foi-cogitado-lmrs/",
+   "publicado": "2026-10-03T14:51:01+00:00",
+   "tickers": [],
+   "resumo": "O ex-governador de Goiás Ronaldo Caiado, candidato à presidência pelo PSD, reiterou na manhã deste sábado (3) que não vai desistir de sua candidatura antes da votação do primeiro turno das eleições presidenciais, marcadas para o domingo (4). Em ato político com apoiadores em Goiâ"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Entra, BTG Pactual (BPAC11): 10 ações para ter na carteira de outubro, segundo o BB Investimentos",
+   "url": "https://www.moneytimes.com.br/entra-btg-pactual-bpac11-10-acoes-para-ter-na-carteira-de-outubro-segundo-bb-investimentos-lmrs/",
+   "publicado": "2026-10-03T14:50:00+00:00",
+   "tickers": [
+    "BPAC11",
+    "DIRR3"
+   ],
+   "resumo": "O BB Investimentos realizou apenas uma mudança na carteira recomendada para o mês de outubro. As ações de Direcional (DIRR3) deixam o portfólio, abrindo espaço para a entrada do BTG Pactual (BPAC11). De acordo com os analistas da casa, o BTG passa a integrar a carteira fundamenta"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Lula chega à avenida Paulista para último evento de campanha antes do 1º turno",
+   "url": "https://www.moneytimes.com.br/lula-chega-a-avenida-paulista-para-ultimo-evento-de-campanha-antes-do-1o-turno-lmrs/",
+   "publicado": "2026-10-03T14:43:51+00:00",
+   "tickers": [],
+   "resumo": "O presidente Luiz Inácio Lula da Silva chegou à região da avenida Paulista para a caminhada &#8220;Brasil Pronto pra Mais&#8220;, o último evento oficial da campanha antes do primeiro turno das eleições. Participam do evento políticos aliados, como o vice-presidente e candidato à"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Lula tem 43,1% e Flávio Bolsonaro 38% no primeiro turno, aponta CNT/MDA; segundo turno mostra empate técnico",
+   "url": "https://www.moneytimes.com.br/lula-tem-431-e-flavio-bolsonaro-38-no-primeiro-turno-aponta-cnt-mda-segundo-turno-mostra-empate-tecnico-lmrs/",
+   "publicado": "2026-10-03T14:31:42+00:00",
+   "tickers": [],
+   "resumo": "Pesquisa CNT/MDA para a eleição presidencial 2026 divulgada neste sábado (3) aponta o presidente Luiz Inácio Lula da Silva (PT) com 43,1% das intenções de votos e o senador Flávio Bolsonaro (PL-RJ), filho do ex-presidente Jair Bolsonaro (PL), com 38% no primeiro turno. No levanta"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Que horas começa a votação? Veja os horários de início e fim do primeiro turno",
+   "url": "https://www.moneytimes.com.br/que-horas-comeca-a-votacao-veja-os-horarios-de-inicio-e-fim-do-primeiro-turno/",
+   "publicado": "2026-10-03T14:30:00+00:00",
+   "tickers": [],
+   "resumo": "Os eleitores brasileiros irão às urnas no domingo, 4, para votar no primeiro turno das eleições gerais de 2026. A votação ocorre das 8h às 17h pelo horário de Brasília. O Brasil tem quatro fusos diferentes. Em dezembro de 2021, o Tribunal Superior Eleitoral (TSE) determinou a uni"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Eleição traçará o futuro do refino no país, que ainda depende de diesel importado",
+   "url": "https://investnews.com.br/negocios/eleicao-definira-futuro-do-refino-no-pais-que-ainda-depende-de-diesel-importado/",
+   "publicado": "2026-10-03T14:17:48+00:00",
+   "tickers": [],
+   "resumo": "Petrobras prevê autossuficiência, mas o destino do projeto está nas urnas: Lula promete mais refino estatal, Flávio prefere o capital privado"
+  },
+  {
    "fonte": "Money Times",
    "titulo": "Presidente do Senado marca para terça votação do fim da escala 6×1",
    "url": "https://www.moneytimes.com.br/presidente-do-senado-marca-para-terca-votacao-do-fim-da-escala-6x1-lmrs/",
@@ -33,75 +134,6 @@
    "publicado": "2026-10-03T13:23:00+00:00",
    "tickers": [],
    "resumo": "Propostas econômicas de Lula, Flávio Bolsonaro e Zema incluem mudanças em impostos, crédito e trabalho.O imposto que sai do salário, os juros do financiamento e as regras para trabalhar também entram na disputa pela Presidência. As propostas econômicas de Lula (PT), Flávio Bolson"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "TSE determina que votos em Garotinho sejam considerados nulos em eleição ao governo do Rio",
-   "url": "https://www.moneytimes.com.br/tse-determina-que-votos-em-garotinho-sejam-considerados-nulos-em-eleicao-ao-governo-do-rio/",
-   "publicado": "2026-10-03T13:15:27+00:00",
-   "tickers": [],
-   "resumo": "O ministro Floriano de Azevedo Marques, do Tribunal Superior Eleitoral (TSE), revogou liminar que havia permitido a Anthony Garotinho (Republicanos) manter sua candidatura ao governo do Rio de Janeiro. Na decisão, determinou que votos computados a favor dele sejam considerados nu"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Porto Seguro (PSSA3) anuncia pedido de cancelamento de registro da controlada Porto Serviço na CVM",
-   "url": "https://www.moneytimes.com.br/porto-seguro-pssa3-anuncia-pedido-de-cancelamento-de-registro-da-controlada-porto-servico-na-cvm-lmrs/",
-   "publicado": "2026-10-03T13:12:48+00:00",
-   "tickers": [
-    "PSSA3"
-   ],
-   "resumo": "A Porto Seguro (PSSA3) informou na sexta-feira (2) que sua controlada Porto Serviço S.A. protocolou pedido de cancelamento de registro de companhia aberta junto à Comissão de Valores Mobiliários (CVM). Segundo o fato relevante, a medida foi tomada no contexto de uma reorganização"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Quase 2 milhões de eleitores com algum tipo de deficiência têm direito a ajuda na hora de votar",
-   "url": "https://www.moneytimes.com.br/quase-2-milhoes-de-eleitores-com-algum-tipo-de-deficiencia-tem-direito-a-voto-com-assistencia-no-pais-gaep/",
-   "publicado": "2026-10-03T13:00:00+00:00",
-   "tickers": [],
-   "resumo": "O Tribunal Superior Eleitoral (TSE) liberou voto assistido para quase 2 milhões de pessoas com deficiência, limitação motora, visual ou sensorial, ou mobilidade reduzida nas eleições 2026. Sem cadastro prévio, esses eleitores e eleitoras podem entrar na cabine acompanhadas por al"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Fundos imobiliários (FIIs): Veja 12 para ter na carteira em outubro, segundo o Itaú BBA",
-   "url": "https://www.moneytimes.com.br/fundos-imobiliarios-fiis-veja-12-para-ter-na-carteira-em-outubro-segundo-o-itau-bba-igdl/",
-   "publicado": "2026-10-03T12:30:00+00:00",
-   "tickers": [],
-   "resumo": "O Itaú BBA optou por manter inalterada sua carteira recomendada de fundos imobiliários (FIIs) para o mês de outubro, que segue composta por 12 veículos. Em relatório, os analistas Fausto Menezes e Larissa Gatti Nappo afirmaram que mantêm a preferência por FIIs de papel (crédito),"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Das ações que podem disparar caso Lula seja reeleito à locação do Esther Towers pelo Itaú; confira as mais lidas da semana",
-   "url": "https://www.moneytimes.com.br/das-acoes-que-podem-disparar-caso-lula-seja-reeleito-a-locacao-do-esther-towers-pelo-itau-confira-as-mais-lidas-da-semana/",
-   "publicado": "2026-10-03T12:25:34+00:00",
-   "tickers": [
-    "BBDC4",
-    "ITUB4"
-   ],
-   "resumo": "O pagamento de dividendos por empresas, a locação da Esther Towers pelo Itaú Unibanco e as ações com potencial caso Lula seja reeleito são alguns dos destaques recentes. Confira agora as matérias mais lidas no Money Times na última semana: Bradesco (BBDC4), Itaú (ITUB4) e mais ci"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Eleição renova dois terços do Senado e tem disputa embolada em 24 Estados e no DF",
-   "url": "https://www.moneytimes.com.br/eleicao-renova-dois-tercos-do-senado-e-tem-disputa-embolada-em-24-estados-e-no-df-lmrs/",
-   "publicado": "2026-10-03T12:01:26+00:00",
-   "tickers": [],
-   "resumo": "A disputa por dois terços das cadeiras do Senado chega a este domingo (4) aberta em 24 Estados e no Distrito Federal, com pesquisas de intenção de voto mostrando uma corrida acirrada entre nomes ligados ao senador Flávio Bolsonaro (PL) e ao presidente Luiz Inácio Lula da Silva (P"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Henry Kissinger: o Nobel da Paz que tentou devolver o prêmio, mas o comitê não aceitou",
-   "url": "https://www.moneytimes.com.br/henry-kissinger-nobel-paz-tentou-devolver-rsgp/",
-   "publicado": "2026-10-03T12:01:00+00:00",
-   "tickers": [],
-   "resumo": "A história do Nobel da Paz é marcada pelas ações dos próprios premiados. Ao premiar pessoas vivas, o comitê corre o risco de ver um laureado contradizer justamente aquilo que o prêmio celebra: a paz. Em 29 de janeiro de 1973, o norueguês John Sanness indicou ao prêmio daquele ano"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Este ‘trader’ quer buscar multiplicações de até 270 vezes para você; entenda como",
-   "url": "https://www.moneytimes.com.br/este-trader-quer-buscar-multiplicacoes-de-ate-270-vezes-para-voce-entenda-como-lbrdjm045/",
-   "publicado": "2026-10-03T12:00:00+00:00",
-   "tickers": [],
-   "resumo": "Para especialistas, bom momento do bitcoin (BTC) abre janela de oportunidade para investir em outros criptoativos"
   },
   {
    "fonte": "InvestNews",
@@ -594,7 +626,7 @@
   },
   {
    "fonte": "InvestNews",
-   "titulo": "Eleições 2026: qual o horário de votação e o que fazer para evitar filas?",
+   "titulo": "Eleições 2026: qual o horário de votação e o que fazer para evitar filas",
    "url": "https://investnews.com.br/economia/eleicoes-2026-horario-votacao-fila/",
    "publicado": "2026-10-01T19:55:46+00:00",
    "tickers": [],
@@ -617,14 +649,6 @@
     "AZZA3"
    ],
    "resumo": "As ações da Azzas 2154 dispararam nesta quinta-feira (1º) na B3 e lideraram as altas do Ibovespa, principal índice da bolsa brasileira, em um pregão de pouca volatilidade. O movimento ocorre após a divulgação de avaliações entre R$ 3,5 bilhões e R$ 4 bilhões pela Farm, acima do v"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "Flávio será presidente – pelo menos segundo a Kalshi e Polymarket",
-   "url": "https://braziljournal.com/flavio-sera-presidente-pelo-menos-segundo-a-kalshi-e-polymarket/",
-   "publicado": "2026-10-01T19:13:51+00:00",
-   "tickers": [],
-   "resumo": "Na reta final da mais palpitante eleição dos últimos anos, com os números obscenamente apertados entre os dois principais candidatos, a Polymarket e a Kalshi estão dando a vitória para Flávio Bolsonaro. E os dados históricos mostram que a taxa de acerto das empresas de mercados p"
   },
   {
    "fonte": "InvestNews",
@@ -697,22 +721,6 @@
    "publicado": "2026-10-01T17:12:57+00:00",
    "tickers": [],
    "resumo": "Microsoft adicionou US$ 1 trilhão em valor de mercado no trimestre, com ações em alta de 37,5%"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Os americanos gostam mais de futebol após a Copa do Mundo nos Estados Unidos? Pesquisa diz que sim",
-   "url": "https://investnews.com.br/off-work/os-americanos-gostam-mais-de-futebol-apos-a-copa-do-mundo-nos-estados-unidos-pesquisa-diz-que-sim/",
-   "publicado": "2026-10-01T16:39:41+00:00",
-   "tickers": [],
-   "resumo": "O número de americanos que disseram ser fãs de futebol aumentou após a Copa do Mundo"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Tesouro IPCA+ 2050 lidera ganhos com alta de 8,4% em setembro; Ibovespa sobe 5%",
-   "url": "https://investnews.com.br/investimentos/tesouro-ipca-2050-lidera-ganho-mes/",
-   "publicado": "2026-10-01T16:13:34+00:00",
-   "tickers": [],
-   "resumo": "Tesouro Direto e bolsa ganham com expectativa de mais cortes da Selic, mesmo às vésperas do primeiro turno das eleições"
   },
   {
    "fonte": "Valor Investe",
@@ -855,14 +863,6 @@
     "TEND3"
    ],
    "resumo": "Apesar da forte alta em setembro do Ibovespa, principal índice de ações brasileiras, o mês não foi bom para todos os papéis que compõem o índice. Alguns setores apareceram mais de uma vez no levantamento do Valor Data das dez empresas com pior desempenho. Mineração e construção c"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Ibovespa sobe 8,3% e carimba o melhor terceiro trimestre desde 2022",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/09/30/ibovespa-sobe-83percent-e-carimba-o-melhor-terceiro-trimestre-desde-2022.ghtml",
-   "publicado": "2026-09-30T20:53:25+00:00",
-   "tickers": [],
-   "resumo": "O terceiro trimestre terminou com uma história bem diferente daquela que o mercado parecia contar no início de julho. Entre incertezas eleitorais, dúvidas sobre o rumo das contas públicas, volatilidade do petróleo no Oriente Médio e disparada dos juros americanos, a bolsa brasile"
   }
  ]
 }
