@@ -2109,15 +2109,15 @@
  },
  "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1333474&cvm=true": {
   "primeiro": "2026-09-30",
-  "ultimo": "2026-10-04"
+  "ultimo": "2026-10-05"
  },
  "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1333472&cvm=true": {
   "primeiro": "2026-09-30",
-  "ultimo": "2026-10-03"
+  "ultimo": "2026-10-05"
  },
  "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1332616&cvm=true": {
   "primeiro": "2026-09-30",
-  "ultimo": "2026-10-03"
+  "ultimo": "2026-10-05"
  },
  "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1332510&cvm=true": {
   "primeiro": "2026-09-30",
@@ -2129,15 +2129,15 @@
  },
  "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1333344&cvm=true": {
   "primeiro": "2026-09-30",
-  "ultimo": "2026-10-03"
+  "ultimo": "2026-10-05"
  },
  "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1333233&cvm=true": {
   "primeiro": "2026-09-30",
-  "ultimo": "2026-10-03"
+  "ultimo": "2026-10-05"
  },
  "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1333222&cvm=true": {
   "primeiro": "2026-09-30",
-  "ultimo": "2026-10-03"
+  "ultimo": "2026-10-05"
  },
  "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1336797&cvm=true": {
   "primeiro": "2026-10-01",
@@ -2297,11 +2297,11 @@
  },
  "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1338032&cvm=true": {
   "primeiro": "2026-10-02",
-  "ultimo": "2026-10-04"
+  "ultimo": "2026-10-05"
  },
  "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1338030&cvm=true": {
   "primeiro": "2026-10-02",
-  "ultimo": "2026-10-04"
+  "ultimo": "2026-10-05"
  },
  "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1337990&cvm=true": {
   "primeiro": "2026-10-02",
@@ -2493,6 +2493,10 @@
  },
  "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1339164&cvm=true": {
   "primeiro": "2026-10-03",
+  "ultimo": "2026-10-05"
+ },
+ "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1339920&cvm=true": {
+  "primeiro": "2026-10-05",
   "ultimo": "2026-10-05"
  }
 }

@@ -3,6 +3,522 @@
  "itens": 100,
  "dados": [
   {
+   "fonte": "Money Times",
+   "titulo": "Fundos imobiliários (FIIs): Veja 5 para ter na carteira em outubro, segundo o Daycoval",
+   "url": "https://www.moneytimes.com.br/fundos-imobiliarios-fiis-veja-5-para-ter-na-carteira-em-outubro-segundo-o-daycoval-igdl/",
+   "publicado": "2026-10-05T17:35:44+00:00",
+   "tickers": [],
+   "resumo": "O Daycoval manteve inalterada sua carteira recomendada de fundos imobiliários (FIIs) para o mês de outubro, que segue composta por cinco veículos. Em relatório, o analista Gabriel Augusto Mollo afirmou que o banco continua posicionado em fundos que apresentam “bom equilíbrio entr"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "‘Índice do medo’ na bolsa despenca após recordes sucessivos de alta: o que mudou?",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/05/indice-do-medo-na-bolsa-despenca-apos-recordes-sucessivos-de-alta-o-que-mudou.ghtml",
+   "publicado": "2026-10-05T17:31:26+00:00",
+   "tickers": [],
+   "resumo": "O chamado “índice do medo” da bolsa brasileira despenca nesta segunda-feira (5), primeiro pregão após o primeiro turno das eleições. Por volta das 14h, o VIX Brasil caía 28,56%, aos 23,41 pontos, em meio à forte reação dos mercados ao resultado das urnas.\nO movimento representa u"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Reeleito deputado federal, Nikolas Ferreira (PL) supera até candidato ao governo do Estado em votos em MG",
+   "url": "https://www.moneytimes.com.br/reeleito-deputado-federal-nikolas-ferreira-pl-supera-ate-candidato-ao-governo-do-estado-em-votos-em-mg/",
+   "publicado": "2026-10-05T17:29:24+00:00",
+   "tickers": [],
+   "resumo": "Os resultados das eleições deste domingo (4) trouxeram alguns números inusitados. Em Minas Gerais, por exemplo, o candidato a deputado federal Nikolas Ferreira (PL) disputava uma das 53 cadeiras do Estado na Câmara dos Deputados, em Brasília, com mais de 750 outros candidatos pos"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Quais ações são impulsionadas pelo ‘trade’ de Flávio Bolsonaro, segundo o Citi",
+   "url": "https://www.moneytimes.com.br/quais-acoes-sao-impulsionadas-pelo-trade-de-flavio-bolsonaro-segundo-o-citi-apsa/",
+   "publicado": "2026-10-05T17:20:54+00:00",
+   "tickers": [],
+   "resumo": "O Citi avalia que a liderança do senador Flávio Bolsonaro (PL-RJ) na disputa presidencial reforça a percepção de um cenário econômico mais amigável ao mercado, embora a definição da corrida presidencial ainda dependa do segundo turno, marcado para 25 de outubro. Com 100% das urna"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Eleições 2026: o que é sub judice e por que essa condição pode mudar o segundo turno no Rio?",
+   "url": "https://www.suno.com.br/noticias/sub-judice-eleicoes-2026-rio-segundo-turno-mt/",
+   "publicado": "2026-10-05T17:15:03+00:00",
+   "tickers": [],
+   "resumo": "O nome aparece na urna, o eleitor vota, mas a validade daquele voto ainda depende da Justiça. É isso que pode acontecer quando uma candidatura está sub judice. A expressão ganhou destaque na disputa pelo governo do Rio de Janeiro, onde a decisão sobre os votos de Anthony Garotinh"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Após eleição, real em alta impulsiona contratos futuros de açúcar e café",
+   "url": "https://investnews.com.br/economia/apos-eleicao-real-em-alta-impulsiona-contratos-futuros-de-acucar-e-cafe/",
+   "publicado": "2026-10-05T17:13:16+00:00",
+   "tickers": [],
+   "resumo": "Os contratos futuros de açúcar bruto subiram até 4,4%, atingindo o maior nível desde dezembro de 2024"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Alívio nas dívidas rurais? Mudanças no refinanciamento podem beneficiar esta ação, diz UBS BB",
+   "url": "https://www.moneytimes.com.br/alivio-nas-dividas-rurais-mudancas-no-refinanciamento-podem-beneficiar-esta-acao-diz-ubs-bb-pads/",
+   "publicado": "2026-10-05T17:06:52+00:00",
+   "tickers": [
+    "BBSE3"
+   ],
+   "resumo": "Uma possível ampliação do programa de refinanciamento de dívidas rurais pode beneficiar a BB Seguridade (BBSE3), segundo avaliação do UBS BB. O banco aponta que medidas para facilitar as renegociações podem dar suporte aos negócios de seguros rurais da companhia, pressionados pel"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "JP Morgan eleva recomendação para ações brasileiras após 1º turno e vê potencial de alta de até 20%",
+   "url": "https://www.moneytimes.com.br/jp-morgan-eleva-recomendacao-para-acoes-brasileiras-apos-1o-turno-e-ve-potencial-de-alta-de-ate-20-igdl/",
+   "publicado": "2026-10-05T17:01:32+00:00",
+   "tickers": [],
+   "resumo": "O JP Morgan elevou a recomendação das ações brasileiras para &#8220;overweight (equivalente à compra)&#8221; nesta segunda-feira (5), revertendo um rebaixamento de agosto, e afirmou que vê um perfil de risco-retorno mais favorável para o mercado após o recente resultado do primei"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Petrobras (PETR4) acompanha euforia do mercado e renova máxima histórica",
+   "url": "https://www.suno.com.br/noticias/petrobras-recorde-euforia-mercado-eleicoes-go/",
+   "publicado": "2026-10-05T16:59:15+00:00",
+   "tickers": [
+    "PETR3",
+    "PETR4"
+   ],
+   "resumo": "Petrobras (PETR4) acompanha euforia do mercado e renova máxima históricaO mercado brasileiro vive uma sessão de forte otimismo nesta segunda-feira (5), e as ações da Petrobras (PETR3; PETR4) estão entre as maiores beneficiadas do dia. Os papéis da estatal renovaram recordes histó"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Nvidia, Apple, Microsoft e mais: OKX lança parceria com dona da NYSE para lançar ações tokenizadas 24/7",
+   "url": "https://www.moneytimes.com.br/nvidia-apple-microsoft-e-mais-okx-lanca-parceria-com-dona-da-nyse-para-lancar-acoes-tokenizadas-24-7-rens/",
+   "publicado": "2026-10-05T16:44:52+00:00",
+   "tickers": [],
+   "resumo": "A corretora de criptomoedas (exchange) OKX e a Intercontinental Exchange (ICE), controladora da NYSE, formaram uma joint venture chamada OKXICE para lançar uma plataforma de negociação de valores mobiliários tokenizados. O anúncio foi feito por meio de uma notificação à SEC, a CV"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Lula avalia anunciar Alckmin ministro da Fazenda em tentativa de virada no segundo turno",
+   "url": "https://www.moneytimes.com.br/lula-avalia-anunciar-alckmin-ministro-da-fazenda-em-tentativa-de-virada-no-2o-turno-gae/",
+   "publicado": "2026-10-05T16:40:54+00:00",
+   "tickers": [],
+   "resumo": "O presidente Luiz Inácio Lula da Silva (PT) avalia anunciar o vice-presidente Geraldo Alckmin (PSB) como ministro da Fazenda em um eventual novo mandato, em uma tentativa de reforçar suas credenciais junto ao mercado financeiro e atrair eleitores de centro após a derrota para o s"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Trade eleitoral: Por que o BTG (BPAC11) salta 27%, o dobro do Banco do Brasil (BBSA3)",
+   "url": "https://www.moneytimes.com.br/trade-eleitoral-por-que-o-btg-bpac11-salta-27-o-dobro-do-banco-do-brasil-bbsa3/",
+   "publicado": "2026-10-05T16:40:22+00:00",
+   "tickers": [
+    "BBSA3",
+    "BPAC11"
+   ],
+   "resumo": "A surpresa com o resultado das eleições — a maior vitória da direita desde 1989, ano da redemocratização — fez os mercados mirarem o “céu” nesta segunda-feira. O Ibovespa chegou a saltar 7%, em um movimento que adicionou mais de 209 mil pontos ao índice de uma só vez. E, obviamen"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Ibovespa dispara: O que esperar do índice até o segundo turno das eleições de 2026",
+   "url": "https://www.moneytimes.com.br/ibovespa-dispara-o-que-esperar-do-indice-ate-o-segundo-turno-das-eleicoes-de-2026-mlem/",
+   "publicado": "2026-10-05T16:38:36+00:00",
+   "tickers": [],
+   "resumo": "O primeiro turno das eleições de 2026 surpreendeu o mercado. E, com isso, o Ibovespa já opera em uma alta entre 8% e 9%. Com base nas pesquisas eleitorais, esperava-se que o atual presidente, Luis Inácio Lula da Silva (PT), liderasse a votação. No entanto, quem assumiu esse papel"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "UBS prevê disparada do Ibovespa, caso Flávio ganhe e implemente ajuste fiscal robusto — valorização pode chegar a 30%",
+   "url": "https://www.moneytimes.com.br/ubs-preve-disparada-do-ibovespa-caso-flavio-ganhe-e-implemente-ajuste-fiscal-robusto-valorizacao-pode-chegar-a-30-apsa/",
+   "publicado": "2026-10-05T16:32:52+00:00",
+   "tickers": [],
+   "resumo": "O resultado do primeiro turno das eleições presidenciais reforçou a visão de parte do mercado de que o Brasil pode caminhar para um cenário de maior disciplina fiscal nos próximos anos. Na avaliação do UBS Global Wealth Management (GWM), a liderança do senador Flávio Bolsonaro (P"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Ações de varejistas sobem até 26% em meio ao rali da bolsa",
+   "url": "https://investnews.com.br/investimentos/acoes-de-varejistas-sobem-ate-26-em-meio-ao-rali-da-bolsa/",
+   "publicado": "2026-10-05T16:25:13+00:00",
+   "tickers": [],
+   "resumo": "No rali pós-primeiro turno, as ações de redes de varejo lederam as valorizações"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Tesouro IPCA+ sobe até 12% em reais nesta segunda-feira, no embalo do primeiro turno",
+   "url": "https://investnews.com.br/investimentos/tesouro-ipca-sobe-mais-de-12-em-reais-nesta-segunda-feira-no-embalo-do-primeiro-turno/",
+   "publicado": "2026-10-05T16:18:11+00:00",
+   "tickers": [],
+   "resumo": "Taxas dos títulos públicos têm forte queda com Bolsonaro à frente de Lula; veja quanto rende cada papel neste pregão"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Coelho Diniz: quem é o acionista do GPA que vai substituir Cleitinho no Senado por Minas",
+   "url": "https://investnews.com.br/negocios/coelho-diniz-quem-acionista-gpa-senador-mg/",
+   "publicado": "2026-10-05T16:17:12+00:00",
+   "tickers": [],
+   "resumo": "Alex Coelho Diniz é integrante da família dona da rede mineira de supermercados Coelho Diniz, e, com os irmãos, detém 25% do grupo dono do Pão de Açúcar"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Lula avalia anunciar Alckmin ministro da Fazenda em tentativa de virada no 2º turno",
+   "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/10/05/lula-avalia-anunciar-alckmin-ministro-da-fazenda-em-tentativa-de-virada-no-2o-turno.ghtml",
+   "publicado": "2026-10-05T16:08:28+00:00",
+   "tickers": [],
+   "resumo": "O presidente Luiz Inácio Lula da Silva (PT) avalia anunciar o vice-presidente Geraldo Alckmin como ministro da Fazenda em um eventual novo mandato, em uma tentativa de reforçar suas credenciais junto ao mercado financeiro e atrair eleitores de centro após a derrota para o senador"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Bolsa pode subir até 45% com vitória de Flávio, apontam bancos",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/05/bolsa-pode-subir-ate-45percent-com-vitoria-de-flavio-apontam-bancos.ghtml",
+   "publicado": "2026-10-05T15:22:16+00:00",
+   "tickers": [],
+   "resumo": "A surpresa com o resultado do primeiro turno das eleições presidenciais, que mostrou o senador Flávio Bolsonaro (PL) à frente do presidente Luiz Inácio Lula da Silva (PT) por dois pontos percentuais, juntamente com o desempenho dos partidos de direita no Senado e na Câmara, alime"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Brazilian Critical Minerals compra 90% de fábrica na Bahia para projeto de terras raras",
+   "url": "https://investnews.com.br/negocios/brazilian-critical-minerals-compra-90-de-fabrica-na-bahia-para-projeto-de-terras-raras/",
+   "publicado": "2026-10-05T15:06:42+00:00",
+   "tickers": [],
+   "resumo": "Empresa assume 90% de fábrica na Bahia para garantir insumo de projeto de terras raras"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Petrobras e Banco do Brasil disparam após 1º turno; entenda o rali das estatais na bolsa",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/10/05/petrobras-e-banco-do-brasil-disparam-com-resultado-do-1o-turno-entenda-a-reacao-do-mercado.ghtml",
+   "publicado": "2026-10-05T14:49:18+00:00",
+   "tickers": [
+    "BBAS3",
+    "PETR4",
+    "UGPA3",
+    "VBBR3"
+   ],
+   "resumo": "As ações das duas maiores estatais listadas na bolsa brasileira operam em forte rali nesta segunda-feira (5). O movimento reflete a reação imediata do mercado financeiro ao resultado do primeiro turno das Eleições 2026, que consolidou a vantagem do senador Flávio Bolsonaro (PL) n"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Seis estados mais o DF disputam o segundo turno para governadores. Veja quais",
+   "url": "https://investnews.com.br/economia/estados-segundo-turno-eleicoes-2026/",
+   "publicado": "2026-10-05T14:31:43+00:00",
+   "tickers": [],
+   "resumo": "Segundo turno das eleições 2026 será em 25 de outubro; também haverá nova rodada para presidente"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Taxas do Tesouro Direto têm a maior queda diária da série histórica",
+   "url": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/10/05/tesouro-direto-fica-fora-do-ar-enquanto-juros-despencam.ghtml",
+   "publicado": "2026-10-05T14:24:14+00:00",
+   "tickers": [],
+   "resumo": "Após começar o dia fora do ar, o Tesouro Direto registra nesta segunda-feira (5) a maior queda nas taxas dos títulos em toda a série histórica. Investidores reagem ao primeiro turno das eleições presidenciais. Flávio Bolsonaro (PL) saiu à frente do atual presidente Luiz Inácio Lu"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Ibovespa sobe 9% e supera 209 mil pontos com liderança de Flávio Bolsonaro; dólar recua para R$ 4,95",
+   "url": "https://investnews.com.br/investimentos/ibovespa-209-mil-pontos-recorde/",
+   "publicado": "2026-10-05T14:16:20+00:00",
+   "tickers": [],
+   "resumo": "O principal índice da bolsa abriu a sessão com alta de 8% e nova máxima histórica; dólar cai mais de 4%"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Dólar cai e opera abaixo de R$ 5 após primeiro turno das eleições",
+   "url": "https://www.suno.com.br/noticias/dolar-recuo-abaixo-5-reais-pos-eleicao-go/",
+   "publicado": "2026-10-05T14:15:51+00:00",
+   "tickers": [],
+   "resumo": "Dólar cai e opera abaixo de R$ 5 após primeiro turno das eleiçõesO dólar amanheceu em queda acentuada nesta segunda-feira (5), na primeira sessão depois do primeiro turno das eleições presidenciais. A divisa americana perdeu mais de 4% de valor e rompeu o piso de R$ 5. Por volta "
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Mercado mata a saudade de um Brasil possível",
+   "url": "https://braziljournal.com/mercado-mata-a-saudade-de-um-brasil-possivel/",
+   "publicado": "2026-10-05T14:13:34+00:00",
+   "tickers": [],
+   "resumo": "A onda conservadora no Senado e a chegada de Flávio Bolsonaro à frente de Lula entregaram exatamente o que se esperava: o dólar spot afundou de R$ 5,21 na sexta-feira para R$ 4,98 na abertura de hoje, os juros longos fecharam 100 bps, e a Bolsa subia 8% no final da manhã. Com Flá"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Estoques globais de petróleo ficaram ‘assustadoramente baixos’, diz CEO da Aramco",
+   "url": "https://investnews.com.br/economia/estoques-globais-de-petroleo-ficam-assustadoramente-baixos-diz-ceo-da-aramco/",
+   "publicado": "2026-10-05T14:11:52+00:00",
+   "tickers": [],
+   "resumo": "CEO da maior empresa exportadora de petróleo bruto do mundo alerta para estoques baixos"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Mercado já vê Selic menor neste ano após Flávio vencer 1º turno",
+   "url": "https://valorinveste.globo.com/mercados/moedas-e-juros/noticia/2026/10/05/mercado-ja-ve-selic-menor-neste-ano-apos-flavio-vencer-1o-turno.ghtml",
+   "publicado": "2026-10-05T14:09:19+00:00",
+   "tickers": [],
+   "resumo": "A vantagem de Flávio Bolsonaro (PL) sobre Luiz Inácio Lula da Silva (PT) no primeiro turno das eleições presidenciais já movimenta as expectativas em relação a taxa básica de juros nesta segunda-feira (5). A possibilidade de um corte de 0,50 ponto percentual na Selic em dezembro "
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "HGBS11 conclui nova emissão e capta R$ 214,6 milhões; veja os detalhes",
+   "url": "https://www.suno.com.br/noticias/fundo-imobiliario-hgbs11-12a-emissao/",
+   "publicado": "2026-10-05T14:05:17+00:00",
+   "tickers": [
+    "HGBS11"
+   ],
+   "resumo": "O fundo imobiliário HGBS11 encerrou a 12ª emissão de cotas com captação de R$ 214,58 milhões, conforme anúncio de encerramento da administradora. No total, foram subscritas 10.570.384 novas cotas na operação. As cotas saíram a R$ 20,30 por unidade. Incluindo o custo unitário de d"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "GARE11 fecha compra de centro logístico frigorificado; confira o valor",
+   "url": "https://www.suno.com.br/noticias/fundo-imobiliario-gare11-compra-complexo/",
+   "publicado": "2026-10-05T14:05:07+00:00",
+   "tickers": [
+    "GARE11"
+   ],
+   "resumo": "O fundo imobiliário GARE11 concluiu a compra do Complexo Logístico Nova Santa Rita, na região metropolitana de Porto Alegre (RS), por R$ 155,86 milhões. A transação foi informada ao mercado em fato relevante publicado na última sexta-feira (2). A aquisição foi realizada via Guard"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Ibovespa ultrapassa 200 mil pontos pela primeira vez na história",
+   "url": "https://www.suno.com.br/noticias/ibovespa-200-mil-pontos-recorde-eleicoes-go/",
+   "publicado": "2026-10-05T13:45:00+00:00",
+   "tickers": [],
+   "resumo": "Ibovespa ultrapassa 200 mil pontos pela primeira vez na históriaO Ibovespa disparou nos primeiros negócios desta segunda-feira (5), batendo uma nova máxima histórica e ultrapassando a marca de 200 mil pontos pela primeira vez. Por volta das 10h35, o principal índice da bolsa bras"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "KNCR11 inicia nova emissão bilionária; veja a agenda de ofertas de FIIs",
+   "url": "https://www.suno.com.br/noticias/ofertas-de-fiis-semana-kncr11/",
+   "publicado": "2026-10-05T13:35:05+00:00",
+   "tickers": [
+    "KNCR11"
+   ],
+   "resumo": "O mercado de fundos imobiliários inicia a semana com destaque para o FII KNCR11, que prepara uma nova emissão de cotas. Para acompanhar as janelas de participação, o investidor deve observar os períodos de preferência e as demais etapas das ofertas. A seguir, veja a programação d"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Emeis sai da América Latina; Opalus compra ativos de home care no Brasil",
+   "url": "https://braziljournal.com/emeis-sai-da-america-latina-opalus-compra-ativos-de-home-care-no-brasil/",
+   "publicado": "2026-10-05T13:19:26+00:00",
+   "tickers": [],
+   "resumo": "A Emeis – uma multinacional francesa que vale € 2 bilhões na Bolsa – acaba de anunciar a venda de todos os seus ativos na América Latina, levantando cerca de R$ 800 milhões com um portfólio que inclui hospitais de transição, casas de repouso e operações de home care no Brasil, Ur"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "GGRC11 pagará novos dividendos; veja quanto e quando será o pagamento",
+   "url": "https://www.suno.com.br/noticias/ggrc11-paga-0-10-em-outubro/",
+   "publicado": "2026-10-05T13:05:04+00:00",
+   "tickers": [
+    "GGRC11"
+   ],
+   "resumo": "O fundo imobiliário GGRC11 informou que pagará R$ 0,10 por cota aos investidores. O pagamento está agendado para 8 de outubro de 2026, com data-base em 1º de outubro. Considerando a cotação de fechamento de R$ 8,99, o provento indica um dividend yield aproximado de 1,11% sobre o "
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Lula ou Flávio Bolsonaro: quais setores e empresas tendem a se valorizar em cada cenário?",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/05/lula-ou-flavio-bolsonaro-quais-setores-e-empresas-tendem-a-se-valorizar-em-cada-cenario.ghtml",
+   "publicado": "2026-10-05T12:54:15+00:00",
+   "tickers": [
+    "AXIA3",
+    "BBAS3",
+    "BBDC4",
+    "BBSE3",
+    "BPAC11",
+    "CPFE3",
+    "CURY3",
+    "CXSE3",
+    "CYRE3",
+    "EMBR3",
+    "EQTL3",
+    "ITUB4",
+    "PETR3",
+    "PETR4",
+    "RENT3",
+    "SBSP3",
+    "SUZB3",
+    "TEND3",
+    "TIMS3",
+    "VAMO3",
+    "WEGE3"
+   ],
+   "resumo": "A confirmação do segundo turno das Eleições 2026 entre Flávio Bolsonaro (PL) e Luiz Inácio Lula da Silva (PT) colocou a bolsa de valores brasileira (B3) em rota de reprecificação. Segundo especialistas, o novo xadrez político redefine as expectativas para a política fiscal, a tra"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Smart Fit fecha acordo para comprar até 20% do Buddha Spa por até R$ 32 milhões",
+   "url": "https://investnews.com.br/negocios/smart-fit-compra-ate-20-do-buddha-spa-r-32-milhoes/",
+   "publicado": "2026-10-05T12:26:48+00:00",
+   "tickers": [],
+   "resumo": "O Buddha Spa tem 149 unidades em 12 estados brasileiros, das quais 96% são franquias"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Dólar hoje despenca e opera abaixo de R$ 5 com reação ao primeiro turno; acompanhe",
+   "url": "https://valorinveste.globo.com/mercados/moedas-e-juros/noticia/2026/10/05/eleicoes-2026-dolar-recua-1o-turno.ghtml",
+   "publicado": "2026-10-05T12:15:17+00:00",
+   "tickers": [],
+   "resumo": "O dólar comercial opera em queda de 4,42%, a R$ 4,9855 nesta segunda-feira (5), por volta das 13h40, refletindo a reação inicial dos mercados ao resultado do primeiro turno das Eleições 2026. A liderança de Flávio Bolsonaro (PL) na disputa pelo Palácio do Planalto, somada a uma c"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Como investir no Ibovespa: ações, ETFs e fundos",
+   "url": "https://investnews.com.br/investimentos/como-investir-no-ibovespa/",
+   "publicado": "2026-10-05T12:03:04+00:00",
+   "tickers": [],
+   "resumo": "Entenda como investir no Ibovespa, dos ETFs às ações e aos fundos, e as diferenças de custo, liquidez e tributação"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "B3 (B3SA3) e Ambev (ABEV3): Veja quem paga dividendos na semana",
+   "url": "https://www.suno.com.br/noticias/a-b3-b3sa3-a-ambev-abev3-agenda-dividendos-02102026/",
+   "publicado": "2026-10-05T11:52:56+00:00",
+   "tickers": [
+    "ABEV3"
+   ],
+   "resumo": "B3 (B3SA3) e Ambev (ABEV3): Veja quem paga dividendos na semanaA B3 (B3SA3) será o grande destaque da agenda desta semana para os investidores que focam no recebimento de dividendos para construção de patrimônio. Os acionistas desta empresa vão receber R$ 0,0759 por ação em prove"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Boletim Focus: Cai expectativa para inflação em 2027",
+   "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/10/05/boletim-focus-cai-expectativa-para-inflacao-em-2027.ghtml",
+   "publicado": "2026-10-05T11:34:09+00:00",
+   "tickers": [],
+   "resumo": "A expectativa para a inflação medida pelo Índice Nacional de Preços ao Consumidor Amplo (IPCA) em 2026 aumentou pela terceira semana consecutiva, apontou o Boletim Focus divulgado pelo Banco Central nesta segunda-feira (28). Contudo, a previsão para o indicador em 2027 caiu, após"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Os únicos bilionários que estão ganhando dinheiro neste ano são os da tecnologia",
+   "url": "https://investnews.com.br/negocios/os-unicos-bilionarios-que-estao-ganhando-dinheiro-neste-ano-sao-os-da-tecnologia/",
+   "publicado": "2026-10-05T11:33:35+00:00",
+   "tickers": [],
+   "resumo": "As cerca de 100 fortunas ligadas ao setor de tecnologia entre as 500 pessoas mais ricas do mundo ganharam, juntas, US$ 845 bilhões"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Unifique (FIQE3), TIM (TIMS3), ExxonMobil (XOM) e TotalEnergies (TTE): Veja os destaques das empresas",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/10/05/unifique-fiqe3-tim-tims3-exxonmobil-xom-e-totalenergies-tte-veja-os-destaques-das-empresas.ghtml",
+   "publicado": "2026-10-05T11:20:35+00:00",
+   "tickers": [
+    "FIQE3",
+    "TIMS3"
+   ],
+   "resumo": "Unifique\nA Unifique recebeu comunicação de sua controladora, Unitá Participações, sobre a decisão de lançar uma oferta pública de aquisição de ações (OPA) com o objetivo de fechar o capital da operadora de telecomunicações e promover sua saída do Novo Mercado da B3.\n\nTIM Brasil\nA"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Eleição brasileira movimenta quase R$ 900 milhões em apostas com criptomoedas",
+   "url": "https://investnews.com.br/investimentos/eleicao-brasileira-movimenta-quase-r-900-milhoes-em-apostas-com-criptomoedas/",
+   "publicado": "2026-10-05T11:09:54+00:00",
+   "tickers": [],
+   "resumo": "Operações são feitas na Polymarket, plataforma que permite negociar contratos sobre eventos futuros com criptos"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Ibovespa dispara a inéditos 209 mil pontos após Flávio vencer 1º turno",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/05/ibovespa-e-dolar-hoje-5-de-outubro-de-2026.ghtml",
+   "publicado": "2026-10-05T10:59:00+00:00",
+   "tickers": [],
+   "resumo": "O Ibovespa opera em alta de 8,93%, aos 209.273 pontos, nesta segunda-feira (5), por volta das 13h40, enquanto na máxima do dia, o principal índice da bolsa brasileira (B3) bateu o patamar inédito de 209.606 pontos. O mercado reage ao resultado do primeiro turno das Eleições 2026,"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Com Flávio à frente de Lula, bolsa deve saltar e juros futuros e dólar devem desabar",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/05/com-flavio-a-frente-de-lula-bolsa-deve-saltar-e-juros-futuros-e-dolar-devem-desabar.ghtml",
+   "publicado": "2026-10-05T10:40:12+00:00",
+   "tickers": [],
+   "resumo": "A eleição no primeiro turno surpreendeu os investidores, com o senador Flávio Bolsonaro (PL) à frente do presidente Luiz Inácio Lula da Silva (PT) e mais cadeiras de direita no Senado. Nesse ambiente, a expectativa do mercado é de um rali nesta segunda-feira (5), no primeiro preg"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "E se roubassem o HD da humanidade?",
+   "url": "https://valorinveste.globo.com/blogs/jose-brazuna/coluna/e-se-roubassem-o-hd-da-humanidade.ghtml",
+   "publicado": "2026-10-05T09:40:01+00:00",
+   "tickers": [],
+   "resumo": "Dias atrás, roubaram meu celular. Um motoqueiro passou por mim em São Paulo, arrancou o aparelho da minha mão e foi embora. Eu, que me acho muito esperto e precavido, fiquei com cara de bobo e no prejuízo, causado por essa cidade sem limites ou consequências para quem pratica o m"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Será que desta vez também haverá 'ploft'?",
+   "url": "https://valorinveste.globo.com/blogs/alexandre-espirito-santo/coluna/sera-que-desta-vez-tambem-havera-ploft.ghtml",
+   "publicado": "2026-10-05T09:30:01+00:00",
+   "tickers": [],
+   "resumo": "Decidi não escrever a coluna desta semana sobre as eleições de ontem, nem sobre economia brasileira. Nesses momentos, em que os ânimos estão à flor da pele, em que o radicalismo se exacerba e as discussões estão muito mais no campo das paixões do que no racional, melhor falar de "
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Último dia: prazo para resgatar dinheiro das bets termina hoje",
+   "url": "https://valorinveste.globo.com/objetivo/organize-as-contas/noticia/2026/10/05/ultimo-dia-prazo-para-resgatar-dinheiro-das-bets-termina-hoje.ghtml",
+   "publicado": "2026-10-05T09:20:00+00:00",
+   "tickers": [],
+   "resumo": "Os brasileiros que ainda possuem dinheiro nas bets têm até as 23h59 desta segunda-feira (5) para solicitar a retirada dos recursos diretamente nas plataformas. Este é o último dia do prazo de resgate voluntário estabelecido pelo governo federal antes do encerramento dos sites e a"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "TRXF11 lidera ranking de fundos imobiliários mais negociados na B3; entenda o motivo",
+   "url": "https://valorinveste.globo.com/produtos/fundos-imobiliarios/noticia/2026/10/05/trxf11-lidera-ranking-de-fundos-imobiliarios-mais-negociados-na-b3-entenda-o-motivo.ghtml",
+   "publicado": "2026-10-05T09:10:00+00:00",
+   "tickers": [
+    "GGRC11",
+    "TRXF11",
+    "XPML11"
+   ],
+   "resumo": "O TRX Real Estate (TRXF11) foi o fundo imobiliário mais negociado da B3 em agosto, segundo levantamento do DataWise+. Ao desbancar outros nomes no mercado como o Zagros Renda Imobiliária (GGRC11) e o XP Malls (XPML11), o fundo da gestora TRX viveu um período de intensa volatilida"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Onde investir na renda fixa internacional em meio à disparada dos juros globais?",
+   "url": "https://valorinveste.globo.com/produtos/renda-fixa/noticia/2026/10/05/onde-investir-na-renda-fixa-internacional-em-meio-a-disparada-dos-juros-globais.ghtml",
+   "publicado": "2026-10-05T09:00:00+00:00",
+   "tickers": [],
+   "resumo": "A alta dos juros nos Estados Unidos deixou a renda fixa em dólar mais atrativa para quem entrar agora. Na carteira recomendada de renda fixa internacional da XP para outubro, os dez títulos selecionados oferecem taxas entre 3,5% e 6,7% ao ano, além da variação cambial. As maiores"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Empresas de tecnologia lançam mascotes fofos para aliviar a ansiedade com a IA",
+   "url": "https://investnews.com.br/the-wall-street-journal/empresas-de-tecnologia-lancam-mascotes-fofos-para-aliviar-a-ansiedade-com-a-ia/",
+   "publicado": "2026-10-05T08:07:00+00:00",
+   "tickers": [],
+   "resumo": "Meta, OpenAI e outras empresas associam seus agentes e ferramentas de IA a personagens fofos para conquistar céticos"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "O tamanho do desafio de Lula no 2º turno",
+   "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/10/05/o-tamanho-do-desafio-de-lula-no-2o-turno.ghtml",
+   "publicado": "2026-10-05T05:42:41+00:00",
+   "tickers": [],
+   "resumo": "Um placar de 47% a 45,1% no primeiro turno pode parecer próximo o suficiente para deixar o prognóstico eleitoral totalmente em aberto. Mas além do ânimo que passar em primeiro lugar coloca na campanha de Flávio Bolsonaro (PL), há diferenças matemáticas e políticas que tornam o ca"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Quem são os 20 governadores eleitos no primeiro turno nas eleições 2026",
+   "url": "https://investnews.com.br/economia/quemgovernadores-eleitos-no-primeiro-turno/",
+   "publicado": "2026-10-05T03:09:44+00:00",
+   "tickers": [],
+   "resumo": "PL elegeu cinco governadores, seguido do PSD, com quatro; oito estados reelegeram os atuais governantes"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Flávio Bolsonaro ou Lula: o que estará em jogo na relação com o Congresso eleito",
+   "url": "https://investnews.com.br/economia/lula-flavio-bolsonaro-congresso-eleito/",
+   "publicado": "2026-10-05T01:28:08+00:00",
+   "tickers": [],
+   "resumo": "Flávio tende a contar com base de apoio mais ampla para temas como indicações ao STF e novas regras fiscais"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "PL supera projeções e terá maior bancada com folga no Senado e na Câmara",
+   "url": "https://investnews.com.br/economia/pl-emerge-principal-partido-congresso/",
+   "publicado": "2026-10-05T01:13:39+00:00",
+   "tickers": [],
+   "resumo": "Partido de Flávio Bolsonaro deve passar de 15 para 28 senadores e de 98 para 121 deputados federais a partir de 2027"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Flávio Bolsonaro e Lula vão para o segundo turno das eleições 2026",
+   "url": "https://www.suno.com.br/noticias/eleicoes-2026-lula-flavio-bolsonaro-segundo-turno-go/",
+   "publicado": "2026-10-05T01:12:00+00:00",
+   "tickers": [],
+   "resumo": "Flávio Bolsonaro e Lula vão para o segundo turno das eleições 2026Flávio Bolsonaro (PL) e Luiz Inácio Lula da Silva (PT) vão disputar o segundo turno das Eleições 2026. Nenhum dos dois atingiu a maioria dos votos válidos neste domingo (4), o que levou a disputa para uma nova roda"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Liderança de Flávio Bolsonaro no 1º turno dá impulso a ativos; ações brasileiras sobem 12%",
+   "url": "https://investnews.com.br/investimentos/flavio-bolsonaro-lideranca-mercado/",
+   "publicado": "2026-10-05T00:44:23+00:00",
+   "tickers": [],
+   "resumo": "Ibovespa pode voltar para níveis recordes e juros devem cair para perto das mínimas do ano"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Douglas Ruas e Eduardo Paes vão ao segundo turno no Rio de Janeiro – se TSE não anular votos de Garotinho",
+   "url": "https://investnews.com.br/economia/douglas-ruas-eduardo-paes-2-turno-rio/",
+   "publicado": "2026-10-05T00:20:21+00:00",
+   "tickers": [],
+   "resumo": "Ex-prefeito do Rio e presidente da Alerj disputam o governo fluminense em 25 de outubro"
+  },
+  {
    "fonte": "Valor Investe",
    "titulo": "Flávio Bolsonaro e Lula disputarão 2º turno para Presidência",
    "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/10/04/flavio-bolsonaro-e-lula-disputarao-2o-turno-para-presidencia.ghtml",
@@ -11,68 +527,20 @@
    "resumo": "Com 96,78% das urnas apuradas, os candidatos Flávio Bolsonaro (PL) e Luiz Inácio Lula da Silva (PT) disputarão o segundo turno para a Presidência da República.\n\nFlávio tem 47,48% e Lula tem 44,63% dos votos.\n\nAugusto Cury (Avante) tem 2,91% dos votos. Renan Santos (Missão) tem 2,"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Direita amplia força nos Estados e vence 10 de 19 governos no primeiro turno",
-   "url": "https://www.moneytimes.com.br/direita-amplia-forca-nos-estados-e-vence-10-de-19-governos-no-primeiro-turno/",
-   "publicado": "2026-10-05T00:07:48+00:00",
+   "fonte": "InvestNews",
+   "titulo": "Quem é Lucas Pavanato, segundo deputado federal mais votado do país",
+   "url": "https://investnews.com.br/economia/quem-e-lucas-pavanato-deputado-federal/",
+   "publicado": "2026-10-05T00:08:08+00:00",
    "tickers": [],
-   "resumo": "A reeleição de Tarcísio de Freitas (Republicanos) no primeiro turno em São Paulo foi o principal símbolo da força da direita nas disputas estaduais deste domingo, 4. Dos 19 governos já definidos sem necessidade de uma nova votação, dez foram conquistados por candidatos de PL, Rep"
+   "resumo": "Influenciador de direita, foi eleito pelo PL com cerca de 3 milhões de votos e superou recorde de Eduardo Bolsonaro em 2018"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Quadro eleitoral deve colocar Ibovespa acima de 200 mil pontos, diz especialista",
-   "url": "https://www.moneytimes.com.br/quadro-eleitoral-deve-colocar-ibovespa-acima-de-200-mil-pontos-diz-especialista/",
-   "publicado": "2026-10-04T23:58:22+00:00",
+   "fonte": "InvestNews",
+   "titulo": "Flávio Bolsonaro e Lula vão ao segundo turno nas eleições presidenciais 2026",
+   "url": "https://investnews.com.br/economia/lula-flavio-bolsonaro-eleicoes-2026/",
+   "publicado": "2026-10-05T00:02:48+00:00",
    "tickers": [],
-   "resumo": "O quadro eleitoral formado após o primeiro turno das eleições pode levar o Ibovespa a superar os 200 mil pontos, com impacto mais favorável para ações de estatais e alívio na parte intermediária e longa da curva de juros, segundo o economista e consultor financeiro Leonardo Mende"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Eleições 2026: Imprensa internacional destaca surpresa com desempenho de Flávio Bolsonaro no 1º turno",
-   "url": "https://www.moneytimes.com.br/imprensa-internacional-destaca-surpresa-com-desempenho-de-flavio-bolsonaro-no-1o-turno/",
-   "publicado": "2026-10-04T23:48:14+00:00",
-   "tickers": [],
-   "resumo": "A imprensa internacional avalia como surpresa o desempenho de Flávio Bolsonaro (PL-RJ) durante a apuração da eleição presidencial brasileira e lembra que as pesquisas indicavam que o senador terminaria o primeiro turno atrás do presidente Luiz Inácio Lula da Silva. A Bloomberg af"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Eleições 2026: Fábio Mitidieri é reeleito para governar o Sergipe por mais 4 anos",
-   "url": "https://www.moneytimes.com.br/eleicoes-2026-fabio-mitidieri-e-reeleito-para-governar-o-sergipe-por-mais-4-anos-mlem/",
-   "publicado": "2026-10-04T23:46:00+00:00",
-   "tickers": [],
-   "resumo": "O governador de Sergipe, Fábio Mitidieri (PSD), foi reeleito para o cargo em primeiro turno. Com 92,99% das urnas apuradas, o candidato aparece com 59,04% dos votos válidos, o equivalente a 666.291 votos, segundo dados do Tribunal Superior Eleitoral (TSE). Em segundo lugar, ficou"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Eleições 2026: Dr. Furlan é eleito governador do Amapá no primeiro turno",
-   "url": "https://www.moneytimes.com.br/eleicoes-2026-dr-furlan-e-eleito-governador-do-amapa-no-primeiro-turno-mlem/",
-   "publicado": "2026-10-04T23:38:42+00:00",
-   "tickers": [],
-   "resumo": "O candidato Dr. Furlan (PSD) foi eleito governador do Amapá neste domingo (4), no primeiro turno das eleições de 2026. O candidato da coligação Trabalhar para Transformar o Amapá (NOVO/PSD/PODE/PL) obteve 62,01% dos votos válidos, o equivalente a 238.963 votos, segundo dados do T"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Cleitinho Azevedo (Republicanos) é eleito governador de Minas Gerais",
-   "url": "https://www.moneytimes.com.br/cleitinho-azevedo-republicanos-e-eleito-governador-de-minas-gerais/",
-   "publicado": "2026-10-04T23:35:58+00:00",
-   "tickers": [],
-   "resumo": "Cleitinho Azevedo (Republicanos) foi eleito governador de Minas Gerais. Ele contava com o apoio de Flávio Bolsonaro (PL). Patrus Ananias (PT) terminou em segundo. Minas Gerais tem o segundo maior colégio eleitoral do Brasil, com cerca de 16,4 milhões de eleitores aptos a votar na"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Eleições 2026: Celina Leão (PP) e Leandro Grass (PT) vão disputar o governo do Distrito Federal (DF) no 2º turno",
-   "url": "https://www.moneytimes.com.br/celina-leao-pp-e-leandro-grass-pt-vao-para-o-2-turno-apsa/",
-   "publicado": "2026-10-04T23:26:11+00:00",
-   "tickers": [],
-   "resumo": "Sem definição no primeiro turno, a disputa pelo governo do Distrito Federal (DF) vai para o segundo turno entre a atual governadora, Celina Leão (PP), e Leandro Grass (PT). A incumbente totaliza 49,93% dos votos válidos, enquanto Grass tem 34,47%. Na sequência, aparecem Paula Bel"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Eleições 2026: Piauí reelege Rafael Fonteles como governador no primeiro turno",
-   "url": "https://www.moneytimes.com.br/eleicoes-2026-piaui-reelege-rafael-fonteles-como-governador-no-primeiro-turno-mlem/",
-   "publicado": "2026-10-04T23:15:52+00:00",
-   "tickers": [],
-   "resumo": "Rafael Fonteles (PT) foi reeleito governador da Paraíba neste domingo (4), no primeiro turno das eleições de 2026. O candidato do PT obteve 70,16% dos votos válidos, o equivalente a 1.180.667 votos, segundo dados do Tribunal Superior Eleitoral (TSE). Até as 19h29, 83,43% das urna"
+   "resumo": "Filho do ex-presidente Jair Bolsonaro foi melhor do que pesquisas apontavam e liderou com 47% dos votos válidos, versus 45% de Lula"
   },
   {
    "fonte": "Valor Investe",
@@ -83,36 +551,12 @@
    "resumo": "O governador Tarcísio de Freitas é reeleito governador de São Paulo. Com 90,02% dos votos, o atual governador tem 62,85% dos votos válidos e não é mais possível haver segundo turno no Estado. O ex-ministro Fernando Haddad (PT) tem 36,22%. Os demais candidatos não atingiram 1% dos"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Eleições 2026: Tarcísio de Freitas é reeleito governador de São Paulo (SP) em primeiro turno",
-   "url": "https://www.moneytimes.com.br/eleicoes-2026-tarcisio-de-freitas-reeleito-governador-de-sao-paulo-sp-em-primeiro-turno-rsgp/",
-   "publicado": "2026-10-04T23:10:01+00:00",
-   "tickers": [],
-   "resumo": "Tarcísio de Freitas (Republicanos) reelegeu-se governador de São Paulo em primeiro turno. Com 98,66% das urnas apuradas, Tarcísio não pode mais ser alcançado por Fernando Haddad (PT). A eleição para governador é definida em primeiro turno quando uma candidatura obtém mais da meta"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Eleições 2026: Lucas Ribeiro é reeleito governador da Paraíba no primeiro turno",
-   "url": "https://www.moneytimes.com.br/eleicoes-2026-lucas-ribeiro-e-reeleito-governador-da-paraiba-no-primeiro-turno-mlem/",
-   "publicado": "2026-10-04T23:09:38+00:00",
-   "tickers": [],
-   "resumo": "Lucas Ribeiro foi reeleito governador da Paraíba neste domingo (4), no primeiro turno das eleições de 2026. O candidato do PP obteve 64,41% dos votos válidos, o equivalente a 1.233.120 votos, segundo dados do Tribunal Superior Eleitoral (TSE). Até as 18h57, 85,57% das urnas havia"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Tarcísio de Freitas é reeleito governador de SP no 1º turno com 63% dos votos válidos",
    "url": "https://investnews.com.br/economia/tarcisio-de-freitas-reeleito-sp/",
    "publicado": "2026-10-04T22:43:10+00:00",
    "tickers": [],
    "resumo": "Tarcísio, dos Republicanos, superou o ex-ministro da Fazenda Fernando Haddad, do PT, que ficou com 36% dos votos válidos"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Zema é dono de quais empresas? Conheça os negócios ligados à família do político",
-   "url": "https://www.suno.com.br/noticias/zema-empresas-negocios-familia-mt/",
-   "publicado": "2026-10-04T22:30:00+00:00",
-   "tickers": [],
-   "resumo": "Zema é dono de quais empresas? Conheça os negócios ligados à família do políticoO sobrenome Zema aparece em lojas, serviços financeiros e concessionárias. Antes de entrar na política, Romeu Zema construiu sua carreira nos negócios da família, que têm origem em Araxá, em Minas Ger"
   },
   {
    "fonte": "InvestNews",
@@ -123,36 +567,12 @@
    "resumo": "O eleitor que não votou no primeiro turno das eleições de 2026, neste domingo (4), tem até 3 de dezembro para justificar a ausência à Justiça Eleitoral. Se faltar também ao segundo turno, marcado para 25 de outubro, terá de apresentar outra justificativa, com prazo até 8 de janei"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "Lula foi torneiro mecânico antes de chegar à Presidência; conheça sua trajetória",
-   "url": "https://www.suno.com.br/noticias/lula-profissao-torneiro-mecanico-trajetoria/",
-   "publicado": "2026-10-04T21:18:41+00:00",
-   "tickers": [],
-   "resumo": "Lula trabalhou como torneiro mecânico antes de iniciar sua trajetória sindical e política. Foto: Ricardo Stuckert / PRAntes dos discursos e das disputas eleitorais, o trabalho de Lula era outro: operar máquinas para fabricar peças de metal. O presidente se formou como torneiro me"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Flávio Bolsonaro: da Assembleia do Rio ao Senado, veja os cargos que já ocupou",
-   "url": "https://www.suno.com.br/noticias/flavio-bolsonaro-cargos-trajetoria-politica/",
-   "publicado": "2026-10-04T21:18:00+00:00",
-   "tickers": [],
-   "resumo": "Flávio Bolsonaro: da Assembleia do Rio ao Senado, veja os cargos que já ocupouA trajetória política de Flávio Bolsonaro começou no Legislativo estadual, antes de chegar a Brasília. Advogado e empresário, segundo a Agência Senado, ele exerceu quatro mandatos consecutivos como depu"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Apuração das urnas em tempo real",
    "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/10/04/apuracao-das-urnas-em-tempo-real.ghtml",
    "publicado": "2026-10-04T20:31:01+00:00",
    "tickers": [],
    "resumo": "Acompanhe a apuração dos votos para presidente da República de acordo com os números divulgados pelo Tribunal Superior Eleitoral (TSE)."
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Eleições 2026: acompanhe a apuração no Brasil e no exterior",
-   "url": "https://www.suno.com.br/noticias/eleicoes-2026-votacao-brasil-exterior-apuracao-go/",
-   "publicado": "2026-10-04T20:16:00+00:00",
-   "tickers": [],
-   "resumo": "Eleições 2026: acompanhe a apuração no Brasil e no exteriorNeste domingo (4), o Brasil vive o primeiro turno das Eleições 2026. A votação em território nacional começou às 8h e se encerrou às 17h, no horário de Brasília, mobilizando mais de 158,7 milhões de eleitores aptos em 499"
   },
   {
    "fonte": "InvestNews",
@@ -163,36 +583,12 @@
    "resumo": "O prazo para justificar o voto vai até 3 de dezembro deste ano"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "Qual é o patrimônio de Zema? Participação de R$ 94 milhões lidera bens declarados",
-   "url": "https://www.suno.com.br/noticias/patrimonio-de-zema-bens-investimentos-salario/",
-   "publicado": "2026-10-04T19:30:00+00:00",
-   "tickers": [],
-   "resumo": "Patrimônio de Zema reúne participações empresariais, fundos de investimento e renda fixa.Uma participação em holding familiar de R$ 94,5 milhões é o maior item do patrimônio de Zema. O ex-governador de Minas Gerais e candidato à Presidência pelo Novo declarou R$ 178.707.610,09 em"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Qual é o patrimônio de Renan Santos? Veja o que está na declaração de R$ 795 mil",
-   "url": "https://www.suno.com.br/noticias/patrimonio-de-renan-santos-bens-declarados-2026/",
-   "publicado": "2026-10-04T18:30:00+00:00",
-   "tickers": [],
-   "resumo": "Qual é o patrimônio de Renan Santos? Veja o que está na declaração de R$ 795 milCréditos e participações em empresas aparecem entre os principais itens do patrimônio de Renan Santos. O candidato à Presidência pelo Missão declarou R$ 795.089 ao Tribunal Superior Eleitoral (TSE) na"
-  },
-  {
    "fonte": "Valor Investe",
-   "titulo": "Lula ultrapassa Flávio Bolsonaro e passa a liderar votação no exterior",
+   "titulo": "Lula repete última eleição e lidera votos no exterior no 1º turno",
    "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/10/04/bolsonaro-sai-na-frente-no-exterior-apos-votacao-ser-encerrada-na-asia-e-oriente-medio.ghtml",
    "publicado": "2026-10-04T17:51:31+00:00",
    "tickers": [],
-   "resumo": "O presidente Luiz Inácio Lula da Silva (PT) vai liderando o pleito dos brasileiros que se registraram para votar nos locais de votação que o Ministério das Relações Exteriores montou ao redor do mundo.\nNo consolidado até o momento, Lula recebeu 112.930 votos, ou 52,52% do total, "
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Qual é o patrimônio de Flávio Bolsonaro? Casa de R$ 6,2 milhões lidera a lista",
-   "url": "https://www.suno.com.br/noticias/patrimonio-de-flavio-bolsonaro-bens-salario-mt/",
-   "publicado": "2026-10-04T17:50:00+00:00",
-   "tickers": [],
-   "resumo": "Qual é o patrimônio de Flávio Bolsonaro? Casa de R$ 6,2 milhões lidera a listaUm único imóvel responde pela maior parte do patrimônio de Flávio Bolsonaro declarado nas eleições de 2026. O senador e candidato à Presidência pelo PL informou ao Tribunal Superior Eleitoral (TSE) R$ 8"
+   "resumo": "O presidente Luiz Inácio Lula da Silva (PT) liderou o pleito dos brasileiros que se registraram para votar nos locais de votação que o Ministério das Relações Exteriores montou ao redor do mundo.\nNo consolidado, Lula recebeu 155.467 votos, ou 47,50% do total, contra 142.488 votos"
   },
   {
    "fonte": "Valor Investe",
@@ -217,14 +613,6 @@
    "publicado": "2026-10-04T17:19:03+00:00",
    "tickers": [],
    "resumo": "A Associação Nacional das Corretoras e Distribuidoras de Títulos e Valores Mobiliários, Câmbio e Mercadorias (Ancord) e a B3 liberam, ao longo desta semana, o acesso gratuito a uma série de cursos online voltados à formação dos investidores. A ação faz parte da programação da Sem"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Qual é o patrimônio de Lula? Previdência concentra milhões; veja os bens e o salário",
-   "url": "https://www.suno.com.br/noticias/patrimonio-de-lula-bens-declarados-salario-2026-mt/",
-   "publicado": "2026-10-04T17:10:00+00:00",
-   "tickers": [],
-   "resumo": "Qual é o patrimônio de Lula? Previdência concentra milhões; veja os bens e o salárioA maior parcela do patrimônio de Lula está em planos de previdência privada. Na declaração apresentada ao Tribunal Superior Eleitoral (TSE) para as eleições de 2026, o presidente e candidato à ree"
   },
   {
    "fonte": "InvestNews",
@@ -256,7 +644,7 @@
    "url": "https://investnews.com.br/economia/correios-estatal-precisa-de-uma-reestruturacao-ate-para-ser-privatizada/",
    "publicado": "2026-10-04T11:02:00+00:00",
    "tickers": [],
-   "resumo": "Com R$ 5,5 bilhões de prejuízo só no primeiro semestre, empresa passa por sua maior crise. Veja os planos de Lula e Flávio para o futuro dos Correios"
+   "resumo": "Com R$ 5,5 bilhões de prejuízo só no primeiro semestre, empresa passa por sua maior crise. Veja os planos de Lula e Flávio"
   },
   {
    "fonte": "InvestNews",
@@ -285,7 +673,7 @@
   {
    "fonte": "InvestNews",
    "titulo": "O desafio dos tênis On: vender mais sem perder a aura premium",
-   "url": "https://investnews.com.br/negocios/o-desafio-dos-tenis-on-vender-mais-sem-perder-a-aura-premium/",
+   "url": "https://investnews.com.br/the-wall-street-journal/o-desafio-dos-tenis-on-vender-mais-sem-perder-a-aura-premium/",
    "publicado": "2026-10-03T19:23:28+00:00",
    "tickers": [],
    "resumo": "Inspiração para a marca veio do iPhones e do aspirador de pó da Dyson"
@@ -315,56 +703,6 @@
    "resumo": "Eu li o longo artigo que João Moreira Salles publicou na revista piauí, intitulado O que esses brasileiros sabem, e resolvi escrever este porque aquele artigo é muito mais do que uma crítica a Flávio Bolsonaro. A tese de Salles é simples. Existe uma elite empresarial e financeira"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Eleição traçará o futuro do refino no país, que ainda depende de diesel importado",
-   "url": "https://investnews.com.br/negocios/eleicao-definira-futuro-do-refino-no-pais-que-ainda-depende-de-diesel-importado/",
-   "publicado": "2026-10-03T14:17:48+00:00",
-   "tickers": [],
-   "resumo": "Petrobras prevê autossuficiência, mas o destino do projeto está nas urnas: Lula promete mais refino estatal, Flávio prefere o capital privado"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Minha semana num microcarro elétrico: alegria, culpa e fúria a 40 km/h",
-   "url": "https://investnews.com.br/the-wall-street-journal/minha-semana-num-microcarro-eletrico-alegria-culpa-e-furia-a-40-km-h/",
-   "publicado": "2026-10-03T13:41:37+00:00",
-   "tickers": [],
-   "resumo": "O Topolino, da Fiat, é elétrico, não é rápido e não vai longe. Mas a montadora italiana acha que ele é o que alguns americanos precisam"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Impostos, crédito e emprego: o que Lula, Flávio Bolsonaro e Zema propõem para a economia?",
-   "url": "https://www.suno.com.br/noticias/propostas-economicas-lula-flavio-bolsonaro-zema-mt/",
-   "publicado": "2026-10-03T13:23:00+00:00",
-   "tickers": [],
-   "resumo": "Propostas econômicas de Lula, Flávio Bolsonaro e Zema incluem mudanças em impostos, crédito e trabalho.O imposto que sai do salário, os juros do financiamento e as regras para trabalhar também entram na disputa pela Presidência. As propostas econômicas de Lula (PT), Flávio Bolson"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Gasolina mais cara faz americanos voltarem a carros menores",
-   "url": "https://investnews.com.br/the-wall-street-journal/gasolina-mais-cara-faz-americanos-voltarem-a-sedas-e-suvs-compactos/",
-   "publicado": "2026-10-03T08:00:00+00:00",
-   "tickers": [],
-   "resumo": "Vendas de veículos nos EUA devem ficar estáveis ou cair em 2026, com preços de carros e gasolina em alta"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Lupo informa ataque cibernético com acesso a dados de clientes",
-   "url": "https://investnews.com.br/negocios/lupo-informa-ataque-cibernetico-com-acesso-a-dados-de-clientes/",
-   "publicado": "2026-10-02T21:29:22+00:00",
-   "tickers": [],
-   "resumo": "Incidente afetou informações de compras realizadas entre 2020 e 2023, incluindo CPF, e-mail, telefone e endereço"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Fundo imobiliário TGAR11 anuncia novos dividendos; veja valor",
-   "url": "https://www.suno.com.br/noticias/fundo-imobiliario-tgar11-anuncia-novos-dividendos-veja-valor/",
-   "publicado": "2026-10-02T21:15:16+00:00",
-   "tickers": [
-    "TGAR11"
-   ],
-   "resumo": "O fundo imobiliário TGAR11 (TG Ativo Real) comunicou a distribuição de R$ 0,70 por cota em dividendos, com base no resultado de setembro de 2026. O pagamento está programado para 15 de outubro, conforme informado pela gestão do FII ao mercado. Terão direito aos proventos os inves"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "CVM multa fundador e ex-diretor financeiro da Reag em R$ 170 mil cada um",
    "url": "https://valorinveste.globo.com/mercados/noticia/2026/10/02/cvm-multa-fundador-e-ex-diretor-financeiro-da-reag-em-r-170-mil-cada-um.ghtml",
@@ -381,52 +719,12 @@
    "resumo": "O Ibovespa encerrou a última sessão antes do primeiro turno das eleições superando a barreira dos 192 mil pontos e atingindo o seu maior patamar desde 22 de abril. \nO movimento foi sustentado pela combinação de dados mais fracos do mercado de trabalho nos Estados Unidos, que afas"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "G7 vai liberar até 100 milhões de barris de diesel e petróleo para conter preços",
-   "url": "https://investnews.com.br/economia/g7-vai-liberar-ate-100-milhoes-de-barris-de-diesel-e-petroleo-para-conter-precos/",
-   "publicado": "2026-10-02T20:28:43+00:00",
-   "tickers": [],
-   "resumo": "Alta do diesel, essencial para a economia, pressiona Trump antes das eleições de meio de mandato nos EUA"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Embraer ganha espaço na corrida armamentista global",
-   "url": "https://investnews.com.br/negocios/embraer-ganha-espaco-na-corrida-armamentista-global/",
-   "publicado": "2026-10-02T20:25:54+00:00",
-   "tickers": [],
-   "resumo": "Entregas militares crescem 60% no ano, enquanto KC-390 avança no exterior"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Nike quer reviver desejo pela linha Jordan com velha tática da escassez de modelos",
-   "url": "https://investnews.com.br/negocios/nike-muda-estrategia-da-jordan-para-tentar-recuperar-o-interesse-pelos-tenis/",
-   "publicado": "2026-10-02T19:48:16+00:00",
-   "tickers": [],
-   "resumo": "Empresa reduzirá lançamentos da Jordan após excesso de produtos enfraquecer a marca e levar lojas às promoções"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Debêntures incentivadas perdem do CDI e resgates voltam a afetar fundos de crédito",
-   "url": "https://investnews.com.br/investimentos/debentures-incentivadas-perdem-cdi/",
-   "publicado": "2026-10-02T19:46:26+00:00",
-   "tickers": [],
-   "resumo": "Retornos de debêntures incentivadas e de fundos caem diante da subida dos prêmios de riscos dos papéis"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Ouro recua mais de 3% na semana, com pressão dos rendimento dos títulos americanos",
    "url": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/10/02/ouro-recua-mais-de-3percent-na-semana-com-pressao-dos-rendimento-dos-titulos-americanos.ghtml",
    "publicado": "2026-10-02T19:26:16+00:00",
    "tickers": [],
    "resumo": "Os preços dos contratos futuros do ouro fecharam em queda, diante do avanço nos rendimentos dos títulos do Tesouro dos EUA, os Treasuries, apesar de a desaceleração do mercado de trabalho ter reforçado as apostas de que o Federal Reserve (Fed, o BC americano) manterá os juros ina"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Venezuela precisa de reforma regulatória para explorar potencial do gás, diz Eneva",
-   "url": "https://investnews.com.br/negocios/venezuela-precisa-de-reforma-regulatoria-para-explorar-potencial-do-gas-diz-eneva/",
-   "publicado": "2026-10-02T18:21:47+00:00",
-   "tickers": [],
-   "resumo": "Eneva avalia campos maduros e busca parceiros para explorar gás e petróleo na Venezuela"
   },
   {
    "fonte": "Brazil Journal",
@@ -472,14 +770,6 @@
    "resumo": "A Petrobras anunciou nesta sexta-feira (2) que fez nova descoberta de petróleo no bloco FZA-M-59, localizado em águas ultra profundas da costa do Estado do Amapá, na região conhecida como Margem Equatorial. \nAs ações ordinárias (PETR3) subiam 1,4%, a R$ 55,59, e as preferenciais "
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Quer virar argentino? Governo Milei oferece cidadania a estrangeiros por US$ 350 mil",
-   "url": "https://investnews.com.br/economia/argentina-oferece-passaporte-a-estrangeiros-por-us-350-mil/",
-   "publicado": "2026-10-02T16:14:18+00:00",
-   "tickers": [],
-   "resumo": "Argentina apresenta programa que concede passaporte a estrangeiros que investirem no país"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Fed deve pular alta de juros em outubro com arrefecimento do mercado de trabalho",
    "url": "https://valorinveste.globo.com/mercados/moedas-e-juros/noticia/2026/10/02/fed-deve-pular-alta-de-juros-em-outubro-com-arrefecimento-do-mercado-de-trabalho.ghtml",
@@ -498,28 +788,12 @@
    "resumo": "A empresa da saúde Hapvida (HAPV3) lidera as altas do Ibovespa nesta sexta-feira (21) após relatório do banco de investimentos Jefferies. O analista Antonio Pedro Cardoso cita a possível operação de venda e posterior locação (“sale-leaseback”) envolvendo parte do portfólio de hos"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Petrobras faz nova descoberta de petróleo no Amapá",
-   "url": "https://investnews.com.br/negocios/petrobras-faz-nova-descoberta-de-petroleo-no-amapa/",
-   "publicado": "2026-10-02T13:55:13+00:00",
-   "tickers": [],
-   "resumo": "O poço está localizado em uma lâmina d’água de 2.886 metros, na Bacia da Foz do Amazonas"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Taxas do Tesouro Direto caem com alívio nos juros globais",
    "url": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/10/02/taxas-do-tesouro-direto-caem-com-alivio-nos-juros-globais.ghtml",
    "publicado": "2026-10-02T13:43:28+00:00",
    "tickers": [],
    "resumo": "Os rendimentos do Tesouro Direto caem nesta sexta-feira (2), última sessão antes do primeiro turno das eleições que balançaram o mercado de renda fixa. O trade eleitoral fez os papéis saírem do nível recorde no qual se encontravam. \nHoje, a ajuda vem também dos Estados Unidos, on"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "A mais recente resposta da Amazon à reação negativa aos data centers de IA: US$ 1 bilhão",
-   "url": "https://investnews.com.br/negocios/a-mais-recente-resposta-da-amazon-a-reacao-negativa-aos-data-centers-de-ia-us-1-bilhao/",
-   "publicado": "2026-10-02T12:50:45+00:00",
-   "tickers": [],
-   "resumo": "Amazon investirá mais de US$ 1 bi em comunidades próximas a seus data centers nos próximos cinco anos"
   },
   {
    "fonte": "Valor Investe",
@@ -568,41 +842,12 @@
    "resumo": "O resultado da Mega-Sena 3065 com prêmio de R$ 72,2 milhões foi divulgado nesta quinta-feira (1º), em São Paulo, e ninguém acertou as seis dezenas. Com isso, o prêmio acumulou em R$ 82 milhões para o próximo sorteio que vai ser feito no sábado (3).\nOs números sorteados foram: 08 "
   },
   {
-   "fonte": "Valor Investe",
-   "titulo": "Desktop (DESK3), MRV (MRVE3), Fleury (FLRY3), Simpar (SIMH3) e mais: Veja os destaques das empresas",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/10/02/desktop-desk3-mrv-mrve3-fleury-flry3-simpar-simh3-e-mais-veja-os-destaques-das-empresas.ghtml",
-   "publicado": "2026-10-02T11:31:30+00:00",
-   "tickers": [
-    "DESK3",
-    "FLRY3",
-    "MRVE3",
-    "SIMH3"
-   ],
-   "resumo": "Claro e Desktop\nA Claro Brasil concluiu a aquisição do controle da Desktop, por um valor total de aproximadamente R$ 1,75 bilhão. A operação foi realizada por meio da subsidiária Claro NXT Telecomunicações, que adquiriu 84,68 milhões de ações ordinárias da Desktop, equivalentes a"
-  },
-  {
    "fonte": "Brazil Journal",
    "titulo": "O “capital paciente” da Ultrapar: os planos da dona da Ipiranga mirando 2031",
    "url": "https://braziljournal.com/o-capital-paciente-da-ultrapar-os-planos-da-dona-da-ipiranga-mirando-2031/",
    "publicado": "2026-10-02T11:29:55+00:00",
    "tickers": [],
    "resumo": "Nos últimos cinco anos, a Ultrapar analisou mais de 100 transações e fechou 14. O CEO Rodrigo Pizzinatto chama essa diferença de “capital paciente” – uma forma de tomar decisões orientadas pela criação de valor, e não “por crescimento pelo crescimento”. “Não precisamos fazer uma "
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Bitcoin, ethereum e mais quatro criptomoedas estão no radar dos analistas em outubro",
-   "url": "https://investnews.com.br/investimentos/bitcoin-ethereum-e-mais-quatro-criptomoedas-estao-no-radar-dos-analistas-em-outubro/",
-   "publicado": "2026-10-02T11:20:53+00:00",
-   "tickers": [],
-   "resumo": "Todo mês, analistas de exchanges, casas de análises e bancos sugerem ativos digitais para ficar de olho; veja a lista"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Eleição mais acirrada da história do país, emprego americano e queda do petróleo estão no radar",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/02/eleicao-mais-acirrada-da-historia-do-pais-emprego-americano-e-queda-do-petroleo-estao-no-radar.ghtml",
-   "publicado": "2026-10-02T10:48:10+00:00",
-   "tickers": [],
-   "resumo": "No último pregão antes do primeiro turno da eleição, os investidores tendem a manter a cautela em um cenário polarizado. O Brasil contará com a eleição mais acirrada da história do país. No mundo, o mercado deve acompanhar a divulgação do relatório de empregos, o \"payroll\", de se"
   },
   {
    "fonte": "Brazil Journal",
@@ -619,236 +864,6 @@
    "publicado": "2026-10-02T09:50:36+00:00",
    "tickers": [],
    "resumo": "BRUSQUE, Santa Catarina — Encontrar gente caminhando pelas ruas de Brusque pode dar mais trabalho do que parece. Não porque a cidade seja especialmente perigosa. Ao contrário: é considerada a cidade mais segura do Brasil. O problema é que Brusque é uma cidade sobre rodas. No fim "
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "Do Norte ao Sul, um Brasil exausto vai às urnas",
-   "url": "https://braziljournal.com/do-norte-ao-sul-um-brasil-exausto-vai-as-urnas/",
-   "publicado": "2026-10-02T09:50:26+00:00",
-   "tickers": [],
-   "resumo": "O brasileiro chega às urnas mais cansado do que nunca. Este foi o sentimento que o Brazil Journal encontrou em dois pontos diametralmente opostos do espectro eleitoral: Crato, no Ceará, uma das fortalezas de Lula; e Brusque, em Santa Catarina, um dos símbolos da força bolsonarist"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "A educação financeira das nossas crianças",
-   "url": "https://valorinveste.globo.com/blogs/carlos-heitor-campani/coluna/a-educacao-financeira-das-nossas-criancas.ghtml",
-   "publicado": "2026-10-02T09:40:00+00:00",
-   "tickers": [],
-   "resumo": "Olá, pessoal! Ao completar 50 anos há poucos dias, fui levado a uma reflexão profunda sobre o que realmente é importante eu deixar de legado para os meus filhos na dimensão econômico-financeira, o seja, como dar o melhor em prol da educação financeira. Dediquei boa parte da minha"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Fim das bets: apostadores têm até segunda-feira para resgatar dinheiro das plataformas",
-   "url": "https://valorinveste.globo.com/objetivo/organize-as-contas/noticia/2026/10/02/fim-das-bets-apostadores-tem-ate-segunda-feira-para-resgatar-dinheiro-das-plataformas.ghtml",
-   "publicado": "2026-10-02T09:30:00+00:00",
-   "tickers": [],
-   "resumo": "Os brasileiros que ainda têm dinheiro depositado em casas de apostas online, as chamadas bets, têm até a próxima segunda-feira (5), às 23h59, para solicitar o resgate dos recursos. O prazo foi estabelecido pelo governo federal como parte do processo de encerramento das plataforma"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Por que a fabricante de armas Taurus (TASA4) virou uma das favoritas do trade eleitoral?",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/10/02/por-que-a-fabricante-de-armas-taurus-tasa4-virou-uma-das-favoritas-do-trade-eleitoral.ghtml",
-   "publicado": "2026-10-02T09:20:00+00:00",
-   "tickers": [
-    "TASA4"
-   ],
-   "resumo": "Uma empresa pouco conhecida pelos investidores foi uma das favoritas do trade eleitoral que embalou o Ibovespa em setembro. As ações preferenciais da fabricante gaúcha de armas Taurus (TASA4) ganharam mais do qualquer papel do Ibovespa no período: 50,2% no mês passado e alta acum"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Fim das bets deve ajudar varejo e consumo; veja quais ações mais ganham",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/noticia/2026/10/02/fim-das-bets-deve-ajudar-varejo-e-consumo-veja-quais-acoes-mais-ganham.ghtml",
-   "publicado": "2026-10-02T09:10:00+00:00",
-   "tickers": [
-    "ASAI3",
-    "CEAB3",
-    "CVCB3",
-    "GMAT3",
-    "HAPV3",
-    "JBSS32",
-    "LREN3",
-    "MBRF3",
-    "MELI34",
-    "MGLU3",
-    "MOVI3",
-    "RENT3",
-    "RIAA3"
-   ],
-   "resumo": "O fim das apostas de cota fixa e esportivas (as bets) no Brasil tende a liberar parte da renda das famílias para o consumo e beneficiar o varejo listado na Bolsa, com destaque para os atacarejos Assaí (ASAI3) e Grupo Mateus (GMAT3). Analistas ouvidos pelo Valor Investe, porém, re"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Carteira Valor: Veja as ações mais indicadas para investir em outubro",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/noticia/2026/10/02/carteira-valor-veja-as-acoes-mais-indicadas-para-investir-em-outubro.ghtml",
-   "publicado": "2026-10-02T09:00:00+00:00",
-   "tickers": [],
-   "resumo": "Em meio às incertezas ligadas à subida dos juros nos Estados Unidos e à eleição no Brasil, os analistas continuam indicando investir em ações conservadoras, majoritariamente, em outubro. Contudo, metade das recomendações da Carteira Valor  mudou e ações de consumo entraram no por"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Medicamentos para obesidade: não é sobre quanto você perde, mas o que você perde",
-   "url": "https://investnews.com.br/the-wall-street-journal/medicamentos-contra-a-obesidade-nao-e-quanto-peso-voce-perde-mas-que-tipo-de-peso/",
-   "publicado": "2026-10-02T08:07:00+00:00",
-   "tickers": [],
-   "resumo": "Farmacêuticas buscam preservar músculos e reduzir gordura na próxima geração de remédios para emagrecer"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Com lance na hora certa, consórcio de imóvel pode custar 10% a menos que financiamento",
-   "url": "https://investnews.com.br/investimentos/consorcio-imovel-ate-10-menos/",
-   "publicado": "2026-10-02T08:00:00+00:00",
-   "tickers": [],
-   "resumo": "Em simulação com crédito de R$ 500 mil e lance de 30% no início, a economia ante um financiamento comum pode ficar na casa de R$ 100 mil"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Mattel, dona da Barbie, é alvo de gigante de licenciamento em negócio que pode valer US$ 6 bilhões",
-   "url": "https://investnews.com.br/the-wall-street-journal/mattel-alvo-gigante-licenciamento/",
-   "publicado": "2026-10-01T23:51:10+00:00",
-   "tickers": [],
-   "resumo": "Authentic Brands ainda não formalizou oferta pela fabricante de brinquedos, segundo fontes"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "De volta às compras, Fleury adquire Unilab e amplia presença no interior de SP e MG",
-   "url": "https://investnews.com.br/negocios/fleury-adquire-unilab-55-milhoes/",
-   "publicado": "2026-10-01T23:33:41+00:00",
-   "tickers": [],
-   "resumo": "Grupo de laboratórios acrescenta nove unidades nos dois estados, com receita bruta de R$ 65 milhões"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Primeiro turno: Lula tem 45%, e Flávio Bolsonaro, 40% dos votos válidos, diz Datafolha",
-   "url": "https://investnews.com.br/economia/primeiro-turno-lula-flavio-datafolha/",
-   "publicado": "2026-10-01T23:01:17+00:00",
-   "tickers": [],
-   "resumo": "No segundo turno, os dois candidatos seguem em empate técnico, com 48% e 45%, respectivamente"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "Houlihan Lokey contrata ex-Patria para vertical de capital solutions",
-   "url": "https://braziljournal.com/houlihan-lokey-contrata-ex-patria-para-vertical-de-capital-solutions/",
-   "publicado": "2026-10-01T21:57:50+00:00",
-   "tickers": [],
-   "resumo": "O Houlihan Lokey – o banco de investimento americano conhecido por M&#38;As e reestruturação de dívidas – acaba de contratar Mayra Fregonesi, uma ex-executiva do Patria, para criar uma vertical de capital solutions no País. O papel de Mayra será buscar capital para as transações "
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Com eleição batendo à porta, Ibovespa dança conforme a música lá fora",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/01/com-eleicao-batendo-a-porta-ibovespa-danca-conforme-a-musica-la-fora.ghtml",
-   "publicado": "2026-10-01T20:52:58+00:00",
-   "tickers": [
-    "PETR4"
-   ],
-   "resumo": "O Ibovespa operou sob forte volatilidade nesta quinta-feira (1º), em uma sessão de altos e baixos contagiada pela onda de aversão ao risco que tomou conta dos mercados na maior parte do dia. \nA disparada nos preços do petróleo e o ambiente de tensão lá fora falaram mais alto ao l"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "MBRF adia emissão títulos com alta no custo de financiamento",
-   "url": "https://investnews.com.br/negocios/mbrf-adia-emissao-titulos/",
-   "publicado": "2026-10-01T20:36:30+00:00",
-   "tickers": [],
-   "resumo": "Com juros americanos no maior nível desde 2002, produtora de carnes adia primeira emissão high yield em cinco anos"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Eleições 2026: qual o horário de votação e o que fazer para evitar filas",
-   "url": "https://investnews.com.br/economia/eleicoes-2026-horario-votacao-fila/",
-   "publicado": "2026-10-01T19:55:46+00:00",
-   "tickers": [],
-   "resumo": "Votação das eleições 2026 ocorre das 8h às 17h pelo horário de Brasília"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Azzas (AZZA3) dispara na bolsa com propostas pela Farm acima do esperado pelo mercado",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/10/01/azzas-azza3-dispara-na-bolsa-com-propostas-pela-farm-acima-do-esperado-pelo-mercado.ghtml",
-   "publicado": "2026-10-01T19:26:28+00:00",
-   "tickers": [
-    "AZZA3"
-   ],
-   "resumo": "As ações da Azzas 2154 dispararam nesta quinta-feira (1º) na B3 e lideraram as altas do Ibovespa, principal índice da bolsa brasileira, em um pregão de pouca volatilidade. O movimento ocorre após a divulgação de avaliações entre R$ 3,5 bilhões e R$ 4 bilhões pela Farm, acima do v"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Pix por aproximação não tem mais teto de R$ 500 para pagamentos; entenda o que muda",
-   "url": "https://valorinveste.globo.com/produtos/servicos-financeiros/noticia/2026/10/01/pix-por-aproximacao-nao-tem-mais-teto-de-r-500-para-pagamentos-entenda-o-que-muda.ghtml",
-   "publicado": "2026-10-01T18:18:52+00:00",
-   "tickers": [],
-   "resumo": "Fazer um Pix de R$ 600, R$ 1 mil ou até mais apenas encostando o celular na maquininha passa a ser possível a partir desta quinta-feira (1º). O Banco Central (BC) retirou o teto de R$ 500 por transação que existia especificamente para o Pix por aproximação.\nMas isso não significa"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "EUA propõem ampliar acesso de investidores de varejo ao private equity",
-   "url": "https://valorinveste.globo.com/produtos/investimento-no-exterior/noticia/2026/10/01/eua-propoem-ampliar-acesso-do-investidor-de-varejo-ao-private-equity.ghtml",
-   "publicado": "2026-10-01T15:22:21+00:00",
-   "tickers": [],
-   "resumo": "A Securities and Exchange Commission (SEC), regulador do mercado de capitais dos Estados Unidos, aprovou nesta quarta-feira (30) uma proposta de mudanças nas regras que facilita o acesso de investidores de varejo a mercados de capital fechado, como os de private equity, venture c"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Petróleo dispara com suspensão de exportações pela China e trégua entre EUA-Irã 'improvável'",
-   "url": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/10/01/petroleo-dispara-com-suspensao-de-exportacoes-pela-china-e-tregua-entre-eua-ira-improvavel.ghtml",
-   "publicado": "2026-10-01T14:24:53+00:00",
-   "tickers": [],
-   "resumo": "Os preços do petróleo dispararam mais de 4% nesta quinta-feira (1), depois que a China suspendeu as exportações de derivados de petróleo, o que pode agravar a tensão nos mercados de combustíveis, que já enfrentam escassez de oferta em nível global, enquanto os investidores contin"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Taxas do Tesouro Direto sobem com pressão externa e alta do petróleo",
-   "url": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/10/01/taxas-do-tesouro-direto-despencam-com-trade-eleitoral-e-apoio-dos-titulos-americanos.ghtml",
-   "publicado": "2026-10-01T13:40:52+00:00",
-   "tickers": [],
-   "resumo": "Os rendimentos do Tesouro Direto subiam nesta quinta-feira (1º) em meio à nova alta do petróleo e a volatilidade dos juros dos títulos públicos dos Estados Unidos, os Treasuries. Eles chegaram ao maior nível desde 2002 hoje, mas passaram a registrar leve queda no final do dia.\nA "
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Ganho da Petrobras (PETR4) supera queda dos bancos e Ibovespa fecha em alta",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/01/dolar-e-ibovespa-hoje-1-de-outubro-de-2026.ghtml",
-   "publicado": "2026-10-01T12:13:00+00:00",
-   "tickers": [
-    "BBDC4",
-    "PETR4",
-    "RECV3",
-    "SANB11"
-   ],
-   "resumo": "O Ibovespa, principal índice de ações brasileiras, operou próximo da estabilidade, durante a maior parte do pregão desta quinta-feira (1), mas firmou alta no final, apesar de investidores realizarem parte dos lucros obtidos em setembro. A valorização dos papéis da Petrobras  supe"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Taxas dos títulos atrelados à Selic sobem e chamam atenção",
-   "url": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/10/01/taxas-dos-titulos-atrelados-a-selic-sobem-e-chamam-atencao.ghtml",
-   "publicado": "2026-10-01T11:43:20+00:00",
-   "tickers": [],
-   "resumo": "As taxas das Letras Financeiras do Tesouro (LFTs - títulos atrelados à Selic) costumam se movimentar de modo contido, mas a dinâmica do mercado no mês de setembro tem chamado atenção de participantes do mercado. Em meio aos sinais de maior demanda por títulos prefixados e atrelad"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Taxa das debêntures incentivadas vai às máximas desde 2024",
-   "url": "https://valorinveste.globo.com/credito-privado/noticia/2026/10/01/taxa-das-debentures-incentivadas-vai-as-maximas-desde-2024.ghtml",
-   "publicado": "2026-10-01T11:36:16+00:00",
-   "tickers": [],
-   "resumo": "A euforia que tomou conta do mercado de crédito incentivado no Brasil nos últimos anos deu lugar a uma correção, que se intensifica a cada mês e já liga alguns sinais de alerta. Com o investidor já muito machucado após alguns meses de desempenho mais fraco, os fundos isentos regi"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Assaí (ASAI3), Petrobras (PETR4), Neoenergia (NEOE3), Bradesco (BBDC4) e mais: Veja os destaques das empresas",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/10/01/assai-asai3-petrobras-petr4-neoenergia-neoe3-bradesco-bbdc4-e-mais-veja-os-destaques-das-empresas.ghtml",
-   "publicado": "2026-10-01T11:11:14+00:00",
-   "tickers": [
-    "ASAI3",
-    "BBDC4",
-    "NEOE3",
-    "PETR4"
-   ],
-   "resumo": "Assaí\nO Conselho Administrativo de Defesa Econômica (Cade), vinculado ao Ministério da Justiça, aprovou a operação de compra de 11,7% do Assaí por parte dos membros da família dona do Grupo Muffato. Foram cerca de sete meses de análise das informações.\n\nPetrobras\nA Petrobras rece"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Datafolha, debate na Globo, Lula em podcast e títulos dos EUA chamam atenção",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/01/datafolha-debate-na-globo-lula-em-podcast-e-titulos-dos-eua-chamam-atencao.ghtml",
-   "publicado": "2026-10-01T10:56:08+00:00",
-   "tickers": [],
-   "resumo": "A três dias do primeiro turno das eleições, os investidores monitoram a nova pesquisa do Datafolha, o debate na TV Globo e a participação do presidente Luiz Inácio Lula da Silva (PT) no Flow Podcast, previstos para esta quinta-feira (1º). Nos Estados Unidos, os juros dos títulos "
   }
  ]
 }
