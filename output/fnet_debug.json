@@ -1,13 +1,13 @@
 {
- "recordsTotal": 7223,
- "paginas_lidas": 8,
+ "recordsTotal": 6720,
+ "paginas_lidas": 37,
  "janela": [
-  "22/09/2026",
-  "04/10/2026"
+  "23/09/2026",
+  "05/10/2026"
  ],
- "docs_filtrados": 32,
- "docs_fundos": 19,
- "docs_fidc": 13,
+ "docs_filtrados": 233,
+ "docs_fundos": 137,
+ "docs_fidc": 96,
  "amostra_categorias": [
   "Anexo ao Regulamento",
   "Assembleia",
@@ -17,6 +17,7 @@
   "Comunicado ao Mercado",
   "Fato Relevante",
   "Informes Periódicos",
+  "Laudo de Avaliação (Conclusão de Negócio)",
   "Oferta Pública de Distribuição de Cotas",
   "Outras Demonstrações Financeiras ",
   "Outras Informações",

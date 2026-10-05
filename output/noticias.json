@@ -3,36 +3,188 @@
  "itens": 100,
  "dados": [
   {
-   "fonte": "Money Times",
-   "titulo": "Flávio Bolsonaro abre vantagem sobre Lula no Japão, indica levantamento preliminar de boletins",
-   "url": "https://www.moneytimes.com.br/flavio-bolsonaro-abre-vantagem-sobre-lula-no-japao-indica-levantamento-preliminar-de-boletins-jcav/",
-   "publicado": "2026-10-04T18:24:03+00:00",
+   "fonte": "Valor Investe",
+   "titulo": "Flávio Bolsonaro e Lula disputarão 2º turno para Presidência",
+   "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/10/04/flavio-bolsonaro-e-lula-disputarao-2o-turno-para-presidencia.ghtml",
+   "publicado": "2026-10-05T00:14:39+00:00",
    "tickers": [],
-   "resumo": "O senador Flávio Bolsonaro soma 24.601 votos no Japão, seguido por Luiz Inácio Lula da Silva, com 5.234, segundo levantamento de 119 boletins de urna publicados pelo Tribunal Superior Eleitoral (TSE). O país é o terceiro maior eleitorado brasileiro no exterior. A consulta reúne r"
+   "resumo": "Com 96,78% das urnas apuradas, os candidatos Flávio Bolsonaro (PL) e Luiz Inácio Lula da Silva (PT) disputarão o segundo turno para a Presidência da República.\n\nFlávio tem 47,48% e Lula tem 44,63% dos votos.\n\nAugusto Cury (Avante) tem 2,91% dos votos. Renan Santos (Missão) tem 2,"
   },
   {
    "fonte": "Money Times",
-   "titulo": "Em caso de empate, quem ganha as eleições? Entenda as regras",
-   "url": "https://www.moneytimes.com.br/em-caso-de-empate-quem-ganha-as-eleicoes-entenda-as-regras/",
-   "publicado": "2026-10-04T18:00:00+00:00",
+   "titulo": "Direita amplia força nos Estados e vence 10 de 19 governos no primeiro turno",
+   "url": "https://www.moneytimes.com.br/direita-amplia-forca-nos-estados-e-vence-10-de-19-governos-no-primeiro-turno/",
+   "publicado": "2026-10-05T00:07:48+00:00",
    "tickers": [],
-   "resumo": "A legislação eleitoral brasileira prevê um mecanismo direto para solucionar eventuais empates matemáticos na apuração das urnas: a preferência ao candidato de maior idade. Previsto no Artigo 110 do Código Eleitoral (Lei nº 4.737/1965), a lei determina que, no cenário em que dois "
+   "resumo": "A reeleição de Tarcísio de Freitas (Republicanos) no primeiro turno em São Paulo foi o principal símbolo da força da direita nas disputas estaduais deste domingo, 4. Dos 19 governos já definidos sem necessidade de uma nova votação, dez foram conquistados por candidatos de PL, Rep"
   },
   {
    "fonte": "Money Times",
-   "titulo": "Nunes Marques diz esperar judicialização das eleições, mas afirma que pleito transcorre normalmente",
-   "url": "https://www.moneytimes.com.br/nunes-marques-diz-esperar-judicializacao-das-eleicoes-mas-afirma-que-pleito-transcorre-normalmente/",
-   "publicado": "2026-10-04T17:59:48+00:00",
+   "titulo": "Quadro eleitoral deve colocar Ibovespa acima de 200 mil pontos, diz especialista",
+   "url": "https://www.moneytimes.com.br/quadro-eleitoral-deve-colocar-ibovespa-acima-de-200-mil-pontos-diz-especialista/",
+   "publicado": "2026-10-04T23:58:22+00:00",
    "tickers": [],
-   "resumo": "O presidente do Tribunal Superior Eleitoral (TSE), Kassio Nunes Marques, afirmou neste domingo ser esperado que candidatos acionem a Justiça com questionamentos relacionados às eleições, mas ponderou que a votação está transcorrendo com normalidade e transparência, também sem ind"
+   "resumo": "O quadro eleitoral formado após o primeiro turno das eleições pode levar o Ibovespa a superar os 200 mil pontos, com impacto mais favorável para ações de estatais e alívio na parte intermediária e longa da curva de juros, segundo o economista e consultor financeiro Leonardo Mende"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Eleições 2026: Imprensa internacional destaca surpresa com desempenho de Flávio Bolsonaro no 1º turno",
+   "url": "https://www.moneytimes.com.br/imprensa-internacional-destaca-surpresa-com-desempenho-de-flavio-bolsonaro-no-1o-turno/",
+   "publicado": "2026-10-04T23:48:14+00:00",
+   "tickers": [],
+   "resumo": "A imprensa internacional avalia como surpresa o desempenho de Flávio Bolsonaro (PL-RJ) durante a apuração da eleição presidencial brasileira e lembra que as pesquisas indicavam que o senador terminaria o primeiro turno atrás do presidente Luiz Inácio Lula da Silva. A Bloomberg af"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Eleições 2026: Fábio Mitidieri é reeleito para governar o Sergipe por mais 4 anos",
+   "url": "https://www.moneytimes.com.br/eleicoes-2026-fabio-mitidieri-e-reeleito-para-governar-o-sergipe-por-mais-4-anos-mlem/",
+   "publicado": "2026-10-04T23:46:00+00:00",
+   "tickers": [],
+   "resumo": "O governador de Sergipe, Fábio Mitidieri (PSD), foi reeleito para o cargo em primeiro turno. Com 92,99% das urnas apuradas, o candidato aparece com 59,04% dos votos válidos, o equivalente a 666.291 votos, segundo dados do Tribunal Superior Eleitoral (TSE). Em segundo lugar, ficou"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Eleições 2026: Dr. Furlan é eleito governador do Amapá no primeiro turno",
+   "url": "https://www.moneytimes.com.br/eleicoes-2026-dr-furlan-e-eleito-governador-do-amapa-no-primeiro-turno-mlem/",
+   "publicado": "2026-10-04T23:38:42+00:00",
+   "tickers": [],
+   "resumo": "O candidato Dr. Furlan (PSD) foi eleito governador do Amapá neste domingo (4), no primeiro turno das eleições de 2026. O candidato da coligação Trabalhar para Transformar o Amapá (NOVO/PSD/PODE/PL) obteve 62,01% dos votos válidos, o equivalente a 238.963 votos, segundo dados do T"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Cleitinho Azevedo (Republicanos) é eleito governador de Minas Gerais",
+   "url": "https://www.moneytimes.com.br/cleitinho-azevedo-republicanos-e-eleito-governador-de-minas-gerais/",
+   "publicado": "2026-10-04T23:35:58+00:00",
+   "tickers": [],
+   "resumo": "Cleitinho Azevedo (Republicanos) foi eleito governador de Minas Gerais. Ele contava com o apoio de Flávio Bolsonaro (PL). Patrus Ananias (PT) terminou em segundo. Minas Gerais tem o segundo maior colégio eleitoral do Brasil, com cerca de 16,4 milhões de eleitores aptos a votar na"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Eleições 2026: Celina Leão (PP) e Leandro Grass (PT) vão disputar o governo do Distrito Federal (DF) no 2º turno",
+   "url": "https://www.moneytimes.com.br/celina-leao-pp-e-leandro-grass-pt-vao-para-o-2-turno-apsa/",
+   "publicado": "2026-10-04T23:26:11+00:00",
+   "tickers": [],
+   "resumo": "Sem definição no primeiro turno, a disputa pelo governo do Distrito Federal (DF) vai para o segundo turno entre a atual governadora, Celina Leão (PP), e Leandro Grass (PT). A incumbente totaliza 49,93% dos votos válidos, enquanto Grass tem 34,47%. Na sequência, aparecem Paula Bel"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Eleições 2026: Piauí reelege Rafael Fonteles como governador no primeiro turno",
+   "url": "https://www.moneytimes.com.br/eleicoes-2026-piaui-reelege-rafael-fonteles-como-governador-no-primeiro-turno-mlem/",
+   "publicado": "2026-10-04T23:15:52+00:00",
+   "tickers": [],
+   "resumo": "Rafael Fonteles (PT) foi reeleito governador da Paraíba neste domingo (4), no primeiro turno das eleições de 2026. O candidato do PT obteve 70,16% dos votos válidos, o equivalente a 1.180.667 votos, segundo dados do Tribunal Superior Eleitoral (TSE). Até as 19h29, 83,43% das urna"
   },
   {
    "fonte": "Valor Investe",
-   "titulo": "Vantagem de Bolsonaro no exterior cai após entrada de votos na Europa",
+   "titulo": "Tarcísio é reeleito governador de São Paulo",
+   "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/10/04/tarcisio-e-reeleito-governador-de-sao-paulo.ghtml",
+   "publicado": "2026-10-04T23:14:06+00:00",
+   "tickers": [],
+   "resumo": "O governador Tarcísio de Freitas é reeleito governador de São Paulo. Com 90,02% dos votos, o atual governador tem 62,85% dos votos válidos e não é mais possível haver segundo turno no Estado. O ex-ministro Fernando Haddad (PT) tem 36,22%. Os demais candidatos não atingiram 1% dos"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Eleições 2026: Tarcísio de Freitas é reeleito governador de São Paulo (SP) em primeiro turno",
+   "url": "https://www.moneytimes.com.br/eleicoes-2026-tarcisio-de-freitas-reeleito-governador-de-sao-paulo-sp-em-primeiro-turno-rsgp/",
+   "publicado": "2026-10-04T23:10:01+00:00",
+   "tickers": [],
+   "resumo": "Tarcísio de Freitas (Republicanos) reelegeu-se governador de São Paulo em primeiro turno. Com 98,66% das urnas apuradas, Tarcísio não pode mais ser alcançado por Fernando Haddad (PT). A eleição para governador é definida em primeiro turno quando uma candidatura obtém mais da meta"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Eleições 2026: Lucas Ribeiro é reeleito governador da Paraíba no primeiro turno",
+   "url": "https://www.moneytimes.com.br/eleicoes-2026-lucas-ribeiro-e-reeleito-governador-da-paraiba-no-primeiro-turno-mlem/",
+   "publicado": "2026-10-04T23:09:38+00:00",
+   "tickers": [],
+   "resumo": "Lucas Ribeiro foi reeleito governador da Paraíba neste domingo (4), no primeiro turno das eleições de 2026. O candidato do PP obteve 64,41% dos votos válidos, o equivalente a 1.233.120 votos, segundo dados do Tribunal Superior Eleitoral (TSE). Até as 18h57, 85,57% das urnas havia"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Tarcísio de Freitas é reeleito governador de SP no 1º turno com 63% dos votos válidos",
+   "url": "https://investnews.com.br/economia/tarcisio-de-freitas-reeleito-sp/",
+   "publicado": "2026-10-04T22:43:10+00:00",
+   "tickers": [],
+   "resumo": "Tarcísio, dos Republicanos, superou o ex-ministro da Fazenda Fernando Haddad, do PT, que ficou com 36% dos votos válidos"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Zema é dono de quais empresas? Conheça os negócios ligados à família do político",
+   "url": "https://www.suno.com.br/noticias/zema-empresas-negocios-familia-mt/",
+   "publicado": "2026-10-04T22:30:00+00:00",
+   "tickers": [],
+   "resumo": "Zema é dono de quais empresas? Conheça os negócios ligados à família do políticoO sobrenome Zema aparece em lojas, serviços financeiros e concessionárias. Antes de entrar na política, Romeu Zema construiu sua carreira nos negócios da família, que têm origem em Araxá, em Minas Ger"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Qual é o prazo para justificar o voto nas eleições 2026?",
+   "url": "https://investnews.com.br/economia/prazo-para-justificar-o-voto-eleicoes-2026/",
+   "publicado": "2026-10-04T22:20:27+00:00",
+   "tickers": [],
+   "resumo": "O eleitor que não votou no primeiro turno das eleições de 2026, neste domingo (4), tem até 3 de dezembro para justificar a ausência à Justiça Eleitoral. Se faltar também ao segundo turno, marcado para 25 de outubro, terá de apresentar outra justificativa, com prazo até 8 de janei"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Lula foi torneiro mecânico antes de chegar à Presidência; conheça sua trajetória",
+   "url": "https://www.suno.com.br/noticias/lula-profissao-torneiro-mecanico-trajetoria/",
+   "publicado": "2026-10-04T21:18:41+00:00",
+   "tickers": [],
+   "resumo": "Lula trabalhou como torneiro mecânico antes de iniciar sua trajetória sindical e política. Foto: Ricardo Stuckert / PRAntes dos discursos e das disputas eleitorais, o trabalho de Lula era outro: operar máquinas para fabricar peças de metal. O presidente se formou como torneiro me"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Flávio Bolsonaro: da Assembleia do Rio ao Senado, veja os cargos que já ocupou",
+   "url": "https://www.suno.com.br/noticias/flavio-bolsonaro-cargos-trajetoria-politica/",
+   "publicado": "2026-10-04T21:18:00+00:00",
+   "tickers": [],
+   "resumo": "Flávio Bolsonaro: da Assembleia do Rio ao Senado, veja os cargos que já ocupouA trajetória política de Flávio Bolsonaro começou no Legislativo estadual, antes de chegar a Brasília. Advogado e empresário, segundo a Agência Senado, ele exerceu quatro mandatos consecutivos como depu"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Apuração das urnas em tempo real",
+   "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/10/04/apuracao-das-urnas-em-tempo-real.ghtml",
+   "publicado": "2026-10-04T20:31:01+00:00",
+   "tickers": [],
+   "resumo": "Acompanhe a apuração dos votos para presidente da República de acordo com os números divulgados pelo Tribunal Superior Eleitoral (TSE)."
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Eleições 2026: acompanhe a apuração no Brasil e no exterior",
+   "url": "https://www.suno.com.br/noticias/eleicoes-2026-votacao-brasil-exterior-apuracao-go/",
+   "publicado": "2026-10-04T20:16:00+00:00",
+   "tickers": [],
+   "resumo": "Eleições 2026: acompanhe a apuração no Brasil e no exteriorNeste domingo (4), o Brasil vive o primeiro turno das Eleições 2026. A votação em território nacional começou às 8h e se encerrou às 17h, no horário de Brasília, mobilizando mais de 158,7 milhões de eleitores aptos em 499"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Não votou nas eleições 2026? Veja como justificar ausência no 1º turno",
+   "url": "https://investnews.com.br/economia/justificar-o-voto1o-turno-eleicoes-2026/",
+   "publicado": "2026-10-04T20:00:00+00:00",
+   "tickers": [],
+   "resumo": "O prazo para justificar o voto vai até 3 de dezembro deste ano"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Qual é o patrimônio de Zema? Participação de R$ 94 milhões lidera bens declarados",
+   "url": "https://www.suno.com.br/noticias/patrimonio-de-zema-bens-investimentos-salario/",
+   "publicado": "2026-10-04T19:30:00+00:00",
+   "tickers": [],
+   "resumo": "Patrimônio de Zema reúne participações empresariais, fundos de investimento e renda fixa.Uma participação em holding familiar de R$ 94,5 milhões é o maior item do patrimônio de Zema. O ex-governador de Minas Gerais e candidato à Presidência pelo Novo declarou R$ 178.707.610,09 em"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Qual é o patrimônio de Renan Santos? Veja o que está na declaração de R$ 795 mil",
+   "url": "https://www.suno.com.br/noticias/patrimonio-de-renan-santos-bens-declarados-2026/",
+   "publicado": "2026-10-04T18:30:00+00:00",
+   "tickers": [],
+   "resumo": "Qual é o patrimônio de Renan Santos? Veja o que está na declaração de R$ 795 milCréditos e participações em empresas aparecem entre os principais itens do patrimônio de Renan Santos. O candidato à Presidência pelo Missão declarou R$ 795.089 ao Tribunal Superior Eleitoral (TSE) na"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Lula ultrapassa Flávio Bolsonaro e passa a liderar votação no exterior",
    "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/10/04/bolsonaro-sai-na-frente-no-exterior-apos-votacao-ser-encerrada-na-asia-e-oriente-medio.ghtml",
    "publicado": "2026-10-04T17:51:31+00:00",
    "tickers": [],
-   "resumo": "Com a votação já encerrada na maioria dos países da Europa, África, Ásia e do Oriente Médio neste domingo (4), Flávio Bolsonaro (PL) vai liderando o pleito dos brasileiros que se registraram para votar nos locais de votação que o Ministério das Relações Exteriores montou ao redor"
+   "resumo": "O presidente Luiz Inácio Lula da Silva (PT) vai liderando o pleito dos brasileiros que se registraram para votar nos locais de votação que o Ministério das Relações Exteriores montou ao redor do mundo.\nNo consolidado até o momento, Lula recebeu 112.930 votos, ou 52,52% do total, "
   },
   {
    "fonte": "Suno Noticias",
@@ -41,22 +193,6 @@
    "publicado": "2026-10-04T17:50:00+00:00",
    "tickers": [],
    "resumo": "Qual é o patrimônio de Flávio Bolsonaro? Casa de R$ 6,2 milhões lidera a listaUm único imóvel responde pela maior parte do patrimônio de Flávio Bolsonaro declarado nas eleições de 2026. O senador e candidato à Presidência pelo PL informou ao Tribunal Superior Eleitoral (TSE) R$ 8"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "O que as urnas reservam para o mercado? Acompanhe a apuração das eleições de 2026 com o Market Makers",
-   "url": "https://www.moneytimes.com.br/o-que-as-urnas-reservam-para-o-mercado-acompanhe-a-apuracao-das-eleicoes-de-2026-com-o-market-makers-jcav/",
-   "publicado": "2026-10-04T17:45:19+00:00",
-   "tickers": [],
-   "resumo": "O resultado das urnas neste domingo (4) começa a definir o cenário político que conduzirá a economia brasileira nos próximos quatro anos. Além da disputa pela Presidência, os eleitores escolhem governadores, senadores e deputados — composição que será decisiva para a negociação d"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Eleições 2026: Onde estão concentrados os eleitores mais jovens e os mais velhos do país",
-   "url": "https://www.moneytimes.com.br/eleicoes-2026-onde-estao-concentrados-os-eleitores-mais-jovens-e-os-mais-velhos-do-pais/",
-   "publicado": "2026-10-04T17:30:00+00:00",
-   "tickers": [],
-   "resumo": "A geografia do eleitorado brasileiro passa por uma mudança estrutural provocada pelo envelhecimento populacional, deslocando a presença dos eleitores mais jovens para longe do eixo central de votação do país. Dados levantados pelo Instituto Nexus com base nos registros do Tribuna"
   },
   {
    "fonte": "Valor Investe",
@@ -99,52 +235,12 @@
    "resumo": "Ele prioriza a produção de petróleo em detrimento da boa governança e pode acabar sem nenhuma das duas"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Defesa Civil alerta para chuva, raios e vento na Grande SP durante votação",
-   "url": "https://www.moneytimes.com.br/defesa-civil-alerta-para-chuva-raios-e-vento-na-grande-sp-durante-votacao-jcav/",
-   "publicado": "2026-10-04T17:02:27+00:00",
-   "tickers": [],
-   "resumo": "A Defesa Civil emitiu um alerta para chuva acompanhada de raios e vento na Região Metropolitana de São Paulo, na tarde deste domingo (4), dia do primeiro turno das eleições de 2026. Segundo a mensagem enviada aos celulares, a chuva está se espalhando pela região e também atinge m"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Não é só o 2º turno: processos pendentes no TSE ainda podem afetar resultado das eleições",
-   "url": "https://www.moneytimes.com.br/nao-e-so-o-2o-turno-processos-pendentes-no-tse-ainda-podem-afetar-resultado-das-eleicoes/",
-   "publicado": "2026-10-04T17:00:00+00:00",
-   "tickers": [],
-   "resumo": "A pendência de processos de candidatura no Tribunal Superior Eleitoral (TSE) ameaça alterar a composição de vagas na Câmara, no Senado e em governos estaduais nas eleições deste ano. O volume de recursos em análise, entre os cerca de 20 mil pedidos recebidos pela Justiça Eleitora"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "PF abriu apuração sobre suposta interferência externa nas eleições do Brasil, diz diretor-geral",
-   "url": "https://www.moneytimes.com.br/pf-abriu-apuracao-sobre-suposta-interferencia-externa-nas-eleicoes-do-brasil-diz-diretor-geral-jcav/",
-   "publicado": "2026-10-04T16:24:18+00:00",
-   "tickers": [],
-   "resumo": "O diretor-geral da Polícia Federal, Andrei Rodrigues, afirmou neste domingo que a corporação já abriu investigação para apurar suposto esquema de financiamento de uma agenda de extrema-direita no Brasil pelo governo norte-americano de Donald Trump que teria entre os objetivos int"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Eleições: Conheça a regra que define uma vitória presidencial no primeiro turno",
-   "url": "https://www.moneytimes.com.br/eleicoes-conheca-a-regra-que-define-uma-vitoria-presidencial-no-primeiro-turno/",
-   "publicado": "2026-10-04T16:00:00+00:00",
-   "tickers": [],
-   "resumo": "A eleição para a Presidência da República no Brasil exige que o vencedor obtenha a maioria absoluta dos votos válidos para liquidação do pleito ainda em primeiro turno, conforme estipulado pelo artigo 77 da Constituição Federal. A regra estabelece que o candidato vitorioso precis"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Temporal altera local de votação neste domingo em SP; confira a cidade",
-   "url": "https://www.moneytimes.com.br/temporal-altera-local-de-votacao-neste-domingo-em-sp-confira-a-cidade-jcav/",
-   "publicado": "2026-10-04T15:54:14+00:00",
-   "tickers": [],
-   "resumo": "O forte temporal que atingiu a cidade de Presidente Prudente, no interior de São Paulo, provocou destelhamentos de escolas e, com isso, um local de votação precisou ser alterado de última hora. Segundo o Tribunal Regional Eleitoral de São Paulo (TRE-SP), com o destelhamento da Es"
-  },
-  {
    "fonte": "InvestNews",
-   "titulo": "Distância entre Lula e Flávio no 1º turno vai definir o rumo da bolsa, dos juros longos e do dólar",
+   "titulo": "Como os resultados do primeiro turno devem ditar o rumo da bolsa, dos juros futuros e do dólar",
    "url": "https://investnews.com.br/investimentos/distancia-entre-lula-e-flavio-no-1o-turno-vai-definir-o-rumo-da-bolsa-dos-juros-e-do-dolar/",
    "publicado": "2026-10-04T14:01:07+00:00",
    "tickers": [],
-   "resumo": "Investidores se preparam para oscilações fortes nesta semana: seja qual for o resultado dos urnas"
+   "resumo": "Investidores se preparam para oscilações fortes nesta semana, seja qual for o resultado dos urnas"
   },
   {
    "fonte": "Brazil Journal",
@@ -269,28 +365,12 @@
    "resumo": "O fundo imobiliário TGAR11 (TG Ativo Real) comunicou a distribuição de R$ 0,70 por cota em dividendos, com base no resultado de setembro de 2026. O pagamento está programado para 15 de outubro, conforme informado pela gestão do FII ao mercado. Terão direito aos proventos os inves"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "IFIX avança 0,43% e fecha semana em alta de 0,81%",
-   "url": "https://www.suno.com.br/noticias/ifix-avanca-043-e-fecha-semana-em-alta-de-081/",
-   "publicado": "2026-10-02T21:15:04+00:00",
-   "tickers": [],
-   "resumo": "O IFIX encerrou o pregão desta sexta-feira (2) em 3.771,85 pontos, alta de 0,43%. O avanço corresponde a 15,99 pontos frente ao fechamento anterior, de 3.755,86 pontos, confirmando desempenho positivo na sessão. Durante o dia, o índice de fundos imobiliários oscilou entre a mínim"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "CVM multa fundador e ex-diretor financeiro da Reag em R$ 170 mil cada um",
    "url": "https://valorinveste.globo.com/mercados/noticia/2026/10/02/cvm-multa-fundador-e-ex-diretor-financeiro-da-reag-em-r-170-mil-cada-um.ghtml",
    "publicado": "2026-10-02T21:00:46+00:00",
    "tickers": [],
    "resumo": "A Comissão de Valores Mobiliários (CVM) condenou, em reunião do colegiado na última terça-feira (29), João Carlos Mansur, fundador da Reag, e Rodolfo Turelli, ex-diretor financeiro da Reag Capital Holding, em R$ 170 mil cada um, por falhas na elaboração das demonstrações financei"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Ibovespa pisa no acelerador, dispara 2,63% e volta aos 192 mil pontos na véspera das eleições",
-   "url": "https://www.suno.com.br/noticias/ibovespa-hoje-2-outubro-192-mil-eleicoes-petr4-vale3-mt/",
-   "publicado": "2026-10-02T20:55:06+00:00",
-   "tickers": [],
-   "resumo": "O último pregão antes das eleições entregou tudo o que prometia: tensão, virada, volatilidade e, no fim, uma arrancada daquelas. O Ibovespa fechou esta sexta-feira (2) em forte alta de 2,63%, aos 192.114,55 pontos, com ganho de 4.917,09 pontos e praticamente colado à máxima do di"
   },
   {
    "fonte": "Valor Investe",
@@ -333,30 +413,12 @@
    "resumo": "Retornos de debêntures incentivadas e de fundos caem diante da subida dos prêmios de riscos dos papéis"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "B3 (B3SA3) abre Semana Mundial do Investidor com foco em decisões financeiras e prevenção a golpes",
-   "url": "https://www.suno.com.br/noticias/semana-mundial-do-investidor-2026-b3-programacao-mt/",
-   "publicado": "2026-10-02T19:35:05+00:00",
-   "tickers": [],
-   "resumo": "Investir envolve mais do que escolher onde colocar o dinheiro. Entender as próprias decisões e reconhecer possíveis golpes também faz parte dessa jornada. Esses temas estarão na Semana Mundial do Investidor, que terá sua abertura no Brasil realizada pela B3 (B3SA3) na segunda-fei"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Ouro recua mais de 3% na semana, com pressão dos rendimento dos títulos americanos",
    "url": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/10/02/ouro-recua-mais-de-3percent-na-semana-com-pressao-dos-rendimento-dos-titulos-americanos.ghtml",
    "publicado": "2026-10-02T19:26:16+00:00",
    "tickers": [],
    "resumo": "Os preços dos contratos futuros do ouro fecharam em queda, diante do avanço nos rendimentos dos títulos do Tesouro dos EUA, os Treasuries, apesar de a desaceleração do mercado de trabalho ter reforçado as apostas de que o Federal Reserve (Fed, o BC americano) manterá os juros ina"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Embraer (EMBJ3): recorde de entregas divide analistas; o que faltou para surpreender os bancos?",
-   "url": "https://www.suno.com.br/noticias/embraer-embj3-recorde-entregas-terceiro-trimestre-2026-mt/",
-   "publicado": "2026-10-02T18:25:09+00:00",
-   "tickers": [
-    "EMBJ3"
-   ],
-   "resumo": "A Embraer (EMBJ3) encerrou o terceiro trimestre de 2026 com um recorde nas entregas, mas sem superar todas as expectativas dos bancos. A fabricante entregou 66 aeronaves, seu melhor desempenho para um terceiro trimestre, com crescimento de 6% em relação ao mesmo período de 2025. "
   },
   {
    "fonte": "InvestNews",
@@ -399,14 +461,6 @@
    "resumo": "O primeiro turno deste domingo está sendo visto no mercado como um potencial gatilho positivo para algumas ações de companhias do setor de energia elétrica e saneamento.  Embora empresários não projetem nenhuma ruptura na agenda de leilões de concessões e nas políticas setoriais "
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "Ações recomendadas: outubro promete emoção na Bolsa; veja as favoritas do mês",
-   "url": "https://www.suno.com.br/noticias/acoes-recomendadas-outubro-2026-eleicoes-mt/",
-   "publicado": "2026-10-02T17:25:10+00:00",
-   "tickers": [],
-   "resumo": "O ano já começa a ensaiar a despedida, mas outubro está longe de ter cara de fim de festa na Bolsa. Com primeiro e segundo turnos das eleições no calendário, juros elevados e incertezas no exterior, o mês promete emoção até para o investidor mais acostumado à volatilidade. Nesse "
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Petrobras (PETR4) faz nova descoberta de petróleo na Margem Equatorial; ações disparam",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/10/02/petrobras-petr4-faz-nova-descoberta-de-petroleo-na-margem-equatorial-acoes-disparam.ghtml",
@@ -416,17 +470,6 @@
     "PETR4"
    ],
    "resumo": "A Petrobras anunciou nesta sexta-feira (2) que fez nova descoberta de petróleo no bloco FZA-M-59, localizado em águas ultra profundas da costa do Estado do Amapá, na região conhecida como Margem Equatorial. \nAs ações ordinárias (PETR3) subiam 1,4%, a R$ 55,59, e as preferenciais "
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Petrobras (PETR4) encontra mais petróleo na costa do Amapá; veja onde ocorreu a descoberta",
-   "url": "https://www.suno.com.br/noticias/petrobras-petr4-nova-descoberta-petroleo-amapa-mt/",
-   "publicado": "2026-10-02T16:15:04+00:00",
-   "tickers": [
-    "PETR3",
-    "PETR4"
-   ],
-   "resumo": "A perfuração avançou e encontrou mais petróleo. A Petrobras (PETR3; PETR4) anunciou nesta sexta-feira (2) uma nova descoberta no poço Morpho, na costa do Amapá, depois de alcançar uma camada mais profunda com presença de óleo na mesma área onde já havia identificado petróleo em a"
   },
   {
    "fonte": "InvestNews",
@@ -716,14 +759,6 @@
    "resumo": "Votação das eleições 2026 ocorre das 8h às 17h pelo horário de Brasília"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Viagens mais caras: Petrobras repassa alta global do querosene e pressiona ainda mais as passagens de avião",
-   "url": "https://investnews.com.br/economia/petrobras-querosene-aviao-passagens/",
-   "publicado": "2026-10-01T19:29:43+00:00",
-   "tickers": [],
-   "resumo": "Bilhetes já subiram 26% em 12 meses até agosto; querosene de aviação já acumula alta de 71% no ano no país"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Azzas (AZZA3) dispara na bolsa com propostas pela Farm acima do esperado pelo mercado",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/10/01/azzas-azza3-dispara-na-bolsa-com-propostas-pela-farm-acima-do-esperado-pelo-mercado.ghtml",
@@ -732,22 +767,6 @@
     "AZZA3"
    ],
    "resumo": "As ações da Azzas 2154 dispararam nesta quinta-feira (1º) na B3 e lideraram as altas do Ibovespa, principal índice da bolsa brasileira, em um pregão de pouca volatilidade. O movimento ocorre após a divulgação de avaliações entre R$ 3,5 bilhões e R$ 4 bilhões pela Farm, acima do v"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "O que leva uma eleição a acabar no primeiro turno",
-   "url": "https://investnews.com.br/economia/o-que-define-eleicao-no-primeiro-turno/",
-   "publicado": "2026-10-01T19:05:13+00:00",
-   "tickers": [],
-   "resumo": "Para vencer no primeiro turno, candidato precisa de mais da metade dos votos válidos; brancos e nulos ficam fora da conta"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Sem contestações, irmãos Batista têm caminho livre no Cade para assumir a Avibras",
-   "url": "https://investnews.com.br/negocios/sem-contestacoes-irmaos-batista-tem-caminho-livre-no-cade-para-assumir-a-avibras/",
-   "publicado": "2026-10-01T19:03:02+00:00",
-   "tickers": [],
-   "resumo": "Prazo para recorrer terminou na quarta-feira (30), tornando definitiva a aprovação da compra pela Globe Investimentos, family office dos empresários"
   },
   {
    "fonte": "Valor Investe",
@@ -830,30 +849,6 @@
    "publicado": "2026-10-01T10:56:08+00:00",
    "tickers": [],
    "resumo": "A três dias do primeiro turno das eleições, os investidores monitoram a nova pesquisa do Datafolha, o debate na TV Globo e a participação do presidente Luiz Inácio Lula da Silva (PT) no Flow Podcast, previstos para esta quinta-feira (1º). Nos Estados Unidos, os juros dos títulos "
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Exageros",
-   "url": "https://valorinveste.globo.com/blogs/vera-rita-de-mello-ferreira/coluna/exageros.ghtml",
-   "publicado": "2026-10-01T09:20:00+00:00",
-   "tickers": [],
-   "resumo": "- \"o ano em que vivemos perigosamente\" é o título de um filme (bom) de algumas décadas atrás...\n- por alguma razão, me lembrei desse nome agora...\n- pois é, eleições trepidantes nos próximos dias e, claro, com reflexos no mundo do dinheiro \n- entre outras coisas, eu chamo atenção"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Você piscou e perdeu uma década",
-   "url": "https://valorinveste.globo.com/blogs/gustavo-cunha/coluna/voce-piscou-e-perdeu-uma-decada.ghtml",
-   "publicado": "2026-10-01T09:10:00+00:00",
-   "tickers": [],
-   "resumo": "\"Há décadas em que nada acontece e semanas em que décadas acontecem\"\nA frase, atribuída a Lenin, nunca me pareceu tão viva quanto agora. Em mais de vinte anos de mercado financeiro (trinta se contar crypto), confesso que poucas vezes vi tanta coisa estrutural acontecer em tão pou"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "A CVM está olhando para o lugar certo?",
-   "url": "https://valorinveste.globo.com/blogs/fabio-coelho/coluna/a-cvm-esta-olhando-para-o-lugar-certo.ghtml",
-   "publicado": "2026-10-01T09:00:00+00:00",
-   "tickers": [],
-   "resumo": "Durante anos, a escassez ajudou a definir a arquitetura de supervisão da CVM. Com orçamento limitado e restrições de pessoal e tecnologia, a autarquia precisou escolher onde concentrar esforços, apoiando inclusive parte do acompanhamento do mercado em estruturas de autorregulação"
   }
  ]
 }
