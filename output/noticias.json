@@ -4,47 +4,248 @@
  "dados": [
   {
    "fonte": "Money Times",
-   "titulo": "Pão de Açúcar (PCAR3): Justiça de São Paulo homologa plano de recuperação extrajudicial; ações disparam",
-   "url": "https://www.moneytimes.com.br/pao-de-acucar-pcar3-justica-de-sao-paulo-homologa-plano-de-recuperacao-extrajudicial-acoes-disparam-lmrs/",
-   "publicado": "2026-10-07T15:56:40+00:00",
+   "titulo": "Republicanos anuncia apoio a Flávio Bolsonaro no 2º turno",
+   "url": "https://www.moneytimes.com.br/republicanos-anuncia-apoio-a-flavio-bolsonaro-no-2o-turno/",
+   "publicado": "2026-10-07T22:54:02+00:00",
+   "tickers": [],
+   "resumo": "O Republicanos decidiu nesta quarta-feira, 7, apoiar a candidatura de Flávio Bolsonaro (PL) à Presidência no segundo turno. O anúncio foi feito pelo presidente do partido, deputado federal Marcos Pereira, ao lado do senador, na sede da legenda, em Brasília. &#8220;Venho anunciar "
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Fundo imobiliário BTLG11 aprova nova emissão e pode captar até R$ 1,2 bi",
+   "url": "https://www.suno.com.br/noticias/fundo-imobiliario-btlg11-aprova-nova-emissao-e-pode-captar-ate-r-12-bi/",
+   "publicado": "2026-10-07T22:35:05+00:00",
    "tickers": [
-    "PCAR3"
+    "BTLG11"
    ],
-   "resumo": "O GPA (PCAR3), dono da bandeira Pão de Açúcar, informou ao mercado que o Juízo da 3ª Vara de Falências e Recuperações Judiciais do Foro Central da Comarca de São Paulo homologou o plano de recuperação extrajudicial da companhia. O plano havia sido apresentado em 5 de maio de 2026"
+   "resumo": "O BTLG11 (BTG Pactual Logística Fundo de Investimento Imobiliário) aprovou a 17ª emissão de cotas, com captação inicial estimada em aproximadamente R$ 800 milhões. O montante poderá alcançar cerca de R$ 1,2 bilhão caso o lote adicional seja utilizado integralmente, conforme aprov"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Cade rejeita apelo da dona da Gol e aprova entrada da American Airlines como sócia da Azul",
+   "url": "https://investnews.com.br/negocios/cade-aprova-entrada-da-american-azul/",
+   "publicado": "2026-10-07T22:26:31+00:00",
+   "tickers": [],
+   "resumo": "Aprovação unânime ocorre após recursos da Abra; aérea americana deve ficar com cerca de 8% da companhia brasileira"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "IFIX engata terceira alta seguida e fecha em 3.955 pontos, com alta de 1,19%",
+   "url": "https://www.suno.com.br/noticias/ifix-engata-terceira-alta-seguida-e-fecha-em-3-955-pontos-com-alta-de-119/",
+   "publicado": "2026-10-07T22:15:06+00:00",
+   "tickers": [],
+   "resumo": "O IFIX encerrou o pregão desta quarta-feira (7) aos 3.955,32 pontos, em alta de 1,19%. O desempenho representou avanço de 46,54 pontos frente ao fechamento anterior, de 3.908,78 pontos, e consolidou a sequência positiva iniciada nesta semana. Ao longo da sessão, o índice de fundo"
   },
   {
    "fonte": "Money Times",
-   "titulo": "“Muda Brasil”: bancada do agro organiza caravana por Flávio Bolsonaro em seis estados",
-   "url": "https://www.moneytimes.com.br/muda-brasil-bancada-do-agro-organiza-caravana-por-flavio-bolsonaro-em-seis-estados-pads/",
-   "publicado": "2026-10-07T15:54:48+00:00",
-   "tickers": [],
-   "resumo": "A Frente Parlamentar da Agropecuária (FPA) está organizando uma caravana nacional do setor produtivo em apoio à candidatura do senador Flávio Bolsonaro (PL). A iniciativa foi anunciada na terça-feira, 6, pelo presidente da bancada, deputado federal Pedro Lupion (Republicanos-PR) "
+   "titulo": "Americanas (AMER3) recebe mais um depósito de venda de lojas; veja valores",
+   "url": "https://www.moneytimes.com.br/americanas-amer3-mais-uma-parcela-de-venda-de-lojas-pinga-rnda/",
+   "publicado": "2026-10-07T22:11:55+00:00",
+   "tickers": [
+    "AMER3"
+   ],
+   "resumo": "A Americanas (AMER3) recebeu mais uma parcela da venda de uma loja da Hortifruti Natural da Terra (HNT) no valor de R$ R$ 1,875 milhão, mostra documento enviado ao mercado nesta quarta-feira (7). Esta é a quinta das 10 lojas incluídas no contrato anunciado em maio de 2026. Ao tod"
   },
   {
    "fonte": "Money Times",
-   "titulo": "Iraque desvaloriza moeda local frente ao dólar com interrupções no Estreito de Ormuz",
-   "url": "https://www.moneytimes.com.br/iraque-desvaloriza-moeda-local-frente-ao-dolar-com-interrupcoes-no-estreito-de-ormuz-lils/",
-   "publicado": "2026-10-07T15:48:19+00:00",
+   "titulo": "Mais uma vez: Ray Dalio volta a alertar sobre bolha da IA",
+   "url": "https://www.moneytimes.com.br/mais-uma-vez-ray-dalio-volta-a-ascender-alerta-para-bolha-da-ia-rnda/",
+   "publicado": "2026-10-07T21:52:41+00:00",
    "tickers": [],
-   "resumo": "O Iraque desvalorizou sua moeda nesta quarta-feira (7), elevando a taxa de câmbio oficial de cerca de 1.300 dinares por dólar para 1.500 dinares por dólar. O banco central local informou, em comunicado, que a nova taxa foi definida em reunião do gabinete na noite anterior &#8220;"
+   "resumo": "Pela segunda vez, o bilionário e fundador da Bridgewater Associates, Ray Dalio, afirmou que a bolha da inteligência artificial (IA) está se aproximando de um ponto de ruptura. A &#8216;agulha&#8217; seria a alta das taxas de juros e o aumento do endividamento das empresas de tecn"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Juros futuros fecham sem direção de olho no fiscal",
+   "url": "https://www.moneytimes.com.br/juros-futuros-7-10-26-apsa/",
+   "publicado": "2026-10-07T21:39:16+00:00",
+   "tickers": [],
+   "resumo": "Os juros futuros operaram sem direção única e com oscilações tímidas nesta quarta-feira (7), ainda que o mercado siga demonstrando otimismo com a possibilidade de alternância de poder em 2027 e a esperada redução dos prêmios de risco associados ao quadro fiscal. Sem gatilhos espe"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Após arena em São Paulo, Live Nation negocia compra de casa de shows no Rio",
+   "url": "https://investnews.com.br/negocios/live-nation-negocia-farmasi-arena-rio/",
+   "publicado": "2026-10-07T21:33:37+00:00",
+   "tickers": [],
+   "resumo": "Dona da Ticketmaster quer assumir a Farmasi Arena, com capacidade para 17 mil pessoas, e reformar o espaço"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Expansão do etanol de milho ‘vai precisar desacelerar’, alerta consultor",
+   "url": "https://www.moneytimes.com.br/expansao-do-etanol-de-milho-vai-precisar-desacelerar-alerta-consultor/",
+   "publicado": "2026-10-07T21:32:37+00:00",
+   "tickers": [],
+   "resumo": "A expansão do etanol de milho no Brasil pode esbarrar na falta de mercado para o combustível e exigir uma desaceleração do setor, avalia o consultor da Grão Direto na área de inteligência de mercado Clayton Melo. Segundo ele, a entrada em operação de novas unidades pode levar a p"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "SLC Agrícola (SLCE3) vai ampliar plantio na safra 2026/27, mas prevê custos maiores; veja projeções",
+   "url": "https://www.moneytimes.com.br/slc-agricola-slce3-vai-ampliar-plantio-na-safra-2026-27-mas-preve-custos-maiores-veja-projecoes/",
+   "publicado": "2026-10-07T21:27:39+00:00",
+   "tickers": [
+    "SLCE3"
+   ],
+   "resumo": "A SLC Agrícola (SLCE3) projeta plantar 854,4 mil hectares na safra 2026/27, crescimento de 2,2% em relação ao ciclo anterior. As estimativas divulgadas nesta quarta-feira (7) também apontam aumento de 2,2% no custo médio de produção por hectare, para R$ 7.217. Segundo a companhia"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Ibovespa perde fôlego pelo 2º dia e cai abaixo dos 205 mil pontos; VALE3 e bancos pesam",
+   "url": "https://www.suno.com.br/noticias/ibovespa-hoje-7-outubro-vale3-bancos-dolar-mt/",
+   "publicado": "2026-10-07T21:15:06+00:00",
+   "tickers": [
+    "VALE3"
+   ],
+   "resumo": "A segunda-feira histórica começa a ficar mais distante no retrovisor. O Ibovespa caiu 0,74% nesta quarta-feira (7), aos 204.302,33 pontos, perda de 1.532,96 pontos, e engatou a segunda queda consecutiva depois do salto de 7,70% registrado no primeiro pregão após as eleições. Vale"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Radar das Eleições: Centrão enfraquecido, PL fortalecido e um governo impopular; os prós e contras para Flávio Bolsonaro",
+   "url": "https://www.moneytimes.com.br/radar-das-eleicoes-centrao-enfraquecido-pl-fortalecido-e-um-governo-impopular-os-pros-e-contras-para-flavio-bolsonaro-gaep/",
+   "publicado": "2026-10-07T21:07:48+00:00",
+   "tickers": [],
+   "resumo": "A eleição 2026 está longe de ser definida, mas não há dúvida de que Flávio Bolsonaro (PL) é o favorito após sua liderança no primeiro turno. Em um eventual governo, o senador teria prós, com a bancada do PL fortalecida no Congresso e um Centrão enfraquecido e, teoricamente, mais "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Fim do split payment? Daniella Marques diz que governo Flávio Bolsonaro acabaria com o recurso",
+   "url": "https://www.moneytimes.com.br/fim-do-split-payment-daniella-marques-diz-que-governo-flavio-bolsonaro-acabaria-com-o-recurso-apsa/",
+   "publicado": "2026-10-07T20:59:35+00:00",
+   "tickers": [],
+   "resumo": "A ex-presidente da Caixa Econômica Federal e coordenadora econômica da campanha de Flávio Bolsonaro, Daniella Marques, disse na terça-feira (6) que o governo dele, caso eleito, pretende acabar com o split payment, recurso da reforma tributária que recolhe impostos automaticamente"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Saiba o que Lula e Flávio propõem sobre novas regras para indicação de ministros ao STF",
+   "url": "https://www.moneytimes.com.br/saiba-o-que-lula-e-flavio-propoem-sobre-novas-regras-para-indicacao-de-ministros-ao-stf/",
+   "publicado": "2026-10-07T20:51:38+00:00",
+   "tickers": [],
+   "resumo": "O presidente Luiz Inácio Lula da Silva e o senador Flávio Bolsonaro têm detalhado nos últimos dias as medidas que, se eleitos, implementariam para mudar as regras de indicação de ministros do Supremo Tribunal Federal (STF). Ambos defendem propostas que reduzem a autonomia do Pode"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Alcolumbre diz que, se houver pedido para acelerar jornada 6×1, vai colocá-lo para votação",
+   "url": "https://www.moneytimes.com.br/alcolumbre-diz-que-se-houver-pedido-para-acelerar-pec-6x1-vai-coloca-lo-para-votacao/",
+   "publicado": "2026-10-07T20:49:55+00:00",
+   "tickers": [],
+   "resumo": "O presidente do Senado Federal, Davi Alcolumbre (União Brasil-AP), afirmou que ainda não recebeu nenhum requerimento para acelerar o andamento da proposta de fim da escala 6&#215;1 e que poderá colocar o pedido para votação somente se alguém o fizer. As declarações ocorreram dura"
   },
   {
    "fonte": "Valor Investe",
-   "titulo": "GPA (PCAR3) dispara com homologação do plano de recuperação extrajudicial",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/10/07/gpa-pcar3-dispara-com-homologacao-do-plano-de-recuperacao-extrajudicial.ghtml",
-   "publicado": "2026-10-07T15:30:50+00:00",
+   "titulo": "Aversão ao risco faz Ibovespa acordar do 'sonho eleitoral'; o rali da bolsa acabou?",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/07/aversao-ao-risco-faz-ibovespa-acordar-do-sonho-eleitoral-o-rali-da-bolsa-acabou.ghtml",
+   "publicado": "2026-10-07T20:48:10+00:00",
+   "tickers": [
+    "BBDC4",
+    "BPAC11",
+    "ITUB4",
+    "PETR4"
+   ],
+   "resumo": "Depois da disparada que levou o Ibovespa dos 190 mil para os 207 mil pontos no início da semana, a onda de aversão ao risco lá fora tirou o protagonismo da eleição e pressionou a bolsa para baixo nesta quarta-feira (7). \nO principal índice da B3 caiu 0,7%, para os 204.302 pontos,"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Com a redução brutal dos juros, rendimento dos títulos IPCA+ chega a 900% do CDI",
+   "url": "https://investnews.com.br/investimentos/fim-das-taxas-de-7-tesouro-ipca-entra-em-nova-fase-de-menor-ganho-para-o-investidor/",
+   "publicado": "2026-10-07T20:28:15+00:00",
+   "tickers": [],
+   "resumo": "Taxas despencam com a expectativa de ajuste fiscal. Se ele vier, será o fim do IPCA+7%"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Frango dispara nas exportações; bovinos recuam 28%, aponta Safra",
+   "url": "https://www.suno.com.br/noticias/exportacoes-de-frango-terceiro-trimestre-safra-mt/",
+   "publicado": "2026-10-07T20:25:08+00:00",
+   "tickers": [],
+   "resumo": "Nem todas as carnes chegaram ao fim do terceiro trimestre com o mesmo desempenho. As exportações de frango combinaram embarques elevados e custos menores de grãos, enquanto a carne bovina perdeu volume e a suína enfrentou preços mais baixos, segundo análise do Safra publicada nes"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Rede americana Shake Shack chega ao Brasil em 2027 de olho em mercado de hambúrguer de R$ 40 bilhões",
+   "url": "https://investnews.com.br/negocios/shake-shack-chegada-brasil-2027/",
+   "publicado": "2026-10-07T19:28:10+00:00",
+   "tickers": [],
+   "resumo": "Grupo Bold será responsável por trazer a rede ao país, que terá sua primeira unidade em São Paulo no primeiro semestre"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "BC dos EUA reforça sinais de nova alta dos juros ainda neste ano",
+   "url": "https://valorinveste.globo.com/mercados/moedas-e-juros/noticia/2026/10/07/bc-dos-eua-sinaliza-nova-alta-dos-juros-ainda-neste-ano.ghtml",
+   "publicado": "2026-10-07T19:04:34+00:00",
+   "tickers": [],
+   "resumo": "O Federal Reserve (Fed, o banco central americano) sinalizou que os juros dos Estados Unidos podem subir novamente ainda neste ano. A ata da reunião de setembro, divulgada nesta quarta-feira (7), mostrou que a maioria dos dirigentes já considerava provável uma nova alta até dezem"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "SPXI11 e IVVB11: quais as diferenças entre os ETFs de S&P 500?",
+   "url": "https://www.suno.com.br/noticias/spxi11-ivvb11-diferencas-etfs-sp500-gss/",
+   "publicado": "2026-10-07T19:00:00+00:00",
+   "tickers": [
+    "IVVB11",
+    "SPXI11"
+   ],
+   "resumo": "Foto: PixabayInvestir nas maiores empresas dos Estados Unidos sem precisar abrir uma conta em uma corretora estrangeira é possível por meio de ETFs negociados na B3. Entre as alternativas disponíveis, SPXI11 e IVVB11 se destacam por oferecerem exposição ao S&#38;P 500, um dos pri"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Vida fora da Terra? Telescópio capta ondas de rádio de outra galáxia",
+   "url": "https://braziljournal.com/vida-fora-da-terra-telescopio-capta-ondas-de-radio-de-outra-galaxia/",
+   "publicado": "2026-10-07T18:39:26+00:00",
+   "tickers": [],
+   "resumo": "Ainda não se sabe se há vida fora da Terra, mas descobertas recentes podem ser um indício de que não estamos sozinhos no Universo. Um telescópio na África do Sul conseguiu captar ondas de rádio vindas de um planeta a 63 anos-luz de distância da Terra, segundo o New York Times. Pe"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Pão de Açúcar (PCAR3) dispara mais de 10% após Justiça homologar recuperação",
+   "url": "https://www.suno.com.br/noticias/pao-de-acucar-pcar3-justica-homologa-recuperacao-judicial-go/",
+   "publicado": "2026-10-07T17:56:00+00:00",
    "tickers": [
     "PCAR3"
    ],
-   "resumo": "As ações do GPA (PCAR3) disparam no início da tarde desta quarta-feira (7) após a notícia de que a Justiça de São Paulo homologou o plano de recuperação extrajudicial da empresa, segundo apurou com exclusividade o Valor Econômico. \nPor volta das 12h30, os papéis disparavam 10,68%"
+   "resumo": "Pão de Açúcar (PCAR3) dispara mais de 10% após Justiça homologar recuperaçãoO Grupo Pão de Açúcar (PCAR3) informou nesta quarta-feira (7) que obteve homologação judicial para seu plano de recuperação extrajudicial. A notícia impulsionou as ações da companhia na bolsa. Por volta d"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Mercado se antecipou demais com Flávio? Felipe Salto vê espaço para correção após rali",
-   "url": "https://www.moneytimes.com.br/mercado-se-antecipou-demais-com-flavio-felipe-salto-ve-espaco-para-correcao-apos-rali/",
-   "publicado": "2026-10-07T15:30:14+00:00",
+   "fonte": "Suno Noticias",
+   "titulo": "Selic 2026: 70% dos bancos veem mais cortes; metade aposta em juros de 13,50%",
+   "url": "https://www.suno.com.br/noticias/selic-2026-corte-bancos-pesquisa-febraban-mt/",
+   "publicado": "2026-10-07T17:15:06+00:00",
    "tickers": [],
-   "resumo": "A reação favorável dos mercados ao desempenho de Flávio Bolsonaro no primeiro turno reflete a expectativa de um ajuste fiscal, mas pode ter ido longe demais antes de os investidores conhecerem as propostas. Para Felipe Salto, economista-chefe da Warren Investimentos, há espaço pa"
+   "resumo": "Os juros vão baixar mais ou ficar onde estão? Quando o assunto é Selic a maioria dos bancos consultados pela Febraban ainda espera uma queda, mas não há acordo sobre o tamanho dela. Para metade das instituições, a taxa básica deve passar dos atuais 13,75% para 13,50% ao ano, com "
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Fundos de ações e multimercados disparam até 29% no dia seguinte ao 1º turno",
+   "url": "https://valorinveste.globo.com/produtos/fundos/noticia/2026/10/07/fundos-de-acoes-e-multimercados-disparam-ate-29percent-no-dia-seguinte-ao-1o-turno.ghtml",
+   "publicado": "2026-10-07T16:48:54+00:00",
+   "tickers": [],
+   "resumo": "O resultado do primeiro turno das eleições provocou uma forte onda de valorização entre os fundos de investimento expostos ao mercado brasileiro. Alguns dos principais fundos de ações, long biased e multimercado registraram retornos médios de 19,21%, 16,27% e 16,01%, respectivame"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Bolsas da Europa fecham em forte queda com avanço do petróleo",
+   "url": "https://www.suno.com.br/noticias/bolsas-da-europa-fecham-em-forte-queda-com-preocupacoes-go/",
+   "publicado": "2026-10-07T16:36:00+00:00",
+   "tickers": [],
+   "resumo": "Bolsas da Europa . Foto: PixabayAs bolsas da Europa fecharam em queda nesta quarta-feira, 7, em correção aos ganhos recentes e pressionadas por preocupações políticas e com o déficit &#8211; especialmente na França. Os investidores também monitoram a retomada de alta dos preços d"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "LLMs ‘open-weight’ ameaçam chineses e Big Techs",
+   "url": "https://braziljournal.com/llms-open-weight-ameacam-chineses-e-big-techs/",
+   "publicado": "2026-10-07T16:24:10+00:00",
+   "tickers": [],
+   "resumo": "A Reflection AI, uma startup americana fundada por dois ex-pesquisadores do Google DeepMind, acaba de lançar um novo modelo aberto de inteligência artificial que promete ser tão competitivo quanto os chineses – e bem mais barato que os serviços da Anthropic e da OpenAI. Chamado d"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "GPA (PCAR3), dono do Pão de Açúcar, dispara com homologação do plano de recuperação extrajudicial",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/10/07/gpa-pcar3-dispara-com-homologacao-do-plano-de-recuperacao-extrajudicial.ghtml",
+   "publicado": "2026-10-07T15:30:50+00:00",
+   "tickers": [
+    "PCAR3",
+    "VALE3"
+   ],
+   "resumo": "As ações do GPA (PCAR3) dispararam no pregão desta quarta-feira (7), repercutindo a notícia de que a Justiça de São Paulo homologou o plano de recuperação extrajudicial da empresa, segundo apurou com exclusividade o Valor Econômico. \nOs papéis do dono da rede Pão de Açúcar regist"
   },
   {
    "fonte": "InvestNews",
@@ -61,19 +262,6 @@
    "publicado": "2026-10-07T15:28:02+00:00",
    "tickers": [],
    "resumo": "Sentença mantém na RE um crédito de R$ 231,7 milhões da varejista de eletroeletrônicos, além de validar adesão de 57,49% dos credores ao plano do GPA"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Entra Petrobras (PETR4) e Sabesp (SBSP3): Planner indica 10 ações para a carteira de outubro",
-   "url": "https://www.moneytimes.com.br/entra-petrobras-petr4-e-sabesp-sbsp3-planner-indica-10-acoes-para-a-carteira-de-outubro-lmrs/",
-   "publicado": "2026-10-07T15:27:13+00:00",
-   "tickers": [
-    "CPFE3",
-    "CSMG3",
-    "PETR4",
-    "SBSP3"
-   ],
-   "resumo": "A Planner realizou dois ajustes na carteira recomendada de ações para outubro. Deixam a seleção as ações da Copasa (CSMG3) e CPFL Energia (CPFE3), dando lugar a Petrobras (PETR4) e Sabesp (SBSP3). Os analistas da casa têm uma visão construtiva para Petrobras, responsável por cerc"
   },
   {
    "fonte": "Valor Investe",
@@ -93,22 +281,11 @@
     "CSNA3",
     "GGBR4",
     "GOAU4",
+    "PCAR3",
     "USIM5",
     "VALE3"
    ],
-   "resumo": "As ações da Vale (VALE3) e das principais empresas dos setores de mineração e siderurgia operam em forte queda em bloco no pregão desta quarta-feira (7). A Vale (VALE3), peso-pesado do Ibovespa, tomba 2,52%, a R$ 68,60, por volta das 12h. \nVeja o movimento das pares: \nCSNA3 (CSN)"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "CSMG3, SBSP3 e PETR4: Veja as ações que o BTG recomenda para surfar em uma nova alta do Ibovespa",
-   "url": "https://www.moneytimes.com.br/csmg3-sbsp3-e-petr4-veja-todas-as-acoes-que-o-btg-recomenda-para-surfar-em-uma-nova-alta-do-ibovespa-apsa/",
-   "publicado": "2026-10-07T15:21:08+00:00",
-   "tickers": [
-    "CSMG3",
-    "PETR4",
-    "SBSP3"
-   ],
-   "resumo": "O movimento de alta do Ibovespa (IBOV) não terminou na última segunda-feira (6), quando o índice saltou 7,70%, diante da percepção de que o senador Flávio Bolsonaro (PL-RJ) se tornou o favorito para vencer a disputa presidencial depois de superar o presidente Luiz Inácio Lula da "
+   "resumo": "As ações da Vale (VALE3) e das principais empresas dos setores de mineração e siderurgia operaram em queda acentuada no pregão desta quarta-feira (7). A Vale, peso-pesado do Ibovespa, registrou desvalorização de 2,3%, cotada a R$ 68,75, empurrando o principal índice de ações da b"
   },
   {
    "fonte": "Suno Noticias",
@@ -117,17 +294,6 @@
    "publicado": "2026-10-07T15:15:03+00:00",
    "tickers": [],
    "resumo": "Depois dos recordes em Wall Street, os mercados hoje têm dois motivos para pisar no freio: o petróleo em alta e a espera por novas pistas sobre os juros americanos. Nesta quarta-feira (7), os investidores acompanham a divulgação da ata da reunião de setembro do Federal Reserve, o"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Petrobras (PETR4) e Prio (PRIO3) estão entre vencedoras de leilão de 7 blocos do pré-sal",
-   "url": "https://www.moneytimes.com.br/petrobras-petr4-e-prio-prio3-estao-entre-vencedoras-de-leilao-de-7-blocos-do-pre-sal-lils/",
-   "publicado": "2026-10-07T15:08:22+00:00",
-   "tickers": [
-    "PETR4",
-    "PRIO3"
-   ],
-   "resumo": "Sete blocos exploratórios de petróleo e gás no pré-sal foram arrematados nesta quarta-feira (7) por empresas como Petrobras (PETR4), Prio (PRIO3), Equinor, Galp, Sinopec e CNOOC, em leilão que não registrou disputas, de acordo com resultados apresentados pela Agência Nacional do "
   },
   {
    "fonte": "InvestNews",
@@ -154,42 +320,12 @@
    "resumo": "O ministro da Fazenda, Dario Durigan, afirmou que a equipe econômica da campanha de Flávio Bolsonaro tem vendido “pastel de vento”, sem mostrar como vai efetivamente chegar nos resultados que almeja. “Tenho dificuldade de entender essa euforia”, disse, se referindo ao comportamen"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Ibovespa pode subir mais 30% após rali eleitoral? BTG vê espaço para novas altas",
-   "url": "https://www.moneytimes.com.br/ibovespa-pode-subir-mais-30-apos-rali-eleitoral-btg-ve-espaco-para-novas-altas-e-aponta-acoes-favoritas-apsa/",
-   "publicado": "2026-10-07T14:44:33+00:00",
-   "tickers": [],
-   "resumo": "O forte rali da Bolsa brasileira após o primeiro turno das eleições pode ainda não ter chegado ao fim. Na avaliação do BTG Pactual, apesar da disparada registrada na segunda-feira (6), o mercado acionário brasileiro segue negociado com desconto em relação à média histórica e aind"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Estrangeiros colocam recorde de R$ 10 bilhões na bolsa após 1º turno",
    "url": "https://investnews.com.br/investimentos/estrangeiros-colocam-recorde-de-r-10-bilhoes-na-bolsa-apos-1o-turno/",
    "publicado": "2026-10-07T14:44:07+00:00",
    "tickers": [],
    "resumo": "O Ibovespa subiu 7,7% na segunda-feira, maior alta em mais de seis anos"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Tarcísio, sobre Flávio mudar Constituição: ‘existem algumas mudanças que são necessárias’",
-   "url": "https://www.moneytimes.com.br/tarcisio-sobre-flavio-mudar-constituicao-existem-algumas-mudancas-que-sao-necessarias/",
-   "publicado": "2026-10-07T14:40:02+00:00",
-   "tickers": [],
-   "resumo": "O governador de São Paulo, Tarcísio de Freitas (Republicanos), afirmou nesta quarta-feira, 7, que mudanças na Constituição são necessárias para viabilizar reformas fiscais, políticas e no Judiciário. Questionado sobre as declarações de Flávio Bolsonaro (PL) a respeito de alteraçõ"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Orizon (ORVR3) é small cap mais recomendada para outubro; veja as favoritas de BTG, XP, Itaú e Santander",
-   "url": "https://www.moneytimes.com.br/orizon-orvr3-small-cap-mais-recomendada-outubro-favoritas-de-btg-xp-itau-santander-mlem/",
-   "publicado": "2026-10-07T14:37:49+00:00",
-   "tickers": [
-    "BMOB3",
-    "JHSF3",
-    "ORVR3",
-    "SMFT3",
-    "YDUQ3"
-   ],
-   "resumo": "As ações da Orizon (ORVR3), mais uma vez, lideram as recomendações das carteiras de small caps para outubro, aparecendo em cinco seleções de corretoras e bancos. Logo atrás surge Smart Fit (SMFT3), com quatro indicações, seguido por Yduqs (YDUQ3), JHSF (JHSF3) e Bemobi (BMOB3), c"
   },
   {
    "fonte": "Valor Investe",
@@ -210,36 +346,6 @@
     "TEPP11"
    ],
    "resumo": "O Tellus Properties FII (TEPP11) apurou resultado de R$ 2,943 milhões em agosto de 2026, equivalente a R$ 0,059 por cota. A movimentação do mês refletiu R$ 4,923 milhões em receitas e R$ 1,980 milhão em despesas. No período, o fundo distribuiu R$ 0,068 por cota aos cotistas. O pa"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "XPCA11 tem prejuízo milionário, mas dividendos entregam retorno de 1,33%",
-   "url": "https://www.suno.com.br/noticias/rendimentos-do-xpca11-prejuizo-agosto/",
-   "publicado": "2026-10-07T13:45:06+00:00",
-   "tickers": [
-    "XPCA11"
-   ],
-   "resumo": "O Fiagro XPCA11 apurou prejuízo líquido de R$ 2,593 milhões em agosto de 2026, o que corresponde a um resultado negativo de R$ 0,0570 por cota e retração de 56% em relação ao mês anterior. O desempenho foi afetado pela remarcação dos papéis ligados à Agrogalaxy, em meio à recuper"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "BTCI11 lucra R$ 11,59 milhões e dividendos entregam retorno de 1,13%",
-   "url": "https://www.suno.com.br/noticias/btci11-lucro-julho-2026-dividendos-2/",
-   "publicado": "2026-10-07T13:35:04+00:00",
-   "tickers": [
-    "BTCI11"
-   ],
-   "resumo": "O fundo imobiliário BTCI11 registrou lucro líquido de R$ 11,59 milhões em julho de 2026, equivalente a R$ 0,116 por cota, segundo o relatório mensal divulgado em agosto. As receitas do período totalizaram R$ 12,59 milhões, ou R$ 0,127 por cota, com a maior parte vinda da carteira"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Renda fixa além do CDI: BTG inclui dívida da Prio (PRIO3) entre os títulos preferidos; veja a lista",
-   "url": "https://www.suno.com.br/noticias/renda-fixa-btg-prio-titulos-outubro-mt/",
-   "publicado": "2026-10-07T13:25:10+00:00",
-   "tickers": [
-    "PRIO3"
-   ],
-   "resumo": "Na renda fixa, uma empresa pode entrar na carteira do investidor sem que ele compre suas ações. É esse caminho que aparece na seleção de títulos incentivados do BTG Pactual para outubro, que passou a incluir uma debênture ligada à Prio (PRIO3), ao lado de papéis de energia, trans"
   },
   {
    "fonte": "InvestNews",
@@ -280,14 +386,6 @@
    "resumo": "Bilionário vê bolha da IA perto de estourar com juros altos e busca por liquidez"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "Após duas sessões em queda, dólar volta a subir com alta do petróleo",
-   "url": "https://www.suno.com.br/noticias/dolar-sobe-com-petroleo-e-piora-externa-apos-rali-eleitoral-go/",
-   "publicado": "2026-10-07T13:08:00+00:00",
-   "tickers": [],
-   "resumo": "Após duas sessões em queda, dólar volta a subir com alta do petróleoApós novo atraso na abertura do pregão na B3, o dólar sobe no mercado à vista e futuro na manhã desta quarta-feira, 7, refletindo a alta do petróleo e a piora do cenário externo, após as fortes quedas nos últimos"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Bolsa tem entrada recorde de capital estrangeiro após 1º turno: por que os ‘gringos’ colocaram R$ 10 bi no Brasil?",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/07/bolsa-tem-entrada-capital-estrangeiro-apos-1o-turno-por-que-os-gringos-colocaram-r-10-bi-no-brasil.ghtml",
@@ -313,14 +411,16 @@
   },
   {
    "fonte": "Valor Investe",
-   "titulo": "Ibovespa cai e dólar tem leve alta com mercado em ‘modo espera’ até 2º turno",
+   "titulo": "Ibovespa fecha em queda com peso da Vale (VALE3) e mercado em 'modo espera'",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/07/ibovespa-e-dolar-hoje-7-de-outubro-de-2026.ghtml",
    "publicado": "2026-10-07T12:07:39+00:00",
    "tickers": [
+    "BBDC4",
     "PCAR3",
+    "PETR4",
     "VALE3"
    ],
-   "resumo": "O Ibovespa opera em queda nesta quarta-feira (7), enquanto o dólar comercial avança na sessão com mercado se acomodando após a forte oscilação da segunda-feira, após o resultado do primeiro turno que colocou Flávio Bolsonaro (PL) à frente de Luiz Inácio Lula da Silva (PT).\nPor vo"
+   "resumo": "O Ibovespa, principal índice de ações brasileiro, encerrou o pregão desta quarta-feira (7) em queda, enquanto o dólar avançou, com mercado se acomodando após a forte oscilação da segunda-feira, após o resultado do primeiro turno que colocou Flávio Bolsonaro (PL) à frente de Luiz "
   },
   {
    "fonte": "InvestNews",
@@ -350,16 +450,6 @@
     "PRIO3"
    ],
    "resumo": "Petrobras e Prio\nA Agência Nacional do Petróleo (ANP) realiza hoje um leilão com mais de 300 blocos para exploração de petróleo e gás. Serão ofertadas 13 áreas no pré-sal, sendo cinco na Bacia de Campos e oito em Santos, sob o regime de partilha e mais de 300 sob o regime de conc"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "B3 (B3SA3) e Alfa Holding (RPAD5) pagam dividendos nesta quarta; veja detalhes",
-   "url": "https://www.suno.com.br/noticias/a-b3-b3sa3-agenda-dividendos-07102026-go/",
-   "publicado": "2026-10-07T11:15:00+00:00",
-   "tickers": [
-    "RPAD5"
-   ],
-   "resumo": "B3 (B3SA3) e Alfa Holding (RPAD5) pagam dividendos nesta quarta; veja detalhesAs empresas B3 (B3SA3) e Alfa Holding (RPAD5) estão entre os destaques corporativos desta quarta-feira (7), pois pagarão hoje dividendos aos seus acionistas. Os rendimentos da B3 somam R$ 0,0759 por açã"
   },
   {
    "fonte": "InvestNews",
@@ -427,7 +517,7 @@
   },
   {
    "fonte": "InvestNews",
-   "titulo": "A moda dos anos 90 voltou a ganhar força. E a Levi’s está vendendo como poucas",
+   "titulo": "Calça de cintura baixa voltou a ganhar força. E a Levi’s está vendendo como poucas",
    "url": "https://investnews.com.br/the-wall-street-journal/nostalgia-anos-90-levis/",
    "publicado": "2026-10-07T08:06:00+00:00",
    "tickers": [],
@@ -466,32 +556,12 @@
    "resumo": "Cerca de R$ 1,3 bilhão ainda está depositado em contas de casas de aposta esportivas, conhecidas popularmente como bets, que estão proibidas de atuar no país devido à medida provisória (MP) editada pelo governo no fim de setembro, segundo o Ministério da Fazenda. O prazo para sol"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "TGAR11 dispara 10,68%: IFIX avança 2,26%, ainda sob embalo da eleição",
-   "url": "https://www.suno.com.br/noticias/tgar11-dispara-1068-ifix-avanca-226-ainda-sob-embalo-da-eleicao/",
-   "publicado": "2026-10-06T22:05:05+00:00",
-   "tickers": [
-    "TGAR11"
-   ],
-   "resumo": "O IFIX encerrou o pregão desta terça-feira (6) aos 3.908,78 pontos, alta de 2,26%, o que representa ganho de 86,46 pontos em relação ao fechamento anterior, de 3.822,32 pontos. Foi a segunda valorização consecutiva após o primeiro turno das eleições presidenciais. Na sessão de se"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Sua empresa exporta e está no Simples? Veja o que considerar antes de migrar para o regime híbrido",
    "url": "https://investnews.com.br/negocios/exportador-simples-regime-hibrido/",
    "publicado": "2026-10-06T21:50:22+00:00",
    "tickers": [],
    "resumo": "Prazo vai até 30 de outubro; opção permite recuperar créditos de IBS e CBS das compras de insumos e outros custos"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Ibovespa tira o pé após rali histórico, mas segura os 205 mil pontos; BBAS3 despenca 6%",
-   "url": "https://www.suno.com.br/noticias/ibovespa-hoje-6-outubro-bbas3-dolar-abaixo-5-mt/",
-   "publicado": "2026-10-06T21:35:06+00:00",
-   "tickers": [
-    "BBAS3"
-   ],
-   "resumo": "Depois da festa, veio uma realização de lucros, mas sem ressaca suficiente para devolver o rali histórico da véspera. O Ibovespa fechou esta terça-feira (6) em queda de 0,52%, aos 205.835,29 pontos, perda de 1.076,60 pontos após ter disparado 7,70% na segunda-feira. Durante o dia"
   },
   {
    "fonte": "InvestNews",
@@ -524,14 +594,6 @@
    "publicado": "2026-10-06T19:59:10+00:00",
    "tickers": [],
    "resumo": "A partir de 1º de novembro, os gestores de FIDCs poderão consultar o Sistema de Informações de Crédito (SCR) do Banco Central, um banco de dados que registra todas as operações de crédito e limites de empréstimos de pessoas físicas e jurídicas no País.   A medida ampliará o acess"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Bets começam a sair do ar: perdeu o prazo de saque? Veja quando o dinheiro será devolvido",
-   "url": "https://www.suno.com.br/noticias/bets-fora-do-ar-devolucao-dinheiro-prazo/",
-   "publicado": "2026-10-06T19:45:06+00:00",
-   "tickers": [],
-   "resumo": "O acesso às bets começa a ser interrompido nesta terça-feira (6), mas quem deixou dinheiro na plataforma não perde automaticamente o saldo. O prazo para solicitar o saque diretamente nos sites e aplicativos terminou às 23h59 de segunda-feira (5). Agora, a devolução dos valores en"
   },
   {
    "fonte": "Brazil Journal",
@@ -768,14 +830,6 @@
    "resumo": "Prio\nA Prio produziu uma média de 192,5 mil barris de óleo equivalente por dia no mês de setembro, o que representa um avanço de cerca de 3,5% na comparação com o resultado de agosto. No acumulado do terceiro trimestre, a produção média foi de 191,6 mil barris por dia.\n\nHBR e Hel"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Com dólar abaixo de R$ 5, vale comprar stablecoins atreladas à moeda americana?",
-   "url": "https://investnews.com.br/investimentos/com-dolar-abaixo-de-r-5-vale-comprar-stablecoins-atreladas-a-moeda-americana/",
-   "publicado": "2026-10-06T11:02:42+00:00",
-   "tickers": [],
-   "resumo": "A resposta, segundo especialistas ouvidos pelo InvestNews, depende do objetivo de cada investidor"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Investidor aguarda novas pesquisas eleitorais e acompanha estratégias de Flávio e Lula",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/06/investidor-aguarda-novas-pesquisas-eleitorais-e-acompanha-estrategias-de-flavio-e-lula.ghtml",
@@ -830,79 +884,6 @@
    "publicado": "2026-10-06T09:00:00+00:00",
    "tickers": [],
    "resumo": "O Ibovespa cravou sua maior alta em seis anos ao fechar na marca inédita dos 206 mil pontos, enquanto o dólar teve sua maior queda desde 2018 após o primeiro turno das eleições. Além da vitória de Flávio Bolsonaro sobre Lula, a reação que fez disparar a bolsa respondeu à nova con"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "‘Range Rover da Temu’: como um carro chinês caiu nas graças de consumidores britânicos",
-   "url": "https://investnews.com.br/the-wall-street-journal/como-os-britanicos-aprenderam-a-gostar-de-carros-chineses-especialmente-de-um-clone-do-range-rover/",
-   "publicado": "2026-10-06T08:07:00+00:00",
-   "tickers": [],
-   "resumo": "O Jaecoo 7, fabricado pela chinesa Chery, foi o veículo mais vendido do Reino Unido em setembro"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "O maior desafio da Âmbar, dos irmãos Batista: combater os gatos de energia no Amazonas",
-   "url": "https://investnews.com.br/negocios/ambar-irmaos-batista-vs-gatos-energia/",
-   "publicado": "2026-10-06T08:00:00+00:00",
-   "tickers": [],
-   "resumo": "Consumidores do país ajudam a bancar as perdas da distribuidora, que promete investir R$ 5,5 bilhões para recuperar as redes"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Mega-Sena 3067 sorteia prêmio acumulado em R$ 92 milhões hoje; veja como apostar",
-   "url": "https://valorinveste.globo.com/loterias/noticia/2026/10/06/mega-sena-3067-sorteio-hoje-veja-como-apostar.ghtml",
-   "publicado": "2026-10-06T03:00:00+00:00",
-   "tickers": [],
-   "resumo": "A Mega-Sena 3066 vai sortear um prêmio estimado em R$ 92 milhões nesta terça-feira (6), a partir das 21h (horário de Brasília), em São Paulo.\nVEJA TAMBÉM: \n- Os números mais sorteados na história Mega-Sena\nNos sorteios realizados às terças e quintas-feiras, as apostas podem ser f"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Do mundo digital para as bancadas: a nova geração de deputados eleitos na casa dos 20 anos",
-   "url": "https://investnews.com.br/economia/eleicoes-jovens-deputados-mais-votados/",
-   "publicado": "2026-10-05T22:41:10+00:00",
-   "tickers": [],
-   "resumo": "Jovens políticos como Lucas Pavanato, Eduarda Campopiano e Ana Elisa amplificam apelo com presença nativa digital"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "OPINIÃO. Quem vai entregar previsibilidade?",
-   "url": "https://braziljournal.com/opiniao-quem-vai-entregar-previsibilidade/",
-   "publicado": "2026-10-05T20:57:45+00:00",
-   "tickers": [],
-   "resumo": "Em 2025, o mercado de capitais brasileiro alcançou o recorde de R$ 963 bilhões em ofertas públicas. Desse total, R$ 493 bilhões vieram da emissão de debêntures, que financiaram empresas de 26 setores da economia. No mesmo período, nenhuma empresa abriu capital no país, em um jeju"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "Adoção da AI nas empresas enfrenta a inércia humana",
-   "url": "https://braziljournal.com/adocao-da-ai-nas-empresas-enfrenta-a-inercia-humana/",
-   "publicado": "2026-10-05T20:51:19+00:00",
-   "tickers": [],
-   "resumo": "Convencer as equipes a adotar AI foi um dos maiores desafios do Magazine Luiza e da CI&#38;T com a nova tecnologia, disseram Frederico Trajano, CEO do Magalu, e Vinicius Martinelli, o vp da empresa de tecnologia. “Cheguei a dizer: não vou substituir um ser humano por AI, vou troc"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Ibovespa supera 200 mil pontos e tem maior alta em 6 anos após vitória de Flávio no 1º turno",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/05/ibovespa-tem-maior-alta-em-6-anos-e-dolar-cai-ao-menor-nivel-desde-2018-apos-vitoria-de-flavio-no-1o-turno.ghtml",
-   "publicado": "2026-10-05T20:48:49+00:00",
-   "tickers": [],
-   "resumo": "A nova configuração política desenhada pelas urnas no domingo sacudiu as expectativas do mercado e provocou uma corrida histórica em direção aos ativos brasileiros. Com a vantagem de Flávio Bolsonaro sobre Lula no primeiro turno e o avanço de bancadas conservadoras na Câmara e no"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Por que algumas ações da bolsa saltaram mais de 20% nesta segunda-feira?",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/10/05/por-que-algumas-acoes-da-bolsa-saltaram-mais-de-20percent-nesta-segunda-feira.ghtml",
-   "publicado": "2026-10-05T20:05:13+00:00",
-   "tickers": [
-    "BPAC11",
-    "CEAB3",
-    "CSAN3",
-    "CYRE3",
-    "LREN3",
-    "MGLU3",
-    "RENT3",
-    "VAMO3"
-   ],
-   "resumo": "As ações de empresas mais sensíveis aos juros dispararam nesta segunda-feira (5), primeiro pregão após o resultado do primeiro turno das eleições.  Magazine Luiza (MGLU3) saltou 24,18%, B3 (B3SA3), 22,6%, Cosan (CSAN3), 23,8%, e BTG Pactual (BPAC11), 22,5%.\nTambém avançaram mais "
   }
  ]
 }
