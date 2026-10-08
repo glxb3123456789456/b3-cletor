@@ -1,7 +1,19 @@
 {
  "fonte": "fatos_fidc_raw",
- "itens": 15,
+ "itens": 32,
  "dados": [
+  {
+   "empresa": "AMAZÔNIA LEGAL IOX FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+   "cnpj": "",
+   "data": "2026-10-08",
+   "assunto": "Outros Comunicados Não Considerados Fatos Relevantes ",
+   "categoria": "Comunicado ao Mercado",
+   "pregao": "",
+   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1342761&cvm=true",
+   "_id": 1342761,
+   "texto": "",
+   "visto_em": "2026-10-08"
+  },
   {
    "empresa": "ROQUEDAL FUNDO DE  INVESTIMENTO EM DIREITOS CREDITÓRIOS",
    "cnpj": "",
@@ -35,7 +47,7 @@
    "pregao": "",
    "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1342433&cvm=true",
    "_id": 1342433,
-   "texto": "",
+   "texto": "NEO CONSIGNADO PRIVADO I - FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA CNPJ/MF nº 63.813.211/0001-63 FATO RELEVANTE A VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA ., instituição com sede na cidade e Estado de São Paulo, na Rua Gilberto Sabino, nº 215, 4º andar, Pinheiros, CEP 05425 -020, inscrita no CNPJ/MF sob o nº 22.610.500/0001 - 88, autorizada a administrar carteiras de valores mobiliários pelo Ato Declaratório d a CVM n.º 14.820, de 8 de janeiro de 2016 (“Administradora”), na qualidade de instituição administradora do NEO CONSIGNADO PRIVADO I - FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA, por sua vez inscrito no CNPJ/MF sob o nº 63.813.211/0001-63 (“Fundo”), vêm, em cumprimento ao disposto na Resolução CVM nº 175/2022, conforme alterada, comunicar aos cotistas do Fundo e ao mercado em geral o seguinte: No dia 29 de setembro de 2026, houve uma liquidação através do arquivo de remessa, gerando uma reversão na PDD do fundo no valor de R$1.003.961,24. Como resultado desse ajuste, o Fundo registrou, na data -base de 29 de setembro de 2026, variação positiva de 5,03% no valor do seu Patrimônio Líquido. A Administradora reafirma seu compromisso com as melhores práticas de governança e transparência, mantendo à disposição dos cotistas os canais habituais de atendimento para quaisquer esclarecimentos adicionais. Sendo o que nos cumpria para o momento, permanecemos à disposição para quaisquer esclarecimentos adicionais que se façam necessários. São Paulo, 07 de outubro de 2026. VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
    "visto_em": "2026-10-08"
   },
   {
@@ -51,42 +63,6 @@
    "visto_em": "2026-10-08"
   },
   {
-   "empresa": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA INCLUSÃO FINANCEIRA PLUS",
-   "cnpj": "",
-   "data": "2026-10-07",
-   "assunto": "",
-   "categoria": "Fato Relevante",
-   "pregao": "",
-   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1342307&cvm=true",
-   "_id": 1342307,
-   "texto": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA INCLUSÃO FINANCEIRA PLUS CNPJ/MF nº 55.255.330/0001-10 FATO RELEVANTE A VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA ., instituição com sede na cidade e Estado de São Paulo, na Rua Gilberto Sabino, nº 215, 4º andar, Pinheiros, CEP 05425 -020, inscrita no CNPJ/MF sob o nº 22.610.500/0001 - 88, autorizada a administrar carteiras de valores mobiliários pelo Ato Declaratório d a CVM n.º 14.820, de 8 de janeiro de 2016 (“Administradora”), na qualidade de instituição administradora do FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA INCLUSÃO FINANCEIRA PLUS , por sua vez inscrito no CNPJ/MF sob o nº 55.255.330/0001-10 (“Fundo”), vêm, em cumprimento ao disposto na Resolução CVM nº 175/2022, conforme alterada, comunicar aos cotistas do Fundo e ao mercado em geral o seguinte: No dia 25/09/2026, foi registrada uma provisão de despesas relativas ao Agente de Cobrança. Como resultado desse ajuste, o Fundo registrou variação negativa de 60,9954% no valor do seu Patrimônio Líquido. A Administradora reafirma seu compromisso com as melhores práticas de governança e transparência, mantendo à disposição dos cotistas os canais habituais de atendimento para quaisquer esclarecimentos adicionais. Sendo o que nos cumpria para o momento, permanecemos à disposição para quaisquer esclarecimentos adicionais que se façam necessários. São Paulo, 07 de outubro de 2026. VÓRTX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-   "visto_em": "2026-10-08"
-  },
-  {
-   "empresa": "XP RETURN I CONSIGNADO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESP LIMITADA",
-   "cnpj": "",
-   "data": "2026-10-07",
-   "assunto": "Outros Comunicados Não Considerados Fatos Relevantes ",
-   "categoria": "Comunicado ao Mercado",
-   "pregao": "",
-   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1342292&cvm=true",
-   "_id": 1342292,
-   "texto": "XP RETURN I FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA CNPJ/MF Nº 53.036.495/0001-75 COMUNICADO A MERCADO AMORTIZAÇÃO DE COTAS SUBORDINADAS JUNIORES Prezados Srs. Cotistas, OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A., inscrita no CNPJ/MF sob o nº 36.113.876/0001-91, na qualidade de Administradora do XP RETURN I FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA, inscrito no CNPJ/MF sob o n.º 53.036.495/0001-75 (“Fundo”), vêm , por meio deste, comunicar aos Cotistas a realização do evento de pagamento de Amortização de Cotas Subordinadas Juniores no dia 07 de outubro de 2026, conforme previsão contida no suplemento de cotas que constitui Anexo ao Regulamento do Fundo. Nesta data, a Administradora do Fundo comunica à B3, por meio de comunicado padrão dessa instituição, o valor de amortização a ser pago. Colocamo-nos à disposição para prestar quaisquer outros esclarecimentos porventura necessários através do e-mail ger1.fundos@oliveiratrust.com.br. Rio de Janeiro, 07 de outubro de 2026. OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. Administradora Valor da Amortização de Rendimentos por cota Valor da Amortização de Principal por cota Valor da Amortização da cota 1,04836124 32,55365401 33,60201525",
-   "visto_em": "2026-10-08"
-  },
-  {
-   "empresa": "XP RETURN I CONSIGNADO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESP LIMITADA",
-   "cnpj": "",
-   "data": "2026-10-07",
-   "assunto": "Outros Comunicados Não Considerados Fatos Relevantes ",
-   "categoria": "Comunicado ao Mercado",
-   "pregao": "",
-   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1342289&cvm=true",
-   "_id": 1342289,
-   "texto": "",
-   "visto_em": "2026-10-08"
-  },
-  {
    "empresa": "PAGALEVE FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS COMERCIAIS DE RESPONSABILIDADE LIMITADA III",
    "cnpj": "",
    "data": "2026-10-07",
@@ -96,6 +72,30 @@
    "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1341778&cvm=true",
    "_id": 1341778,
    "texto": "1 #5191717v2 [ CLASSIFICAÇÃO: PÚBLICA ] COMUNICADO AO MERCADO COM O OBJETIVO DE DIVULGAR A MODIFICAÇÃO DA OFERTA PÚBLICA, SOB O RITO DE REGISTRO AUTOMÁTICO DE DISTRIBUIÇÃO, SOB REGIME MISTO DE COLOCAÇÃO, DE COTAS DA SUBCLASSE SÊNIOR DA 1ª (PRIMEIRA) SÉRIE E DE COTAS DA SUBCLASSE SUBORDINADA MEZANINO DA 1ª (PRIMEIRA) SÉRIE DA CLASSE ÚNICA DO PAGALEVE FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS COMERCIAIS DE RESPONSABILIDADE LIMITADA III, EM DECORRÊNCIA DE ALTERAÇÃO DO REGULAMENTO CNPJ nº 68.511.465/0001-40 A CLASSE ÚNICA DO PAGALEVE FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS COMERCIAIS DE RESPONSABILIDADE LIMITADA III , classe única de fundo de investimento em direitos creditórios, constituída sob a forma de condomínio fechado de natureza especial, com prazo de duração indeterminado, inscrita no Cadastro Nacional da Pessoa Jurídica do Ministério da Fazenda (“CNPJ”) sob o nº 68.511.465/0001- 40 (“Classe” e “Fundo”, respectivamente), gerida pela VERT GESTORA DE RECURSOS FINANCEIROS LTDA. , sociedade devidamente autorizada pela Comissão de Valores Mobiliários (“CVM”) para o exercício profissional de administração de carteiras de valores mobiliários, na categoria de gestor de recursos, nos termos do Ato Declaratório CVM nº 17.249, de 11 de julho de 2019, com sede na cidade de São Paulo, estado de São Paulo, na Rua Cardeal Arcoverde, nº 2.365, 11º andar, CEP 05.407 -003, inscrita no CNPJ sob o nº 31.636.333/0001 -35 (“ Gestora”), e administrada pela VERT DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA. , sociedade devidamente autorizada pela CVM para o exercício profissional de administração de carteiras de valores mobiliários, na categoria de administrador fiduciário, nos termos do Ato Declaratório CVM nº 21.369, de 20 de outubro de 2023, com sede na ci dade de São Paulo, estado de São Paulo, na Rua Cardeal Arcoverde, nº 2.365, 11º andar, CEP 05.407 -003, inscrita no CNPJ sob o nº 48.967.968/0001-18 (“Administradora” e, em conjunto com a Gestora, “ Prestadores de Serviços Essenciais” e, estes em conjunto com a Classe, “ Ofertantes”), em conjunto com o BANCO VOTORANTIM S.A., instituição financeira integrante do sistema de distribuição de valores mobiliários, com sede na cidade de São Paulo, estado de São Paulo, na Avenida das Nações Unidas, nº 14.171, 18º andar, Ebony Tower, Vila Gertrudes, CEP 04794 -000, inscrita no CNPJ sob o nº 59.588.111/0001 -03 (“Coordenador Líder”), comunicam, por meio deste comunicado ao mercado (“Comunicado ao Mercado”), a modificação da oferta pública de distribuição, sob o regime misto de colocação, registrada na CVM em 15 de setembro de 2026, sob o nº CVM/SRE/AUT/FDC/PRI/2026/1551, por meio do rito de registro automático de distribuição, nos termos do artigo 26, inciso VI, alínea \"a\", da Resolução da CVM nº 160, de 13 de julho de 2022, conforme alterada (“ Resolução CVM 160”), de (i) até 250.000.000 (duzentos e cinquenta milhões) cotas da subclasse sênior da 1ª (primeira) série da 1ª (primeira) emissão da Classe (“ Cotas da Subclasse Sênior”), com valor unitário de R$ 1,00 (um real) na 1ª (primeira) data de integralização das Cotas (“Data da 1ª Integralização ”), perfazendo o montante de até R$ 250.000.000,00 2 #5191717v2 [ CLASSIFICAÇÃO: PÚBLICA ] (duzentos e cinquenta milhões de reais); e (ii) até 14.705.882 (quatorze milhões, setecentos e cinco mil, oitocentos e oitenta e duas) cotas da subclasse subordinada mezanino da 1ª (primeira) série da 1ª (primeira) emissão da Classe (“Cotas da Subclasse Mezanino” e, em conjunto com as Cotas da Subclasse Sênior, as “ Cotas”), com valor unitário de R$ 1,00 (um real) na Data da 1ª Integralização, perfazendo o montante de até R$ 14.705.882,00 (quatorze milhões, setecentos e cinco mil, oitocentos e oitenta e dois reais), e, observado o sistema de vasos comunicantes previsto no contrato de distribuição da Oferta, totalizando o montante de até R$ 250.000.000,00 (duzentos e cinquenta milhões de reais) (“Oferta”). Exceto quando especificamente definidos neste Comunicado ao Mercado, os termos aqui utilizados iniciados em letra maiúscula que não estejam aqui definidos terão o significado a eles atribuídos no regulamento do Fundo, o qual inclui o anexo descritivo da Cl asse e o apêndice de cada subclasse (em conjunto, “Regulamento”). MODIFICAÇÃO DA OFERTA EM DECORRÊNCIA DE ALTERAÇÃO DO REGULAMENTO Por este Comunicado ao Mercado, os Prestadores de Serviços Essenciais e o Coordenador Líder informam que o Regulamento foi alterado por meio d a assembleia geral de cotistas da Classe realizada em 02 de outubro de 2026 (“Assembleia”), a qual aprovou, em síntese, as seguintes alterações: (a) alteração da Taxa de Administração, prevista n a Cláusula 6.1 do Anexo I do Regulamento, que correspondia a 0,20% (vinte centésimos por cento) ao ano sobre o Patrimônio Líquido da Classe, observado o valor mínimo mensal de R$ 16.000,00 (dezesseis mil reais), reduzido para R$ 10.000,00 (dez mil reais) nos 6 (seis) primeiros meses, e passa a cor responder aos segui",
+   "visto_em": "2026-10-07"
+  },
+  {
+   "empresa": "RESQ II FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NP",
+   "cnpj": "",
+   "data": "2026-10-06",
+   "assunto": "",
+   "categoria": "Fato Relevante",
+   "pregao": "",
+   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1341623&cvm=true",
+   "_id": 1341623,
+   "texto": "qitech.com.br Av. Rebouças, 2.942, 7º - 12º andar – Parte I Pinheiros - CEP 05402-500 São Paulo - SP RESQ II FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS CNPJ nº 27.944.627/0001-57 (“FUNDO”) FATO RELEVANTE A QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. , instituição financeira autorizada pela CVM para o exercício profissional de administração de carteiras de valores mobiliários, por meio do Ato Declaratório nº 1.498, de 28 de agosto de 1990, com sede na cidade de São Paulo, Estado de São Paulo, Avenida Rebouças, 2.942, do 7º ao 12º andares – Parte I, Pinheiros, CEP: 05.402 -500, inscrita no CNPJ sob o nº 62.285.390/0001 -40, na qualidade de administradora fiduciária do FUNDO (“Administradora”), vem, por meio deste, e nos termos do artigo 64, § 3º, VI, da Resolução CVM nº 175 de 23 de dezembro de 2022 (“Res. CVM 175/22”), comunicar aos cotistas e ao mercado em geral o quanto segue: CISÃO PARCIAL Nos termos da Assembleia Geral Extraordinária de Cotistas (“AGC”) do FUNDO, realizada no dia 30 de setembro de 2026, os cotistas aprovaram a realização de uma cisão parcial do FUNDO (“Cisão”), a qual impactará o ativo e o passivo do FUNDO, sendo que a parcela cindida será incorporada pelo RESQ IV FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS , inscrito no CNPJ/MF sob o nº 69.373.797/0001-79. A Cisão deverá ser realizada no fechamento do expediente bancário do dia 02 de outubro de 2026. Informações adicionais poderão ser obtidas junto à Administradora, pelo e -mail: administracao.fundos@qitech.com.br. São Paulo, 30 de setembro de 2026. QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. Administradora",
+   "visto_em": "2026-10-07"
+  },
+  {
+   "empresa": "LAW FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS MULTISSETORIAL",
+   "cnpj": "",
+   "data": "2026-10-06",
+   "assunto": "",
+   "categoria": "Fato Relevante",
+   "pregao": "",
+   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1341589&cvm=true",
+   "_id": 1341589,
+   "texto": "",
    "visto_em": "2026-10-07"
   },
   {
@@ -119,7 +119,7 @@
    "pregao": "",
    "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1341490&cvm=true",
    "_id": 1341490,
-   "texto": "",
+   "texto": "FS FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS NAO PADRONIZADOS CNPJ n° 21.397.569/0001-02 Série ÚNICA - 1 (“Fundo”) FATO RELEVANTE A QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. , inscrita no CNPJ sob o nº 62.285.390/0001-40, com sede na Avenida Rebouças, nº 2.942, 7º ao 12º andar, Parte I, cidade e Estado de São Paulo, instituição administradora (“Administradora”) do FUNDO, vem comunicar aos cotistas e ao mercado em geral que em razão do aumento no provisionamento para devedores duvidosos (PDD) do FUNDO, o valor da cota ÚNICA - 1 apresentou variação negativa de 19,80% em 22 de Setembro de 2026. Esclarece-se que a variação no valor da cota ora informada desconsidera os efeitos de movimentações de passivo do FUNDO, tais como resgates, aplicações e amortizações. Informações adicionais poderão ser obtidas junto à Administradora, pelo e-mail: enquadramento@qitech.com.br. São Paulo, 29 de Setembro de 2026. QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. qitech.com.br Av. Rebouças, nº 2.942, 7º ao 12º andar, Parte I Jardim Paulistano - CEP 05402-500 SP - São Paulo",
    "visto_em": "2026-10-07"
   },
   {
@@ -181,6 +181,210 @@
    "_id": 1341240,
    "texto": "Av. Água Verde, 1413 - Sala 801 | Curitiba - CEP: 80620-200 | Tel. +55 (41) 3122 - 7300 I e -mail: atendimento@hemeradtvm.com.br I Ouvidoria: Tel. 0800 326 0953 / ouvidoria@hemeradtvm.com.br h e m e r a d t v m . c o m . b r FATO RELEVANTE A HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA . (“ADMINISTRADORA”), com sede na cidade Curitiba, e Estado do Paraná, na Av. Água Verde, nº 1413, Loja 801, 8º andar, Cond. Podolan, Água Verde, CEP 80620200, inscrita no CNPJ/MF sob o nº 39.669.186/0001-01, devidamente habilitada pela CVM para prestar os serviços de administrador de carteira de valores mobiliários, por meio do Ato Declaratório nº 19.131, de 1º de outubro de 2021 neste ato, representada na forma do seu Contrato Social, na qualidade de Administradora do FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS MULTISSETORIAL PRÉVIA , inscrito no CNPJ/MF sob nº 11.823.118/0001-36 (“Fundo”), vem, em atendimento ao disposto no art. 64, da Resolução CVM 175/2022, conforme alterada, divulgar Fato Relevante aos cotistas do Fundo e ao mercado em geral, para informar o seguinte: Conforme Ato do Administrador do Fundo, datado de 06 de outubro de 2026, foi realizada a emissão da 18ª Série de Cotas Seniores da classe única (“Cotas Seniores da 18ª Série”), nos termos do seu Regulamento e de acordo com as características constantes no respectivo suplemento de emissão, na forma de Anexo I do referido Ato do Administrador do Fundo. Sem mais para o momento, colocamo-nos à disposição para quaisquer esclarecimentos adicionais. Curitiba, 06 de outubro de 2026. HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
    "visto_em": "2026-10-07"
+  },
+  {
+   "empresa": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS TM4",
+   "cnpj": "",
+   "data": "2026-10-06",
+   "assunto": "",
+   "categoria": "Fato Relevante",
+   "pregao": "",
+   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1340730&cvm=true",
+   "_id": 1340730,
+   "texto": "",
+   "visto_em": "2026-10-06"
+  },
+  {
+   "empresa": "GAVEA REAL FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+   "cnpj": "",
+   "data": "2026-10-05",
+   "assunto": "",
+   "categoria": "Fato Relevante",
+   "pregao": "",
+   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1340631&cvm=true",
+   "_id": 1340631,
+   "texto": "qitech.com.br Av. Rebouças, nº 2942 – 7° ao 12º andar Pinheiros - CEP 05402-500 São Paulo - SP GAVEA REAL FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS CNPJ Nº 54.639.537/0001-25 (“FUNDO”) FATO RELEVANTE A QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A ., instituição financeira com sede na Av. Rebouças, nº 2942 – 7° ao12º andar, Pinheiros, cidade e Estado de São Paulo , inscrita no CNPJ sob o nº 62.285.390/0001 -40, devidamente autorizada pela Comissão de Valores Mobiliários (“CVM”) à prestação dos serviços de administração de carteira de títulos e valores mobiliários, nos termos do Ato Declaratório CVM nº 1.498, expedido em 28 de agosto de 1990, na qualidade de administradora fiduciária do FUNDO (“Administradora”), vem, por meio deste, e nos termos do artigo 64, § 3º, IX, da Resolução CVM nº 175 de 23 de dezembro de 2022 (“ Res. CVM 175/22”), comunicar aos cotistas e ao mercado em geral o quanto segue: EMISSÃO DE COTAS DE CLASSE FECHADA DO FUNDO Nos termos da Assembleia Geral Extraordinária de Cotistas (“ AGC”) do FUNDO, realizada no dia 01 de outubro de 2026, os cotistas aprovaram a 5ª ( quinta) emissão de cotas da subclasse Subordinada Junior do FUNDO. Informações adicionais poderão ser obtidas junto à Administradora, pelo e -mail: administracao.fundos@qitech.com.br. São Paulo, 05 de outubro de 2026. QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. Administradora",
+   "visto_em": "2026-10-06"
+  },
+  {
+   "empresa": "ATLANTIS FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+   "cnpj": "",
+   "data": "2026-10-05",
+   "assunto": "",
+   "categoria": "Fato Relevante",
+   "pregao": "",
+   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1340628&cvm=true",
+   "_id": 1340628,
+   "texto": "",
+   "visto_em": "2026-10-06"
+  },
+  {
+   "empresa": "DFX CAPITAL FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
+   "cnpj": "",
+   "data": "2026-10-05",
+   "assunto": "",
+   "categoria": "Fato Relevante",
+   "pregao": "",
+   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1340608&cvm=true",
+   "_id": 1340608,
+   "texto": "FATO RELEVANTE A APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. , inscrita no Cadastro Nacional da Pessoa Jurídica do Ministério da Fazenda (“CNPJ/MF”) sob o nº 13.486.793/0001 -42, situada na Avenida Dra. Ruth Cardoso, n 8501, Pavimento 1, Conjunto 1, Pinheiros, CEP 05425 -070, no município e no Estado de São Paulo , na cidade de São Paulo, Estado de São Paulo (“Administradora”), instituição administradora do DFX CAPITAL FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA, inscrito no CNPJ/MF sob o nº 68.651.064/0001-96 (“Fundo”) vem informar aos cotistas e ao mercado em geral que a HIVE CAPITAL SOLUÇÕES ESTRUTURADAS LTDA., sociedade inscrita no CNPJ/MF sob o nº 53.142.026/0001 -30, que exerce a atividade de consultor ia especializada do Fundo (“Consultora”) renunciou ao recebimento integral da Taxa de Consultoria Especializada a que faz jus, prevista no Artigo 46 do Anexo A – Anexo Descritivo de Cotas do Regulamento do Fundo (\" Taxa de Consultoria \") no perí odo compreendido entre 01.09.2026, inclusive, e 28.02.2027, inclusive (\"Período de Renúncia\"). No Período de Renúncia , a Taxa de Consultoria não será provisionada nem apropriada pelo Fundo , tampouco paga à Consultora. APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+   "visto_em": "2026-10-06"
+  },
+  {
+   "empresa": "PLATA I FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS MULTISSEGMENTOS",
+   "cnpj": "",
+   "data": "2026-10-05",
+   "assunto": "",
+   "categoria": "Fato Relevante",
+   "pregao": "",
+   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1340288&cvm=true",
+   "_id": 1340288,
+   "texto": "Av. Água Verde, 1413 - Sala 801 | Curitiba - CEP: 80620-200 | Tel. +55 (41) 3122 - 7300 I e -mail: atendimento@hemeradtvm.com.br I Ouvidoria: Tel. 0800 326 0953 / ouvidoria@hemeradtvm.com.br h e m e r a d t v m . c o m . b r FATO RELEVANTE A HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILI ÁRIOS LTDA . (“ADMINISTRADORA”), com sede na cidade Curitiba, e Estado do Paraná, na Av. Água Verde, nº 1413, Loja 801, 8º andar, Cond. Podolan, Água Verde, CEP 80620200, inscrita no CNPJ/MF sob o nº 39.669.186/0001-01, devidamente habilitada pela CVM para prestar os serviços de administrador de carteira de valores mobiliários, por meio do Ato Declaratório nº 19.131, de 1º de outubro de 2021 neste ato, representada na forma do seu Contrato Social, na qualidade de Administradora do PLATA I FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS MULTISSEGMENTOS , inscrito no CNPJ/MF sob nº 17.198.574/0001-19 (“Fundo”), vem divulgar Fato Relevante aos cotistas do Fundo e ao mercado em geral, para informar o seguinte: Conforme Ato do Administrador do Fundo , datado de 02 de outubro de 202 6, foi realizada (i) a Emissão da 11ª Série de Cotas Seniores da Classe única (“Cotas Seniores da 11ª Série”), nos termos do seu Regulamento, e de acordo com as características constantes em seu suplemento de emissão, na forma do Anexo I, respectivamente, do referido Ato do Administrador do Fundo. Sem mais para o momento, colocamo-nos à disposição para quaisquer esclarecimentos adicionais. Curitiba, 05 de outubro de 2026. HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+   "visto_em": "2026-10-06"
+  },
+  {
+   "empresa": "WORKCAP AGRO FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA",
+   "cnpj": "",
+   "data": "2026-10-05",
+   "assunto": "",
+   "categoria": "Fato Relevante",
+   "pregao": "",
+   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1340284&cvm=true",
+   "_id": 1340284,
+   "texto": "",
+   "visto_em": "2026-10-06"
+  },
+  {
+   "empresa": "VINCI MAV IV - FIAGRO - DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA",
+   "cnpj": "",
+   "data": "2026-10-05",
+   "assunto": "Outros Comunicados Não Considerados Fatos Relevantes ",
+   "categoria": "Comunicado ao Mercado",
+   "pregao": "",
+   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1339920&cvm=true",
+   "_id": 1339920,
+   "texto": "",
+   "visto_em": "2026-10-05"
+  },
+  {
+   "empresa": "FACT LAW FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS NAO-PADRONIZADOS",
+   "cnpj": "",
+   "data": "2026-10-02",
+   "assunto": "",
+   "categoria": "Fato Relevante",
+   "pregao": "",
+   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1339319&cvm=true",
+   "_id": 1339319,
+   "texto": "qitech.com.br Av. Rebouças, nº 2942 – 7° ao 12º andar Pinheiros - CEP 05402-500 São Paulo - SP FACT LAW FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS CNPJ N° 27.944.660/0001-87 (“FUNDO”) FATO RELEVANTE A QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A ., instituição financeira com sede na Av. Rebouças, nº 2942 – 7° ao12º andar, Pinheiros, cidade e Estado de São Paulo , inscrita no CNPJ sob o nº 62.285.390/0001 -40, devidamente autorizada pela Comissão de Valores Mobiliários (“CVM”) à prestação dos serviços de administração de carteira de títulos e valores mobiliários, nos termos do Ato Declaratório CVM nº 1.498, expedido em 28 de agosto de 1990, na qualidade de administradora fiduciária do FUNDO (“Administradora”), vem, por meio deste, e nos termos do artigo 64, § 3º, IX, da Resolução CVM nº 175 de 23 de dezembro de 2022 (“ Res. CVM 175/22”), comunicar aos cotistas e ao mercado em geral o quanto segue: EMISSÃO DE COTAS DE CLASSE FECHADA DO FUNDO Nos termos da Assembleia Geral Extraordinária de Cotistas (“ AGC”) do FUNDO, realizada no dia 01 de outubro de 2026, os cotistas aprovaram a 12ª (décima) emissão de cotas da classe única do FUNDO. Informações adicionais poderão ser obtidas junto à Administradora, pelo e -mail: administracao.fundos@qitech.com.br. São Paulo, 02 de outubro de 2026. QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. Administradora",
+   "visto_em": "2026-10-03"
+  },
+  {
+   "empresa": "VALOREM FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS  MULTISETORIAL RESPONSABILIDADE LIMITADA",
+   "cnpj": "",
+   "data": "2026-10-02",
+   "assunto": "",
+   "categoria": "Fato Relevante",
+   "pregao": "",
+   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1339316&cvm=true",
+   "_id": 1339316,
+   "texto": "qitech.com.br Av. Rebouças, nº 2942 – 7° ao 12º andar Pinheiros - CEP 05402-500 São Paulo - SP VALOREM FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS MULTISETORIAL - RESPONSABILIDADE LIMITADA CNPJ nº 17.468.142/0001-80 (“FUNDO”) FATO RELEVANTE A QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A ., instituição financeira com sede na Av. Rebouças, nº 2942 – 7° ao12º andar, Pinheiros, cidade e Estado de São Paulo , inscrita no CNPJ sob o nº 62.285.390/0001 -40, devidamente autorizada pela Comissão de Valores Mobiliários (“CVM”) à prestação dos serviços de administração de carteira de títulos e valores mobiliários, nos termos do Ato Declaratório CVM nº 1.498, expedido em 28 de agosto de 1990, na qualidade de administradora fiduciária do FUNDO (“Administradora”), vem, por meio deste, e nos termos do artigo 64, § 3º, IX, da Resolução CVM nº 175 de 23 de dezembro de 2022 (“ Res. CVM 175/22”), comunicar aos cotistas e ao mercado em geral o quanto segue: EMISSÃO DE COTAS DE CLASSE FECHADA DO FUNDO Nos termos da Assembleia Geral Extraordinária de Cotistas (“ AGC”) do FUNDO, realizada no dia 25 de setembro de 2026, os cotistas aprovaram a 1ª (primeira) emissão de cotas da 31ª (trigésima- primeira) série da subclasse Júnior e a 1ª (primeira) emissão de cotas da XXIII (vigésima -terceira) série da subclasse Mezanino do FUNDO. Informações adicionais poderão ser obtidas junto à Administradora, pelo e -mail: administracao.fundos@qitech.com.br. São Paulo, 02 de dezembro de 2026. QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. Administradora",
+   "visto_em": "2026-10-03"
+  },
+  {
+   "empresa": "JC DIVERSIFICADO III FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS NAO-PADRONIZADOS",
+   "cnpj": "",
+   "data": "2026-10-02",
+   "assunto": "",
+   "categoria": "Fato Relevante",
+   "pregao": "",
+   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1339304&cvm=true",
+   "_id": 1339304,
+   "texto": "JC DIVERSIFICADO III FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS NAO-PADRONIZADOS CNPJ n° 29.109.350/0001-72 Série UNICA - 1 (“Fundo”) FATO RELEVANTE A QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. , inscrita no CNPJ sob o nº 62.285.390/0001-40, com sede na Avenida Rebouças, nº 2.942, 7º ao 12º andar, Parte I, cidade e Estado de São Paulo, instituição administradora (“Administradora”) do FUNDO, vem comunicar aos cotistas e ao mercado em geral que em razão da variação de ativos do FUNDO, o valor da cota UNICA - 1 apresentou variação negativa de 11,64% em 17 de Setembro de 2026. Esclarece-se que a variação no valor da cota ora informada desconsidera os efeitos de movimentações de passivo do FUNDO, tais como resgates, aplicações e amortizações. Informações adicionais poderão ser obtidas junto à Administradora, pelo e-mail: enquadramento@qitech.com.br. São Paulo, 24 de Setembro de 2026. QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. qitech.com.br Av. Rebouças, nº 2.942, 7º ao 12º andar, Parte I Jardim Paulistano - CEP 05402-500 SP - São Paulo",
+   "visto_em": "2026-10-03"
+  },
+  {
+   "empresa": "VALORIZA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+   "cnpj": "",
+   "data": "2026-10-02",
+   "assunto": "",
+   "categoria": "Fato Relevante",
+   "pregao": "",
+   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1339220&cvm=true",
+   "_id": 1339220,
+   "texto": "VALORIZA I FUNDO DE INVESTIMENTO NAS CADEIAS PRODUTIVAS DO AGRONEGÓCIO RESPONSABILIDADE LIMITADA CNPJ n° 52.093.999/0001-64 Série SUBORDINADA - 1 (“Fundo”) FATO RELEVANTE A QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. , inscrita no CNPJ sob o nº 62.285.390/0001-40, com sede na Avenida Rebouças, nº 2.942, 7º ao 12º andar, Parte I, cidade e Estado de São Paulo, instituição administradora (“Administradora”) do FUNDO, vem comunicar aos cotistas e ao mercado em geral que em razão do aumento no provisionamento para devedores duvidosos (PDD) do FUNDO, o valor da cota SUBORDINADA - 1 apresentou variação negativa de 20,66% em 18 de Setembro de 2026. Esclarece-se que a variação no valor da cota ora informada desconsidera os efeitos de movimentações de passivo do FUNDO, tais como resgates, aplicações e amortizações. Informações adicionais poderão ser obtidas junto à Administradora, pelo e-mail: enquadramento@qitech.com.br. São Paulo, 25 de Setembro de 2026. QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. qitech.com.br Av. Rebouças, nº 2.942, 7º ao 12º andar, Parte I Jardim Paulistano - CEP 05402-500 SP - São Paulo",
+   "visto_em": "2026-10-03"
+  },
+  {
+   "empresa": "AERIS FIDC - INDÚSTRIA E COMÉRCIO - RESPONSABILIDADE LIMITADA",
+   "cnpj": "",
+   "data": "2026-10-02",
+   "assunto": "",
+   "categoria": "Fato Relevante",
+   "pregao": "",
+   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1339218&cvm=true",
+   "_id": 1339218,
+   "texto": "AERIS FIDC - INDUSTRIA E COMERCIO - RESPONSABILIDADE LIMITADA CNPJ n° 54.349.601/0001-33 (“Fundo”) FATO RELEVANTE Data-base de monitoramento: 24 de Setembro de 2026 A QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. (“Administradora”), inscrita no CNPJ sob o nº 62.285.390/0001-40, com sede na Avenida Rebouças, nº 2.942, 7º ao 12º andar, Parte I, cidade e Estado de São Paulo, na qualidade de instituição administradora do FUNDO, vem, por meio deste, comunicar aos seus cotistas e demais interessados que na data base de monitoramento o Fundo passou do Regime Geral, instituído na Seção II, art. 17, da Lei 14.754/2023, sob o qual o IR é recolhido periodicamente (“come-cotas”), nos meses de maio e novembro, para o Regime Específico dos Fundos Não Sujeitos à Tributação Periódica, previsto na Seção III, arts. 18 e 24, da mesma Lei, sob o qual o IR passa a ser recolhido exclusivamente por ocasião da distribuição de rendimentos, da amortização ou do resgate de cotas. Informações adicionais poderão ser obtidas junto à Administradora, pelo e-mail: enquadramento@qitech.com.br. São Paulo, 02 de Outubro de 2026. QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. qitech.com.br Av. Rebouças, nº 2.942, 7º ao 12º andar, Parte I Jardim Paulistano - CEP 05402-500 SP - São Paulo",
+   "visto_em": "2026-10-03"
+  },
+  {
+   "empresa": "CASA 5 FUNDO DE INVESTIMENTO EM COTAS DE FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+   "cnpj": "",
+   "data": "2026-10-02",
+   "assunto": "",
+   "categoria": "Fato Relevante",
+   "pregao": "",
+   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1339216&cvm=true",
+   "_id": 1339216,
+   "texto": "CASA 5 FUNDO DE INVESTIMENTO EM COTAS DE FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS CNPJ n° 31.770.515/0001-02 (“Fundo”) FATO RELEVANTE Data-base de monitoramento: 28 de Setembro de 2026 A QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. (“Administradora”), inscrita no CNPJ sob o nº 62.285.390/0001-40, com sede na Avenida Rebouças, nº 2.942, 7º ao 12º andar, Parte I, cidade e Estado de São Paulo, na qualidade de instituição administradora do FUNDO, vem, por meio deste, comunicar aos seus cotistas e demais interessados que na data base de monitoramento o fundo apresentou o desenquadramento tributário na alocação mínima em ativos elegíveis, nos termos da Lei nº 14.754/2023 em vigor, ficando sujeito às regras previstas na Seção II, Do Regime Geral dos Fundos, Art. 17 desta Lei. Informações adicionais poderão ser obtidas junto à Administradora, pelo e-mail: enquadramento@qitech.com.br. São Paulo, 29 de Setembro de 2026. QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. qitech.com.br Av. Rebouças, nº 2.942, 7º ao 12º andar, Parte I Jardim Paulistano - CEP 05402-500 SP - São Paulo",
+   "visto_em": "2026-10-03"
+  },
+  {
+   "empresa": "PBL CREDITOS JUDICIAIS FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA",
+   "cnpj": "",
+   "data": "2026-10-02",
+   "assunto": "Outros Comunicados Não Considerados Fatos Relevantes ",
+   "categoria": "Comunicado ao Mercado",
+   "pregao": "",
+   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1339214&cvm=true",
+   "_id": 1339214,
+   "texto": "Rio de Janeiro, 02 de outubro de 2026. Aos Cotistas do PBL Créditos Judiciais Fundo de Investimento em Direitos Creditórios de Responsabilidade Limitada, inscrito no CNPJ sob o nº 61.670.371/0001-75 (“Fundo”) Prezados, Em atenção às deliberações aprovadas pelos cotistas em Assembleia Geral de Cotistas realizada em 18 de setembro de 2026 , informamos que a transferência da gestão do Fundo para a nova gestora, inicialmente prevista para ocorrer em 05 de outubro de 2026, não será implementada nesta data. No curso da implementação das deliberações aprovadas, verificou -se a impossibilidade de conclusão das etapas necessárias à formalização da substituição do atual prestador de serviço essencial, em razão de questões decorrentes de procedimentos internos de análise e aprovação aplicáveis à operação. Em virtude disso, não foi possível concluir a integração operacional necessária para a efetivação da transferência da gestão na data originalmente prevista. Dessa forma, permanecem inalteradas a atual estrutura de prestação de serviços do Fundo e as responsabilidades dos prestadores atualmente contratados. Permanecemos à disposição. Atenciosamente, GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A. Docusign Envelope ID: 5DA28396-8B85-85EE-81E2-0C6B8AA42224",
+   "visto_em": "2026-10-03"
+  },
+  {
+   "empresa": "F3 KATHARISTÍS FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+   "cnpj": "",
+   "data": "2026-10-02",
+   "assunto": "",
+   "categoria": "Fato Relevante",
+   "pregao": "",
+   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1339210&cvm=true",
+   "_id": 1339210,
+   "texto": "",
+   "visto_em": "2026-10-03"
+  },
+  {
+   "empresa": "LIVE FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS MULTISEGMENTOS",
+   "cnpj": "",
+   "data": "2026-10-02",
+   "assunto": "",
+   "categoria": "Fato Relevante",
+   "pregao": "",
+   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1339168&cvm=true",
+   "_id": 1339168,
+   "texto": "LIVE FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS MULTISEGMENTOS CNPJ/ME nº 23.200.278/0001-08 FATO RELEVANTE Variação da Rentabilidade da Subclasse Subordinada Ordinária A FINAXIS CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. , instituição financeira devidamente autorizada pela CVM para o exercício profissional de administração de carteiras de valores mobiliários, na categoria de administrador fiduciário, nos termos do Ato Declaratório CVM nº 6.547, de 18 de outubro de 2001, co m sede na cidade de São Paulo, Estado de São Paulo, na Avenida Paulista, nº 1.842, Torre Norte, térreo, Loja 08, Bela Vista, CEP 01310-923, inscrita no CNPJ sob o nº 03.317.692/0001-94, na qualidade de instituição administradora (\"Administradora\") e a PETRA CAPITAL GESTÃO DE INVESTIMENTOS LTDA., sociedade devidamente autorizada pela CVM para o exercício profissional de administração de carteiras de valores mobiliários, na categoria de gestor de recursos, nos termos do Ato Declaratório CVM nº 9.664, de 28 de dezembro de 2007, com sede na cidade d e São Paulo, Estado de São Paulo, na Avenida Paulista, nº 1.842, Torre Norte, térreo, loja 08, Sala Petra, Bela Vista, CEP 01310 -200, inscrita no CNPJ sob o nº 09.204.714/0001-96, na qualidade de instituição gestora (“Gestora”) , em conjunto, na qualidade de Prestadores de Serviços Essenciais do LIVE FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS MULTISEGMENTOS , inscrito no CNPJ/MF sob o nº 23.200.278/0001-08(“Fundo”), em atendimento ao disposto na Resolução CVM Nº 175, de 23 de dezembro de 2022, vem comunicar aos cotistas e ao mercado em geral que as Cotas Subordinadas Ordinárias do Fundo apresent aram uma alta de 21 ,93% em sua rentabilidade diária, observando a carteira do dia 23 de setembro de 2026, em comparação com a carteira do dia 22 de setembro de 202 6, decorrente do impacto da variação apresentada pelo PACIFIC FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA, CNPJ nº 34.475.959/0001-03, que representa 33,87% do Fundo. Adicionalmente, informamos que a Administradora e a Gestora do Fundo se encontram à disposição para prestar os esclarecimentos adicionais. São Paulo, 02 de outubro de 2026. FINAXIS CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. PETRA CAPITAL GESTÃO DE INVESTIMENTOS LTDA.",
+   "visto_em": "2026-10-03"
+  },
+  {
+   "empresa": "CAMINHO NOVO RECEBÍVEIS COMERCIAIS FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESP LIMITADA",
+   "cnpj": "",
+   "data": "2026-10-02",
+   "assunto": "Esclarecimentos de consulta B3 / CVM",
+   "categoria": "Comunicado ao Mercado",
+   "pregao": "",
+   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1339164&cvm=true",
+   "_id": 1339164,
+   "texto": "FOI DISPENSADA DIVULGAÇÃO DE PROSPECTO E DA LÂMINA DA OFERTA PARA A REALIZAÇÃO DESTA OFERTA COMUNICADO AO MERCADO ALTERAÇÃO DO CRONOGRAMA DA OFERTA PÚBLICA DE DISTRIBUIÇÃO DA 1ª (PRIMEIRA) EMISSÃO, EM SÉRIE ÚNICA, DAS COTAS SENIORES DA CLASSE ÚNICA DO CAMINHO NOVO RECEBÍVEIS COMERCIAIS FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS – RESPONSABILIDADE LIMITADA CNPJ nº 68.247.137/0001-89 (“Fundo”) Administrado por QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. Avenida Rebouças nº 2.942, 7º ao 12º andar, Parte I, Pinheiros, CEP 05.402-500, São Paulo/SP CNPJ nº 62.285.390/0001-40 Gerido por BRAVE GESTORA DE RECURSOS LTDA. Avenida Rebouças nº 2.942, 7º ao 12º andar, Parte I, Pinheiros, CEP 05.402-500, São Paulo/SP CNPJ nº 62.285.390/0001-40 CÓDIGO ISIN DAS COTAS SENIORES: BR0T1QCTF010 REGISTRO AUTOMÁTICO DAS COTAS SENIORES EFETIVADO NA CVM SOB O Nº CVM/SRE/AUT/FDC/PRI/2026/1452, NA DATA DE 27 DE AGOSTO DE 2026 O CAMINHO NOVO RECEBÍVEIS COMERCIAIS FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA, fundo de investimento em direitos creditórios inscrito no Cadastro Nacional da Pessoa Jurídica do Ministério da Fazenda (“CNPJ”) sob o nº 68.247.137/0001-89, regido pela Resolução CVM nº 175, de 23 de dezembro de 2022, conforme alterada, em especial pelo seu Anexo Normativo II, e por seu regulamento (“Fundo” e “Regulamento”, respectivamente), nesta data administrado pela QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. , instituição financeira autorizada pela CVM para o exercício profissional de administração de carteiras de valores mobiliários, por meio do Ato Declaratório nº 1.498, de 28 de agosto de 1990, com sede na cidade de São Paulo, Estado de São Paulo, na Avenid a Rebouças nº 2.942, 7º ao 12º andar, FOI DISPENSADA DIVULGAÇÃO DE PROSPECTO E DA LÂMINA DA OFERTA PARA A REALIZAÇÃO DESTA OFERTA Parte I, Pinheiros, CEP 05.402 -500, inscrita no CNPJ sob o nº 62.285.390/0001 -40 (“Nova Administradora”) e gerido pela BRAVE GESTORA DE RECURSOS LTDA. , sociedade limitada, com sede na cidade de São Paulo, estado de São Paulo, na Rua Olimpíadas, nº 194/200, conjunto 81, Vila Olímpia, CEP 04.551 -000, inscrita no CNPJ sob o nº 35.704.148/0001-91, devidamente autorizada pela CVM para o exercício da atividad e de administração de carteiras de títulos e valores mobiliários, nos termos do Ato Declaratório CVM nº 17.918, de 16 de junho de 2020 (“Gestora”), em conjunto com o UBS BB CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS S.A. , instituição financeira pertencente ao grupo UBS BB Serviços de Assessoria Financeira e Participações S.A. e integrante do sistema de distribuição de valores mobiliários, com sede na cidade de São Paulo, Estado de São Paulo, na Rua Leopoldo Couto Magalhães Júnior, nº 700, 4º andar (parte), Itaim Bibi, CEP 04.42 -200, inscrita no CNPJ sob o nº 02.819.125/0001 -73, na qualidade de coordenador líder da Oferta (“Coordenador Líder ”), em complemento ao comunicado ao mercado de modificação da oferta divulgado em 28 de setembro de 2026 (“ Comunicado de Modificação da Oferta ”), COMUNICAM, nesta data, a modificação da Oferta (abaixo definida). A presente oferta pública de distribuição (“ Oferta”) tem por objeto 100.000 (cem mil) cotas seniores, nominativas e escriturais (“Cotas Seniores”), da 1ª (primeira) emissão, em série única, do Fundo (“Emissão”), ao preço unitário de emissão de R$1.000,00 (um mil reais), perfazendo o montante total de R$100.000.000,00 (cem milhões de reais). A Oferta é destinada exclusivamente a investidores profissionais e realizada sob o rito de registro automático, em regime de garantia firme de colocação pelo Coordenador Líder. 1. RENÚNCIA AO DIREITO DE DESISTÊNCIA Na presente data, o Coordenador Líder recebeu comunicação do único investidor profissional que havia formalmente aderido à Oferta, o qual, após tomar ciência da modificação da Oferta informada por meio do Comunicado de Modificação da Oferta divulgado na data de 28 de setembro de 2026, confirmou a manutenção de sua adesão à Oferta e declarou expressamente que não exercerá o direito de desistência previsto no artigo 69, parágrafo 1º, da Resolução da CVM nº 160, de 13 de julho de 2022, conforme alterada (“Resolução CVM 160”). Desta forma, considerando que se trata do único investidor profissional que havia aderido à Oferta, não será necessário aguardar o decurso do prazo de 5 (cinco) Dias Úteis previsto no artigo 69, parágrafo 1º, da Resolução CVM 160, razão pela qual o cronograma da Oferta passa a vigorar conforme abaixo. FOI DISPENSADA DIVULGAÇÃO DE PROSPECTO E DA LÂMINA DA OFERTA PARA A REALIZAÇÃO DESTA OFERTA 2. CRONOGRAMA Em razão do disposto acima , o cronograma estimado das principais etapas da Oferta passa a vigorar conforme abaixo: Ordem dos Eventos Eventos Datas Previstas(1)(2)(3) 1 Protocolo do Requerimento do Pedido de Registro Automático da Oferta na CVM 24/08/2026 2 Divulgação do Aviso ao Mercado 24/08/2026 3 Concessão do Registro Automático da Oferta pela CVM 27/08/2026 4 Divulga",
+   "visto_em": "2026-10-03"
   }
  ]
 }
