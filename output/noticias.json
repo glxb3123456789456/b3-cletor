@@ -4,11 +4,281 @@
  "dados": [
   {
    "fonte": "Money Times",
-   "titulo": "Inteligência artificial no mercado financeiro: 92% dos bancos já citam ganho de velocidade em tarefas; veja como aplicá-la à sua rotina",
-   "url": "https://www.moneytimes.com.br/inteligencia-artificial-no-mercado-financeiro-92-dos-bancos-ja-citam-ganho-de-velocidade-em-tarefas-veja-como-aplica-la-a-sua-rotina-lbrdgm097/",
-   "publicado": "2026-10-08T16:00:00+00:00",
+   "titulo": "Bradesco (BBDC4) tem aumento de capital homologado pelo BC e ajusta JCP por ação",
+   "url": "https://www.moneytimes.com.br/bradesco-bbdc4-tem-aumento-de-capital-homologado-pelo-bc-e-ajusta-jcp-por-acao/",
+   "publicado": "2026-10-08T23:07:55+00:00",
+   "tickers": [
+    "BBDC4"
+   ],
+   "resumo": "O Bradesco (BBDC4) informou nesta quarta-feira (8) que o Banco Central do Brasil homologou o aumento de capital da instituição, operação já comunicada ao mercado em etapas anteriores e agora concluída no âmbito regulatório. Segundo o fato relevante, as ações subscritas no aumento"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "CEO da Petrobras (PETR4): Os possíveis nomes para um eventual governo Flávio, segundo jornal",
+   "url": "https://www.moneytimes.com.br/os-possiveis-ceos-da-petrobras-petr4-em-um-governo-flavio-segundo-jornal-rnda/",
+   "publicado": "2026-10-08T23:00:57+00:00",
+   "tickers": [
+    "BRAV3",
+    "PETR4"
+   ],
+   "resumo": "As eleições ainda não terminaram, mas nomes para assumir o comando da Petrobras (PETR4) em um eventual governo de Flávio Bolsonaro já circulam nos bastidores políticos e do mercado de energia. Segundo apuração do Valor Econômico, entre os possíveis candidatos estão o ex-president"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Flávio tem 52% e Lula 48% dos votos válidos no 2º turno, aponta Datafolha",
+   "url": "https://investnews.com.br/economia/flavio-lula-segundo-turno-datafolha/",
+   "publicado": "2026-10-08T22:42:24+00:00",
    "tickers": [],
-   "resumo": "Setor bancário pretende ampliar os investimentos em IA e soluções de dados para R$ 3 bilhões neste ano; entenda como aplicar essa tecnologia no dia a dia"
+   "resumo": "Pesquisa é a primeira após o 1º turno; em votos totais, Flávio tem 49%, Lula, 45%, e brancos e nulos, 5%"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Cury oficializa apoio a Flávio Bolsonaro sob condição de ‘pacificação nacional’",
+   "url": "https://www.moneytimes.com.br/cury-oficializa-apoio-a-flavio-bolsonaro-sob-condicao-de-pacificacao-nacional/",
+   "publicado": "2026-10-08T22:37:23+00:00",
+   "tickers": [],
+   "resumo": "Augusto Cury (Avante) oficializou nesta quinta-feira, 8, apoio a Flávio Bolsonaro (PL) no segundo turno da eleição presidencial, após uma conversa entre os dois e a assinatura, pelo candidato, de um compromisso público com propostas defendidas pelo escritor durante a campanha, en"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Cury (CURY3): Vendas líquidas crescem 10,7% e atingem R$ 1,8 bi no 3T26; veja prévia",
+   "url": "https://www.moneytimes.com.br/cury-cury3-vendas-liquidas-crescem-114-e-atingem-r-18-bilhoes-no-3t26-veja-previa-pads/",
+   "publicado": "2026-10-08T22:29:31+00:00",
+   "tickers": [
+    "CURY3"
+   ],
+   "resumo": "A Cury (CURY3) registrou vendas líquidas de R$ 1,8 bilhão no terceiro trimestre, alta de 10,7% na comparação anual, reforçando o ritmo comercial da construtora no período. Os lançamentos alcançaram R$ 2,12 bilhões em valor geral de vendas (VGV), avanço anual de 6,9%. A incorporad"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Juros futuros caem com leilão do Tesouro, quadro eleitoral e alívio nos Treasuries",
+   "url": "https://www.moneytimes.com.br/juros-futuros-8-10-26-apsa/",
+   "publicado": "2026-10-08T22:23:56+00:00",
+   "tickers": [],
+   "resumo": "Os juros futuros fecharam em forte queda nesta quinta-feira (8), com suporte de um combo de fatores que chegou a reduzir os trechos longos em até 20 pontos-base. Principal indutor, o maior leilão de títulos prefixados do Tesouro Nacional desde 2020, ao invés de pressionar a curva"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Squadra despacha ações da Multiplan (MULT3)",
+   "url": "https://www.moneytimes.com.br/squadra-despacha-acoes-da-multiplan-mult3-apsa/",
+   "publicado": "2026-10-08T22:16:25+00:00",
+   "tickers": [
+    "MULT3"
+   ],
+   "resumo": "A Multiplan (MULT3) informou ao mercado nesta quinta-feira (8) que recebeu comunicação da Squadra Investimentos sobre a redução de participação acionária relevante na companhia. Segundo o documento, os fundos de investimento e investidores não residentes sob gestão da gestora pas"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "BlackRock vai às compras e passa a deter mais de 5% da Copasa (CSMG3); veja detalhes",
+   "url": "https://www.moneytimes.com.br/blackrock-vai-as-compras-e-passa-a-deter-mais-de-5-da-copasa-csmg3-veja-detalhes-apsa/",
+   "publicado": "2026-10-08T22:10:49+00:00",
+   "tickers": [
+    "CSMG3"
+   ],
+   "resumo": "A Copasa (CSMG3) informou ao mercado nesta quinta-feira (8) que recebeu comunicação da gestora americana BlackRock sobre a aquisição de participação acionária relevante na companhia. Segundo o documento, a gestora elevou sua posição e passou a deter, em 6 de outubro de 2026, 19,0"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Small cap vai recomprar até 8% das ações",
+   "url": "https://www.moneytimes.com.br/small-cap-vai-recomprar-ate-8-das-acoes/",
+   "publicado": "2026-10-08T22:04:42+00:00",
+   "tickers": [
+    "GGPS3"
+   ],
+   "resumo": "A GPS (GGPS3) vai recomprar até 8% das ações em circulação no mercado, mostra documento enviado ao mercado nesta quinta-feira (8). Segundo o documento, ao todo serão recomprados 37,6 milhões de papéis. O objetivo principal, de acordo com a empresa, é maximizar valor para o acioni"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Prefixados tem maior leilão desde dezembro de 2020 — e o ‘trade eleitoral’ está por trás disso",
+   "url": "https://www.moneytimes.com.br/prefixados-tem-maior-leilao-desde-dezembro-de-2020-e-o-trade-eleitoral-esta-por-tras-disso-apsa/",
+   "publicado": "2026-10-08T21:48:57+00:00",
+   "tickers": [],
+   "resumo": "O Tesouro Nacional vendeu R$ 33,3 bilhões em títulos prefixados nesta quinta-feira (8), no maior volume financeiro desse tipo de operação desde dezembro de 2020. A oferta totalizava 42 milhões de papéis, dos quais 35 milhões eram LTNs e 7 milhões, NTN-Fs. Toda a oferta de LTNs fo"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Pesquisa Datafolha: Flávio Bolsonaro tem 49% e Lula, 45%, no segundo turno",
+   "url": "https://www.moneytimes.com.br/datafolha-8-de-outubro-de-2026-gaep/",
+   "publicado": "2026-10-08T21:48:43+00:00",
+   "tickers": [],
+   "resumo": "Na primeira pesquisa do Instituto Datafolha para o segundo turno das eleições presidenciais 2026, divulgada nesta quinta (8), o senador Flávio Bolsonaro (PL-RJ) aparece na liderança, com 49%, contra 45% do presidente Luiz Inácio Lula da Silva (PT). Já 1% ainda está indeciso e 5% "
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Com Flávio à frente de Lula, Datafolha tem empate técnico. Como vai reagir o mercado?",
+   "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/10/08/datafolha-mostra-flavio-com-49percent-e-lula-com-45percent-das-intencoes-de-voto-qual-reacao-esperar-dos-mercados.ghtml",
+   "publicado": "2026-10-08T21:47:03+00:00",
+   "tickers": [
+    "ALOS3",
+    "ASAI3",
+    "AURE3",
+    "CEAB3",
+    "CYRE3",
+    "ENGI11",
+    "EQTL3",
+    "LREN3",
+    "MOTV3",
+    "RDOR3",
+    "RENT3",
+    "SBSP3",
+    "XPBR31"
+   ],
+   "resumo": "Em empate técnico, o senador Flávio Bolsonaro (PL) tem 49% das intenções de voto, no segundo turno da eleição presidencial, contra 45% do presidente Luiz Inácio Lula da Silva (PT), segundo pesquisa Datafolha, divulgada nesta quinta-feira (8). Brancos e nulos somam 5% e indecisos,"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "IFIX recua 0,14% nesta quinta-feira e interrompe sequência de altas",
+   "url": "https://www.suno.com.br/noticias/ifix-recua-014-nesta-quinta-feira-e-interrompe-sequencia-de-altas/",
+   "publicado": "2026-10-08T21:45:07+00:00",
+   "tickers": [],
+   "resumo": "O índice de fundos imobiliários brasileiro, o IFIX, encerrou o pregão desta quinta-feira (8) em 3.949,64 pontos, queda de 0,14%, equivalente a 5,68 pontos. Na sessão anterior, o indicador havia fechado a 3.955,32 pontos, nível que serviu de referência para a abertura desta quinta"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Oddone, Adriano Pires e Pazuello são cotados para presidir Petrobras (PETR4) em governo Flávio, dizem fontes",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/10/08/oddone-adriano-pires-e-pazuello-sao-cotados-para-presidir-petrobras-petr4-em-governo-flavio-dizem-fontes.ghtml",
+   "publicado": "2026-10-08T21:31:59+00:00",
+   "tickers": [
+    "PETR4"
+   ],
+   "resumo": "No mercado de energia, circulam possíveis nomes que poderiam ocupar a presidência da Petrobras em uma eventual eleição do candidato do PL à Presidência da República, Flávio Bolsonaro. Até o momento, são cotados para presidir a estatal o ex-presidente da Brava Energia, Décio Oddon"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Com E2 entregue à Latam, Embraer acirra concorrência com Airbus e Boeing pelas aéreas do país",
+   "url": "https://investnews.com.br/negocios/e2-entrega-embraer-latam/",
+   "publicado": "2026-10-08T21:27:02+00:00",
+   "tickers": [],
+   "resumo": "Latam encomendou 24 jatos e tem opções para outros 50 e Gol pode ser a próxima; desafio da Embraer será converter novos clientes em escala e melhores margens"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Consórcio com dona da Equipav vence disputa por estatal de saneamento na Argentina",
+   "url": "https://investnews.com.br/negocios/equipav-ganha-saneamento-argentina/",
+   "publicado": "2026-10-08T21:10:44+00:00",
+   "tickers": [],
+   "resumo": "Grupo ofereceu US$ 340,2 milhões por 90% da AySA; concessão prevê expansão das redes de água e esgoto na capital argentina e arredores"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Promessa de 'tesouraço' fiscal garante fôlego ao Ibovespa em dia de tensão global",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/08/promessa-de-tesouraco-fiscal-garante-folego-ao-ibovespa-em-dia-de-tensao-global.ghtml",
+   "publicado": "2026-10-08T20:53:38+00:00",
+   "tickers": [
+    "MGLU3",
+    "PETR4",
+    "VALE3",
+    "VAMO3"
+   ],
+   "resumo": "Nem mesmo a disparada das cotações do petróleo e o clima de maior aversão ao risco no exterior foram capazes de segurar a bolsa brasileira nesta quinta-feira (8). Embalado pela pauta fiscal e por novas sinalizações para o segundo turno das eleições presidenciais, o Ibovespa avanç"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Com fiscal frágil e populismo avançando, a França está com cara de Grécia",
+   "url": "https://braziljournal.com/com-fiscal-fragil-e-populismo-avancando-a-franca-esta-com-cara-de-grecia/",
+   "publicado": "2026-10-08T20:12:10+00:00",
+   "tickers": [],
+   "resumo": "A França, mais uma vez, parece prestes a explodir. A sete meses de uma eleição que pode enterrar o Governo Emmanuel Macron e dar vitória à direitista Marine Le Pen, o país enfrenta uma disparada dos juros da sua dívida pública, enquanto milhares de estudantes protestam contra a d"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Oi (OIBR3) divulga prejuízo de R$ 36,4 bilhões; auditoria aponta problemas no balanço",
+   "url": "https://www.suno.com.br/noticias/oi-oibr3-prejuizo-2025-balanco-falencia-mt/",
+   "publicado": "2026-10-08T20:05:04+00:00",
+   "tickers": [
+    "OIBR3"
+   ],
+   "resumo": "O balanço atrasado da Oi (OIBR3) trouxe uma virada bilionária nos números: a companhia registrou prejuízo consolidado de R$ 36,4 bilhões em 2025, depois de apresentar lucro de R$ 9,61 bilhões em 2024. As demonstrações foram divulgadas nesta quarta-feira (7), já sob o processo de "
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Bolsa e bancos abrem no feriado de 12 outubro? Veja como ficam os serviços financeiros na data",
+   "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/10/08/bolsa-e-bancos-abrem-no-feriado-de-12-outubro-veja-como-ficam-os-servicos-financeiros-no-feriado.ghtml",
+   "publicado": "2026-10-08T19:50:38+00:00",
+   "tickers": [],
+   "resumo": "As agências bancárias não abrirão para atendimento para o público nesta segunda-feira (12), feriado nacional de Nossa Senhora Aparecida. O atendimento presencial volta na terça-feira (13) nas cidades onde não houver feriado estadual ou municipal, informou a Federação Brasileira d"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Um grupo de 10 ações já representa mais da metade do Ibovespa. Entenda os riscos",
+   "url": "https://investnews.com.br/investimentos/concentracao-ibovespa-riscos/",
+   "publicado": "2026-10-08T18:59:34+00:00",
+   "tickers": [],
+   "resumo": "Nível de concentração não era visto havia 13 anos e expõe dependência crescente do principal índice da bolsa brasileira"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "A varejista japonesa que ameaça o domínio global da Zara e H&M",
+   "url": "https://investnews.com.br/economia/a-varejista-japonesa-que-ameaca-o-dominio-global-da-zara-e-hm/",
+   "publicado": "2026-10-08T18:49:20+00:00",
+   "tickers": [],
+   "resumo": "Receita recorde coloca Uniqlo mais perto de H&#038;M e Zara na disputa pelo topo do varejo de moda"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Petrobras (PETR4) arremata 21 blocos e vai pagar R$ 3,2 bilhões; veja onde",
+   "url": "https://www.suno.com.br/noticias/petrobras-petr4-leilao-anp-21-blocos-mt/",
+   "publicado": "2026-10-08T18:35:08+00:00",
+   "tickers": [
+    "PETR4"
+   ],
+   "resumo": "O mapa de exploração da Petrobras (PETR4) ganhou 21 novas áreas para buscar petróleo e gás. A companhia informou nesta quinta-feira (8) que arrematou blocos nas bacias de Campos, Santos e Ceará em dois leilões da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP). "
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Como consultar o resultado da sua seção eleitoral nas eleições 2026",
+   "url": "https://investnews.com.br/economia/como-ver-resultado-da-secao-eleitoral/",
+   "publicado": "2026-10-08T18:00:42+00:00",
+   "tickers": [],
+   "resumo": "TSE publica o boletim de cada urna; no primeiro turno, país teve abstenção de 21,08%, a maior desde 1998"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "IGP-DI salta para 1,50%: veja o que puxou os preços em setembro",
+   "url": "https://www.suno.com.br/noticias/igp-di-setembro-2026-alta-precos/",
+   "publicado": "2026-10-08T17:35:06+00:00",
+   "tickers": [],
+   "resumo": "A inflação não aparece só no caixa do supermercado. Ela também passa pela lavoura, pelos combustíveis e pelos materiais usados em uma obra. O IGP-DI, índice que acompanha esses diferentes preços, subiu 1,50% em setembro, depois de avançar apenas 0,06% em agosto, segundo a Fundaçã"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Quanto ganha um vencedor do Nobel? Veja como funciona a premiação",
+   "url": "https://investnews.com.br/off-work/nobel-vencedor-valor/",
+   "publicado": "2026-10-08T17:30:04+00:00",
+   "tickers": [],
+   "resumo": "Valor do Prêmio Nobel é definido por categoria e pode ser dividido entre até três laureados"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Jeff Bezos ganha US$ 87 bilhões e vira o segundo mais rico do mundo",
+   "url": "https://investnews.com.br/negocios/jeff-bezos-ganha-us-87-bilhoes-e-vira-o-segundo-mais-rico-do-mundo/",
+   "publicado": "2026-10-08T17:27:47+00:00",
+   "tickers": [],
+   "resumo": "A fortuna de Bezos agora é estimada em US$ 368,5 bilhões"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Starbucks estudou comprar o Chipotle, a ex-empresa de seu CEO",
+   "url": "https://braziljournal.com/starbucks-estudou-comprar-o-chipotle-a-ex-empresa-de-seu-ceo/",
+   "publicado": "2026-10-08T17:16:44+00:00",
+   "tickers": [],
+   "resumo": "A Starbucks trabalhou numa proposta para adquirir a Chipotle, no que seria o maior M&#38;A da história do setor de restaurantes, criando uma empresa que vende US$ 50 bilhões/ano, disse o Financial Times.  O FT não conseguiu apurar o status da operação nem se a oferta foi oficiali"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "B3 planeja lançar ações tokenizadas no início de 2027",
+   "url": "https://valorinveste.globo.com/mercados/noticia/2026/10/08/b3-planeja-lancar-acoes-tokenizadas-no-inicio-de-2027.ghtml",
+   "publicado": "2026-10-08T17:10:29+00:00",
+   "tickers": [],
+   "resumo": "A B3 (B3SA3) pretende lançar ações tokenizadas no início de 2027, permitindo que investidores tenham uma representação digital de papéis negociados na bolsa brasileira. Inicialmente, esses ativos terão os mesmos preços e acesso à mesma liquidez das ações tradicionais, sem mudança"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Ações e outros investimentos 100% digitais? CVM avança nos testes de tokenização",
+   "url": "https://valorinveste.globo.com/mercados/noticia/2026/10/08/acoes-e-outros-investimentos-100percent-digitais-cvm-avanca-nos-testes-de-tokenizacao.ghtml",
+   "publicado": "2026-10-08T16:16:04+00:00",
+   "tickers": [],
+   "resumo": "O mercado de capitais brasileiro já passou dos certificados em papel para os registros eletrônicos. Agora, a Comissão de Valores Mobiliários (CVM) estuda os próximos passos dessa evolução: a possibilidade de que todas as etapas da vida de um investimento, desde sua emissão até a "
   },
   {
    "fonte": "Valor Investe",
@@ -19,28 +289,12 @@
    "resumo": "A Comissão de Valores Mobiliários (CVM) pretende colocar em funcionamento, até o fim deste ano, a primeira fase de um novo sistema de fiscalização do mercado de capitais baseado em inteligência artificial. A tecnologia será utilizada para cruzar informações de diferentes institui"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Quase 15% em um dia: quanto você poderia ter ganhado com o Tesouro após as eleições?",
-   "url": "https://www.moneytimes.com.br/quase-15-em-um-dia-quanto-voce-poderia-ter-ganhado-com-o-tesouro-apos-as-eleicoes/",
-   "publicado": "2026-10-08T15:17:44+00:00",
-   "tickers": [],
-   "resumo": "A reação ao primeiro turno das eleições também trouxe ganhos expressivos para investidores em renda fixa. Com Flávio Bolsonaro à frente do presidente Luiz Inácio Lula da Silva na disputa presidencial, a queda das taxas de juros na segunda-feira (5) elevou o preço dos títulos públ"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Ministro diz ver avanços nas negociações com a UE sobre embargos a carnes do Brasil",
-   "url": "https://www.moneytimes.com.br/ministro-diz-ver-avancos-nas-negociacoes-com-a-ue-sobre-embargos-a-carnes-do-brasil-pads/",
-   "publicado": "2026-10-08T15:13:28+00:00",
-   "tickers": [],
-   "resumo": "O governo brasileiro espera superar o impasse com a União Europeia que levou à suspensão das certificações para exportações de carnes ao bloco, disse nesta quinta-feira o ministro do Desenvolvimento, Indústria, Comércio e Serviços, Márcio Rosa. &#8220;A questão das proteínas prec"
-  },
-  {
    "fonte": "Valor Investe",
-   "titulo": "Tesouro Direto fica fora do ar pela segunda vez na semana",
+   "titulo": "Tesouro Direto volta ao ar após segunda interrupção na semana",
    "url": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/10/08/tesouro-direto-fica-fora-do-ar-pela-segunda-vez-na-semana.ghtml",
    "publicado": "2026-10-08T15:12:18+00:00",
    "tickers": [],
-   "resumo": "As negociações do Tesouro Direto foram interrompidas na manhã desta quinta-feira (8) ao mesmo tempo em que o mercado de juros futuros apresentou forte queda das taxas negociadas. Procurado pela reportagem, o Tesouro Nacional não informou a causa da interrupção. \nNa segunda-feira,"
+   "resumo": "As negociações do Tesouro Direto voltaram a funcionar normalmente no início da tarde desta quinta-feira (8) após registrar instabilidade pela manhã, no momento em que o mercado de juros futuros apresentou forte queda das taxas. Procurado pela reportagem, o Tesouro Nacional não in"
   },
   {
    "fonte": "Suno Noticias",
@@ -58,23 +312,7 @@
    "url": "https://investnews.com.br/financas/receita-envia-cartas-a-quase-500-mil-contribuintes-na-malha-fina-do-ir-2026/",
    "publicado": "2026-10-08T15:10:42+00:00",
    "tickers": [],
-   "resumo": "A Receita Federal começou esta semana a enviar cartas a 498.487 contribuintes pessoas físicas que tiveram a declaração do Imposto de Renda 2026 retida na malha fina. A iniciativa busca estimular a regularização espontânea das pendências antes de eventual intimação ou notificação "
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Dividendos de até 12,1%: BTG indica 8 FIIs de tijolo com desconto; veja quais",
-   "url": "https://www.moneytimes.com.br/btg-indica-8-fiis-de-tijolo-com-desconto-e-dividendos-de-ate-121-veja-quais-igdl/",
-   "publicado": "2026-10-08T15:09:29+00:00",
-   "tickers": [],
-   "resumo": "Os fundos imobiliários (FIIs) de tijolo, que são aqueles que investem diretamente em imóveis físicos, seguem com desconto relevante e podem se beneficiar ainda mais de uma eventual queda dos juros de longo prazo, segundo análise do BTG Pactual. Em relatório, os analistas Matheus "
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Flávio Bolsonaro afirma que dará reajuste acima da inflação para aposentadorias",
-   "url": "https://www.moneytimes.com.br/flavio-bolsonaro-afirma-que-dara-reajuste-acima-da-inflacao-para-aposentadorias/",
-   "publicado": "2026-10-08T15:02:07+00:00",
-   "tickers": [],
-   "resumo": "O candidato à Presidência da República Flávio Bolsonaro (PL) negou que vai mudar a forma de aumento para as aposentadorias e o Benefício de Prestação Continuada (BPC) para cortar gastos se for eleito. Segundo o jornal Folha de S.Paulo, essa ideia foi apresentada ao mercado pela e"
+   "resumo": "O contribuinte não precisa esperar a chegada da carta para verificar a situação da declaração"
   },
   {
    "fonte": "Valor Investe",
@@ -103,16 +341,6 @@
    "resumo": "Ibovespa sobe e retorna aos 206 mil pontos com alta do petróleoA disparada do petróleo para 4% na manhã desta quinta-feira, 8, estimula as ações do setor e ajuda a impulsionar o Ibovespa. A alta ainda reflete a desaceleração da queda das bolsas norte-americanas nesta manhã e tamb"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "PetroReconcavo (RECV3) sobe com petróleo acima de US$ 100, mas produção ‘fraca’ limita ganhos",
-   "url": "https://www.moneytimes.com.br/petroreconcavo-recv3-sobe-com-petroleo-acima-de-us-100-mas-producao-fraca-limita-ganhos-lils/",
-   "publicado": "2026-10-08T14:43:50+00:00",
-   "tickers": [
-    "RECV3"
-   ],
-   "resumo": "Negociadas fora do Ibovespa (IBOV), as ações da PetroReconcavo (RECV3) são destaque da ponta positiva da B3 quinta-feira (8), dia de forte aversão a risco externo. Por volta de 11h20 (horário de Brasília), RECV3 subia 3,33%, a R$ 12,09. O tom positivo é sustentado pela disparada "
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Ações da Vamos (VAMO3) têm forte alta e acumulam ganho de 100% no ano",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/10/08/acoes-da-vamos-vamo3-tem-forte-alta-e-acumulam-ganho-de-100percent-no-ano.ghtml",
@@ -122,17 +350,7 @@
     "RENT3",
     "VAMO3"
    ],
-   "resumo": "As ações da empresa de locação de veículos pesados Vamos (VAMO3) são uma das maiores beneficiadas pelo otimismo eleitoral que tomou conta dos mercados desde o resultado do primeiro turno das eleições presidenciais. Os papéis acumulam alta de 50% apenas em outubro, e já dobraram d"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "SLC Agrícola (SLCE3): Guidance sinaliza melhora em 2027, mas El Niño exige cautela; hora de comprar?",
-   "url": "https://www.moneytimes.com.br/slc-agricola-slce3-guidance-sinaliza-melhora-em-2027-mas-el-nino-exige-cautela-hora-de-comprar-pads/",
-   "publicado": "2026-10-08T14:40:04+00:00",
-   "tickers": [
-    "SLCE3"
-   ],
-   "resumo": "As projeções da SLC Agrícola (SLCE3) para a safra 2026/27 abriram espaço para estimativas maiores de resultado operacional nos modelos de Itaú BBA, Safra e BTG Pactual. A combinação de área plantada, custos e produtividade pode favorecer o desempenho da companhia, mas os três ban"
+   "resumo": "A empresa de locação de veículos pesados Vamos (VAMO3) é uma das maiores beneficiadas pelo otimismo eleitoral que tomou conta dos mercados desde o resultado do primeiro turno das eleições presidenciais. Os papéis acumulam alta de 50% apenas em outubro, e já dobraram de preço desd"
   },
   {
    "fonte": "InvestNews",
@@ -141,24 +359,6 @@
    "publicado": "2026-10-08T14:39:53+00:00",
    "tickers": [],
    "resumo": "Histórico da série inclui investimentos em CPFL e Contrail e aporte na Cosan; novo veículo poderá concentrar recursos em uma única empresa"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Wall Street recua com peso dos Treasuries e do petróleo",
-   "url": "https://www.moneytimes.com.br/wall-street-abertura-8-10-26-apsa/",
-   "publicado": "2026-10-08T14:30:12+00:00",
-   "tickers": [],
-   "resumo": "Os índices de Wall Street operam em queda, novamente pressionados pelos rendimentos dos títulos do Tesouro dos Estados Unidos, os Treasuries, e do avanço do petróleo Brent, que chegou a operar acima dos US$ 105. Confira o desempenhos do índices por volta de 11h28 (horário de Bras"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Após rali eleitoral, o que ainda vale comprar? Itaú BBA vê potencial de mais de 40% em ações do varejo",
-   "url": "https://www.moneytimes.com.br/apos-rali-eleitoral-o-que-ainda-vale-comprar-itau-bba-ve-potencial-de-mais-de-40-em-acoes-do-varejo-lmrs/",
-   "publicado": "2026-10-08T14:30:04+00:00",
-   "tickers": [
-    "MGLU3"
-   ],
-   "resumo": "O resultado do 1º turno das eleições de 2026 deu espaço para um sentimento positivo em torno de ativos cíclicos e sensíveis aos juros, como observado no avanço de mais de 20% de nomes como Magazine Luiza (MGLU3) no pregão de segunda-feira (5). Neste cenário, o Itaú BBA testou a s"
   },
   {
    "fonte": "Suno Noticias",
@@ -195,16 +395,6 @@
    "resumo": "Os preços do petróleo dispararam nesta quinta-feira (8) devido às preocupações persistentes com o abastecimento proveniente do Oriente Médio, em meio a um aumento nos ataques à navegação no Golfo Pérsico e no Estreito de Ormuz, enquanto os EUA reduziram a produção devido a um fur"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Embraer (EMBJ3) entrega o primeiro E195-E2 de 74 jatos encomendados pela Latam",
-   "url": "https://www.moneytimes.com.br/embraer-embj3-entrega-o-primeiro-e195-e2-de-74-jatos-encomendados-pela-latam-lmrs/",
-   "publicado": "2026-10-08T13:55:21+00:00",
-   "tickers": [
-    "EMBJ3"
-   ],
-   "resumo": "A Embraer (EMBJ3) entregou o primeiro jato E195-E2 de uma encomenda de 74 aviões ao Grupo Latam. Segundo a companhia, até o final do ano, 12 aeronaves devem compor a frota da Latam Brasil. A incorporação do novo modelo ocorrerá nos próximos dias e reforçará a expansão malha da em"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Petrobras arremata 21 blocos em leilão da ANP e pagará R$ 3,2 bilhões",
    "url": "https://investnews.com.br/negocios/petrobras-arremata-21-blocos-em-leilao-da-anp-e-pagara-r-32-bilhoes/",
@@ -233,11 +423,11 @@
   },
   {
    "fonte": "Valor Investe",
-   "titulo": "Tesouro Direto: taxas dos prefixados têm leve alta após tombo com euforia eleitoral",
+   "titulo": "Taxas do Tesouro Direto caem após instabilidade e com eleições em foco",
    "url": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/10/08/tesouro-direto-taxas-dos-prefixados-tem-leve-alta-apos-tombo-com-euforia-eleitoral.ghtml",
    "publicado": "2026-10-08T12:57:59+00:00",
    "tickers": [],
-   "resumo": "Os rendimentos dos títulos do Tesouro Direto operam em direções diferentes nesta quinta-feira (8), com leve alta nos prefixados e nos atrelados à inflação com vencimento longo. No caso dos prazos mais curtos, há novo movimento de queda. As taxas registraram na segunda-feira a mai"
+   "resumo": "Os rendimentos dos títulos do Tesouro Direto passaram a cair nesta quinta-feira (8) após registrar instabilidade pela manhã e as negociações serem interrompidas temporariamente. As taxas mantêm, assim, o movimento de forte queda visto na segunda-feira, a maior da série histórica "
   },
   {
    "fonte": "InvestNews",
@@ -249,7 +439,7 @@
   },
   {
    "fonte": "Valor Investe",
-   "titulo": "Ibovespa sobe com apoio da Petrobras (PETR4) e otimismo eleitoral; dólar fica estável",
+   "titulo": "Ibovespa fecha em alta de 1% com otimismo eleitoral e apoio de Petrobras (PETR4); dólar sobe",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/08/ibovespa-e-dolar-hoje-8-de-outubro-de-2026.ghtml",
    "publicado": "2026-10-08T12:06:22+00:00",
    "tickers": [
@@ -258,7 +448,7 @@
     "PETR4",
     "VAMO3"
    ],
-   "resumo": "O Ibovespa, principal índice de ações brasileiras, voltou a ter um movimento de forte alta nesta quinta-feira (8), apoiado pelo avanço da Petrobras (PETR3, PETR4). Ações de bancos, bens industriais e varejo também passaram a subir firme, em um sinal de que o otimismo eleitoral vo"
+   "resumo": "O Ibovespa, principal índice de ações brasileiras, fechou em alta nesta quinta-feira (8), em dia positivo para a maioria das empresas que integram o indicador. Os ganhos são mais acentuados ocorreram entre empresas dos setores de bens industriais, petróleo e gás e consumo. O movi"
   },
   {
    "fonte": "Valor Investe",
@@ -381,16 +571,6 @@
    "resumo": "A Mega-Sena 3068 vai sortear um prêmio estimado em R$ 100 milhões nesta quinta-feira (6), a partir das 21h (horário de Brasília), em São Paulo.\nVEJA TAMBÉM: \n- Os números mais sorteados na história Mega-Sena\nNos sorteios realizados às terças e quintas-feiras, as apostas podem ser"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "Fundo imobiliário BTLG11 aprova nova emissão e pode captar até R$ 1,2 bi",
-   "url": "https://www.suno.com.br/noticias/fundo-imobiliario-btlg11-aprova-nova-emissao-e-pode-captar-ate-r-12-bi/",
-   "publicado": "2026-10-07T22:35:05+00:00",
-   "tickers": [
-    "BTLG11"
-   ],
-   "resumo": "O BTLG11 (BTG Pactual Logística Fundo de Investimento Imobiliário) aprovou a 17ª emissão de cotas, com captação inicial estimada em aproximadamente R$ 800 milhões. O montante poderá alcançar cerca de R$ 1,2 bilhão caso o lote adicional seja utilizado integralmente, conforme aprov"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Cade rejeita apelo da dona da Gol e aprova entrada da American Airlines como sócia da Azul",
    "url": "https://investnews.com.br/negocios/cade-aprova-entrada-da-american-azul/",
@@ -399,30 +579,12 @@
    "resumo": "Aprovação unânime ocorre após recursos da Abra; aérea americana deve ficar com cerca de 8% da companhia brasileira"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "IFIX engata terceira alta seguida e fecha em 3.955 pontos, com alta de 1,19%",
-   "url": "https://www.suno.com.br/noticias/ifix-engata-terceira-alta-seguida-e-fecha-em-3-955-pontos-com-alta-de-119/",
-   "publicado": "2026-10-07T22:15:06+00:00",
-   "tickers": [],
-   "resumo": "O IFIX encerrou o pregão desta quarta-feira (7) aos 3.955,32 pontos, em alta de 1,19%. O desempenho representou avanço de 46,54 pontos frente ao fechamento anterior, de 3.908,78 pontos, e consolidou a sequência positiva iniciada nesta semana. Ao longo da sessão, o índice de fundo"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Após arena em São Paulo, Live Nation negocia compra de casa de shows no Rio",
    "url": "https://investnews.com.br/negocios/live-nation-negocia-farmasi-arena-rio/",
    "publicado": "2026-10-07T21:33:37+00:00",
    "tickers": [],
    "resumo": "Dona da Ticketmaster quer assumir a Farmasi Arena, com capacidade para 17 mil pessoas, e reformar o espaço"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Ibovespa perde fôlego pelo 2º dia e cai abaixo dos 205 mil pontos; VALE3 e bancos pesam",
-   "url": "https://www.suno.com.br/noticias/ibovespa-hoje-7-outubro-vale3-bancos-dolar-mt/",
-   "publicado": "2026-10-07T21:15:06+00:00",
-   "tickers": [
-    "VALE3"
-   ],
-   "resumo": "A segunda-feira histórica começa a ficar mais distante no retrovisor. O Ibovespa caiu 0,74% nesta quarta-feira (7), aos 204.302,33 pontos, perda de 1.532,96 pontos, e engatou a segunda queda consecutiva depois do salto de 7,70% registrado no primeiro pregão após as eleições. Vale"
   },
   {
    "fonte": "Valor Investe",
@@ -444,14 +606,6 @@
    "publicado": "2026-10-07T20:28:15+00:00",
    "tickers": [],
    "resumo": "Taxas despencam com a expectativa de ajuste fiscal. Se ele vier, será o fim do IPCA+7%"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Frango dispara nas exportações; bovinos recuam 28%, aponta Safra",
-   "url": "https://www.suno.com.br/noticias/exportacoes-de-frango-terceiro-trimestre-safra-mt/",
-   "publicado": "2026-10-07T20:25:08+00:00",
-   "tickers": [],
-   "resumo": "Nem todas as carnes chegaram ao fim do terceiro trimestre com o mesmo desempenho. As exportações de frango combinaram embarques elevados e custos menores de grãos, enquanto a carne bovina perdeu volume e a suína enfrentou preços mais baixos, segundo análise do Safra publicada nes"
   },
   {
    "fonte": "InvestNews",
@@ -691,14 +845,6 @@
    "resumo": "Petrobras e Prio\nA Agência Nacional do Petróleo (ANP) realiza hoje um leilão com mais de 300 blocos para exploração de petróleo e gás. Serão ofertadas 13 áreas no pré-sal, sendo cinco na Bacia de Campos e oito em Santos, sob o regime de partilha e mais de 300 sob o regime de conc"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Não são só pessoas físicas: empresas impulsionam o avanço das stablecoins no Brasil",
-   "url": "https://investnews.com.br/negocios/nao-sao-so-pessoas-fisicas-empresas-impulsionam-o-avanco-das-stablecoins-no-brasil/",
-   "publicado": "2026-10-07T11:00:30+00:00",
-   "tickers": [],
-   "resumo": "As firmas locais vêm usando esses ativos digitais - especialmente as criptos de dólar - para pagamentos internacionais, movimentação de recursos e gestão da exposição cambial"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Mercado monitora falas dos candidatos e aguarda ata do Fed",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/07/mercado-monitora-falas-dos-candidatos-e-aguarda-ata-do-fed.ghtml",
@@ -731,100 +877,12 @@
    "resumo": "Procura uma oportunidade de recolocação, de crescer na carreira ou de começar em uma nova empresa? O Valor Investe reuniu vagas abertas para ajudar quem quer dar esse passo na vida profissional.\nSão mais de 2,1 mil posições nas modalidades presencial, híbrida e remota, em setores"
   },
   {
-   "fonte": "Valor Investe",
-   "titulo": "Audiência de páginas sobre bets cresce 342% com proibição das apostas, diz Taboola",
-   "url": "https://valorinveste.globo.com/objetivo/organize-as-contas/noticia/2026/10/07/audiencia-de-paginas-sobre-bets-cresce-342percent-com-proibicao-das-apostas-diz-taboola.ghtml",
-   "publicado": "2026-10-07T09:20:00+00:00",
-   "tickers": [],
-   "resumo": "O interesse dos brasileiros por conteúdos sobre apostas online cresceu com força nas últimas semanas e sobretudo após a decisão do governo de proibir as bets no Brasil. O termo \"bets\" acumulou mais de 2,6 milhões de visualizações de páginas em 45 dias, alta de 342% em relação à m"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Fim das bets: começa hoje nova etapa para devolução do dinheiro aos apostadores",
-   "url": "https://valorinveste.globo.com/objetivo/organize-as-contas/noticia/2026/10/07/fim-das-bets-comeca-hoje-nova-etapa-para-devolucao-do-dinheiro-aos-apostadores.ghtml",
-   "publicado": "2026-10-07T09:10:00+00:00",
-   "tickers": [],
-   "resumo": "Começa nesta quarta-feira (7) uma nova etapa do processo de encerramento das bets no Brasil. Após a retirada dos sites e aplicativos do ar, prevista para ontem (6), as empresas de apostas devem encaminhar às instituições financeiras os dados dos clientes que ainda possuem dinheir"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Veja os investimentos de renda fixa mais recomendados pelos analistas",
-   "url": "https://valorinveste.globo.com/produtos/renda-fixa/noticia/2026/10/07/veja-os-investimentos-de-renda-fixa-mais-recomendados-pelos-analistas.ghtml",
-   "publicado": "2026-10-07T09:00:00+00:00",
-   "tickers": [],
-   "resumo": "As carteiras recomendadas de renda fixa para outubro de algumas das principais casas de análise de investimentos trouxeram uma análise em comum. No mês que passou, dois movimentos diferentes se combinaram. De um lado, as taxas dos títulos públicos recuaram, puxadas pela continuid"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Calça de cintura baixa voltou a ganhar força. E a Levi’s está vendendo como poucas",
-   "url": "https://investnews.com.br/the-wall-street-journal/nostalgia-anos-90-levis/",
-   "publicado": "2026-10-07T08:06:00+00:00",
-   "tickers": [],
-   "resumo": "Com o retorno da moda dos anos 1990, a Levi’s resgata modelos vintage e amplia a linha para aproveitar onda de nostalgia"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Nos escombros da Oi, a briga de bilhões entre BTG e uma gestora americana",
-   "url": "https://investnews.com.br/negocios/oi-falencia-crise-btg-pimco-vtal/",
-   "publicado": "2026-10-07T08:00:00+00:00",
-   "tickers": [],
-   "resumo": "Participação na empresa de fibra óptica V.tal e créditos sob bloqueio prolongam o embate pela massa falida da antiga supetele"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Ninguém acerta as seis dezenas da Mega-Sena 3067, e prêmio acumula em R$ 100 milhões; veja números",
-   "url": "https://valorinveste.globo.com/loterias/noticia/2026/10/06/resultado-da-mega-sena-3067-hoje-divulgado-veja-numeros-sorteados.ghtml",
-   "publicado": "2026-10-07T00:03:02+00:00",
-   "tickers": [],
-   "resumo": "O resultado da Mega-Sena 3066 com prêmio de R$ 92 milhões foi divulgado nesta terça-feira (6), em São Paulo, e ninguém acertou as seis dezenas. Co isso, o prêmio acumulou em R$ 100 milhões para o próximo sorteio que vai ser realizado na quinta-feira (8).\nOs números sorteados hoje"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Quais as propostas de Lula para a economia? Cinco pontos para um novo mandato",
-   "url": "https://investnews.com.br/economia/lula-economia-planos-mandato/",
-   "publicado": "2026-10-06T23:33:27+00:00",
-   "tickers": [],
-   "resumo": "Plano tem de manutenção do atual arcabouço fiscal e concessões em infraestrutura ao fim da escala 6x1"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Segundo Fazenda, R$ 1,3 bilhão não foi resgatado por apostadores nas bets; prazo acabou ontem",
-   "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/10/06/segundo-fazenda-r-13-bilhao-nao-foram-resgatados-por-apostadores-nas-bets-prazo-acabou-ontem.ghtml",
-   "publicado": "2026-10-06T22:20:14+00:00",
-   "tickers": [],
-   "resumo": "Cerca de R$ 1,3 bilhão ainda está depositado em contas de casas de aposta esportivas, conhecidas popularmente como bets, que estão proibidas de atuar no país devido à medida provisória (MP) editada pelo governo no fim de setembro, segundo o Ministério da Fazenda. O prazo para sol"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Sua empresa exporta e está no Simples? Veja o que considerar antes de migrar para o regime híbrido",
-   "url": "https://investnews.com.br/negocios/exportador-simples-regime-hibrido/",
-   "publicado": "2026-10-06T21:50:22+00:00",
-   "tickers": [],
-   "resumo": "Prazo vai até 30 de outubro; opção permite recuperar créditos de IBS e CBS das compras de insumos e outros custos"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Dólar abaixo de R$ 5: está reaberta a melhor janela de compra do ano. É hora de entrar?",
-   "url": "https://investnews.com.br/investimentos/dolar-abaixo-de-r-5-esta-reaberta-a-melhor-janela-de-compra-e-hora-de-entrar/",
-   "publicado": "2026-10-06T21:07:16+00:00",
-   "tickers": [],
-   "resumo": "O nível de agora iguala o patamar mais baixo que tem se repetido desde 2022"
-  },
-  {
    "fonte": "Brazil Journal",
    "titulo": "Grupo Primo incorpora a Oikos e atinge R$ 34 bi sob custódia",
    "url": "https://braziljournal.com/grupo-primo-compra-a-oikos-e-atinge-r-34-bi-sob-custodia/",
    "publicado": "2026-10-06T20:46:09+00:00",
    "tickers": [],
    "resumo": "No maior M&#38;A de sua história, o Grupo Primo – controlado pelo influenciador de finanças Thiago Nigro – incorporou a Oikos, um multi-family office com R$ 8 bi em ativos que tem as famílias Zarzur e Grisi como acionistas de referência. A transação foi uma troca de ações, com os"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Ibovespa abre espaço para rali de até 19% após disparada histórica no 1º turno",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/06/ibovespa-abre-espaco-para-rali-de-ate-19percent-apos-disparada-historica-no-1o-turno.ghtml",
-   "publicado": "2026-10-06T20:42:04+00:00",
-   "tickers": [],
-   "resumo": "Depois da disparada histórica de 7,7% na primeira sessão após o primeiro turno das eleições, o mercado aproveitou a terça-feira (6) para embolsar parte dos lucros. \nO Ibovespa caiu 0,5%, aos 205.835 pontos, reduzindo os ganhos na semana até aqui para 7,1%. No ano, acumula alta de"
   },
   {
    "fonte": "Brazil Journal",
@@ -849,38 +907,6 @@
    "publicado": "2026-10-06T19:23:46+00:00",
    "tickers": [],
    "resumo": "É difícil falar em Venezuela sem pensar em suas gigantescas reservas de petróleo. Mas para a Shell, o foco no país está em outro produto.  O gás. O CEO Wael Sawan disse hoje durante um evento em Londres que vê vantagens competitivas maiores para a companhia na exploração do gás n"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Qual o fôlego do rali: as ações com maior potencial de ganhos com uma mudança de governo",
-   "url": "https://investnews.com.br/investimentos/acoes-com-maior-potencial-de-ganho/",
-   "publicado": "2026-10-06T18:01:07+00:00",
-   "tickers": [],
-   "resumo": "Varejistas, construtoras e empresas muito endividadas são destacadas por analistas em caso de vitória de Flávio Bolsonaro"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Alternância de governo pode mudar comércio brasileiro de etanol, aço, carnes e minerais críticos",
-   "url": "https://investnews.com.br/economia/mudanca-de-governo-pode-mudar-comercio-brasileiro-de-etanol-aco-carnes-e-minerais-criticos/",
-   "publicado": "2026-10-06T17:47:42+00:00",
-   "tickers": [],
-   "resumo": "Vitória de Flávio Bolsonaro no segundo turno pode mudar relação comercial com os EUA"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "Queda dos Treasuries: a antessala de uma crise de crédito?",
-   "url": "https://braziljournal.com/queda-dos-treasuries-a-antessala-de-uma-crise-de-credito/",
-   "publicado": "2026-10-06T17:40:46+00:00",
-   "tickers": [],
-   "resumo": "A curva de juros continua empinando nos EUA – e começa a causar estrago em alguns setores da economia real. O yield dos Treasuries de 10 anos atingiu o seu maior nível em mais de duas décadas. Superou 5,3% – algo não visto desde 2002. O de 30 anos passou de 5,6% – também o [&#823"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "OPINIÃO. Projeto Brasil: o império da sociedade sobre o Estado",
-   "url": "https://braziljournal.com/opiniao-projeto-brasil-o-imperio-da-sociedade-sobre-o-estado/",
-   "publicado": "2026-10-06T14:04:42+00:00",
-   "tickers": [],
-   "resumo": "Em 7 de abril de 1978, Teotônio Vilela subiu à tribuna do Senado para apresentar uma ideia construída com meu marido, Raphael de Almeida Magalhães. Chamaram-na de Projeto Brasil. Quase 50 anos depois, volto àquele texto não apenas pela memória de Raphael, mas porque acredito que "
   }
  ]
 }
