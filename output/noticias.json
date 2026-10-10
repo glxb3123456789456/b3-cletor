@@ -4,13 +4,171 @@
  "dados": [
   {
    "fonte": "Money Times",
-   "titulo": "Raízen (RAIZ4): subsidiária aprova pedido de listagem na B3; entenda o que está em jogo",
-   "url": "https://www.moneytimes.com.br/raizen-raiz4-subsidiaria-aprova-pedido-de-listagem-na-b3-entenda-o-que-esta-em-jogo/",
-   "publicado": "2026-10-09T23:08:16+00:00",
+   "titulo": "Ibovespa pode subir mais 14% e chegar aos 235 mil pontos em 2027, projeta Eleven",
+   "url": "https://www.moneytimes.com.br/ibovespa-pode-subir-mais-14-e-chegar-aos-235-mil-pontos-em-2027-projeta-eleven-lils/",
+   "publicado": "2026-10-10T14:55:16+00:00",
+   "tickers": [],
+   "resumo": "Após o salto de 8,8% do Ibovespa (IBOV) na semana seguinte ao primeiro turno das eleições presidenciais, a Eleven Capital vê espaço para novas altas no curto prazo. Com Flávio Bolsonaro (PL) à frente do Luiz Inácio Lula da Silva (PT) no primeiro turno das eleições e abrir uma van"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Terra atualiza carteira que bateu avanço de 10% do Ibovespa (IBOV) na semana; veja as ações para o curto prazo",
+   "url": "https://www.moneytimes.com.br/terra-atualiza-carteira-que-bateu-avanco-de-10-do-ibovespa-ibov-na-semana-veja-as-acoes-para-o-curto-prazo-lmrs/",
+   "publicado": "2026-10-10T14:50:00+00:00",
    "tickers": [
-    "RAIZ4"
+    "CMIG4",
+    "IGTI11",
+    "POMO4",
+    "RDOR3",
+    "RENT3",
+    "VIVT3"
    ],
-   "resumo": "Os acionistas da Raízen Energia, subsidiária da Raízen (RAIZ4), aprovaram nesta sexta-feira (9) a apresentação de um pedido de listagem da companhia no Nível 2 de governança corporativa da B3. A decisão contempla os pedidos de admissão à negociação de ações ordinárias, preferenci"
+   "resumo": "A Terra Investimentos realizou algumas alterações na carteira recomendada semanal de ações, para o período de 9 a 16 de outubro. Deixam a seleção das ações Localiza (RENT3), Rede D’or (RDOR3) e Iguatemi (IGTI11), abrindo espaço para a entrada de Marcopolo (POMO4), Cemig (CMIG4) e"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "SpaceX está perto de transformar a Starlink na primeira operadora de celular via satélite nos EUA",
+   "url": "https://investnews.com.br/negocios/spacex-esta-perto-de-transformar-a-starlink-na-primeira-operadora-de-celular-via-satelite-nos-eua/",
+   "publicado": "2026-10-10T13:48:34+00:00",
+   "tickers": [],
+   "resumo": "A companhia espacial de Elon Musk vai brigar diretamente com gigantes, como T-Mobile, Verizon e AT&#038;T"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Novo IVA pode pressionar caixa das empresas? Entenda a polêmica do split payment",
+   "url": "https://www.moneytimes.com.br/novo-iva-pode-pressionar-caixa-das-empresas-entenda-a-polemica-do-split-payment/",
+   "publicado": "2026-10-10T13:42:31+00:00",
+   "tickers": [],
+   "resumo": "Mecanismo da reforma tributária que separa e recolhe automaticamente os impostos no momento da transação, o split payment (pagamento fracionado) virou tema do debate eleitoral e trouxe à tona a preocupação de empresários do comércio e especialistas em tributação sobre o potencial"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Ajuste fiscal de Flávio ainda é uma incógnita para o mercado; veja o que falta",
+   "url": "https://www.moneytimes.com.br/ajuste-fiscal-de-flavio-ainda-e-uma-incognita-para-o-mercado-veja-o-que-falta/",
+   "publicado": "2026-10-10T13:34:35+00:00",
+   "tickers": [],
+   "resumo": "A forte alta da Bolsa, a queda do dólar e o recuo dos juros futuros após o primeiro turno das eleições refletem a aposta do mercado em uma mudança na condução da política econômica. Parte dos investidores já passou a precificar não só uma vitória do senador Flávio Bolsonaro (PL),"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "O Brasil não está sozinho: problemas fiscais abalam mercado de títulos na Europa",
+   "url": "https://investnews.com.br/financas/o-brasil-nao-esta-sozinho-problemas-fiscais-abalam-mercado-de-titulos-na-europa/",
+   "publicado": "2026-10-10T13:33:51+00:00",
+   "tickers": [],
+   "resumo": "Disparada das taxas de títulos acende alerta sobre descontrole fiscal em países da Europa"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Super Intelligence Force: Por quê os EUA decidiram criar uma polícia para a IA?",
+   "url": "https://investnews.com.br/economia/super-intelligence-force-por-que-os-eua-decidiram-criar-uma-policia-para-a-ia/",
+   "publicado": "2026-10-10T13:14:49+00:00",
+   "tickers": [],
+   "resumo": "Incidentes envolvendo modelos autônomos de IA levaram o governo americano a criar a unidades especial SI Force"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Análise: Eleições e agronegócio: mais do que acenos, o setor precisa de previsibilidade",
+   "url": "https://www.moneytimes.com.br/eleicoes-e-agronegocio-mais-do-que-acenos-o-setor-precisa-de-previsibilidade-pads/",
+   "publicado": "2026-10-10T13:00:00+00:00",
+   "tickers": [],
+   "resumo": "Voltamos ao tema das eleições nesta coluna para analisar o resultado do primeiro turno, realizado no último domingo, 4 de outubro, e suas possíveis consequências para as políticas públicas voltadas ao agronegócio brasileiro. Na leitura deste colunista, as urnas sinalizaram uma de"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Ibovespa salta quase 9% e tem maior ganho semanal desde 2020; Magazine Luiza (MGLU3) e Embraer (EMBR3) são os destaques",
+   "url": "https://www.moneytimes.com.br/ibovespa-destaques-da-semana-41-lils/",
+   "publicado": "2026-10-10T12:53:07+00:00",
+   "tickers": [
+    "EMBR3",
+    "MGLU3"
+   ],
+   "resumo": "A euforia após o primeiro turno das eleições presidenciais levou o Ibovespa (IBOV) a melhor semana desde março de 2020. O principal índice da bolsa brasileira acumulou alta de 8,82% na semana e encerrou a última sessão aos 209.066,90 pontos, em recorde nominal histórico. Já o dól"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "IA da Anthropic começa a agir por conta própria e envia denúncia falsa à polícia",
+   "url": "https://investnews.com.br/negocios/ia-da-anthropic-comeca-a-agir-por-conta-propria-e-envia-denuncia-falsa-a-policia/",
+   "publicado": "2026-10-10T12:46:10+00:00",
+   "tickers": [],
+   "resumo": "Novo modelo do Claude invadiu sistemas e até enviou informações falsas às autoridades sobre um crime"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Confira quais são as pesquisas eleitorais da próxima semana para o 2º turno",
+   "url": "https://www.moneytimes.com.br/confira-quais-sao-as-pesquisas-eleitorais-da-proxima-semana-para-o-2o-turno-apsa/",
+   "publicado": "2026-10-10T12:35:00+00:00",
+   "tickers": [],
+   "resumo": "As pesquisas eleitorais para presidente da República divulgadas na próxima semana para o segundo turno das eleições, que ocorrerá em 25 de outubro, serão acompanhadas de perto de olho em uma potencial alternância de poder. Na maioria dos últimos levantamentos, o senador Flávio Bo"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "FIIs e FI-Infra: Os melhores fundos para investir em outubro, segundo o BTG",
+   "url": "https://www.moneytimes.com.br/fiis-e-fi-infra-os-melhores-fundos-para-investir-em-outubro-segundo-o-btg-igdl/",
+   "publicado": "2026-10-10T12:30:00+00:00",
+   "tickers": [
+    "CTPI11",
+    "KNHY11",
+    "RBRY11"
+   ],
+   "resumo": "O BTG Pactual promoveu ajustes em sua carteira recomendada de fundos listados para o mês de outubro, retirando RBR Crédito (RBRY11) e Capitânia FI-Infra (CTPI11) da seleção e diminuindo, em 2 pontos percentuais, a participação em Kinea High Yield CRI (KNHY11). Em contrapartida, a"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Vale (VALE3) notifica Marcelo Gasparino e promete medidas por vazamento de informações confidenciais",
+   "url": "https://www.moneytimes.com.br/vale-vale3-notifica-marcelo-gasparino-e-promete-medidas-por-vazamento-de-informacoes-confidenciais-lils/",
+   "publicado": "2026-10-10T12:19:36+00:00",
+   "tickers": [
+    "VALE3"
+   ],
+   "resumo": "A Vale (VALE3) notificou Marcelo Gasparino, ex-vice-presidente do conselho de administração da companhia, e adotará medidas de responsabilização após sancioná-lo por um &#8220;vazamento deliberado de informações confidenciais&#8221;. &#8220;Sem prejuízo disso, a Vale adotará medi"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "O princípio chinês de ‘A Arte da Guerra’ que Warren Buffett aplica para não perder dinheiro na bolsa",
+   "url": "https://www.moneytimes.com.br/warren-buffett-arte-da-guerra-rsgp/",
+   "publicado": "2026-10-10T12:03:00+00:00",
+   "tickers": [],
+   "resumo": "Separados por mais de dois milênios de história, o general chinês Sun Tzu e o megainvestidor Warren Buffett parecem partir de uma mesma premissa estratégica. A Arte da Guerra ultrapassou os campos de batalha e se tornou uma referência de estratégia no mundo corporativo. No mercad"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Honda HR-V lidera buscas por carros novos no Brasil; veja os mais procurados",
+   "url": "https://valorinveste.globo.com/objetivo/gastar-bem/noticia/2026/10/10/honda-hr-v-lidera-buscas-por-carros-novos-no-brasil-veja-os-mais-procurados.ghtml",
+   "publicado": "2026-10-10T10:53:34+00:00",
+   "tickers": [],
+   "resumo": "O Honda HR-V foi o carro zero quilômetro mais buscado pelos brasileiros em agosto, segundo levantamento do Webmotors Autoinsights. O modelo ficou à frente de Ford Ranger e Jeep Compass, que completaram as três primeiras posições entre os veículos novos.\nO ranking foi elaborado a "
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Surpresa com condomínio é a principal dor de cabeça após entrega das chaves, diz pesquisa",
+   "url": "https://valorinveste.globo.com/produtos/imoveis/noticia/2026/10/10/surpresa-com-condominio-e-a-principal-dor-de-cabeca-apos-entrega-das-chaves-diz-pesquisa.ghtml",
+   "publicado": "2026-10-10T10:51:54+00:00",
+   "tickers": [],
+   "resumo": "Depois de finalmente conseguir pegar as chaves da casa própria, muitos compradores são surpreendidos pelo custo das taxas condominiais. Na Assembleia Geral de Instalação (AGI), momento em que o condomínio é formalmente estabelecido, o valor da cota condominial desponta como o pri"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Adolescentes que não conseguem largar TikTok e Instagram estão perdendo a noção do tempo",
+   "url": "https://investnews.com.br/the-wall-street-journal/adolescentes-que-nao-conseguem-largar-tiktok-e-instagram-estao-perdendo-a-nocao-do-tempo/",
+   "publicado": "2026-10-10T09:00:00+00:00",
+   "tickers": [],
+   "resumo": "A gratificação instantânea proporcionada por vídeos curtos, como do TikTok, dificulta a compreensão de como o presente afeta o futuro"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Quanto rende o prêmio de R$ 112 milhões da Mega-Sena na poupança e em outras opções de renda fixa?",
+   "url": "https://valorinveste.globo.com/objetivo/hora-de-investir/noticia/2026/10/10/quanto-rende-o-premio-de-112-milhoes-da-mega-sena-na-poupanca-e-na-renda-fixa.ghtml",
+   "publicado": "2026-10-10T03:00:00+00:00",
+   "tickers": [],
+   "resumo": "A Mega-Sena 3069 vai sortear um prêmio estimado em R$ 112 milhões neste domingo (11), a partir das 11h (horário de Brasília). E a bolada pode render R$ 696 mil  milhão em apenas um mês na poupança. \nMas o retorno dessa aplicação em modalidades mais rentáveis da renda fixa pode ch"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Mega-Sena 3069 sorteia prêmio de R$ 112 milhões no domingo; veja como e até que horas apostar",
+   "url": "https://valorinveste.globo.com/loterias/noticia/2026/10/10/mega-sena-3069-sorteio-domingo-ate-que-horas-apostar.ghtml",
+   "publicado": "2026-10-10T03:00:00+00:00",
+   "tickers": [],
+   "resumo": "A Mega-Sena 3069 vai sortear um prêmio estimado em R$ 112 milhões neste domingo (11), a partir das 11h (horário de Brasília), em São Paulo.\nVEJA TAMBÉM: \n- Os números mais sorteados na história Mega-Sena\nPara os sorteios realizados aos domingos, as apostas podem ser feitas até às"
   },
   {
    "fonte": "Suno Noticias",
@@ -23,24 +181,6 @@
    "resumo": "O fundo imobiliário HSLG11 (HSI Logística) informou nesta sexta-feira (9) que a Casas Bahia não pagou R$ 4,3 milhões em aluguéis referentes a setembro. Diante da inadimplência, o fundo ajuizou ação de despejo por falta de pagamento contra a varejista, conforme fato relevante enca"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "A economia começou a perder fôlego e a eleição vai sentir",
-   "url": "https://www.moneytimes.com.br/a-economia-comecou-a-perder-folego-e-a-eleicao-vai-sentir-2/",
-   "publicado": "2026-10-09T22:31:11+00:00",
-   "tickers": [],
-   "resumo": "O último domingo não escolheu o próximo presidente, mas mudou de forma importante o preço do Brasil. Flávio Bolsonaro terminou o primeiro turno com 47,03% dos votos válidos, diante de 45,16% de Luiz Inácio Lula da Silva. Os dois voltam às urnas em 25 de outubro. A diferença, de m"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Terra Santa (LAND3): incêndio atinge reserva legal de fazenda em Mato Grosso",
-   "url": "https://www.moneytimes.com.br/terra-santa-land3-incendio-atinge-reserva-legal-de-fazenda-em-mato-grosso-pads/",
-   "publicado": "2026-10-09T22:25:37+00:00",
-   "tickers": [
-    "LAND3"
-   ],
-   "resumo": "A Terra Santa Propriedas Agrícolas (LAND3) informou nesta sexta-feira (9) que um incêndio atingiu parte da Fazenda Iporanga, em Nova Maringá, no Mato Grosso. Segundo a companhia, as chamas alcançaram uma área de reserva legal, composta por vegetação nativa, que não integra as ter"
-  },
-  {
    "fonte": "Suno Noticias",
    "titulo": "Varejo compra R$ 157 milhões em FIIs na semana, mostra levantamento",
    "url": "https://www.suno.com.br/noticias/varejo-compra-r-157-milhoes-em-fiis-na-semana-mostra-levantamento/",
@@ -49,50 +189,12 @@
    "resumo": "Os investidores de varejo registraram compras líquidas de R$ 156,7 milhões em fundos imobiliários (FIIs) entre 28 de setembro e 2 de outubro, conforme o relatório semanal de mercado da Lareal. Na direção contrária, os investidores institucionais locais encerraram o período com ve"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Eztec (EZTC3) eleva lançamentos em 53% no 3T26, mas vendas ficam estáveis",
-   "url": "https://www.moneytimes.com.br/eztec-eztc3-eleva-lancamentos-em-53-no-3t26-mas-vendas-ficam-estaveis/",
-   "publicado": "2026-10-09T22:09:40+00:00",
-   "tickers": [
-    "EZTC3"
-   ],
-   "resumo": "A construtora e incorporadora Eztec (EZTC3) anunciou nesta sexta-feira (9) alta de 52,9% nos lançamentos de imóveis no terceiro trimestre ante o mesmo período de 2025, para R$ 726,5 milhões, segundo prévia de resultados do período divulgada ao mercado. Os lançamentos corresponder"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Juros futuros caem com ‘trade eleitoral’ e ignoram IPCA elevado",
-   "url": "https://www.moneytimes.com.br/juros-futuros-9-10-26-apsa/",
-   "publicado": "2026-10-09T21:57:39+00:00",
-   "tickers": [],
-   "resumo": "Os juros futuros fecharam em baixa nesta sexta-feira (9), ainda se ajustando à expectativa consolidada no mercado de que há grandes chances de alternância de poder em 2027. As taxas operaram em queda firme, após as primeiras pesquisas para o segundo turno da eleição presidencial "
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Alavancada, CSN (CSNA3) encaminha venda de subsidiária alemã; veja valores",
-   "url": "https://www.moneytimes.com.br/alavancada-csn-csna3-encaminha-venda-de-subsidiaria-alema-veja-valores/",
-   "publicado": "2026-10-09T21:53:09+00:00",
-   "tickers": [
-    "CSNA3"
-   ],
-   "resumo": "Enfim, a CSN (CSNA3) fechou a venda de sua operação de aços longos na Alemanha, a Stahlwerk Thüringen GmbH (SWT), em uma transação avaliada em € 550 milhões, sujeita a ajustes. A operação faz parte da estratégia da companhia para reduzir seu nível de endividamento. Há meses o mer"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Dólar tem maior queda semanal pós-1º turno desde criação do real",
    "url": "https://valorinveste.globo.com/mercados/moedas-e-juros/noticia/2026/10/09/dolar-tem-maior-queda-semanal-pos-1o-turno-desde-criacao-do-real.ghtml",
    "publicado": "2026-10-09T21:46:25+00:00",
    "tickers": [],
    "resumo": "O dólar à vista encerrou a sessão desta sexta-feira em queda firme, com os agentes financeiros reduzindo o prêmio de risco dos ativos brasileiros diante da possibilidade de o senador Flávio Bolsonaro (PL-RJ) se eleger presidente na eleição deste ano. \nDiante da euforia desta sema"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Santander (SANB11) pagará R$ 1,5 bilhão em juros sobre o capital próprio",
-   "url": "https://www.moneytimes.com.br/santander-sanb11-pagara-r-15-bilhao-em-juros-sobre-o-capital-proprio-2/",
-   "publicado": "2026-10-09T21:24:03+00:00",
-   "tickers": [
-    "SANB11"
-   ],
-   "resumo": "O Santander (SANB11) aprovou nesta sexta-feira (9) a distribuição de R$ 1,5 bilhão em juros sobre o capital próprio (JCP), conforme ata divulgada ao mercado. O montante bruto corresponde a R$ 0,19095423791 por ação ordinária, R$ 0,21004966171 por ação preferencial e R$ 0,40100389"
   },
   {
    "fonte": "Suno Noticias",
@@ -142,32 +244,6 @@
     "PETR3"
    ],
    "resumo": "Depois da euforia no dia seguinte ao primeiro turno, a bolsa brasileira cravou mais uma marca histórica nesta sexta-feira (9). O cenário político doméstico renovou o apetite por risco e levou os investidores às compras na B3, diante da divulgação de novas pesquisas de intenção de"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "A semana do agro na Bolsa após o 1º turno: Camil (CAML3) dispara 25% e outras 5 ações sobem mais de 10%; um papel perde 5%",
-   "url": "https://www.moneytimes.com.br/a-semana-do-agro-na-bolsa-apos-o-1o-turno-camil-caml3-dispara-25-e-outras-5-acoes-sobem-mais-de-10-um-papel-perde-5/",
-   "publicado": "2026-10-09T20:46:42+00:00",
-   "tickers": [
-    "CAML3"
-   ],
-   "resumo": "A primeira semana após o primeiro turno das eleições terminou com ganhos para a maioria das ações do agronegócio acompanhadas pelo Agro Times. O resultado das urnas, com Flávio Bolsonaro (PL) à frente de Luiz Inácio Lula da Silva (PT) na disputa presidencial, colocou as perspecti"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Milho despenca em Chicago após USDA elevar a previsão de produtividade nos EUA",
-   "url": "https://www.moneytimes.com.br/milho-despenca-em-chicago-apos-usda-elevar-a-previsao-de-produtividade-nos-eua-pads/",
-   "publicado": "2026-10-09T20:44:00+00:00",
-   "tickers": [],
-   "resumo": "Os contratos futuros do milho negociados nos EUA despencaram em até o limite diário de negociação nesta sexta-feira e encerraram o dia com queda acentuada, depois que o Departamento de Agricultura dos EUA (USDA) surpreendeu os operadores com um aumento inesperado na previsão para"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Ibovespa tem duplo recorde aos 209 mil pontos e avança quase 9% na semana após 1º turno; dólar cai e fica abaixo de R$ 5",
-   "url": "https://www.moneytimes.com.br/ibovespa-9-10-26-lils/",
-   "publicado": "2026-10-09T20:31:04+00:00",
-   "tickers": [],
-   "resumo": "O Ibovespa (IBOV) estendeu os ganhos da véspera com o &#8216;trade Flávio&#8217; e a melhora do humor externo, renovando as máximas históricas. Nesta sexta-feira (9), o principal índice da bolsa brasileira terminou as negociações com alta de 1,38%, aos 209.066,90 pontos, em novo "
   },
   {
    "fonte": "InvestNews",
@@ -739,14 +815,6 @@
    "resumo": "As negociações do Tesouro Direto voltaram a funcionar normalmente no início da tarde desta quinta-feira (8) após registrar instabilidade pela manhã, no momento em que o mercado de juros futuros apresentou forte queda das taxas. Procurado pela reportagem, o Tesouro Nacional não in"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Receita envia cartas a quase 500 mil contribuintes na malha fina do IR 2026",
-   "url": "https://investnews.com.br/financas/receita-envia-cartas-a-quase-500-mil-contribuintes-na-malha-fina-do-ir-2026/",
-   "publicado": "2026-10-08T15:10:42+00:00",
-   "tickers": [],
-   "resumo": "O contribuinte não precisa esperar a chegada da carta para verificar a situação da declaração"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "De olho nas novas gerações, XP lança 'conta menor' com investimentos supervisionados",
    "url": "https://valorinveste.globo.com/produtos/servicos-financeiros/noticia/2026/10/08/de-olho-nas-novas-geracoes-xp-lanca-conta-menor-com-investimentos-supervisionados.ghtml",
@@ -767,14 +835,6 @@
    "resumo": "A empresa de locação de veículos pesados Vamos (VAMO3) é uma das maiores beneficiadas pelo otimismo eleitoral que tomou conta dos mercados desde o resultado do primeiro turno das eleições presidenciais. Os papéis acumulam alta de 50% apenas em outubro, e já dobraram de preço desd"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "BTG prepara quarto fundo de infraestrutura para captar R$ 1 bilhão",
-   "url": "https://investnews.com.br/negocios/btg-quarto-fundo-infra-1-bi/",
-   "publicado": "2026-10-08T14:39:53+00:00",
-   "tickers": [],
-   "resumo": "Histórico da série inclui investimentos em CPFL e Contrail e aporte na Cosan; novo veículo poderá concentrar recursos em uma única empresa"
-  },
-  {
    "fonte": "Brazil Journal",
    "titulo": "O rali das small caps",
    "url": "https://braziljournal.com/o-rali-das-small-caps",
@@ -783,36 +843,12 @@
    "resumo": "No rali desta semana, 18 ações subiram mais de 20% em três pregões. Dessas, 17 estão no índice de small caps – a exceção é a Localiza, que valorizou 20,5% no período&nbsp; – e apenas sete fazem parte do Ibovespa (e com pesos reduzidos). Depois de subir 7,7% na segunda-feira, o Ib"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Google lança agente Gemini para realizar tarefas de trabalho em seus aplicativos",
-   "url": "https://investnews.com.br/negocios/google-lanca-agente-gemini-para-realizar-tarefas-de-trabalho-em-seus-aplicativos/",
-   "publicado": "2026-10-08T13:58:40+00:00",
-   "tickers": [],
-   "resumo": "A ferramenta do Google pode ser usada em uma série de tarefas, desde responder perguntas até criar conteúdo e programar"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Petróleo dispara com escalada da guerra; EUA planejam 'bombardeios massivos' ao Irã, diz agência",
    "url": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/10/08/petroleo-dispara-com-escalada-da-guerra-eua-planejam-bombardeios-massivos-ao-ira-diz-agencia.ghtml",
    "publicado": "2026-10-08T13:57:21+00:00",
    "tickers": [],
    "resumo": "Os preços do petróleo dispararam nesta quinta-feira (8) devido às preocupações persistentes com o abastecimento proveniente do Oriente Médio, em meio a um aumento nos ataques à navegação no Golfo Pérsico e no Estreito de Ormuz, enquanto os EUA reduziram a produção devido a um fur"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Petrobras arremata 21 blocos em leilão da ANP e pagará R$ 3,2 bilhões",
-   "url": "https://investnews.com.br/negocios/petrobras-arremata-21-blocos-em-leilao-da-anp-e-pagara-r-32-bilhoes/",
-   "publicado": "2026-10-08T13:45:43+00:00",
-   "tickers": [],
-   "resumo": "Estatal levou áreas nas bacias de Campos, Santos e Ceará; leilões da ANP tiveram 56 blocos arrematados"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Nobel de Literatura 2026 vai para a escritora Anne Carson",
-   "url": "https://investnews.com.br/off-work/nobel-de-literatura-2026-vai-para-a-escritora-anne-carson/",
-   "publicado": "2026-10-08T13:22:55+00:00",
-   "tickers": [],
-   "resumo": "Escritora canadense é reconhecida por transformar referências clássicas em poesia e prosa contemporâneas"
   },
   {
    "fonte": "Valor Investe",
@@ -871,38 +907,6 @@
    "publicado": "2026-10-08T10:53:12+00:00",
    "tickers": [],
    "resumo": "O Datafolha divulga uma nova rodada de pesquisas eleitorais com os dados da corrida presidencial nesta quinta-feira (8), aguardados com expectativa pelos investidores. Além disso, o mercado monitora as campanhas dos candidatos Flávio Bolsonaro (PL) e Luiz Inácio Lula da Silva (PT"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Ai, esse eu-quente...",
-   "url": "https://valorinveste.globo.com/blogs/vera-rita-de-mello-ferreira/coluna/ai-esse-eu-quente.ghtml",
-   "publicado": "2026-10-08T09:40:00+00:00",
-   "tickers": [],
-   "resumo": "- titia aqui não avisou, no vídeo da semana passada?\n- adiantou?\n- não, né...\n- porque é isso - ninguém segura o eu-quente, o nosso chamado 'Sistema 1' - ou, no mínimo, é muuuuito difícil fazer isso, na hora H...\n- bom, o resto você vê no vídeo!\nAi, esse eu-quente..."
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Opinião - Balanços escondendo dívidas?",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/coluna/opiniao-balancos-escondendo-dividas.ghtml",
-   "publicado": "2026-10-08T09:30:00+00:00",
-   "tickers": [],
-   "resumo": "Fernando Torres mostrou em sua coluna no Valor, agosto passado, o problema (sério) de dívidas fora do balanço. A Footnotes Analyst também escreveu sobre esse assunto neste ano. E a Financial Analysts Journal, mais ainda, com artigos alternados desde a década de 70. A Folha de São"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Fim das bets: termina hoje prazo para empresas informarem saldos dos apostadores aos bancos",
-   "url": "https://valorinveste.globo.com/objetivo/organize-as-contas/noticia/2026/10/08/fim-das-bets-termina-hoje-prazo-para-empresas-informarem-saldos-dos-apostadores-aos-bancos.ghtml",
-   "publicado": "2026-10-08T09:20:00+00:00",
-   "tickers": [],
-   "resumo": "Termina nesta quinta-feira (8) o prazo previsto no calendário do governo para que as casas de apostas online informem aos bancos quanto dinheiro ainda pertence aos apostadores. A medida faz parte do processo de encerramento das bets no Brasil, determinado pela Medida Provisória 1"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Brasileiro não tem dinheiro para imprevistos, mas quer investir para aposentadoria",
-   "url": "https://valorinveste.globo.com/objetivo/hora-de-investir/noticia/2026/10/08/brasileiro-nao-tem-dinheiro-para-imprevistos-mas-quer-investir-para-aposentadoria.ghtml",
-   "publicado": "2026-10-08T09:10:01+00:00",
-   "tickers": [],
-   "resumo": "O brasileiro quer guardar dinheiro para o futuro, mas ainda enfrenta dificuldades para construir a primeira linha de defesa contra os imprevistos. Seis em cada dez trabalhadores não têm reserva de emergência e 65% chegam ao fim do mês no “zero a zero” ou no vermelho. Ainda assim,"
   },
   {
    "fonte": "Brazil Journal",
