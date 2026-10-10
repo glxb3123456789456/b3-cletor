@@ -3,12 +3,60 @@
  "itens": 105,
  "dados": [
   {
+   "fonte": "InvestNews",
+   "titulo": "Bets já devolveram R$ 1 bilhão aos apostadores após proibição",
+   "url": "https://investnews.com.br/negocios/bets-ja-devolveram-r-1-bilhao-aos-apostadores-apos-proibicao/",
+   "publicado": "2026-10-10T17:37:21+00:00",
+   "tickers": [],
+   "resumo": "De R$ 1,2 bilhão, as Bets já devolveram a maior parte desde a prioibição"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "'Não faremos ajuste nos programas sociais, mas nas regalias em Brasília', diz Daniella Marques",
+   "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/10/10/no-faremos-ajuste-nos-programas-sociais-mas-nas-regalias-em-braslia-diz-daniella-marques.ghtml",
+   "publicado": "2026-10-10T16:07:19+00:00",
+   "tickers": [],
+   "resumo": "A ex-presidente da Caixa Econômica Federal e coordenadora econômica da campanha de Flávio Bolsonaro (PL), Daniella Marques, afirmou neste sábado (10) que um eventual governo do candidato não promoverá cortes em programas sociais, mas reduzirá gastos que classificou como \"regalias"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "‘Uptober’: conheça o ‘evento’ que pode fazer o bitcoin desencadear altas expressivas em outubro",
+   "url": "https://www.moneytimes.com.br/uptober-conheca-o-evento-que-pode-fazer-o-bitcoin-desencadear-altas-expressivas-em-outubro-lbrdbb108/",
+   "publicado": "2026-10-10T16:00:00+00:00",
+   "tickers": [],
+   "resumo": "“Uptober” é como o mês de outubro ficou conhecido entre os investidores e entusiastas das criptomoedas. O termo é uma contração de up (para cima em inglês), com october (outubro no mesmo idioma), e foi cunhado pela frequência com a qual o bitcoin (BTC) encerra o mês no positivo. "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Bitcoin (BTC) avança aos US$ 82 mil; veja preços das criptomoedas neste sábado (10)",
+   "url": "https://www.moneytimes.com.br/bitcoin-btc-avanca-aos-us-82-mil-veja-precos-das-criptomoedas-neste-sabado-10-lils/",
+   "publicado": "2026-10-10T15:29:33+00:00",
+   "tickers": [],
+   "resumo": "O bitcoin (BTC) opera em leve alta neste sábado (19), mantendo o patamar de US$ 82 mil, em recuperação das perdas recentes. Ao longo da semana, o BTG foi pressionado por uma onda de liquidações. O movimento também atingiu outras moedas de maior capitalização, em um ambiente de me"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Small caps podem liderar nova onda de alta da Bolsa em 2027; veja ações com maior potencial",
+   "url": "https://www.moneytimes.com.br/small-caps-podem-liderar-nova-onda-de-alta-da-bolsa-em-2027-veja-acoes-com-maior-potencial-lils/",
+   "publicado": "2026-10-10T15:16:52+00:00",
+   "tickers": [],
+   "resumo": "As small caps, ações de empresas de menor capitalização de mercado, foram as &#8216;grandes vencedoras&#8217; do primeiro turno das eleições. Na semana, o índice SMLL disparou 20,14% frente a valorização de 8,82% do Ibovespa (IBOV) e na avaliação da Eleven Financial, o movimento "
+  },
+  {
    "fonte": "Money Times",
    "titulo": "Ibovespa pode subir mais 14% e chegar aos 235 mil pontos em 2027, projeta Eleven",
    "url": "https://www.moneytimes.com.br/ibovespa-pode-subir-mais-14-e-chegar-aos-235-mil-pontos-em-2027-projeta-eleven-lils/",
    "publicado": "2026-10-10T14:55:16+00:00",
    "tickers": [],
-   "resumo": "Após o salto de 8,8% do Ibovespa (IBOV) na semana seguinte ao primeiro turno das eleições presidenciais, a Eleven Capital vê espaço para novas altas no curto prazo. Com Flávio Bolsonaro (PL) à frente do Luiz Inácio Lula da Silva (PT) no primeiro turno das eleições e abrir uma van"
+   "resumo": "Após o salto de 8,8% do Ibovespa (IBOV) na semana seguinte ao primeiro turno das eleições presidenciais, a Eleven Financial vê espaço para novas altas no curto prazo. Com Flávio Bolsonaro (PL) à frente do Luiz Inácio Lula da Silva (PT) no primeiro turno das eleições e abrir uma v"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Europa busca reduzir pela metade as importações de carros da China",
+   "url": "https://investnews.com.br/negocios/europa-busca-reduzir-pela-metade-as-importacoes-de-carros-da-china/",
+   "publicado": "2026-10-10T14:51:58+00:00",
+   "tickers": [],
+   "resumo": "Déficit comercial ultrapassa 1 bilhão de euros por dia com a China"
   },
   {
    "fonte": "Money Times",
@@ -99,36 +147,6 @@
    "publicado": "2026-10-10T12:35:00+00:00",
    "tickers": [],
    "resumo": "As pesquisas eleitorais para presidente da República divulgadas na próxima semana para o segundo turno das eleições, que ocorrerá em 25 de outubro, serão acompanhadas de perto de olho em uma potencial alternância de poder. Na maioria dos últimos levantamentos, o senador Flávio Bo"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "FIIs e FI-Infra: Os melhores fundos para investir em outubro, segundo o BTG",
-   "url": "https://www.moneytimes.com.br/fiis-e-fi-infra-os-melhores-fundos-para-investir-em-outubro-segundo-o-btg-igdl/",
-   "publicado": "2026-10-10T12:30:00+00:00",
-   "tickers": [
-    "CTPI11",
-    "KNHY11",
-    "RBRY11"
-   ],
-   "resumo": "O BTG Pactual promoveu ajustes em sua carteira recomendada de fundos listados para o mês de outubro, retirando RBR Crédito (RBRY11) e Capitânia FI-Infra (CTPI11) da seleção e diminuindo, em 2 pontos percentuais, a participação em Kinea High Yield CRI (KNHY11). Em contrapartida, a"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Vale (VALE3) notifica Marcelo Gasparino e promete medidas por vazamento de informações confidenciais",
-   "url": "https://www.moneytimes.com.br/vale-vale3-notifica-marcelo-gasparino-e-promete-medidas-por-vazamento-de-informacoes-confidenciais-lils/",
-   "publicado": "2026-10-10T12:19:36+00:00",
-   "tickers": [
-    "VALE3"
-   ],
-   "resumo": "A Vale (VALE3) notificou Marcelo Gasparino, ex-vice-presidente do conselho de administração da companhia, e adotará medidas de responsabilização após sancioná-lo por um &#8220;vazamento deliberado de informações confidenciais&#8221;. &#8220;Sem prejuízo disso, a Vale adotará medi"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "O princípio chinês de ‘A Arte da Guerra’ que Warren Buffett aplica para não perder dinheiro na bolsa",
-   "url": "https://www.moneytimes.com.br/warren-buffett-arte-da-guerra-rsgp/",
-   "publicado": "2026-10-10T12:03:00+00:00",
-   "tickers": [],
-   "resumo": "Separados por mais de dois milênios de história, o general chinês Sun Tzu e o megainvestidor Warren Buffett parecem partir de uma mesma premissa estratégica. A Arte da Guerra ultrapassou os campos de batalha e se tornou uma referência de estratégia no mundo corporativo. No mercad"
   },
   {
    "fonte": "Valor Investe",
@@ -767,22 +785,6 @@
    "resumo": "TSE publica o boletim de cada urna; no primeiro turno, país teve abstenção de 21,08%, a maior desde 1998"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Quanto ganha um vencedor do Nobel? Veja como funciona a premiação",
-   "url": "https://investnews.com.br/off-work/nobel-vencedor-valor/",
-   "publicado": "2026-10-08T17:30:04+00:00",
-   "tickers": [],
-   "resumo": "Valor do Prêmio Nobel é definido por categoria e pode ser dividido entre até três laureados"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Jeff Bezos ganha US$ 87 bilhões e vira o segundo mais rico do mundo",
-   "url": "https://investnews.com.br/negocios/jeff-bezos-ganha-us-87-bilhoes-e-vira-o-segundo-mais-rico-do-mundo/",
-   "publicado": "2026-10-08T17:27:47+00:00",
-   "tickers": [],
-   "resumo": "A fortuna de Bezos agora é estimada em US$ 368,5 bilhões"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "B3 planeja lançar ações tokenizadas no início de 2027",
    "url": "https://valorinveste.globo.com/mercados/noticia/2026/10/08/b3-planeja-lancar-acoes-tokenizadas-no-inicio-de-2027.ghtml",
@@ -899,14 +901,6 @@
    "publicado": "2026-10-08T11:00:00+00:00",
    "tickers": [],
    "resumo": "Para 92% dos brasileiros, a aposentadoria paga pelo INSS não vai bastar para manter o padrão de vida depois que pararem de trabalhar. Desse total, 63% disseram que o benefício público não será suficiente e 29% avaliaram que ele cobrirá só parte das necessidades. Apenas 6% acredit"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Datafolha, campanhas de Flávio e Lula e vendas de títulos pelo Tesouro dos EUA estão no foco",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/08/datafolha-campanhas-de-flavio-e-lula-e-vendas-de-titulos-pelo-tesouro-dos-eua-estao-no-foco.ghtml",
-   "publicado": "2026-10-08T10:53:12+00:00",
-   "tickers": [],
-   "resumo": "O Datafolha divulga uma nova rodada de pesquisas eleitorais com os dados da corrida presidencial nesta quinta-feira (8), aguardados com expectativa pelos investidores. Além disso, o mercado monitora as campanhas dos candidatos Flávio Bolsonaro (PL) e Luiz Inácio Lula da Silva (PT"
   },
   {
    "fonte": "Brazil Journal",
