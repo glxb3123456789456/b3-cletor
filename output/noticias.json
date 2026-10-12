@@ -3,6 +3,30 @@
  "itens": 105,
  "dados": [
   {
+   "fonte": "Valor Investe",
+   "titulo": "Irã diz que resposta dos EUA à sua proposta de reabrir Ormuz foi ‘insuficiente’, segundo mídia estatal",
+   "url": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/10/11/ir-diz-que-resposta-dos-eua-sua-proposta-de-reabrir-ormuz-foi-insuficiente-segundo-mdia-estatal.ghtml",
+   "publicado": "2026-10-11T19:48:31+00:00",
+   "tickers": [],
+   "resumo": "O secretário do Conselho Supremo de Segurança Nacional do Irã, Mohsen Rezaei, afirmou que a resposta dos Estados Unidos às sete condições apresentadas pelo Irã para reabrir o estratégico Estreito de Ormuz foi “insuficiente”, segundo noticiou a mídia estatal iraniana no domingo.\nW"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Ataques Houthis a aeroporto saudita trazem risco de ampliação de conflito e de nova incerteza ao petróleo",
+   "url": "https://investnews.com.br/economia/ataques-houthis-arabia-petroleo/",
+   "publicado": "2026-10-11T18:14:49+00:00",
+   "tickers": [],
+   "resumo": "Rebeldes Houthis fizeram dois ataques, no sábado e no domingo, ao principal aeroporto da Arábia Saudita em Riad"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Rússia e Ucrânia concordaram com ‘cessar-fogo energético’, afirma Trump",
+   "url": "https://investnews.com.br/economia/russia-e-ucrania-concordaram-com-cessar-fogo-energetico-afirma-trump/",
+   "publicado": "2026-10-11T15:17:45+00:00",
+   "tickers": [],
+   "resumo": "O presidente dos EUA havia voltado a exigir que a Ucrânia parasse de atacar refinarias russas"
+  },
+  {
    "fonte": "InvestNews",
    "titulo": "Acordo de China e UE sobre carros híbridos busca evitar guerra comercial",
    "url": "https://investnews.com.br/economia/acordo-de-china-e-ue-sobre-carros-hibridos-busca-evitar-guerra-comercial/",
@@ -62,11 +86,11 @@
   },
   {
    "fonte": "Valor Investe",
-   "titulo": "Resultado da Mega-Sena 3069 com prêmio de R$ 112 milhões é divulgado; veja números sorteados",
+   "titulo": "Ninguém acerta as seis dezenas da Mega-Sena 3069 e prêmio vai a R$ 150 milhões; veja números sorteados",
    "url": "https://valorinveste.globo.com/loterias/noticia/2026/10/11/resultado-da-mega-sena-3069-com-premio-de-r-112-milhoes-e-divulgado-veja-numeros-sorteados.ghtml",
    "publicado": "2026-10-11T14:03:14+00:00",
    "tickers": [],
-   "resumo": "O resultado da Mega-Sena 3069 com prêmio de R$ 112 milhões foi divulgado neste domingo (11) em São Paulo.\nOs números sorteados hoje foram: 05 - 19 - 22 - 44 - 47 - 57.\nVEJA TAMBÉM: \n- Os números mais sorteados na história Mega-Sena\nCaixa Econômica ainda não divulgou se houve acer"
+   "resumo": "O resultado da Mega-Sena 3069 com prêmio de R$ 112 milhões foi divulgado neste domingo (11) em São Paulo, e ninguém acertou as seis dezenas. Com isso, o prêmio estimado para o próximo sorteio, previsto para a quarta-feira (14) é de R$ 150 milhões\nOs números sorteados hoje foram: "
   },
   {
    "fonte": "Money Times",
@@ -748,22 +772,6 @@
    "resumo": "As ações dos grandes bancos brasileiros e da B3, a controladora da bolsa brasileira, registraram uma explosão na quantidade negócios realizados desde segunda-feira (5), primeiro pregão após o primeiro turno das eleições presidenciais, quando o Ibovespa chegou a inéditos 209 mil p"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Por que a Ford criou um cargo só para quem vai dar nomes a carros, produtos e recursos",
-   "url": "https://investnews.com.br/the-wall-street-journal/por-que-a-ford-criou-um-cargo-so-para-dar-nomes-a-carros-produtos-e-recursos/",
-   "publicado": "2026-10-09T08:07:00+00:00",
-   "tickers": [],
-   "resumo": "Com mais empresas, produtos e marcas disputando espaço, criar nomes ficou mais complexo"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "O jovem de 26 anos que levou IA para o mundo dos advogados, atraiu Peter Thiel e Sequoia e agora incomoda a OAB-SP",
-   "url": "https://investnews.com.br/negocios/o-jovem-de-26-anos-que-levou-ia-para-o-mundo-dos-advogados-atraiu-peter-thiel-e-sequoia-e-agora-incomoda-a-oab/",
-   "publicado": "2026-10-09T08:00:00+00:00",
-   "tickers": [],
-   "resumo": "A Enter automatiza tarefas jurídicas de empresas como iFood e Mercado Livre. Em três anos, já vale R$ 6 bilhões"
-  },
-  {
    "fonte": "Brazil Journal",
    "titulo": "Scanntech fecha rodada de US$ 180 milhões; Warburg faz saída parcial",
    "url": "https://braziljournal.com/exclusivo-scanntech-fecha-rodada-de-us-180-milhoes-warburg-faz-saida-parcial",
@@ -891,19 +899,6 @@
    "publicado": "2026-10-08T12:57:59+00:00",
    "tickers": [],
    "resumo": "Os rendimentos dos títulos do Tesouro Direto passaram a cair nesta quinta-feira (8) após registrar instabilidade pela manhã e as negociações serem interrompidas temporariamente. As taxas mantêm, assim, o movimento de forte queda visto na segunda-feira, a maior da série histórica "
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Ibovespa fecha em alta de 1% com otimismo eleitoral e apoio de Petrobras (PETR4); dólar sobe",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/08/ibovespa-e-dolar-hoje-8-de-outubro-de-2026.ghtml",
-   "publicado": "2026-10-08T12:06:22+00:00",
-   "tickers": [
-    "BBAS3",
-    "PETR3",
-    "PETR4",
-    "VAMO3"
-   ],
-   "resumo": "O Ibovespa, principal índice de ações brasileiras, fechou em alta nesta quinta-feira (8), em dia positivo para a maioria das empresas que integram o indicador. Os ganhos são mais acentuados ocorreram entre empresas dos setores de bens industriais, petróleo e gás e consumo. O movi"
   }
  ]
 }
