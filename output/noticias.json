@@ -3,6 +3,298 @@
  "itens": 105,
  "dados": [
   {
+   "fonte": "Money Times",
+   "titulo": "Wall Street tem tom misto com pressão ‘tech’ e Fed",
+   "url": "https://www.moneytimes.com.br/wall-street-abertura-16-10-26-lils/",
+   "publicado": "2026-10-16T13:37:54+00:00",
+   "tickers": [],
+   "resumo": "Os índices de Wall Street operam sem direção única com pressão do setor de tecnologia e apostas sobre a trajetória dos juros norte-americanos. Confira o desempenho dos índices após a abertura das negociações: O que movimenta Wall Street hoje? As preocupações com investimentos em "
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "CPTS11 anunciou pagamento de dividendos em outubro; confira",
+   "url": "https://www.suno.com.br/noticias/cpts11-rendimentos-outubro-2026-dy/",
+   "publicado": "2026-10-16T13:35:04+00:00",
+   "tickers": [
+    "CPTS11"
+   ],
+   "resumo": "Os cotistas do fundo imobiliário CPTS11 receberão R$ 0,09 por cota na próxima distribuição de rendimentos, com pagamento em 22 de outubro de 2026, referente aos resultados de setembro. Terão direito ao provento os investidores posicionados no encerramento do pregão de 15 de outub"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Êxodo da Faria Lima para outras regiões pode favorecer esse FII de tijolo",
+   "url": "https://www.moneytimes.com.br/exodo-da-faria-lima-para-outras-regioes-pode-favorecer-esse-fii-de-tijolo/",
+   "publicado": "2026-10-16T13:24:18+00:00",
+   "tickers": [
+    "JSRE11"
+   ],
+   "resumo": "Entre os FIIs de tijolo, seguimos vendo valor em nomes que combinam ativos de alta qualidade, boa localização e desconto patrimonial. É justamente onde o JS Real Estate (JSRE11) se encaixa. O fundo reúne lajes corporativas de alto padrão em São Paulo, com vacância controlada e ex"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Ibovespa nos 240 mil pontos? Por que o Inter diz que ‘não é hora de vender bolsa'",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/16/ibovespa-nos-240-mil-pontos-por-que-o-inter-diz-que-nao-e-hora-de-vender-bolsa.ghtml",
+   "publicado": "2026-10-16T13:17:20+00:00",
+   "tickers": [],
+   "resumo": "Depois de cravar máxima histórica aos 209 mil pontos e recuar para a faixa dos 204 mil, o investidor pessoa física correu para embolsar os lucros. Porém, na contramão de quem decidiu sair no meio da festa, o banco Inter avalia que este não é o momento de vender bolsa. Pelo contrá"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Vorcaro coordenou ‘noitada’ em tríplex para ministro do STF Kassio Nunes Marques, diz revista",
+   "url": "https://www.moneytimes.com.br/vorcaro-coordenou-noitada-em-triplex-para-ministro-do-stf-kassio-nunes-marques-diz-revista-igdl/",
+   "publicado": "2026-10-16T13:17:00+00:00",
+   "tickers": [],
+   "resumo": "O ministro do Supremo Tribunal Federal (STF) e presidente do Tribunal Superior Eleitoral (TSE), Kassio Nunes Marques, participou de festa patrocinada pelo ex-banqueiro Daniel Vorcaro. Os relatos constam de reportagem publicada pela Revista Piauí na quinta-feira (15). A publicação"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Tesouro Direto hoje: prefixados sobem após Datafolha mostrar empate técnico",
+   "url": "https://investnews.com.br/investimentos/tesouro-direto-taxas-rendimento-hoje-prefixados-datafolha-16102026/",
+   "publicado": "2026-10-16T13:13:11+00:00",
+   "tickers": [],
+   "resumo": "Papel de 2029 lidera alta e passa a pagar 12,79% ao ano; títulos atrelados à inflação variam poucos centésimos. Veja quanto rende cada opção na tabela."
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Ibovespa avança e tenta recuperar perdas da semana com eleições em foco; 5 coisas para saber antes de investir hoje (16)",
+   "url": "https://www.moneytimes.com.br/ibovespa-5-coisas-16-10-26/",
+   "publicado": "2026-10-16T13:10:48+00:00",
+   "tickers": [],
+   "resumo": "Em dia de vencimento de opções, o Ibovespa (IBOV) começa o pregão desta sexta-feira (16) em leve alta com sinais de entrada de fluxo estrangeiro, apesar da disputa mais acirrada entre Flávio Bolsonaro (PL) e o presidente Luiz Inácio Lula da Silva (PT). Dados de atividade ficam em"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Veja quais fundos imobiliários vão pagar dividendos hoje (16)",
+   "url": "https://www.suno.com.br/noticias/veja-quais-fundos-imobiliarios-vao-pagar-dividendos-hoje-16/",
+   "publicado": "2026-10-16T13:05:09+00:00",
+   "tickers": [
+    "ARTE11",
+    "CCME11"
+   ],
+   "resumo": "Seis fundos imobiliários vão creditar rendimentos aos cotistas nesta sexta-feira. Entre eles estão ARTE11 e CCME11. O primeiro distribuirá R$ 0,08 por cota, enquanto o segundo pagará R$ 0,09. Para quem recebe os proventos, os valores caem de forma automática na conta da corretora"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Câmbio que manda? Maioria dos brasileiros escolhe destino de férias pelo poder de compra da moeda",
+   "url": "https://valorinveste.globo.com/mercados/moedas-e-juros/noticia/2026/10/16/cambio-que-manda-maioria-dos-brasileiros-escolhe-destino-de-ferias-pelo-poder-de-compra-da-moeda.ghtml",
+   "publicado": "2026-10-16T13:00:00+00:00",
+   "tickers": [],
+   "resumo": "A taxa de câmbio virou critério decisivo no roteiro de férias. Entre os viajantes brasileiros, mais da metade (57%) afirma já ter mudado o destino final para tirar proveito de moedas mais favoráveis, o que influencia diretamente a escolha do local da viagem. O comportamento é ain"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Vale Base Metals conclui transação e estabelece nova estrutura de controle para o complexo de Thompson; veja",
+   "url": "https://www.moneytimes.com.br/vale-base-metals-conclui-transacao-e-estabelece-nova-estrutura-de-controle-para-o-complexo-de-thompson-veja-lmrs/",
+   "publicado": "2026-10-16T12:54:39+00:00",
+   "tickers": [
+    "VALE3"
+   ],
+   "resumo": "A Vale (VALE3) anunciou que sua subsidiária Vale Base Metals concluiu a transação que estabelece a Exiro Nickel Company como nova controladora e operadora do Complexo da Mina de Thompson, em Manitoba, no Canadá. De acordo com o comunicado divulgado nesta sexta-feira (16), pela op"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Day trade: Compre B3 (B3SA3) e venda Minerva (BEEF3) para ganhar até 1,4% hoje (16), segundo a Ágora",
+   "url": "https://www.moneytimes.com.br/day-trade-compre-b3-b3sa3-e-venda-minerva-beef3-para-ganhar-ate-14-hoje-16-segundo-a-agora-lils/",
+   "publicado": "2026-10-16T12:27:47+00:00",
+   "tickers": [
+    "BEEF3"
+   ],
+   "resumo": "B3 (B3SA3) é uma das recomendações de compra em day trade da Ágora Investimentos para esta sexta-feira (16). As ações da empresa fecharam a sessão da última quinta-feira (15) cotadas a R$ 22,22. O potencial de ganho é de 1,44% e o stop sugerido é de R$ 22,11. Recomendações day tr"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Ibovespa resiste e dólar cai mesmo com disputa Lula x Flávio acirrada",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/16/ibovespa-e-dolar-hoje-16-de-outubro-de-2026.ghtml",
+   "publicado": "2026-10-16T12:22:42+00:00",
+   "tickers": [],
+   "resumo": "Após mais um dia de queda na bolsa brasileira, o acirramento da disputa eleitoral para o segundo turno presidencial em 2026 continua como o principal catalisador do mercado doméstico nesta sexta-feira (16). Com os levantamentos mais recentes apontando indefinição sobre o resultad"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Itaú (ITUB4), Eneva (ENEV3), Casas Bahia (BHIA3) e outros destaques desta sexta-feira (16)",
+   "url": "https://www.moneytimes.com.br/itau-itub4-eneva-enev3-casas-bahia-bhia3-destaques-desta-sexta-feira-mlem/",
+   "publicado": "2026-10-16T12:16:39+00:00",
+   "tickers": [
+    "BHIA3",
+    "ENEV3",
+    "ITUB4"
+   ],
+   "resumo": "Contrato bilionário entre Eneva (ENEV3) e Itaú (ITUB4), acordo de indenização para empregados das Casas Bahia (BHIA3) e início da construção de navios da Transpetro são alguns dos destaques corporativos desta sexta-feira (16). Confira os destaques Eneva (ENEV3) celebra acordo de "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Ibovespa futuro avança de olho em prévia da inflação e eleições; dólar cai",
+   "url": "https://www.moneytimes.com.br/ibovespa-futuro-16-10-26-lils/",
+   "publicado": "2026-10-16T12:12:33+00:00",
+   "tickers": [],
+   "resumo": "O Ibovespa futuro (INDFUT) inicia o pregão em alta nesta sexta-feira (16) com foco no cenário eleitoral, em dia de vencimento de opções. Após a abertura, o INDFUT registrava ganho de 0,54%, aos 209.500 pontos. Já o dólar à vista abriu a R$ 5,0846 (-0,04%), em sintonia com o movim"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "IBC-Br: Prévia do PIB cresce 0,3% em agosto",
+   "url": "https://www.moneytimes.com.br/ibc-br-previa-do-pib-cresce-03-em-agosto/",
+   "publicado": "2026-10-16T12:04:30+00:00",
+   "tickers": [],
+   "resumo": "O indicador mensal de atividade econômica (IBC-Br) registrou alta de 0,3% em agosto, mostra dado divulgado pelo Banco Central nesta sexta-feira (16). A leitura foi mais forte do que a expectativa em pesquisa do Broadcast de alta de 0,12%. A prévia do Produto Interno Bruto (PIB) t"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "‘Grave violação’: BC liquida cooperativa e bloqueia bens de ex-administradores",
+   "url": "https://www.moneytimes.com.br/bc-decreta-liquidacao-extrajudicial-da-credipaiva-por-grave-violacao-de-normas/",
+   "publicado": "2026-10-16T11:58:30+00:00",
+   "tickers": [],
+   "resumo": "O Banco Central decretou, nesta sexta-feira (16), a liquidação extrajudicial da Cooperativa de Crédito Mútuo dos Empregados do Centro Universitário Newton Paiva Ltda (Credipaiva). Em nota, a autoridade monetária afirmou que a liquidação foi motivada pela &#8220;grave violação das"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "BC decreta liquidação extrajudicial da Credipaiva por grave violação de normas",
+   "url": "https://www.suno.com.br/noticias/bc-decreta-liquidacao-extrajudicial-da-credipaiva-go/",
+   "publicado": "2026-10-16T11:40:00+00:00",
+   "tickers": [],
+   "resumo": "Banco Central divulga calendário com datas de reuniões do Copom em 2024 - Foto: iStockO Banco Central decretou nesta sexta-feira, 16, a liquidação extrajudicial da Cooperativa de Crédito Mútuo dos Empregados do Centro Universitário Newton Paiva Ltda (Credipaiva). Em nota, a autor"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Vale diz que alta de custos torna 10% da oferta global de minério de ferro inviável",
+   "url": "https://investnews.com.br/negocios/vale-diz-que-alta-de-custos-torna-10-da-oferta-global-de-minerio-de-ferro-inviavel/",
+   "publicado": "2026-10-16T11:37:13+00:00",
+   "tickers": [],
+   "resumo": "Alta do petróleo e do frete já levou à paralisação de 15 milhões de toneladas de minério de ferro, diz Gustavo Pimenta"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "BC decreta liquidação extrajudicial da cooperativa de crédito Credipaiva",
+   "url": "https://valorinveste.globo.com/produtos/servicos-financeiros/noticia/2026/10/16/bc-decreta-liquidacao-extrajudicial-da-cooperativa-de-credito-credipaiva.ghtml",
+   "publicado": "2026-10-16T11:35:46+00:00",
+   "tickers": [],
+   "resumo": "O Banco Central do Brasil decretou nesta sexta-feira (16) a liquidação extrajudicial da Cooperativa de Crédito Mútuo dos Empregados do Centro Universitário Newton Paiva Ltda. – Credipaiva, localizado em Belo Horizonte.\n\n“Trata-se de cooperativa de crédito independente de pequeno "
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Fee-based ou comissão: entenda remuneração do assessor de investimentos",
+   "url": "https://investnews.com.br/investimentos/fee-based-ou-comissao/",
+   "publicado": "2026-10-16T11:30:00+00:00",
+   "tickers": [],
+   "resumo": "O investidor troca comissões por uma taxa anual, enquanto o assessor continua ligado à corretora"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Casas Bahia (BHIA3), Eneva (ENEV3), Itaú (ITUB4), Americanas (AMER3) e mais: Veja os destaques das empresas",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/10/16/casas-bahia-bhia3-eneva-enev3-itau-itub4-americanas-amer3-e-mais-veja-os-destaques-das-empresas.ghtml",
+   "publicado": "2026-10-16T11:21:52+00:00",
+   "tickers": [
+    "AMER3",
+    "BHIA3",
+    "ENEV3",
+    "ITUB4"
+   ],
+   "resumo": "Casas Bahia\nO Grupo Casas Bahia assinou um acordo para encerrar a disputa sobre a demissão de 4.400 empregados dias antes do pedido de recuperação judicial. O valor total supera R$ 100 milhões, segundo apurou o Valor com pessoas a par da negociação. Cada trabalhador receberá inde"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Aumento do risco dos investimentos",
+   "url": "https://valorinveste.globo.com/blogs/marcelo-dagosto/post/2026/10/aumento-do-risco-dos-investimentos.ghtml",
+   "publicado": "2026-10-16T11:20:22+00:00",
+   "tickers": [],
+   "resumo": "São duas as principais constatações após o resultado do primeiro turno das eleições presidenciais: a importância das expectativas para a formação de preços no mercado financeiro e a velocidade com que as mudanças podem acontecer.\nDa segunda-feira logo após o primeiro turno até a "
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Bitcoin fica estável na semana, mas criptomoeda de blockchain “diferentona” sobe 45%",
+   "url": "https://investnews.com.br/investimentos/bitcoin-fica-estavel-na-semana-mas-criptomoeda-de-blockchain-diferentona-sobe-45/",
+   "publicado": "2026-10-16T11:13:26+00:00",
+   "tickers": [],
+   "resumo": "A celestia (TIA) avançou em meio a novidades tecnológicas anunciadas pelo projeto"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Pesquisas eleitorais e IBC-Br estão no radar do investidor",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/16/pesquisas-eleitorais-e-ibc-br-estao-no-radar-do-investidor.ghtml",
+   "publicado": "2026-10-16T11:08:56+00:00",
+   "tickers": [],
+   "resumo": "Os investidores acompanham de perto nesta sexta-feira (16) as pesquisas eleitorais Datafolha, divulgada ontem, CNT/MDA e PoderData, divulgadas hoje. O mercado repercute também a proposta do presidente Luiz Inácio Lula da Silva (PT) de implementar a tarifa zero no transporte públi"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Regime híbrido compensa para empresa do Simples que importa? Veja os cálculos",
+   "url": "https://investnews.com.br/negocios/simples-importador-regime-hibrido/",
+   "publicado": "2026-10-16T10:01:00+00:00",
+   "tickers": [],
+   "resumo": "Prazo para escolher vai até 30 de outubro; regime híbrido permite recuperar IBS e CBS pagos na importação"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "ETFs ativos: a próxima onda dos fundos pode mirar os multimercados",
+   "url": "https://investnews.com.br/investimentos/etfs-ativos-a-proxima-onda-dos-fundos-pode-mirar-os-multimercados/",
+   "publicado": "2026-10-16T10:00:00+00:00",
+   "tickers": [],
+   "resumo": "Com custo menor e cota na bolsa, o produto pode acelerar a expansão dos ETFs no Brasil, mas a chegada ainda depende de regulação"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Lula está virando? Para a Legacy, não é bem assim",
+   "url": "https://braziljournal.com/lula-esta-virando-para-a-legacy-nao-e-bem-assim",
+   "publicado": "2026-10-16T09:50:00+00:00",
+   "tickers": [],
+   "resumo": "As pesquisas da Quaest e do Datafolha causaram apreensão na Faria Lima. Os dois institutos agora mostram uma disputa mais apertada entre Flávio e Lula, com uma diferença de apenas dois pontos entre os candidatos – um empate técnico considerando a margem de erro."
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Dobrar a aposta ou botar no bolso? Como os alocadores estão vendo o 2° turno",
+   "url": "https://braziljournal.com/dobrar-a-aposta-ou-botar-no-bolso-como-os-alocadores-estao-vendo-o-2-turno",
+   "publicado": "2026-10-16T09:50:00+00:00",
+   "tickers": [],
+   "resumo": "Alocadores têm feito mudanças nos investimentos dos clientes depois da reprecificação dos últimos dias. Entre as principais: realizar lucros, aumentar o risco de forma moderada e aplicar em fundos ativos. Gestores de patrimônio têm feito mudanças nas carteiras dos clientes depois"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Opinião - Em boa hora: IFRS para os fundos de investimento no Brasil",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/coluna/opiniao-em-boa-hora-ifrs-para-os-fundos-de-investimento-no-brasil.ghtml",
+   "publicado": "2026-10-16T09:40:00+00:00",
+   "tickers": [],
+   "resumo": "A Comissão de Valores Mobiliários (CVM) abriu em 5 de outubro a Consulta Pública SNC nº 01/2026, que recebe contribuições até 4 de dezembro, sobre a convergência da contabilidade dos fundos de investimento às normas internacionais, as IFRS. De maneira geral, a proposta é adotar i"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "No que consiste uma estratégia de investimento?",
+   "url": "https://valorinveste.globo.com/blogs/carlos-heitor-campani/coluna/no-que-consiste-uma-estrategia-de-investimento.ghtml",
+   "publicado": "2026-10-16T09:20:01+00:00",
+   "tickers": [],
+   "resumo": "Olá, pessoal! Eu sempre “bato na tecla” dizendo que é fundamental ter uma estratégia de investimento muito bem pensada e que seja simultaneamente eficiente e consistente. Investidores sem uma estratégia bem definida investem, via de regra, de modo ineficiente, inconsistente e, na"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Gasto médio com casamento chega a R$ 56 mil e casais cortam lua de mel para bancar festa",
+   "url": "https://valorinveste.globo.com/objetivo/gastar-bem/noticia/2026/10/16/gasto-medio-com-casamento-chega-a-r-56-mil-e-casais-cortam-lua-de-mel-para-bancar-festa.ghtml",
+   "publicado": "2026-10-16T09:10:00+00:00",
+   "tickers": [],
+   "resumo": "Planejar R$ 45,8 mil e terminar gastando cerca de R$ 56,2 mil: essa é a realidade dos noivos brasileiros em 2026. Com o orçamento da cerimônia estourando em mais de 22%, a saída encontrada pela maior parte dos casais (62,5%) foi sacrificar a tradicional lua de mel, reduzindo-a ou"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Um a cada dez CRIs de incorporação deixou de pagar investidores, mas preço dos papéis resiste",
+   "url": "https://valorinveste.globo.com/produtos/renda-fixa/cri-e-cra/noticia/2026/10/16/um-a-cada-dez-cris-de-incorporacao-deixou-de-pagar-investidores-mas-preco-dos-papeis-resiste.ghtml",
+   "publicado": "2026-10-16T09:00:00+00:00",
+   "tickers": [],
+   "resumo": "Os CRIs de incorporação já mostram sinais da pressão dos juros altos e da demanda mais fraca por imóveis. Desde janeiro de 2025, 118 das 1.179 operações ativas registraram parcela não paga ao investidor, pagamento parcial ou falta de dinheiro para pagar. São 10% do total.\nOs dado"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Um gigante bancário suíço considera o impensável: deixar a Suíça",
+   "url": "https://investnews.com.br/the-wall-street-journal/um-gigante-bancario-suico-considera-o-impensavel-deixar-a-suica/",
+   "publicado": "2026-10-16T08:07:00+00:00",
+   "tickers": [],
+   "resumo": "O banco recebeu sondagens de possíveis parceiros americanos enquanto trava uma disputa pública com políticos suíços"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Kraft Heinz entra na batalha da maionese para dobrar de tamanho no Brasil. E precisa se defender no ketchup",
+   "url": "https://investnews.com.br/negocios/kraft-heinz-batalha-da-maionese-brasil/",
+   "publicado": "2026-10-16T08:00:00+00:00",
+   "tickers": [],
+   "resumo": "Companhia mira categorias dominadas por rivais como a Unilever, dona da Hellmann’s, que quer crescer em ketchup"
+  },
+  {
    "fonte": "InvestNews",
    "titulo": "Datafolha: Flávio Bolsonaro tem 51%, e Lula, 49% dos votos válidos no segundo turno",
    "url": "https://investnews.com.br/economia/datafolha-flavio-bolsonaro-lula-empate/",
@@ -11,54 +303,12 @@
    "resumo": "Vantagem do senador cai de quatro para dois pontos em uma semana e fica dentro da margem de erro"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Senado aprova novo enquadramento dos MEIs e perdão de dívidas do setor; projeto vai à sanção",
-   "url": "https://www.moneytimes.com.br/senado-aprova-novo-enquadramento-dos-meis-e-perdao-de-dividas-do-setor-projeto-vai-a-sancao-lmrs/",
-   "publicado": "2026-10-15T22:30:39+00:00",
-   "tickers": [],
-   "resumo": "O Senado aprovou nesta quinta-feira (15), por 78 votos favoráveis e nenhum contrário, um projeto de lei complementar que amplia o enquadramento e perdoa dívidas dos Microempreendedores Individuais (MEIs). Apoiada pelo presidente Luiz Inácio Lula da Silva (PT), que disputa a reele"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Klabin (KLBN11) consegue ‘alívio’ em dívida de financiamento do projeto Puma II, o maior da sua história",
-   "url": "https://www.moneytimes.com.br/klabin-klbn11-consegue-alivio-em-divida-de-financiamento-do-projeto-puma-ii-o-maior-da-sua-historia/",
-   "publicado": "2026-10-15T21:55:04+00:00",
-   "tickers": [
-    "KLBN11"
-   ],
-   "resumo": "A Klabin (KLBN11) conseguiu renegociar empréstimos feitos para tocar o Projeto Puma II, que inclui alongamento dos vencimentos e redução do custo financeiro da dívida. Os prazos foram estendidos de 2032 para 2034 nos financiamentos do tipo A Loan e de 2029 para 2033 nos empréstim"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Datafolha aponta Flávio com 47% e Lula com 45%, em empate técnico no segundo turno",
    "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/10/15/datafolha-aponta-flavio-com-47percent-e-lula-com-45percent-em-empate-tecnico-no-segundo-turno.ghtml",
    "publicado": "2026-10-15T21:53:41+00:00",
    "tickers": [],
    "resumo": "A dez dias do segundo turno, o senador Flávio Bolsonaro (PL-RJ) tem 47% das intenções de voto e o presidente Luiz Inácio Lula da Silva (PT), 45% dos votos totais, segundo pesquisa Datafolha divulgada nesta quinta-feira (15). Os dois candidatos estão em empate técnico. \nEm uma sem"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Juros futuros têm firme alta com cenário eleitoral apertado e promessa de Lula sobre transporte público",
-   "url": "https://www.moneytimes.com.br/juros-futuros-15-10-26-apsa/",
-   "publicado": "2026-10-15T21:52:48+00:00",
-   "tickers": [],
-   "resumo": "Os juros futuros fecharam em firme alta com aumento do prêmio de risco político nesta quinta-feira (15), diante da cautela do mercado com o cenário eleitoral do segundo turno, além do aconselhamento dos assessres de Luiz Inácio Lula da Silva (PT) a prometer publicamente a &#8220;"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Flávio Bolsonaro tem 47% e Lula, 45%, mostra pesquisa Datafolha",
-   "url": "https://www.moneytimes.com.br/pesquisa-datafolha-15-de-outubro-gaep/",
-   "publicado": "2026-10-15T21:43:29+00:00",
-   "tickers": [],
-   "resumo": "Na segunda pesquisa do Instituto Datafolha para o segundo turno das eleições presidenciais 2026, divulgada nesta quinta-feira (15), o senador Flávio Bolsonaro (PL-RJ) aparece com 47%, contra 45% do presidente Luiz Inácio Lula da Silva (PT). Outros 2% ainda estão indecisos e 6% de"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Lula anuncia PEC para zerar tarifa do transporte coletivo nos finais de semana",
-   "url": "https://www.moneytimes.com.br/lula-anuncia-pec-para-zerar-tarifa-do-transporte-coletivo-nos-finais-de-semana/",
-   "publicado": "2026-10-15T21:40:59+00:00",
-   "tickers": [],
-   "resumo": "O presidente e candidato à reeleição Luiz Inácio Lula da Silva (PT) anunciou nesta quinta-feira que vai enviar ao Congresso uma Proposta de Emenda à Constituição (PEC) para zerar a tarifa do transporte coletivo urbano nos finais de semana e feriados a partir de 2027, caso vença a"
   },
   {
    "fonte": "Suno Noticias",
@@ -77,37 +327,6 @@
    "resumo": "O Índice de Fundos de Investimentos Imobiliários (IFIX) encerrou o pregão desta quinta-feira (15) aos 3.956,29 pontos, em alta de 0,06%. O movimento representou avanço de 2,49 pontos frente ao fechamento anterior, de 3.953,80 pontos, segundo dados do mercado. O indicador é calcul"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Eneva (ENEV3) celebra acordo de investimento bilionário com Itaú (ITUB4); veja a cifra",
-   "url": "https://www.moneytimes.com.br/eneva-enev3-celebra-acordo-de-investimento-bilionario-com-itau-itub4-veja-a-cifra-apsa/",
-   "publicado": "2026-10-15T21:29:09+00:00",
-   "tickers": [
-    "ENEV3",
-    "ITUB4"
-   ],
-   "resumo": "A Eneva (ENEV3) celebrou novo acordo de investimento com o Itaú Unibanco (ITUB4) que realizou um aporte adicional de aproximadamente R$ 1,77 bilhão na Eneva Participações III S.A. (Eneva III). Segundo comunicado ao mercado, o investimento foi feito por meio da subscrição e integr"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Fleury (FLRY3): JPMorgan despacha 1,4 milhões de ações",
-   "url": "https://www.moneytimes.com.br/fleury-flry3-jpmorgan-despacha-14-milhoes-de-acoes-rnda/",
-   "publicado": "2026-10-15T21:26:07+00:00",
-   "tickers": [
-    "FLRY3"
-   ],
-   "resumo": "O JPMorgan vendeu 1,4 milhões de ações ordinárias da Fleury (FLRY3), reduzindo a participação do grupo econômico na companhia para 4,87% do total de ações ordinárias emitidas. Em comunicado ao mercado desta quinta-feira (15), a Fleury informou que tomou conhecimento da operação n"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Mitre (MTRE3) anuncia pagamento de dividendos em três parcelas; veja os valores",
-   "url": "https://www.moneytimes.com.br/mitre-mtre3-anuncia-pagamento-de-dividendos-em-tres-parcelas-veja-os-valores-lmrs/",
-   "publicado": "2026-10-15T21:19:00+00:00",
-   "tickers": [
-    "MTRE3"
-   ],
-   "resumo": "O conselho de administração da construtora Mitre Realty (MTRE3) aprovou a distribuição de dividendos intermediários no montante total de R$ 12 milhões, equivalente a R$ 0,11344855041 por ação ordinária da companhia. O pagamento será efetuado em três parcelas de R$ 4 milhões, sem "
-  },
-  {
    "fonte": "Brazil Journal",
    "titulo": "‘S&P 10’: a concentração inédita por trás da alta da Bolsa americana",
    "url": "https://braziljournal.com/s-and-p-10-a-concentracao-inedita-por-tras-da-alta-da-bolsa-americana",
@@ -124,18 +343,6 @@
     "RADL3"
    ],
    "resumo": "Em uma sessão marcada do início ao fim pelo nervosismo doméstico, a bolsa brasileira operou sob pressão da corrida eleitoral acirrada e da aprovação do fim da escala 6x1 no Senado. Na reta final, foi atropelada por notícias de que a campanha do presidente Lula estuda resgatar a p"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Por que este banco pode chegar a R$ 105, segundo Bradesco BBI",
-   "url": "https://www.moneytimes.com.br/por-que-este-banco-pode-chegar-a-r-105-segundo-bradesco-bbi/",
-   "publicado": "2026-10-15T20:47:28+00:00",
-   "tickers": [
-    "BBDC4",
-    "BBSA3",
-    "ITUB4"
-   ],
-   "resumo": "Bancos costumam ocupar espaço relevante nas carteiras dos investidores. Entre os nomes mais lembrados estão os gigantes Itaú (ITUB4), Bradesco (BBDC4), Nubank e Banco do Brasil (BBSA3). Mas o investidor também não deve perder de vista os bancos médios. Em relatório divulgado mais"
   },
   {
    "fonte": "InvestNews",
@@ -170,14 +377,6 @@
    "publicado": "2026-10-15T20:26:39+00:00",
    "tickers": [],
    "resumo": "O chamado “índice do medo” da bolsa brasileira disparou 22% nesta quinta-feira (15) e atingiu 40,67 pontos, estabelecendo uma nova máxima histórica em meio ao aumento das incertezas em torno do segundo turno das eleições presidenciais.\nO movimento representa uma forte virada em r"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Ibovespa cai 1% à espera de Datafolha; dólar sobe",
-   "url": "https://www.moneytimes.com.br/ibovespa-15-10-26-lils/",
-   "publicado": "2026-10-15T20:23:23+00:00",
-   "tickers": [],
-   "resumo": "O Ibovespa (IBOV) fechou o terceiro pregão consecutivo de perdas com os investidores mais cautelosos após pesquisas de intenção de votos mostrarem uma disputa mais acirrada entre Flávio Bolsonaro (PL), favorito do mercado, e o presidente Luiz Inácio Lula da Silva (PT). Nesta quin"
   },
   {
    "fonte": "InvestNews",
@@ -264,14 +463,6 @@
    "resumo": "Uma folga para resolver tudo: descansar, cuidar da casa, estudar e encontrar a família. A discussão sobre a escala 6&#215;1 passa por essa divisão do tempo e ganhou um novo capítulo com a aprovação, pelo Senado, da proposta que prevê dois dias de descanso remunerado e jornada máx"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "Fundo de crédito privado acumula 110% do CDI desde o início; conheça",
-   "url": "https://www.suno.com.br/noticias/fundo-de-credito-privado-mapfre-confianza/",
-   "publicado": "2026-10-15T17:27:05+00:00",
-   "tickers": [],
-   "resumo": "Fundo de crédito privadoMATERIAL DE DIVULGAÇÃO O Mapfre Confianza, fundo de renda fixa referenciado DI com crédito privado da Mapfre Investimentos, rendeu 1,09% em setembro de 2026, o equivalente a 100,78% do CDI. Desde o início das operações, em 1º de agosto de 2023, acumula ren"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Empresa dos irmãos Batista conclui compra da Avibras. Ex-presidente do TCU assume o conselho",
    "url": "https://investnews.com.br/negocios/irmaos-batista-conclusao-compra-avibras/",
@@ -280,32 +471,12 @@
    "resumo": "Empresa de defesa pretende retomar a produção em larga escala e ampliar as exportações"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "Ultrapar (UGPA3): analistas elevam preço-alvo, mas veem pouco espaço após rali",
-   "url": "https://www.suno.com.br/noticias/ultrapar-ugpa3-preco-alvo-bb-investimentos-mt/",
-   "publicado": "2026-10-15T16:55:06+00:00",
-   "tickers": [
-    "UGPA3"
-   ],
-   "resumo": "Os negócios melhoraram, mas a ação já teria antecipado boa parte dessa recuperação. Essa é a leitura do BB Investimentos sobre a Ultrapar (UGPA3), dona da Ipiranga. O banco elevou o preço-alvo de R$ 25 para R$ 35, mas manteve a recomendação neutra, após avaliar as apresentações d"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Fim da escala 6×1: o que muda e como será a transição para 40 horas de trabalho",
    "url": "https://investnews.com.br/economia/fim-da-escala-6x1-o-que-muda/",
    "publicado": "2026-10-15T16:45:23+00:00",
    "tickers": [],
    "resumo": "Senado aprovou a PEC que acaba com a escala 6x1. Veja quando a mudança começa a valer e como fica a jornada"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "BlackRock eleva participação acionária na Cogna (COGN3) para 5,055%",
-   "url": "https://www.suno.com.br/noticias/blackrock-participacao-cogna-cogn3-educacao-go/",
-   "publicado": "2026-10-15T16:40:00+00:00",
-   "tickers": [
-    "COGN3"
-   ],
-   "resumo": "BlackRock eleva participação acionária na Cogna (COGN3) para 5,055%A Cogna Educação S.A. (B3: COGN3) informou ao mercado, em comunicado datado de 14 de outubro de 2026, que recebeu notificação da BlackRock, Inc. sobre a aquisição de ações ordinárias de emissão da companhia. Segun"
   },
   {
    "fonte": "Brazil Journal",
@@ -693,160 +864,12 @@
    "resumo": "A alemã Lufthansa ofereceu US$ 2,8 bilhões pela TAP e assumirá a gestão operacional da aérea portuguesa"
   },
   {
-   "fonte": "Valor Investe",
-   "titulo": "Citi passa a prever alta de juros nos EUA em dezembro após inflação acima do esperado",
-   "url": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/10/14/citi-passa-a-prever-alta-de-juros-nos-eua-em-dezembro-apos-inflacao-nos-eua-acima-do-esperado.ghtml",
-   "publicado": "2026-10-14T15:36:40+00:00",
-   "tickers": [],
-   "resumo": "O Citibank revisou sua projeção para a política monetária dos Estados Unidos e passou a prever uma alta de 0,25 ponto percentual nos juros pelo Federal Reserve (Fed, o BC dos EUA) em dezembro, após os dados de inflação ao consumidor (CPI) de setembro superarem as expectativas. An"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Quando é possível receber o 13º salário adiantado?",
    "url": "https://investnews.com.br/financas/13o-salario-adiantado/",
    "publicado": "2026-10-14T15:30:46+00:00",
    "tickers": [],
    "resumo": "Trabalhador pode receber a primeira parcela do 13º salário antes de novembro, mas só há obrigação da empresa em situações específicas"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Argentina pode recorrer à China para financiar dívida de US$ 5 bilhões em 2027",
-   "url": "https://investnews.com.br/economia/argentina-pode-recorrer-a-china-para-financiar-divida-de-us-5-bilhoes-em-2027/",
-   "publicado": "2026-10-14T15:20:08+00:00",
-   "tickers": [],
-   "resumo": "Ministro da Economia da Argentina diz que acordo com a China pode ajudar a cobrir necessidades de financiamento em 2027"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Valor Investe é finalista entre sites mais admirados da imprensa de finanças no país; vote agora",
-   "url": "https://valorinveste.globo.com/noticia/2026/10/14/valor-investe-e-finalista-entre-sites-mais-admirados-da-imprensa-de-financas-no-pais-vote-agora.ghtml",
-   "publicado": "2026-10-14T14:57:38+00:00",
-   "tickers": [],
-   "resumo": "O Valor Investe é finalista do prêmio de 2026 na categoria site pelo sétimo ano consecutivo e você pode votar neste link.\nA eleição recebe votos até 15 de outubro (quinta-feira). Nesta fase, os eleitores poderão selecionar, do 1º ao 5º colocado, seus favoritos entre os finalistas"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Plano dos EUA para crescer e reduzir dívida é insuficiente, alerta FMI",
-   "url": "https://investnews.com.br/economia/plano-dos-eua-para-crescer-e-reduzir-divida-e-insuficiente-alerta-fmi/",
-   "publicado": "2026-10-14T14:33:24+00:00",
-   "tickers": [],
-   "resumo": "Fundo Monetário Internacional avalia que as medidas do governo americano não bastam para conter o endividamento"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "PicPay mira clientes de alta renda e lança cartão Epic World Legend Mastercard; veja benefícios",
-   "url": "https://valorinveste.globo.com/produtos/servicos-financeiros/noticia/2026/10/14/picpay-mira-clientes-de-alta-renda-e-lanca-cartao-mastercard-world-legend-veja-beneficios.ghtml",
-   "publicado": "2026-10-14T14:26:30+00:00",
-   "tickers": [],
-   "resumo": "De olho no investidor de alta renda, o PicPay lançou o Epic World Legend Mastercard, o cartão mais exclusivo da bandeira, voltado a clientes com patrimônio a partir de R$ 1 milhão aplicado na instituição. \nO banco se junta a outras instituições já emissoras do cartão do World Leg"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Netflix corta 1.000 vagas em meio a preocupações com expansão do negócio",
-   "url": "https://investnews.com.br/negocios/netflix-corta-1-000-vagas-em-meio-a-preocupacoes-com-expansao-do-negocio/",
-   "publicado": "2026-10-14T14:21:23+00:00",
-   "tickers": [],
-   "resumo": "Cortes representam 6% da equipe global da Netflix, que enfrenta preocupações com crescimento e engajamento"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "TikTok Shop é novato no e-commerce, mas tem lições para Amazon e Mercado Livre",
-   "url": "https://investnews.com.br/negocios/tiktok-shop-e-novato-no-e-commerce-mas-tem-licoes-para-amazon-e-mercado-livre/",
-   "publicado": "2026-10-14T14:07:42+00:00",
-   "tickers": [],
-   "resumo": "Relatório mostra como vídeos ajudam a gerar vendas; no Brasil, plataforma pode movimentar R$ 20 bilhões em 2026"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Casas Bahia (BHIA3) tomba mais de 20%, após contratação de nova linha de crédito",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/10/14/casas-bahia-bhia3-tomba-entenda.ghtml",
-   "publicado": "2026-10-14T14:07:11+00:00",
-   "tickers": [
-    "BHIA3",
-    "MGLU3"
-   ],
-   "resumo": "As ações do Grupo Casas Bahia (BHIA3) registraram forte queda no pregão desta quarta-feira (14) depois de o conselho de administração da companhia informar que aprovou por unanimidade a contratação de uma nova linha de crédito de até R$ 250 milhões junto ao Banco do Brasil.\nOs pa"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Tesouro Direto: taxas sobem após pesquisas mostrarem cenários divergentes no segundo turno",
-   "url": "https://investnews.com.br/investimentos/tesouro-direto-taxas-rendimento-hoje-prefixados-lideram-alta-14102026/",
-   "publicado": "2026-10-14T14:03:47+00:00",
-   "tickers": [],
-   "resumo": "Papéis atrelados à inflação também sobem, e RendA+ mais longos avançam mais de 0,10 ponto. Simulação mostra perda com venda antecipada. Veja a tabela completa."
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Tesouro Direto: taxas sobem com inflação dos EUA e de olho nas eleições",
-   "url": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/10/14/tesouro-direto-taxas-inflacao-dos-eua-e-de-olho-nas-eleicoes-14-de-outubro.ghtml",
-   "publicado": "2026-10-14T13:31:00+00:00",
-   "tickers": [],
-   "resumo": "As taxas dos títulos públicos no Tesouro Direto subiram nesta quarta-feira (14). Ao contrário da véspera, quando o estresse se concentrou mais fortemente em papéis prefixados, o mercado de renda fixa agora sofreu uma pressão combinada: a inflação acima do esperado nos EUA e a exp"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Inflação nos EUA vem em linha, mas núcleo sobe: o que muda para seus investimentos?",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/14/inflacao-nos-eua-vem-em-linha-mas-nucleo-sobe-o-que-muda-para-seus-investimentos.ghtml",
-   "publicado": "2026-10-14T12:53:26+00:00",
-   "tickers": [],
-   "resumo": "O Índice de Preços ao Consumidor (CPI) dos Estados Unidos subiu 0,6% em setembro na comparação com agosto, acelerando em relação à alta de 0,4% apurada no mês anterior. Com o avanço puxado principalmente pelos combustíveis, a inflação acumulada em 12 meses atingiu 3,7%, superando"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Em dia volátil, Ibovespa fecha em queda e dólar perde força após bater em R$ 5,06",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/14/ibovespa-e-dolar-hoje-14-de-outubro-de-2026.ghtml",
-   "publicado": "2026-10-14T12:04:01+00:00",
-   "tickers": [
-    "BHIA3",
-    "MGLU3",
-    "PETR4"
-   ],
-   "resumo": "O Ibovespa, principal índice de ações brasileiro, encerrou o pregão desta quarta-feira (14) em leve queda, após abrir com perda acentuada e operar próximo da estabilidade durante boa parte do dia. A cotação do dólar comercial, que chegou a bater os R$ 5,06, registrou valorização "
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Emissão de CRI e CRA cai pela metade em dois anos",
-   "url": "https://valorinveste.globo.com/produtos/renda-fixa/cri-e-cra/noticia/2026/10/14/emissao-de-cri-e-cra-cai-pela-metade-em-dois-anos.ghtml",
-   "publicado": "2026-10-14T11:40:48+00:00",
-   "tickers": [],
-   "resumo": "As emissões de Certificados de Recebíveis Imobiliários (CRIs) e Certificados de Recebíveis do Agronegócio (CRAs) encolheram quase pela metade em dois anos e, com isso, perderam espaço no mercado de capitais. De janeiro a agosto, os dois instrumentos movimentaram cerca de R$ 34,6 "
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Como a Ambipar inflou números do Banco Master",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/10/14/como-a-ambipar-inflou-numeros-do-banco-master.ghtml",
-   "publicado": "2026-10-14T11:35:32+00:00",
-   "tickers": [],
-   "resumo": "“Daniel. O pessoal está te esperando para assinar. Temos que fechar hoje aqui com Tércio. Ele vai entrar com o pedido de RJ.”\n\nA mensagem acima foi enviada a Daniel Vorcaro por Maurício Quadrado, ex-sócio e parceiro de negócios. Era 20 de outubro do ano passado, segundo registros"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Petrobras (PETR4), Cyrela (CYRE3), Mitre (MTRE3), Iguatemi (IGTI11) e mais: Veja os destaques das empresas",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/10/14/petrobras-petr4-cyrela-cyre3-mitre-mtre3-iguatemi-igti11-e-mais-veja-os-destaques-das-empresas.ghtml",
-   "publicado": "2026-10-14T11:13:10+00:00",
-   "tickers": [
-    "CYRE3",
-    "IGTI11",
-    "MTRE3",
-    "PETR4"
-   ],
-   "resumo": "Petrobras\nA Petrobras anunciou a assinatura dos acordos de equalização relacionados às jazidas compartilhadas de Berbigão e Sururu, localizadas na Bacia de Santos, em uma operação que garantirá à estatal o recebimento de aproximadamente US$ 859 milhões.\n\nA estatal também recebeu "
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Criptomoeda solana marca data de upgrade. O que muda para o investidor?",
-   "url": "https://investnews.com.br/investimentos/criptomoeda-solana-marca-data-de-upgrade-o-que-muda-para-o-investidor/",
-   "publicado": "2026-10-14T11:03:58+00:00",
-   "tickers": [],
-   "resumo": "Atualização, chamada Alpenglow, vai deixar as transações mais rápidas"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Pesquisa Quaest, votação do fim da escala 6x1 e inflação nos EUA estão no foco",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/14/pesquisa-quaest-votacao-do-fim-da-escala-6x1-e-inflacao-nos-eua-estao-no-foco.ghtml",
-   "publicado": "2026-10-14T10:50:44+00:00",
-   "tickers": [],
-   "resumo": "Os investidores aguardam a pesquisa Quaest nesta quarta-feira (14), após diminuirem o otimismo com pesquisas eleitorais mais favoráveis ao presidente Luiz Inácio Lula da Silva (PT). Além disso, o mercado monitora a votação da proposta de emenda à Constituição (PEC) que acaba com "
   },
   {
    "fonte": "Brazil Journal",
@@ -873,22 +896,6 @@
    "resumo": "A expansão dos fundos de índice e das estratégias de trading está fazendo as ações oscilarem como nunca – uma “crazy opportunity” para quem tem visão de longo prazo, diz Bill Ackman. Para o fundador da Pershing Square, os fundos indexados (como os ETFs)&nbsp; funcionam na prática"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Carros chineses agora dominam o maior salão do automóvel da Europa. E o bloco reage",
-   "url": "https://investnews.com.br/the-wall-street-journal/carros-chineses-agora-dominam-o-maior-salao-do-automovel-da-europa/",
-   "publicado": "2026-10-14T08:07:00+00:00",
-   "tickers": [],
-   "resumo": "Há dois anos, nove marcas de carros chineses participaram do evento. Desta vez, foram cerca de 20"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Do iFood ao Mercado Livre: como a entrega de pequenos negócios se tornou palco de uma disputa de gigantes",
-   "url": "https://investnews.com.br/negocios/pequenos-negocios-batalha-entrega-ifood/",
-   "publicado": "2026-10-14T08:00:00+00:00",
-   "tickers": [],
-   "resumo": "Grandes plataformas ampliam investimentos para entregar em poucas horas encomendas na casa do consumidor"
-  },
-  {
    "fonte": "Brazil Journal",
    "titulo": "Os planos da Aena para o Galeão: novos vôos, hotel, galpões… e BYD",
    "url": "https://braziljournal.com/os-planos-da-aena-para-o-galeao-novos-voos-hotel-galpoes-e-byd",
@@ -903,22 +910,6 @@
    "publicado": "2026-10-13T20:08:00+00:00",
    "tickers": [],
    "resumo": "Para não ser inundada por carros elétricos chineses, a&nbsp; União Europeia impôs em 2024 tarifas de até 45% nestes veículos – mas acabou inundada pelos híbridos. Como os híbridos são tarifados com o imposto padrão de 10%, foi neste segmento que as chinesas investiram para conqui"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "MEMÓRIA. Netinho, o corpo e voz da axé music",
-   "url": "https://braziljournal.com/memoria-netinho-o-corpo-e-voz-da-axe-music",
-   "publicado": "2026-10-13T19:35:00+00:00",
-   "tickers": [],
-   "resumo": "Netinho, o cantor que ajudou a definir o conceito de axé music e o exportou para todo o Brasil e alguns países da Europa, morreu hoje em Salvador. Ele tratava um linfoma não Hodgkin do tipo B, um câncer que se origina no sistema linfático. Tinha 60 anos."
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "Depois do ‘rali Flavio’, JP Morgan eleva Rumo e corta Localiza; Motiva é ‘top pick’",
-   "url": "https://braziljournal.com/depois-do-rali-flavio-jp-morgan-eleva-rumo-e-corta-localiza-motiva-e-top-pick",
-   "publicado": "2026-10-13T17:15:00+00:00",
-   "tickers": [],
-   "resumo": "O JP Morgan está ajustando algumas de suas recomendações no setor de transportes – elevando a Rumo de ‘neutro’ para ‘compra’ e rebaixando a Localiza de ‘compra’ para ‘neutro’. Essencialmente, o movimento tem a ver com a performance das duas ações após Flavio Bolsonaro sair na fre"
   }
  ]
 }
