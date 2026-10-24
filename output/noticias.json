@@ -3,6 +3,83 @@
  "itens": 105,
  "dados": [
   {
+   "fonte": "Money Times",
+   "titulo": "Azul (AZUL3) obtém financiamento de até R$ 2 bilhões com garantia da União para pagar combustível",
+   "url": "https://www.moneytimes.com.br/azul-azul3-obtem-financiamento-de-ate-r-2-bilhoes-com-garantia-da-uniao-para-pagar-combustivel/",
+   "publicado": "2026-10-24T12:47:02+00:00",
+   "tickers": [
+    "AZUL3"
+   ],
+   "resumo": "A Azul (AZUL3) celebrou uma operação de financiamento de até R$ 2 bilhões, com cobertura do risco de crédito pela União, para custear exclusivamente a compra de combustível de aviação destinado às operações regulares domésticas. Em fato relevante divulgado neste sábado (24), a co"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Como a repressão à imigração dificulta a construção de casas nos Estados Unidos",
+   "url": "https://investnews.com.br/geral/como-a-repressao-a-imigracao-dificulta-a-construcao-de-casas-nos-estados-unidos/",
+   "publicado": "2026-10-24T11:05:00+00:00",
+   "tickers": [],
+   "resumo": "Construção de moradias enfrenta escassez de mão de obra, que paralisa projetos e eleva custos"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Justiça suspende OPA de até R$ 14 bilhões na Oncoclínicas determinada pela CVM",
+   "url": "https://investnews.com.br/negocios/justica-suspende-opa-oncoclinicas-cvm/",
+   "publicado": "2026-10-24T11:03:29+00:00",
+   "tickers": [],
+   "resumo": "Josephina III consegue liminar às vésperas do prazo para iniciar oferta; decisão questiona atuação da CVM e aponta arbitragem como foro para resolver disputa entre acionistas"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Magazine Luiza (MGLU3) salta 14%, enquanto WEG (WEGE3) é a pior ação da semana; veja o que rolou no Ibovespa",
+   "url": "https://www.moneytimes.com.br/ibovespa-destaques-da-semana-43-lils-2/",
+   "publicado": "2026-10-24T10:20:00+00:00",
+   "tickers": [
+    "MGLU3",
+    "WEGE3"
+   ],
+   "resumo": "O Ibovespa (IBOV) terminou a última semana antes do segundo turno das eleições à Presidência em ligeira queda, estendendo as perdas da semana anterior. O principal índice da bolsa brasileira acumulou queda de 0,17% na semana e encerrou a última sessão aos 205.082,56 pontos. Já o "
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Como a Mercedes gastou US$ 10 milhões para transformar um prodígio de 11 anos em campeão da F1",
+   "url": "https://investnews.com.br/the-wall-street-journal/como-a-mercedes-gastou-us-10-milhoes-para-transformar-um-prodigio-de-11-anos-em-campeao-da-f1/",
+   "publicado": "2026-10-24T09:00:00+00:00",
+   "tickers": [],
+   "resumo": "A equipe descobriu o talento do piloto Kimi Antonelli quando ele ainda competia no kart. Nove anos depois, ele está prestes a conquistar seu primeiro título na Fórmula 1"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Debate da Globo: Em bloco livre, Lula e Flávio Bolsonaro trocam acusações sobre patrimônio, Master e supostos favorecimentos",
+   "url": "https://www.moneytimes.com.br/debate-da-globo-em-bloco-livre-lula-e-flavio-bolsonaro-trocam-acusacoes-sobre-patrimonio-master-e-supostos-favorecimentos/",
+   "publicado": "2026-10-24T02:59:24+00:00",
+   "tickers": [],
+   "resumo": "O último bloco do debate presidencial deste domingo (23) entre Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) foi dominado por ataques pessoais, acusações de corrupção e questionamentos sobre patrimônio, deixando em segundo plano os temas de governo. Lula abriu o bloco ci"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Debate da Globo: Lula e Flávio Bolsonaro trocam ataques sobre endividamento, educação e segurança pública em debate",
+   "url": "https://www.moneytimes.com.br/debate-da-globo-lula-e-flavio-bolsonaro-trocam-ataques-sobre-endividamento-educacao-e-seguranca-publica-em-debate-rnda/",
+   "publicado": "2026-10-24T02:33:40+00:00",
+   "tickers": [],
+   "resumo": "O terceiro bloco do debate presidencial deste sexta-feira (23) foi marcado por embates sobre o endividamento das famílias brasileiras, educação em tempo integral e segurança pública. Ao escolher o tema endividamento dos brasileiros, o candidato do PL, Flávio Bolsonaro, criticou a"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Em bloco da ‘desculpa’, Lula e Flávio Bolsonaro duelam sobre dívida pública, juros e SUS; candidatos divergem sobre papel do Estado",
+   "url": "https://www.moneytimes.com.br/em-bloco-da-desculpa-lula-e-flavio-bolsonaro-duelam-sobre-divida-publica-juros-e-sus-candidatos-divergem-sobre-papel-do-estado/",
+   "publicado": "2026-10-24T02:08:48+00:00",
+   "tickers": [],
+   "resumo": "O segundo bloco do debate presidencial da TV Globo desta sexta-feira (23) foi marcado por um confronto direto entre Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) sobre dívida pública, taxa de juros e os rumos do Sistema Único de Saúde (SUS). Um dos momentos marcantes foi"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Debate da Globo: Lula e Flávio Bolsonaro trocam acusações sobre infraestrutura, agronegócio e poder de compra",
+   "url": "https://www.moneytimes.com.br/debate-da-globo-lula-e-flavio-bolsonaro-trocam-acusacoes-sobre-infraestrutura-agronegocio-e-poder-de-compra-rnda/",
+   "publicado": "2026-10-24T01:42:29+00:00",
+   "tickers": [],
+   "resumo": "Em um debate com mais proposta e menos ataques, temas econômicos dominaram o primeiro bloco. No embate da TV Globo realizado nesta sexta-feira (23), o presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL) travaram um embate marcado por acusações sobre infrae"
+  },
+  {
    "fonte": "Valor Investe",
    "titulo": "BC propõe novas regras para evitar conflitos de interesse na oferta de investimentos pelos bancos",
    "url": "https://valorinveste.globo.com/mercados/noticia/2026/10/23/bc-propoe-novas-regras-para-evitar-conflitos-de-interesse-na-oferta-de-investimentos-pelos-bancos.ghtml",
@@ -62,7 +139,7 @@
   },
   {
    "fonte": "Money Times",
-   "titulo": "Frasle (FRAS3) coloca na rua oferta de ações; veja detalhes",
+   "titulo": "Frasle (FRAS3) coloca na rua oferta de ações facultativa da Randon (RAPT3); veja detalhes",
    "url": "https://www.moneytimes.com.br/frasle-fras3-coloca-na-rua-oferta-de-acoes-veja-detalhes/",
    "publicado": "2026-10-23T22:05:16+00:00",
    "tickers": [
@@ -78,34 +155,6 @@
    "publicado": "2026-10-23T21:57:22+00:00",
    "tickers": [],
    "resumo": "Os contratos futuros do petróleo tiveram forte alta nesta sexta-feira, diante do temor de um aumento nas tensões no Oriente Médio, após relatos de que os Estados Unidos e Israel estariam elaborando planos para novos ataques ao Irã e diante de um aumento nos ataques à Arábia Saudi"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "CSN (CSNA3): o que está por trás do salto de 12% antes do 2º turno das eleições?",
-   "url": "https://www.moneytimes.com.br/csn-csna3-o-que-esteve-por-tras-do-salto-de-12-antes-do-2o-turno-das-eleicoes-apsa/",
-   "publicado": "2026-10-23T21:52:20+00:00",
-   "tickers": [
-    "CSNA3"
-   ],
-   "resumo": "A CSN (CSNA3) liderou a ponta positiva do Ibovespa (IBOV) no pregão desta sexta-feira (23) com salto de 12,41%, cotada a R$ 6,07, em um movimento que destoa da tendência de baixa da ação nos últimos dias. Segundo especialistas consultados pelo Money Times, o otimismo com a ação r"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Iochpe-Maxion (MYPK3) provisiona 15 milhões de euros após investigação antitruste na Alemanha",
-   "url": "https://www.moneytimes.com.br/iochpe-maxion-mypk3-provisiona-15-milhoes-de-euros-apos-investigacao-antitruste-na-alemanha-pads/",
-   "publicado": "2026-10-23T21:50:16+00:00",
-   "tickers": [
-    "MYPK3"
-   ],
-   "resumo": "A Iochpe-Maxion (MYPK3) vai reconhecer uma provisão estimada em 15 milhões de euros nas demonstrações financeiras do terceiro trimestre de 2026 após uma investigação da autoridade antitruste alemã envolvendo sua controlada indireta Maxion Wheels Holding GmbH. Em comunicado divulg"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Trump diz que EUA vão ‘cuidar de Cuba’ depois de lidarem com o Irã",
-   "url": "https://www.moneytimes.com.br/trump-diz-que-eua-vao-cuidar-de-cuba-depois-de-lidarem-com-o-ira-davs/",
-   "publicado": "2026-10-23T21:41:39+00:00",
-   "tickers": [],
-   "resumo": "O presidente Donald Trump afirmou nesta sexta-feira (23), durante um comício na Flórida, que os Estados Unidos &#8220;vão cuidar&#8221; de Cuba depois de lidarem com o Irã e que enviariam o secretário de Estado Marco Rubio para finalizar um acordo com o país latino. No mês anteri"
   },
   {
    "fonte": "Suno Noticias",
@@ -141,30 +190,6 @@
    "publicado": "2026-10-23T20:54:00+00:00",
    "tickers": [],
    "resumo": "O número de restaurantes e bares no estado de Nova York passou de 50.856 no 1º tri de 2025 para 48.928 no 1º tri deste ano, uma perda líquida de cerca de 1.928 estabelecimentos e a maior queda trimestral em 36 anos. Segundo o Bureau of Labor Statistics (BLS), o número supera qual"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "CVM coloca mercado preditivo, tokenização e IA entre prioridades da autarquia para os próximos meses",
-   "url": "https://www.moneytimes.com.br/cvm-coloca-mercado-preditivo-tokenizacao-e-ia-entre-prioridades-da-autarquia-para-os-proximos-meses-mlim/",
-   "publicado": "2026-10-23T20:48:06+00:00",
-   "tickers": [],
-   "resumo": "O presidente da Comissão de Valores Mobiliários (CVM), Otto Lobo, indicou nesta sexta-feira (23) que a autarquia deve concentrar seus esforços nos próximos meses em três grandes frentes: a regulamentação do mercado preditivo, o avanço da tokenização do mercado de capitais e a imp"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Bolsa de Nova York fecha em queda generalizada com alta do petróleo no radar",
-   "url": "https://www.moneytimes.com.br/bolsas-de-nova-york-fecham-em-queda-com-alta-do-petroleo-davs/",
-   "publicado": "2026-10-23T20:46:03+00:00",
-   "tickers": [],
-   "resumo": "Os temores crescentes de uma escalada do conflito entre EUA e Irã pesaram na conta de Wall Street nesta sexta-feira (23). As bolsas de Nova York fecharam o pregão em queda generalizada em meio à alta do petróleo. Confira o fechamento dos índices: Os preços do petróleo ultrapassar"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Ibovespa fecha em alta com aposta de vitória de Flávio Bolsonaro; dólar encerra abaixo de R$ 5",
-   "url": "https://www.moneytimes.com.br/ibovespa-23-10-26-lils/",
-   "publicado": "2026-10-23T20:37:08+00:00",
-   "tickers": [],
-   "resumo": "No último pregão antes do segundo turno das eleições presidenciais, o Ibovespa (IBOV) acelerou os ganhos na reta final do pregão com a aposta de uma vitória de Flávio Bolsonaro (PL) sobre o presidente Luiz Inácio Lula da Silva (PT) no segundo turno das eleições à Presidência, que"
   },
   {
    "fonte": "Valor Investe",
@@ -737,30 +762,6 @@
     "RECV3"
    ],
    "resumo": "Mesmo com a cotação do petróleo Brent superando a marca de US$ 113, o barril, no mercado internacional — impulsionada pela escalada militar no Oriente Médio —, as ações das petroleiras negociadas na B3 operaram com forte volatilidade no pregão desta quinta-feira (22).\nO descolame"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "IA nas eleições: como automatizar dados e criar vídeos",
-   "url": "https://investnews.com.br/videos/ia-nas-eleicoes-como-automatizar-dados-e-criar-videos/",
-   "publicado": "2026-10-22T13:41:18+00:00",
-   "tickers": [],
-   "resumo": "Em 'IA: Modo de Usar', Pedro Burgos mostra como cruzar dados do TSE, gerar gráficos e automatizar narrações. Assista ao vídeo e aprenda."
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Dívida do Brasil em R$ 11 tri: por que o país preocupa tanto?",
-   "url": "https://investnews.com.br/videos/divida-do-brasil-em-r-11-tri-por-que-o-pais-preocupa-tanto/",
-   "publicado": "2026-10-22T13:40:39+00:00",
-   "tickers": [],
-   "resumo": "Enquanto a dívida pública escala e os juros pressionam a inflação, o crédito fica caro. Assista ao vídeo e veja o impacto na economia."
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Tesouro Direto hoje: com alta volatilidade, taxas prefixadas sobem, mas IPCA+ longos caem",
-   "url": "https://investnews.com.br/investimentos/tesouro-direto-taxas-rendimento-hoje-prefixados-sobem-22102026/",
-   "publicado": "2026-10-22T13:12:42+00:00",
-   "tickers": [],
-   "resumo": "Juro fixo avança até 0,09 ponto. Simulação com R$ 10 mil mostra efeito no bolso. Confira as taxas completas."
   },
   {
    "fonte": "Valor Investe",
