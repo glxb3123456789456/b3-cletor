@@ -3,6 +3,68 @@
  "itens": 105,
  "dados": [
   {
+   "fonte": "InvestNews",
+   "titulo": "Frasers, de Mike Ashley, diz ter assumido o controle da Hugo Boss",
+   "url": "https://investnews.com.br/negocios/frasers-mike-ashley-controle-hugo-boss/",
+   "publicado": "2026-10-24T16:09:22+00:00",
+   "tickers": [],
+   "resumo": "Com participação de 50,08%, grupo britânico passará a consolidar os resultados da marca alemã, que se tornará sua subsidiária"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Lula x Flávio: o que defendem sobre terras raras, energia e indústria automotiva",
+   "url": "https://investnews.com.br/economia/lula-flavio-propostas-setores/",
+   "publicado": "2026-10-24T15:52:07+00:00",
+   "tickers": [],
+   "resumo": "Nenhum plano tem proposta para montadoras. Petrobras, impostos e capital estrangeiro separam os candidatos"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Quem são os vices de Lula e Flávio Bolsonaro nas eleições 2026",
+   "url": "https://investnews.com.br/economia/quem-sao-os-vices-de-lula-e-flavio/",
+   "publicado": "2026-10-24T15:33:41+00:00",
+   "tickers": [],
+   "resumo": "Geraldo Alckmin, ex-rival de Lula, e Alfredo Gaspar, ex-aliado dos Calheiros, completam as chapas da disputa final"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Azul obtém financiamento de até R$ 2 bilhões para pagar combustível de aviação",
+   "url": "https://investnews.com.br/negocios/azul-financiamento-combustivel-aviacao/",
+   "publicado": "2026-10-24T15:31:51+00:00",
+   "tickers": [],
+   "resumo": "Operação tem garantia da União e faz parte do plano de reestruturação da companhia; alta do querosene já levou a Gol a cortar rotas"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Flávio tem 46,3% e Lula soma 45% em empate técnico na véspera da eleição, diz CNT/MDA",
+   "url": "https://www.moneytimes.com.br/flavio-tem-463-e-lula-soma-45-em-empate-tecnico-na-vespera-da-eleicao-diz-cnt-mda/",
+   "publicado": "2026-10-24T15:08:17+00:00",
+   "tickers": [],
+   "resumo": "O senador Flávio Bolsonaro (PL) e o presidente Luiz Inácio Lula da Silva (PT) estão em empate técnico na véspera do segundo turno da eleição presidencial que será realizado no domingo, mostrou pesquisa CNT/MDA divulgada neste sábado. Segundo o levantamento, Flávio aparece numeric"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Carteira recomendada: 5 ações para bater o Ibovespa (IBOV) no curto prazo, segundo a Terra",
+   "url": "https://www.moneytimes.com.br/carteira-recomendada-5-acoes-para-bater-o-ibovespa-ibov-no-curto-prazo-segundo-a-terra-lmrs/",
+   "publicado": "2026-10-24T14:50:00+00:00",
+   "tickers": [
+    "CMIG4",
+    "MBRF3",
+    "POMO4",
+    "SUZB3",
+    "VIVT3"
+   ],
+   "resumo": "A Terra Investimentos não realizou alterações na carteira recomendada semanal de ações para o período de 23 a 30 de outubro. Permanecem na composição do portfólio os papéis de Marcopolo (POMO4), Cemig (CMIG4), Telefônica Brasil (VIVT3), MBRF (MBRF3) e Suzano (SUZB3) Na última sem"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "O teto do INSS 2026 é de R$ 8.475,55: Conheça sistema do mercado de opções que acumulou R$ 14,3 mil em apenas um mês",
+   "url": "https://www.moneytimes.com.br/o-teto-do-inss-2026-e-de-r-8-47555-conheca-sistema-do-mercado-de-opcoes-que-acumulou-r-143-mil-em-apenas-um-mes-lbrdgm102/",
+   "publicado": "2026-10-24T14:00:00+00:00",
+   "tickers": [],
+   "resumo": "No início de 2026, o teto dos benefícios do INSS foi reajustado para R$ 8.475,55 por mês. Embora esse seja o valor máximo pago pela Previdência Social, a realidade da maior parte dos segurados é bem diferente. Segundo dados do INSS, cerca de 62,5% dos aposentados e pensionistas r"
+  },
+  {
    "fonte": "Money Times",
    "titulo": "Azul (AZUL3) obtém financiamento de até R$ 2 bilhões com garantia da União para pagar combustível",
    "url": "https://www.moneytimes.com.br/azul-azul3-obtem-financiamento-de-ate-r-2-bilhoes-com-garantia-da-uniao-para-pagar-combustivel/",
@@ -49,7 +111,7 @@
   },
   {
    "fonte": "Money Times",
-   "titulo": "Debate da Globo: Em bloco livre, Lula e Flávio Bolsonaro trocam acusações sobre patrimônio, Master e supostos favorecimentos",
+   "titulo": "Debate da Globo: Lula e Flávio Bolsonaro trocam acusações sobre patrimônio, Master e supostos favorecimentos",
    "url": "https://www.moneytimes.com.br/debate-da-globo-em-bloco-livre-lula-e-flavio-bolsonaro-trocam-acusacoes-sobre-patrimonio-master-e-supostos-favorecimentos/",
    "publicado": "2026-10-24T02:59:24+00:00",
    "tickers": [],
@@ -112,41 +174,12 @@
    "resumo": "O Banco Central (BC) publicou nesta sexta-feira (23) um pacote de três medidas para ampliar a proteção do consumidor nas relações de crédito com o sistema financeiro nacional (SFN). Na primeira delas, a oferta de crédito ativa e personalizada ao consumidor dependerá de autorizaçã"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Após negociações com credores, Oncoclínicas (ONCO3) protocola novo plano de reestruturação; veja detalhes",
-   "url": "https://www.moneytimes.com.br/apos-negociacoes-com-credores-oncoclinicas-onco3-protocola-novo-plano-de-reestruturacao-rnda/",
-   "publicado": "2026-10-23T22:25:04+00:00",
-   "tickers": [
-    "ONCO3"
-   ],
-   "resumo": "Em meio a meses de negociações e idas e vindas com credores, a Oncoclínicas (ONCO3) parece ter encontrado um caminho para avançar em sua reestruturação financeira. A companhia aprovou uma nova versão de seu plano de recuperação extrajudicial, em mais um passo para reorganizar seu"
-  },
-  {
    "fonte": "Suno Noticias",
    "titulo": "IFIX avança 0,43%; na semana, variação positiva foi de 1,28%",
    "url": "https://www.suno.com.br/noticias/ifix-avanca-043-na-semana-variacao-positiva-foi-de-128/",
    "publicado": "2026-10-23T22:15:06+00:00",
    "tickers": [],
    "resumo": "O IFIX encerrou o pregão desta sexta-feira (23) aos 3.990,57 pontos, em alta de 0,43%. O ganho no dia foi de 16,91 pontos frente ao fechamento anterior, de 3.973,66 pontos. Durante a sessão, o indicador alcançou a máxima intradiária de 3.997,00 pontos antes de perder fôlego no fi"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Ofensiva de Lula reduz favoritismo de Flávio Bolsonaro no 2º turno, diz Eurasia",
-   "url": "https://www.moneytimes.com.br/ofensiva-de-lula-reduz-favoritismo-de-flavio-bolsonaro-no-2o-turno-diz-eurasia-apsa/",
-   "publicado": "2026-10-23T22:10:52+00:00",
-   "tickers": [],
-   "resumo": "A consultoria Eurasia Group reduziu de 70% para 60% a probabilidade de vitória do senador Flávio Bolsonaro (PL) no segundo turno das eleições presidenciais, diante da melhora recente do desempenho do presidente Luiz Inácio Lula da Silva (PT) na reta final da campanha. Segundo a c"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Frasle (FRAS3) coloca na rua oferta de ações facultativa da Randon (RAPT3); veja detalhes",
-   "url": "https://www.moneytimes.com.br/frasle-fras3-coloca-na-rua-oferta-de-acoes-veja-detalhes/",
-   "publicado": "2026-10-23T22:05:16+00:00",
-   "tickers": [
-    "FRAS3",
-    "RAPT3"
-   ],
-   "resumo": "A Frasle (FRAS3) bateu o martelo e aprovou, por meio de sua controladora, a DRAMD Participações e Administração, a oferta pública facultativa para trocar ações da companhia por papéis ordinários da Randoncorp (RAPT3), em operação que mira até a totalidade das ações em circulação "
   },
   {
    "fonte": "Valor Investe",
@@ -687,44 +720,12 @@
    "resumo": "Apesar do rali generalizado observado desde o primeiro turno das eleições no Brasil, o Morgan Stanley ainda vê potencial de valorização de cerca de 50% em dólares para as ações brasileiras voltadas ao mercado doméstico, excluindo exportadoras. \nNo cenário otimista do banco, que p"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Como o aluguel de ações ajudou a dar impulso a empresas na bolsa brasileira com o resultado das eleições",
-   "url": "https://investnews.com.br/investimentos/aluguel-de-acoes-ajuda-impulso-b3/",
-   "publicado": "2026-10-22T16:01:23+00:00",
-   "tickers": [],
-   "resumo": "Taxas de aluguel de ações disparam entre as companhias mais endividadas, que podem se beneficiar da queda do juro"
-  },
-  {
    "fonte": "Brazil Journal",
    "titulo": "Piso do frete sai pela culatra: caminhoneiro autônomo perde mercado",
    "url": "https://braziljournal.com/piso-do-frete-sai-pela-culatra-caminhoneiro-autonomo-perde-mercado",
    "publicado": "2026-10-22T15:50:00+00:00",
    "tickers": [],
    "resumo": "A lei que reforçou o controle de preços do frete rodoviário, uma das primeiras medidas do inesgotável pacote de “bondades” pré-eleitorais do Governo Lula, está rendendo resultados opostos aos esperados por Brasília. Lançada em março por meio de uma medida provisória aprovada no C"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Rio Tinto fecha acordo com estatal chinesa para fornecer minério de ferro",
-   "url": "https://investnews.com.br/negocios/rio-tinto-fecha-acordo-com-estatal-chinesa-para-fornecer-minerio-de-ferro/",
-   "publicado": "2026-10-22T15:21:08+00:00",
-   "tickers": [],
-   "resumo": "Acordo plurianual amplia contratos da estatal chinesa com grandes produtores globais de minério de ferro"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Carrefour vende imóveis ao Pátria e passará a pagar aluguel pelas lojas",
-   "url": "https://investnews.com.br/negocios/carrefour-vende-imoveis-ao-patria-e-passara-a-pagar-aluguel-pelas-lojas/",
-   "publicado": "2026-10-22T15:01:03+00:00",
-   "tickers": [],
-   "resumo": "A operação não envolve a transferência das atividades comerciais"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Desconto do INSS no 13º salário: veja tabela e cálculo do pagamento de 2026",
-   "url": "https://investnews.com.br/economia/desconto-do-inss-no-13o-salario/",
-   "publicado": "2026-10-22T14:41:27+00:00",
-   "tickers": [],
-   "resumo": "Contribuição incide sobre o valor bruto do décimo terceiro, em separado do salário de dezembro"
   },
   {
    "fonte": "Brazil Journal",
