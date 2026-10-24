@@ -3,6 +3,102 @@
  "itens": 105,
  "dados": [
   {
+   "fonte": "Money Times",
+   "titulo": "Lula e Flávio Bolsonaro encerram segundo turno empatados, aponta pesquisa AtlasIntel/Bloomberg",
+   "url": "https://www.moneytimes.com.br/pesquisa-atlasintel-bloomberg-24-de-outubro-gaep/",
+   "publicado": "2026-10-24T22:30:00+00:00",
+   "tickers": [],
+   "resumo": "Pesquisa AtlasIntel/Bloomberg divulgada neste sábado (24), aponta o senador Flávio Bolsonaro (PL-RJ) com 49,9% e presidente Luiz Inácio Lula da Silva (PT) com 48,4% dos votos no segundo turno das eleições presidenciais. Outros 1,7% ainda estão indecisos e declaram votos em branco"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Quaest: Flávio Bolsonaro, com 46%, e Lula, com 45%, mantêm empate técnico",
+   "url": "https://www.moneytimes.com.br/quaest-flavio-bolsonaro-com-46-e-lula-com-45-mantem-empate-tecnico-gaep/",
+   "publicado": "2026-10-24T22:18:24+00:00",
+   "tickers": [],
+   "resumo": "A última pesquisa Quaest para o segundo turno da eleição presidencial 2026, divulgada neste sábado (24), traz Flávio Bolsonaro (PL) com 46% e Luiz Inácio Lula da Silva (PT) com 45% das intenções de voto. Nenhum dos candidatos, brancos e nulos somariam 9%. Restam ainda 8% de indec"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Pesquisa Atlas: Pazolini tem 51,2% dos votos válidos ao governo do ES; Ferraço marca 47,4%",
+   "url": "https://www.moneytimes.com.br/pesquisa-atlas-pazolini-tem-512-dos-votos-validos-ao-governo-do-es-ferraco-marca-474/",
+   "publicado": "2026-10-24T22:15:16+00:00",
+   "tickers": [],
+   "resumo": "Pesquisa Atlas/PollsterGraph divulgada neste sábado, 24, mostra o candidato Lorenzo Pazolini (Republicanos) à frente de Ricardo Ferraço (MDB) nas intenções de votos válidos ao governo do Espírito Santo. Pazolini tem 51,2% dos votos, enquanto o emedebista marca 48,8%. A margem de "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Datafolha: Celina Leão tem 59% e Leandro Grass 41% dos votos válidos no DF",
+   "url": "https://www.moneytimes.com.br/datafolha-celina-leao-tem-59-e-leandro-grass-41-dos-votos-validos-no-df/",
+   "publicado": "2026-10-24T22:12:53+00:00",
+   "tickers": [],
+   "resumo": "Pesquisa Datafolha divulgada neste sábado, 24, mostra a governadora do Distrito Federal, Celina Leão (PP), com 59% dos votos válidos, enquanto Leandro Grass (PT) registra 41% na disputa pelo segundo turno. Os votos válidos excluem brancos, nulos e indecisos e são utilizados pela "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Datafolha: Flávio Bolsonaro tem 51% e Lula, 49%, dos votos válidos",
+   "url": "https://www.moneytimes.com.br/datafolha-flavio-bolsonaro-tem-51-e-lula-49-dos-votos-validos-gaep/",
+   "publicado": "2026-10-24T21:45:54+00:00",
+   "tickers": [],
+   "resumo": "A última pesquisa do Instituto Datafolha sobre o segundo turno das eleições presidenciais 2026, divulgada neste sábado (24), mostra o senador Flávio Bolsonaro (PL-RJ) com 51% e o presidente Luiz Inácio Lula da Silva (PT) com 49% dos votos válidos. No levantamento anterior, public"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "MP Eleitoral pede encerramento do processo sobre sigilo de Lula e de Flávio",
+   "url": "https://www.moneytimes.com.br/mp-eleitoral-pede-encerramento-do-processo-sobre-sigilo-de-lula-e-de-flavio/",
+   "publicado": "2026-10-24T21:43:40+00:00",
+   "tickers": [],
+   "resumo": "Após a decisão do ministro André Mendonça, segundo o qual ‘não cabe à Justiça Eleitoral definir o que cada candidato quer ou não divulgar’, o Ministério Público Eleitoral defendeu o encerramento do processo sobre a abertura do sigilo dos candidatos à Presidência, Luiz Inácio Lula"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Pesquisa Atlas no Acre: Mailza tem 60,4% dos votos válidos; Alan Rick, 39,6%",
+   "url": "https://www.moneytimes.com.br/pesquisa-atlas-no-acre-mailza-tem-604-dos-votos-validos-alan-rick-396/",
+   "publicado": "2026-10-24T21:34:43+00:00",
+   "tickers": [],
+   "resumo": "Pesquisa Atlas/PollsterGraph divulgada neste sábado, 24, sobre o segundo turno da disputa pelo governo do Acre aponta vitória de Mailza Assis (PP), com 60,4% das intenções de votos válidos, que excluem brancos e nulos, contra 39,6% de Alan Rick (Republicanos). A margem de erro é "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Atlas no Amazonas: Omar Aziz tem 56,9% dos votos válidos e Maria do Carmo, 43,1%",
+   "url": "https://www.moneytimes.com.br/atlas-no-amazonas-omar-aziz-tem-569-dos-votos-validos-e-maria-do-carmo-431/",
+   "publicado": "2026-10-24T21:32:25+00:00",
+   "tickers": [],
+   "resumo": "Pesquisa Atlas/PollsterGraph divulgada neste sábado, 24, mostra que o senador Omar Aziz (PSD) tem 56,9% dos votos válidos contra 43,1% da candidata Professora Maria do Carmo (PL) na disputa pelo governo do Amazonas. A margem de erro é de 2 pontos porcentuais. Nos votos totais, Az"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Pesquisa Atlas: Cadu de Lula tem 51,1% e Allyson, 48,9% dos votos válidos no RN",
+   "url": "https://www.moneytimes.com.br/pesquisa-atlas-cadu-de-lula-tem-511-e-allyson-489-dos-votos-validos-no-rn/",
+   "publicado": "2026-10-24T21:25:00+00:00",
+   "tickers": [],
+   "resumo": "Pesquisa Atlas/PollsterGraph divulgada neste sábado, 24, mostra o ex-secretário estadual da Fazenda Cadu de Lula (PT) com 51,1% dos votos válidos na disputa pelo governo do Rio Grande do Norte enquanto o ex-prefeito de Mossoró Allyson Bezerra (União Brasil) registra 48,9%. Os doi"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Segundo turno começa no exterior; brasileiros na Nova Zelândia são os primeiros a votar",
+   "url": "https://www.moneytimes.com.br/segundo-turno-comeca-no-exterior-brasileiros-na-nova-zelandia-sao-os-primeiros-a-votar/",
+   "publicado": "2026-10-24T21:22:52+00:00",
+   "tickers": [],
+   "resumo": "Brasileiros que vivem na Nova Zelândia são os primeiros a depositarem seus votos neste segundo turno das eleições 2026. Foram abertas às 16 horas deste sábado (de Brasília) as cinco seções de Wellington, capital neozelandesa. Há 3,1 mil eleitores aptos a votar por lá. A votação n"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Mega-Sena 3074 sorteia prêmio de R$ 230 milhões neste sábado (24), segundo maior do ano",
+   "url": "https://valorinveste.globo.com/loterias/noticia/2026/10/24/mega-sena-3074-sorteia-premio-de-r-230-milhoes-neste-sabado-24-segundo-maior-do-ano.ghtml",
+   "publicado": "2026-10-24T20:02:31+00:00",
+   "tickers": [],
+   "resumo": "A Caixa Econômica Federal antecipou para este sábado (24) os sorteios das loterias por conta do segundo turno das eleições no domingo (25). E a Mega-Sena 3074 vai sortear um prêmio estimado em R$ 230 milhões, a partir das 21h (horário de Brasília), em São Paulo.\nSe tiver ganhador"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "iPhone Duo chega às lojas da Apple em meio a estoques limitados e forte demanda",
+   "url": "https://investnews.com.br/negocios/iphone-duo-lojas-apple-demanda-forte/",
+   "publicado": "2026-10-24T17:57:57+00:00",
+   "tickers": [],
+   "resumo": "Aparelho dobrável custa a partir de US$ 1.999 e já tem prazo de entrega até janeiro para novos pedidos feitos no site da empresa"
+  },
+  {
    "fonte": "InvestNews",
    "titulo": "Frasers, de Mike Ashley, diz ter assumido o controle da Hugo Boss",
    "url": "https://investnews.com.br/negocios/frasers-mike-ashley-controle-hugo-boss/",
@@ -35,46 +131,6 @@
    "resumo": "Operação tem garantia da União e faz parte do plano de reestruturação da companhia; alta do querosene já levou a Gol a cortar rotas"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Flávio tem 46,3% e Lula soma 45% em empate técnico na véspera da eleição, diz CNT/MDA",
-   "url": "https://www.moneytimes.com.br/flavio-tem-463-e-lula-soma-45-em-empate-tecnico-na-vespera-da-eleicao-diz-cnt-mda/",
-   "publicado": "2026-10-24T15:08:17+00:00",
-   "tickers": [],
-   "resumo": "O senador Flávio Bolsonaro (PL) e o presidente Luiz Inácio Lula da Silva (PT) estão em empate técnico na véspera do segundo turno da eleição presidencial que será realizado no domingo, mostrou pesquisa CNT/MDA divulgada neste sábado. Segundo o levantamento, Flávio aparece numeric"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Carteira recomendada: 5 ações para bater o Ibovespa (IBOV) no curto prazo, segundo a Terra",
-   "url": "https://www.moneytimes.com.br/carteira-recomendada-5-acoes-para-bater-o-ibovespa-ibov-no-curto-prazo-segundo-a-terra-lmrs/",
-   "publicado": "2026-10-24T14:50:00+00:00",
-   "tickers": [
-    "CMIG4",
-    "MBRF3",
-    "POMO4",
-    "SUZB3",
-    "VIVT3"
-   ],
-   "resumo": "A Terra Investimentos não realizou alterações na carteira recomendada semanal de ações para o período de 23 a 30 de outubro. Permanecem na composição do portfólio os papéis de Marcopolo (POMO4), Cemig (CMIG4), Telefônica Brasil (VIVT3), MBRF (MBRF3) e Suzano (SUZB3) Na última sem"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "O teto do INSS 2026 é de R$ 8.475,55: Conheça sistema do mercado de opções que acumulou R$ 14,3 mil em apenas um mês",
-   "url": "https://www.moneytimes.com.br/o-teto-do-inss-2026-e-de-r-8-47555-conheca-sistema-do-mercado-de-opcoes-que-acumulou-r-143-mil-em-apenas-um-mes-lbrdgm102/",
-   "publicado": "2026-10-24T14:00:00+00:00",
-   "tickers": [],
-   "resumo": "No início de 2026, o teto dos benefícios do INSS foi reajustado para R$ 8.475,55 por mês. Embora esse seja o valor máximo pago pela Previdência Social, a realidade da maior parte dos segurados é bem diferente. Segundo dados do INSS, cerca de 62,5% dos aposentados e pensionistas r"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Azul (AZUL3) obtém financiamento de até R$ 2 bilhões com garantia da União para pagar combustível",
-   "url": "https://www.moneytimes.com.br/azul-azul3-obtem-financiamento-de-ate-r-2-bilhoes-com-garantia-da-uniao-para-pagar-combustivel/",
-   "publicado": "2026-10-24T12:47:02+00:00",
-   "tickers": [
-    "AZUL3"
-   ],
-   "resumo": "A Azul (AZUL3) celebrou uma operação de financiamento de até R$ 2 bilhões, com cobertura do risco de crédito pela União, para custear exclusivamente a compra de combustível de aviação destinado às operações regulares domésticas. Em fato relevante divulgado neste sábado (24), a co"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Como a repressão à imigração dificulta a construção de casas nos Estados Unidos",
    "url": "https://investnews.com.br/geral/como-a-repressao-a-imigracao-dificulta-a-construcao-de-casas-nos-estados-unidos/",
@@ -84,22 +140,11 @@
   },
   {
    "fonte": "InvestNews",
-   "titulo": "Justiça suspende OPA de até R$ 14 bilhões na Oncoclínicas determinada pela CVM",
+   "titulo": "Justiça suspende exigência da CVM de oferta bilionária por ações da Oncoclínicas",
    "url": "https://investnews.com.br/negocios/justica-suspende-opa-oncoclinicas-cvm/",
    "publicado": "2026-10-24T11:03:29+00:00",
    "tickers": [],
    "resumo": "Josephina III consegue liminar às vésperas do prazo para iniciar oferta; decisão questiona atuação da CVM e aponta arbitragem como foro para resolver disputa entre acionistas"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Magazine Luiza (MGLU3) salta 14%, enquanto WEG (WEGE3) é a pior ação da semana; veja o que rolou no Ibovespa",
-   "url": "https://www.moneytimes.com.br/ibovespa-destaques-da-semana-43-lils-2/",
-   "publicado": "2026-10-24T10:20:00+00:00",
-   "tickers": [
-    "MGLU3",
-    "WEGE3"
-   ],
-   "resumo": "O Ibovespa (IBOV) terminou a última semana antes do segundo turno das eleições à Presidência em ligeira queda, estendendo as perdas da semana anterior. O principal índice da bolsa brasileira acumulou queda de 0,17% na semana e encerrou a última sessão aos 205.082,56 pontos. Já o "
   },
   {
    "fonte": "InvestNews",
@@ -108,38 +153,6 @@
    "publicado": "2026-10-24T09:00:00+00:00",
    "tickers": [],
    "resumo": "A equipe descobriu o talento do piloto Kimi Antonelli quando ele ainda competia no kart. Nove anos depois, ele está prestes a conquistar seu primeiro título na Fórmula 1"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Debate da Globo: Lula e Flávio Bolsonaro trocam acusações sobre patrimônio, Master e supostos favorecimentos",
-   "url": "https://www.moneytimes.com.br/debate-da-globo-em-bloco-livre-lula-e-flavio-bolsonaro-trocam-acusacoes-sobre-patrimonio-master-e-supostos-favorecimentos/",
-   "publicado": "2026-10-24T02:59:24+00:00",
-   "tickers": [],
-   "resumo": "O último bloco do debate presidencial deste domingo (23) entre Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) foi dominado por ataques pessoais, acusações de corrupção e questionamentos sobre patrimônio, deixando em segundo plano os temas de governo. Lula abriu o bloco ci"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Debate da Globo: Lula e Flávio Bolsonaro trocam ataques sobre endividamento, educação e segurança pública em debate",
-   "url": "https://www.moneytimes.com.br/debate-da-globo-lula-e-flavio-bolsonaro-trocam-ataques-sobre-endividamento-educacao-e-seguranca-publica-em-debate-rnda/",
-   "publicado": "2026-10-24T02:33:40+00:00",
-   "tickers": [],
-   "resumo": "O terceiro bloco do debate presidencial deste sexta-feira (23) foi marcado por embates sobre o endividamento das famílias brasileiras, educação em tempo integral e segurança pública. Ao escolher o tema endividamento dos brasileiros, o candidato do PL, Flávio Bolsonaro, criticou a"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Em bloco da ‘desculpa’, Lula e Flávio Bolsonaro duelam sobre dívida pública, juros e SUS; candidatos divergem sobre papel do Estado",
-   "url": "https://www.moneytimes.com.br/em-bloco-da-desculpa-lula-e-flavio-bolsonaro-duelam-sobre-divida-publica-juros-e-sus-candidatos-divergem-sobre-papel-do-estado/",
-   "publicado": "2026-10-24T02:08:48+00:00",
-   "tickers": [],
-   "resumo": "O segundo bloco do debate presidencial da TV Globo desta sexta-feira (23) foi marcado por um confronto direto entre Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) sobre dívida pública, taxa de juros e os rumos do Sistema Único de Saúde (SUS). Um dos momentos marcantes foi"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Debate da Globo: Lula e Flávio Bolsonaro trocam acusações sobre infraestrutura, agronegócio e poder de compra",
-   "url": "https://www.moneytimes.com.br/debate-da-globo-lula-e-flavio-bolsonaro-trocam-acusacoes-sobre-infraestrutura-agronegocio-e-poder-de-compra-rnda/",
-   "publicado": "2026-10-24T01:42:29+00:00",
-   "tickers": [],
-   "resumo": "Em um debate com mais proposta e menos ataques, temas econômicos dominaram o primeiro bloco. No embate da TV Globo realizado nesta sexta-feira (23), o presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL) travaram um embate marcado por acusações sobre infrae"
   },
   {
    "fonte": "Valor Investe",
@@ -156,14 +169,6 @@
    "publicado": "2026-10-23T23:17:39+00:00",
    "tickers": [],
    "resumo": "Documento substitui o de agosto; empresa espera adesão de credores de R$ 5,7 bi, sujeita à homologação da Justiça"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "De olho nas eleições de meio de mandato, Trump revisa lista de produtos do Canadá afetados por tarifas de 50%",
-   "url": "https://www.moneytimes.com.br/de-olho-nas-eleicoes-de-meio-de-mandato-trump-revisa-lista-de-produtos-do-canada-afetados-por-tarifas-de-50-davs/",
-   "publicado": "2026-10-23T23:03:48+00:00",
-   "tickers": [],
-   "resumo": "O governo de Donald Trump anunciou nesta sexta-feira (23) mudanças na lista de produtos canadenses sujeitos a tarifas de 50%, removendo itens como chapas de madeira compensada, produtos de papel, máquinas e equipamentos de refrigeração. No lugar, itens como válvulas, carpetes e r"
   },
   {
    "fonte": "Valor Investe",
@@ -696,14 +701,6 @@
    "resumo": "As ações das gigantes de tecnologia Meta e Tesla, integrantes do grupo conhecido como as \"Sete Magníficas\", operaram em forte queda nesta quinta-feira (22), no mercado americano, após a divulgação dos balanços do terceiro trimestre. O movimento contaminou outras empresas do setor"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Reta final da eleição: Ibovespa cai 1% e fecha no menor patamar desde 2 de outubro",
-   "url": "https://investnews.com.br/investimentos/reta-final-da-eleicao-ibovespa-cai-mais-de-1-pressionado-por-pesquisas-dolar-sobe/",
-   "publicado": "2026-10-22T17:45:29+00:00",
-   "tickers": [],
-   "resumo": "Pesquisas apertadas e exterior pesam; dólar avança e vai a R$ 5,04"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Apenas 34% dos jovens preparam bolso para futuro e maioria não conhece previdência",
    "url": "https://valorinveste.globo.com/produtos/previdencia-privada/noticia/2026/10/22/apenas-34percent-dos-jovens-preparam-bolso-para-futuro-e-maioria-nao-conhece-previdencia.ghtml",
@@ -886,14 +883,6 @@
    "publicado": "2026-10-22T03:00:00+00:00",
    "tickers": [],
    "resumo": "A Mega-Sena 3073 vai sortear um prêmio estimado em R$ 200 milhões nesta quinta-feira (22), a partir das 21h (horário de Brasília), em São Paulo.\nSe tiver ganhador, o prêmio prometido para hoje será o segundo maior do ano e estará entre os dez maiores dos consursos regulares da mo"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Quanto rende o prêmio de R$ 200 milhões da Mega-Sena na poupança e em outras opções de renda fixa?",
-   "url": "https://valorinveste.globo.com/objetivo/hora-de-investir/noticia/2026/10/22/quanto-rende-o-premio-de-200-milhoes-da-mega-sena-na-poupanca-e-em-outras-opcoes-de-renda-fixa.ghtml",
-   "publicado": "2026-10-22T03:00:00+00:00",
-   "tickers": [],
-   "resumo": "A Mega-Sena 3073 vai sortear um prêmio estimado em R$ 200 milhões nesta quinta-feira (22), a partir das 21h (horário de Brasília). E a bolada pode render R$ 1,3 milhão em apenas um mês na poupança.\nMas o retorno dessa aplicação em modalidades mais rentáveis da renda fixa pode che"
   },
   {
    "fonte": "Brazil Journal",
