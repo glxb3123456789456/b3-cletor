@@ -3,6 +3,102 @@
  "itens": 105,
  "dados": [
   {
+   "fonte": "Valor Investe",
+   "titulo": "Que horas sai o resultado da apuração?",
+   "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/10/25/que-horas-sai-o-resultado-da-apuracao.ghtml",
+   "publicado": "2026-10-25T17:25:25+00:00",
+   "tickers": [],
+   "resumo": "O resultado das eleições deve ser conhecido até às 21h deste domingo (25). Esta é a expectativa do presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques. \nQuestionado por jornalistas sobre o horário previsto para a definição do pleito, o ministro disse qu"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "TRE-BA determina prisão de secretário de Salvador sob acusação de restrição de transporte público",
+   "url": "https://www.moneytimes.com.br/tre-ba-determina-prisao-de-secretario-de-salvador-sob-acusacao-de-restricao-de-transporte-publico-rens/",
+   "publicado": "2026-10-25T17:14:10+00:00",
+   "tickers": [],
+   "resumo": "O presidente do Tribunal Regional Eleitoral da Bahia (TRE-BA), Mauricio Szporer, determinou no início da tarde deste domingo a prisão do secretário municipal de Mobilidade de Salvador (SEMOB), Pablo Souza, sob acusação de ter orientado a redução da frota de ônibus na cidade no di"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Lula (PT) e Flávio Bolsonaro (PL): veja o saldo de cada campanha eleitoral",
+   "url": "https://www.suno.com.br/noticias/lula-flavio-bolsonaro-arrecadacao-gastos-eleicoes-mt/",
+   "publicado": "2026-10-25T17:00:00+00:00",
+   "tickers": [],
+   "resumo": "Lula (PT) e Flávio Bolsonaro (PL): veja o saldo de cada campanha eleitoralA disputa entre Lula (PT) e Flávio Bolsonaro (PL) também acontece fora das urnas, com milhões de reais movimentados pelas duas campanhas. Até 21 de outubro, a campanha eleitoral de Lula havia declarado R$ 1"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "TRE-BA exige frota total de ônibus em Salvador, sob multa de R$ 1 milhão por hora de descumprimento",
+   "url": "https://www.moneytimes.com.br/tre-ba-exige-frota-total-de-onibus-em-salvador-sob-multa-de-r-1-mi-por-hora-de-descumprimento-rens/",
+   "publicado": "2026-10-25T16:58:51+00:00",
+   "tickers": [],
+   "resumo": "Após denúncia da Federação Brasil da Esperança (PT/PCdoB/PV), o presidente de Tribunal Regional Eleitoral da Bahia (TRE-BA), desembargador eleitoral Maurício Kertzman Szporer, determinou que a Prefeitura de Salvador e as empresas de ônibus coloquem toda a frota da capital nas rua"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Bitcoin (BTC) vai a US$ 80 mil com saídas de ETFs e aversão ao risco elevada neste domingo (25)",
+   "url": "https://www.moneytimes.com.br/bitcoin-btc-vai-a-us-80-mil-com-saidas-de-etfs-e-aversao-ao-risco-elevada-neste-domingo-25-rens/",
+   "publicado": "2026-10-25T15:44:39+00:00",
+   "tickers": [],
+   "resumo": "O mercado de criptomoedas mantém o viés majoritariamente negativo nestas últimas 24 horas, com o bitcoin (BTC) voltando a perder fôlego e o ethereum (ETH) acompanhando o movimento. No entanto, o movimento se inverteu com a caça às barganhas das últimas horas. Entre os principais "
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Credores e acionistas da Braskem ficam mais perto de um acordo",
+   "url": "https://investnews.com.br/negocios/credores-acionistas-braskem-acordo/",
+   "publicado": "2026-10-25T15:43:33+00:00",
+   "tickers": [],
+   "resumo": "Segundo fontes ouvidas pela Bloomberg, documentos divulgados pela petroquímica no sábado sinalizam que acordo está próximo"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "TSE troca 467 urnas nas primeiras horas do segundo turno; veja como votaram Lula e Flávio Bolsonaro",
+   "url": "https://www.moneytimes.com.br/tse-troca-467-urnas-nas-primeiras-horas-do-segundo-turno-veja-como-votaram-lula-e-flavio-bolsonaro-igdl/",
+   "publicado": "2026-10-25T15:03:39+00:00",
+   "tickers": [],
+   "resumo": "O Tribunal Superior Eleitoral (TSE) informou que 467 urnas eletrônicas precisaram ser substituídas em todo o país nas duas primeiras horas de votação, entre 8h e 10h (horário de Brasília) deste domingo (25), dia do segundo turno das eleições. O número equivale a aproximadamente 0"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Decisão de juros nos EUA, dados de emprego no Brasil; confira o que agita os mercados esta semana",
+   "url": "https://www.moneytimes.com.br/decisao-de-juros-nos-eua-dados-de-emprego-no-brasil-confira-o-que-agita-os-mercados-esta-semana-jcav/",
+   "publicado": "2026-10-25T14:50:00+00:00",
+   "tickers": [],
+   "resumo": "O mercado de trabalho e as contas públicas do Brasil dividem as atenções com decisões de juros e dados de atividade no exterior na semana de 26 a 30 de outubro. Por aqui, a segunda-feira (26) traz o Boletim Focus, com as projeções dos economistas para inflação, Selic, câmbio e PI"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Governo libera transporte para indígenas, quilombolas e ribeirinhos no segundo turno; veja como solicitar",
+   "url": "https://www.moneytimes.com.br/governo-libera-transporte-para-indigenas-quilombolas-e-ribeirinhos-no-segundo-turno-igdl/",
+   "publicado": "2026-10-25T14:29:46+00:00",
+   "tickers": [],
+   "resumo": "O governo federal adotou medidas para garantir o transporte de indígenas, quilombolas, ribeirinhos, extrativistas e famílias assentadas aos locais de votação neste domingo (25), dia do segundo turno das eleições presidenciais. Os eleitores escolherão, no pleito de hoje, quem coma"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Lula vota no ABC Paulista e diz que ‘Brasil não vai eleger um mentiroso’",
+   "url": "https://www.moneytimes.com.br/lula-vota-no-abc-paulista-e-diz-que-brasil-nao-vai-eleger-um-mentiroso-igdl/",
+   "publicado": "2026-10-25T13:41:53+00:00",
+   "tickers": [],
+   "resumo": "O presidente Luiz Inácio Lula da Silva (PT) votou na manhã deste domingo (25) em São Bernardo do Campo, em São Paulo, e disse ser grato pela mobilização popular vista nas ruas ao redor do país nas últimas semanas, ressaltando que acha que o Brasil “não vai eleger um mentiroso”, e"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Seu CDB não vai às urnas, mas o Tesouro IPCA+ pode sentir o resultado das eleições; entenda",
+   "url": "https://www.suno.com.br/noticias/eleicoes-2026-cdb-tesouro-ipca-renda-fixa-mt/",
+   "publicado": "2026-10-25T13:38:00+00:00",
+   "tickers": [],
+   "resumo": "Seu CDB não vai às urnas, mas o Tesouro IPCA+ pode sentir o resultado das eleições; entendaO Brasil escolherá seu próximo presidente neste domingo (25), mas os investimentos não precisam esperar pela posse para reagir. Na renda fixa, mudanças nas expectativas para a economia pode"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "‘Clima excelente nas ruas’ pode pesar a favor de Lula, afirma Haddad ao votar em SP",
+   "url": "https://www.moneytimes.com.br/haddad-vota-em-sp-e-afirma-que-clima-excelente-nas-ruas-pode-pesar-a-favor-de-lula-igdl/",
+   "publicado": "2026-10-25T13:32:29+00:00",
+   "tickers": [],
+   "resumo": "Fernando Haddad (PT), ex-ministro da Fazenda e ex-candidato ao governo estadual de São Paulo, afirmou que o “clima excelente nas ruas” pode pesar favoravelmente ao presidente Luiz Inácio Lula da Silva (PT) no segundo turno das eleições. Ele votou na manhã deste domingo (25) em um"
+  },
+  {
    "fonte": "Money Times",
    "titulo": "Durigan vota em SP e afirma que ‘medidas anunciadas desde o primeiro turno respeitam responsabilidade fiscal’",
    "url": "https://www.moneytimes.com.br/durigan-vota-em-sp-e-afirma-que-medidas-anunciadas-desde-o-primeiro-turno-respeitam-responsabilidade-fiscal-igdl/",
@@ -19,70 +115,6 @@
    "resumo": "O mercado brasileiro segue impulsionado pelo rali eleitoral. A avaliação é de que o resultado da disputa pode implicar uma trajetória diferente para a taxa básica de juros, a Selic. Nas últimas pesquisas de intenção de voto, o senador Flávio Bolsonaro apareceu numericamente à fre"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Eventual vitória de Flávio Bolsonaro consolidaria ‘onda azul’ da direita, diz jornal La Nación",
-   "url": "https://www.moneytimes.com.br/eventual-vitoria-de-flavio-bolsonaro-consolidaria-onda-azul-da-direita-diz-jornal-la-nacion-igdl/",
-   "publicado": "2026-10-25T12:54:59+00:00",
-   "tickers": [],
-   "resumo": "Uma eventual vitória de Flávio Bolsonaro (PL) nas eleições presidenciais do Brasil consolidaria o que alguns, entre eles, o presidente da Argentina, Javier Milei, chamam de uma &#8220;onda azul&#8221; de governos de direita na região, escreveu o jornal argentino La Nación. &#8220"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Flávio Bolsonaro vota no Rio, pede comparecimento às urnas e diz que vai ‘reorganizar’ o Brasil se eleito",
-   "url": "https://www.moneytimes.com.br/flavio-bolsonaro-vota-no-rio-pede-comparecimento-as-urnas-e-diz-que-vai-reorganizar-o-brasil-se-eleito-igdl/",
-   "publicado": "2026-10-25T12:18:23+00:00",
-   "tickers": [],
-   "resumo": "O senador Flávio Bolsonaro (PL), candidato à Presidência da República, votou em uma escola municipal em Vila Isabel, na zona norte do Rio, na manhã deste domingo (25). O candidato do PL chegou à escola por volta das 8h20 (horário de Brasília) e votou ao lado de aliados, como o go"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Margem de vitória e aceitação do resultado: o que pode influenciar o mercado após a eleição, segundo Goldman Sachs",
-   "url": "https://www.moneytimes.com.br/margem-de-vitoria-e-aceitacao-do-resultado-o-que-pode-influenciar-o-mercado-apos-a-eleicao-segundo-o-goldman-sachs-igdl/",
-   "publicado": "2026-10-25T12:07:38+00:00",
-   "tickers": [],
-   "resumo": "A margem de vitória do presidente eleito após a divulgação do resultado do segundo turno da eleição presidencial, logo mais à noite, é um dos principais pontos a ser monitorado pelos investidores, na opinião dos economistas do banco Goldman Sachs. &#8220;Uma diferença inferior a "
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Eleições 2026: Quem vence entre Lula (PT) e Flávio Bolsonaro (PL)? Veja o que o agregador de pesquisas aponta",
-   "url": "https://www.moneytimes.com.br/eleicoes-2026-quem-vence-entre-lula-pt-e-flavio-bolsonaro-pl-veja-o-que-o-agregador-de-pesquisas-aponta-rens/",
-   "publicado": "2026-10-25T12:00:00+00:00",
-   "tickers": [],
-   "resumo": "O segundo turno das eleições 2026 acontece neste domingo (25) a partir das 8h e término estimado às 17h (horário de Brasília). Quem estiver na fila até as esse horário poderá votar normalmente. Acre, Amazonas, Distrito Federal, Espírito Santo, Rio de Janeiro, Rio Grande do Norte "
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Mega-Sena acumula e próximo prêmio será de R$ 300 milhões",
-   "url": "https://www.moneytimes.com.br/mega-sena-acumula-e-proximo-premio-sera-de-r-300-milhoes-igdl/",
-   "publicado": "2026-10-25T11:51:56+00:00",
-   "tickers": [],
-   "resumo": "Ninguém acertou acertou as seis dezenas do Concurso 3.074 da Mega-Sena, sorteado no sábado (24). O prêmio acumulou novamente e está estimado em R$ 300 milhões para a nova rodada. Os últimos números sorteados foram: 02 &#8211; 03 &#8211; 20 &#8211; 25 &#8211; 39 &#8211; 57. A quin"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Lula tem 80,5% dos votos na Nova Zelândia, contra 19,4% de Flávio Bolsonaro",
-   "url": "https://www.moneytimes.com.br/lula-tem-805-dos-votos-na-nova-zelandia-contra-194-de-flavio-bolsonaro-igdl/",
-   "publicado": "2026-10-25T11:40:53+00:00",
-   "tickers": [],
-   "resumo": "O presidente Luiz Inácio Lula da Silva (PT) recebeu 80,54% dos votos na Nova Zelândia no segundo turno da eleição presidencial, contra 19,46% do senador Flávio Bolsonaro (PL). Os dados foram apurados pelo Estadão na madrugada deste domingo (25), com base nos boletins de urna das "
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Redes sociais, mobilização nas ruas e abstenção:o que pode definir a eleição deste domingo (25)?",
-   "url": "https://www.moneytimes.com.br/lula-vs-flavio-bolsonaro-o-que-pode-definir-a-eleicao-deste-domingo-25-igdl/",
-   "publicado": "2026-10-25T11:31:54+00:00",
-   "tickers": [],
-   "resumo": "Flávio Bolsonaro (PL) e Luiz Inácio Lula da Silva (PT) decidem neste domingo (25) quem governará o Brasil a partir de 5 de janeiro de 2027 após uma das campanhas eleitorais mais tensas e recheadas de acusações da história da política brasileira, sem que as pesquisas apontem um fa"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Eleições 2026: Está fora da cidade onde deve votar? Saiba como justificar a ausência usando o e-Título",
-   "url": "https://www.moneytimes.com.br/eleicoes-2026-esta-fora-da-cidade-onde-deve-votar-saiba-como-justificar-a-ausencia-usando-o-e-titulo-2/",
-   "publicado": "2026-10-25T11:30:00+00:00",
-   "tickers": [],
-   "resumo": "Quem está fora da cidade onde deve votar neste domingo (25) precisa justificar sua ausência. O voto é obrigatório para eleitores entre 18 e 70 anos. Uma opção é ir a qualquer seção eleitoral na cidade onde estiver e fazer o Requerimento de Justificativa Eleitoral (RJE) presencial"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "O segredo da empresa que nunca fez demissão em massa em 75 anos",
    "url": "https://investnews.com.br/the-wall-street-journal/o-segredo-da-empresa-que-nunca-fez-demissao-em-massa-em-75-anos/",
@@ -92,11 +124,11 @@
   },
   {
    "fonte": "Valor Investe",
-   "titulo": "Resultado da Mega-Sena 3074 com prêmio de R$ 227,6 milhões é divulgado; veja números sorteados",
+   "titulo": "Ninguém acerta as seis dezenas da Mega-Sena 3074, e prêmio acumula em R$ 300 milhões; veja números",
    "url": "https://valorinveste.globo.com/loterias/noticia/2026/10/24/resultado-da-mega-sena-3074-hoje-divulgado-veja-numeros-sorteados.ghtml",
    "publicado": "2026-10-25T00:26:26+00:00",
    "tickers": [],
-   "resumo": "O resultado da Mega-Sena 3074 com prêmio de R$ 227,6 milhões foi divulgado neste sábado (24), em São Paulo. Os números sorteados hoje foram: 02 - 03 - 20 - 25 - 39 - 57\nVEJA TAMBÉM: \n- Os números mais sorteados na história Mega-Sena\nSe tiver ganhador, o prêmio de hoje será o segu"
+   "resumo": "O resultado da Mega-Sena 3074 com prêmio de R$ 227,6 milhões foi divulgado neste sábado (24), em São Paulo, e ninguém acertou a seis dezenas. Com isso, o prêmio acumulou em R$ 300 milhões para o próximo sorteio que ocorre nesta segunda-feira (26).\nOs números sorteados hoje foram:"
   },
   {
    "fonte": "Valor Investe",
@@ -443,30 +475,12 @@
    "resumo": "Os cotistas do PSEC11 aprovaram a proposta de reorganização que prevê a transferência de todo o patrimônio do fundo para o RBRX11, seguida de liquidação. A decisão foi confirmada em fato relevante divulgado nesta quinta-feira (22), após a conclusão de uma Assembleia Geral Extraor"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "HGLG11 amplia portfólio com aquisição no Parque Logístico Guarulhos",
-   "url": "https://www.suno.com.br/noticias/hglg11-compra-patio-gru-guarulhos/",
-   "publicado": "2026-10-23T13:35:05+00:00",
-   "tickers": [
-    "HGLG11"
-   ],
-   "resumo": "O fundo imobiliário HGLG11 comunicou nesta quinta-feira (22) a compra de um imóvel destinado ao estacionamento de carretas dentro do Parque Logístico Guarulhos. A operação soma cerca de R$ 9,98 milhões e está inserida em uma transação imobiliária iniciada pelo fundo em 2025. O in"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Tesouro Direto hoje: taxas recuam com dados de inflação e antes do 2º turno",
    "url": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/10/23/taxas-tesouro-direto-hoje-23-de-outubro-de-2026.ghtml",
    "publicado": "2026-10-23T13:05:19+00:00",
    "tickers": [],
    "resumo": "As taxas dos títulos do Tesouro Direto tiveram leve queda nesta sexta-feira (23), no último pregão antes do segundo turno. Com as últimas pesquisas eleitorais apontando empate técnico e sem uma definição consolidada para o desfecho das urnas no domingo (25), os juros dos papéis r"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Confira quais FIIs pagam dividendos hoje; XPML está na lista",
-   "url": "https://www.suno.com.br/noticias/dividendos-hoje-8-fiis-pagam/",
-   "publicado": "2026-10-23T13:05:07+00:00",
-   "tickers": [],
-   "resumo": "Nesta sexta-feira, 8 fundos imobiliários vão distribuir rendimentos aos cotistas. Para quem recebe proventos de fundos que pagam dividendos hoje, o crédito é automático na conta da corretora, sem necessidade de qualquer solicitação. Os fundos imobiliários, por lei, devem distribu"
   },
   {
    "fonte": "InvestNews",
@@ -685,14 +699,6 @@
    "resumo": "Os sobressaltos da bolsa nesta quinta-feira (22) não ficaram restritos ao cenário eleitoral. \nA disparada do petróleo e o tombo das empresas de tecnologia nos Estados Unidos desencadearam um movimento de aversão ao risco no mundo todo, acelerando a busca por proteção no mercado d"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Novo teto de receita abre a porta para quem está no Simples virar MEI. Compensa fazer a mudança?",
-   "url": "https://investnews.com.br/negocios/novo-teto-mei-simples/",
-   "publicado": "2026-10-22T20:39:39+00:00",
-   "tickers": [],
-   "resumo": "MEI terá limite de R$ 110 mil em 2027 e R$ 140 mil em 2028, o que pode atender quem está no Simples hoje"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Se Lula e Flávio tiverem exatamente o mesmo número de votos, quem vence?",
    "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/10/22/se-lula-e-flavio-tiverem-exatamente-o-mesmo-numero-de-votos-quem-vence.ghtml",
@@ -875,14 +881,6 @@
     "RVDI11"
    ],
    "resumo": "A gestora Investo lançou na B3 o RVDI11, um fundo de índice (ETF) que estreia no mercado com a proposta de buscar rentabilidade no universo da renda variável, mas reduzindo as oscilações típicas da bolsa de valores. Para isso, o produto adota uma estratégia que combina compra de "
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Longe de cripto e do exterior: veja quais os refúgios dos brasileiros antes da eleição",
-   "url": "https://valorinveste.globo.com/objetivo/hora-de-investir/noticia/2026/10/22/longe-de-cripto-e-do-exterior-veja-quais-os-refugios-dos-brasileiros-antes-da-eleicao.ghtml",
-   "publicado": "2026-10-22T09:00:00+00:00",
-   "tickers": [],
-   "resumo": "Não é só o capital estrangeiro que está de olho nas oportunidades brasileiras: o investidor local também voltou sua atenção para o cenário doméstico. Embora o CDB continue despontando na liderança absoluta entre as buscas e o Tesouro Direto tenha avançado para a vice-liderança, o"
   },
   {
    "fonte": "Brazil Journal",
