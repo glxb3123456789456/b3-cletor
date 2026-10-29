@@ -3,14 +3,388 @@
  "itens": 105,
  "dados": [
   {
+   "fonte": "Brazil Journal",
+   "titulo": "A Bolsa caiu 16% com Lula até agora. Mas o estrago é maior do que parece",
+   "url": "https://braziljournal.com/a-bolsa-caiu-16-com-lula-ate-agora-mas-o-estrago-e-maior-do-que-parece",
+   "publicado": "2026-10-29T00:22:00+00:00",
+   "tickers": [],
+   "resumo": "A queda de 2,68% no Ibovespa no pregão de hoje esconde uma destruição muito maior em alguns setores e ações.&nbsp; Casas Bahia, por exemplo, despencou 20% hoje, enquanto a Cosan perdeu 12%, a Cyrela caiu 11% e Cogna recuou 10%."
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Aposta do Mato Grosso fatura sozinha maior prêmio de um concurso regular da Mega-Sena, R$ 324,8 milhões",
+   "url": "https://valorinveste.globo.com/loterias/noticia/2026/10/28/resultado-da-mega-sena-3077-hoje-divulgado-veja-numeros-sorteados.ghtml",
+   "publicado": "2026-10-29T00:03:25+00:00",
+   "tickers": [],
+   "resumo": "Uma aposta feita em Rondonópolis (MT) faturou sozinha o prêmio de R$ 324,8 milhões da Mega-Sena 3077, o maior da história de um concurso regular na história da modalidade - que excluem os sorteios da Mega da Virada e do concurso especial de aniversário.\nOs números sorteados nesta"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Justiça aceita recuperação judicial de R$ 140 milhões da Marabraz, mas faz ressalvas",
+   "url": "https://investnews.com.br/negocios/recuperacao-judicial-marabraz/",
+   "publicado": "2026-10-28T23:16:05+00:00",
+   "tickers": [],
+   "resumo": "Rede de móveis ganha 180 dias de proteção contra credores e tem 60 dias para apresentar um plano"
+  },
+  {
    "fonte": "Money Times",
-   "titulo": "Hypera (HYPE3) sobe na contramão do Ibovespa após balanço após balanço do 3T26; o que animou o mercado?",
-   "url": "https://www.moneytimes.com.br/hypera-hype3-sobe-na-contramao-do-ibovespa-apos-balanco-apos-balanco-do-3t26-o-que-animou-o-mercado-lmrs/",
-   "publicado": "2026-10-28T15:32:32+00:00",
+   "titulo": "Petrobras (PETR4) bate recorde de produção de petróleo e gás no 3T26, com alta de 11,7% em um ano",
+   "url": "https://www.moneytimes.com.br/com-petroleo-ainda-nas-alturas-petrobras-petr4bate-recorde-de-producao-de-petroleo-e-gas-com-alta-de-117-em-um-ano-bdap/",
+   "publicado": "2026-10-28T23:04:08+00:00",
    "tickers": [
-    "HYPE3"
+    "PETR4"
    ],
-   "resumo": "As ações da Hypera (HYPE3) operam entre as poucas altas do Ibovespa (IBOV) no pregão desta quarta-feira (28), em um dia fortemente negativo para o principal índice da Bolsa brasileira. O avanço ocorre após a farmacêutica reportar lucro líquido de R$ 527 milhões referente ao terce"
+   "resumo": "Com o operacional tinindo novamente, a Petrobras (PETR4) entregou mais um trimestre de recordes na produção entre julho e setembro de 2026, segundo o relatório divulgado nesta quarta-feira (28). No período, a produção própria de petróleo, líquidos de gás natural (LGN) e gás natur"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Por mim, cada um pode pensar o que quiser — by Pedro Vinicio",
+   "url": "https://braziljournal.com/por-mim-cada-um-pode-pensar-o-que-quiser-by-pedro-vinicio",
+   "publicado": "2026-10-28T23:00:00+00:00",
+   "tickers": [],
+   "resumo": "Ver o último."
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "OPINIÃO. Os John Galts do Brasil",
+   "url": "https://braziljournal.com/opiniao-os-john-galts-do-brasil",
+   "publicado": "2026-10-28T22:56:00+00:00",
+   "tickers": [],
+   "resumo": "Meu nome é John Galt. Nasci há quase setenta anos nas páginas de A Revolta de Atlas, o romance da escritora Ayn Rand."
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "PF indicia Vorcaro e ex-presidente do BRB por crimes financeiros",
+   "url": "https://www.moneytimes.com.br/pf-indicia-vorcaro-e-ex-presidente-do-brb-por-crimes-financeiros/",
+   "publicado": "2026-10-28T22:53:46+00:00",
+   "tickers": [],
+   "resumo": "A Polícia Federal concluiu o primeiro inquérito sobre irregularidades do Banco Master e indiciou o banqueiro Daniel Vorcaro e o ex-presidente do Banco de Brasília (BRB) Paulo Henrique Costa por crimes financeiros na venda de R$ 17,5 bilhões em carteiras de crédito ao banco públic"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Sob nova direção, Fed muda calendário e terá menos decisões sobre juros a partir de 2027",
+   "url": "https://investnews.com.br/economia/fed-muda-calendario-e-tera-de-decisoes/",
+   "publicado": "2026-10-28T22:40:15+00:00",
+   "tickers": [],
+   "resumo": "Kevin Warsh assumiu em maio e defende que o Fed faça mais análises para decidir sobre as taxas de juros"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Ibovespa já perdeu 34 mil pontos em três dias; Movida (MOVI3) cai mais 16%",
+   "url": "https://www.suno.com.br/noticias/ibovespa-movida-movi3-bancos/",
+   "publicado": "2026-10-28T22:34:43+00:00",
+   "tickers": [
+    "MOVI3"
+   ],
+   "resumo": "Ibovespa já perdeu 34 mil pontos em três dias; Movida (MOVI3) cai mais 16%A Bolsa brasileira já perdeu mais de 34 mil pontos desde a última sexta-feira. Nesta quarta-feira (28), o Ibovespa caiu 2,68%, aos 171.006,10 pontos, uma perda de 4.703,95 pontos, em meio às incertezas sobr"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "‘Não vou me meter’: Trump evita dar apoio a Flávio Bolsonaro, mas questiona resultado das eleições no Brasil",
+   "url": "https://www.moneytimes.com.br/nao-vou-me-meter-trump-evita-dar-apoio-a-flavio-bolsonaro-mas-questiona-resultado-das-eleicoes-no-brasil-davs/",
+   "publicado": "2026-10-28T22:27:37+00:00",
+   "tickers": [],
+   "resumo": "O presidente dos Estados Unidos, Donald Trump, evitou comentar a declaração de Flávio Bolsonaro, que afirmou ser o &#8216;verdadeiro presidente&#8217; do Brasil em primeira versão de carta divulgada na rede social X. Segundo informações do G1, ao ser questionado por um jornalista"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Prepare o bolso e o caixa: vem aí o IVA de (pelo menos) 30%",
+   "url": "https://braziljournal.com/prepare-o-bolso-e-o-caixa-vem-ai-o-iva-de-pelo-menos-30",
+   "publicado": "2026-10-28T22:27:00+00:00",
+   "tickers": [],
+   "resumo": "O contribuinte brasileiro é, antes de tudo, um forte. O novo imposto sobre valor agregado, que será dividido na CBS (de alçada federal) e no IBS (de alçada estadual e municipal), deverá ficar próximo de 30%."
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "CVM rejeita acordo com Riza em investigação sobre uso irregular de recursos de investidores",
+   "url": "https://valorinveste.globo.com/mercados/noticia/2026/10/28/cvm-rejeita-acordo-com-riza-em-investigacao-sobre-uso-irregular-de-recursos-de-investidores.ghtml",
+   "publicado": "2026-10-28T22:05:58+00:00",
+   "tickers": [],
+   "resumo": "A Comissão de Valores Mobiliários (CVM) rejeitou propostas de acordo apresentadas pela Riza Securitizadora, antiga Virgo Companhia de Securitização, e três de seus ex-diretores em uma investigação sobre supostas irregularidades na administração de recursos de 76 operações de secu"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "“Bitcoin é um ativo psicológico. Tokens são ativos reais. Não é tudo igual”, diz diretor do Bradesco",
+   "url": "https://www.moneytimes.com.br/bitcoin-e-um-ativo-psicologico-tokens-sao-ativos-reais-nao-e-tudo-igual-diz-diretor-do-bradesco-mlim/",
+   "publicado": "2026-10-28T22:01:14+00:00",
+   "tickers": [],
+   "resumo": "Colocar criptomoedas e ativos tokenizados no mesmo saco é um erro conceitual frequente, segundo especialistas do setor. Entretanto, a diferença é muito clara e se torna ainda mais relevante diante do futuro tokenizado que o mercado de capitais vislumbra para os ativos. Em painel "
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "IFIX cai 1,75% e fecha pregão da quarta-feira em 3.654,09 pontos",
+   "url": "https://www.suno.com.br/noticias/ifix-cai-175-e-fecha-pregao-da-quarta-feira-em-3-65409-pontos/",
+   "publicado": "2026-10-28T21:45:07+00:00",
+   "tickers": [],
+   "resumo": "O IFIX terminou a sessão desta quarta-feira (28) em 3.654,09 pontos, recuo de 1,75% em relação ao dia anterior. A variação corresponde a -64,96 pontos frente ao fechamento de 3.719,05 pontos do pregão precedente. Ao longo do dia, o índice de fundos imobiliários oscilou em terreno"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Às vésperas de assembleia, Raízen fecha acordo para regularizar R$ 22,4 bilhões em dívidas com a União",
+   "url": "https://investnews.com.br/negocios/raizen-acordo-tributario-com-a-uniao/",
+   "publicado": "2026-10-28T21:39:40+00:00",
+   "tickers": [],
+   "resumo": "Descontos somam R$ 8,5 bilhões e acordo é condição para reestruturar R$ 65 bilhões em dívidas em plano de recuperação extrajudicial"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Neoenergia (NEOE3) vende fatia remanescente na hidrelétrica Dardanelos e antecipa R$ 400 milhões em caixa",
+   "url": "https://www.moneytimes.com.br/neoenergia-neoe3-vende-fatia-remanescente-na-hidreletrica-dardanelos-e-antecipa-r-400-milhoes-em-caixa/",
+   "publicado": "2026-10-28T21:35:08+00:00",
+   "tickers": [
+    "NEOE3"
+   ],
+   "resumo": "A Neoenergia (NEOE3) assinou contrato para vender sua participação de 25% na Brasil Hidro Participações, empresa que detém a Energética Águas da Pedra (EAPSA), controladora da Usina Hidrelétrica Dardanelos, em Mato Grosso. A compradora é a Dardanelos Itaú Asset, companhia ligada "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Raízen (RAIZ4) fecha acordo tributário de R$ 22,4 bilhões e terá desconto de R$ 8,5 bilhões",
+   "url": "https://www.moneytimes.com.br/raizen-raiz4-fecha-acordo-tributario-de-r-224-bilhoes-e-tera-desconto-de-r-85-bilhoes-pads/",
+   "publicado": "2026-10-28T21:23:32+00:00",
+   "tickers": [
+    "RAIZ4"
+   ],
+   "resumo": "A Raízen (RAIZ4) e outras empresas de seu grupo econômico fecharam uma transação tributária com a Procuradoria-Geral da Fazenda Nacional (PGFN) e a Receita Federal do Brasil (RFB), envolvendo débitos de R$ 22,4 bilhões. O acordo foi anunciado nesta quarta-feira (28), em fato rele"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Lucro da Microsoft cresce 32% e atinge US$ 36 bilhões no 1º tri fiscal; ações avançam no pós-mercado",
+   "url": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/10/28/lucro-da-microsoft-cresce-32percent-e-atinge-us-36-bilhoes-no-1o-tri-fiscal-acoes-avancam-no-pos-mercado.ghtml",
+   "publicado": "2026-10-28T21:10:32+00:00",
+   "tickers": [],
+   "resumo": "A Microsoft registrou lucro líquido de US$ 36,6 bilhões no primeiro trimestre fiscal de 2027, alta de 32% ante o registrado no mesmo período do ano anterior. O lucro por ação subiu de US$ 3,72 para US$ 4,92, na mesma base de comparação. No critério ajustado, o lucro por ação fico"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Radar das Eleições: Avanço do PL no Congresso pode ajudar governo Lula 4? Cientista político explica este paradoxo",
+   "url": "https://www.moneytimes.com.br/o-avanco-do-pl-pode-ajudar-lula-a-governar-cientista-politico-explica-o-paradoxo-jcav/",
+   "publicado": "2026-10-28T21:10:00+00:00",
+   "tickers": [],
+   "resumo": "O fortalecimento do PL no Congresso pode abrir uma oportunidade para o presidente Luiz Inácio Lula da Silva negociar apoio ao seu quarto mandato. Embora o crescimento da sigla represente um desafio para o governo, também aumenta a pressão sobre partidos de centro-direita que disp"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "CBS de 11,3% reacende temor de IVA de 30% e coloca teto da reforma tributária em xeque",
+   "url": "https://www.moneytimes.com.br/cbs-de-113-reacende-temor-de-iva-de-30-e-coloca-teto-da-reforma-tributaria-em-xeque-pads/",
+   "publicado": "2026-10-28T21:04:24+00:00",
+   "tickers": [],
+   "resumo": "A aprovação da alíquota de referência de 11,3% para a Contribuição sobre Bens e Serviços (CBS) pelo Tribunal de Contas da União (TCU) reacendeu o debate sobre o custo da Reforma Tributária e a possibilidade de a alíquota somada dos novos tributos sobre o consumo chegar a 30%. O p"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Flávio Bolsonaro se declara ‘verdadeiro presidente eleito’, muda para ‘líder’ e troca Brasil por ‘Brazil’ em cartas à nação",
+   "url": "https://www.moneytimes.com.br/flavio-bolsonaro-diz-que-nao-fugiu-do-pais-e-se-declara-o-verdadeiro-presidente-do-brasil-em-nota-confira-davs/",
+   "publicado": "2026-10-28T20:51:45+00:00",
+   "tickers": [],
+   "resumo": "Após Flávio Bolsonaro desembarcar em Miami, fugido do Brasil, nesta quarta-feira (28), uma de suas primeira ações em solo estadunidense foi divulgar duas versões de um documento no qual volta a questionar o processo eleitoral brasileiro, entre outros ataques. No entanto, o que fi"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Dona do Google reporta resultado abaixo do esperado no 3º tri; ações despencam no pós-mercado",
+   "url": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/10/28/dona-do-google-reporta-resultado-abaixo-do-esperado-no-3o-tri-acoes-despencam-no-pos-mercado.ghtml",
+   "publicado": "2026-10-28T20:50:15+00:00",
+   "tickers": [],
+   "resumo": "A Alphabet, controladora do Google, registrou lucro líquido de US$ 26,2 bilhões no terceiro trimestre, o que representa uma queda de 25,2% em relação ao mesmo período do ano passado. Diluído por ação, o lucro caiu de US$ 2,87 para US$ 2,12. Na mesma base de comparação, a receita "
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Ibovespa flerta com menor nível desde agosto e coloca em xeque tese de ‘caiu, comprou’",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/28/ibovespa-flerta-com-menor-nivel-desde-agosto-e-coloca-em-xeque-tese-de-caiu-comprou.ghtml",
+   "publicado": "2026-10-28T20:38:55+00:00",
+   "tickers": [],
+   "resumo": "Com tombo acumulado de quase 17% somente nas últimas três sessões, a pergunta que ecoa entre os investidores é: a bolsa brasileira ficou barata e virou uma oportunidade irrecusável de compra?\nA resposta curta é: não exatamente.\nA máxima do “caiu, comprou”, que guiou muitos invest"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Ibovespa cai 2% com cautela fiscal e tributação em foco; dólar recua",
+   "url": "https://www.moneytimes.com.br/ibovespa-28-10-26-lils/",
+   "publicado": "2026-10-28T20:33:12+00:00",
+   "tickers": [],
+   "resumo": "O Ibovespa (IBOV) engatou o terceiro dia de perdas após eleições, com os investidores mais cautelosos com o cenário fiscal e político. Nesta quarta-feira (28), o principal índice da bolsa brasileira terminou as negociações com queda de 2,68%, aos 171.006,10 pontos. Já o dólar à v"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Bradesco (BBDC4) lucra R$ 7,1 bi, mas outra conta preocupa os bancos",
+   "url": "https://www.suno.com.br/noticias/bancos-balancos-bradesco/",
+   "publicado": "2026-10-28T20:13:27+00:00",
+   "tickers": [
+    "BBDC4"
+   ],
+   "resumo": "Bradesco (BBDC4) lucra R$ 7,1 bi, mas outra conta preocupa os bancosOs grandes bancos brasileiros continuam movimentando bilhões, mas os lucros já não são suficientes para tranquilizar os investidores. A temporada de balanços do terceiro trimestre de 2026 começou mostrando que a "
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Anatel exige reconhecimento facial para ativar e manter linhas de celular",
+   "url": "https://investnews.com.br/negocios/anatel-exige-reconhecimento-facial-para-ativar-e-manter-linhas-de-celular/",
+   "publicado": "2026-10-28T20:01:20+00:00",
+   "tickers": [],
+   "resumo": "Operadoras terão até 2028 para validar cadastros; linhas irregulares poderão ser suspensas a partir de 2029"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "ALZR11 ou TVRI11: veja as principais diferenças entre os dois fundos imobiliários híbridos",
+   "url": "https://www.suno.com.br/noticias/alzr11-tvri11-veja-principais-diferencas-entre-dois-fundos-imobiliarios-hibridos-vi/",
+   "publicado": "2026-10-28T19:46:16+00:00",
+   "tickers": [
+    "ALZR11",
+    "TVRI11"
+   ],
+   "resumo": "ALZR11 ou TVRI11: veja as principais diferenças entre os dois fundos imobiliários híbridos. Foto: iStockO ALZR11 e o TVRI11 são fundos imobiliários com portfólios diversificados, mas apresentam diferenças importantes na composição dos imóveis, no perfil dos contratos de locação e"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Fed mantém juros nos EUA entre 3,75% e 4% e diz que inflação segue elevada",
+   "url": "https://www.suno.com.br/noticias/fed-decisao-juros-28102026-go/",
+   "publicado": "2026-10-28T19:44:40+00:00",
+   "tickers": [],
+   "resumo": "Fed mantém juros nos EUA entre 3,75% e 4% e diz que inflação segue elevadaO Federal Reserve (Fed), banco central dos Estados Unidos, decidiu nesta quarta-feira (28) deixar a taxa básica de juros americana inalterada, na faixa de 3,75% a 4% ao ano. A decisão do Fed não foi unânime"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Sanepar (SAPR11): R$ 2 bilhões em jogo, mas só um interessado aparece",
+   "url": "https://www.suno.com.br/noticias/sanepar-sapr11-leilao-bilionario/",
+   "publicado": "2026-10-28T19:39:38+00:00",
+   "tickers": [
+    "SAPR11"
+   ],
+   "resumo": "Sanepar (SAPR11): R$ 2 bilhões em jogo, mas só um interessado apareceUm contrato bilionário, um leilão na B3 e apenas uma proposta. Foi assim que a Sanepar (SAPR11) definiu, nesta quarta-feira (28), o vencedor da licitação para construir um novo sistema de abastecimento de água n"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Gestores pedem regulação dos ETFs ativos",
+   "url": "https://valorinveste.globo.com/produtos/fundos/noticia/2026/10/28/gestores-pedem-regulacao-dos-etfs-ativos.ghtml",
+   "publicado": "2026-10-28T19:34:23+00:00",
+   "tickers": [],
+   "resumo": "Gestores de ETFs, fundos negociados em bolsa que acompanham um indicador do mercado, estão com uma grande expectativa de que os ETFs ativos passem a ser permitidos pela Comissão de Valores Mobiliários (CVM) no Brasil. Nesses fundos, o gestor profissional procura superar o desempe"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "BC dos EUA vai reduzir número de reuniões para decidir juros a partir de 2027",
+   "url": "https://valorinveste.globo.com/mercados/moedas-e-juros/noticia/2026/10/28/fed-vai-reduzir-numero-de-reunioes-para-decidir-juros-a-partir-de-2027.ghtml",
+   "publicado": "2026-10-28T19:17:13+00:00",
+   "tickers": [],
+   "resumo": "O Federal Reserve (Fed, o banco central dos Estados Unidos) vai reduzir o número de reuniões destinadas à definição da taxa básica de juros a partir de 2027. O anúncio foi feito nesta quarta-feira (28) pelo presidente, Kevin Warsh, durante coletiva de imprensa após a decisão de m"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "FII eleva projeção de dividendos e prevê pagar até R$ 0,17 por cota nos próximos 12 meses",
+   "url": "https://www.suno.com.br/noticias/fii-eleva-projecao-dividendos-e-preve-pagar-proximos-12-meses/",
+   "publicado": "2026-10-28T19:11:50+00:00",
+   "tickers": [
+    "CPLG11"
+   ],
+   "resumo": "FII eleva projeção de dividendos e prevê pagar até R$ 0,17 por cota nos próximos 12 mesesO fundo imobiliário (FII) CPLG11 elevou sua projeção de distribuição de rendimentos e passou a estimar pagamentos entre R$ 0,12 e R$ 0,17 por cota nos próximos 12 meses. A gestão estabeleceu "
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Tesouro IPCA+ sobe para perto de 8% e prefixado passa de 15%: hora de comprar?",
+   "url": "https://investnews.com.br/investimentos/tesouro-ipca-perto-8-vale-comprar/",
+   "publicado": "2026-10-28T19:05:18+00:00",
+   "tickers": [],
+   "resumo": "No longo prazo, taxas elevadas valem a pena. Mas o caminho até o vencimento pode ser muito turbulento"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Dólar dispara: 6 ações podem sair ganhando com a alta da moeda",
+   "url": "https://www.suno.com.br/noticias/dolar-alto-acoes-beneficiadas/",
+   "publicado": "2026-10-28T18:58:05+00:00",
+   "tickers": [],
+   "resumo": "Dólar dispara: 6 ações podem sair ganhando com a alta da moedaEnquanto o dólar dispara e a Bolsa brasileira enfrenta uma onda de volatilidade, algumas empresas podem encontrar uma vantagem justamente na valorização da moeda americana. Segundo análises do JPMorgan e do BTG Pactual"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Bolsa terá novo horário de fechamento a partir de 3 de novembro; veja o que muda",
+   "url": "https://valorinveste.globo.com/mercados/noticia/2026/10/28/bolsa-tera-novo-horario-de-fechamento-a-partir-de-3-de-novembro-veja-o-que-muda.ghtml",
+   "publicado": "2026-10-28T18:57:48+00:00",
+   "tickers": [],
+   "resumo": "A B3, a bolsa brasileira, terá novos horários de negociação a partir da próxima terça-feira (3), em razão do fim do horário de verão nos Estados Unidos. Com a mudança, o pregão regular de ações ocorrerá das 10h às 17h55, seguido pelo leilão de fechamento, das 17h55 às 18h.\nO ajus"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "VRTA11 reforçar os dividendos equivalentes a 127% do CDI",
+   "url": "https://www.suno.com.br/noticias/vrta11-reforcar-os-dividendos-equivalentes-a-127-do-cdi/",
+   "publicado": "2026-10-28T18:52:25+00:00",
+   "tickers": [
+    "VRTA11"
+   ],
+   "resumo": "VRTA11 reforçar os dividendos equivalentes a 127% do CDIO fundo imobiliário VRTA11, da categoria de recebíveis imobiliários, projeta distribuir entre R$ 0,85 e R$ 0,95 por cota no segundo semestre de 2026. A gestão considera R$ 0,85 por cota como valor-base para as distribuições,"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "CBS de 11,3% em 2027: como funciona a alíquota proposta pelo TCU",
+   "url": "https://investnews.com.br/economia/aliquota-cbs-tcu-2027/",
+   "publicado": "2026-10-28T18:34:41+00:00",
+   "tickers": [],
+   "resumo": "TCU propõe CBS de 11,3% para 2027, acima dos 9,21% previstos. Senado decide até 15 de dezembro"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Da escassez de amendoim ao sucesso nos aviões: como o Biscoff virou uma marca global e chegou ao Brasil",
+   "url": "https://investnews.com.br/negocios/sucesso-voos-biscoff-marca-chega-brasil/",
+   "publicado": "2026-10-28T18:32:23+00:00",
+   "tickers": [],
+   "resumo": "Biscoito belga ganhou fama em voos internacionais e agora negocia um plano para ampliar sua presença no Brasil"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Fed mantém juros nos EUA. Dois dirigentes defendem nova alta diante da inflação",
+   "url": "https://investnews.com.br/economia/fed-mantem-juros-nos-eua-dois-dirigentes-defendem-nova-alta-diante-da-inflacao/",
+   "publicado": "2026-10-28T18:20:20+00:00",
+   "tickers": [],
+   "resumo": "Banco central americano mantém cautela diante da inflação persistente e da força da economia"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "BC dos EUA mantém taxa de juros em 4% ao ano",
+   "url": "https://valorinveste.globo.com/mercados/moedas-e-juros/noticia/2026/10/28/bc-dos-eua-mantem-taxa-de-juros-em-4percent-ao-ano.ghtml",
+   "publicado": "2026-10-28T18:00:38+00:00",
+   "tickers": [],
+   "resumo": "O Federal Reserve (Fed, o banco central dos Estados Unidos) manteve a taxa básica de juros americana no intervalo entre 3,75% e 4% ao ano nesta quarta-feira (28). A decisão interrompe, por ora, o movimento de alta iniciado em setembro, quando a autoridade monetária elevou os juro"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Movida (MOVI3) mais que dobra lucro no 3T26, mas analistas fazem alerta",
+   "url": "https://www.suno.com.br/noticias/movida-movi3-lucro-3t26-analise/",
+   "publicado": "2026-10-28T17:44:27+00:00",
+   "tickers": [
+    "MOVI3"
+   ],
+   "resumo": "Movida (MOVI3) mais que dobra lucro no 3T26, mas analistas fazem alertaA Movida (MOVI3) registrou lucro líquido de R$ 152,1 milhões no terceiro trimestre de 2026, crescimento de 117,4% em relação ao mesmo período do ano passado. O resultado, divulgado na terça-feira (27), superou"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Governo vai subir IOF de papéis isentos? Veja os impactos potenciais sobre LCI, LCA, CRI, CRA e debêntures",
+   "url": "https://investnews.com.br/investimentos/governo-aumento-iof-veja-efeitos/",
+   "publicado": "2026-10-28T17:37:50+00:00",
+   "tickers": [],
+   "resumo": "Proposta não confirmada pelo governo pode acabar com a vantagem tributária da isenção de IR sobre esses ativos"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "A AI da Endeavor é um Tinder entre empreendedores. Sem o romance",
+   "url": "https://braziljournal.com/a-ai-da-endeavor-e-um-tinder-entre-empreendedores-sem-o-romance",
+   "publicado": "2026-10-28T17:08:00+00:00",
+   "tickers": [],
+   "resumo": "Algumas perguntas tiram o sono dos empreendedores. Qual o momento de contratar alguém para tirar o founder da área de vendas? Quando faz sentido reduzir o preço para conquistar uma conta estratégica?"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Dinheiro das bets começa a voltar aos supermercados, mas ações ainda não sentem efeito; entenda",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/10/28/dinheiro-das-bets-comeca-a-voltar-aos-supermercados-mas-acoes-ainda-nao-sentem-efeito-entenda.ghtml",
+   "publicado": "2026-10-28T16:14:03+00:00",
+   "tickers": [
+    "ASAI3",
+    "GMAT3"
+   ],
+   "resumo": "Os primeiros números do consumo nos supermercados brasileiros após a proibição das casas de apostas online (as bets) sinalizam uma possível confirmação da expectativa dos analistas do mercado financeiro: parte do dinheiro antes destinado às apostas está voltando para as compras d"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "El Niño deixa cana no campo e ameaça início da próxima safra de açúcar no Brasil",
+   "url": "https://investnews.com.br/economia/el-nino-proxima-safra-de-acucar-no-brasil/",
+   "publicado": "2026-10-28T16:02:37+00:00",
+   "tickers": [],
+   "resumo": "Trading Sucden reduz previsão de açúcar do país de 40 para 37 milhões de toneladas nesta safra"
   },
   {
    "fonte": "Valor Investe",
@@ -23,6 +397,14 @@
    "resumo": "O Santander Brasil (SANB11) registrou lucro líquido de R$ 2,885 bilhões no terceiro trimestre, uma queda de 28% em relação ao mesmo período do ano passado. O resultado ficou praticamente em linha com as expectativas dos analistas consultados pelo Valor, que projetavam ganho de R$"
   },
   {
+   "fonte": "InvestNews",
+   "titulo": "Com fim da escala 6×1, o custo da folha de pagamento vai aumentar? Entenda como calcular",
+   "url": "https://investnews.com.br/negocios/escala-6x1-custo-folha-pagamento/",
+   "publicado": "2026-10-28T15:18:47+00:00",
+   "tickers": [],
+   "resumo": "Valor por hora trabalhada cresce com redução da jornada; custo total depende de encargos trabalhistas e fiscais e  benefícios"
+  },
+  {
    "fonte": "Brazil Journal",
    "titulo": "Lucro do Santander cai 28% e fica abaixo do consenso; ROE vai a 11,9%",
    "url": "https://braziljournal.com/lucro-do-santander-cai-28-e-fica-abaixo-do-consenso-roe-vai-a-11-9",
@@ -31,28 +413,12 @@
    "resumo": "O mercado já esperava um resultado mais fraco do Santander Brasil no terceiro tri, mas a piora surpreendeu.&nbsp;&nbsp; O lucro líquido caiu 4% no tri a tri e 28% na comparação anual, para R$ 2,9 bilhões, 7% abaixo do consenso. O ROE diminuiu para 11,9% – estava em 12,5% no trime"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Flávio Bolsonaro chega a Miami com esposa e filhas após eleições; entenda a rota de fuga do senador",
-   "url": "https://www.moneytimes.com.br/flavio-bolsonaro-chega-a-miami-com-esposa-e-filhas-apos-eleicoes-entenda-a-rota-da-fuga-do-senador-davs/",
-   "publicado": "2026-10-28T15:07:54+00:00",
-   "tickers": [],
-   "resumo": "O senador Flávio Bolsonaro (PL-RJ), derrotado na eleição presidencial de 2026, pousou na manhã desta quarta-feira (28) em Miami, nos Estados Unidos, com a esposa e a duas filhas. Canais de TV brasileiros, como a GloboNews e a CNN Brasil, acompanharam a saída da aeronave. Em meio "
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Heineken reverte queda nas vendas no Brasil e receita cresce dois dígitos",
    "url": "https://investnews.com.br/negocios/heineken-reverte-queda-brasil-cerveja/",
    "publicado": "2026-10-28T15:07:40+00:00",
    "tickers": [],
-   "resumo": "Cervejaria holandesa voltou a registrar crescimento em volume, impulsionada pela recuperação do mercado brasileiro e pelo desempenho das marcas Heineken e Amstel"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "‘A nova República fracassou e continuará fracassando no Lula 4’, diz CEO da Arko Advice",
-   "url": "https://www.moneytimes.com.br/a-nova-republica-fracassou-e-continuara-fracassando-no-lula-4-diz-ceo-da-arko-advice-apsa/",
-   "publicado": "2026-10-28T15:06:00+00:00",
-   "tickers": [],
-   "resumo": "O quarto mandato do presidente Luiz Inácio Lula da Silva (PT) começará sob pressão para recuperar a confiança dos investidores, enfrentar o desequilíbrio das contas públicas e construir uma base política capaz de sustentar a agenda econômica. A avaliação é de Murillo de Aragão, C"
+   "resumo": "Cervejaria holandesa voltou a registrar crescimento em volume, impulsionada pela recuperação do mercado brasileiro e de suas marcas"
   },
   {
    "fonte": "InvestNews",
@@ -63,66 +429,12 @@
    "resumo": "Entenda como serão as eleições nos EUA em 2026  e como uma virada pode limitar os poderes de Donald Trump"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "São Martinho (SMTO3): lucro deve cair no 2T27, mas Citi vê melhora no horizonte e eleva preço-alvo",
-   "url": "https://www.moneytimes.com.br/sao-martinho-smto3-lucro-deve-cair-2t27-mas-citi-ve-melhora-eleva-preco-alvo-pads/",
-   "publicado": "2026-10-28T14:58:03+00:00",
-   "tickers": [
-    "SMTO3"
-   ],
-   "resumo": "A São Martinho (SMTO3) deve apresentar resultados mais fracos no segundo trimestre da safra 2026/2027, pressionada por preços menores de açúcar e etanol e pela redução dos volumes de açúcar. Apesar disso, o Citi vê perspectivas mais favoráveis para as próximas safras e elevou o p"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Zeina Latif critica atuação de Haddad, alerta para urgência da situação fiscal e defende que Lula encampe ajuste",
-   "url": "https://www.moneytimes.com.br/reacao-do-mercado-e-alerta-de-senso-de-urgencia-no-ajuste-fiscal-diz-zeina-latif-apsa/",
-   "publicado": "2026-10-28T14:55:15+00:00",
-   "tickers": [],
-   "resumo": "A economista Zeina Latif afirmou que a reação dos mercados nos últimos dias, após a reeleição do presidente Luiz Inácio Lula da Silva (PT), reflete a preocupação com a situação fiscal do país e a necessidade de o governo sinalizar um compromisso mais claro com o ajuste das contas"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Stellantis, dona da Fiat e Jeep, cria 80 ‘salas de guerra’ para corrigir falhas",
    "url": "https://investnews.com.br/negocios/stellantis-dona-da-fiat-e-jeep-cria-80-salas-de-guerra-para-corrigir-falhas/",
    "publicado": "2026-10-28T14:40:00+00:00",
    "tickers": [],
    "resumo": "Executivo afirma que medidas para melhorar a qualidade dos veículos e aumentar a eficiência já mostram resultados"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Fazenda de 101 hectares em MT vai a leilão com lance mínimo de R$ 3 milhões; veja datas",
-   "url": "https://www.moneytimes.com.br/fazenda-de-101-hectares-mt-leilao-com-lance-minimo-3-milhoes-veja-datas-pads/",
-   "publicado": "2026-10-28T14:24:24+00:00",
-   "tickers": [],
-   "resumo": "Uma propriedade rural com mais de 101 hectares em Primavera do Leste, no Mato Grosso, será ofertada em leilão extrajudicial nos dias 30 de outubro e 6 de novembro. A Fazenda Belo Horizonte terá lance mínimo de R$ 10,57 milhões na primeira etapa e, caso não seja arrematada, poderá"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Governo estuda aplicar IOF sobre LCI, LCA e outros isentos, diz jornal; medida pode ser adotada por decreto",
-   "url": "https://www.moneytimes.com.br/governo-estuda-aplicar-iof-sobre-lci-lca-e-outros-isentos-diz-jornal-mlim/",
-   "publicado": "2026-10-28T14:11:19+00:00",
-   "tickers": [],
-   "resumo": "A equipe econômica do governo federal voltou a avaliar a cobrança de imposto sobre títulos atualmente isentos de imposto de renda, como Letras de Crédito Imobiliário (LCI), Letras de Crédito do Agronegócio (LCA), Certificados de Recebíveis Imobiliários (CRI), Certificados de Rece"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Resultado do PMLL11 sobe 19% em setembro com avanço nas receitas",
-   "url": "https://www.suno.com.br/noticias/pmll11-resultado-setembro-dividendos-yield/",
-   "publicado": "2026-10-28T14:05:12+00:00",
-   "tickers": [
-    "PMLL11"
-   ],
-   "resumo": "O fundo imobiliário PMLL11 encerrou setembro de 2026 com resultado distribuível de R$ 15,6 milhões, equivalente a R$ 1,12 por cota, avanço superior a 19% frente a agosto. Segundo o relatório gerencial, a receita totalizou R$ 17,06 milhões, com maior contribuição das operações imo"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Santander (SANB11) cai mais de 4% após balanço fraco; veja o que dizem Itaú BBA, BTG e Safra",
-   "url": "https://www.moneytimes.com.br/santander-sanb11-cai-mais-de-4-apos-balanco-fraco-veja-o-que-dizem-itau-bba-btg-e-safra-miql/",
-   "publicado": "2026-10-28T14:03:30+00:00",
-   "tickers": [
-    "SANB11"
-   ],
-   "resumo": "O Santander Brasil (SANB11) iniciou o dia no vermelho nesta quarta-feira (28), após o banco divulgar um balanço abaixo das expectativas do mercado no terceiro trimestre de 2026 (3T26). Por volta das 10h45, as units SANB11 recuavam 4,87%, a R$ 24,61. Desde o início do ano, a desva"
   },
   {
    "fonte": "Valor Investe",
@@ -133,40 +445,12 @@
    "resumo": "A equipe econômica do governo federal avalia instituir a cobrança do Imposto sobre Operações Financeiras (IOF) sobre aplicações de renda fixa que hoje contam com isenção de Imposto de Renda (IR) para pessoas físicas, segundo informações do jornal O Globo divulgada nesta quarta-fe"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Sell-off dos ativos brasileiros após eleições também chegou aos FI-Infras; veja em qual investir",
-   "url": "https://www.moneytimes.com.br/sell-off-dos-ativos-brasileiros-apos-eleicoes-tambem-chegou-aos-fi-infras-veja-em-qual-investir-mlem/",
-   "publicado": "2026-10-28T13:45:07+00:00",
-   "tickers": [
-    "IFRA11"
-   ],
-   "resumo": "O sell-off dos ativos brasileiros após o segundo turno também chegou aos FI-Infras. No IFRA11, a cota de mercado está em R$ 85,71, enquanto a patrimonial segue em R$ 91,44. É justamente em momentos como esse que vale olhar para o que existe dentro do fundo. O IFRA11 investe em dí"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "PORD11 divulga resultado de R$ 3,65 mi e yield de 1,16% em setembro",
-   "url": "https://www.suno.com.br/noticias/pord11-resultado-dividendos-setembro-2026/",
-   "publicado": "2026-10-28T13:35:10+00:00",
-   "tickers": [
-    "PORD11"
-   ],
-   "resumo": "O fundo imobiliário PORD11 encerrou setembro de 2026 com resultado de R$ 3,65 milhões, acima dos R$ 3,51 milhões registrados em agosto. De acordo com o relatório gerencial, os juros de CRIs foram a principal fonte de receitas no mês. As operações com ativos somaram R$ 3,47 milhõe"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Fed decide juros nesta quarta-feira. Veja o que o mercado espera",
    "url": "https://investnews.com.br/investimentos/fed-decide-juros-nesta-quarta-feira-veja-o-que-o-mercado-espera/",
    "publicado": "2026-10-28T13:31:58+00:00",
    "tickers": [],
    "resumo": "Expectativa majoritária é de manutenção dos juros americanos na faixa entre 3,75% e 4% ao ano."
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Flávio Bolsonaro segue para Miami; decisão de Trump pode ampliar ruptura entre Brasil e EUA",
-   "url": "https://www.moneytimes.com.br/flavio-bolsonaro-segue-para-miami-apos-trump-oferecer-saida-do-brasil/",
-   "publicado": "2026-10-28T13:31:49+00:00",
-   "tickers": [],
-   "resumo": "O avião que supostamente transporta o senador Flávio Bolsonaro (PL-RJ) e sua família para os Estados Unidos está programado para chegar na manhã de quarta-feira em Miami, onde eles receberão vistos de entrada do governo dos Estados Unidos. Enquanto o mundo inteiro tentava descobr"
   },
   {
    "fonte": "InvestNews",
@@ -178,103 +462,23 @@
   },
   {
    "fonte": "Valor Investe",
-   "titulo": "Tesouro Direto hoje: IPCA+ volta a subir e paga até 7,87%; prefixados avançam",
+   "titulo": "Tesouro Direto hoje: IPCA+ volta a subir e paga até 7,93%; prefixados também avançam",
    "url": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/10/28/tesouro-direto-hoje-ipca-prefixados-28-de-outubro-2026.ghtml",
    "publicado": "2026-10-28T13:20:59+00:00",
-   "tickers": [
-    "ONCO3",
-    "SANB11"
-   ],
-   "resumo": "Os títulos públicos negociados no Tesouro Direto operam em direções distintas na abertura desta quarta-feira (28). Após duas sessões consecutivas marcadas por forte volatilidade e paralisações temporárias nos negócios, o sistema abriu com nova rodada de alta nas taxas dos contrat"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Santander Brasil (SANB11) vê lucro líquido recorrente cair 28% em um ano; veja detalhes",
-   "url": "https://www.suno.com.br/noticias/santander-brasil-tem-lucro-liquido-recorrente-queda-3t26-go/",
-   "publicado": "2026-10-28T13:20:00+00:00",
-   "tickers": [
-    "SANB11"
-   ],
-   "resumo": "Santander Brasil (SANB11) vê lucro líquido recorrente cair 28% em um ano; veja detalhesO Santander Brasil (SANB11) teve lucro líquido gerencial recorrente, que desconsidera o ágio de aquisições, de R$ 2,9 bilhões no terceiro trimestre de 2026, queda de 28% ante o registrado em ig"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "VGIA11 expõe carteira de CRAs, garantias e dividendos no agro",
-   "url": "https://www.suno.com.br/noticias/vgia11-carteira-riscos-dividendos-agosto/",
-   "publicado": "2026-10-28T13:15:08+00:00",
-   "tickers": [
-    "VGIA11"
-   ],
-   "resumo": "O Fiagro VGIA11 mantém uma estratégia centrada em crédito do agronegócio, com prioridade para Certificados de Recebíveis do Agronegócio (CRAs). No fechamento de agosto de 2026, 84,0% do patrimônio líquido estava empregado em ativos, distribuídos em 46 posições, somando R$ 857 mil"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Klabin (KLBN11) tem queda de 18% no lucro líquido do 3T26",
-   "url": "https://www.suno.com.br/noticias/lucro-liquido-klabin-cai-atinge-393-milhoes-3o-trimestre-go/",
-   "publicado": "2026-10-28T12:50:00+00:00",
-   "tickers": [
-    "KLBN11"
-   ],
-   "resumo": "Klabin (KLBN11) tem queda de 18% no lucro líquido do 3T26A Klabin (KLBN11) registrou lucro líquido de R$ 393 milhões no terceiro trimestre de 2026, queda de 18% frente a igual período de 2025. O Ebitda ajustado somou R$ 1,856 bilhão entre julho e setembro, recuo de 12% em relação"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Investo lança RVDI11, ETF que busca combinar retorno próximo ao CDI com baixa volatilidade",
-   "url": "https://www.suno.com.br/noticias/investo-lanca-rvdi11-etf-busca-combinar-retorno-proximo-cdi-volatilidade/",
-   "publicado": "2026-10-28T12:35:34+00:00",
-   "tickers": [
-    "RVDI11"
-   ],
-   "resumo": "A Investo anunciou o lançamento do RVDI11, novo fundo de índice (ETF) listado na B3 que busca replicar o Índice B3 Market Neutral. Segundo a gestora, o produto é o primeiro ETF do mercado brasileiro a buscar capturar diferenças de desempenho entre índices por meio de posições com"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Fundo projeta dividendos até o fim do ano; saiba mais",
-   "url": "https://www.suno.com.br/noticias/fundo-projeta-dividendos-ate-o-fim-do-ano-saiba-mais/",
-   "publicado": "2026-10-28T12:35:24+00:00",
    "tickers": [],
-   "resumo": "O Prisma Proton Energia FIP-IE, fundo de investimento em participações em infraestrutura listado na B3, projeta distribuir R$ 13,40 por cota em dividendos ao longo de 2026. A estimativa equivale a um total de R$ 59,1 milhões aos cotistas Classe A e a um dividend yield de 15,8%, c"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "FII amplia carteira de crédito e estrutura R$ 425 milhões em novas operações",
-   "url": "https://www.suno.com.br/noticias/fii-amplia-carteira-de-credito-e-estrutura-r-425-milhoes-em-novas-operacoes/",
-   "publicado": "2026-10-28T12:35:09+00:00",
-   "tickers": [
-    "EXES11"
-   ],
-   "resumo": "O FII EXES11 anunciou em 9 de outubro o início de sua sexta emissão de cotas, com volume-base de R$ 250 milhões. A oferta é primária e prevê distribuição de lote adicional de até 25%, elevando o potencial de captação para R$ 312,5 milhões. O preço de subscrição foi definido em R$"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "SMAL11 ou XCAP11: veja as principais diferenças dos ETFs de small caps da B3",
-   "url": "https://www.suno.com.br/noticias/smal11-xcap11-etfs-small-caps-gss/",
-   "publicado": "2026-10-28T12:25:35+00:00",
-   "tickers": [
-    "SMAL11",
-    "XCAP11"
-   ],
-   "resumo": "SMAL11 ou XCAP11: veja as principais diferenças dos ETFs de small caps da B3Investir em small caps pela Bolsa brasileira é uma forma de buscar exposição a empresas de menor capitalização de mercado. Na B3, o investidor pode fazer isso por meio de ETFs, fundos que replicam índices"
+   "resumo": "Os rendimentos dos títulos públicos negociados no Tesouro Direto registraram alta nesta quarta-feira (28), mantendo a tendência da semana, mas em ritmo bem mais comedido. Após duas sessões consecutivas marcadas por forte volatilidade e paralisações temporárias nos negócios, o sis"
   },
   {
    "fonte": "Valor Investe",
-   "titulo": "Ibovespa e dólar hoje: incerteza com Fed e Lula 4 afundam Ibovespa; dólar ensaia alta",
+   "titulo": "Com incerteza sobre Lula 4 e decisão do Fed, Ibovespa fecha em forte queda; dólar fica em R$ 5,34",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/28/ibovespa-dolar-hoje-28-outubro-2026.ghtml",
    "publicado": "2026-10-28T12:02:14+00:00",
    "tickers": [
+    "BBAS3",
+    "BBDC4",
     "SANB11"
    ],
-   "resumo": "O Ibovespa opera em forte queda, enquanto o dólar comercial apresente instabilidade nesta quarta-feira (28). O mercado financeiro entra em seu terceiro pregão após o segundo turno das eleições presidenciais, ainda em processo de ajuste à reeleição de Luiz Inácio Lula da Silva (PT"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Schulz (SHUL4) paga dividendos nesta quarta-feira; veja detalhes",
-   "url": "https://www.suno.com.br/noticias/a-schulz-shul4-agenda-dividendos-28102026/",
-   "publicado": "2026-10-28T11:45:00+00:00",
-   "tickers": [
-    "SHUL4"
-   ],
-   "resumo": "Dividendos da Schulz (SHUL4) - Foto: PixabayOs acionistas da Schulz (SHUL4) receberão nesta quarta-feira os dividendos que serão distribuídos pela companhia. Os dividendos da Schulz que serão pagos hoje (28/10) somam R$ 0,0773 por ação. Receberão os dividendos da Schulz os invest"
+   "resumo": "O Ibovespa fechou em forte queda, enquanto o dólar registrou ligeira queda nesta quarta-feira (28) no terceiro pregão após o segundo turno das eleições presidenciais, ainda em processo de ajuste à reeleição de Luiz Inácio Lula da Silva (PT) e em repercussão à decisão sobre a polí"
   },
   {
    "fonte": "InvestNews",
@@ -566,14 +770,6 @@
    "resumo": "O Banco Central (BC) disse nesta terça-feira (27) que o país tinha 20,3 milhões de superendividados em junho de 2026, o que representa uma alta de 75% em cinco anos. Os dados constam no Relatório de Estabilidade Financeira (REF) do primeiro semestre de 2026. \nAs 20,3 milhões de p"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Tesouro faz terceira intervenção e recompra R$ 31,6 bi em dois dias para conter taxas",
-   "url": "https://investnews.com.br/investimentos/tesouro-faz-terceira-intervencao-em-dois-dias-e-anuncia-nova-recompra-de-ntn-bs/",
-   "publicado": "2026-10-27T14:44:47+00:00",
-   "tickers": [],
-   "resumo": "Foram R$ 14,8 bi ontem e R$ 16,8 bi hoje, em recompras de prefixados e títulos atrelados à inflação"
-  },
-  {
    "fonte": "Brazil Journal",
    "titulo": "Advent capta US$ 27 bi para seu maior fundo global",
    "url": "https://braziljournal.com/advent-capta-us-27-bi-para-seu-maior-fundo-global",
@@ -598,36 +794,12 @@
    "resumo": "Consumidores brasileiros com dívidas em bancos e instituições financeiras poderão renegociar os débitos no mutirão nacional de negociação de dívidas e orientação financeira entre 1º a 30 de novembro. Ao todo, participam da iniciativa mais de 160 instituições. \nA ação é promovida "
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Tesouro Direto: IPCA+ com vencimento no longo prazo sobe, mesmo após intervenção",
-   "url": "https://investnews.com.br/investimentos/tesouro-direto-tem-prefixados-em-queda-e-ipca-de-volta-ao-nivel-pre-primeiro-turno/",
-   "publicado": "2026-10-27T13:33:44+00:00",
-   "tickers": [],
-   "resumo": "Plataforma retomou negociações perto das 12h, depois da terceira intervenção em dois dias"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Mota-Engil troca comando no Brasil em meio à expansão no país",
-   "url": "https://investnews.com.br/negocios/mota-engil-troca-comando-no-brasil-em-meio-a-expansao-no-pais/",
-   "publicado": "2026-10-27T13:07:26+00:00",
-   "tickers": [],
-   "resumo": "Executivo que comandava a operação na Nigéria assume a liderança brasileira, em meio à expansão da Mota-Engil"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Tesouro Direto: prefixados recuam, mas IPCA longo sobe a até 7,53%",
    "url": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/10/27/tesouro-direto-hoje-27-de-outubro-de-2026.ghtml",
    "publicado": "2026-10-27T13:02:10+00:00",
    "tickers": [],
    "resumo": "O mercado de títulos públicos enfrentou mais uma sessão de instabilidade nesta terça-feira (27). As negociações no Tesouro Direto começaram com atraso e, assim como ontem, chegaram a ser interrompidas diante de novas oscilações expressivas nas curvas de juros.\nCom o retorno integ"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Advent capta US$ 30 bilhões para novo fundo global e empresas brasileiras estão no radar",
-   "url": "https://investnews.com.br/negocios/advent-capta-us-30-bilhoes-brasil-radar/",
-   "publicado": "2026-10-27T12:32:31+00:00",
-   "tickers": [],
-   "resumo": "Setores como consumo, saúde e varejo estão no foco, diz o chefe para a América Latina, Juan Pablo Zucchini, ao InvestNews"
   },
   {
    "fonte": "Valor Investe",
@@ -646,14 +818,6 @@
    "resumo": "A escolha de Luiz Inácio Lula da Silva (PT) para um novo mandato no Planalto deixou um saldo de perdas para os ativos domésticos no “day after” da decisão. Investidores, que se posicionaram para a vitória da oposição e uma promessa, ainda que sem detalhes, de ajuste fiscal, saíra"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Por que Mbappé é alvo de boicote na China",
-   "url": "https://investnews.com.br/negocios/por-que-mbappe-e-alvo-de-boicote-na-china/",
-   "publicado": "2026-10-27T12:20:35+00:00",
-   "tickers": [],
-   "resumo": "Comentários do jogador sobre um meme que retratava provocaram reações nas redes sociais e rompimento de contratos com marcas chinesas"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Em dia de ressaca, Ibovespa e dólar fecham em queda",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/27/ibovespa-e-dolar-hoje-27-de-outubro-de-2026.ghtml",
@@ -664,14 +828,6 @@
     "TEND3"
    ],
    "resumo": "O Ibovespa, principal índice de ações brasileiro, encerrou o pregão desta terça-feira (27) em queda, após oscilar entre os campos positivo e negativo mais cedo, em um pregão de \"ressaca\", após o tombo de ontem. O gatilho foi a surpreendente virada do presidente Luiz Inácio Lula d"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "GM deixará a Bolsa de Nova York para listar ações na Nasdaq",
-   "url": "https://investnews.com.br/negocios/gm-deixara-a-bolsa-de-nova-york-para-listar-acoes-na-nasdaq/",
-   "publicado": "2026-10-27T11:54:44+00:00",
-   "tickers": [],
-   "resumo": "A empresa manterá o código de negociação “GM” quando começar a negociar na Nasdaq"
   },
   {
    "fonte": "Valor Investe",
@@ -695,36 +851,12 @@
    "resumo": "É provável que o mercado corriga os exageros nesta terça-feira (27), após o Ibovespa registrar a maior desabada desde 2020, perto de 14%, após a surpreendente virada do presidente Luiz Inácio Lula da Silva (PT) na disputa contra o senador Flávio Bolsonaro (PL), o favorito da maio"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Geração Z quer independência financeira, mas não consegue guardar dinheiro. O desafio é começar",
-   "url": "https://investnews.com.br/investimentos/geracao-z-independencia-financeira/",
-   "publicado": "2026-10-27T10:31:29+00:00",
-   "tickers": [],
-   "resumo": "Mais de 80% dos jovens não têm reserva de emergência e 41% convivem com orçamento apertado, aponta pesquisa"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Bitcoin cai abaixo de US$ 80 mil na véspera da decisão sobre os juros nos EUA",
-   "url": "https://investnews.com.br/investimentos/bitcoin-hoje-cai-abaixo-de-us-80-mil-na-vespera-da-decisao-sobre-os-juros-nos-eua/",
-   "publicado": "2026-10-27T10:13:39+00:00",
-   "tickers": [],
-   "resumo": "As principais altcoins também operam em baixa nesta terça-feira (27)"
-  },
-  {
    "fonte": "Brazil Journal",
    "titulo": "O que cabe na vitória? Uma carta ao Presidente",
    "url": "https://braziljournal.com/o-que-cabe-na-vitoria-uma-carta-ao-presidente",
    "publicado": "2026-10-27T09:50:00+00:00",
    "tickers": [],
    "resumo": "Senhor Presidente, No último domingo o senhor foi reeleito para seu quarto mandato, com 51,78% dos votos válidos. Escrevo como cidadão, pai e avô, para cumprimentá-lo e também por estar preocupado com o clima de divisão que tomou conta do País."
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "Antes que a festa nos separe: os casamentos em escala da Welucci",
-   "url": "https://braziljournal.com/antes-que-a-festa-nos-separe-os-casamentos-em-escala-da-welucci",
-   "publicado": "2026-10-27T09:50:00+00:00",
-   "tickers": [],
-   "resumo": "Casar dá trabalho pra caramba – e a questão aqui nem é o matrimônio (if you know what I mean), mas a festa mesmo. Uma festa pode exigir a contratação de até 40 fornecedores, entre espaço, comida, decoração, música e roupas, além de uma lista quase infinita de detalhes para decidi"
   },
   {
    "fonte": "Valor Investe",
@@ -751,90 +883,12 @@
    "resumo": "A vitória do presidente Luiz Inácio Lula da Silva (PT) na eleição gerou um salto nas taxas dos títulos do Tesouro Direto que acompanham a inflação e nos papéis prefixados à venda, além de uma instabilidade nas negociações. Contudo, em um ambiente de muita volatilidade nos mercado"
   },
   {
-   "fonte": "Valor Investe",
-   "titulo": "O que esperar da bolsa até o fim do ano após a reeleição de Lula?",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/27/o-que-esperar-da-bolsa-ate-o-fim-do-ano-apos-a-reeleicao-de-lula.ghtml",
-   "publicado": "2026-10-27T09:00:00+00:00",
-   "tickers": [],
-   "resumo": "O tombo histórico da bolsa no primeiro dia de negócios após a reeleição do presidente Luiz Inácio Lula da Silva (PT) elevou a cautela no mercado e fez analistas cortarem as projeções para o Ibovespa no fim do ano. Se nada mudar no discurso do governo petista sobre as contas públi"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "‘Outubro Negro’: Ataques de hackers com IA se multiplicam e sobrecarregam a internet",
-   "url": "https://investnews.com.br/the-wall-street-journal/ataques-de-hackers-com-ia-se-multiplicam-e-sobrecarregam-a-internet/",
-   "publicado": "2026-10-27T08:07:00+00:00",
-   "tickers": [],
-   "resumo": "Criminosos estão recorrendo a ferramentas de invasão de nova geração, enquanto uma grave falha na internet dá origem ao chamado 'Outubro Negro'"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Por que faltam aviões? A crise que trava a indústria e custa bilhões às aéreas",
-   "url": "https://investnews.com.br/negocios/por-que-faltam-avioes-crise-industria/",
-   "publicado": "2026-10-27T08:00:00+00:00",
-   "tickers": [],
-   "resumo": "Com mais de 18 mil aeronaves encomendadas, indústria enfrenta escassez de motores, peças e mão de obra"
-  },
-  {
    "fonte": "Brazil Journal",
    "titulo": "Se não corrigir o fiscal, Lula 4 vai pressionar a infraestrutura",
    "url": "https://braziljournal.com/se-nao-corrigir-o-fiscal-lula-4-vai-pressionar-infraestrutura",
    "publicado": "2026-10-27T02:34:00+00:00",
    "tickers": [],
    "resumo": "Os negócios de infraestrutura tiveram investimentos recordes e uma intensa agenda de leilões no Lula 3. Mas como diz o disclaimer, desempenho passado não garante resultados futuros."
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Ninguém acerta as seis dezenas da Mega-Sena 3075, e prêmio vai a R$ 305 milhões; veja números sorteados",
-   "url": "https://valorinveste.globo.com/loterias/noticia/2026/10/26/resultado-da-mega-sena-3075-hoje-divulgado-veja-numeros-sorteados.ghtml",
-   "publicado": "2026-10-27T00:04:44+00:00",
-   "tickers": [],
-   "resumo": "O resultado da Mega-Sena 3075 com prêmio de R$ 294,1 milhões foi divulgado nesta segunda-feira (26), em São Paulo, e ninguém acertou as seis dezenas. Com isso, o prêmio acumulou em R$ 305 milhões para o próximo sorteio que será realizado nesta terça-feira (27).\nOs números sortead"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Gerdau (GGBR4) anuncia lucro de R$ 1,5 bi no 3º trimestre e pagamento de dividendos",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/10/26/gerdau-ggbr4-anuncia-lucro-de-r-15-bi-no-3o-trimestre-e-pagamento-de-dividendos.ghtml",
-   "publicado": "2026-10-26T22:41:06+00:00",
-   "tickers": [
-    "GGBR4"
-   ],
-   "resumo": "A Gerdau (GGBR4) registrou um lucro líquido de R$ 1,5 bilhão no terceiro trimestre do ano, montante que representa uma alta de 44% ante o mesmo período do ano passado. Segundo a companhia, o desempenho reflete dinâmicas dos resultados operacionais e financeiros da companhia.\n\nEnt"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Bolsa perde mais de duas Vales no pregão após o resultado de eleição",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/26/tombo-da-bolsa-apaga-r-663-bilhoes-do-valor-das-empresas-do-ibovespa.ghtml",
-   "publicado": "2026-10-26T21:19:08+00:00",
-   "tickers": [
-    "PETR3",
-    "PETR4",
-    "VALE3"
-   ],
-   "resumo": "As empresas que compõem o Ibovespa, principal índice de ações da bolsa brasileira, perderam R$ 663 bilhões em valor de mercado nesta segunda-feira (26), em meio à liquidação generalizada de ações após a reeleição do presidente Luiz Inácio Lula da Silva (PT). O montante correspond"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Virada histórica de Lula aciona ‘circuit breaker’ e Ibovespa tem maior queda desde 2020",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/26/virada-historica-de-lula-aciona-circuit-breaker-e-ibovespa-tem-maior-queda-desde-2020.ghtml",
-   "publicado": "2026-10-26T20:52:37+00:00",
-   "tickers": [],
-   "resumo": "A reeleição do presidente Luiz Inácio Lula da Silva (PT) para o seu quarto mandato, um feito inédito na história do país, desencadeou um dia de pânico e sangria na B3. A virada nas urnas no segundo turno tomou as mesas de operação no contrapé, desfazendo em questão de poucos minu"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "iPhone dobrável da Apple tem relatos de tela rachada após horas de uso",
-   "url": "https://investnews.com.br/negocios/iphone-dobravel-da-apple-tem-relatos-de-tela-rachada-apos-horas-de-uso/",
-   "publicado": "2026-10-26T19:53:17+00:00",
-   "tickers": [],
-   "resumo": "Clientes relatam estalos ao abrir iPhone dobrável da Apple e rachaduras na tela"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Ações de XP e Nubank despencam em Nova York na esteira da turbulência no Brasil",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/10/26/acoes-de-xp-e-nubank-derretem-em-nova-york-na-esteira-da-turbulencia-no-brasil.ghtml",
-   "publicado": "2026-10-26T19:40:26+00:00",
-   "tickers": [],
-   "resumo": "As ações da XP e do Nubank, duas das principais empresas brasileiras do setor financeiro com papéis negociados nos Estados Unidos, registraram fortes perdas nesta segunda-feira (26), acompanhando a turbulência no mercado brasileiro após a vitória de Luiz Inácio Lula da Silva na e"
   },
   {
    "fonte": "Brazil Journal",
@@ -851,78 +905,6 @@
    "publicado": "2026-10-26T16:38:00+00:00",
    "tickers": [],
    "resumo": "Já se vão 24 anos desde a primeira vitória de Lula – e agora, como em 2002, o Presidente iniciará um novo mandato sob profunda desconfiança dos mercados. Lula 3 recebeu uma dívida do setor público equivalente a 72% e legou a Lula 4 um endividamento que já supera 82% do PIB."
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "B3 esclarece por que não acionou segundo ‘circuit breaker’ após perdas do Ibovespa acima de 15%",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/10/26/b3-esclarece-por-que-no-acionou-segundo-circuit-breaker-aps-perdas-do-ibovespa-acima-de-15-pontos-percentuais.ghtml",
-   "publicado": "2026-10-26T15:51:38+00:00",
-   "tickers": [],
-   "resumo": "A B3 acionou o primeiro 'circuit breaker', ou seja, interrompeu as negociações por 30 minutos logo na abertura da sessão desta segunda-feira. Em nova enviada ao Valor, a instituição explica que a decisão foi tomada com base na análise do cenário de formação do preço teórico do Ib"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "ASA corta alívio na Selic e vê juro a 13% até 2027 após reeleição de Lula",
-   "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/10/26/asa-corta-alivio-na-selic-e-ve-juro-a-13percent-ate-2027-apos-reeleicao-de-lula.ghtml",
-   "publicado": "2026-10-26T15:36:05+00:00",
-   "tickers": [],
-   "resumo": "A gestora ASA, do banco Safra, recalculou o seu cenário macroeconômico nesta segunda-feira (26) e reduziu a expectativa de cortes para a taxa básica de juros (Selic). A instituição projeta agora apenas mais uma redução de 0,25 ponto percentual na reunião do Copom de novembro, lev"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Focus reduz projeções para inflação e dólar, mas ainda não reflete resultado da eleição",
-   "url": "https://valorinveste.globo.com/mercados/moedas-e-juros/noticia/2026/10/26/focus-reduz-projecoes-para-inflacao-e-dolar-mas-ainda-nao-reflete-resultado-da-eleicao.ghtml",
-   "publicado": "2026-10-26T15:32:13+00:00",
-   "tickers": [],
-   "resumo": "A expectativa para a inflação medida pelo Índice Nacional de Preços ao Consumidor Amplo (IPCA) em 2026 recuou após ficar estável na semana passada, apontou o Boletim Focus divulgado pelo Banco Central nesta segunda-feira (26). As projeções foram coletadas até sexta-feira (23), po"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "‘Bloody Monday’: B3 e CSN desabam 40%, BTG e BB mergulham 30%",
-   "url": "https://braziljournal.com/bloody-monday-b3-e-csn-desabam-40-btg-e-bb-mergulham-30",
-   "publicado": "2026-10-26T15:10:00+00:00",
-   "tickers": [],
-   "resumo": "Salve-se quem puder. Como esperado, o Ibovespa desabou desde a abertura, com os investidores desfazendo as posições que haviam montado nas últimas semanas."
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Com disparada do dólar, ações de exportadoras escapam da sangria na bolsa",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/10/26/com-disparada-do-dolar-acoes-de-exportadoras-vale3-suzb3-klbn11-wege3-embj3-escapam-da-sangria-na-bolsa.ghtml",
-   "publicado": "2026-10-26T14:36:35+00:00",
-   "tickers": [
-    "BEEF3",
-    "EMBR3",
-    "KLBN11",
-    "MBRF3",
-    "SUZB3",
-    "VALE3",
-    "WEGE3"
-   ],
-   "resumo": "As ações das empresas exportadoras negociadas na B3, a bolsa brasileira, destoaram da sangria registrada no pregão desta segunda-feira (26), após a reeleição do presidente Luiz Inácio Lula da Silva (PT). Os papéis foram sustentados pela disparada de mais de 8% da cotação do dólar"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "BTG projeta queda de 30% do Ibovespa em dólar e juro real em 8%",
-   "url": "https://braziljournal.com/btg-projeta-queda-de-30-do-ibovespa-em-dolar-e-juro-real-em-8",
-   "publicado": "2026-10-26T13:37:00+00:00",
-   "tickers": [],
-   "resumo": "O BTG Pactual prevê um selloff de ativos brasileiros nas próximas semanas. O banco projeta uma queda de 17% do Ibovespa para cerca de 170 mil pontos – o patamar em que estava no fim de agosto e abaixo dos 192 mil pontos antes do primeiro turno. Para o investidor estrangeiro, o es"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "EDITORIAL. Sem margem de manobra",
-   "url": "https://braziljournal.com/editorial-sem-margem-de-manobra",
-   "publicado": "2026-10-26T04:09:00+00:00",
-   "tickers": [],
-   "resumo": "É difícil explicar para as pessoas não versadas no funcionamento da economia as diversas implicações da reeleição que o Presidente Lula conquistou ontem. Mas o mais assustador é que talvez ele mesmo não as compreenda."
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "“Ações domésticas boas devem cair 20-30%”. Gestores preveem segunda caótica",
-   "url": "https://braziljournal.com/acoes-domesticas-boas-devem-cair-20-30-gestores-preveem-segunda-caotica",
-   "publicado": "2026-10-26T03:02:00+00:00",
-   "tickers": [],
-   "resumo": "Com o EWZ em baixa de quase 20% depois da vitória surpreendente de Lula, gestores projetam uma segunda-feira caótica nos mercados. “As ações domésticas boas, como shoppings e empresas de energia, devem cair uns 20 a 30%. Varejistas, 60%. Bancos, 15%,” disse um gestor de fundos de"
   }
  ]
 }
