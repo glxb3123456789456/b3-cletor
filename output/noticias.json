@@ -3,6 +3,48 @@
  "itens": 105,
  "dados": [
   {
+   "fonte": "InvestNews",
+   "titulo": "Este é o gráfico mais importante do mundo, dizem alguns gênios da IA",
+   "url": "https://investnews.com.br/tecnologia/este-e-o-grafico-mais-importante-do-mundo-dizem-alguns-genios-da-ia/",
+   "publicado": "2026-10-31T18:40:35+00:00",
+   "tickers": [],
+   "resumo": "A IA está começando a construir IAs melhores. Isso acelera a tecnologia – e deixa todo mundo apavorado."
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Google e Intel derretem: a conta da IA está chegando?",
+   "url": "https://investnews.com.br/economia/google-e-intel-derretem-a-conta-da-ia-esta-chegando/",
+   "publicado": "2026-10-31T15:39:44+00:00",
+   "tickers": [],
+   "resumo": "Google perde US$ 500 bilhões em dois dias, Intel cai 29% e hackers levam US$ 6,3 bilhões da Binance – talvez com ajuda de IA"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Da reação do mercado após vitória de Lula à recomendação de venda para o Banco do Brasil: confira as mais lidas da semana",
+   "url": "https://www.moneytimes.com.br/da-reacao-do-mercado-apos-vitoria-de-lula-a-recomendacao-de-venda-para-o-banco-do-brasil-confira-as-mais-lidas-da-semana-lmrs/",
+   "publicado": "2026-10-31T15:28:47+00:00",
+   "tickers": [
+    "BBAS3"
+   ],
+   "resumo": "Da reação do mercado após a reeleição de Luiz Inácio Lula da Silva (PT) à recomendação de venda e perspectivas negativas do Citi para o Banco do Brasil (BBAS3), a semana reuniu notícias que chamaram a atenção dos leitores do Money Times. Entre os temas mais lidos, também ganharam"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Bitcoin (BTC) avança neste sábado (31), aos US$ 77 mil; veja os preços das criptomoedas",
+   "url": "https://www.moneytimes.com.br/bitcoin-btc-avanca-neste-sabado-31-aos-us-77-mil-veja-os-precos-das-criptomoedas-lmrs/",
+   "publicado": "2026-10-31T15:05:21+00:00",
+   "tickers": [],
+   "resumo": "As maiores criptomoedas do mundo operam majoritariamente no positivo neste sábado (31), com desempenho misto ao longo da semana. Por volta das 11h50 (horário de Brasília), o bitcoin (BTC) subia 0,58% nas últimas 24 horas, a US$ 77,410.50. Na semana, a cripto registrava recuo de 3"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Uso de inteligência artificial já supera o TikTok e o Facebook para buscar informações sobre investimentos; aprenda como usar IA para investir em aula gratuita",
+   "url": "https://www.moneytimes.com.br/uso-de-inteligencia-artificial-ja-supera-o-tiktok-e-o-facebook-para-buscar-informacoes-sobre-investimentos-aprenda-como-usar-ia-para-investir-em-aula-gratuita-lbrdjm049/",
+   "publicado": "2026-10-31T15:00:00+00:00",
+   "tickers": [],
+   "resumo": "Masterclass gratuita ensina como transformar os seus investimentos com o Claude"
+  },
+  {
    "fonte": "Money Times",
    "titulo": "BB Seguridade (BBSE3) e mais 4 ações para ter na carteira de curto prazo, segundo a Terra Investimentos",
    "url": "https://www.moneytimes.com.br/bb-seguridade-bbse3-e-mais-4-acoes-para-ter-na-carteira-de-curto-praz-segundo-a-terra-investimentos-lmrs/",
@@ -14,6 +56,14 @@
     "POMO4"
    ],
    "resumo": "A Terra Investimentos realizou duas alterações na carteira recomendada semanal de ações para o período de 30 de outubro a 6 de novembro, após uma semana de fortes quedas no Ibovespa (IBOV). Os papéis da Cemig (CMIG4) e Marcopolo (POMO4) deixam o portfólio, abrindo espaço para a e"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Eleições no Brasil e em outros países mostram enfraquecimento global do trumpismo",
+   "url": "https://investnews.com.br/economia/eleicoes-no-brasil-e-em-outros-paises-mostram-enfraquecimento-global-do-trumpismo/",
+   "publicado": "2026-10-31T14:47:06+00:00",
+   "tickers": [],
+   "resumo": "Às vésperas das eleições de meio de mandato nos EUA, aliados de Trump saíram derrotados no Brasil, na Sérvia e na Hungria"
   },
   {
    "fonte": "Money Times",
@@ -75,32 +125,6 @@
    "publicado": "2026-10-31T12:31:11+00:00",
    "tickers": [],
    "resumo": "A partir da próxima terça-feira, 3 de novembro, a B3 ampliará os horários de negociação dos mercados de bolsa e de balcão organizado. As mudanças ocorrem por conta do fim do horário de verão nos Estados Unidos e afetam os mercados de ações e derivativos. No caso do mercado à vist"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Quer acompanhar os fundos imobiliários (FIIs) de perto? Money Times lança newsletter semanal",
-   "url": "https://www.moneytimes.com.br/quer-acompanhar-os-fundos-imobiliarios-fiis-de-perto-money-times-lanca-newsletter-semanal-igdl/",
-   "publicado": "2026-10-31T12:30:00+00:00",
-   "tickers": [],
-   "resumo": "Os fundos imobiliários (FIIs) ganharam um novo boletim para quem quer acompanhar de perto os principais acontecimentos do setor. O Money Times lançou, neste sábado (31), a Central dos FIIs, uma newsletter semanal que reunirá notícias e movimentações que marcaram a classe ao longo"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Oncoclínicas (ONCO3) atinge quórum mínimo e avança com plano de recuperação extrajudicial",
-   "url": "https://www.moneytimes.com.br/oncoclinicas-onco3-atinge-quorum-minimo-para-plano-de-recuperacao-extrajudicial-lmrs/",
-   "publicado": "2026-10-31T11:42:06+00:00",
-   "tickers": [
-    "ONCO3"
-   ],
-   "resumo": "A Oncoclínicas (ONCO3) informou na sexta-feira (30) que o plano de recuperação extrajudicial da companhia e de algumas controladas atingiu o quórum mínimo exigido pela Lei de Falências para seguir com o processo de homologação na Justiça. Segundo fato relevante, a adesão de credo"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Ibovespa despenca 18% e tem pior saldo semanal desde auge da pandemia; confira quem subiu e quem desceu no índice",
-   "url": "https://www.moneytimes.com.br/ibovespa-semana-44-26-lils/",
-   "publicado": "2026-10-31T11:20:00+00:00",
-   "tickers": [],
-   "resumo": "O Ibovespa (IBOV) teve uma semana para esquecer, após a vitória inesperada do presidente Luiz Inácio Lula da Silva (PT) nas urnas e a recondução do petista para o quarto mandato à Presidência. O principal índice da bolsa brasileira acumulou queda de 18,12% na semana e encerrou a "
   },
   {
    "fonte": "Valor Investe",
@@ -808,36 +832,12 @@
    "resumo": "Os títulos públicos atrelados à taxa básica de juros foram os preferidos dos brasileiros em setembro. Dos R$ 8,8 bilhões investidos no Tesouro Direto ao longo do mês, R$ 5 bilhões foram direcionados ao Tesouro Selic e ao Tesouro Reserva, o equivalente a 57,5% do total. Os dados f"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Como a EMS domina os genéricos e encara o teste da sucessão",
-   "url": "https://investnews.com.br/videos/como-a-ems-domina-os-genericos-e-encara-o-teste-da-sucessao/",
-   "publicado": "2026-10-29T17:57:16+00:00",
-   "tickers": [],
-   "resumo": "Do Viagra ao Ozempic, entenda a tática da farmacêutica de Carlos Sanchez para liderar o mercado e os riscos da transição no comando. (127 caracteres)"
-  },
-  {
    "fonte": "Brazil Journal",
    "titulo": "Raízen fecha acordo tributário épico, extinguindo R$ 22 bi em dívidas",
    "url": "https://braziljournal.com/raizen-fecha-acordo-tributario-epico-extinguindo-r-22-bi-em-dividas",
    "publicado": "2026-10-29T17:53:00+00:00",
    "tickers": [],
    "resumo": "A Raízen anunciou um acordo com a União que vai extinguir R$ 22,4 bilhões em débitos da companhia – na maior transação tributária desde que esse tipo de acordo foi regulamentado no Brasil, seis anos atrás. Pelos termos do acordo, a Raízen terá um desconto final de 85% no valor do"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Fabricante do Toblerone processa marca de chocolate vegano por formato de barra",
-   "url": "https://investnews.com.br/negocios/fabricante-do-toblerone-processa-marca-de-chocolate-vegano-por-formato-de-barra/",
-   "publicado": "2026-10-29T17:51:46+00:00",
-   "tickers": [],
-   "resumo": "Dona do Toblerone afirma que barras de uma fabricante britânica de chocolates veganos imitam seu formato triangular"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "LeBron James transforma parceria de 11 anos com a Whoop em negócio",
-   "url": "https://investnews.com.br/negocios/lebron-james-transforma-parceria-de-11-anos-com-a-whoop-em-negocio/",
-   "publicado": "2026-10-29T15:33:34+00:00",
-   "tickers": [],
-   "resumo": "O jogador usa os dispositivos da empresa há 11 anos e também é investidor da fabricante de pulseiras inteligentes"
   },
   {
    "fonte": "Valor Investe",
