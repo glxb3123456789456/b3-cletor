@@ -3,6 +3,30 @@
  "itens": 105,
  "dados": [
   {
+   "fonte": "InvestNews",
+   "titulo": "Minério de ferro já cai 20% desde o pico de maio",
+   "url": "https://investnews.com.br/negocios/minerio-de-ferro-ja-cai-20-desde-o-pico-de-maio/",
+   "publicado": "2026-11-01T22:01:27+00:00",
+   "tickers": [],
+   "resumo": "Só 11% das siderúrgicas chinesas dão lucro neste momento, e os estoques nos portos estão 15% acima de um ano atrás"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Binance retoma saques, mas as dúvidas sobre o ataque hacker persistem",
+   "url": "https://investnews.com.br/economia/binance-retoma-saques-mas-duvidas-persistem-sobre-ataque-hacker-recorde/",
+   "publicado": "2026-11-01T16:59:11+00:00",
+   "tickers": [],
+   "resumo": "Corretora reabre retiradas dois dias depois do roubo de US$ 6,3 bilhões – atribuído a hackers da Coreia do Norte"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Décimo terceiro salário começa a ser pago este mês; veja como calcular",
+   "url": "https://valorinveste.globo.com/educacao-financeira/noticia/2026/11/01/decimo-terceiro-salario-comeca-a-ser-pago-este-mes-veja-como-calcular.ghtml",
+   "publicado": "2026-11-01T15:54:31+00:00",
+   "tickers": [],
+   "resumo": "O décimo terceiro salário cai na conta a partir deste mês e a primeira parcela deve ser paga pelas empresas até o dia 30 e a segunda parcela deve cair na conta até 20 de dezembro.\nE todo trabalhador com carteira assinada tem direito ao equivalente a um mês de salário líquido — ou"
+  },
+  {
    "fonte": "Valor Investe",
    "titulo": "Decisão do Copom sobre Selic é ponto alto da agenda da semana mais curta",
    "url": "https://valorinveste.globo.com/mercados/moedas-e-juros/noticia/2026/11/01/decisao-do-copom-sobre-selic-e-ponto-alto-da-agenda-da-semana-mais-curta.ghtml",
@@ -68,11 +92,11 @@
   },
   {
    "fonte": "Valor Investe",
-   "titulo": "Resultado da Mega-Sena 3080 com prêmio de R$ 40,7 milhões é divulgado; veja números sorteados",
+   "titulo": "Ninguém acerta as seis dezenas da Mega-Sena 3080, e prêmio vai a R$ 46 milhões; veja números sorteados",
    "url": "https://valorinveste.globo.com/loterias/noticia/2026/11/01/resultado-da-mega-sena-3080-com-premio-de-r-407-milhoes-e-divulgado-veja-numeros-sorteados.ghtml",
    "publicado": "2026-11-01T14:07:06+00:00",
    "tickers": [],
-   "resumo": "O resultado da Mega-Sena 3079 com prêmio de R$ 40,7 milhões foi divulgado neste domingo (1º) em São Paulo. Os números sorteados hoje foram: 13 - 17 - 28 - 29 - 39 - 58\nVEJA TAMBÉM: \n- Os números mais sorteados na história Mega-Sena\nA Caixa Econômica Federal ainda não divulgou se "
+   "resumo": "O resultado da Mega-Sena 3079 com prêmio de R$ 40,7 milhões foi divulgado neste domingo (1º) em São Paulo, e ninguém acertou as seis dezenas. Com isso, o prêmio acumulou em R$ 46 milhões para o próximo sorteio que vai ser realizado na quarta-feira (4).\nOs números sorteados hoje f"
   },
   {
    "fonte": "Valor Investe",
@@ -829,32 +853,6 @@
    "publicado": "2026-10-29T23:02:55+00:00",
    "tickers": [],
    "resumo": "Pressionado pelo minério mais barato, lucro da mineradora caiu 53% no terceiro trimestre"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Lucro da Vale (VALE3) despenca 56% no terceiro trimestre, para R$ 6,4 bilhões",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/10/29/lucro-da-vale-vale3-despenca-56percent-no-terceiro-trimestre-para-r-64-bilhoes.ghtml",
-   "publicado": "2026-10-29T22:46:11+00:00",
-   "tickers": [
-    "VALE3"
-   ],
-   "resumo": "A Vale (VALE3) registrou lucro líquido de R$ 6,4 bilhões no terceiro trimestre, queda de 56% em relação aos R$ 14,6 bilhões apurados no mesmo período do ano passado. Na comparação com o segundo trimestre deste ano, quando a mineradora lucrou R$ 6,8 bilhões, houve recuo de 6%.\nA r"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Kalshi, fundada por brasileira, passa a valer US$ 40 bilhões após captar US$ 1 bilhão",
-   "url": "https://investnews.com.br/negocios/kalshi-fundada-por-brasileira-passa-a-valer-us-40-bilhoes-apos-captar-us-1-bilhao/",
-   "publicado": "2026-10-29T22:23:31+00:00",
-   "tickers": [],
-   "resumo": "Plataforma recebeu US$ 1 bilhão em investimentos e quase dobrou de valor em cinco meses"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Petrobras anuncia terceira descoberta de petróleo na Margem Equatorial",
-   "url": "https://investnews.com.br/negocios/petrobras-anuncia-terceira-descoberta-de-petroleo-na-margem-equatorial/",
-   "publicado": "2026-10-29T21:35:28+00:00",
-   "tickers": [],
-   "resumo": "Estatal identificou nova camada com petróleo em poço na costa do Amapá"
   },
   {
    "fonte": "Brazil Journal",
