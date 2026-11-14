@@ -1,90 +1,66 @@
 {
  "fonte": "fatos_fidc_raw",
- "itens": 7,
+ "itens": 5,
  "dados": [
   {
-   "empresa": "FI EM COTAS DE FI EM DIREITOS CREDITÓRIOS VIA MULTICRÉDITO RESPONSABILIDADE LIMITADA",
+   "empresa": "CM FEDERAL II FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - RESPONSABILIDADE LIMITADA",
    "cnpj": "",
    "data": "2026-11-13",
-   "assunto": "Outros Comunicados Não Considerados Fatos Relevantes ",
-   "categoria": "Comunicado ao Mercado",
-   "pregao": "",
-   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1382003&cvm=true",
-   "_id": 1382003,
-   "texto": "Rio de Janeiro, 12 de novembro de 2026. Prezado Cotista, A BTG Pactual Serviços Financeiros S.A. DTVM, instituição financeira, com sede na Cidade e Estado do Rio de Janeiro, localizada à Praia de Botafogo, 501, 5º Andar (Parte), Torre Corcovado, Botafogo, CEP 22250-040, e inscrita no CNPJ/MF sob o número 59.281.253/0001-23, devidamente credenciada na CVM como administradora de carteira, de acordo com o Ato Declaratório CVM n.º 8.695, de 20 de março de 2006 (“Administradora”), serve-se da presente, na qualidade de administradora do FUNDO DE INVESTIMENTO EM QUOTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITORIOS VIA MULTICREDITO (“Fundo”), inscrito no CNPJ sob o nº 22.175.345/0001- 19, para comunicar que na assembleia geral de cotistas realizada em 03 de novembro de 2026 foram aprovadas as contas anuais do Fundo referente ao exercício encerrado em 30 de junho de 2026. Colocamo-nos à disposição para prestar quaisquer esclarecimentos que se façam necessários. Atenciosamente, BTG PACTUAL SERVIÇOS FINANCEIROS S.A. DTVM - Administradora -",
-   "visto_em": "2026-11-13"
-  },
-  {
-   "empresa": "VERDE AM IPÊ FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
-   "cnpj": "",
-   "data": "2026-11-13",
-   "assunto": "Outros Comunicados Não Considerados Fatos Relevantes ",
-   "categoria": "Comunicado ao Mercado",
-   "pregao": "",
-   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1381991&cvm=true",
-   "_id": 1381991,
-   "texto": "Rio de Janeiro, 12 de novembro de 2026. Prezado Cotista, A BTG Pactual Serviços Financeiros S.A. DTVM, instituição financeira, com sede na Cidade e Estado do Rio de Janeiro, localizada à Praia de Botafogo, 501, 5º Andar (Parte), Torre Corcovado, Botafogo, CEP 22250-040, e inscrita no CNPJ/MF sob o número 59.281.253/0001-23, devidamente credenciada na CVM como administradora de carteira, de acordo com o Ato Declaratório CVM n.º 8.695, de 20 de março de 2006 (“Administradora”), serve-se da presente, na qualidade de administradora do VERDE AM IPE FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA (“Fundo”), inscrito no CNPJ sob o nº 54.851.094/0001-31, para comunicar que na assembleia geral de cotistas realizada em 05 de novembro de 2026 foram aprovadas as contas anuais do Fundo referente ao exercício encerrado em 30 de junho de 2026. Colocamo-nos à disposição para prestar quaisquer esclarecimentos que se façam necessários. Atenciosamente, BTG PACTUAL SERVIÇOS FINANCEIROS S.A. DTVM - Administradora -",
-   "visto_em": "2026-11-13"
-  },
-  {
-   "empresa": "SPECIALE CRÉDITO PLUS FIC DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESP LIMITADA",
-   "cnpj": "",
-   "data": "2026-11-13",
-   "assunto": "Outros Comunicados Não Considerados Fatos Relevantes ",
-   "categoria": "Comunicado ao Mercado",
-   "pregao": "",
-   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1381974&cvm=true",
-   "_id": 1381974,
-   "texto": "Rio de Janeiro, 12 de novembro de 2026. Prezado Cotista, A BTG Pactual Serviços Financeiros S.A. DTVM, instituição financeira, com sede na Cidade e Estado do Rio de Janeiro, localizada à Praia de Botafogo, 501, 5º Andar (Parte), Torre Corcovado, Botafogo, CEP 22250-040, e inscrita no CNPJ/MF sob o número 59.281.253/0001-23, devidamente credenciada na CVM como administradora de carteira, de acordo com o Ato Declaratório CVM n.º 8.695, de 20 de março de 2006 (“Administradora”), serve-se da presente, na qualidade de administradora do SPECIALE CREDITO PLUS FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO MULTIMERCADO (“Fundo”), inscrito no CNPJ sob o nº 30.329.393/0001-42, para comunicar que na assembleia geral de cotistas realizada em 05 de novembro de 2026 foram aprovadas as contas anuais do Fundo referente ao exercício encerrado em 30 de junho de 2026. Colocamo-nos à disposição para prestar quaisquer esclarecimentos que se façam necessários. Atenciosamente, BTG PACTUAL SERVIÇOS FINANCEIROS S.A. DTVM - Administradora -",
-   "visto_em": "2026-11-13"
-  },
-  {
-   "empresa": "BACKSTAGE FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
-   "cnpj": "",
-   "data": "2026-11-13",
-   "assunto": "Outros Comunicados Não Considerados Fatos Relevantes ",
-   "categoria": "Comunicado ao Mercado",
-   "pregao": "",
-   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1381938&cvm=true",
-   "_id": 1381938,
-   "texto": "Rio de Janeiro, 12 de novembro de 2026. Prezado Cotista, A BTG Pactual Serviços Financeiros S.A. DTVM, instituição financeira, com sede na Cidade e Estado do Rio de Janeiro, localizada à Praia de Botafogo, 501, 5º Andar (Parte), Torre Corcovado, Botafogo, CEP 22250-040, e inscrita no CNPJ/MF sob o número 59.281.253/0001-23, devidamente credenciada na CVM como administradora de carteira, de acordo com o Ato Declaratório CVM n.º 8.695, de 20 de março de 2006 (“Administradora”), serve-se da presente, na qualidade de administradora do BACKSTAGE FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS NAO-PADRONIZADOS (“Fundo”), inscrito no CNPJ sob o nº 52.315.385/0001-80, para comunicar que na assembleia geral de cotistas realizada em 03 de novembro de 2026 foram aprovadas as contas anuais do Fundo referente ao exercício encerrado em 30 de junho de 2026. Colocamo-nos à disposição para prestar quaisquer esclarecimentos que se façam necessários. Atenciosamente, BTG PACTUAL SERVIÇOS FINANCEIROS S.A. DTVM - Administradora -",
-   "visto_em": "2026-11-13"
-  },
-  {
-   "empresa": "RDF FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA",
-   "cnpj": "",
-   "data": "2026-11-12",
    "assunto": "",
    "categoria": "Fato Relevante",
    "pregao": "",
-   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1381237&cvm=true",
-   "_id": 1381237,
-   "texto": "RDF FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA CNPJ nº 19.425.700/0001-56 (“Fundo”) FATO RELEVANTE A QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. (“Administradora”), com sede na Cidade e Estado de São Paulo, na Av. Rebouças, nº 2.942, 7º ao 12º andar, Pinheiros, CEP 05402-500, inscrita no CNPJ sob o nº 62.285.390/0001 -40, na qualidade de instituição administradora do Fundo, nos termos do art. 64 da parte geral da Resolução CVM nº 175, de 23 de dezembro de 2022 (“Resolução CVM 175”), comunica aos cotistas do Fundo e ao mercado em geral o quanto segue: 1. Foi determinada, em decisão judicial, a indisponibilidade de recursos e determinados ativos de titularidade do Fundo que correspondem, nesta data, a aproximadamente 5% (cinco por cento) do patrimônio líquido do Fundo. A decisão judicial se deu no âmbito d as operações Cateter e Enxague, amplamente divulgadas pela imprensa, e o Fundo não possui atualmente qualquer exposição a recebíveis cedidos pelos cedentes alvo das investigações. Reiteramos que a Administradora e a Gestora não são alvo das operações. Em razão do segredo de justiça, não é possível divulgar informações adicionais sobre o processo. 2. A gestora do Fundo, TERCON INVESTIMENTOS S.A. , inscrita no CNPJ sob o nº 09.121.454/0001-95 (“Gestora”), já adotou as medidas cabíveis voltadas ao desbloqueio. A estrutura do Fundo permanece preservada e suas operações seguem em curso normal. 3. A Administradora manterá os cotistas e o mercado em geral informados acerca de quaisquer desdobramentos relevantes, nos termos da regulamentação aplicável. Informações adicionais poderão ser obtidas junto à Administradora, pelo e-mail: enquadramento@qitech.com.br. São Paulo, 12 de novembro de 2026. QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-   "visto_em": "2026-11-13"
+   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1385876&cvm=true",
+   "_id": 1385876,
+   "texto": "CM FEDERAL II FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS - RESPONSABILIDADE LIMITADA CNPJ n° 53.337.522/0001-40 Série SUBORDINADA - 1 (“Fundo”) FATO RELEVANTE A QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A., inscrita no CNPJ sob o nº 62.285.390/0001-40, com sede na Avenida Rebouças, nº 2.942, 7º ao 12º andar, Parte I, cidade e Estado de São Paulo, instituição administradora (“Administradora”) do FUNDO, vem comunicar aos cotistas e ao mercado em geral que em razão da variação de ativos do FUNDO, o valor da cota SUBORDINADA - 1 apresentou variação positiva de 53,83% em 30 de Outubro de 2026, e o patrimônio líquido do FUNDO apresentou variação positiva de 53,82% na mesma data. Esclarece-se que a variação no valor da cota ora informada desconsidera os efeitos de movimentações de passivo do FUNDO, tais como resgates, aplicações e amortizações. Informações adicionais poderão ser obtidas junto à Administradora, pelo e-mail: enquadramento@qitech.com.br. São Paulo, 11 de Novembro de 2026. QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. qitech.com.br Av. Rebouças, nº 2.942, 7º ao 12º andar, Parte I Jardim Paulistano - CEP 05402-500 SP - São Paulo",
+   "visto_em": "2026-11-14"
   },
   {
-   "empresa": "FLOWINVEST FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA",
+   "empresa": "WORKCAP AGRO FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA",
    "cnpj": "",
-   "data": "2026-11-12",
+   "data": "2026-11-13",
+   "assunto": "Outros Comunicados Não Considerados Fatos Relevantes ",
+   "categoria": "Comunicado ao Mercado",
+   "pregao": "",
+   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1384504&cvm=true",
+   "_id": 1384504,
+   "texto": "WORKCAP AGRO FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA CNPJ nº 33.076.242/0001-18 COMUNICADO AOS COTISTAS A FINAXIS CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A., instituição financeira devidamente autorizada pela CVM para o exercício profissional de administração de carteiras de valores mobiliários, na categoria de administrador fiduciário, nos termos do Ato Declaratório CVM nº 6.547, de 18 de outubro de 2001, com sede na cidade de São Paulo, Estado de São Paulo, na Avenida Paulista, nº 1.842, Torre Norte, térreo, Loja 08, Bela Vista, CEP 01310-923, inscrita no CNPJ sob o nº 03.317.692/0001-94, na qualidade de instituição administradora (\"Administradora\") do WORKCAP AGRO FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA, inscrito no CNPJ/MF sob o nº 33.076.242/0001-18 (“Fundo”), vem comunicar aos cotistas que as cotas da Subclasse Subordinada Júnior do Fundo apresentaram uma alta de 5,11% em sua rentabilidade diária, observando a carteira do dia 12 de novembro de 2026, em comparação com a carteira do dia 11 de novembro de 2026, decorrente da reversão parcial da Provisão para Devedores Duvidosos (“PDD”). Adicionalmente, informamos que a Administradora se encontra à disposição para prestar os esclarecimentos adicionais. São Paulo, 13 de novembro de 2026. FINAXIS CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+   "visto_em": "2026-11-14"
+  },
+  {
+   "empresa": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS COMERCIAIS DE RESPONSABILIDADE LIMITADA FORTBRASIL",
+   "cnpj": "",
+   "data": "2026-11-13",
    "assunto": "",
    "categoria": "Fato Relevante",
    "pregao": "",
-   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1381139&cvm=true",
-   "_id": 1381139,
-   "texto": "FLOWINVEST FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE LIMITADA CNPJ nº 20.460.014/0001-03 (“Fundo”) FATO RELEVANTE A QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. (“Administradora”), com sede na Cidade e Estado de São Paulo, na Av. Rebouças, nº 2.942, 7º ao 12º andar, Pinheiros, CEP 05402-500, inscrita no CNPJ sob o nº 62.285.390/0001 -40, na qualidade de instituição administradora do Fundo, nos termos do art. 64 da parte geral da Resolução CVM nº 175, de 23 de dezembro de 2022 (“Resolução CVM 175”), comunica aos cotistas do Fundo e ao mercado em geral o quanto segue: 1. Foi determinada, em decisão judicial, a indisponibilidade d e recursos e determinados ativos de titularidade do Fundo que correspondem, nesta data, a aproximadamente 2% (dois por cento) do patrimônio líquido do Fundo . A decisão judicial se deu no âmbito das operações Cateter e Enxague, amplamente divulgadas pela imprensa, e o Fundo não possui atualmente qualquer exposição a recebíveis cedidos pelos cedentes alvo das investigações. Reiteramos que a Administradora e a Gestora não são alvo das operações. Em razão do segredo de justiça, não é possível divulgar informações adicionais sobre o processo. 2. A gestora do Fundo, ARTESANAL MCMS LTDA., inscrita no CNPJ sob o nº 30.701.673/0001- 30 (“Gestora”), já adotou as medidas cabíveis voltadas ao desbloqueio. A estrutura do Fundo permanece preservada e suas operações seguem em curso normal. 3. A Administradora manterá os cotistas e o mercado em geral informados acerca de quaisquer desdobramentos relevantes, nos termos da regulamentação aplicável. Informações adicionais poderão ser obtidas junto à Administradora, pelo e-mail: enquadramento@qitech.com.br. São Paulo, 12 de novembro de 2026. QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-   "visto_em": "2026-11-13"
+   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1384501&cvm=true",
+   "_id": 1384501,
+   "texto": "FATO RELEVANTE FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS COMERCIAIS DE RESPONSABILIDADE LIMITADA FORTBRASIL CNPJ nº 29.665.263/0001-00 A OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A., inscrita no CNPJ sob o nº 36.113.876/0001-91, na qualidade de administradora (\"Administradora\") e XP VISTA ASSET MANAGEMENT LTDA. inscrita no CNPJ sob o nº 16.789.525/0001-98 na qualidade de gestora (“Gestora”) do FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS COMERCIAIS DE RESPONSABILIDADE LIMITADA FORTBRASIL (\"Fundo\"), nos termos do artigo 64 da parte geral da Resolução CVM nº 175/22 e do item 25.2 do regulamento do Fundo (\"Regulamento\"), informa aos Cotistas e ao mercado em geral o que segue. Em razão do desenquadramento do Índice de Cobertura do Fundo, não sanado no prazo de cura, ficou configurado um Evento de Desalavancagem 1 e Evento de Desalavancagem 2, nos termos do item 17.5.3 e 17.5.4 do Regulamento do Fundo. Com isso, o regime de amortização das Cotas passa a ser a Amortização Sequencial a partir da Data de Pagamento de 16 de novembro de 2026, conforme o item 17.5.2 do Regulamento. Permanecemos à disposição para prestar quaisquer esclarecimentos adicionais que se façam necessários. Rio de Janeiro, 13 de novembro de 2026. OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. na qualidade de Administradora do Fundo XP VISTA ASSET MANAGEMENT LTDA. na qualidade de Gestora do Fundo",
+   "visto_em": "2026-11-14"
   },
   {
-   "empresa": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - BRASILFACTORS CRÉDITO CORPORATIVO",
+   "empresa": "RESQ III FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO-PADRON",
    "cnpj": "",
-   "data": "2026-11-12",
+   "data": "2026-11-13",
    "assunto": "",
    "categoria": "Fato Relevante",
    "pregao": "",
-   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1380102&cvm=true",
-   "_id": 1380102,
-   "texto": "FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - BRASILFACTORS CRÉDITO CORPORATIVO CNPJ/ME nº 12.778.706/0001-68 FATO RELEVANTE Variação da Rentabilidade da Cota de Subclasse Subordinada O BANCO FINAXIS S.A., instituição financeira devidamente autorizada pela CVM para o exercício profissional de administração de carteiras de valores mobiliários, na categoria de administrador fiduciário, nos termos do Ato Declaratório CVM nº 11.821, de 18 de julho de 2011, com sede na cidade de Curitiba, Estado do Paraná, na Rua Pasteur, nº 463, 11º andar, Água Verde, CEP 80250- 104, inscrita no CNPJ sob o nº 11.758.741/0001-52, na qualidade de instituição administradora (\"Administradora\"), e a PETRA CAPITAL GESTÃO DE INVESTIMENTOS LTDA. , sociedade devidamente autorizada pela CVM para o exercício profissional de administração de carteiras de valores mobiliários, na categoria de gestor de recursos, nos termos do Ato Declaratório CVM nº 9.664, de 28 de dezembro de 2007, com sede na cidade de São Paulo, Estado de São Paulo, na Avenida Paulista, nº 1.842, Torre Norte, térreo, loja 08, Sala Petra, Bela Vista, CEP 01310 -200, inscrita no CNPJ sob o nº 09.204.714/0001-96, na qualidade de instituição gestora (“Gestora”), em conjunto, na qualidade de Prestadores de Serviços Essenciais do FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS - BRASILFACTORS CRÉDITO CORPORATIVO, inscrito no CNPJ/MF sob o nº 12.778.706/0001-68 (“Fundo”), em cumprimento ao disposto na Resolução CVM 175, de 23 de dezembro de 2022, conforme alterada, e demais disposições legais e regulamentares aplicáveis, vem comunicar aos cotistas e ao mercado em geral que as Cotas Subordinadas do Fundo apresentaram uma alta de 225,73% em sua rentabilidade diária, observando a carteira do dia 10 de novembro de 2026, em comparação com a carteira do dia 09 de novembro de 2026, decorrente de reversão parcial da Provisão para Devedores Duvidosos (“PDD”). Adicionalmente, informamos que a Administradora e a Gestora do Fundo se encontram à disposição para prestar os esclarecimentos adicionais. São Paulo, 12 de novembro de 2026. BANCO FINAXIS S.A. PETRA CAPITAL GESTÃO DE INVESTIMENTOS LTDA.",
-   "visto_em": "2026-11-13"
+   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1384288&cvm=true",
+   "_id": 1384288,
+   "texto": "qitech.com.br Av. Rebouças, nº 2942 – 7° ao12º andar Pinheiros - CEP 05402-500 São Paulo - SP RESQ III FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS CNPJ Nº 68.114.496/0001-68 (“FUNDO”) FATO RELEVANTE A QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A., instituição financeira com sede na Av. Rebouças, nº 2942 – 7° ao12º andar, Pinheiros, cidade e Estado de São Paulo, inscrita no CNPJ sob o nº 62.285.390/0001-40, devidamente autorizada pela Comissão de Valores Mobiliários (“CVM”) à prestação dos serviços de administração de carteira de títulos e valores mobiliários, nos termos do Ato Declaratório CVM nº 1.498, expedido em 28 de agosto de 1990, na qualidade de administradora fiduciária do FUNDO (“Administradora”), vem, por meio deste, e nos termos do artigo 64, § 3º, IX, da Resolução CVM nº 175 de 23 de dezembro de 2022 (“Res. CVM 175/22”), comunicar aos cotistas e ao mercado em geral o quanto segue: EMISSÃO DE COTAS DE CLASSE FECHADA DO FUNDO Nos termos Instrumento Particular de Emissão de Cotas do Fundo (“IPA”), celebrado em 12 de novembro de 2026, considerando que, de acordo com o item 41 do Regulamento, ficou aprovada a 2ª (segunda) emissão de cotas da subclasse Subordinada Júnior do FUNDO. Informações adicionais poderão ser obtidas junto à Administradora, pelo e-mail: administracao.fundos@qitech.com.br. São Paulo, 13 de novembro de 2026. QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. Administradora",
+   "visto_em": "2026-11-14"
+  },
+  {
+   "empresa": "CREDSHOW FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS VAREJO",
+   "cnpj": "",
+   "data": "2026-11-13",
+   "assunto": "",
+   "categoria": "Fato Relevante",
+   "pregao": "",
+   "link": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1384284&cvm=true",
+   "_id": 1384284,
+   "texto": "qitech.com.br Av. Rebouças, nº 2942 – 7° ao 12º andar Pinheiros - CEP 05402-500 São Paulo - SP CREDSHOW FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO- PADRONIZADOS VAREJO CNPJ nº 23.273.905/0001-30 (“FUNDO”) FATO RELEVANTE A QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A., instituição financeira com sede na Av. Rebouças, nº 2942 – 7° ao12º andar, Pinheiros, cidade e Estado de São Paulo, inscrita no CNPJ sob o nº 62.285.390/0001-40, devidamente autorizada pela Comissão de Valores Mobiliários (“CVM”) à prestação dos serviços de administração de carteira de títulos e valores mobiliários, nos termos do Ato Declaratório CVM nº 1.498, expedido em 28 de agosto de 1990, na qualidade de administradora fiduciária do FUNDO (“Administradora”), vem, por meio deste, e nos termos do artigo 64, § 3º, IX, da Resolução CVM nº 175 de 23 de dezembro de 2022 (“Res. CVM 175/22”), comunicar aos cotistas e ao mercado em geral o quanto segue: EMISSÃO DE COTAS DE CLASSE FECHADA DO FUNDO Nos termos da Assembleia Geral Extraordinária de Cotistas (“AGC”) do FUNDO, realizada no dia 09 de novembro de 2026, os cotistas aprovaram a 4ª (quarta) emissão de cotas da subclasse Subordinada Júnior do FUNDO. Informações adicionais poderão ser obtidas junto à Administradora, pelo e-mail: administracao.fundos@qitech.com.br. São Paulo, 13 de novembro de 2026. QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. Administradora",
+   "visto_em": "2026-11-14"
   }
  ]
 }
