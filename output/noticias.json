@@ -4,37 +4,345 @@
  "dados": [
   {
    "fonte": "Suno Noticias",
-   "titulo": "PIB brasileiro encolhe após 20 trimestres de alta; o que aconteceu?",
-   "url": "https://www.suno.com.br/noticias/slug-pib-brasil-cai-terceiro-trimestre-fgv/",
-   "publicado": "2026-11-19T17:35:00+00:00",
-   "tickers": [],
-   "resumo": "PIB do BrasilDepois de cinco anos consecutivos de crescimento trimestral, a economia brasileira perdeu o fôlego. O PIB brasileiro recuou 0,2% no terceiro trimestre de 2026, segundo estimativa divulgada nesta quarta-feira (18) pela Fundação Getulio Vargas (FGV). O resultado interr"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "BNDES reduz exposição à Petrobras (PETR4) para 20% do patrimônio líquido do banco",
-   "url": "https://www.moneytimes.com.br/bndes-reduz-exposicao-a-petrobras-petr4-para-20-do-patrimonio-liquido-do-banco-pads/",
-   "publicado": "2026-11-19T17:30:52+00:00",
+   "titulo": "HGLG11 fecha compra de imóvel em Itupeva, mas aluguel só vem em 2027",
+   "url": "https://www.suno.com.br/noticias/hglg11-compra-fatia-imovel-itupeva-aluguel-2027/",
+   "publicado": "2026-11-20T00:13:45+00:00",
    "tickers": [
-    "PETR4"
+    "HGLG11"
    ],
-   "resumo": "A venda de parte das ações da Petrobras pelo Banco Nacional de Desenvolvimento Econômico e Social (BNDES) desde maio de 2026 reduziu a exposição da instituição na petroleira para 20% de seu Patrimônio Líquido (PL), enquadrando a carteira no teto regulatório de 25% exigido pelo Ba"
+   "resumo": "HGLG11 fecha compra de imóvel em Itupeva, mas aluguel só vem em 2027O fundo imobiliário HGLG11 (Pátria Log) concluiu a compra de uma participação de 5,3317% em um imóvel situado em Itupeva, no interior de São Paulo, por R$ 31,29 milhões. O pagamento foi feito integralmente, mas a"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "P&G vai cortar até 30% dos empregos em fábricas e logística até 2030",
+   "url": "https://investnews.com.br/negocios/pg-vai-cortar-ate-30-dos-empregos-ate-2030/",
+   "publicado": "2026-11-19T23:16:09+00:00",
+   "tickers": [],
+   "resumo": "Dona da Gillette quer poupar US$ 10 bilhões; fábricas têm 52 mil funcionários em 35 países"
   },
   {
    "fonte": "Money Times",
-   "titulo": "Bolsas da Europa fecham em queda com pressão geopolítica",
-   "url": "https://www.moneytimes.com.br/bolsas-da-europa-caem-com-alta-do-dolar-e-de-olho-no-fed-davs-2/",
-   "publicado": "2026-11-19T17:30:34+00:00",
-   "tickers": [],
-   "resumo": "As bolsas da Europa fecharam o pregão desta quinta-feira (19) no vermelho, na esteira da piora de humor em Nova York e pressionadas pelos riscos geopolíticos. Os mercados voltaram a colocar na conta a possibilidade de novos ataques dos EUA contra o Irã — o que sustenta os preços "
+   "titulo": "72 vezes, mas com juros: GPA (PCAR3) parcela dívida trabalhista milionária",
+   "url": "https://www.moneytimes.com.br/72-vezes-mas-com-juros-gpa-pcar3-parcela-divida-trabalhista-milionaria/",
+   "publicado": "2026-11-19T22:38:20+00:00",
+   "tickers": [
+    "PCAR3"
+   ],
+   "resumo": "O Grupo Pão de Açúcar (PCAR3), que está em recuperação extrajudicial, conseguiu mais um alívio. O Órgão Especial do Tribunal Regional do Trabalho da 2ª Região (TRT-2) aprovou o parcelamento de cerca de R$ 140 milhões que seriam desembolsados até o fim de 2027. Com o novo plano, e"
   },
   {
    "fonte": "Money Times",
-   "titulo": "Apesar da estreia das ações da Anthropic acima do preço do IPO, Nasdaq cai",
-   "url": "https://www.moneytimes.com.br/apesar-da-estreia-das-acoes-da-anthropic-acima-do-preco-do-ipo-nasdaq-cai-mlem/",
-   "publicado": "2026-11-19T17:17:38+00:00",
+   "titulo": "Valorização global do dólar se acentuou após a eleição nos EUA, diz diretor do banco Pine",
+   "url": "https://www.moneytimes.com.br/valorizacao-global-do-dolar-se-acentuou-apos-a-eleicao-nos-eua-diz-diretor-do-banco-pine-pads/",
+   "publicado": "2026-11-19T22:25:08+00:00",
    "tickers": [],
-   "resumo": "O Nasdaq passou a cair em um pregão volátil nesta quinta-feira (19), quando a Anthropic atingiu US$ 2 trilhões em valor de mercado com suas ações disparando na estreia na bolsa norte-americana, o que lançou uma sombra sobre o apetite dos investidores por ações ligadas à inteligên"
+   "resumo": "O diretor de Pesquisa Econômica do Banco Pine, Cristiano Oliveira, avalia que o movimento de fortalecimento global do dólar iniciado em setembro ainda não terminou, o que pode limitar o fôlego da moeda brasileira ao longo de 2027. &#8220;O DXY pode ganhar um pouco mais de valor, "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Anthropic estreia em Wall Street com alta de 17% e se torna 12ª empresa mais valiosa do mundo",
+   "url": "https://www.moneytimes.com.br/anthropic-estreia-em-wall-street-com-alta-de-17-e-se-torna-12a-empresa-mais-valiosa-do-mundo/",
+   "publicado": "2026-11-19T22:13:55+00:00",
+   "tickers": [],
+   "resumo": "A Anthropic encerrou sua estreia em Wall Street nesta quinta-feira como a 12ª empresa mais valiosa do mundo, com capitalização de mercado de US$ 1,271 trilhão, segundo o ranking do CompaniesMarketCap. As ações da companhia de inteligência artificial (IA) saltaram 17,07%, a US$ 97"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Ibovespa perde 3,53% na semana e dólar dispara; Vale (VALE3) cai pela 8ª vez",
+   "url": "https://www.suno.com.br/noticias/ibovespa-vale-vale3-dolar-fiscal-2/",
+   "publicado": "2026-11-19T22:12:23+00:00",
+   "tickers": [
+    "VALE3"
+   ],
+   "resumo": "Ibovespa perde 3,53% na semana e dólar dispara; Vale (VALE3) cai pela 8ª vezO feriado chegou, mas o Ibovespa não deixou muitos motivos para comemorar. Nesta quinta-feira (19), último pregão da semana, o principal índice da B3 caiu 0,69%, aos 166.376,43 pontos, uma perda de 1.161,"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "BDR da Anthropic estreia na B3 com negociação de R$ 460 milhões, o triplo da SpaceX",
+   "url": "https://valorinveste.globo.com/objetivo/de-olho-no-mercado/noticia/2026/11/19/bdr-da-anthropic-estreia-na-b3-com-negociacao-de-r-460-milhoes-o-triplo-da-spacex.ghtml",
+   "publicado": "2026-11-19T22:10:34+00:00",
+   "tickers": [
+    "ANTH34",
+    "MELI34",
+    "ROXO34",
+    "SPCX34",
+    "XPBR31"
+   ],
+   "resumo": "O entusiasmo dos investidores com a inteligência artificial chegou à bolsa brasileira. O BDR da Anthropic (ANTH34), empresa responsável pelo assistente de inteligência artificial Claude, movimentou R$ 460,2 milhões em seu primeiro dia de negociação na B3, nesta quinta-feira (19)."
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "Em “founder mode”, Marciano volta ao comando do Agibank",
+   "url": "https://braziljournal.com/em-founder-mode-marciano-volta-ao-comando-do-agibank",
+   "publicado": "2026-11-19T21:54:00+00:00",
+   "tickers": [],
+   "resumo": "Marciano Testa – que fundou o Agibank aos 23 anos, em 1999 – está voltando ao comando da companhia, num movimento que busca dar mais agilidade às tomadas de decisão e retomar a cultura de disrupção dentro do banco focado em crédito consignado. Marciano já desempenhava um papel es"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "IFIX recua 0,8% e atinge menor patamar em 52 semanas",
+   "url": "https://www.suno.com.br/noticias/ifix-minima-52-semanas-quinta/",
+   "publicado": "2026-11-19T21:51:27+00:00",
+   "tickers": [],
+   "resumo": "IFIX recua 0,8% e atinge menor patamar em 52 semanasO IFIX fechou o pregão desta quinta-feira (19) em 3.485,06 pontos, com queda de 0,8%, no último pregão da semana antes do feriado da Consciência Negra, nesta sexta-feira (20). Durante a sessão, o índice chegou à mínima de 52 sem"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "IPO da Anthropic não conseguiu animar Wall Street, e bolsas de NY fecham em forte queda",
+   "url": "https://www.moneytimes.com.br/ipo-da-anthropic-nao-conseguiu-animar-wall-street-e-bolsas-de-ny-fecham-em-forte-queda-davs/",
+   "publicado": "2026-11-19T21:48:00+00:00",
+   "tickers": [],
+   "resumo": "A gigantesca oferta pública inicial (IPO) da Anthropic não conseguiu reacender o entusiasmo em relação à inteligência artificial (IA) e animar Wall Street. As bolsas de Nova York fecharam a sessão desta quinta-feira (19) em forte queda. Com a aversão ao risco dominando os mercado"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Nem atuação do BC segura o dólar, que já sobe quase R$ 1 desde a eleição; bolsa cai 19%",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/11/19/nem-atuacao-do-bc-segura-o-dolar-que-ja-sobe-quase-r-1-desde-a-eleicao-bolsa-cai-19percent.ghtml",
+   "publicado": "2026-11-19T21:39:26+00:00",
+   "tickers": [
+    "CPFE3",
+    "CPLE3",
+    "CURY3",
+    "EMBJ3",
+    "MULT3",
+    "PETR4",
+    "RDOR3",
+    "SBSP3",
+    "WEGE3"
+   ],
+   "resumo": "O balanço das quatro semanas desde o segundo turno das eleições expõe o tamanho da aversão ao risco que tomou conta do mercado local. De lá para cá, o Ibovespa caiu 19%, enquanto o dólar disparou quase 19% - uma alta de R$ 0,94 no período.\nNa véspera do feriado da Consciência Neg"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Ibovespa perde os 167 mil pontos com incertezas fiscais e políticas do Brasil",
+   "url": "https://www.moneytimes.com.br/ibovespa-19-11-2026-davs/",
+   "publicado": "2026-11-19T21:29:25+00:00",
+   "tickers": [],
+   "resumo": "Em meio ao clima de aversão ao risco, o Ibovespa (IBOV) chegou a cair aos 165 mil pontos, mas conseguiu recuperar parte do fôlego. Ainda assim, o principal índice da B3 fechou o dia em queda de 0,69% aos 166.376,43 pontos. Os investidores dividiram as atenções entre as incertezas"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "JBS (JBSS32) conclui joint venture em Omã e avança em hub multiproteína no Oriente Médio",
+   "url": "https://www.moneytimes.com.br/jbs-jbss32-conclui-joint-venture-em-oma-e-avanca-em-hub-multiproteina-no-oriente-medio-pads/",
+   "publicado": "2026-11-19T21:15:16+00:00",
+   "tickers": [
+    "JBSS32"
+   ],
+   "resumo": "A JBS (JBSS32) informou nesta quinta-feira (19) a conclusão da transação para a criação de uma joint venture com a Oman Food Investment Holding Company (OFC), reforçando sua estratégia de expansão internacional no Oriente Médio. Com o fechamento da operação, anunciado inicialment"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "AXIA3: Axia Energia divulga rating e cronograma da 15ª emissão",
+   "url": "https://www.suno.com.br/noticias/axia3-axia-energia-rating-cronograma-debentures-191126/",
+   "publicado": "2026-11-19T21:00:18+00:00",
+   "tickers": [
+    "AXIA3"
+   ],
+   "resumo": "AXIA3: Axia Energia divulga rating e cronograma da 15ª emissãoA Axia Energia S.A. (AXIA3), em conjunto com o Banco Santander (Brasil) S.A., coordenador líder da operação, comunicou ao mercado na quarta-feira (18)&#160; a divulgação do relatório de classificação de risco da sua 15"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Demanda da China e dos EUA tira o gado do pasto e leva ao confinamento",
+   "url": "https://investnews.com.br/economia/demanda-da-china-eua-gado-confinamento/",
+   "publicado": "2026-11-19T20:58:32+00:00",
+   "tickers": [],
+   "resumo": "Gado engordado com grãos cresce 25% em dois anos na Austrália; China e EUA puxam a demanda"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "BTAL11 paga R$ 1,00 por cota em novo provento mensal",
+   "url": "https://www.suno.com.br/noticias/dividendos-do-btal11-valor-data-pagamento/",
+   "publicado": "2026-11-19T20:34:56+00:00",
+   "tickers": [
+    "BTAL11"
+   ],
+   "resumo": "BTAL11 paga R$ 1,00 por cota em novo provento mensalO fundo BTG Pactual Agro Logística anunciou, nesta quinta-feira (19), o pagamento de dividendos do BTAL11 no valor de R$ 1,00 por cota, com crédito previsto para 27 de novembro. Têm direito ao provento os investidores que possuí"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Petróleo fecha perto da estabilidade com aumento das tensões entre EUA e Irã",
+   "url": "https://www.moneytimes.com.br/petroleo-fecha-perto-da-estabilidade-com-aumento-das-tensoes-entre-eua-e-ira-davs/",
+   "publicado": "2026-11-19T20:33:31+00:00",
+   "tickers": [],
+   "resumo": "Os contratos futuros de petróleo fecharam perto da estabilidade nesta quinta-feira (19), em meio às preocupações com possíveis novos ataques dos EUA ao Irã e retaliações contra instalações energéticas do Golfo Pérsico. No entanto, as perspectivas de excesso de oferta global ajuda"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Trump comprou até US$ 265.000 em ações da Nvidia em setembro",
+   "url": "https://www.moneytimes.com.br/trump-comprou-ate-us-265-000-em-acoes-da-nvidia-em-setembro-pads/",
+   "publicado": "2026-11-19T20:32:22+00:00",
+   "tickers": [],
+   "resumo": "O presidente dos Estados Unidos, Donald Trump, comprou até US$ 265.000 em ações da Nvidia e vendeu até US$ 15.000 dessas ações em setembro, semanas antes de surgirem notícias sobre os laços do presidente-executivo Jensen Huang com uma suposta espiã chinesa, de acordo com a mais r"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Copel (CPLE6) aprova Capex de R$ 21,1 bilhões para 2027-2030",
+   "url": "https://www.suno.com.br/noticias/cple6-copel-aprova-capex-21-bilhoes-191126/",
+   "publicado": "2026-11-19T20:30:33+00:00",
+   "tickers": [
+    "CPLE6"
+   ],
+   "resumo": "Copel (CPLE6) aprova Capex de R$ 21,1 bilhões para 2027-2030A Copel (CPLE6) informou que seu Conselho de Administração aprovou, em 18 de novembro , um programa de investimentos de R$ 21,1 bilhões para o período de 2027 a 2030. O anúncio foi feito em fato relevante divulgado ao me"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "HAPV3: Hapvida responde à CVM sobre venda de ativos",
+   "url": "https://www.suno.com.br/noticias/hapv3-hapvida-nega-decisao-venda-ativos-191126/",
+   "publicado": "2026-11-19T20:27:49+00:00",
+   "tickers": [
+    "HAPV3"
+   ],
+   "resumo": "HAPV3: Hapvida responde à CVM sobre venda de ativosA Hapvida Participações e Investimentos (HAPV3) divulgou comunicado ao mercado nesta quinta-feira, 19 de novembro de 2026, em resposta ao Ofício n.º 271/2026/CVM/SEP/GEA-2, enviado pela Comissão de Valores Mobiliários. O ofício s"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Cashback da reforma tributária: como funciona e quem recebe a partir de 2027",
+   "url": "https://investnews.com.br/economia/cashback-da-reforma-tributaria-entenda/",
+   "publicado": "2026-11-19T20:23:28+00:00",
+   "tickers": [],
+   "resumo": "Devolução de parte da CBS começa em janeiro e alcança 27,7 milhões de famílias"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Queda na cota do FIDC nem sempre é prejuízo: Saiba como funciona a liquidação por amortização",
+   "url": "https://www.moneytimes.com.br/queda-na-cota-do-fidc-nem-sempre-e-prejuizo-saiba-como-funciona-a-liquidacao-por-amortizacao-lbrdis632/",
+   "publicado": "2026-11-19T20:23:00+00:00",
+   "tickers": [],
+   "resumo": "Entenda por que a liquidação por amortização pode derrubar o preço das cotas sem representar, necessariamente, prejuízo ao investidor"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Dólar à vista supera os R$ 5,93 e renova máxima em mais de um ano",
+   "url": "https://www.moneytimes.com.br/dolar-a-vista-supera-os-r-593-e-renova-maxima-em-mais-de-um-ano-davs/",
+   "publicado": "2026-11-19T20:19:03+00:00",
+   "tickers": [],
+   "resumo": "O dólar à vista estendeu os ganhos da véspera e subiu forte durante quase toda a sessão desta quarta-feira (18). A moeda encerrou o dia em alta de 1,16%, a R$ 5,9350, o maior patamar de fechamento em 19 meses. A valorização da divisa ocorre em meio aos ruídos políticos, após o pr"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "NOVO11: ETF reúne Nubank, Itaú, Petrobras e Mercado Livre em uma só cota",
+   "url": "https://www.suno.com.br/noticias/novo11-investe-nubank-itau/",
+   "publicado": "2026-11-19T20:18:54+00:00",
+   "tickers": [
+    "NOVO11"
+   ],
+   "resumo": "NOVO11: ETF reúne Nubank, Itaú, Petrobras e Mercado Livre em uma só cotaO fundo NOVO11, ETF que a Buena Vista Capital lançou na quinta-feira (19), reúne em uma única cota ações de 35 empresas negociadas nos Estados Unidos com receita relevante no Brasil. Os maiores pesos da carte"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Hora extra fica mais cara com a escala 5×2. Entenda como será o cálculo",
+   "url": "https://investnews.com.br/economia/hora-extra-mais-cara-com-a-escala-5x2/",
+   "publicado": "2026-11-19T19:57:59+00:00",
+   "tickers": [],
+   "resumo": "Decreto assinado nesta quinta (19) fixa divisores que farão o valor da hora subir até 10% - e a hora extra acompanha"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Ouro cai ao menor valor em mais de um ano, em meio à demanda por liquidez após o IPO da Anthropic",
+   "url": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/11/19/ouro-cai-ao-menor-valor-em-mais-de-um-ano-em-meio-a-demanda-por-liquidez-apos-o-ipo-da-anthropic.ghtml",
+   "publicado": "2026-11-19T19:48:04+00:00",
+   "tickers": [],
+   "resumo": "Os contratos futuros de ouro caíram pela quarta sessão consecutiva e encerraram na menor cotação desde setembro do ano passado. A perspectiva de uma política monetária mais restritiva pelo Federal Reserve (Fed) e a força do dólar continuam a pesar sobre o ativo. Além disso, o des"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "GTA VI chega às lojas e ações da Take-Two recuam; entenda o movimento",
+   "url": "https://investnews.com.br/investimentos/gta-vi-acoes-take-two-recuam/",
+   "publicado": "2026-11-19T19:42:14+00:00",
+   "tickers": [],
+   "resumo": "Embora  GTA VI tenha potencial para registrar um dos maiores lançamentos da indústria, as oscilações mostram que o desempenho na bolsa depende mais do que a expectativas"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Copel (CPLE3) vê cortes de 42% e freia expansão eólica",
+   "url": "https://www.suno.com.br/noticias/copel-cple3-cortes-geracao-energia/",
+   "publicado": "2026-11-19T19:40:15+00:00",
+   "tickers": [
+    "CPLE3"
+   ],
+   "resumo": "Copel (CPLE3) vê cortes de 42% e freia expansão eólicaA energia renovável ganhou espaço no Brasil, mas nem toda a eletricidade disponível consegue chegar ao consumidor. Na Copel (CPLE3), as restrições de geração eólica atingiram 42,3% no terceiro trimestre de 2026, um problema qu"
+  },
+  {
+   "fonte": "Suno Noticias",
+   "titulo": "Quanto rende R$ 100 por mês em fundos imobiliários (FIIs)?",
+   "url": "https://www.suno.com.br/noticias/fundos-imobiliarios-fiis-rendimento-10-anos/",
+   "publicado": "2026-11-19T19:36:15+00:00",
+   "tickers": [],
+   "resumo": "Quanto rende R$ 100 por mês em fundos imobiliários (FIIs)?Uma simulação mostra quanto um investidor acumularia aplicando R$ 100 por mês em fundos imobiliários (FIIs) ao longo de 10 anos, reinvestindo integralmente os dividendos recebidos. Com rendimento hipotético de 9% ao ano, o"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Receita deve poupar quem errar de boa-fé na reforma tributária. Veja como demonstrar isso na prática",
+   "url": "https://investnews.com.br/negocios/reforma-tributaria-boa-fe-como-provar/",
+   "publicado": "2026-11-19T19:28:10+00:00",
+   "tickers": [],
+   "resumo": "Regras ainda devem ser publicada pelo Fisco, mas advogados dão orientações sobre como se proteger a tempo"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Walmart e outras varejistas registram corrida por estoques de água e arroz diante do medo do ‘fim do mundo’",
+   "url": "https://investnews.com.br/negocios/walmart-e-outras-varejistas-registram-corrida-por-estoques-de-agua-e-arroz-diante-do-medo-do-fim-do-mundo/",
+   "publicado": "2026-11-19T19:22:53+00:00",
+   "tickers": [],
+   "resumo": "Consumidores nos Estados Unidos estão se preparando como se o apocalipse estivesse próximo, segundo as empresas"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "BB lança cartão Altus World Legend Mastercard com até 7 pontos por dólar",
+   "url": "https://valorinveste.globo.com/produtos/servicos-financeiros/noticia/2026/11/19/bb-cartao-altus-world-legend-mastercard-com-ate-7-pontos-por-dolar.ghtml",
+   "publicado": "2026-11-19T18:56:48+00:00",
+   "tickers": [],
+   "resumo": "O Banco do Brasil anunciou nesta quinta-feira (19) a ampliação de seu portfólio de cartões de crédito voltado aos clientes de alta renda do segmento BB Private com o lançamento do Altus World Legend Mastercard.\nO produto coloca o banco estatal na disputa pelo topo da pirâmide da "
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Brasil precisa oferecer incentivos a mineradoras de terras raras em vez fazer exigências, diz CEO global",
+   "url": "https://investnews.com.br/negocios/brasil-precisa-oferecer-incentivos-a-mineradoras-de-terras-raras-diz-ceo-da-aclara/",
+   "publicado": "2026-11-19T18:54:44+00:00",
+   "tickers": [],
+   "resumo": "Mineradoras como a Aclara aguardam mais clareza sobre como funcionará o novo marco brasileiro para minerais críticos"
+  },
+  {
+   "fonte": "Brazil Journal",
+   "titulo": "OPINIÃO. Quem atende o cliente no sexto dia?",
+   "url": "https://braziljournal.com/opiniao-quem-atende-o-cliente-no-sexto-dia",
+   "publicado": "2026-11-19T18:46:00+00:00",
+   "tickers": [],
+   "resumo": "Daqui a quatro semanas, numa quarta-feira, 16 de dezembro, cerca de 700 mil comerciários de São Paulo e Porto Alegre começam a trabalhar cinco dias e folgar dois, por acordos que os sindicatos fecharam antes mesmo de a regra nacional apertar. A troca chega justamente no mês em qu"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Até quando a primeira parcela do 13º salário deve ser paga?",
+   "url": "https://investnews.com.br/financas/primeira-parcela-13o-salario/",
+   "publicado": "2026-11-19T18:31:35+00:00",
+   "tickers": [],
+   "resumo": "Segunda parcela do 13º salário deverá ser depositada até 18 de dezembro, quando ocorre os descontos de INSS e Imposto de Renda"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Escalada dos juros: Tesouro Direto retoma negociações e Prefixado 2032 vai a 15,6%",
+   "url": "https://investnews.com.br/investimentos/tesouro-direto-retoma-juros-prefixados-disparam/",
+   "publicado": "2026-11-19T18:29:45+00:00",
+   "tickers": [],
+   "resumo": "Em meio ao estresse do mercado, plataforma do Tesouro ficou suspensa por cerca de três horas nesta tarde"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Copel (CPLE3) aprova o pagamento de R$ 871 milhões em juros sobre capital próprio",
+   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/11/19/copel-cple3-aprova-o-pagamento-de-r-871-milhoes-em-juros-sobre-capital-proprio.ghtml",
+   "publicado": "2026-11-19T18:15:10+00:00",
+   "tickers": [
+    "CPLE3"
+   ],
+   "resumo": "A Companhia Paranaense de Energia (Copel) aprovou o pagamento de R$ 871 milhões em juros sobre capital próprio.\n\nA primeira parcela, de R$ 500 milhões, ou R$ 0,16 por ação (CPLE3), será paga aos investidores no próximo dia 23 de dezembro.\n\nUma segunda parcela, de R$ 371 milhões, "
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Fortunas dos fundadores da Anthropic chegam a US$ 171 bilhões após IPO",
+   "url": "https://investnews.com.br/negocios/fortunas-dos-fundadores-da-anthropic-chegam-a-us-171-bilhoes-apos-ipo/",
+   "publicado": "2026-11-19T18:12:58+00:00",
+   "tickers": [],
+   "resumo": "O IPO recorde da Anthropic elevou a fortuna combinada de seus sete cofundadores para US$ 171 bilhões, depois que as ações da empresa de inteligência artificial dispararam após sua estreia na bolsa. As ações, precificadas a US$ 83 cada, eram negociadas a US$ 100,74 às 12h30 em Nov"
   },
   {
    "fonte": "InvestNews",
@@ -45,76 +353,12 @@
    "resumo": "IPO levantou US$ 107,3 bilhões e papéis começaram a ser negociados a US$ 111,50 cada nesta quinta-feira em Nova York"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Anthropic estreia na Nasdaq; ações da companhia disparam 21%",
-   "url": "https://www.moneytimes.com.br/anthropic-estreia-na-nasdaq-acoes-da-companhia-disparam-30/",
-   "publicado": "2026-11-19T17:03:14+00:00",
-   "tickers": [
-    "ANTH34"
-   ],
-   "resumo": "A tão aguardada oferta pública inicial (IPO, em inglês) da Anthropic, criadora do Claude, oficialmente aconteceu nesta quinta-feira (19). Sob o código ANT na Nasdaq e pelo BDR ANTH34 na B3, a oferta da companhia foi precificada em US$ 83 por ação. Com a abertura do mercado norte-"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "GTA 6 custa mais caro em Israel do que no Brasil; veja onde o jogo é mais barato",
-   "url": "https://www.moneytimes.com.br/gta-6-custa-mais-caro-em-israel-do-que-no-brasil-veja-onde-o-jogo-e-mais-barato-sama/",
-   "publicado": "2026-11-19T16:40:00+00:00",
+   "fonte": "InvestNews",
+   "titulo": "Trump chama Venezuela de ‘aquisição’ e celebra oferta de energia dos Estados Unidos",
+   "url": "https://investnews.com.br/economia/trump-chama-venezuela-de-aquisicao-e-celebra-oferta-de-energia-dos-estados-unidos/",
+   "publicado": "2026-11-19T15:10:50+00:00",
    "tickers": [],
-   "resumo": "Veja quanto custa o GTA 6 pelo mundo"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Dólar nas alturas: Banco Central intervém em leilão de US$ 1 bilhão",
-   "url": "https://www.moneytimes.com.br/dolar-nas-alturas-banco-central-intervem-em-leilao-de-us-1-bilhao/",
-   "publicado": "2026-11-19T16:04:46+00:00",
-   "tickers": [],
-   "resumo": "O Banco Central vendeu US$ 1 bilhão em leilão à vista realizado no início da tarde desta quinta-feira, conforme comunicado publicado pela autarquia. A taxa de corte do leilão foi de 5,860000 e foram aceitas cinco propostas. As propostas do leilão, convocado durante momento de pre"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Walmart (WALM34) supera estimativas de resultados e eleva projeções; ações recuam",
-   "url": "https://www.suno.com.br/noticias/walmart/",
-   "publicado": "2026-11-19T15:58:43+00:00",
-   "tickers": [
-    "WALM34"
-   ],
-   "resumo": "Walmart (WALM34) supera estimativas de resultados e eleva projeções; ações recuamO Walmart (WALM34) divulgou nesta quinta-feira (19) os números do terceiro trimestre fiscal, encerrado em 31 de outubro. No período, a gigante do varejo norte-americano apresentou receita e lucro aju"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Alfama Foods acelera internacionalização com construção de fábrica em Portugal",
-   "url": "https://www.moneytimes.com.br/alfama-foods-acelera-internacionalizacao-com-construcao-de-fabrica-em-portugal-pads/",
-   "publicado": "2026-11-19T15:58:41+00:00",
-   "tickers": [],
-   "resumo": "A Alfama Foods investirá 13,57 milhões de euros (aproximadamente R$ 87,3 milhões) na implantação de sua primeira fábrica fora do Brasil, em Portugal. O projeto recebeu incentivo não reembolsável de 6,06 milhões de euros (R$ 39 milhões) do Fundo Europeu de Desenvolvimento Regional"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Rumo aos R$ 6? Dólar rompe os R$ 5,90 hoje; entenda o que impulsiona a moeda",
-   "url": "https://www.moneytimes.com.br/rumo-aos-r-6-dolar-rompe-os-r-590-hoje-entenda-o-que-impulsiona-a-moeda-davs/",
-   "publicado": "2026-11-19T15:57:24+00:00",
-   "tickers": [],
-   "resumo": "A valorização do dólar frente ao real ganhou fôlego nesta semana, com a divisa já registrando alta de mais de 3%"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Tesouro Direto hoje: prefixado 2029 volta a pagar mais de 15% ao ano com pressão fiscal e juros dos EUA",
-   "url": "https://www.moneytimes.com.br/tesouro-direto-hoje-prefixado-2029-volta-a-pagar-mais-de-15-ao-ano-com-pressao-fiscal-e-juros-dos-eua-mlim/",
-   "publicado": "2026-11-19T15:40:27+00:00",
-   "tickers": [],
-   "resumo": "As taxas dos papéis do Tesouro Direto apresentavam alta generalizada nesta quinta-feira (19). O Tesouro Prefixado 2029 voltou a oferecer rendimento acima de 15% ao ano, em mais um capítulo da escalada dos juros no mercado brasileiro. Na abertura dos negócios nesta véspera de feri"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Raízen (RAIZ55), Braskem (BRKM5) e Casas Bahia (BHIA3) concentram quase 90% das dívidas em recuperações de 2026; passivo soma R$ 153,9 bilhões",
-   "url": "https://www.moneytimes.com.br/raizen-braskem-e-casas-bahia-concentram-quase-90-das-dividas-em-recuperacoes-de-2026-mlim/",
-   "publicado": "2026-11-19T15:29:41+00:00",
-   "tickers": [
-    "BHIA3",
-    "BRKM5",
-    "RAIZ55"
-   ],
-   "resumo": "Raízen (RAIZ55), Braskem (BRKM5) e Casas Bahia (BHIA3) respondem juntas por R$ 134,7 bilhões em dívidas incluídas em processos de recuperação judicial e extrajudicial registrados em 2026. O valor representa 87,5% dos R$ 153,9 bilhões mapeados em um levantamento da MA7 Capital que"
+   "resumo": "Trump inclui petróleo da Venezuela na conta energética dos EUA e diz que país é uma 'aquisição' americana"
   },
   {
    "fonte": "Valor Investe",
@@ -123,14 +367,6 @@
    "publicado": "2026-11-19T15:10:01+00:00",
    "tickers": [],
    "resumo": "O presidente Luiz Inácio Lula da Silva afirmou, nesta quinta-feira (19), que deseja e tem experiência com controle fiscal, mas reclamou que “tem gente” quer “ganhar dinheiro com especulação” sobre sua gestão. Ele voltou a chamar de “boato” qualquer redução de investimento em proj"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Anthropic estreia na Nasdaq após IPO recorde de US$ 81,3 bilhões",
-   "url": "https://www.suno.com.br/noticias/ipo-anthropic-nasdaq-recorde-81-anth34/",
-   "publicado": "2026-11-19T14:59:15+00:00",
-   "tickers": [],
-   "resumo": "Anthropic estreia na Nasdaq após IPO recorde de US$ 81,3 bilhõesA Anthropic, criadora do Claude, estreia nesta quinta-feira (19) na Nasdaq, bolsa norte-americana conhecida por reunir gigantes do setor de tecnologia. Os papéis serão negociados sob o código “ANT”. A chegada ao merc"
   },
   {
    "fonte": "Brazil Journal",
@@ -149,22 +385,12 @@
    "resumo": "Fabricante japonesa de cigarros perdeu o controle de sete subsidiárias na Rússia após decisão de Putin"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "Alibaba (BABA34) triplica lucro no 2º trimestre fiscal com melhora da rentabilidade em IA",
-   "url": "https://www.suno.com.br/noticias/alibaba-baba34-triplica-lucro-no-2o-trimestre-fiscal-com-melhora-da-rentabilidade-em-ia/",
-   "publicado": "2026-11-19T14:25:00+00:00",
-   "tickers": [
-    "BABA34"
-   ],
-   "resumo": "Alibaba - Foto: iStockO chinês Alibaba Group (BABA34) registrou um salto no lucro do segundo trimestre fiscal, impulsionado por uma melhora na rentabilidade de suas operações de inteligência artificial (IA) e de comércio eletrônico, segundo balanço publicado nesta quinta-feira. O"
-  },
-  {
    "fonte": "InvestNews",
-   "titulo": "Dólar supera R$ 5,92 e BC intervém no câmbio, mas não consegue conter alta da moeda americana",
+   "titulo": "Dólar fecha em R$ 5,93 mesmo após intervenção do BC, com risco fiscal ainda no centro das atenções",
    "url": "https://investnews.com.br/investimentos/dolar-supera-a-marca-r-590/",
    "publicado": "2026-11-19T14:11:58+00:00",
    "tickers": [],
-   "resumo": "Moeda americana já acumula alta de mais de 17% desde o segundo turno em 25 de outubro"
+   "resumo": "Moeda americana já acumula alta de mais de 19% desde o segundo turno em 25 de outubro"
   },
   {
    "fonte": "Brazil Journal",
@@ -173,16 +399,6 @@
    "publicado": "2026-11-19T14:05:00+00:00",
    "tickers": [],
    "resumo": "Os preocupantes apagões tecnológicos dos últimos dias, que afetaram desde a Microsoft até a National Security Agency dos EUA (NSA), reforçaram a tese de que o mundo nunca precisou tanto de cybersecurity como agora – mas não é de hoje que as ações do setor estão subindo. Os papéis"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "FGAA11: Fiagro recebe R$ 24,77 milhões em resgate antecipado de CRA",
-   "url": "https://www.suno.com.br/noticias/fiagro-fgaa11-resgate-cra-grupo-abba/",
-   "publicado": "2026-11-19T14:00:19+00:00",
-   "tickers": [
-    "FGAA11"
-   ],
-   "resumo": "FGAA11: Fiagro recebe R$ 24,77 milhões em resgate antecipado de CRAO Fiagro FGAA11 recebeu R$ 24,77 milhões com o resgate antecipado integral de Certificados de Recebíveis do Agronegócio ligados ao Grupo ABBA, liquidado em 17 de novembro de 2026, operação que rendeu 18,99% ao ano"
   },
   {
    "fonte": "InvestNews",
@@ -201,34 +417,6 @@
    "resumo": "Analistas enxergam potencial de ganho de até 87% para a ação em 12 meses"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "IBBP11 dispara 133% no lucro e mantém vacância mínima",
-   "url": "https://www.suno.com.br/noticias/ibbp11-lucro-outubro-vacancia-baixa/",
-   "publicado": "2026-11-19T13:30:20+00:00",
-   "tickers": [
-    "IBBP11"
-   ],
-   "resumo": "IBBP11 dispara 133% no lucro e mantém vacância mínimaO fundo imobiliário IBBP11 reportou lucro líquido de R$ 20,01 milhões em outubro de 2026, alta de 133% frente aos R$ 8,581 milhões de setembro, enquanto manteve vacância de apenas 1,2% em sua carteira industrial e logística, co"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "B3 (B3SA3) fecha na sexta (20): o que para no feriado?",
-   "url": "https://www.suno.com.br/noticias/b3-feriado-20-novembro-2026-funcionamento-bolsa/",
-   "publicado": "2026-11-19T13:13:44+00:00",
-   "tickers": [],
-   "resumo": "B3 (B3SA3) fecha na sexta (20): o que para no feriado?Quem pretende comprar ou vender ações antes do fim de semana prolongado precisa ficar atento ao calendário. A B3 (B3SA3) suspenderá suas negociações nesta sexta-feira (20), em razão do Dia Nacional de Zumbi e da Consciência Ne"
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "BTLG11 capta R$ 807 mi em 17ª emissão de cotas na B3",
-   "url": "https://www.suno.com.br/noticias/btlg11-capta-807-milhoes-emissao-cotas/",
-   "publicado": "2026-11-19T13:00:18+00:00",
-   "tickers": [
-    "BTLG11"
-   ],
-   "resumo": "BTLG11 capta R$ 807 mi em 17ª emissão de cotas na B3O fundo imobiliário BTLG11 encerrou nesta terça-feira (17) sua 17ª emissão de cotas, captando um volume bruto de R$ 807.866.175,41 por meio da distribuição de 7.572.089 novas cotas, ao preço unitário de R$ 106,69, sob o rito de "
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Trump diz que EUA vão ‘ver o que acontece’ na guerra com o Irã após 1º de janeiro",
    "url": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/11/19/trump-diz-que-eua-vo-ver-o-que-acontece-na-guerra-com-o-ir-apos-1-de-janeiro.ghtml",
@@ -238,29 +426,19 @@
   },
   {
    "fonte": "Valor Investe",
-   "titulo": "Tesouro Direto trava negociações após disparada nas taxas com fala de Lula",
+   "titulo": "Mesmo com pausa nos negócios, taxas do Tesouro Direto fecham em forte alta",
    "url": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/11/19/tesouro-direto-hoje-taxas-prefixado-ipca-pacote-fiscal.ghtml",
    "publicado": "2026-11-19T12:42:14+00:00",
    "tickers": [],
-   "resumo": "As taxas dos títulos do Tesouro Direto abriram o dia com forte alta, em meio à reação negativa dos investidores com a tramitação do pacote fiscal no Congresso e à leitura mais dura da ata do Federal Reserve (Fed, o banco central americano). Mais cedo, na abertura dos negócios, o "
-  },
-  {
-   "fonte": "Suno Noticias",
-   "titulo": "Dividendos da Tegma (TGMA3) serão pagos hoje; confira detalhes",
-   "url": "https://www.suno.com.br/noticias/a-tegma-tgma3-agenda-dividendos-19112026/",
-   "publicado": "2026-11-19T12:15:00+00:00",
-   "tickers": [
-    "TGMA3"
-   ],
-   "resumo": "Dividendos da Tegma (TGMA3) serão pagos hoje; confira detalhesA Tegma (TGMA3) vai pagar dividendos aos seus acionistas nesta quinta-feira. Os dividendos da Tegma que serão pagos hoje (19/11) somam R$ 0,27 por ação. Receberão os dividendos da Tegma os investidores que tinham papéi"
+   "resumo": "A negociação dos títulos do Tesouro Direto tiveram que ser interrompidas nesta quinta-feira (19), em meio à reação negativa dos investidores com a tramitação do pacote fiscal no Congresso e à leitura mais dura da ata do Federal Reserve (Fed, o banco central americano). O pregão f"
   },
   {
    "fonte": "Valor Investe",
-   "titulo": "Ibovespa cai e dólar toca os R$ 5,93 com ajuste fiscal e falas de Lula no foco dos investidores",
+   "titulo": "Dólar salta a R$ 5,93 e Ibovespa fecha em queda com ajuste fiscal e falas de Lula",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/11/19/ibovespa-e-dolar-hoje-19-de-novembro-de-2026.ghtml",
    "publicado": "2026-11-19T12:07:43+00:00",
    "tickers": [],
-   "resumo": "O Ibovespa, principal índice acionário brasileira, opera em queda, após abrir em alta, enquanto o dólar tem mais um dia de forte alta, renovando a máxima em 20 meses, ao encostar nos R$ 5,93. Declarações do presidente Luiz Inácio Lula da Silva reforçarem a aversão a risco com o c"
+   "resumo": "O Ibovespa, principal índice acionário brasileira, encerrou o pregão desta quinta-feira (19) em queda acentuada, enquanto o dólar teve mais um dia de forte alta, renovando a máxima em 20 meses, cotado a R$ 5,93. Declarações do presidente Luiz Inácio Lula da Silva reforçaram a ave"
   },
   {
    "fonte": "Valor Investe",
@@ -373,7 +551,7 @@
    "url": "https://valorinveste.globo.com/mercados/moedas-e-juros/noticia/2026/11/19/dolar-compro-agora-ou-espero-especialistas-dizem-o-que-fazer-neste-momento-de-estresse-com-a-moeda.ghtml",
    "publicado": "2026-11-19T09:10:00+00:00",
    "tickers": [],
-   "resumo": "O dólar começou a semana chegando aos R$ 5,77, com alta de 2,17%. Ontem, a moeda subiu mais 1,50%, fechando aos R$ 5,87, maior cotação desde 15 de abril do ano passado. A alta preocupa quem precisa comprar a moeda, principalmente, com a temporada das férias se aproximando. Para s"
+   "resumo": "O dólar fechou nesta quinta-feira (19) cotado a R$ 5,93, no maior valor desde 8 de abril do ano passado. A alta preocupa quem precisa comprar a moeda, principalmente, com a temporada das férias se aproximando. Para saber se é ou não o momento de comprar, é preciso contextualizar "
   },
   {
    "fonte": "Valor Investe",
@@ -458,16 +636,6 @@
    "resumo": "A disparada do dólar para a casa dos R$ 5,86, o maior patamar desde 15 de abril de 2025, pode aprofundar ainda mais uma divisão que já aparece nos balanços do terceiro trimestre das empresas listadas na B3.\nNo fechamento, o dólar comercial saltou 1,5%, cotado a R$ 5,8667, engatan"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "IFIX recua e termina pregão perto da mínima do ano",
-   "url": "https://www.suno.com.br/noticias/ifix-fecha-perto-da-minima-52-semanas/",
-   "publicado": "2026-11-18T21:34:08+00:00",
-   "tickers": [
-    "CACR11"
-   ],
-   "resumo": "IFIX recua e termina pregão perto da mínima do anoO IFIX fechou nesta quarta-feira (18) em queda de 0,87%, aos 3.511,32 pontos, pressionado pelo desempenho negativo de fundos imobiliários como o Cartesia Recebíveis Imobiliários (CACR11), que recuou 6,51% no pregão da B3. O índice"
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Meta suspende ações sem voto que blindariam o controle de Zuckerberg",
    "url": "https://investnews.com.br/negocios/meta-suspende-acoes-sem-voto/",
@@ -544,68 +712,12 @@
    "resumo": "GOLD11 é o 2º ETF com mais cotistas na B3; metal é visto como um seguro da carteira contra incertezas econômicas"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Klabin suspende operações em fábrica de SC após ocorrência em caldeira; 10 são hospitalizados",
-   "url": "https://investnews.com.br/negocios/klabin-suspende-operacoes-em-fabrica-de-sc-apos-ocorrencia-em-caldeira-10-sao-hospitalizados/",
-   "publicado": "2026-11-18T18:09:52+00:00",
-   "tickers": [],
-   "resumo": "Dez trabalhadores foram hospitalizados e operações suspensas após incidente em fábrica de papel na unidade de Otacílio Costa (SC)"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Ministro da Fazenda defende equilíbrio entre políticas sociais e trajetória fiscal",
    "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/11/18/ministro-da-fazenda-defende-equilibrio-entre-politicas-sociais-e-trajetoria-fiscal.ghtml",
    "publicado": "2026-11-18T17:48:52+00:00",
    "tickers": [],
    "resumo": "O ministro da Fazenda, Dario Durigan, reforçou que o governo tem a prioridade de conciliar equilíbrio fiscal e a manutenção dos programas sociais durante o 16º Annual CEO Forum, realizado pelo Bradesco BBI nesta quarta-feira (18). “Tem um compromisso de Lula nas eleições de que d"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Da JBS à Anthropic: como fundadores mantêm o controle de empresas após o IPO",
-   "url": "https://investnews.com.br/negocios/de-dodge-a-anthropic-como-fundadores-mantem-o-controle-de-empresas-apos-o-ipo/",
-   "publicado": "2026-11-18T17:12:59+00:00",
-   "tickers": [],
-   "resumo": "Muitas das empresas adotam estruturas de ações de duas classes, nas quais os controladores detêm a maior parte dos papéis com direito a voto"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Base governista assusta investidores com pacote que taxa dividendos, produtos isentos e fortunas",
-   "url": "https://investnews.com.br/investimentos/base-governista-assusta-investidores-com-pacote-que-taxa-dividendos-produtos-isentos-e-fortunas/",
-   "publicado": "2026-11-18T16:59:05+00:00",
-   "tickers": [],
-   "resumo": "Deputados da base do governo enviaram ao Congresso projetos para tributar todo e qualquer dividendo, além de eliminar isenção de produtos de renda fixa"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Ansiedade para jogar GTA VI faz jogadores ‘se mudarem’ para a Nova Zelândia",
-   "url": "https://investnews.com.br/off-work/gta-vi-jogadores-nova-zelandia/",
-   "publicado": "2026-11-18T16:47:02+00:00",
-   "tickers": [],
-   "resumo": "Diferença de fuso horário pode permitir antecipar acesso ao GTA 6 em diferentes regiões do mundo"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Cristina Junqueira conta sobre os primeiros meses do Nu nos EUA",
-   "url": "https://investnews.com.br/videos/cristina-junqueira-conta-sobre-os-primeiros-meses-do-nu-nos-eua/",
-   "publicado": "2026-11-18T16:39:44+00:00",
-   "tickers": [],
-   "resumo": "Cofundadora do Nu explica por que cada cliente americano vale por até 10 no Brasil e os bastidores do acordo com a Mercedes na F1"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Quanto da sua fatura é gordura? A IA responde – e mostra como economizar",
-   "url": "https://investnews.com.br/tecnologia/quanto-da-sua-fatura-e-gordura-a-ia-responde-e-mostra-como-economizar/",
-   "publicado": "2026-11-18T16:38:23+00:00",
-   "tickers": [],
-   "resumo": "GPT caça assinaturas esquecidas, gastos em excesso e projeta quanto você ganha se você investir a diferença. Veja como"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Com Nvidia em crise, Apple vira porto seguro em Wall Street, mas a um preço alto",
-   "url": "https://investnews.com.br/investimentos/nvidia-crise-apple-bolsa-preco/",
-   "publicado": "2026-11-18T16:07:19+00:00",
-   "tickers": [],
-   "resumo": "Em meio à crise da Nvidia e à desconfiança com os gastos bilionários em IA, Apple acumula alta em 2026, mas ações já são negociadas a preços historicamente elevados"
   },
   {
    "fonte": "Valor Investe",
@@ -642,46 +754,6 @@
    "publicado": "2026-11-18T14:39:12+00:00",
    "tickers": [],
    "resumo": "O Goldman Sachs cortou a recomendação para as ações brasileiras de overweight (exposição acima da média) para neutra (market-weight) e retirou o país do posto de preferência na América Latina dentro de sua estratégia global. Agora, a aposta principal do banco na região é o México"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Empresas no regime de lucro presumido têm cenário de aumento relevante de custos em 2027; veja como fica",
-   "url": "https://investnews.com.br/economia/ajuste-fiscal-lucro-presumido-mais-caro-em-2027/",
-   "publicado": "2026-11-18T14:02:26+00:00",
-   "tickers": [],
-   "resumo": "Proposta em tramitação no Congresso pode ampliar a carga tributária de empresas nesse regime, segundo projeções"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Tesouro Direto hoje: prefixados sobem e IPCA+ cai",
-   "url": "https://investnews.com.br/investimentos/tesouro-direto-taxas-rendimento-hoje-inflacao-implicita-18112026/",
-   "publicado": "2026-11-18T14:01:31+00:00",
-   "tickers": [],
-   "resumo": "Títulos de juro fixo avançam três centésimos à espera da votação fiscal no Senado. Confira a tabela completa"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Receita abre código de ferramenta que calcula novos impostos da Reforma Tributária",
-   "url": "https://investnews.com.br/negocios/receita-abre-codigo-de-ferramenta-que-calcula-novos-impostos-da-reforma-tributaria/",
-   "publicado": "2026-11-18T13:58:42+00:00",
-   "tickers": [],
-   "resumo": "Empresas poderão usar o cálculo oficial da Receita para adaptar seus sistemas às novas regras tributárias"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Mubadala negocia entrada em grupo portuário avaliado em R$ 2,7 bilhões",
-   "url": "https://investnews.com.br/negocios/mubadala-negocia-entrada-em-grupo-portuario-avaliado-em-r-27-bilhoes/",
-   "publicado": "2026-11-18T13:26:25+00:00",
-   "tickers": [],
-   "resumo": "Fundo soberano de Abu Dhabi encaminha compra de participação indireta na Rocha Terminais Portuários, que opera em seis estados"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Banco Digimais recebe aporte de R$ 1,7 bilhão do controlador Edir Macedo",
-   "url": "https://investnews.com.br/negocios/banco-digimais-recebe-aporte-de-r-17-bilhao-do-controlador-edir-macedo/",
-   "publicado": "2026-11-18T13:17:26+00:00",
-   "tickers": [],
-   "resumo": "Banco de Edir Macedo recebeu R$ 1,7 bilhão em aporte, e novo repasse previsto para 2027 elevará o total a R$ 2,07 bilhões"
   },
   {
    "fonte": "Valor Investe",
@@ -777,16 +849,6 @@
    "resumo": "A entrada de BDRs de empresas brasileiras listadas no exterior no Ibovespa pode mudar mais do que os nomes que aparecem na carteira do principal índice da bolsa brasileira. A novidade tende a reduzir a concentração em grandes companhias tradicionais, ampliar a presença de setores"
   },
   {
-   "fonte": "Valor Investe",
-   "titulo": "IPO da Anthropic testa apetite por IA; vale a pena investir?",
-   "url": "https://valorinveste.globo.com/produtos/investimento-no-exterior/noticia/2026/11/18/ipo-da-anthropic-testa-apetite-por-ia-vale-a-pena-investir.ghtml",
-   "publicado": "2026-11-18T09:00:01+00:00",
-   "tickers": [
-    "ANTH34"
-   ],
-   "resumo": "A estreia da Anthropic na bolsa americana, marcada para esta quinta-feira (19), é um dos eventos mais aguardados do ano pelo mercado financeiro global. Além do porte bilionário, a oferta pública inicial (IPO, na sigla em inglês) funcionará como um termômetro para medir se o apeti"
-  },
-  {
    "fonte": "Brazil Journal",
    "titulo": "OPINIÃO. Lula, herdeiro de si mesmo",
    "url": "https://braziljournal.com/opiniao-lula-herdeiro-de-si-mesmo",
@@ -811,55 +873,12 @@
    "resumo": "Lucas Moraes vai correr o Rally Dakar 2027 pela Aston Martin, no mesmo time do bicampeão de F1 Fernando Alonso e de Sébastien Loeb, nove vezes campeão mundial de rali. É a estreia da marca britânica na prova. O brasileiro – que vai atravessar o Saara pela quinta vez em 2027 – che"
   },
   {
-   "fonte": "Valor Investe",
-   "titulo": "Nvidia dobra lucro e receita, supera expectativas, mas saída de CEO preocupa investidores",
-   "url": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/11/17/nvidia-dobra-lucro-e-receita-supera-expectativas-mas-saida-de-ceo-preocupa-investidores.ghtml",
-   "publicado": "2026-11-17T22:03:58+00:00",
-   "tickers": [],
-   "resumo": "A Nvidia divulgou nesta terça-feira (17) resultados acima das expectativas de Wall Street para o terceiro trimestre fiscal, com lucro e receita mais que dobrando em relação ao mesmo período do ano passado. Os números reforçam a força da demanda por chips de inteligência artificia"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Entre acenos e incertezas, mercado espera respostas sobre o pacote de ajuste fiscal",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/11/17/entre-acenos-e-incertezas-mercado-espera-respostas-sobre-o-ajuste-fiscal.ghtml",
-   "publicado": "2026-11-17T21:47:54+00:00",
-   "tickers": [
-    "BBAS3",
-    "BPAC11",
-    "CSAN3",
-    "CURY3",
-    "DIRR3",
-    "HAPV3",
-    "MGLU3",
-    "TEND3"
-   ],
-   "resumo": "O mercado bem que tentou engolir a promessa de responsabilidade fiscal nesta terça-feira (17), mas o gosto amargo da arrecadação voltou rápido. Mesmo com os acenos políticos em Brasília, o dia terminou com as mesmas dúvidas sobre o rumo das contas públicas.\nO balde de água fria v"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "JBS, Nubank, XP e Inter no Ibovespa? Inclusão pode acontecer no próximo ano",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/11/17/jbs-nubank-xp-e-inter-no-ibovespa-inclusao-pode-acontecer-no-proximo-ano.ghtml",
-   "publicado": "2026-11-17T20:08:44+00:00",
-   "tickers": [],
-   "resumo": "O Ibovespa, principal índice da bolsa brasileira, vai abrir espaço para empresas nacionais que têm ações negociadas no exterior. A B3 anunciou nesta terça-feira (17) uma mudança na metodologia do indicador para permitir a inclusão de BDRs (Brazilian Depositary Receipts) de compan"
-  },
-  {
    "fonte": "Brazil Journal",
    "titulo": "Eco Invest, o cartão de visita da política climática brasileira",
    "url": "https://braziljournal.com/eco-invest-o-cartao-de-visita-da-politica-climatica-brasileira",
    "publicado": "2026-11-17T18:52:00+00:00",
    "tickers": [],
    "resumo": "ANTÁLIA, Turquia — Na COP31, o Presidente Lula foi tratado como celebridade internacional, e o embaixador André Corrêa do Lago, que presidiu a COP30 em Belém, era assediado por diplomatas. Agora, para quem é do mercado financeiro e foca na pauta climática, Mário Gouvêa, do Tesour"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Claude na bolsa: B3 lança BDR da Anthropic no mesmo dia da estreia nos EUA",
-   "url": "https://valorinveste.globo.com/produtos/investimento-no-exterior/noticia/2026/11/17/claude-na-bolsa-b3-lanca-bdr-da-anthropic-no-mesmo-dia-da-estreia-nos-eua.ghtml",
-   "publicado": "2026-11-17T17:45:25+00:00",
-   "tickers": [
-    "ANTH34"
-   ],
-   "resumo": "A Anthropic, empresa de inteligência artificial responsável pelo Claude, estreia na bolsa americana nesta quinta-feira (19), e os investidores brasileiros poderão participar desse movimento sem precisar abrir uma conta no exterior. A B3 anunciou nesta terça-feira (17) que lançará"
   },
   {
    "fonte": "Brazil Journal",
@@ -900,22 +919,6 @@
    "publicado": "2026-11-16T17:25:00+00:00",
    "tickers": [],
    "resumo": "A derrocada da ação da Nvidia, depois do escândalo envolvendo seu fundador e CEO Jensen Huang, machucou muita gente – mas os fundos equal-weight se provaram uma ilha de tranquilidade, disse o Wall Street Journal. Do início do ano até 28 de outubro, antes do escândalo da Nvidia vi"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "Jensen Huang e a volta dos que não foram",
-   "url": "https://braziljournal.com/jensen-huang-e-a-volta-dos-que-nao-foram",
-   "publicado": "2026-11-16T17:03:00+00:00",
-   "tickers": [],
-   "resumo": "Jensen Huang quer voltar à Nvidia – e muita gente está apoiando. Segundo o Financial Times, enquanto o executivo conversa com aliados para planejar seu retorno, milhares de funcionários, acionistas e grandes empresários expressam publicamente seu apoio a Jensen e assinam uma cart"
-  },
-  {
-   "fonte": "Brazil Journal",
-   "titulo": "“Seja um benfeitor para alguém.” Warren Buffett e o ROI da bondade",
-   "url": "https://braziljournal.com/seja-um-benfeitor-para-alguem-warren-buffett-e-o-roi-da-bondade",
-   "publicado": "2026-11-16T13:43:00+00:00",
-   "tickers": [],
-   "resumo": "O espírito de Natal chegou mais cedo em Omaha – ou talvez, esteja sempre ali. Warren Buffett acaba de anunciar em uma mensagem de Thanksgiving que irá doar o equivalente a US$ 5,5 bilhões às quatro organizações sem fins lucrativos mantidas por seus filhos Susie, Howard e Peter."
   }
  ]
 }
