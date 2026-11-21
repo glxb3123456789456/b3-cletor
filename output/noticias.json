@@ -3,60 +3,155 @@
  "itens": 105,
  "dados": [
   {
+   "fonte": "Suno Noticias",
+   "titulo": "XPIN11 define cronograma de liquidação e troca por cotas do IVBP11",
+   "url": "https://www.suno.com.br/noticias/xpin11-liquidacao-ivbp11-cotistas-prazo/",
+   "publicado": "2026-11-21T16:00:29+00:00",
+   "tickers": [
+    "IVBP11",
+    "XPIN11"
+   ],
+   "resumo": "XPIN11 define cronograma de liquidação e troca por cotas do IVBP11O XPIN11 (Invista Industrial) comunicou ao mercado, nesta quinta-feira (19), que iniciará a amortização final e a liquidação do fundo a partir de 15 de março de 2027. Pelo plano, os cotistas receberão cotas do IVBP"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Justiça dos EUA aprova acordo de até US$ 7,25 bilhões da Bayer em ações sobre glifosato",
+   "url": "https://investnews.com.br/negocios/acordo-bayer-glifosato-eua-2026/",
+   "publicado": "2026-11-21T15:53:35+00:00",
+   "tickers": [],
+   "resumo": "Acordo cobre ações que associam o herbicida Roundup a casos de linfoma e prevê aportes do grupo alemão por até 21 anos"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Funcionário da Anthropic diz que IA ajudou a resolver problema matemático de 167 anos",
+   "url": "https://www.moneytimes.com.br/funcionario-da-anthropic-diz-que-ia-ajudou-a-resolver-problema-matematico-de-167-anos/",
+   "publicado": "2026-11-21T15:30:00+00:00",
+   "tickers": [],
+   "resumo": "Um matemático da Anthropic afirma ter usado o modelo de inteligência artificial Claude para desenvolver uma prova da hipótese de Riemann, um dos problemas mais famosos e antigos da matemática. A demonstração ainda precisa ser analisada por especialistas independentes, mas pesquis"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Ajuste fiscal: Lula defende Moretti e critica ‘gritaria’ de parte da esquerda e de ‘yuppies da Faria Lima’",
+   "url": "https://www.moneytimes.com.br/ajuste-fiscal-lula-defende-moretti-e-critica-gritaria-de-parte-da-esquerda-e-de-yuppies-da-faria-lima/",
+   "publicado": "2026-11-21T15:11:04+00:00",
+   "tickers": [],
+   "resumo": "O presidente Luiz Inácio Lula da Silva (PT) falou na manhã deste sábado (21) sobre sua proposta de ajuste fiscal, aprovada na última semana pelo Senado e em tramitação ainda na Câmara. Lula defendeu o ministro Bruno Moretti, do Planejamento e Orçamento, e criticou a “gritaria” de"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Tarcísio, mudança no Ibovespa e BB rebaixado: o que bombou na semana no Money Times",
+   "url": "https://www.moneytimes.com.br/tarcisio-mudanca-no-ibovespa-e-bb-rebaixado-o-que-bombou-na-semana-no-money-times/",
+   "publicado": "2026-11-21T14:20:00+00:00",
+   "tickers": [],
+   "resumo": "Em semana mais curta por conta do feriado da Consciência Negra na sexta-feira (20), o Money Times teve entre os seus destaques de leitura duas notícias sobre falas do governador de São Paulo, Tarcísio de Freitas, em evento do BTG Pactual sobre o agronegócio. A primeira foi sobre "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Tudo o que você não soube",
+   "url": "https://www.moneytimes.com.br/tudo-o-que-voce-nao-soube/",
+   "publicado": "2026-11-21T14:00:00+00:00",
+   "tickers": [],
+   "resumo": "O título dessa coluna eu roubei de um livro escrito em 2007 pela já falecida (e genial) Fernanda Young. Nesse livro, a protagonista está no leito de morte do pai contando a ele tudo o que ele não soube ao longo da vida: suas peripécias, seus rancores, suas mágoas e dores. Num mot"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Balanços do 3T26 superam expectativas, mas cenário macro limita reação das ações, diz Citi",
+   "url": "https://www.moneytimes.com.br/balancos-do-3t26-superam-expectativas-mas-cenario-macro-limita-reacao-das-acoes-diz-citi/",
+   "publicado": "2026-11-21T13:36:00+00:00",
+   "tickers": [],
+   "resumo": "A temporada de balanços do terceiro trimestre de 2026 foi positiva para as empresas do Ibovespa, mas não foi suficiente para impulsionar as ações. Segundo relatório do Citi, a execução de margens e o controle de custos ajudaram a compensar a demanda ainda irregular. O cenário mac"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Banco do Brasil (BBAS3): Equipe econômica discute com Lula nomes para substituir Tarciana, diz jornal",
+   "url": "https://www.moneytimes.com.br/banco-do-brasil-bbas3-equipe-economica-discute-com-lula-nomes-para-substituir-tarciana-diz-jornal/",
+   "publicado": "2026-11-21T13:11:48+00:00",
+   "tickers": [
+    "BBAS3"
+   ],
+   "resumo": "Integrantes da equipe econômica do governo Lula começaram a discutir nomes para substituir Tarciana Medeiros na presidência do Banco do Brasil (BBAS3), em meio à deterioração dos resultados financeiros da instituição e à forte desvalorização de suas ações. Segundo informações da "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Juiz dos EUA aprova acordo de US$ 7,25 bi da Bayer sobre herbicida suspeito de causar câncer",
+   "url": "https://www.moneytimes.com.br/juiz-dos-eua-aprova-acordo-de-us-725-bi-da-bayer-sobre-herbicida-suspeito-de-causar-cancer/",
+   "publicado": "2026-11-21T13:02:00+00:00",
+   "tickers": [],
+   "resumo": "Um juiz do Missouri aprovou o acordo de US$ 7,25 bilhões da Bayer para resolver processos que acusam o herbicida Roundup de causar câncer. A decisão pode encerrar quase uma década de litígios que pesam sobre a companhia alemã. O juiz Timothy Boyer, de um tribunal estadual em St. "
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "MBRF avança para o valioso mercado chinês das pedras que se formam na vesícula do boi",
+   "url": "https://investnews.com.br/negocios/mbrf-mercado-pedra-vesicula-boi/",
+   "publicado": "2026-11-21T13:02:00+00:00",
+   "tickers": [],
+   "resumo": "Usados na medicina tradicional chinesa, os cálculos são cotados a R$ 517 mil o quilo. Dona da Sadia pede autorização para vender produto para a China"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "XP: Temporada de balanços do 3T26 é fraca, e cenário macro ofusca resultados",
+   "url": "https://www.moneytimes.com.br/xp-temporada-de-balancos-do-3t26-e-fraca-e-cenario-macro-ofusca-resultados/",
+   "publicado": "2026-11-21T12:49:43+00:00",
+   "tickers": [],
+   "resumo": "A temporada de balanços do terceiro trimestre de 2026 foi fraca, embora os resultados agregados tenham ficado próximos das estimativas, avalia a XP. O principal sinal de alerta veio do Ebitda: apenas 19% das empresas acompanhadas pela corretora superaram as projeções, menor propo"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Trump tenta impedir que big techs construam data centers fora dos EUA",
+   "url": "https://investnews.com.br/negocios/trump-data-centers-big-techs/",
+   "publicado": "2026-11-21T12:06:00+00:00",
+   "tickers": [],
+   "resumo": "Candidatos contrários a data centers venceram nas eleições de meio de mandato, o que preocupa executivos e investidores nos EUA"
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Hapvida (HAPV3) diz que não há decisão concreta sobre venda de ativos após questionamento da CVM",
+   "url": "https://www.moneytimes.com.br/hapvida-hapv3-diz-que-nao-ha-decisao-concreta-sobre-venda-de-ativos-apos-questionamento-da-cvm/",
+   "publicado": "2026-11-21T11:37:50+00:00",
+   "tickers": [
+    "HAPV3"
+   ],
+   "resumo": "A Hapvida (HAPV3) confirmou que está reavaliando seu portfólio de ativos, mas afirmou que não há decisão concreta nem documento vinculante sobre uma eventual venda de negócios mencionados em notícia da imprensa. Em comunicado divulgado na quinta-feira (19), a companhia respondeu "
+  },
+  {
+   "fonte": "Money Times",
+   "titulo": "Banco Master: Presidente do Supremo mantém prisão de Daniel Vorcaro",
+   "url": "https://www.moneytimes.com.br/banco-master-presidente-do-supremo-mantem-prisao-de-daniel-vorcaro/",
+   "publicado": "2026-11-21T11:28:25+00:00",
+   "tickers": [],
+   "resumo": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, decidiu nesta sexta-feira (20) manter a prisão do ex-banqueiro Daniel Vorcaro. Fachin rejeitou pedido de soltura protocolado pela defesa do ex-banqueiro, que está preso desde março deste ano no presídio da Papudinha, n"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "Onde brasileiros mais gastam no exterior? Veja ranking",
+   "url": "https://valorinveste.globo.com/objetivo/gastar-bem/noticia/2026/11/21/onde-brasileiros-mais-gastam-no-exterior-veja-ranking.ghtml",
+   "publicado": "2026-11-21T11:24:07+00:00",
+   "tickers": [],
+   "resumo": "Enquanto os Estados Unidos e os destinos europeus seguem concentrando a maior fatia do orçamento dos viajantes do país, a Argentina assumiu a dianteira no ritmo de expansão das despesas fora do Brasil. Entre julho de 2025 e setembro de 2026, o volume médio mensal gasto por brasil"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Após auge com governo Trump, bitcoin cai ao menor nível em mais de dois anos",
+   "url": "https://investnews.com.br/investimentos/bitcoin-minima-em-dois-anos26/",
+   "publicado": "2026-11-21T11:23:38+00:00",
+   "tickers": [],
+   "resumo": "Criptomoeda chegou a US$ 55.533 e perdeu mais da metade do valor desde o pico de outubro de 2025"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Disney corta milhares de empregos e prevê economizar US$ 3 bilhões até 2029",
+   "url": "https://investnews.com.br/the-wall-street-journal/disney-corta-milhares-de-empregos-e-preve-economizar-us-3-bilhoes-ate-2029/",
+   "publicado": "2026-11-21T09:00:00+00:00",
+   "tickers": [],
+   "resumo": "Cortes fazem parte dos esforços do CEO Josh D’Amaro para tornar a Disney  mais competitiva"
+  },
+  {
    "fonte": "Valor Investe",
    "titulo": "Nvidia derrete quase 14% em meio a investigações nos EUA",
    "url": "https://valorinveste.globo.com/produtos/investimento-no-exterior/noticia/2026/11/20/nvidia-derrete-138percent-em-meio-a-investigacoes-nos-eua.ghtml",
    "publicado": "2026-11-20T23:21:39+00:00",
    "tickers": [],
    "resumo": "As ações da Nvidia fecharam em queda de 13,8% nesta sexta-feira (20), cotadas a US$ 125,84. O movimento marca o sétimo pregão consecutivo de perdas para a fabricante de chips, que já acumula recuo de quase 28% nesse intervalo - e tombo de mais de 47% desde o recorde de fechamento"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Bitcoin (BTC) cai a US$ 57 mil e renova mínima em mais de dois anos; qual o fundo do poço?",
-   "url": "https://www.moneytimes.com.br/bitcoin-btc-cai-a-us-57-mil-e-renova-minima-em-mais-de-dois-anos-qual-o-fundo-do-poco/",
-   "publicado": "2026-11-20T22:27:45+00:00",
-   "tickers": [],
-   "resumo": "O bitcoin (BTC) aprofundou as perdas nesta sexta-feira (20) e chegou a cair para US$ 57.957, renovando o menor patamar em mais de dois anos, em meio a uma forte aversão a risco nos mercados globais. Apesar de amenizar parte das perdas ao longo do dia, a maior criptomoeda do mundo"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Arandu, atinga Reag, aprova resgate compulsório das ações remanescentes e papéis sairão da B3 em 23 de novembro",
-   "url": "https://www.moneytimes.com.br/arandu-atinga-reag-aprova-resgate-compulsorio-das-acoes-remanescentes-e-papeis-sairao-da-b3-em-23-de-novembro/",
-   "publicado": "2026-11-20T22:15:04+00:00",
-   "tickers": [],
-   "resumo": "A Arandu Investimentos, antiga Reag Investimentos, informou nesta quarta-feira (19) que a assembleia geral extraordinária aprovou o resgate compulsório e o posterior cancelamento de todas as 1.364.507 ações ordinárias remanescentes em circulação no mercado, equivalentes a 0,97% d"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Jair Bolsonaro é levado ao hospital após sentir fortes dores abdominais",
-   "url": "https://www.moneytimes.com.br/jair-bolsonaro-e-levado-ao-hospital-apos-sentir-fortes-dores-abdominais/",
-   "publicado": "2026-11-20T21:52:20+00:00",
-   "tickers": [],
-   "resumo": "O ex-presidente Jair Bolsonaro foi levado ao hospital após sentir fortes dores abdominais, afirmou seu filho Carlos Bolsonaro, em uma publicação no X, nesta sexta-feira. &#8220;Meu pai acaba de ir para o hospital novamente após sentir fortes dores abdominais&#8221;, diz o filho d"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Vale, Itaú, Petrobras, Bradesco: como fecharam os ADRs durante o feriado da bolsa",
-   "url": "https://www.moneytimes.com.br/vale-itau-petrobras-bradesco-como-fecharam-os-adrs-em-dia-de-bolsa-fechada/",
-   "publicado": "2026-11-20T21:38:04+00:00",
-   "tickers": [],
-   "resumo": "Enquanto a B3 permaneceu fechada nesta sexta-feira (20) devido ao feriado nacional da Consciência Negra, os recibos de ações brasileiras negociados nos Estados Unidos acompanharam o forte movimento de aversão ao risco que tomou conta dos mercados globais. O principal termômetro d"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Em queda livre: Ibovespa em dólar (EWZ) despenca mais de 3% — e a culpa não é só do governo",
-   "url": "https://www.moneytimes.com.br/em-queda-livre-ibovespa-em-dolar-ewz-despenca-mais-de-3-e-a-culpa-nao-e-so-do-governo/",
-   "publicado": "2026-11-20T21:28:06+00:00",
-   "tickers": [],
-   "resumo": "O iShares MSCI Brazil ETF (EWZ), principal fundo de índice de ações brasileiras negociado nos Estados Unidos (EUA) e conhecido como uma espécie de &#8220;Ibovespa em dólar&#8220;, despencou mais de 3% nesta sexta-feira (20), dia em que os mercados brasileiros permaneceram fechado"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Mercado do urso: Nasdaq tem forte correção e despenca 5%; índice do medo salta até 31% com liquidação de techs",
-   "url": "https://www.moneytimes.com.br/mercado-do-urso-nasdaq-tem-forte-correcao-e-despenca-5-indice-do-medo-salta-ate-31-com-liquidacao-de-techs/",
-   "publicado": "2026-11-20T21:11:50+00:00",
-   "tickers": [],
-   "resumo": "Uma onda de vendas tomou conta de Wall Street nesta sexta-feira (20), aprofundando a correção das bolsas americanas e levando o Nasdaq a uma das piores quedas dos últimos meses, em meio a dúvidas sobre o ritmo dos investimentos em inteligência artificial (IA) e um forte movimento"
   },
   {
    "fonte": "InvestNews",
@@ -75,53 +170,12 @@
    "resumo": "Ações da fabricante de chips chegaram a cair 12% nesta sexta-feira, em meio à crise que levou à saída de Jensen Huang"
   },
   {
-   "fonte": "Money Times",
-   "titulo": "Mais uma bomba? Investigação da SEC dos EUA sobre Nvidia analisa possíveis questões contábeis; ação afunda 11%",
-   "url": "https://www.moneytimes.com.br/investigacao-da-sec-dos-eua-sobre-nvidia-analisa-possiveis-questoes-contabeis-dizem-fontes/",
-   "publicado": "2026-11-20T19:48:10+00:00",
-   "tickers": [],
-   "resumo": "A Comissão de Valores Mobiliários dos EUA (SEC, na sigla em inglês) está investigando as práticas contábeis da Nvidia, afirmaram duas pessoas a par do assunto, acrescentando mais um problema jurídico para a fabricante de chips, já abalada por escândalos. O “Wall Street Journal” n"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Trump dá ‘rasteira’ em agro brasileiro e leva Filipinas; ‘o Brasil vai ajudá-los caso eles tenham guerra com a China?’",
-   "url": "https://www.moneytimes.com.br/trump-filipinas-vinham-comprando-produtos-agro-muito-mais-do-brasil-do-que-dos-eua/",
-   "publicado": "2026-11-20T19:46:00+00:00",
-   "tickers": [],
-   "resumo": "O presidente dos Estados Unidos (EUA), Donald Trump, afirmou que as Filipinas concordaram em comprar 100% dos produtos agrícolas americanos a partir de 1º de janeiro. Durante coletiva de imprensa, Trump citou o Brasil entre os países que atualmente fornecem produtos agrícolas aos"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Small caps: Safra coloca na carteira banco que pode disparar 80% e chegar a R$ 100; confira o portfólio",
-   "url": "https://www.moneytimes.com.br/small-caps-safra-coloca-na-carteira-banco-que-pode-disparar-80-e-chegar-a-r-100-na-carteira-confira/",
-   "publicado": "2026-11-20T19:37:45+00:00",
-   "tickers": [
-    "BEEF3",
-    "BMEB4",
-    "CEAB3",
-    "CYRE3",
-    "GOAU4",
-    "INBR34",
-    "IRBR3",
-    "JSLG3"
-   ],
-   "resumo": "O Banco Safra promoveu uma série de alterações em sua carteira recomendada de small caps para novembro e dezembro. Saíram C&#38;A (CEAB3), JSL (JSLG3), Cyrela (CYRE3) e Banco Inter (INBR34), enquanto passaram a integrar a seleção Banco Mercantil (BMEB4), IRB (IRBR3), Metalúrgica "
-  },
-  {
    "fonte": "InvestNews",
    "titulo": "Trump defende que Jensen Huang peça desculpas e volte ao comando da Nvidia",
    "url": "https://investnews.com.br/negocios/trump-defende-jensen-nvidia/",
    "publicado": "2026-11-20T19:28:30+00:00",
    "tickers": [],
    "resumo": "Conselho da Nvidia sinalizou que não pretende reconduzir o executivo. Trump reafirmou sua preferência por Tim Cook para o cargo"
-  },
-  {
-   "fonte": "Money Times",
-   "titulo": "Trump afirma que apenas chips mais antigos deveriam ser vendidos para China",
-   "url": "https://www.moneytimes.com.br/trump-afirma-que-apenas-chips-mais-antigos-deveriam-ser-vendidos-para-china/",
-   "publicado": "2026-11-20T18:52:14+00:00",
-   "tickers": [],
-   "resumo": "O presidente dos EUA, Donald Trump, afirmou na sexta-feira que os EUA querem que apenas chips mais antigos sejam vendidos à China, acrescentando que seu governo estava discutindo um acordo com a China, sem fornecer mais detalhes. “Queremos apenas chips mais antigos, e não nos imp"
   },
   {
    "fonte": "InvestNews",
@@ -386,14 +440,6 @@
    "resumo": "Marciano Testa – que fundou o Agibank aos 23 anos, em 1999 – está voltando ao comando da companhia, num movimento que busca dar mais agilidade às tomadas de decisão e retomar a cultura de disrupção dentro do banco focado em crédito consignado. Marciano já desempenhava um papel es"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "IFIX recua 0,8% e atinge menor patamar em 52 semanas",
-   "url": "https://www.suno.com.br/noticias/ifix-minima-52-semanas-quinta/",
-   "publicado": "2026-11-19T21:51:27+00:00",
-   "tickers": [],
-   "resumo": "IFIX recua 0,8% e atinge menor patamar em 52 semanasO IFIX fechou o pregão desta quinta-feira (19) em 3.485,06 pontos, com queda de 0,8%, no último pregão da semana antes do feriado da Consciência Negra, nesta sexta-feira (20). Durante a sessão, o índice chegou à mínima de 52 sem"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Nem atuação do BC segura o dólar, que já sobe quase R$ 1 desde a eleição; bolsa cai 19%",
    "url": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/11/19/nem-atuacao-do-bc-segura-o-dolar-que-ja-sobe-quase-r-1-desde-a-eleicao-bolsa-cai-19percent.ghtml",
@@ -534,14 +580,6 @@
    "resumo": "IPO levantou US$ 107,3 bilhões e papéis começaram a ser negociados a US$ 111,50 cada nesta quinta-feira em Nova York"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Trump chama Venezuela de ‘aquisição’ e celebra oferta de energia dos Estados Unidos",
-   "url": "https://investnews.com.br/economia/trump-chama-venezuela-de-aquisicao-e-celebra-oferta-de-energia-dos-estados-unidos/",
-   "publicado": "2026-11-19T15:10:50+00:00",
-   "tickers": [],
-   "resumo": "Trump inclui petróleo da Venezuela na conta energética dos EUA e diz que país é uma 'aquisição' americana"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "Lula: 'Não é o mercado que deseja o controle fiscal, sou eu'",
    "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/11/19/lula-nao-e-o-mercado-que-deseja-o-controle-fiscal-sou-eu.ghtml",
@@ -558,44 +596,12 @@
    "resumo": "ANTÁLIA, Turquia — A COP31 está tentando emplacar uma marca própria: a eletrificação. Diante da dificuldade de se construir consenso sobre como acelerar a redução dos combustíveis fósseis, a presidência da conferência aposta em uma agenda que aparentemente encontra menos resistên"
   },
   {
-   "fonte": "InvestNews",
-   "titulo": "Putin toma negócios na Rússia da dona de Camel e Winston; fabricante de cigarros prevê prejuízo",
-   "url": "https://investnews.com.br/negocios/putin-toma-negocios-da-japan-tobacco-fabricante-de-cigarros-na-russia-e-empresa-espera-prejuizo-bilionario/",
-   "publicado": "2026-11-19T14:40:42+00:00",
-   "tickers": [],
-   "resumo": "Fabricante japonesa de cigarros perdeu o controle de sete subsidiárias na Rússia após decisão de Putin"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Dólar fecha em R$ 5,93 mesmo após intervenção do BC, com risco fiscal ainda no centro das atenções",
-   "url": "https://investnews.com.br/investimentos/dolar-supera-a-marca-r-590/",
-   "publicado": "2026-11-19T14:11:58+00:00",
-   "tickers": [],
-   "resumo": "Moeda americana já acumula alta de mais de 19% desde o segundo turno em 25 de outubro"
-  },
-  {
    "fonte": "Brazil Journal",
    "titulo": "Cybersecurity ou morte",
    "url": "https://braziljournal.com/cybersecurity-ou-morte",
    "publicado": "2026-11-19T14:05:00+00:00",
    "tickers": [],
    "resumo": "Os preocupantes apagões tecnológicos dos últimos dias, que afetaram desde a Microsoft até a National Security Agency dos EUA (NSA), reforçaram a tese de que o mundo nunca precisou tanto de cybersecurity como agora – mas não é de hoje que as ações do setor estão subindo. Os papéis"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Como Milei quer transformar a Argentina em potência do gás com projeto de US$ 24 bilhões",
-   "url": "https://investnews.com.br/economia/como-milei-quer-transformar-a-argentina-em-potencia-do-gas-com-projeto-de-us-24-bilhoes/",
-   "publicado": "2026-11-19T13:56:05+00:00",
-   "tickers": [],
-   "resumo": "Projeto prevê exportações bilionárias de gás, mas depende de financiamento e da confiança dos investidores nas regras do país"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "IPO da Anthropic: investir agora ou esperar? O que vale mais",
-   "url": "https://investnews.com.br/investimentos/ipo-da-anthropic-investir-agora-ou-esperar-o-que-vale-mais/",
-   "publicado": "2026-11-19T13:31:23+00:00",
-   "tickers": [],
-   "resumo": "Analistas enxergam potencial de ganho de até 87% para a ação em 12 meses"
   },
   {
    "fonte": "Valor Investe",
@@ -837,14 +843,6 @@
    "publicado": "2026-11-18T13:15:15+00:00",
    "tickers": [],
    "resumo": "As ações da Take-Two Interactive, dona da Rockstar Games, desenvolvedora do “Grand Theft Auto VI” (GTA 56), subiram mais de 6% em Nova York, com papéis cotados a US$ 216,61, na véspera do lançamento do aguardado jogo.\nAs primeiras críticas para o game, o primeiro na franquia em m"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Tesouro Direto: taxas dos prefixados sobem e dos IPCA+ têm leve queda",
-   "url": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/11/18/tesouro-direto-hoje-18-11-2026.ghtml",
-   "publicado": "2026-11-18T12:37:35+00:00",
-   "tickers": [],
-   "resumo": "As taxas dos títulos do Tesouro Direto operaram em direções opostas nesta quarta-feira (18), em meio à cautela dos investidores com a tramitação do pacote fiscal no Senado. Após o adiamento da votação na sessão de ontem, a expectativa era de que o plenário retome e avance com a a"
   },
   {
    "fonte": "Brazil Journal",
