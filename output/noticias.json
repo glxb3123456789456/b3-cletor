@@ -4,6 +4,40 @@
  "dados": [
   {
    "fonte": "Suno Noticias",
+   "titulo": "Quando a Itaúsa (ITSA4) paga dividendos? Veja próxima data",
+   "url": "https://www.suno.com.br/noticias/itausa-itsa4-holding-dividendos-19-11-26/",
+   "publicado": "2026-11-22T01:00:25+00:00",
+   "tickers": [
+    "ITSA4"
+   ],
+   "resumo": "Quando a Itaúsa (ITSA4) paga dividendos? Veja próxima dataSe você tem ações da Itaúsa (ITSA4), já pode comemorar, pois a próxima remessa de pagamentos da empresa já tem data para cair. O pagamento de dividendos, que acontece de forma trimestral regular, está agendado para janeiro"
+  },
+  {
+   "fonte": "Valor Investe",
+   "titulo": "'Não é o sistema financeiro que vai me ensinar a dirigir o país', diz Lula sobre críticas ao ajuste fiscal",
+   "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/11/21/nao-e-o-sistema-financeiro-que-vai-me-ensinar-a-dirigir-o-pais-diz-lula-sobre-criticas-ao-ajuste-fiscal.ghtml",
+   "publicado": "2026-11-21T21:40:35+00:00",
+   "tickers": [],
+   "resumo": "O presidente Luiz Inácio Lula da Silva rebateu críticas do mercado financeiro ao projeto de lei complementar (PLP) de ajuste fiscal e afirmou que não vai aceitar questionamentos sobre a \"seriedade do governo\". Ao mesmo tempo, disse ficar \"triste\" com a resistência da esquerda à m"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Por que a corrida da IA precisa de alternativas aos chips da TSMC",
+   "url": "https://investnews.com.br/negocios/alternativas-tsmc-mercado-chips/",
+   "publicado": "2026-11-21T20:20:05+00:00",
+   "tickers": [],
+   "resumo": "Intel, Samsung e Rapidus têm projetos para 2027 que podem ampliar a oferta de chips e reduzir a dependência das fábricas de Taiwan"
+  },
+  {
+   "fonte": "InvestNews",
+   "titulo": "Como o Goldman Sachs montou um financiamento de US$ 32 bilhões para os chips da SpaceX",
+   "url": "https://investnews.com.br/negocios/goldman-financiamento-spacex-chips/",
+   "publicado": "2026-11-21T17:12:00+00:00",
+   "tickers": [],
+   "resumo": "A empresa de Elon Musk vai alugar chips da Nvidia por cerca de cinco anos. Os pagamentos vão para os investidores que bancaram a compra"
+  },
+  {
+   "fonte": "Suno Noticias",
    "titulo": "XPIN11 define cronograma de liquidação e troca por cotas do IVBP11",
    "url": "https://www.suno.com.br/noticias/xpin11-liquidacao-ivbp11-cotistas-prazo/",
    "publicado": "2026-11-21T16:00:29+00:00",
@@ -408,16 +442,6 @@
    "resumo": "Dona da Gillette quer poupar US$ 10 bilhões; fábricas têm 52 mil funcionários em 35 países"
   },
   {
-   "fonte": "Suno Noticias",
-   "titulo": "Ibovespa perde 3,53% na semana e dólar dispara; Vale (VALE3) cai pela 8ª vez",
-   "url": "https://www.suno.com.br/noticias/ibovespa-vale-vale3-dolar-fiscal-2/",
-   "publicado": "2026-11-19T22:12:23+00:00",
-   "tickers": [
-    "VALE3"
-   ],
-   "resumo": "Ibovespa perde 3,53% na semana e dólar dispara; Vale (VALE3) cai pela 8ª vezO feriado chegou, mas o Ibovespa não deixou muitos motivos para comemorar. Nesta quinta-feira (19), último pregão da semana, o principal índice da B3 caiu 0,69%, aos 166.376,43 pontos, uma perda de 1.161,"
-  },
-  {
    "fonte": "Valor Investe",
    "titulo": "BDR da Anthropic estreia na B3 com negociação de R$ 460 milhões, o triplo da SpaceX",
    "url": "https://valorinveste.globo.com/objetivo/de-olho-no-mercado/noticia/2026/11/19/bdr-da-anthropic-estreia-na-b3-com-negociacao-de-r-460-milhoes-o-triplo-da-spacex.ghtml",
@@ -562,22 +586,6 @@
     "CPLE3"
    ],
    "resumo": "A Companhia Paranaense de Energia (Copel) aprovou o pagamento de R$ 871 milhões em juros sobre capital próprio.\n\nA primeira parcela, de R$ 500 milhões, ou R$ 0,16 por ação (CPLE3), será paga aos investidores no próximo dia 23 de dezembro.\n\nUma segunda parcela, de R$ 371 milhões, "
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Fortunas dos fundadores da Anthropic chegam a US$ 171 bilhões após IPO",
-   "url": "https://investnews.com.br/negocios/fortunas-dos-fundadores-da-anthropic-chegam-a-us-171-bilhoes-apos-ipo/",
-   "publicado": "2026-11-19T18:12:58+00:00",
-   "tickers": [],
-   "resumo": "O IPO recorde da Anthropic elevou a fortuna combinada de seus sete cofundadores para US$ 171 bilhões, depois que as ações da empresa de inteligência artificial dispararam após sua estreia na bolsa. As ações, precificadas a US$ 83 cada, eram negociadas a US$ 100,74 às 12h30 em Nov"
-  },
-  {
-   "fonte": "InvestNews",
-   "titulo": "Ações da Anthropic sobem 34% após IPO bater recorde. Empresa vale US$ 2 trilhões",
-   "url": "https://investnews.com.br/negocios/acoes-da-anthropic-sobem-34-apos-ipo-bater-recorde-empresa-vale-us-2-trilhoes/",
-   "publicado": "2026-11-19T17:13:20+00:00",
-   "tickers": [],
-   "resumo": "IPO levantou US$ 107,3 bilhões e papéis começaram a ser negociados a US$ 111,50 cada nesta quinta-feira em Nova York"
   },
   {
    "fonte": "Valor Investe",
@@ -835,14 +843,6 @@
    "publicado": "2026-11-18T14:39:12+00:00",
    "tickers": [],
    "resumo": "O Goldman Sachs cortou a recomendação para as ações brasileiras de overweight (exposição acima da média) para neutra (market-weight) e retirou o país do posto de preferência na América Latina dentro de sua estratégia global. Agora, a aposta principal do banco na região é o México"
-  },
-  {
-   "fonte": "Valor Investe",
-   "titulo": "Ações de criadora do ‘GTA 6’ disparam na véspera do lançamento do jogo",
-   "url": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/11/18/acoes-de-criadora-do-gta-6-disparam-na-vespera-do-lancamento-do-jogo.ghtml",
-   "publicado": "2026-11-18T13:15:15+00:00",
-   "tickers": [],
-   "resumo": "As ações da Take-Two Interactive, dona da Rockstar Games, desenvolvedora do “Grand Theft Auto VI” (GTA 56), subiram mais de 6% em Nova York, com papéis cotados a US$ 216,61, na véspera do lançamento do aguardado jogo.\nAs primeiras críticas para o game, o primeiro na franquia em m"
   },
   {
    "fonte": "Brazil Journal",
